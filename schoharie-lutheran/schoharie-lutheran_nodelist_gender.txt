@@ -1,0 +1,581 @@
+id,name,gender,prob
+0,Pieter Ziele,male,0.99
+1,Anatie Ekkerson,male,1
+2,Harman Van Aalstein,male,0.93
+3,Dorothea Van Slyck,female,0.97
+4,Joachim Van Aalstein,male,0.99
+5,Eva Valkenburg,female,0.98
+6,Dirck Hagedoorn,male,0.98
+7,Maria Matthiasse,female,0.98
+8,Pieter Larrowa,male,0.99
+9,Maria Van Aalstein,female,0.98
+10,Jacobus Schoelgraft,male,0.99
+11,Anna Christina Kemmer,female,0.98
+12,Adam Starenberg,male,0.98
+13,Elisabeth Rickert,female,0.98
+14,Maattheus Hilts,,0
+15,Anna Eva Tantelaar,female,0.98
+16,Johannes Becker,male,0.99
+17,Cornelia Siele,female,0.98
+18,Teunis Slingerland,male,1
+19,Elisabeth Van der Zee,female,0.98
+20,Johannes an Indian,male,0.99
+21,Maria an Indian (1),female,0.98
+22,Petrus an Indian,male,0.92
+23,Anna an Indian,female,0.98
+24,Conrad Rickert,male,0.98
+25,Elisabeth Haus,female,0.98
+26,Coenraad Coen,male,1
+27,Margrieta Koning,female,1
+28,Mathias Warner,male,0.99
+29,Anna Parub,female,0.98
+30,Johannes Braun,male,0.99
+31,Maria Elisabeth Vrymayer,female,0.98
+32,Johannes Ekkerson,male,0.99
+33,Maria Borst,female,0.98
+36,Lambert Sternberg,male,0.86
+37,Catharina Feller,female,0.98
+38,Christian Bauch,male,0.99
+39,Adilia Bekker,female,0.96
+40,Friederich Bauch,male,0.96
+41,Magdalena Ekkerson,female,0.98
+42,Adam Vroman,male,0.98
+43,Dina Larrowa,female,0.97
+44,Reyer Bakster,male,0.88
+45,Apollonia Ekkerson,female,0.94
+46,Bartholomeus Vroman,male,0.95
+47,Susanna Brat,female,0.97
+48,Pieter Beckker,male,0.99
+49,Sara Slingerland,female,0.98
+50,Simeon Larrowa,male,0.97
+51,Jannite Van der Volge,female,1
+52,Johan Joost Snell,male,0.99
+53,Maria Cathrina Graft,female,0.98
+54,Ludovicus Rikkert,male,1
+55,Catharian Coenraadse,,0
+56,Markus Rickert,male,1
+57,Niclaas Feeck,male,1
+58,Margrieta Millers,female,1
+59,Jurrie Hous,male,1
+60,Cathrina Eerhart,female,0.98
+61,Willem Bekker,male,0.98
+62,Anna Dorothea York,female,0.98
+63,Barent Vroman,male,1
+64,Engeltie Swart,,0
+65,Jurriaan Timmer,male,0.98
+66,Maria Elisabeth Craus,female,0.98
+67,Hendreck Passagie,male,1
+68,Sophia Magdalena Casselman,female,0.97
+69,Pieter Livingston,male,0.99
+70,Anna Apolonia Oosterman,female,0.98
+71,Storm Becker Jr.,male,0.81
+72,Geerdruid Klein,,0
+73,Niclaas Matheyse,male,1
+74,Elisabeth Cas,female,0.98
+75,Markus Bellinger,male,1
+76,Maria Margerith Zee,female,0.98
+77,Anthony Beckker,male,0.99
+78,Margreet Berninger,female,0.99
+79,Robbert Herres,male,0.98
+80,Niclaas Ekkerson,male,1
+81,Maria Mardalene Horn,female,0.98
+82,Storm Becker,male,0.81
+83,Josias Swart,male,0.97
+84,Jannitie Vroman,,0
+85,Barbara Bellinger,female,0.98
+86,Cornelis Van Aalstein,male,0.95
+87,Dennye Fort,male,1
+88,Robbin Frieman,male,0.9
+89,Molli Van der Lein,female,0.81
+90,Johannes Zee,male,0.99
+91,Anna Catherina Bellinger,female,0.98
+92,Deobald Hils,,0
+93,Anna Eva Nerbel,female,0.98
+94,Henderick Knieskern,male,1
+95,Elisabeth Schaeffer,female,0.98
+96,Hendreck Coenraad,male,1
+97,Anna Maria Staring,female,0.98
+98,Hieronymus Heszoog,male,1
+99,Anna Margaritha Winther,female,0.98
+100,John Marte Borst,male,0.99
+101,Catharina Mathyse,female,0.98
+102,Jurrie Zimmer,male,1
+103,James Schilkragt,male,0.99
+104,Lodewyck Wanner,male,1
+105,Anna Margareth Coen,female,0.98
+106,Jochim Falckenberg,male,1
+107,Helena Warnar,female,0.99
+108,Michel Frederick,male,0.97
+109,Gertraud Livingston,female,0.97
+110,Hendrick Scheffer,male,0.97
+111,Anna Maria Schäfer,female,0.98
+112,Anna Maria Scherg,female,0.98
+113,Johan Niclaas Matheese,male,0.99
+114,Jacob Merckel,male,0.99
+115,Anna Maria Merckel,female,0.98
+116,Niclaas Miller,male,1
+117,Mary Dorotha,female,0.99
+118,Jurrie Coen,male,1
+119,Anna Rosina,female,0.98
+120,David Ziele,male,0.99
+121,Engeltie Vroman,,0
+122,Peter Sneider,male,0.99
+123,Elisa Cathrin Brucker,female,0.99
+124,Adam Braun,male,0.98
+125,Eva Vrymeyer,female,0.98
+126,Johan Andries Heering,male,0.99
+127,Eva Catharin Heering,female,0.98
+128,Seth an Indian,male,0.98
+129,Catharina an Indian,female,0.98
+130,John Georgie an Indian,male,0.99
+131,Susanna an Indian,female,0.97
+132,John Hendrick Loux,male,0.99
+133,Anna Elisabeth Loux,female,0.98
+134,Peter Mann,male,0.99
+135,Anna Margareth Mann,female,0.98
+136,John Rudolf Achenbach,male,0.99
+137,Elisa Catharin Ackebach,female,0.99
+138,Johannes Lourens Neubergh,male,0.99
+139,Elisabeth Warner,female,0.98
+140,Jans Jurria an Indian,male,0.71
+141,Anna Margaretha Berninger,female,0.98
+144,Malli Frieman,female,0.55
+145,Lammert Van Aalstyn,male,0.98
+146,Beckki Van Aalstyn,female,1
+147,Margarith Feeck,,0
+148,Henrick Hauch,male,0.99
+149,Anna Fronica,female,0.98
+150,Hannes Weidman,male,0.99
+151,Anna Weidman,female,0.98
+152,Godvried Knieskern,,0
+153,Anna Margareth Knieskern,female,0.98
+154,Michael Sultsberger,male,0.99
+155,Margareth Siek,female,0.99
+156,Thomas Ekkerson,male,0.99
+157,Margaritie Slingerland,,0
+158,Johannes Ingolt,male,0.99
+159,Anna Margaretha Ingold,female,0.98
+160,Jonathan Hoogdeele,male,0.99
+161,Neeltie Van der Volge,female,1
+162,Harman Sidnig,male,0.93
+163,Maria Catharina,female,0.98
+164,Conrad Freymauer,male,0.98
+165,Anna Maria Freymauer,female,0.98
+166,George Coen,male,0.98
+167,Michel Wanner,male,0.97
+168,Anna Elisabeth,female,0.98
+169,Rudolpf Ackenbach,male,1
+170,Elisa Catharina,female,0.99
+171,Andres Muller,male,0.98
+172,Martia Dorothea,female,0.87
+173,Jacob Enters,male,0.99
+174,Anna Maria,female,0.98
+175,Johan Anthon Engel,male,0.99
+176,Juliana Engel,female,0.98
+177,Barend Kayser,male,0.99
+178,Maria Barbara Keiser,female,0.98
+179,Robin Harrison,male,0.93
+180,Elisabeth Harrison,female,0.98
+181,Theunis Ekkerson,male,0.92
+182,Anna Margareth,female,0.98
+183,Friederich Carl Schell,male,0.96
+184,Maria Barbara Schell,female,0.98
+185,Niclaas Loam,male,1
+186,Susanna Margaretha Lahm,female,0.97
+187,Catharina Schert,female,0.98
+188,Gurrie Seibel,male,1
+189,Anna Maria Reyin,female,0.98
+190,Hendrick Merki,male,0.97
+191,Frina Bucher,female,0.91
+192,Henrich Kniskern,male,0.97
+193,Elisabeth Kniskern,female,0.98
+194,Maria Barbara Werner,female,0.98
+195,Catharina Sternberg,female,0.98
+196,Peter Löwenstein,male,0.99
+197,Anna Abelena Löwenstein,female,0.98
+198,Johan Friederich Bauch,male,0.99
+199,Magdalena Bauch,female,0.98
+200,Johannes Balthasar Borst,male,0.99
+201,Jurgen Henrich Stubrach,male,0.99
+202,Maria Margareth,female,0.98
+203,Johan Wilhelm Bauch,male,0.99
+204,Anna Elisabeth Bauch,female,0.98
+205,Johannes Nicolaus Lahm,male,0.99
+206,Johannes Bauch,male,0.99
+207,Rudolph Affenbach,male,0.98
+208,Johannes Schäfer Jr,male,0.99
+209,Anna Gerdraut Schäfer,female,0.98
+210,Jacob Sternberg,male,0.99
+211,Eva Sternberg,female,0.98
+212,Christina Elisabet Bauch,female,0.98
+213,Hieronymus Kräusler,male,1
+214,Susanna Magdalena Falckenburg,female,0.97
+215,Johan Nicolas Becker,male,0.99
+216,Elisabeth Becker,female,0.98
+217,Peter N. Sommer,male,0.99
+218,Maria Sommer,female,0.98
+219,Abelona Lowenstein,,0
+220,Peter Mesi Froman,male,0.99
+221,Anna Barbara,female,0.98
+222,Johannes Casselman,male,0.99
+223,Maria Eva,female,0.98
+224,Johan Michel Brand,male,0.99
+225,Jürgen Förster,male,0.99
+226,Jost Werner,male,0.9
+227,Michel Brand,male,0.97
+228,Barbara Warner,female,0.98
+229,Adam Schäfer,male,0.98
+230,Maria Magdalena,female,0.98
+231,Jacob Veeg,male,0.99
+232,Sebastian Becker,male,0.99
+233,Anna Eva,female,0.98
+234,Michel Borst,male,0.97
+235,Adam Zee,male,0.98
+236,Anna Maria Bellinger,female,0.98
+237,Michel Hilsinger,male,0.97
+238,Jacob an Indian (1),male,0.99
+239,Maria an Indian (2),female,0.98
+240,Conrad Quand,male,0.98
+243,Sebastian Franz,male,0.99
+244,Tobias Haün,male,1
+245,Maria Elisabeth,female,0.98
+246,Paul Brandner,male,0.99
+249,Tinus an Indian,male,0.89
+250,Nelje an Indian,female,1
+254,Henrich Matthes,male,0.97
+257,Jacob Ball,male,0.99
+258,Seth Vroman,male,0.98
+259,Samuel Hagedoorn,male,0.99
+260,Isaak Van Aalstein,male,0.98
+261,Joost Bellinger,male,0.99
+262,Jurriaan Sibel,male,0.98
+263,Cornelius Sixbury,male,0.98
+264,Storm Vander Zee,male,0.81
+265,William Fox,male,0.99
+266,Henerich Falckenburg,,0
+267,Jacobus Falckenburg,male,0.99
+268,Johann Michael Freymeyer,male,0.99
+270,Martinus Van Aalstein,male,0.99
+271,Coenraad Haus,male,1
+272,Fredrik Bekker,male,0.99
+273,Jonas Larrowa,male,0.99
+274,Robbert Frieman,male,0.98
+275,Isaack Faalck,male,0.98
+276,Johannes Vedder,male,0.99
+277,Pieter Vroman,male,0.99
+278,Timotheus Vroman,male,1
+279,Jacob Borst Jr,male,0.99
+280,Johannes Frederik,male,0.99
+281,Cornelis Vroman,male,0.95
+282,Niclaas Yorck,male,1
+283,Hendreck Mathyse,male,1
+284,Lambert Starenberg,male,0.86
+285,Hendrick Bellinger,male,0.97
+286,John Larrowa,male,0.99
+287,Harme Haus,male,0.93
+288,Johannes Becker Jr.,male,0.99
+289,Abraham Berg,male,0.98
+290,Thenis Van der Volge,male,0.67
+291,John Jurrie Ekkerson,male,0.99
+292,Marthynes Vrooman,,0
+293,Martins Rickert,male,0.88
+294,Conrad Freimauer,male,0.98
+295,Ephraim Bradt,male,0.98
+296,Christeyaam Scheffer,,0
+297,John Wilhelm Kemmer,male,0.99
+298,Adam Swart,male,0.98
+299,Michael Vrymayer,male,0.99
+300,Jerri Sybel,male,0.63
+301,Johannes Schäfer,male,0.99
+302,Jacob Sneider,male,0.99
+303,Abram Van Aalsytn,male,0.96
+304,John Michael Wanner,male,0.99
+305,Harman Valkenburgh,male,0.93
+306,Johan Philip Fux,male,0.99
+307,Johannes Beckker Sr.,male,0.99
+308,Willem Bartram Enters,male,0.98
+309,Johannes Lawyer Sr,male,0.99
+310,Willem Bauck,male,0.98
+311,Johannes Finck,male,0.99
+312,Joost Knieskern,male,0.99
+313,Hans Jurrie an Indian,male,0.97
+317,Pieter Bratd,male,0.99
+318,Diderick Jokkob,male,1
+319,Hannes Bauch,male,0.99
+320,Pieter Midler,male,0.99
+321,Johan Lips Berg,male,0.99
+322,John Peter Vischer,male,0.99
+325,Andries Waard,male,0.89
+326,John Niclaas Beckker,male,0.99
+327,Hamran Van der Zee,male,1
+328,Joseph Dance,male,0.99
+329,Johannes Bal,male,0.99
+330,Jacob Freidrich Lawyer,male,0.99
+331,Johannes Knieskern,male,0.99
+332,Pellis Warreson,male,1
+333,Hendrick Stuprach,male,0.97
+334,Matthes Bowman,male,0.98
+335,John Lawyer Jr.,male,0.99
+336,Jacob Mentes,male,0.99
+337,Jacob Zimmer,male,0.99
+338,John Philips Bergh,male,0.99
+339,Joerge Henderick,male,1
+340,Willem Dietz,male,0.98
+341,Michael Francken,male,0.99
+342,Hannis Lawyer Jr.,female,0.54
+343,Gotfried Kniskern,male,1
+344,Elisabeth --gern,female,0.98
+345,Peter Kniskern,male,0.99
+346,Peter Nicolas Sommer,male,0.99
+347,Johannes Freymäuer,male,0.99
+348,Christian Bauch Sr.,male,0.99
+349,Johan Peter Kniskern,male,0.99
+350,Anna Dorothea Bauch,female,0.98
+351,Joseph Schneider,male,0.99
+352,Johann Jurgen Werner,male,0.99
+353,Eva Staring,female,0.98
+354,Jost Kniskern,male,0.9
+355,Anton Engel,male,0.97
+356,Marten Hook,male,0.98
+357,Asten Schulkraf,male,0.59
+358,Gerdraut Friederichs,,0
+359,Johannes Martin Borst,male,0.99
+360,Jost Borst,male,0.9
+361,Jacob Egert,male,0.99
+362,Christian Bauch Jr.,male,0.99
+363,Henrich Bellinger,male,0.97
+364,Martinus von Alstein,male,0.99
+365,Jacob Friederich Lawyer,male,0.99
+366,Johannes Lawyer Jr,male,0.99
+367,Johan Henrich Mann,male,0.99
+368,Jürgen Werner,male,0.99
+369,Niclas Matthes,male,1
+370,Jurgen Windecker,male,0.99
+371,Ludwig Rickert,male,0.99
+372,Lorentz Lawyer,male,0.85
+373,Jacob Friderich Lawyer,male,0.99
+374,Johan Mickel Becker,male,0.99
+375,Christian Schäfer,male,0.99
+376,Jürgen Seibel,male,0.99
+377,Jellis Worris,male,0.95
+378,Mr Feller,male,0.95
+379,Johan Jacob Häns,male,0.99
+380,Henrich Häns,male,0.97
+381,Matthes Werner,male,0.98
+382,Wilhelm Maters,male,0.98
+383,Johannes Wolfgang Berlet,male,0.99
+384,Peter Jung,male,0.99
+385,Peter Vroman,male,0.99
+386,Johann Peter Kniskern,male,0.99
+387,Johannes Freymauer,male,0.99
+388,Jacob Häns,male,0.99
+389,Johan Jost matthes,male,0.99
+390,Michel Freymäuer,male,0.97
+391,Jürgen Zimmer,male,0.99
+392,Niclas York,male,1
+393,Henrich Schäfer,male,0.97
+394,Philip Berg,male,0.99
+395,Jacob Schäfer,male,0.99
+396,Michel Friemäuer,male,0.97
+397,Johan Balthasar Borst,male,0.99
+398,Martinus Schäfer,male,0.99
+399,Johannes Veeg,male,0.99
+400,Margareta Seibel,female,0.99
+401,Henrich Conrad,male,0.97
+402,Cornelius Vroman,male,0.98
+403,Jürgen Henrich Stubrach,male,0.99
+404,Christian Zee,male,0.99
+405,Johannes Rickert,male,0.99
+406,Marx Rickert,male,0.93
+407,Nickel Matthes,male,0.8
+408,Wilhelm Braun,male,0.98
+409,Jürgen Ricktmeier Jr.,male,0.99
+410,Nickel Sternberg,male,0.8
+411,Johannes Borst,male,0.99
+412,Salomon Meier,male,0.97
+413,Reinhard Häns,male,0.99
+414,Henrich Merki,male,0.97
+415,Maria Kniskern,female,0.98
+416,Adam Kräusler,male,0.98
+417,Jacob Krieshauf,male,0.99
+418,Jacob Shäfer,male,0.99
+419,Mark Rickert,male,0.99
+420,Johan Jost Borst,male,0.99
+421,Christian Bachmann,male,0.99
+422,Christian Schelf,male,0.99
+423,Jürgen Henrich Mann,male,0.99
+425,Stephen Friederich,male,0.99
+426,Johannes Schäfer Jr.,male,0.99
+427,Jost Matthes Jr.,male,0.9
+428,Henrich Schäfer Jr,male,0.97
+429,Jacob Friedrich Lawyer,male,0.99
+430,Johan Christoph Ohle,male,0.99
+431,Jurgen Michel Happolt,male,0.99
+432,Christolph Merckle,,0
+433,Andres Rantzis,male,0.98
+434,Michel Freymauer,male,0.97
+435,Gottlieb Kospott,male,0.98
+436,Johan Michel König,male,0.99
+437,Anthon Widmer,male,0.99
+438,Franz Otto,male,0.97
+441,Michel Merckle,male,0.97
+442,Henrich Frey,male,0.97
+444,Philip Merckel,male,0.99
+446,Henrich Häger,male,0.97
+447,Philip Freymäuer,male,0.99
+449,Johannes Ingold,male,0.99
+450,Caspar Christolph Rettig,male,0.95
+451,Jürgen Huls,male,0.99
+452,Johan Nickel Matthes,male,0.99
+453,Adam Braun Jr.,male,0.98
+454,Leonhard Adam Ramser,male,0.99
+455,Henrich Ball,male,0.97
+456,Eberhard Bürckle,male,0.97
+459,Maria Ziele,female,0.98
+460,Eva Van Aalstein,female,0.98
+461,Derkje Van Sleek,female,1
+462,Elisabeth Teller,female,0.98
+463,Catherina Van Aalstein,female,0.98
+464,Johannes Siever,male,0.99
+465,Elisabeth Savooja,female,0.98
+466,Maria Engel Hils,female,0.98
+467,Annatje Bekker,female,1
+468,Antje Van der Zee,female,0.97
+469,Maria Slingerland,female,0.98
+470,Magrieta Pellinger,female,1
+471,Catharina Bellinger,female,0.98
+473,Corneila Larrowa,female,1
+474,Christina Walraad,female,0.98
+475,Cathrina Zenger,female,0.98
+476,Anna Dorothea,female,0.98
+477,Anatche Uzile,,0
+478,Dina Hagedoorn,female,0.97
+479,Lydia Van Slyck,female,0.98
+480,Maria Fort,female,0.98
+481,Geertje Van Aalstein,female,0.94
+482,Elisabeth Slingerland,female,0.98
+483,Margrieta Viele,female,1
+484,Elisabeth Broekkerzon,female,0.98
+485,Sophia Layers,female,0.97
+486,Maria Catje Snell,female,0.98
+487,Maria Dorothea Warner,female,0.98
+488,Maria Elisabeth Berg,female,0.98
+489,Sofina Mathyse,female,0.95
+490,Barbara Wanner,female,0.98
+491,Marytie Klein,female,1
+492,Sara Van der Volge,female,0.98
+493,Elisa Margareth Winner,female,0.99
+494,Marytie Larrowa,female,1
+495,Elisabeth Lawyer,female,0.98
+496,Engeltie Ziele,,0
+497,Elisabeth Bellinger,female,0.98
+498,Anna Maria Knieskern,female,0.98
+499,Anna Appalonia Warner,female,0.98
+500,Anatie Siele,male,1
+501,Margarith Bauch,,0
+502,Anna Maria Bauch,female,0.98
+503,Cornelia Van der Berg,female,0.98
+504,Dintie Vroman,,0
+505,Anna Maria Zoller,female,0.98
+506,Anna Eva Fux,female,0.98
+507,Geertraud Ekkerson,,0
+508,Elisabeth Sneider,female,0.98
+509,Jannitie Van Aalstyn,,0
+510,Anna Elisabeth Ceonin,female,0.98
+511,Anna Margareeth Beckkers,female,0.98
+512,Apelonia Livingston,female,1
+513,Lise Berbel Coen,female,0.97
+514,Marytie Ziele,female,1
+515,Geertruid Vroman,female,1
+516,Elisa Barbara Coen,female,0.99
+517,Elisabeth Sternberg,female,0.98
+518,Elisa Chatarin Sneider,female,0.99
+519,Ann Elies Berninger,female,0.97
+520,Maria Elisabeth Knieskern,female,0.98
+522,Marytie Scheffer,female,1
+523,Maria Hagedoorn,female,0.98
+524,Elisabeth Vreymeyer,female,0.98
+525,Mary Christina Enters,female,0.99
+526,Margaretha Elisabeth Sneider,female,0.99
+527,Anna Elisabeth Berg,female,0.98
+528,Cornelia Beckker,female,0.98
+529,Catharina Elisabeth Ballin,female,0.98
+530,Mary Catharin Vreymeyer,female,0.99
+531,Elisa Margaret Knieskern,female,0.99
+533,Catharina Seibel,female,0.98
+534,Dorothea Wanner,female,0.97
+535,Eva Van der Zee,female,0.98
+536,John Jacob Zimmer,male,0.99
+537,Angentie Vedder,,0
+538,Anna Rickert,female,0.98
+539,Maria Catherina Ekkerson,female,0.98
+540,Elisabeth Berg,female,0.98
+541,Maria Magdalena Inkhoold,female,0.98
+542,Cornelia Van Aalstyn,female,0.98
+543,Anna Maria Beckker,female,0.98
+544,Eva Starnberger,female,0.98
+545,Maria Barbara Bellinger,female,0.98
+546,Catharina Elisabeth,female,0.98
+547,Maria Margareth Zimmer,female,0.98
+548,Hannes Hagedoorn,male,0.99
+549,Anna Margaretha Kniskern,female,0.98
+550,Dorothea Hüls,female,0.97
+551,Maria Magdalena Ingold,female,0.98
+552,Anna Elisabet Berg,female,0.98
+553,Margaretha Ballen,female,0.99
+554,Catharina Schäfer,female,0.98
+555,Elisabeth Barbara Sternberg,female,0.98
+556,Margareta Contermann,female,0.99
+557,Maria Magdalena Ingoldt,female,0.98
+558,Magdalena Peg,female,0.98
+559,Catharina Kayser,female,0.98
+560,Bartholomaus Osterman,male,1
+561,Catharina Elisabet Ballen,female,0.98
+562,Anna Maria Rickert,female,0.98
+563,Margareth Bellinger,female,0.99
+564,Jost Schäfer,male,0.9
+565,Maria Elisabet Schneider,female,0.98
+566,Johannes Kniskern,male,0.99
+567,Wilhelm Schneider,male,0.98
+568,Margareth Freimäuer,female,0.99
+569,Margareth Freymäuer,female,0.99
+570,Margaretha Braun,female,0.99
+571,Catharina Matthes,female,0.98
+572,Christina Schäfer,female,0.98
+573,Maria Werner,female,0.98
+574,Jürgen Rickert,male,0.99
+575,Catharina Zimmer,female,0.98
+576,Elisabetha Becker,female,1
+577,Sophia Rickert,female,0.97
+578,Elisabet Barbara Sternberg,female,0.98
+579,Catharina Ingold,female,0.98
+580,Eva Richtmeier,female,0.98
+581,Gerdraut Conrad,,0
+582,Maria Veeg,female,0.98
+583,Sophia Ingold,female,0.97
+584,Maria Elisabeth Yorck,female,0.98
+585,Peter Becker,male,0.99
+586,Magdalena Braun,female,0.98
+587,Anna Matthes,female,0.98
+588,Anna Bellinger,female,0.98
+589,Dorothea Seibel,female,0.97
+590,Elisabeth Veeg,female,0.98
+591,Catherina Ingold,female,0.98
+592,Maria Catharina Sommer,female,0.98
+593,Elisabeth Kräusler,female,0.98
+595,Catharina Becker,female,0.98
+597,Margaretha Kayser,female,0.99
+598,Sara Matthes,female,0.98
+599,Catharina Rickert,female,0.98
+600,Elisabeth Schneider,female,0.98
+601,Magrieta Bekker,female,1
+602,Magdalena Bekker,female,0.98
+603,Christiaan Bauch,male,0.99
+604,Joost Mathees,male,0.99
+605,Maria Elisabeth Zimmer,female,0.98
+606,Eva Sternburg,female,0.98
+607,Christian Ernst Ottman,male,0.99
+608,Hendrik Valkenburg,male,0.99
+609,Margaretha Bauch,female,0.99
+610,Johanna Heuk,female,0.97
+611,Isaac an Indian,male,0.98

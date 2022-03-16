@@ -1,0 +1,19 @@
+{
+  "congregation": "detroit-catholic",
+  "start": 1761,
+  "end": 1786,
+  "nodes": 959,
+  "edges": 3658,
+  "gender assortativity": -0.11670536018154462,
+  "community assortativity": 0.6252506147102045,
+  "degree assortativity": 0.06566716685889679,
+  "community count": 19,
+  "average density": 0.00796323588637259,
+  "path length": 3.892,
+  "clustering": 0.663,
+  "female": 445,
+  "male": 420,
+  "male-female": 0.26608026388125344,
+  "male-male": 0.16904892798240792,
+  "female-female": 0.14953271028037382
+}

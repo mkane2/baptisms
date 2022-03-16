@@ -1,0 +1,19 @@
+{
+  "congregation": "rensl-lutheran",
+  "start": 1777,
+  "end": 1782,
+  "nodes": 573,
+  "edges": 1401,
+  "gender assortativity": 0.5203615851427162,
+  "community assortativity": 0.93753723359678,
+  "degree assortativity": 0.02931922343693687,
+  "community count": 19,
+  "average density": 0.008549042580456193,
+  "path length": 7.245,
+  "clustering": 0.772,
+  "female": 261,
+  "male": 278,
+  "male-female": 0.2837259100642398,
+  "male-male": 0.17844396859386152,
+  "female-female": 0.17059243397573162
+}

@@ -1,0 +1,1 @@
+Data for ["The Capacious Sacrament of Necessity: Ethnic and Racial Formation in Early American Baptismal Networks"](https://observablehq.com/@mkane2/baptismal-network-comparison-statistics?collection=@mkane2/baptismal-networks).

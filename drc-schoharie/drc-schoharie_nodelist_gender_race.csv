@@ -1,0 +1,193 @@
+id,name,gender,race
+0,Henrich Kniskern,male,white
+1,Elisabeth Kniskern,female,white
+2,Johannes Ingold,male,white
+3,Anna Margaretha Ingold,female,white
+4,Andreas Besinger,male,white
+5,Maria Elisabeth Besinger,female,white
+6,Matthes Werner,male,white
+7,Maria Barbara Wernern,female,white
+8,Johannes Neuberg,male,white
+9,Elisabeth Neubergen,female,white
+10,Getfried Kniskern,male,white
+11,Anna Margaretha Kniskern,female,white
+12,Johannes Schafer,male,white
+13,Anna Gertraut Schafern,female,white
+14,Jacob Sternberg,male,white
+15,Eva Sternberg,female,white
+16,Gerhard Misselis,male,white
+17,Catharina Misselis,female,white
+18,Adam Braun,male,white
+19,Eva Braun,female,white
+20,Christian Bauch,male,white
+21,Christina Liese Bauchen,female,white
+22,Hieronymus Krausler,male,white
+23,Maria Margareth,female,white
+24,Jurgen Henrich Stubrach,male,white
+25,Johannes Emche,male,white
+26,Elisabet Emche,female,white
+27,Friederich Schnel,male,white
+28,Anna Maria Schnell,female,white
+29,Henrich Dillenbach,male,white
+30,Anna Margaretha Dillenbach,female,white
+31,Johan Wilhelm Casselman,male,white
+32,Margaretha Casselman,female,white
+33,Jacob Merckel,male,white
+34,Anna Maria Merckeln,female,white
+35,Johan Wilhelm Bauch,male,white
+36,Anna Elisabeth Bauchen,female,white
+37,Johannes Nicolaus Lahm,male,white
+38,Susanna Margaretha Lahm,female,white
+39,Johannes Bauch,male,white
+40,Wilhelm Morrasen,male,white
+41,Sara Morrissen,female,white
+42,Jaocb Christmann,male,white
+43,Catharina Christman,female,white
+44,Henrich Eckler,male,white
+45,Margareta Eckler,female,white
+46,James Dillenbach,male,white
+47,Peter Mann,male,white
+48,Anna Margaretha Mann,female,white
+49,Rudolph Affenbach,male,white
+50,Elisabeth Affenbach,female,white
+51,Jochim Falckenburg,male,white
+52,Susanna Magdalena Falckenburg,female,white
+53,Adam Lautz,male,white
+54,Catharina Elisabet Lautz,female,white
+55,Andres Haring,male,white
+56,Eva Catharina,female,white
+57,Anton Engel,male,white
+58,Juliana Engel,female,white
+59,Johan Nicolas Becker,male,white
+60,Elisabeth Beckern,female,white
+61,Aston Schulkraf,male,white
+62,Catharina Schulkraf,female,white
+63,Johan Balthasar Borst,male,white
+64,Maria Borst,female,white
+65,Johannes Braun,male,white
+66,Maria Elisabeth Braun,female,white
+67,Barend Kayser,male,white
+68,Peter Sommer,male,white
+69,Maria Sommern,female,white
+70,Jurgen Saltsman,male,white
+71,Catharina Elisabeth Saltsman,female,white
+72,Gustavus Osterod,male,white
+73,Anna Maria Osterod,female,white
+74,Lambert Sternberg,male,white
+75,Catharina Sternberg,female,white
+76,Peter Lowenstein,male,white
+77,Abelena Lowenstein,female,white
+78,Johan Martin Borst,male,white
+79,Catharina Borst,female,white
+80,Friederich Carl Schell,male,white
+81,Barbara Schell,female,white
+82,Maria Stubrach,female,white
+83,Johan Friecderich Bauch,male,white
+84,Magdalena Bauch,female,white
+85,Peter Mesi Vroman,male,white
+86,Anna Maria Vroman,female,white
+87,Johannes Zahe,male,white
+88,Anna Catharina,female,white
+89,Dewald Teicher,male,white
+90,Cunigunda Teicher,female,white
+91,Johan Andres Hering,male,white
+92,Jacob Friederich Lawyer,male,white
+93,Elisabeth Lawyer,female,white
+94,Jost Kniskern,male,white
+95,Catharina Kniskern,female,white
+96,Johannes Lawyer,male,white
+97,Catharina Lawyer,female,white
+98,Jurgen Werner,male,white
+99,Dorothea Werner,female,white
+100,Anna Barbara,female,white
+101,Johannes Casselman,male,white
+102,Maria Eva,female,white
+103,Johan Michel Brand,male,white
+104,Anna Elisabet,female,white
+105,Johan Jacob Hans,male,white
+106,Anna Hans,female,white
+107,Johan Wolfgang Berlet,male,white
+108,Barbara Berlet,female,white
+109,Jurgen Forster,male,white
+110,Maria Catharina,female,white
+111,Johannes Kniskern,male,white
+112,Sophia Kniskern,female,white
+113,Lorentz Lawyer,male,white
+114,Johannes Freimauer,male,white
+115,Anna Freimauer,female,white
+116,Jost Werner,male,white
+117,Margaretha Werner,female,white
+118,Henrich Hans,male,white
+119,Johan Jurgen Werner,male,white
+120,Henrich Schafer,male,white
+121,Thomas Killy,male,white
+122,Friederich Bauch,male,white
+123,Conrad Rickert,male,white
+124,Severinus Teicher,male,white
+125,Jacob Schultz,male,white
+126,Peter Wagner Jr.,male,white
+127,Johan Peter Kniskern,male,white
+128,Matthes Bauman,male,white
+129,Johan Jacob Fehling,male,white
+130,Peter Jung,male,white
+131,Johan Van Evern,male,white
+132,Jacob Schneider,male,white
+133,Marten Hock,male,white
+134,Sebastian Becker,male,white
+135,Michel Borst,male,white
+136,Jurgen Ressner,male,white
+137,Johan Friderich Hess,male,white
+138,Bartholomaeus Osterman,male,white
+139,Jacob Egert,male,white
+140,Henrich Bellinger,male,white
+141,Jost Schafer,male,white
+142,Martinus Van Alstein,male,white
+143,Adam Schafer,male,white
+144,Johan Henrich Mann,male,white
+145,Niclas Matthes,male,white
+146,Jurgen Windecker,male,white
+147,Ludwig Rickert,male,white
+148,Niclas Fehling,male,white
+149,Jacob Friderich Lawyer,male,white
+150,Christian Schafer,male,white
+151,Jurgen Seibel,male,white
+152,Gellis Worris,male,white
+153,Mr. Feller (from Rhinebeck),male,white
+154,Wilhelm Enters,male,white
+155,Peter Vroman,male,white
+156,Jacob Borst Jr.,male,white
+157,Jacob Veeg,male,white
+158,Jacob Hans,male,white
+159,Elisabeth Lawyerin,female,white
+160,Elisabeth Emche,female,white
+161,Elisabeth ____gern,female,white
+162,Catharina Schafern,female,white
+163,Eva Staring,female,white
+164,Elisabeth Feicher,female,white
+165,Anna Maria Bauchen,female,white
+166,Elisabeath Dillenbach,female,white
+167,Anna Elisabeth Walrath,female,white
+168,Anna Dorothea Bauchen,female,white
+169,Magdalena _____,female,white
+170,Margareth Freimauern,female,white
+171,Jannetje Van Evern,female,white
+172,Margaretha Ballen,female,white
+173,Margaretha Contermann,female,white
+174,Anna Maria Schafern,female,white
+175,Maria Magdalena Ingoldts,female,white
+176,Magdalena Fegen,female,white
+177,Catharina Kayser,female,white
+178,Tuilia Schumacher,female,white
+179,Gerdraut Freiderichs,male,white
+180,Catharina Elisabet Ballen,female,white
+181,Margareth Bellinger,female,white
+182,_____Cramer,unknown,white
+183,Maria Elisabet Schneidern,female,white
+184,Wilhelm Schneider,male,white
+185,Elisabet Schnell,female,white
+186,Old Mrs. Lawyern,female,white
+187,Margaretha Braunen,female,white
+188,Anna Magdalena,female,white
+189,Catharina Conterman,female,white
+190,Jan __ewi,male,white
+191,Magdalena Van Sleik,female,white

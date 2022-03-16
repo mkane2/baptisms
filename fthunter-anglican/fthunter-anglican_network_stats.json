@@ -1,0 +1,19 @@
+{
+  "congregation": "fthunter-anglican",
+  "start": 1734,
+  "end": 1745,
+  "nodes": 756,
+  "edges": 2419,
+  "gender assortativity": 0.21136712849782485,
+  "community assortativity": 0.8829522067348569,
+  "degree assortativity": -0.02929244393952368,
+  "community count": 18,
+  "average density": 0.008476120396650197,
+  "path length": 5.942,
+  "clustering": 0.832,
+  "female": 259,
+  "male": 278,
+  "male-female": 0.14840843323687475,
+  "male-male": 0.166597767672592,
+  "female-female": 0.10872261264985532
+}

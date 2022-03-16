@@ -1,0 +1,19 @@
+{
+  "congregation": "huegenot-nyc",
+  "start": 1688,
+  "end": 1802,
+  "nodes": 1391,
+  "edges": 4253,
+  "gender assortativity": -0.07434459805543432,
+  "community assortativity": 0.7590003809568551,
+  "degree assortativity": 0.017211838148011343,
+  "community count": 20,
+  "average density": 0.00439929867752096,
+  "path length": 4.697,
+  "clustering": 0.679,
+  "female": 690,
+  "male": 528,
+  "male-female": 0.25158711497766284,
+  "male-male": 0.16835175170467906,
+  "female-female": 0.1250881730543146
+}

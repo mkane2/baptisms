@@ -1,0 +1,19 @@
+{
+  "congregation": "drc-albany",
+  "start": 1683,
+  "end": 1724,
+  "nodes": 2960,
+  "edges": 11187,
+  "gender assortativity": -0.1547927978086492,
+  "community assortativity": 0.6263720864433365,
+  "degree assortativity": 0.013022973338992055,
+  "community count": 23,
+  "average density": 0.002554506179041495,
+  "path length": 4.209,
+  "clustering": 0.529,
+  "female": 1438,
+  "male": 1498,
+  "male-female": 0.29063114607545143,
+  "male-male": 0.3025210084033613,
+  "female-female": 0.11165742892901842
+}

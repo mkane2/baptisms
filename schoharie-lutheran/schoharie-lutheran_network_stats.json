@@ -1,0 +1,19 @@
+{
+  "congregation": "schoharie-lutheran",
+  "start": 1731,
+  "end": 1757,
+  "nodes": 580,
+  "edges": 1689,
+  "gender assortativity": -0.08975030626758554,
+  "community assortativity": 0.8000976168749868,
+  "degree assortativity": 0.011424791254746991,
+  "community count": 12,
+  "average density": 0.010058960157227086,
+  "path length": 4.681,
+  "clustering": 0.676,
+  "female": 237,
+  "male": 319,
+  "male-female": 0.2676139727649497,
+  "male-male": 0.2581409117821196,
+  "female-female": 0.13025458851391356
+}

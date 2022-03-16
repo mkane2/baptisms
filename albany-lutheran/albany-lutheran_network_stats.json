@@ -1,0 +1,19 @@
+{
+  "congregation": "albany-lutheran",
+  "start": 1774,
+  "end": 1799,
+  "nodes": 281,
+  "edges": 646,
+  "gender assortativity": 0.6196480388560042,
+  "community assortativity": 0.9451042317494635,
+  "degree assortativity": -0.03241917475074544,
+  "community count": 16,
+  "average density": 0.016420945602440264,
+  "path length": 7.994,
+  "clustering": 0.806,
+  "female": 133,
+  "male": 138,
+  "male-female": 0.29024767801857587,
+  "male-male": 0.18885448916408668,
+  "female-female": 0.16718266253869968
+}
