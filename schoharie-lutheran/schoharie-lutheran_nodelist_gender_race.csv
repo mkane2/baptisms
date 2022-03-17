@@ -1,0 +1,613 @@
+id,name,gender,race
+0,Pieter Ziele,male,white
+1,Anatie Ekkerson,unknown,white
+2,Harman Van Aalstein,unknown,white
+3,Dorothea Van Slyck,female,white
+4,Joachim Van Aalstein,male,white
+5,Eva Valkenburg,female,white
+6,Dirck Hagedoorn,male,white
+7,Maria Matthiasse,female,white
+8,Pieter Larrowa,male,white
+9,Maria Van Aalstein,female,white
+10,Jacobus Schoelgraft,male,white
+11,Anna Christina Kemmer,female,white
+12,Adam Starenberg,male,white
+13,Elisabeth Rickert,female,white
+14,Maattheus Hilts,unknown,white
+15,Anna Eva Tantelaar,female,white
+16,Johannes Becker,male,white
+17,Cornelia Siele,female,white
+18,Teunis Slingerland,male,white
+19,Elisabeth Van der Zee,female,white
+20,Johannes an Indian,male,Native
+21,Maria an Indian (1),female,Native
+22,Petrus an Indian,male,Native
+23,Anna an Indian,female,Native
+24,Conrad Rickert,male,white
+25,Elisabeth Haus,female,white
+26,Coenraad Coen,male,white
+27,Margrieta Koning,female,white
+28,Mathias Warner,male,white
+29,Anna Parub,female,white
+30,Johannes Braun,male,white
+31,Maria Elisabeth Vrymayer,female,white
+32,Johannes Ekkerson,male,white
+33,Maria Borst,female,white
+34,Storm Brat,male,white
+35,Sophia Zyle,female,white
+36,Lambert Sternberg,male,white
+37,Catharina Feller,female,white
+38,Christian Bauch,male,white
+39,Adilia Bekker,female,white
+40,Friederich Bauch,male,white
+41,Magdalena Ekkerson,female,white
+42,Adam Vroman,male,white
+43,Dina Larrowa,female,white
+44,Reyer Bakster,male,white
+45,Apollonia Ekkerson,female,white
+46,Bartholomeus Vroman,male,white
+47,Susanna Brat,female,white
+48,Pieter Beckker,male,white
+49,Sara Slingerland,female,white
+50,Simeon Larrowa,male,white
+51,Jannite Van der Volge,unknown,white
+52,Johan Joost Snell,male,white
+53,Maria Cathrina Graft,female,white
+54,Ludovicus Rikkert,male,white
+55,Catharian Coenraadse,unknown,white
+56,Markus Rickert,male,white
+57,Niclaas Feeck,unknown,white
+58,Margrieta Millers,female,white
+59,Jurrie Hous,unknown,white
+60,Cathrina Eerhart,unknown,white
+61,Willem Bekker,male,white
+62,Anna Dorothea York,female,white
+63,Barent Vroman,male,white
+64,Engeltie Swart,unknown,white
+65,Jurriaan Timmer,male,white
+66,Maria Elisabeth Craus,female,white
+67,Hendreck Passagie,unknown,white
+68,Sophia Magdalena Casselman,female,white
+69,Pieter Livingston,male,white
+70,Anna Apolonia Oosterman,female,white
+71,Storm Becker Jr.,male,white
+72,Geerdruid Klein,unknown,white
+73,Niclaas Matheyse,unknown,white
+74,Elisabeth Cas,female,white
+75,Markus Bellinger,male,white
+76,Maria Margerith Zee,female,white
+77,Anthony Beckker,male,white
+78,Margreet Berninger,female,white
+79,Robbert Herres,male,white
+80,Niclaas Ekkerson,unknown,white
+81,Maria Mardalene Horn,female,white
+82,Storm Becker,male,white
+83,Josias Swart,unknown,white
+84,Jannitie Vroman,unknown,white
+85,Barbara Bellinger,female,white
+86,Cornelis Van Aalstein,male,white
+87,Dennye Fort,unknown,white
+88,Robbin Frieman,female,white
+89,Molli Van der Lein,unknown,white
+90,Johannes Zee,male,white
+91,Anna Catherina Bellinger,female,white
+92,Deobald Hils,unknown,white
+93,Anna Eva Nerbel,female,white
+94,Henderick Knieskern,unknown,white
+95,Elisabeth Schaeffer,female,white
+96,Hendreck Coenraad,unknown,white
+97,Anna Maria Staring,female,white
+98,Hieronymus Heszoog,male,white
+99,Anna Margaritha Winther,female,white
+100,John Marte Borst,male,white
+101,Catharina Mathyse,female,white
+102,Jurrie Zimmer,unknown,white
+103,James Schilkragt,male,white
+104,Lodewyck Wanner,unknown,white
+105,Anna Margareth Coen,female,white
+106,Jochim Falckenberg,male,white
+107,Helena Warnar,female,white
+108,Michel Frederick,male,white
+109,Gertraud Livingston,female,white
+110,Hendrick Scheffer,male,white
+111,Anna Maria Schäfer,female,white
+112,Anna Maria Scherg,female,white
+113,Johan Niclaas Matheese,male,white
+114,Jacob Merckel,male,white
+115,Anna Maria Merckel,female,white
+116,Niclaas Miller,unknown,white
+117,Mary Dorotha,female,white
+118,Jurrie Coen,unknown,white
+119,Anna Rosina,female,white
+120,David Ziele,male,white
+121,Engeltie Vroman,unknown,white
+122,Peter Sneider,male,white
+123,Elisa Cathrin Brucker,female,white
+124,Adam Braun,male,white
+125,Eva Vrymeyer,female,white
+126,Johan Andries Heering,male,white
+127,Eva Catharin Heering,female,white
+128,Seth an Indian,male,Native
+129,Catharina an Indian,female,Native
+130,John Georgie an Indian,male,Native
+131,Susanna an Indian,female,Native
+132,John Hendrick Loux,male,white
+133,Anna Elisabeth Loux,female,white
+134,Peter Mann,male,white
+135,Anna Margareth Mann,female,white
+136,John Rudolf Achenbach,male,white
+137,Elisa Catharin Ackebach,female,white
+138,Johannes Lourens Neubergh,male,white
+139,Elisabeth Warner,female,white
+140,Jans Jurria an Indian,unknown,Native
+141,Anna Margaretha Berninger,female,white
+142,Pieter Ball,male,white
+143,Anna Margareth Ball,female,white
+144,Malli Frieman,unknown,white
+145,Lammert Van Aalstyn,male,white
+146,Beckki Van Aalstyn,unknown,white
+147,Margarith Feeck,unknown,white
+148,Henrick Hauch,male,white
+149,Anna Fronica,female,white
+150,Hannes Weidman,male,white
+151,Anna Weidman,female,white
+152,Godvried Knieskern,unknown,white
+153,Anna Margareth Knieskern,female,white
+154,Michael Sultsberger,male,white
+155,Margareth Siek,female,white
+156,Thomas Ekkerson,male,white
+157,Margaritie Slingerland,unknown,white
+158,Johannes Ingolt,male,white
+159,Anna Margaretha Ingold,female,white
+160,Jonathan Hoogdeele,male,white
+161,Neeltie Van der Volge,female,white
+162,Harman Sidnig,unknown,white
+163,Maria Catharina,female,white
+164,Conrad Freymauer,male,white
+165,Anna Maria Freymauer,female,white
+166,George Coen,male,white
+167,Michel Wanner,male,white
+168,Anna Elisabeth,female,white
+169,Rudolpf Ackenbach,unknown,white
+170,Elisa Catharina,female,white
+171,Andres Muller,male,white
+172,Martia Dorothea,unknown,white
+173,Jacob Enters,male,white
+174,Anna Maria,female,white
+175,Johan Anthon Engel,male,white
+176,Juliana Engel,female,white
+177,Barend Kayser,male,white
+178,Maria Barbara Keiser,female,white
+179,Robin Harrison,male,white
+180,Elisabeth Harrison,female,white
+181,Theunis Ekkerson,male,white
+182,Anna Margareth,female,white
+183,Friederich Carl Schell,male,white
+184,Maria Barbara Schell,female,white
+185,Niclaas Loam,unknown,white
+186,Susanna Margaretha Lahm,female,white
+187,Catharina Schert,female,white
+188,Gurrie Seibel,unknown,white
+189,Anna Maria Reyin,female,white
+190,Hendrick Merki,male,white
+191,Frina Bucher,unknown,white
+192,Henrich Kniskern,male,white
+193,Elisabeth Kniskern,female,white
+194,Maria Barbara Werner,female,white
+195,Catharina Sternberg,female,white
+196,Peter Löwenstein,male,white
+197,Anna Abelena Löwenstein,female,white
+198,Johan Friederich Bauch,male,white
+199,Magdalena Bauch,female,white
+200,Johannes Balthasar Borst,male,white
+201,Jurgen Henrich Stubrach,male,white
+202,Maria Margareth,female,white
+203,Johan Wilhelm Bauch,male,white
+204,Anna Elisabeth Bauch,female,white
+205,Johannes Nicolaus Lahm,male,white
+206,Johannes Bauch,male,white
+207,Rudolph Affenbach,male,white
+208,Johannes Schäfer Jr,male,white
+209,Anna Gerdraut Schäfer,female,white
+210,Jacob Sternberg,male,white
+211,Eva Sternberg,female,white
+212,Christina Elisabet Bauch,female,white
+213,Hieronymus Kräusler,male,white
+214,Susanna Magdalena Falckenburg,female,white
+215,Johan Nicolas Becker,male,white
+216,Elisabeth Becker,female,white
+217,Peter N. Sommer,male,white
+218,Maria Sommer,female,white
+219,Abelona Lowenstein,unknown,white
+220,Peter Mesi Froman,male,white
+221,Anna Barbara,female,white
+222,Johannes Casselman,male,white
+223,Maria Eva,female,white
+224,Johan Michel Brand,male,white
+225,Jürgen Förster,male,white
+226,Jost Werner,male,white
+227,Michel Brand,male,white
+228,Barbara Warner,female,white
+229,Adam Schäfer,male,white
+230,Maria Magdalena,female,white
+231,Jacob Veeg,male,white
+232,Sebastian Becker,male,white
+233,Anna Eva,female,white
+234,Michel Borst,male,white
+235,Adam Zee,male,white
+236,Anna Maria Bellinger,female,white
+237,Michel Hilsinger,male,white
+238,Jacob an Indian (1),male,Native
+239,Maria an Indian (2),female,Native
+240,Conrad Quand,male,white
+241,Christian Schulkraf,male,white
+242,Elisabeth Margareth,female,white
+243,Sebastian Franz,male,white
+244,Tobias Haün,male,white
+245,Maria Elisabeth,female,white
+246,Paul Brandner,male,white
+247,Lorentz Jr. an Indian,male,Native
+248,Sara an Indian,female,Native
+249,Tinus an Indian,male,Native
+250,Nelje an Indian,unknown,Native
+251,Wilhelm Entes,male,white
+252,Joseph an Indian,male,Native
+253,Maria an Indian (4),female,Native
+254,Henrich Matthes,male,white
+255,Jacob an Indian (2),male,Native
+256,Christina an Indian,female,Native
+257,Jacob Ball,male,white
+258,Seth Vroman,male,white
+259,Samuel Hagedoorn,male,white
+260,Isaak Van Aalstein,male,white
+261,Joost Bellinger,male,white
+262,Jurriaan Sibel,male,white
+263,Cornelius Sixbury,male,white
+264,Storm Vander Zee,male,white
+265,William Fox,male,white
+266,Henerich Falckenburg,unknown,white
+267,Jacobus Falckenburg,male,white
+268,Johann Michael Freymeyer,male,white
+269,Johannes Van Sleek,male,white
+270,Martinus Van Aalstein,male,white
+271,Coenraad Haus,male,white
+272,Fredrik Bekker,male,white
+273,Jonas Larrowa,male,white
+274,Robbert Frieman,male,white
+275,Isaack Faalck,unknown,white
+276,Johannes Vedder,male,white
+277,Pieter Vroman,male,white
+278,Timotheus Vroman,male,white
+279,Jacob Borst Jr,male,white
+280,Johannes Frederik,male,white
+281,Cornelis Vroman,male,white
+282,Niclaas Yorck,unknown,white
+283,Hendreck Mathyse,unknown,white
+284,Lambert Starenberg,male,white
+285,Hendrick Bellinger,male,white
+286,John Larrowa,male,white
+287,Harme Haus,unknown,white
+288,Johannes Becker Jr.,male,white
+289,Abraham Berg,male,white
+290,Thenis Van der Volge,unknown,white
+291,John Jurrie Ekkerson,male,white
+292,Marthynes Vrooman,unknown,white
+293,Martins Rickert,unknown,white
+294,Conrad Freimauer,male,white
+295,Ephraim Bradt,male,white
+296,Christeyaam Scheffer,unknown,white
+297,John Wilhelm Kemmer,male,white
+298,Adam Swart,male,white
+299,Michael Vrymayer,male,white
+300,Jerri Sybel,female,white
+301,Johannes Schäfer,male,white
+302,Jacob Sneider,male,white
+303,Abram Van Aalsytn,male,white
+304,John Michael Wanner,male,white
+305,Harman Valkenburgh,unknown,white
+306,Johan Philip Fux,male,white
+307,Johannes Beckker Sr.,male,white
+308,Willem Bartram Enters,male,white
+309,Johannes Lawyer Sr,male,white
+310,Willem Bauck,male,white
+311,Johannes Finck,male,white
+312,Joost Knieskern,male,white
+313,Hans Jurrie an Indian,male,Native
+314,Maria an Indian (3),female,Native
+315,Louzus an Indian,unknown,Native
+316,Juriie Ekkerson,unknown,white
+317,Pieter Bratd,male,white
+318,Diderick Jokkob,unknown,white
+319,Hannes Bauch,male,white
+320,Pieter Midler,male,white
+321,Johan Lips Berg,male,white
+322,John Peter Vischer,male,white
+323,Joseph Bestede,male,white
+324,Hans Jurrie Couterman,male,white
+325,Andries Waard,male,white
+326,John Niclaas Beckker,male,white
+327,Hamran Van der Zee,unknown,white
+328,Joseph Dance,male,white
+329,Johannes Bal,male,white
+330,Jacob Freidrich Lawyer,male,white
+331,Johannes Knieskern,male,white
+332,Pellis Warreson,unknown,white
+333,Hendrick Stuprach,male,white
+334,Matthes Bowman,male,white
+335,John Lawyer Jr.,male,white
+336,Jacob Mentes,male,white
+337,Jacob Zimmer,male,white
+338,John Philips Bergh,male,white
+339,Joerge Henderick,unknown,white
+340,Willem Dietz,male,white
+341,Michael Francken,male,white
+342,Hannis Lawyer Jr.,unknown,white
+343,Gotfried Kniskern,unknown,white
+344,Elisabeth --gern,female,white
+345,Peter Kniskern,male,white
+346,Peter Nicolas Sommer,male,white
+347,Johannes Freymäuer,male,white
+348,Christian Bauch Sr.,male,white
+349,Johan Peter Kniskern,male,white
+350,Anna Dorothea Bauch,female,white
+351,Joseph Schneider,male,white
+352,Johann Jurgen Werner,male,white
+353,Eva Staring,female,white
+354,Jost Kniskern,male,white
+355,Anton Engel,male,white
+356,Marten Hook,male,white
+357,Asten Schulkraf,unknown,white
+358,Gerdraut Friederichs,male,white
+359,Johannes Martin Borst,male,white
+360,Jost Borst,male,white
+361,Jacob Egert,male,white
+362,Christian Bauch Jr.,male,white
+363,Henrich Bellinger,male,white
+364,Martinus von Alstein,male,white
+365,Jacob Friederich Lawyer,male,white
+366,Johannes Lawyer Jr,male,white
+367,Johan Henrich Mann,male,white
+368,Jürgen Werner,male,white
+369,Niclas Matthes,male,white
+370,Jurgen Windecker,male,white
+371,Ludwig Rickert,male,white
+372,Lorentz Lawyer,male,white
+373,Jacob Friderich Lawyer,male,white
+374,Johan Mickel Becker,male,white
+375,Christian Schäfer,male,white
+376,Jürgen Seibel,male,white
+377,Jellis Worris,male,white
+378,Mr Feller,male,white
+379,Johan Jacob Häns,male,white
+380,Henrich Häns,male,white
+381,Matthes Werner,male,white
+382,Wilhelm Maters,male,white
+383,Johannes Wolfgang Berlet,male,white
+384,Peter Jung,male,white
+385,Peter Vroman,male,white
+386,Johann Peter Kniskern,male,white
+387,Johannes Freymauer,male,white
+388,Jacob Häns,male,white
+389,Johan Jost matthes,male,white
+390,Michel Freymäuer,male,white
+391,Jürgen Zimmer,male,white
+392,Niclas York,male,white
+393,Henrich Schäfer,male,white
+394,Philip Berg,male,white
+395,Jacob Schäfer,male,white
+396,Michel Friemäuer,male,white
+397,Johan Balthasar Borst,male,white
+398,Martinus Schäfer,male,white
+399,Johannes Veeg,male,white
+400,Margareta Seibel,female,white
+401,Henrich Conrad,male,white
+402,Cornelius Vroman,male,white
+403,Jürgen Henrich Stubrach,male,white
+404,Christian Zee,male,white
+405,Johannes Rickert,male,white
+406,Marx Rickert,unknown,white
+407,Nickel Matthes,male,white
+408,Wilhelm Braun,male,white
+409,Jürgen Ricktmeier Jr.,male,white
+410,Nickel Sternberg,male,white
+411,Johannes Borst,male,white
+412,Salomon Meier,male,white
+413,Reinhard Häns,male,white
+414,Henrich Merki,male,white
+415,Maria Kniskern,female,white
+416,Adam Kräusler,male,white
+417,Jacob Krieshauf,male,white
+418,Jacob Shäfer,male,white
+419,Mark Rickert,male,white
+420,Johan Jost Borst,male,white
+421,Christian Bachmann,male,white
+422,Christian Schelf,male,white
+423,Jürgen Henrich Mann,male,white
+424,Anton Becker,male,white
+425,Stephen Friederich,male,white
+426,Johannes Schäfer Jr.,male,white
+427,Jost Matthes Jr.,male,white
+428,Henrich Schäfer Jr,male,white
+429,Jacob Friedrich Lawyer,male,white
+430,Johan Christoph Ohle,male,white
+431,Jurgen Michel Happolt,male,white
+432,Christolph Merckle,unknown,white
+433,Andres Rantzis,male,white
+434,Michel Freymauer,male,white
+435,Gottlieb Kospott,male,white
+436,Johan Michel König,male,white
+437,Anthon Widmer,male,white
+438,Franz Otto,male,white
+439,Friederich Schupp,male,white
+440,Johannes Eckert,male,white
+441,Michel Merckle,male,white
+442,Henrich Frey,male,white
+443,Adam Becker,male,white
+444,Philip Merckel,male,white
+445,Lorentz Sr. an Indian,male,Native
+446,Henrich Häger,male,white
+447,Philip Freymäuer,male,white
+448,Johan Jacob Werth,male,white
+449,Johannes Ingold,male,white
+450,Caspar Christolph Rettig,male,white
+451,Jürgen Huls,male,white
+452,Johan Nickel Matthes,male,white
+453,Adam Braun Jr.,male,white
+454,Leonhard Adam Ramser,male,white
+455,Henrich Ball,male,white
+456,Eberhard Bürckle,male,white
+457,Johannes Stürtz,male,white
+458,Richard Baxter,male,white
+459,Maria Ziele,female,white
+460,Eva Van Aalstein,female,white
+461,Derkje Van Sleek,unknown,white
+462,Elisabeth Teller,female,white
+463,Catherina Van Aalstein,female,white
+464,Johannes Siever,male,white
+465,Elisabeth Savooja,female,white
+466,Maria Engel Hils,female,white
+467,Annatje Bekker,unknown,white
+468,Antje Van der Zee,female,white
+469,Maria Slingerland,female,white
+470,Magrieta Pellinger,unknown,white
+471,Catharina Bellinger,female,white
+472,Helena Van Sleek,female,white
+473,Corneila Larrowa,unknown,white
+474,Christina Walraad,female,white
+475,Cathrina Zenger,unknown,white
+476,Anna Dorothea,female,white
+477,Anatche Uzile,unknown,white
+478,Dina Hagedoorn,female,white
+479,Lydia Van Slyck,female,white
+480,Maria Fort,female,white
+481,Geertje Van Aalstein,female,white
+482,Elisabeth Slingerland,female,white
+483,Margrieta Viele,female,white
+484,Elisabeth Broekkerzon,female,white
+485,Sophia Layers,female,white
+486,Maria Catje Snell,female,white
+487,Maria Dorothea Warner,female,white
+488,Maria Elisabeth Berg,female,white
+489,Sofina Mathyse,unknown,white
+490,Barbara Wanner,female,white
+491,Marytie Klein,unknown,white
+492,Sara Van der Volge,female,white
+493,Elisa Margareth Winner,female,white
+494,Marytie Larrowa,unknown,white
+495,Elisabeth Lawyer,female,white
+496,Engeltie Ziele,unknown,white
+497,Elisabeth Bellinger,female,white
+498,Anna Maria Knieskern,female,white
+499,Anna Appalonia Warner,female,white
+500,Anatie Siele,unknown,white
+501,Margarith Bauch,unknown,white
+502,Anna Maria Bauch,female,white
+503,Cornelia Van der Berg,female,white
+504,Dintie Vroman,unknown,white
+505,Anna Maria Zoller,female,white
+506,Anna Eva Fux,female,white
+507,Geertraud Ekkerson,unknown,white
+508,Elisabeth Sneider,female,white
+509,Jannitie Van Aalstyn,unknown,white
+510,Anna Elisabeth Ceonin,female,white
+511,Anna Margareeth Beckkers,female,white
+512,Apelonia Livingston,unknown,white
+513,Lise Berbel Coen,female,white
+514,Marytie Ziele,unknown,white
+515,Geertruid Vroman,unknown,white
+516,Elisa Barbara Coen,female,white
+517,Elisabeth Sternberg,female,white
+518,Elisa Chatarin Sneider,female,white
+519,Ann Elies Berninger,female,white
+520,Maria Elisabeth Knieskern,female,white
+521,Maria Eva Hils,female,white
+522,Marytie Scheffer,unknown,white
+523,Maria Hagedoorn,female,white
+524,Elisabeth Vreymeyer,female,white
+525,Mary Christina Enters,female,white
+526,Margaretha Elisabeth Sneider,female,white
+527,Anna Elisabeth Berg,female,white
+528,Cornelia Beckker,female,white
+529,Catharina Elisabeth Ballin,female,white
+530,Mary Catharin Vreymeyer,female,white
+531,Elisa Margaret Knieskern,female,white
+532,Elisabeth Couterman,female,white
+533,Catharina Seibel,female,white
+534,Dorothea Wanner,female,white
+535,Eva Van der Zee,female,white
+536,John Jacob Zimmer,male,white
+537,Angentie Vedder,unknown,white
+538,Anna Rickert,female,white
+539,Maria Catherina Ekkerson,female,white
+540,Elisabeth Berg,female,white
+541,Maria Magdalena Inkhoold,female,white
+542,Cornelia Van Aalstyn,female,white
+543,Anna Maria Beckker,female,white
+544,Eva Starnberger,female,white
+545,Maria Barbara Bellinger,female,white
+546,Catharina Elisabeth,female,white
+547,Maria Margareth Zimmer,female,white
+548,Hannes Hagedoorn,male,white
+549,Anna Margaretha Kniskern,female,white
+550,Dorothea Hüls,female,white
+551,Maria Magdalena Ingold,female,white
+552,Anna Elisabet Berg,female,white
+553,Margaretha Ballen,female,white
+554,Catharina Schäfer,female,white
+555,Elisabeth Barbara Sternberg,female,white
+556,Margareta Contermann,female,white
+557,Maria Magdalena Ingoldt,female,white
+558,Magdalena Peg,female,white
+559,Catharina Kayser,female,white
+560,Bartholomaus Osterman,unknown,white
+561,Catharina Elisabet Ballen,female,white
+562,Anna Maria Rickert,female,white
+563,Margareth Bellinger,female,white
+564,Jost Schäfer,male,white
+565,Maria Elisabet Schneider,female,white
+566,Johannes Kniskern,male,white
+567,Wilhelm Schneider,male,white
+568,Margareth Freimäuer,female,white
+569,Margareth Freymäuer,female,white
+570,Margaretha Braun,female,white
+571,Catharina Matthes,female,white
+572,Christina Schäfer,female,white
+573,Maria Werner,female,white
+574,Jürgen Rickert,male,white
+575,Catharina Zimmer,female,white
+576,Elisabetha Becker,female,white
+577,Sophia Rickert,female,white
+578,Elisabet Barbara Sternberg,female,white
+579,Catharina Ingold,female,white
+580,Eva Richtmeier,female,white
+581,Gerdraut Conrad,male,white
+582,Maria Veeg,female,white
+583,Sophia Ingold,female,white
+584,Maria Elisabeth Yorck,female,white
+585,Peter Becker,male,white
+586,Magdalena Braun,female,white
+587,Anna Matthes,female,white
+588,Anna Bellinger,female,white
+589,Dorothea Seibel,female,white
+590,Elisabeth Veeg,female,white
+591,Catherina Ingold,female,white
+592,Maria Catharina Sommer,female,white
+593,Elisabeth Kräusler,female,white
+594,Gerdraut Zimmer,male,white
+595,Catharina Becker,female,white
+596,Elisabeth Schulkraf,female,white
+597,Margaretha Kayser,female,white
+598,Sara Matthes,female,white
+599,Catharina Rickert,female,white
+600,Elisabeth Schneider,female,white
+601,Magrieta Bekker,unknown,white
+602,Magdalena Bekker,female,white
+603,Christiaan Bauch,male,white
+604,Joost Mathees,male,white
+605,Maria Elisabeth Zimmer,female,white
+606,Eva Sternburg,female,white
+607,Christian Ernst Ottman,male,white
+608,Hendrik Valkenburg,male,white
+609,Margaretha Bauch,female,white
+610,Johanna Heuk,female,white
+611,Isaac an Indian,male,Native

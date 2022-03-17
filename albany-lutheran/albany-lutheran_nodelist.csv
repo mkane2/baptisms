@@ -1,0 +1,1843 @@
+id,name
+0,Charl Neuman
+1,Wilhelm Zobel
+2,Christina Zobel
+3,Christina Neuman
+4,Johann Leonhard
+5,Cornelia Leonhard
+6,Henrich Neuman
+7,Sara Zigelerin
+8,Martin Comestock
+9,Johannes Horn
+10,Maria Horn
+11,Maria Comestock
+12,James Bruss
+13,Margaretha Bruss
+14,Thomas Low
+15,Charity Low
+16,William Higgins
+17,Margaretha Higgins
+18,Henrich Beusch
+19,Elisabeth Beusch
+20,James Ellet Thomson
+21,Gertrude Thomson
+22,Jacobus Redly
+23,Maria Redly
+24,Thomas Nelson
+25,Catharina Nelson
+26,Thomas Hilton
+27,Anna Hilton
+28,James Anges
+29,Maria Magdalena Agnes
+30,Anthony Wayne
+31,Sarah Wayne
+32,John Gardenier
+33,Maria Hixon
+34,Robert Trewax Negro
+35,Lea Negro
+36,Thomas Rows
+37,Catharina Rows
+38,Johannes Semmel
+39,Eva Semmel
+40,Christopher Beeckmann
+41,Maria Beeckmann
+42,Isaac Orsen
+43,Anna Maria Orsen
+44,David Lenerd
+45,Margaretha Lenerd
+46,Volckert van Vechten
+47,Elisabeth Vechten
+48,Peter Grusbeeck
+49,Alida Grusbeeck
+50,Mordock Mc Ferson
+51,Dorothea Ferson
+52,Jeremia Penniel
+53,Anna Penniel
+54,George Joyce
+55,Abraham Vosberger
+56,Georg Smith
+57,John Ostrander
+58,James Elliot
+59,Peggy Redly
+60,James Mitshel
+61,William Mc Farling
+62,Johannes Mathaeus Horn
+63,Georg Collier
+64,Sarah Hixon
+65,John Jackson Negro
+66,Johann Georg Gayer
+67,Carl Neumann
+68,Gerhard Marselis
+69,William Lodridge
+70,Gerhardus Teunisen van den Bergh
+71,Mattheus Degallmoes
+72,John Stewart
+73,Mary Gibbeson
+74,Judith Low
+75,Elisabeth Linch
+76,Rebecca Elliot
+77,Mary Mc Kinsey
+78,Caty Mc Farling
+79,Charlotta Horn
+80,Martha Collier
+81,Sanna Geyer
+82,Charlotte Horn
+83,Christina Neumann
+84,Dorothea Roler
+85,Anna Lothridge
+86,Maria van den Bergh
+87,Maria Degallmoes
+88,Miss Watson the Midwife
+89,Jane Brs
+90,Maria Creller
+91,Johannes George Rottenauer
+92,Macy Rottenauer
+93,James Watson
+94,Abigail Watson
+95,Willhelm Miller
+96,Christina Miller
+97,Hendrick van Sandt
+98,Catharina van Sandt
+99,Charles Webster
+100,Isabella Watson
+101,James E Thompson
+102,Catharina Sandt
+103,William Fransborg
+104,Christina Fransborg
+105,Abraham Gerreson
+106,Jannetje Gerreson
+107,Matthias Erskin
+108,Ruth Erskin
+109,Tiunius Backen
+110,Maria Backen
+111,Lewis Barrington
+112,Margaretha Barrington
+113,Jonathan Danforth
+114,Judith Danforth
+115,James Thomson
+116,Christian Bratt
+117,Catharina Bratt
+118,William Cartly
+119,Margaretha Cartly
+120,Peter Brooks
+121,Fanny Brooks
+122,Henrich Groberger
+123,Hannah Crowberger
+124,Emanuel Young
+125,Maria Young
+126,Michael Overacker
+127,Maria Overacker
+128,Peter Wiederwachs
+129,Catharina Wiederwachs
+130,Nicolaus Bratt
+131,Anna Barbara Bratt
+132,Casper Hauser
+133,Elisabeth Hauser
+134,Johannes Rauh
+135,Christina Rauh
+136,Catharina Overacker
+137,Isaac Konkling
+138,Christina Konkling
+139,Nathan Wales
+140,Temperance Wales
+141,Andreas Ten Eyk
+142,Sarah Eyk
+143,Salomon Smith
+144,Thamar Smith
+145,John Burnshide
+146,Maria Burnshide
+147,William Warren
+148,Susanna Warren
+149,Geo Joice
+150,Elisabeth Joice
+151,Caesar
+152,Biny Slave of John Duncan
+153,John Duncan
+154,Martha Esqr
+155,Johannes Leither
+156,Elisabeth Leither
+157,Johannes Schneider
+158,Elisabeth Schneider
+159,Johannes v Husen
+160,Maria Husen
+161,Thomas Heslett
+162,Margaretha Heslett
+163,Salomon Scherp
+164,Rachel Scherp
+165,Abraham van Vechten
+166,Catharina Vechten
+167,Johannes Eichelsheimer
+168,Elisabeth Eichelsheimer
+169,Friederick Romer
+170,Nancy Romer
+171,Richard Francisco
+172,Elisabeth Francisco
+173,Morris Merril
+174,Neltje Merril
+175,John Wands
+176,Maria Wands
+177,Joseph Jewel
+178,Anna Jewel
+179,Johannes Walz
+180,Elisabeth Walz
+181,Thomas Seger
+182,Maria Seger
+183,John Rewbuttom
+184,Elisabeth Rewbuttom
+185,John Ashmore
+186,Elisabeth Rothbone
+187,Heinrich Thornberger
+188,Gertrude Thornberger
+189,Henry Haggom
+190,Dina Haggom
+191,James
+192,Elisabeth Mohrin (Slave?)
+193,Abraham de Germo
+194,Maria Germo
+195,Bernhardus Everson
+196,Martina Everson
+197,Peter Doty
+198,Catharina Doty
+199,Samuel Baker
+200,Margaretha Baker
+201,Richard Patrick
+202,Oliva Patrick
+203,Edward Willet
+204,Sarah Willet
+205,Henry Stephens
+206,Elisabeth Stephens
+207,Martin John
+208,Anna John
+209,Johannes Salzberger
+210,Maria Salzberger
+211,Renier van Husen
+212,Engeltje Husen
+213,George Philip Wagner
+214,Hannah Wagner
+215,Johannes Lehmann
+216,Demy Lehmann
+217,Johann Jost Feir
+218,Catharina Feir
+219,Johannes Evertson
+220,Annatje Evertson
+221,Samuel Morei
+222,Margaretha Morei
+223,Renier v de Berg
+224,Elisabeth Berg
+225,William C van Doesen
+226,Rachel Doesen
+227,John Young
+228,Cornelia Young
+229,Peter Schaeffer
+230,Anna Schaeffer
+231,Hendrick van Doesen
+232,Nelly Doesen
+233,William Bromley
+234,Weyntje Bromley
+235,James Dou Levi
+236,Maria Levi
+237,Paulus Dinckelbach
+238,Macy Dinckelbach
+239,Dirk ein Sclave von Mr Dirk Hansen
+240,Volkje Sclavin
+241,Heinrich Muller
+242,Eva Muller
+243,William Abbott
+244,Maria Abbott
+245,Petrus Frolich
+246,Ruth Frolich
+247,Lorenz Mainzer
+248,Elisabeth Mainzer
+249,James Lyons
+250,Dolly Lyons
+251,Johannes Kohl
+252,Penneville Backen
+253,John Irvin
+254,John Wendel
+255,Johannes Growberger
+256,Carl Johannes Toll
+257,George Lauch
+258,Andreas Werner
+259,Johannes Groff
+260,Samuel Batchelor
+261,Andk Senr
+262,George Joice Senr
+263,Johan Ludwig Zeilmann
+264,Jacob Schneider
+265,Collin Gibson Heslett
+266,Francis Ott
+267,Christopher Schneider
+268,Adam Overacker
+269,Friederich Walls
+270,Joseph Johnson
+271,Johannes Schafer
+272,Elisabeth Williams
+273,Mathies de Germo
+274,Martha Hoggin
+275,Doctr Graham
+276,Wendel Overacker
+277,Hannah Erzberger
+278,Henrich Albrecht
+279,Casper Salzberger
+280,John Geo Geyer
+281,Philip Wagner
+282,Jacob Lehmann
+283,Gerhard Hardick
+284,Cornelius Francisco
+285,Philip Hartmann
+286,Meinert van Husen
+287,Samuel Page
+288,Willhelm Komishom
+289,Maria Broml
+290,Diederich Hess
+291,Christian Ottmann
+292,Elisabeth Simson
+293,Lidia Bratt
+294,Martin Frolich
+295,Johannis Mainzer
+296,Aretje Sisco
+297,Dorothea Backen
+298,Maria Irvin
+299,Eva Growberger
+300,Eva van de Berg
+301,Margaretha Lauch
+302,Margaretha Fex
+303,Anna Barbara Overacker
+304,Margaretha Batchelor
+305,Eitje Lagrantie
+306,Martha Duncan
+307,Barbara Bratt
+308,Elenor Heslett
+309,Maria Ott
+310,Catharina Ebert
+311,Cornelia Overacker
+312,Jannetje Walls
+313,John Greenwood
+314,Christina Schafer
+315,Helletje Williams
+316,Rebecca Gardenier
+317,Susanna Everson
+318,Anna Maria Albrecht
+319,Maria Kohl
+320,Catharina Wagner
+321,Margaretha Lehmann
+322,Maria Hardick
+323,Annatje Francisco
+324,Margaretha Growberger
+325,Gertrude Husen
+326,Sanna Page
+327,Agnis Komishom
+328,Maria Hess
+329,Maria Simson
+330,Jochim Bratt
+331,Anna Maria Frolich
+332,Maria Mainzer
+333,Anna May
+334,Joh Schneider
+335,Dirk Hansen
+336,Joseph Britton
+337,Naomy Britton
+338,Jacob J. Schermerhorn
+339,Rachel Schermerhorn
+340,Samuel Walker
+341,Darkes Walker
+342,John Blake
+343,Mary Mc Darmit
+344,Volkert S. Veder
+345,Annatje Veder
+346,Abraham van Tessel
+347,Annatje Tessel
+348,John Crumb
+349,Jenny Crumb
+350,Arthur Haswell
+351,Maria Haswell
+352,Robert Haswell
+353,Sarah Haswell
+354,Peter Dox
+355,Nancy Dox
+356,Johannes Knute
+357,Maria Knute
+358,Jacobus Hogeboom
+359,Lucretia Hogeboom
+360,Hermann Kuhn
+361,Anna Kuhn
+362,Adam Slave of Jacob Schermenhorn
+363,Fiby Slave of Jan van Ale
+364,John Russal
+365,Maria Russal
+366,Leonhard Reisdorf
+367,Jannetje Reisdorf
+368,Alexander Seger
+369,Hendrick Ecker
+370,Margaretha Ecker
+371,Cornelius van Beuren
+372,Catharina Beuren
+373,Peter Catell
+374,Rebecca Catell
+375,Charles Every
+376,Maria Every
+377,Dirk Roseboom
+378,Rhoda Roseboom
+379,Bernhard Ritter
+380,Nancy Ritter
+381,Primus Slave von der Wittwen Wendel
+382,Anna Slave von Abraham Dow
+383,Thomas Wilks
+384,Nancy Wilks
+385,John Fadden
+386,Catharina Fadden
+387,Thomas Slave of Volkert Dow
+388,Elisabeth Slave to John Beekman
+389,Peter Slave to Philip Schuyler
+390,Hanna Slave of Van Vechten
+391,Dick Slave to John van Schaik
+392,Jinney Slave of Judge Yates
+393,Jacob Antony
+394,Eva Antony
+395,Peter Groberger
+396,Anna Elisabeth Growberger
+397,Christoph Ramsey
+398,Debora Ramsey
+399,Hendrick van Aalen
+400,Sarah Aalen
+401,Patrick Agan
+402,Barbara Agan
+403,Carna Heines
+404,Christina Heines
+405,Lymon Hitchcock
+406,Sophia Hitchcock
+407,James Food
+408,Elisabeth Food
+409,Walter van der See
+410,Maria See
+411,John Mc Ellevray
+412,Jannet Ellevray
+413,Willhelm Springsteen
+414,Jacobintje Springsteen
+415,Thomas Haddock
+416,Catharina Haddock
+417,Nicolaus Retz
+418,Elisabeth Retz
+419,John van Antwerpen
+420,Susanna Antwerpen
+421,Seth Arnold
+422,Catharina Arnold
+423,Jeremia Deutscher
+424,Jannetje Deutscher
+425,Elisha Powell
+426,Maria Powell
+427,George Mc Mullen
+428,Ruth Mullen
+429,Nicholas van der Kar
+430,Rachel Kar
+431,John Steven
+432,Phila Steven
+433,George Bolton
+434,Margaretha Bolton
+435,Jacob Stower
+436,Rosina Stower
+437,Gerhardus Quaak
+438,Catharina Quaak
+439,John Cluett
+440,Sarah Cluett
+441,Antony Abraham
+442,Anna Abrahams
+443,Charles Camron
+444,Christina Camron
+445,John Mc Donild
+446,Amelia Donild
+447,Peter Rauh
+448,Elisabeth Rauh
+449,Margaretha Stewart
+450,Johannes Hook
+451,Maria Hook
+452,Daniel Mc Kilvy
+453,Nancy Kilvy
+454,Jorgen Jan Osterhoudt
+455,Lena Osterhoudt
+456,Johannes van de Werke
+457,Catharina Werke
+458,Silas Standia
+459,Maria Standia
+460,William Lloyd
+461,Francisca Lloyd
+462,Thomas Frandisco
+463,John Francisco
+464,Sarah Francisco
+465,Cornelius van der Kook
+466,Maria Kook
+467,Peter Claas
+468,Annatje Claas
+469,Henrich Willhelm Munk
+470,Esther Munk
+471,James Blake
+472,Nancy Blake
+473,Storm Bratt
+474,Annatje Bratt
+475,Christian Le Grantie
+476,Dosia Grantie
+477,William Duncan een Slave van  John Rensselaer
+478,Susanna frey
+479,John Evertsen
+480,Nancy Evertsen
+481,Petrus Plank
+482,Christina Plank
+483,John Swain
+484,Maria Kreisler
+485,John Rosmann
+486,Hannah Rosmann
+487,Michael Winter
+488,Elisabeth Winter
+489,Daniel O'Brian
+490,Sarah Brian
+491,Neil Mc Neil
+492,Rebecca McNeil
+493,John Kiff
+494,Anna Kiff
+495,Reier Schermerhorn
+496,Maria Schermerhorn
+497,Jacob Lagrantie
+498,Herreantje Lagrantie
+499,Christian Friedrich Diefenbach
+500,Diefenbach
+501,Peter O'Bryan
+502,Anna Bryan
+503,Johannes Meissinger
+504,Antje Meissinger
+505,Michael Brandt
+506,Margaretha Brandt
+507,Conrad Hochteling
+508,Gertrude Hochteling
+509,Hendrick Ten Eyk
+510,Jannetje Eyk
+511,Matthias Scheer
+512,Annatje Scheer
+513,Hendrick van Hoesen
+514,Elisabeth Hoesen
+515,Jacob Overacker
+516,Rachel Overacker
+517,Ebert Evertsen
+518,Elisabeth Evertsen
+519,Conrad Hermann
+520,Magdalena Hermann
+521,Isaac Arnold
+522,Elisabeth Arnold
+523,James Hall
+524,Maria Hall
+525,Ebenezer Warns
+526,Maria Warns
+527,Friedrich Rausch
+528,Anna Rausch
+529,Nicolaus Haalenbeek
+530,Maria Haalenbeeck
+531,John Schermenhorn
+532,George Fex
+533,Agnis Mc Darmit
+534,Jacob Lansing
+535,William Bunside
+536,Luis Obrain
+537,Dirk Hoogebome
+538,Jacob Hilderer
+539,Tobias Slave of Hermann Hun
+540,William Johnson
+541,Heinrich Moller
+542,Lorentz Reisdorf
+543,Johannes Land
+544,Abraham Shutter
+545,Christian Ehring
+546,Samuel Bromly
+547,Thomas Slave von Jacob Lansing
+548,William van den Berg
+549,Elisabeth Slave van Johannes Bleiker
+550,Stophel Schneider
+551,Catharina Peiser
+552,Jacob Wiederwachs
+553,Hermanus van Aalen
+554,Hendrick Groberger
+555,Charles Friedrich Londergrun
+556,Gerhard Pick
+557,George Kohlenberg
+558,Anthony Brise
+559,Cloe Lansing Slave v. Peter Lansing
+560,Peter Kuhn
+561,Jorgen Michel
+562,Stephen Freemann
+563,Abraham van de Kar
+564,Wife of John Kiff
+565,Martinus Wiederwachs
+566,John Dox
+567,Nicolaus Michel
+568,James Ferguson
+569,John Ferguson
+570,Patrick
+571,Mater
+572,Stophel Munk
+573,Hendrick Osterhoudt
+574,Peter Slingerland
+575,Albert Slingerland
+576,John Mandeville
+577,Michael Francisco
+578,Susanna Redley
+579,Johannes Hog
+580,James Williamson
+581,Margaretha Zobel
+582,Nicolaus Slingerland
+583,Omi Le Grantie
+584,Thomas Hall een Slave v. Mr. John Renselaer
+585,David Winno
+586,Dirk van Dyk
+587,Friederich Kreisler
+588,George Rosmann
+589,Storm van der See
+590,Georg Nestel
+591,Johannes Brandt
+592,Rudolph Houk
+593,Jacob Volweisen
+594,Jacob Winny
+595,Willhelm Overacker
+596,Rebecca Kunz
+597,Jacob Haalenbeeck
+598,Margaretha Schermenhorn
+599,Catharina Schneider
+600,Maria Lansing
+601,Maria Bunside
+602,Catharina Obrain
+603,Anna Elisabeth Walz
+604,Jemimah Mc Cane
+605,Margaretha Hinderer
+606,Thomas Slave of Jan van Ale
+607,Margaretha Blawer
+608,Juliana Moller
+609,Anna Margaretha Reisdorf
+610,Sarah Land
+611,Maria Fonda
+612,Philis Slave von der Wittwen Wendell
+613,Hannah Berg
+614,Volkert Dow
+615,Christian Peiser
+616,Martha Aalen
+617,Anna Groberger
+618,Margaretha Enax
+619,Margaretha Norton
+620,Sarah Kohlenberg
+621,Catharina Brise
+622,Sarah Johnson
+623,Thomas Lansing Slave v Jacob Lansing
+624,Alida Kuhn
+625,Sarah Michel
+626,Catharina Freemann
+627,Jannetje van de Kar
+628,Elisabeth Wiederwachs
+629,Maria Dox
+630,Anna Barbara Michel
+631,Isabel Ferguson
+632,Sanna Patrick
+633,Neltje Munk
+634,Maria Osterhoudt
+635,Anna Maria Slingerland
+636,Annatje Slingerland
+637,Gesiah Mandeville
+638,Elisabeth Hog
+639,Maria Williamson
+640,Marretje Slingerland
+641,Eitje Grantie
+642,Mercy een Slave v. Mr. Lh
+643,Maria Winno
+644,Elisabeth Dyk
+645,Catharina Kreisler
+646,Lena Rosmann
+647,Nancy Enax
+648,Hester van der See
+649,Margaretha Ehring
+650,Margaretha Nestel
+651,Rachel Houk
+652,Maria van Ness
+653,Maria Volweisen
+654,Sanna Winny
+655,Anna Barbara
+656,Peter Rausch
+657,Jacob Schermenhorn
+658,Charity Right freye
+659,Jan van Ale
+660,Hermann Hun
+661,Abraham Dow
+662,Wittwen Wendel
+663,Johannes Bleeker
+664,John Beekman
+665,Van Vechten
+666,Philip Schuyler
+667,Peter W Yates
+668,John van Schaik
+669,Michael b. 07 Feb 1787
+670,Peter Lansing
+671,John Rensselaer
+672,James Berrier
+673,Johanna Berrier
+674,Bartholomaeus Hogeboom
+675,Maria Hogeboom
+676,Geo Michel
+677,Margaretha Michel
+678,Helmes Frolich
+679,Elisabeth Froelich
+680,Gerhard Staats
+681,Elisabeth Staats
+682,Casparus Kranckheit
+683,Abigail Kranckheit
+684,Susanna Kranckheit
+685,Francis Clerk
+686,Elisabeth Clerk
+687,Stephen Johnson
+688,Rebecca Johnson
+689,John Cammel
+690,Margaretha Cammel
+691,Wenceslaus Hofmann
+692,Hofmann
+693,Peter Eichelsheimer
+694,Christina Eichelsheimer
+695,Nicolaus Janson
+696,Elisabeth Johnson
+697,George Zornberger
+698,Lena Zornberger
+699,Matthias Kehler
+700,Lena Kehler
+701,Peter Stahl
+702,Gertrude Stahl
+703,Friederich Philips
+704,Sophia Philips
+705,John Hildebrand
+706,Jemima Hildebrand
+707,Johannes Ehring
+708,Elisabeth Ehring
+709,Daniel Reiffenberg
+710,Eva Reiffenberg
+711,John Prosser
+712,Sarah Prosser
+713,Christopher Wetzel
+714,Margaretha Wetzel
+715,Abraham van Scheiven
+716,Maria Scheiven
+717,Isaac Denison
+718,Elenor Dennisen
+719,Jacob Springsteen
+720,Rachel Springsteen
+721,Johann Friedr Sohumann
+722,Elisabeth Sohumann
+723,Jeremiah Springsteen
+724,Sarah Springsteen
+725,Jacob Ekely
+726,Hannah Ekely
+727,Robert Gray
+728,Susanna Gayer
+729,Hendrick Buis
+730,Elisabeth Buis
+731,Johann Christian Friedenreich
+732,Eva Fedderle
+733,Assa Haven
+734,Maria Haven
+735,Johannes Plank
+736,Catharina Plank
+737,Henrich Young
+738,Henrich Kautsmann
+739,Christina Kautsmann
+740,Bastian Schmidt
+741,Catharina Schmidt
+742,Adam Keller
+743,Maria Keller
+744,Johannes Loss
+745,Catharina Loss
+746,Johannes Hagadorn
+747,Anna Hagadorn
+748,Willhelm Schmidt
+749,Maria Schmidt
+750,Kilian de Winny
+751,Sarah Winny
+752,Nicolaus Hagemann
+753,Maria Hagemann
+754,Friederich Friedenthal
+755,Catharina Friedenthal
+756,Johannes Bastian
+757,Eva Bastian
+758,Hypoleth Pennet
+759,Fanny Pennet
+760,Cornelius Sandfort
+761,Cornelia Sandfort
+762,Lorenz Trimper
+763,Cataleintje Trimper
+764,Johann Melchert Ochs
+765,Engel Ochs
+766,Edward Connell
+767,Sarah Connell
+768,Isaac Rendell
+769,Hannah Rendell
+770,Charles Johnson
+771,Peter Kreisler
+772,Magdalena Kreisler
+773,Jacob Kunz
+774,Maria Kunz
+775,Philip Spickermann
+776,Catharina Spickermann
+777,Johannes Kehr
+778,Sally Kehr
+779,Jacob Skermenhorn
+780,Rachel Skermenhorn
+781,William Hammilton
+782,Christina Hammilton
+783,Allen Thompson
+784,Caty Thompson
+785,Isaac Parsons
+786,Reny Parsons
+787,Adoniah Cooly
+788,Hannah Cooly
+789,Jonathan Ward
+790,Nancy Ward
+791,Alexander Stoacks
+792,Jane Stoacks
+793,Maria Elisabeth Fex
+794,John Wolf
+795,Maria Wolf
+796,Daniel Reiner
+797,Elisabeth Reiner
+798,Augustinus Jeremias
+799,Nancy Jeremias
+800,Tilial Parker
+801,Maria Parker
+802,George Archer
+803,Molly Archer
+804,Willhelm Geffers
+805,Maria Geffers
+806,Petrus Ostrander
+807,Annatje Ostrander
+808,Jeremias Johnson
+809,Elisabeth Joyce
+810,Andreas Zitzer
+811,Gabriel Esselstyne
+812,Johannes Kilmer
+813,Catharina Kaiser
+814,Johannes Osterhoud
+815,Joachim Staats
+816,Abraham Wimpel
+817,Mattheus Zornberger
+818,Zacharias Kramer
+819,Friederich Kuhnle
+820,John Woodbeck
+821,Cornelius Vromann Junr
+822,Jorgen Lauk
+823,Andreas Diver
+824,John Freyer
+825,Cornelius Kohl
+826,David Kohl
+827,Jerry Springsteen
+828,Philip Vetterly
+829,Jorgen Young
+830,Peter Bassan
+831,Johan Adolf Becker
+832,William Schauer
+833,Andreas Lowe
+834,Petrus Schmidt
+835,Barend Mynert
+836,Johannes van Voast
+837,Cornelia
+838,John Cuyler
+839,Johann Philip Wagner
+840,Daniel Parker
+841,Jacob Schmidt
+842,Johannes Kaus
+843,Cornelius Mc Fahl
+844,Jorgen Schauer
+845,Levy Blasel
+846,Jacob Striebel
+847,Adam Striebel
+848,Matthias Hoffmann
+849,Adam Lones
+850,Joseph Wetzel
+851,Michael Diver
+852,Anthony Hoskins
+853,Maria
+854,John Archer
+855,Martin Hebeisen
+856,John Hood
+857,Lena Miller
+858,Catalintje Esselstyne
+859,Elisabeth Kilmer
+860,Johannes Wetzel
+861,Agnetje Osterhoud
+862,Joseph Kreiner
+863,Maria Zornberger
+864,Rebecca Kramer
+865,Lena Kuhnle
+866,Annatje van den Berg
+867,Magdalena Junr
+868,Anna Kayser
+869,Eva Diver
+870,Nancy Freyer
+871,Sarah Kohl
+872,Debora Bass
+873,Caty van Plank
+874,Sanna Gray
+875,Margaretha Vetterly
+876,Margaretha Neil
+877,Elisabeth Bassan
+878,Maria Becker
+879,Margaretha Schauer
+880,Margaretha Lowe
+881,Jannetje Mynert
+882,Sarah Voast
+883,Anna Cuyler
+884,Elisabeth Parker
+885,Sarah Schmidt
+886,Catharina Kaus
+887,Nancy Fahl
+888,Anna Maria Schauer
+889,Ariantje Blasel
+890,Anna Maria Striebel
+891,Elisabeth Striebel
+892,Anna Maria Hoffmann
+893,Elisabeth Lones
+894,Eva Hoff
+895,Fibia Ditchhout
+896,Judith Archer
+897,Elisabeth Hebeisen
+898,Catharina Enax
+899,Elisabeth Hood
+900,Judith Joyce
+901,Johannes Reiffenberg
+902,Fanny Lloyd
+903,Antony Ostrom
+904,Sarah Ostrom
+905,Christian Arnhout
+906,Sibilla Arnhout
+907,Christian Bonats
+908,Annatje Bonats
+909,Jeremiah Mead
+910,Maria Mead
+911,Benjamin van Koeren
+912,Belletje Koeren
+913,Joseph van Ness
+914,Jannetje Ness
+915,Abraham de Graaf
+916,Christina Graaf
+917,Johannes Schmidt
+918,Neltje Schmidt
+919,Thomas Beebi
+920,Oliva Beebi
+921,Richard Slave to Mr Casparus Bruyn
+922,Rachel Slave to Cornelius Schaluyne
+923,John Mc Pherson
+924,Jane Pherson
+925,Thomas Burnside
+926,Arianya Burnside
+927,James Mcllinch
+928,Jenny Mcllinch
+929,John Vallier
+930,Maria Vallier
+931,John Bancker
+932,Annatje Bancker
+933,Johannes Albrecht
+934,Rosina Albrecht
+935,Polly Yates
+936,Johannes Blent
+937,Louise Blent
+938,Johannes Kantling
+939,Catharina Kantling
+940,Lucas de Witt
+941,Elisabeth Witt
+942,Rachel Schneider
+943,Hendrick Wilsy
+944,Margaretha Wilsy
+945,Salomon Scribner
+946,Lena Scribner
+947,Henrioh Staady
+948,Eva Staady
+949,Thomas Woodholl
+950,Sarah Woodholl
+951,Willhelm Bolton
+952,Eunice Bolton
+953,Abraham Halenbeck
+954,Margaretha Halenbeck
+955,Daniel Wolfarth
+956,Margaretha Wolfarth
+957,Michael Herb
+958,Elisabeth Herb
+959,James Johnson
+960,Molly Johnson
+961,Christopher Raaf
+962,Catharina Raaf
+963,John Osterhout
+964,Lena Osterhout
+965,Ezekiel Tiffany
+966,Margaretha Tiffany
+967,Philip Molter
+968,Catharina Molter
+969,Jan Legrantie
+970,Maria Legrantie
+971,John Gee
+972,Mariamme Gee
+973,Johannes Speier
+974,Margaretha Speier
+975,John Ostrom
+976,Esther Ostrom
+977,Ralph Thomson
+978,Anna Thomson
+979,Johannes Kunnle
+980,Barbara Kunnle
+981,John Sickel
+982,Anna Sickel
+983,Jacob Hetzel
+984,Christina Cupper
+985,Michael Smith
+986,Margaretha Rauh
+987,Johannes Consales
+988,Magdalena Consales
+989,Philip Vreest
+990,Annatje Vreest
+991,Petrus Greber
+992,Margaretha Greber
+993,Nicolaus Klein
+994,Elisabeth Klein
+995,Ebenezer Wands
+996,Peter Horn
+997,Weyntje Horn
+998,Gerrit Bensen  in Caelibatu
+999,Anna Becker
+1000,Peter de Groot
+1001,Catharina Groot
+1002,Abraham Springsteen
+1003,Debora Springsteen
+1004,Cornelius Brauer
+1005,Jemima Brauer
+1006,Michael Henn
+1007,Catharina Henn
+1008,Henrich Hunermund
+1009,Elisabeth Hunermund
+1010,Hugh Barr
+1011,Sarah Barr
+1012,Johan Wally
+1013,Wilhelmus Froelich
+1014,Johannes Knickebacker
+1015,Pompe Slave to John Lansing
+1016,Jorgen Fex
+1017,Abraham Hochteling
+1018,Isaac Vromann
+1019,Wouter Slingerland
+1020,Polly
+1021,Willhelm Haalenbeeck
+1022,Jan van Loon
+1023,Philip Sohneider
+1024,John Kerr
+1025,Nicolaus Staady
+1026,Alexander Stoaks
+1027,Johannes Hochteling
+1028,Mattheus Wormer
+1029,Samuel Rock
+1030,George Charters
+1031,Ludewig Zicker
+1032,Nicolaus Bronk
+1033,Johannes Wolter
+1034,Philip Sohut
+1035,William Hochteling
+1036,Arend Feinhaut
+1037,Willhelm Cibra
+1038,Martinus Cupper
+1039,John Salzbury
+1040,Cornelius Bulsen
+1041,Peter Vreest
+1042,Johannes Greber
+1043,John Williams
+1044,John Heeth
+1045,Debora
+1046,Johan Otto Ram
+1047,Sibilla Wally
+1048,Anna Maria Knickebacker
+1049,Lea Slave to Corneli Schaluyne
+1050,Catharina Fex
+1051,Annatje Hochteling
+1052,Magdalena Vromann
+1053,Elisabeth Albrecht
+1054,Annatje Loon
+1055,Maria Kerr
+1056,Catharina Staady
+1057,Jane Stoaks
+1058,Maria Hochteling
+1059,Maria Werner
+1060,Peggy Wormer
+1061,Hannah Charters
+1062,Christina Zicker
+1063,Catharina Bronk
+1064,Margaretha Newmann
+1065,Dorothea Ursula Hoffmann
+1066,Elisabeth Sohut
+1067,Elisabeth Hochteling
+1068,Darkes Feinhaut
+1069,Rebecca Cibra
+1070,Regina Cupper
+1071,Emmetje Salzbury
+1072,Annatje Bulsen
+1073,Maria Greber
+1074,Polly Williams
+1075,Catharina Ram
+1076,John Lansing
+1077,Casparus Bruyn
+1078,Cornelius Schaluyne
+1079,Christina Newmann
+1080,Rebecca Yates
+1081,Samuel Henderer
+1082,Polly Henderer
+1083,Gerhard Bratt
+1084,Alida Bratt
+1085,Salomon Waly
+1086,Elsje Waly
+1087,Martinus Ries
+1088,Lena Ries
+1089,Isaac van Nette
+1090,Selia Nette
+1091,Jacob Arnold
+1092,Maria Arnold
+1093,Caty Stewart
+1094,John Mills
+1095,Freelove Mills
+1096,Matthias Bronk
+1097,Annatje Bronk
+1098,John Wood
+1099,Rebecca Wood
+1100,Jacob Mooke
+1101,Margaretha Mooke
+1102,John Ostrander Junr
+1103,Catharina Junr
+1104,Conrad Schwarz
+1105,Elisabeth Schwarz
+1106,Adam Riemer
+1107,Juni Riemer
+1108,Jacob Arnhout
+1109,John Phillips
+1110,Catharina Phillips
+1111,James Witmore
+1112,Ditje Witmore
+1113,Adrian Bratt
+1114,Maria Bratt
+1115,Daniel Wicks
+1116,Freelove Wicks
+1117,Heinrich Sieburg
+1118,Anna Sieburg
+1119,Catharina Schermenhorn
+1120,Ezra Griffin
+1121,Anna Griffin
+1122,Nicolaus Friederich Staade
+1123,Staade
+1124,Caty Arnold
+1125,William Mc C Credy
+1126,Hannah Credy
+1127,Margery Dinckelbach
+1128,Jacob Kerker
+1129,Sarah Kercher
+1130,Philip Meyer
+1131,Margaretha Meyer
+1132,Wianna Bromley
+1133,George Kuhnle
+1134,Paulus Muhn
+1135,Margaretha Muhn
+1136,William Radlife
+1137,Margaretha Radlife
+1138,Peter Kanker
+1139,Christina Kanker
+1140,Peter Dorner
+1141,Arianya Dorner
+1142,Johann Conrad Ruby
+1143,Richard Rodly
+1144,William Breed
+1145,Abraham Bronk
+1146,Zacharias Schmidt
+1147,William Ball
+1148,Per Deichert
+1149,Johannes Marseilis
+1150,Frantz Ruschow
+1151,Conrad Kirchner
+1152,Simon Milius
+1153,Tobias Muller
+1154,Abraham Becker
+1155,Henrich Staade
+1156,Henrich Kerker
+1157,Bastian Franz
+1158,Philip Schafer
+1159,John Ohr
+1160,John Straub
+1161,Sarah Ruby
+1162,Elisabeth Breed
+1163,Anna Schmidt
+1164,Catharina Mooke
+1165,Maria Ball
+1166,Barbara Deichert
+1167,Maria Ruschow
+1168,Elisabeth Kirchner
+1169,Cornelia Milius
+1170,Marretje Muller
+1171,Eva Becker
+1172,Maria Rosina Staade
+1173,Maria Barbara Kerker
+1174,Lena Franz
+1175,Elisabeth Ohr
+1176,Catharina Dorothea Straub
+1177,Sarah Kerker
+1178,Maria Margaretha Enax
+1179,Henry Leik
+1180,Maria Leik
+1181,Daniel Rokenstein
+1182,Gertrude Rokenstein
+1183,Henrich Foss
+1184,Elisabeth Foss
+1185,Joseph Nellinger
+1186,Anna Nellinger
+1187,Henrich Heyne
+1188,Anna Heyne
+1189,Treysbach
+1190,Catharina Treysbach
+1191,Henry Loseje
+1192,Jean Loseje
+1193,Ludwig Heens
+1194,Margaretha Heens
+1195,Johannes Gory
+1196,Anna Gory
+1197,Christoph Hauck
+1198,Maria Hauck
+1199,Conrad Kerker
+1200,Johan Georg Bender
+1201,Friderich Scheele
+1202,Thomas Witbeck
+1203,Maria Kerker
+1204,Maria Neuman
+1205,Elisabeth Scheele
+1206,Jenni Witbeck
+1207,Johannes Arnold
+1208,Maria Elisabeth Schmidt
+1209,Nikolaus Wiedemann
+1210,Elisabeth Wiedemann
+1211,Jacob Bachmann
+1212,Eva Bachmann
+1213,Peter Tory
+1214,Catharina Tory
+1215,Levi Wilks
+1216,Anna Wilks
+1217,Maria Elisabeth
+1218,Benjamin Johns
+1219,Barbara Johns
+1220,Johannes Graft
+1221,Catharina Graft
+1222,George Booth
+1223,Elisabeth Booth
+1224,Ghemini Brauer
+1225,Petrus Zufeld
+1226,Maria Zufeld
+1227,Nicolaus Zeh
+1228,Sophia Zeh
+1229,Conradt Nemsel
+1230,Elisabeth Nemsel
+1231,Adam Reifenberger
+1232,Ursula Reifenberger
+1233,George Rorich
+1234,Maria Rorich
+1235,Christina Gayer
+1236,William Wepp
+1237,Maria Catharina Getter
+1238,Abraham van der Heyden
+1239,Maria Heyden
+1240,Adam Rohmann
+1241,Josepha Rohmann
+1242,Henrich Spaan
+1243,Catharina Spaan
+1244,Siles Hathen
+1245,Hannah Hathen
+1246,Maria Dorothea
+1247,William Tallbert
+1248,Anna Tallbert
+1249,Dan Packensteier
+1250,Gertrude Packensteier
+1251,Isaac Wormer
+1252,Jese Wormer
+1253,Sarah Halenbeck
+1254,Sigm Diffene
+1255,Margaretha Diffene
+1256,Alex m'Kimly
+1257,Rachel Kimly
+1258,Henry Ten Eick
+1259,Jannetje Eick
+1260,Lenh Faljessen
+1261,Margaretha Faljessen
+1262,Peter Spaan
+1263,Polly Spaan
+1264,Jacob Fedder
+1265,Anna Fedder
+1266,Lucas Taylor
+1267,Cecilia Taylor
+1268,Jacob Iiuss
+1269,Betje Iiuss
+1270,Christian Arnold
+1271,Johann Zeidelmann
+1272,Johannes Moog
+1273,Henrich Schop
+1274,Nicolaus Pratt
+1275,George Wetzel
+1276,Johann Paulus Graft
+1277,Johannes Meier
+1278,Henrich Sievern
+1279,Harry Milton
+1280,Hermann Henrich
+1281,Friederich Orlob
+1282,Henrich Reifenberger
+1283,Johannes Mathias Rorich
+1284,Peter Schneider
+1285,Bockridge Wepp
+1286,George Scharp
+1287,Philip Spaan
+1288,Beth Calomy Fortsee
+1289,William Giles
+1290,Zacharias Sickels
+1291,Thomas M'Dole
+1292,John Wray
+1293,Friedrich Walth
+1294,Friedrich Sievers
+1295,Mich Halenbek
+1296,Georg Gill
+1297,Andr Brath
+1298,Johan Hoohteling
+1299,Sybilla Arnold
+1300,Dorothea Zeidelmann
+1301,Maria Moog
+1302,Sara Hubern
+1303,Barbara Pratt
+1304,Maria Wetzel
+1305,Margaretha Graft
+1306,Rachel Meier
+1307,Elisabeth Sievern
+1308,Maria Milton
+1309,Gertrude Henrich
+1310,Maria Watson
+1311,Annatje Orlob
+1312,Johanna Schneider
+1313,Gertrude Rorich
+1314,Gertrude Schneider
+1315,Maria Catharina Webb
+1316,Catharina Scharp
+1317,Maria Spaan
+1318,James Fortsee
+1319,Hannah Giles
+1320,Catharina Sickels
+1321,Elisabeth Dole
+1322,Anna Wray
+1323,Johanna Walth
+1324,Jemima Haiff
+1325,Jamaike Halenbek
+1326,Catherine Renselaer Weik
+1327,Johannes Flack
+1328,Elisabeth Brath
+1329,Janneke Sohlingland
+1330,Joseph Fortmann
+1331,Margaretha Fortmann
+1332,Wilhelm Gernreich
+1333,Catharina Gernreich
+1334,Henrich Leik
+1335,Maria Geder
+1336,Moses Runnells
+1337,Elisabeth Connel
+1338,Peter Duncan
+1339,Nancy Eglishem
+1340,Herrmann Henders
+1341,Gertraud Henders Rooss
+1342,Thomas Ronnels
+1343,Christina Moore
+1344,Daniel Pohlmann
+1345,Maria Neumann
+1346,Albert Fosgett
+1347,Cornelia Fosgett
+1348,Peter Ross
+1349,Joh Hut
+1350,Nancy Englishem
+1351,Christina Ronnels
+1352,Elisabeth Hut
+1353,Catarina M'Carrien
+1354,Petrus Bozer
+1355,Elisabeth Bozer
+1356,Nicolaus Frez
+1357,Elisabeth Frez
+1358,Johannes Judy
+1359,Catharina Judy
+1360,Jacob Redlief
+1361,Susanna Redlief
+1362,John Orthaut
+1363,Louise Orthaut
+1364,William Tupper
+1365,Polly Tupper
+1366,Henrich Siegmann
+1367,Nancy Siegmann
+1368,Daniel Lenhard
+1369,Elisabeth Lenhard
+1370,John Weiman
+1371,Helena Weiman
+1372,Abraham van Tussen
+1373,Cornelia Tussen
+1374,Thomas Amater
+1375,Elenor Amater
+1376,Jacob Ham
+1377,Fransisca Rosina
+1378,John Soodert
+1379,Catharina Soodert
+1380,James Wilks
+1381,Catharina Wilks
+1382,Christopher Haken
+1383,Maria Haken
+1384,John Town
+1385,Elisabeth Town
+1386,Joseph Trever
+1387,Catharina Trever
+1388,James Donleib
+1389,Charlotte Donleib
+1390,Peter Jung
+1391,Rudolph Tompson
+1392,John Redly
+1393,John Peter Wetbeck
+1394,Jacob Hilton
+1395,George Friederich Scheele
+1396,Christian Loudwig Burgers
+1397,John Hochtailing
+1398,William Spotten
+1399,Christopher Lawyer
+1400,Josuah Callwell
+1401,Jacob Hinderer
+1402,Wilhelm Wagner
+1403,William van Uline
+1404,Johannes Huth
+1405,Eva Jung
+1406,Anna Charlotte
+1407,Maria Orthaut
+1408,Sally Hilton
+1409,Catharina Barbara Burgers
+1410,Christina Hochtailing
+1411,Isabella Spoten
+1412,Christina Fransisca Baurin
+1413,Robert Gran
+1414,Maria Lawyer
+1415,Charlotte Callwell
+1416,Maria Henderer
+1417,Elisabeth Wagner
+1418,Christina Uline
+1419,Elisabeth Huth
+1420,Elisabeth Bergin
+1421,Henrich Hochtailen
+1422,David Fischir
+1423,Cath Fischir
+1424,William Raff
+1425,Christina Raff
+1426,Henrich Losey
+1427,Johanna Losey
+1428,William Loevenstone
+1429,Elisabeth Loevenstone
+1430,Maria Dorothea Henderer
+1431,John Morie
+1432,Gertrude Morie
+1433,Friederich Ruz
+1434,Magdalena Ruz
+1435,Jeremias Muth
+1436,Maria Muth
+1437,John Walter
+1438,Elisabeth Walter
+1439,William Mely
+1440,Maria Mely
+1441,Cath Spaan
+1442,Jacbb Henny
+1443,Sarah Henny
+1444,Elisabeth Wormer
+1445,David Kercher
+1446,Cecilia Kerker
+1447,Nicolaus Fred
+1448,Elisabeth Fred
+1449,Henrich Niemayer
+1450,Maria Niemayer
+1451,Daniel Calvais
+1452,Julia Calvais
+1453,Henrich Zobel
+1454,Elisabeth Zobel
+1455,Maria Schaeffer
+1456,Christopher Ruby
+1457,Catharina Ruby
+1458,Carl Friederich Brown
+1459,Maria Christina Braun
+1460,Andreas Petger
+1461,Maria Petger
+1462,Johann Henrich Wistinhausen
+1463,Martinus Schneider
+1464,Anthony West
+1465,Johann Friederich Raff
+1466,Dorothea Huttin
+1467,Michael Palmadeir
+1468,Carl Simons
+1469,Anthon Theodor Braun
+1470,Daniel Schneider
+1471,Andreas Shmidt
+1472,Allic Shmidt
+1473,Albert Van Deik
+1474,Christopfer Batermann
+1475,Gertrude Kuhn
+1476,Jacob Loudwig Hauck
+1477,Bernhard Wormer
+1478,Johann Conrad Kercher
+1479,Christopher Baff
+1480,Wilhelm Urlaub
+1481,Christopfer Hag
+1482,Phillip Lenibeker
+1483,Conrad Ruby
+1484,Johann Henrich Niemayer
+1485,Friederich Vaahl
+1486,Anna Maria Wistinhausen
+1487,Anna Schneider
+1488,Lucia West
+1489,Maria Elisabeth Raff
+1490,Lena Palmadeir
+1491,Annatgen Van Dersee
+1492,Maria Uhlein
+1493,Anna Dorothea Schneider
+1494,Catharina Elisabeth Shmidt
+1495,Louisse Catharina Heglie
+1496,Rachel van Deik
+1497,Daniel Krenz
+1498,Jacob Feder
+1499,Nanzy Docks
+1500,Catharina Baff
+1501,Maria Urlaub
+1502,Margaretha Dorothea Schneider
+1503,Maria Hag
+1504,Christina Vaahl
+1505,Henrich Kercher
+1506,Debora Marlan
+1507,Thomas Buts
+1508,Catharina Elisabeth Buts
+1509,Eva Wagner
+1510,Maria Braun
+1511,Sara Ruby
+1512,Justus Christian Stokmann
+1513,Carolina Friederica Stokmann
+1514,Hermanus Hinderer
+1515,Sallis Hutten
+1516,Anna Hutten
+1517,Johann Phillip Dampf
+1518,Susanna Dampf
+1519,Johann Gross
+1520,Janny Gross
+1521,Ezekiel Hesterns
+1522,Polly Hesterns
+1523,John Mc Dole
+1524,Elgen Dole
+1525,John Osthault
+1526,Elisabeth Osthault
+1527,Johannes Kerker
+1528,Christina Kerker
+1529,Joseph Wagner
+1530,Henriette Wagner
+1531,Wilhelm Uhroofe
+1532,Christina Uhroofe
+1533,Robert M'Gory
+1534,Sarah Gory
+1535,Esekias Schudloof
+1536,Aggelica Schudloof
+1537,Abraham Noxen
+1538,Maria Noxen
+1539,David Maritin
+1540,Catharina Maritin
+1541,George Jacob Kinkerlie
+1542,Anna Sophia Kingerle
+1543,Andreas Schmidt
+1544,Catharina Elisabeth Schmidt
+1545,der tochter angenommen von Friederich Walz
+1546,Jannatgen Walz
+1547,George M'Ready
+1548,Veronica Ready
+1549,William Macintosh
+1550,Elisabeth Macintosh
+1551,Jacob Rop
+1552,Magdalena Rop
+1553,George Rios
+1554,Anna Rios
+1555,Isaac Fausboury
+1556,Elisabeth Fausboury
+1557,Lambert Cole
+1558,Nancy Cole
+1559,George Bender
+1560,Barbara Bender
+1561,Johanna Dorothea Hithin
+1562,Jacob Pohlmann
+1563,Elias Hutten
+1564,Peter Kempf
+1565,Christoph Gertner
+1566,Maria Brown
+1567,Abraham Van Rensch
+1568,Eberth Osthault
+1569,Friederich Reiz
+1570,John Skitmore
+1571,David Mann
+1572,George Phillip
+1573,Phillip Miller
+1574,Thomas Watzon
+1575,Elisabeth Calwel
+1576,Gosen van Scheik
+1577,Henrich Turks
+1578,Johann Christopher Haak
+1579,Christian Bender
+1580,Maria Pohlmannin
+1581,Sarah Hutten
+1582,Catharina Kempf
+1583,Sophia Gertner
+1584,Elisabeth Rensch
+1585,Margaretha Osthault
+1586,Charles Bevie
+1587,Johannes Van Hohenberg
+1588,Lena Shelly
+1589,Catharina Deny
+1590,Dorothea Elisabeth Pevelin
+1591,G J Kinkerlie
+1592,Anna Watzon
+1593,Catharina van Scheik
+1594,Maria Haak
+1595,Elisabeth Bender
+1596,Elisabeth Van Ranz
+1597,Heinrich Christian Wentt
+1598,Magdalena Reizin
+1599,Samuel Raw
+1600,Magdalena Raw
+1601,Nicolaus Miller
+1602,Elisabeth Miller
+1603,Henrich Hochtheeling
+1604,Robert Ruby
+1605,Eva Ruby
+1606,Matthaus Kugler
+1607,Maria Kugler
+1608,Christopher Brand
+1609,Dorothea Brand
+1610,Daniel Krouz
+1611,Gertrude Krouz
+1612,George Zuker
+1613,Maria Zuker
+1614,Jacobus Scott
+1615,Anna Scott
+1616,Phillip Maurer
+1617,Anna Maurer
+1618,Thomas Bord
+1619,Elisabeth Bord
+1620,Jonathan van Forth
+1621,Anna Forth
+1622,John B Heins
+1623,Elisabeth Heins
+1624,George Phillip Henrich Hoegel
+1625,Louissa Catharina Hoegel
+1626,Andreas Trayer
+1627,Anna Catharina Trayer
+1628,Jacob Griefinger
+1629,Margaretha Griefinger
+1630,James Van Bendhousen
+1631,Polly Bendhousen
+1632,Annatgen Schaeffer
+1633,Elsgen Wormer
+1634,Francis Himstrat
+1635,Lena Himstrat
+1636,John Campell
+1637,Cloe Campell
+1638,Nicolas Hilton
+1639,John Van Vingel
+1640,Elisabeth Vingel
+1641,Johann Kruss
+1642,Janny Kruss
+1643,Wilhelmus Friederich Dampf
+1644,Barrabas Cadogen
+1645,Jacob Ross
+1646,Daniel Pohlman
+1647,Elisabeth Petcher
+1648,Rebecca Ekessen
+1649,Peter Bookman
+1650,Michael Coks
+1651,Georg Friederich Reiz
+1652,Jacob Kingerle
+1653,Henrich Simons
+1654,Michael Van Schaik
+1655,Jacob Orloch
+1656,John Shauerman
+1657,Peter Gresbeck
+1658,Archiball Campell
+1659,Henrich Gadiken
+1660,Joseph Rederforth
+1661,Maria Eva Dampf
+1662,Eva Cadogen
+1663,Magdalena Ross
+1664,Maria Pohlman
+1665,Maria Magdalena Reizin
+1666,Petrus Petcher
+1667,Catharina Bookman
+1668,Maria Coks
+1669,Maria Magdalena Reiz
+1670,Louissa Cath Hoegel
+1671,Christoph Brand
+1672,Elisabeth Simons
+1673,Catharina Schaik
+1674,Nelly Louisse
+1675,Rachel Shauerman
+1676,Alida Gresbeck
+1677,Martha Lowis
+1678,Maria Gadiken
+1679,Margareth Gartner
+1680,Emanuel Hennigen
+1681,Anna Hennigen
+1682,Emericus Hadick
+1683,Margareth Soderling
+1684,Thomas Shadick Jor
+1685,Maria Jor
+1686,Jacobus Redlief
+1687,Maria Redlief
+1688,Sebr
+1689,Anna Sebr
+1690,Michael Mc Dormeth
+1691,Maria Dormeth
+1692,Charles Bebel
+1693,Dorothea Elisabeth Bebel
+1694,Christopher Dennemark
+1695,Christina Dennemark
+1696,Nicolaus Kling
+1697,Eva Kling
+1698,Caspar Beauhall
+1699,Margaretha Beauhall
+1700,George Clauss
+1701,Dina Clauss
+1702,Devald Schoeffer
+1703,Elisabeth Schoeffer
+1704,Susanna Steven
+1705,Johannes Becker
+1706,Catharina Becker
+1707,Johann Gottfried Knauff
+1708,Clarina Knauff
+1709,Peter Norman
+1710,Christina Norman
+1711,Laurenz Schoolcraft
+1712,Ariangen Schoolcraft
+1713,Cornelius Gayer
+1714,Elisabeth McDonald
+1715,Johannes Knidel
+1716,Maria Knidel
+1717,Jacob Rooss
+1718,Magdalena Rooss
+1719,Thomas Thaylor
+1720,Catharina Thaylor
+1721,Samuel Reox
+1722,Lena Reox
+1723,Henrich B Hoener
+1724,Maria Hoener
+1725,John David Kerker
+1726,Baltasar Kummel
+1727,Maria Kummel
+1728,William Tiller
+1729,Margaretha Tiller
+1730,John B Hoenner
+1731,John Luther
+1732,Jacob Fasbergh
+1733,Evert Outhout
+1734,Henry Redlief
+1735,Daniel Kettel
+1736,John Ruby
+1737,Andreas Turner
+1738,Henrich Kniskern
+1739,Abraham Eker
+1740,Friederich Merkele
+1741,Isaac Asson
+1742,Peter Hilz
+1743,David Schuyler
+1744,Albertus Becker
+1745,Martinus Schoeffer
+1746,Joseph Beck
+1747,Andreas Kirchner
+1748,Robert Linsie
+1749,David Fischie
+1750,Peter Munch
+1751,Charles Tiller
+1752,Gertrude Hoenner
+1753,Catharina Trayer
+1754,Elisabeth Luther
+1755,Catharina Fasbergh
+1756,Christina Phillips
+1757,Margaretha Outhout
+1758,Elisabeth Redlief
+1759,Sarah Kettel
+1760,Margaretha Ruby
+1761,Catharina Turner
+1762,Gertrude Kniskern
+1763,Elisabeth Eker
+1764,Catharina Merkele
+1765,Maria Asson
+1766,Catharina Hilz
+1767,Elisabeth Schuyler
+1768,Lena Becker
+1769,Maria Schneider
+1770,Catharina Schoeffer
+1771,Catherine Linsie
+1772,Catharina Schueider
+1773,Maria Munch
+1774,Henrich Kun
+1775,Maria Kun
+1776,George Werner
+1777,Johannes Werner
+1778,Joseph Nenniger
+1779,Hannah Nenniger
+1780,Daniel Rochkenstener
+1781,Gertrude Rochkenstener
+1782,Neilgen Bromley
+1783,Wilhelm Webb
+1784,Maria Christina Webb
+1785,Peter Plaisie
+1786,Maria Plaisie
+1787,Catharina Kreiner
+1788,Jacob Grisinger
+1789,Margaretha Grisinger
+1790,Carl Lungstore
+1791,Maria Lungstore
+1792,Emmanuel Waterman
+1793,Maria Waterman
+1794,Johann Friedenthal
+1795,Anna Friedenthal
+1796,John Chace
+1797,Elisabeth Chace
+1798,Shmidt S Weller
+1799,Catharina Weller
+1800,James Beien
+1801,Esther Beien
+1802,Joseph Van Salsbery
+1803,Margaretha Salsbery
+1804,Jacobus Fosbury
+1805,Cath Fosbury
+1806,Sabina Horn
+1807,Amos Sword
+1808,Polly Sword
+1809,John Arnhold
+1810,Jonas Kunder
+1811,George
+1812,Joseph Biby
+1813,Nancy a Slave of Sally Friedenreich
+1814,Sally Friedenreich
+1815,Lena Wendel
+1816,Mokrich Webb
+1817,Phillip Schemlers
+1818,Carl Pell Dorothea
+1819,Friederich Beiz
+1820,Carl Pruin
+1821,Henrich Wagner
+1822,Georg Kling
+1823,Joshuah Kook
+1824,Isaac Van Loon
+1825,Catharina Donaldson
+1826,Maria Kunder
+1827,Maria George
+1828,Elisabeth Bradt
+1829,Maria Magdalena Schemlers
+1830,Dorothea Huth
+1831,Carl Poeven
+1832,Eva Schaik
+1833,Maria Magdalena Beiz
+1834,Anna Kinkerly
+1835,Catharina Aloysius Schmidt
+1836,Dorothea Pruin
+1837,Catharina Scheele
+1838,Catharina Kling
+1839,Tabie Kook
+1840,Janny Loon
+1841,Gertrude Hinderer

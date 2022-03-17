@@ -67,6 +67,8 @@ id,name,gender
 65,Marie Tremblais,female
 66,Charles Dupuis,male
 67,Catherine Saint-Aubin,female
+68,Louis Deshétres,male
+69,Thérése Louvier,unknown
 70,Ambroise Tremblais,male
 71,Marguerite Cimar,female
 72,Pierre Chêne,male
@@ -81,6 +83,8 @@ id,name,gender
 81,Marie Anne Hamelin,female
 82,Charles François Caron,male
 83,Marie Louise Binau,female
+84,Robert Navarre,male
+85,Archange Marsac,male
 86,Jean Baptiste Dubreuil,male
 87,Catherine De Rouillard,female
 88,Marguerite St. Jean Dit Martin,female
@@ -233,6 +237,8 @@ id,name,gender
 235,Jacques Pelletier,male
 236,Marie Magdelène Le Vasseur,female
 237,Magdelène ??,unknown
+238,Jean Baptiste La Rue,male
+239,Elizabeth Binau,female
 240,Louise Campeau,female
 241,Josette Binau,female
 242,Jacques Parent,male
@@ -292,6 +298,8 @@ id,name,gender
 296,Marie Catherine Bergeron,female
 297,George Gnaggs Nexe,male
 298,Rachel Sly,female
+299,Jean Baptiste St. Aubin,male
+300,Charlotte Beler,female
 301,Marie Goulet,female
 302,Michel Catin Dit Baron,male
 303,Charlotte Riendeau Dit Joachim,female
@@ -338,6 +346,8 @@ id,name,gender
 344,Marie Bergeron,female
 345,Louis Gaillard,male
 346,Marie Marguerite St. Ange,female
+347,Robert Jann,male
+348,Marie Catherine Reaume,female
 349,Janette Meloche,female
 350,André Bénéteau,male
 351,Agathe Le Duc,female
@@ -408,6 +418,10 @@ id,name,gender
 416,Nicola Mignerau,female
 417,Marguerite Robidou,female
 418,Louis Brudel,male
+419,Jean Baptiste Hiax,male
+420,Reine Chrétien,female
+421,Louis Vessière,male
+422,Catherine L'Esprit,female
 423,Ignace Thuot,mostly_male
 424,Philippe La Bombarde,male
 425,Marguerite Briette,female
@@ -421,6 +435,8 @@ id,name,gender
 433,Jean Baptiste Chapoton,male
 434,Thérése Pelletier,unknown
 435,Catherine Pernsen,female
+436,Jean Louis Révau Dit Lajeunesse,male
+437,Marie Jeanne Campau,female
 438,Pierre Amable Girard,male
 439,Marguerite Bernier,female
 440,Louis Bourassa,male
@@ -428,6 +444,8 @@ id,name,gender
 442,Angélique Guyet,female
 443,Charlotte Souligny,female
 444,Marie Louise Drouen,female
+445,Sieur Charles Stanislas De Quindre,unknown
+446,Dame Marie Catherine La Butte,unknown
 447,Pierre Reaume,male
 448,Jeanne Campau,female
 449,Jean Baptiste Descomtes Labadie,male
@@ -455,6 +473,7 @@ id,name,gender
 471,Joseph Mini,male
 472,Archange Dussault,male
 473,François Rivard,male
+474,Marie Louise Marsac,female
 475,Pierre Dumais,male
 476,Angélique Le May,female
 477,Joseph André Dit L'Italien,male
@@ -471,6 +490,8 @@ id,name,gender
 488,Dame Marguerite Chabert,unknown
 489,Catherine Beaubien,female
 490,Magdelène Prud'homme,unknown
+491,Claude Du Chêne,mostly_male
+492,Jeannetre Bitiou,unknown
 493,Alexis Descomptes Labadie,male
 494,Marie Françoise Robert,female
 495,Jean Baptiste Tourneux,male
@@ -525,6 +546,9 @@ id,name,gender
 544,Jean Louis Lajeunesse,male
 545,Jean Baptiste Valade,male
 546,Marie Louise De Rouillard,female
+547,Jean Baptist Chovin,male
+548,Thérése Tramblé,unknown
+549,Jeanne Billoux,female
 550,Louis Tramblé,male
 551,Josette Rémon,female
 552,Geneviève Deshêtres,female
@@ -537,7 +561,13 @@ id,name,gender
 559,George Maldraivy,male
 560,Angélique Chapoton,female
 561,Magdelène Levasseux,unknown
+562,François Coutant,male
+563,Angélique Brillant,female
+564,Philippe Fry,male
+565,Dame Navarre,unknown
 566,Marie Anne ???,female
+567,François Tramblay,male
+568,Magdelène Mini,unknown
 569,Elizabeth Saint-George,female
 570,Julien Forton,male
 571,Thérése Billoux,unknown
@@ -561,9 +591,11 @@ id,name,gender
 589,Simon Courtois,male
 590,Joseph Saucié,male
 591,Louis Saint-Aubin,male
+592,Charles Moran,male
 593,Joseph Hector Hevé,male
 594,François Charpentier,male
 595,Jean Bapt Giron,male
+596,Charles Etienne Marin,male
 597,Gabriel Héquet,male
 598,Pierre Tamizier,male
 599,François Villers,male
@@ -627,6 +659,7 @@ id,name,gender
 657,Jean Baptiste Jérome Desrochers,male
 658,Jean Baptiste Bigra,male
 659,Dominique La Brosse,andy
+660,Jean Bourjou,male
 661,Parfait Dufour,male
 662,Jean Baptiste Langlois,male
 663,Pierre Coquillar,male
@@ -642,6 +675,7 @@ id,name,gender
 673,Réné Le Beau,unknown
 674,Mèdard Gamelin,unknown
 675,François Victor Morrisseau,male
+676,Pierre Chélu Dit Belair,male
 677,Charles Chauvin,male
 678,Jaques Chauvin,unknown
 679,Noel Chauvin,male
@@ -663,6 +697,7 @@ id,name,gender
 695,François Montmeni,male
 696,Jean Chrisostome Villers,male
 697,Jean Baptiste Faignau,male
+698,François Catin,male
 699,Paul Desruisseaux,male
 700,Jean Baptiste Montbrian,male
 701,Louis Côte-Noir,male
@@ -696,15 +731,19 @@ id,name,gender
 729,Jean Baptiste Antaia,male
 730,Louis Brudal,male
 731,Amable Mailloux,male
+732,Michel Hiax,male
+733,Simon Gendron,male
 734,Sieur Joseph Pouget,unknown
 735,André Bergeron,male
 736,Pierre Boismier,male
 737,Louis Peltier,male
+738,Joseph Campau,male
 739,Pierre Fouran,male
 740,Jean Baptiste Pilet,male
 741,François L'Espérance,male
 742,Thierry Soumande,male
 743,Jean Longpré,male
+744,Sieur François De Quindre,unknown
 745,Réné Campau,unknown
 746,Alexis L'Abadie,male
 747,Jean Baptiste Beaubien,male
@@ -715,6 +754,7 @@ id,name,gender
 752,Joseph Carrier,male
 753,Alexis Delisle,male
 754,Joseph Pouget (fils,male
+755,Jacques Gagnier,male
 756,Jean Baptiste Peltier,male
 757,Dominique Drouillar,andy
 758,Joseph Charron,male
@@ -722,6 +762,7 @@ id,name,gender
 760,Alexis Peltier,male
 761,Mons. François Pert,unknown
 762,Théophile Mêté,male
+763,Caëtan Sèguin,unknown
 764,Joseph Dufaux,male
 765,Pierre Lévrier,male
 766,François Marantet,male
@@ -749,12 +790,16 @@ id,name,gender
 788,Joseph Jobin,male
 789,Michel Chardonnet,male
 790,Joseph Beauchamp,male
+791,Joseph Tremblé,male
+792,François Xavier Forto,male
 793,Alexis Chêne,male
 794,Paul Poisson,male
 795,Gabriel  ???,male
 796,Michel Bondy,male
 797,Jean Baptiste Brisbois,male
 798,Charles François Girardin,male
+799,Jean Baptiste Cochois,male
+800,Jean Baptiste Créquy,male
 801,Joseph Bérac,male
 802,Marie Anne Bienvenu,female
 803,Josephine Chapoton,female
@@ -767,7 +812,9 @@ id,name,gender
 810,Cécile Marsac,female
 811,Marie Elizabeth De Rouillard,female
 812,Agnes Tremblais,female
+813,Marie Geneviève Tremblais,female
 814,Marie Anne Chêne,female
+815,Marie François Navarre,female
 816,Judith Cuillerier,female
 817,Susanne Du Bey,female
 818,Maria Josephine Robert,female
@@ -824,6 +871,7 @@ id,name,gender
 869,Elizabeth Reveau,female
 870,Marie Catherine Germain,female
 871,Angélique Godet,female
+872,Marie Cuillerier,female
 873,Marie Jeanne Belleperche,female
 874,Marie Catherine Robart-Jann,female
 875,Marie Anne Le Sueur,female
@@ -851,6 +899,7 @@ id,name,gender
 897,Marie Amable Céras Dit Coquillard,female
 898,Charlotte Reaume,female
 899,Marie Joseph Janis,female
+900,Marie Catherine Jann,female
 901,Marie D'ovignon,female
 902,Marie Mag'd Goïau,female
 903,Geneviève Cuillerier,female
@@ -867,6 +916,7 @@ id,name,gender
 914,Angélique Le Duc,female
 915,Marguerite Saint-Ange,female
 916,Cécile Chêne,female
+917,Marie Josette Jann,female
 918,Josette Rochelot,female
 919,Magdelène Jonçaire,unknown
 920,Véronique Bondy,female
@@ -895,6 +945,7 @@ id,name,gender
 943,Thérése Béquet,unknown
 944,Cécile Campeau,female
 945,Dame Veuve Berthelet,unknown
+946,Jeanne Cardinal,female
 947,Marie Catherine L'Espérance,female
 948,Josette Bissonnet,female
 949,Dame Louise Catherine Soumande,unknown
@@ -902,10 +953,12 @@ id,name,gender
 951,Geneviève Drouillard,female
 952,Angélique Chapaton,female
 953,Josette Cloutier,female
+954,Françoise Révau,female
 955,Charlotte Du Roseau,female
 956,Marguerite Chabert,female
 957,Judith La Violette,female
 958,Marie Thérése Drouillar,female
+959,Dame Marie Anne La Butte,unknown
 960,Magdelène Gaudet,unknown
 961,Marguerite L'Enfant,female
 962,Marie Louise Thérése Bertrand,female
@@ -917,11 +970,13 @@ id,name,gender
 968,Catherine Bondy,female
 969,Angélique Chevalier,female
 970,Catherine St. Germa,female
+971,Angélique Campau,female
 972,Marie Anne Martin,female
 973,Suzanne Ouallet,female
 974,Marie Petit,female
 975,Angélique Langlois,female
 976,Marguerite Levrand,female
+977,Cécile Hiax,female
 978,Elizabeth Labadie,female
 979,Charlotte Fovel,female
 980,Archange Godet,male
@@ -948,6 +1003,8 @@ id,name,gender
 1001,Marie Josette Pelleti,female
 1002,Marie Jeanne Lajeunes,female
 1003,Marie Thérése Ménard,female
+1004,Catherine Révard,female
+1005,Archange Socier,male
 1006,Marie Louise Bissonne,female
 1007,Geneviève Amable Bigr,female
 1008,Marie Joseph Chapoton,female
@@ -956,5 +1013,7 @@ id,name,gender
 1011,Marie Thérése Paré,female
 1012,Marie Magdelène Pageot,female
 1013,Dame St. Jeaubert,unknown
+1014,Thérése Saint Aubin,unknown
+1015,Marie Julie Hay,female
 1016,Josette Drouillard,female
 1017,Josette Gatignou,female

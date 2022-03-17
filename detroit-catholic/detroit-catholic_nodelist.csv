@@ -67,6 +67,8 @@ id,name
 65,Marie Tremblais
 66,Charles Dupuis
 67,Catherine Saint-Aubin
+68,Louis Deshétres
+69,Thérése Louvier
 70,Ambroise Tremblais
 71,Marguerite Cimar
 72,Pierre Chêne
@@ -81,6 +83,8 @@ id,name
 81,Marie Anne Hamelin
 82,Charles François Caron
 83,Marie Louise Binau
+84,Robert Navarre
+85,Archange Marsac
 86,Jean Baptiste Dubreuil
 87,Catherine De Rouillard
 88,Marguerite St. Jean Dit Martin
@@ -233,6 +237,8 @@ id,name
 235,Jacques Pelletier
 236,Marie Magdelène Le Vasseur
 237,Magdelène ??
+238,Jean Baptiste La Rue
+239,Elizabeth Binau
 240,Louise Campeau
 241,Josette Binau
 242,Jacques Parent
@@ -292,6 +298,8 @@ id,name
 296,Marie Catherine Bergeron
 297,George Gnaggs Nexe
 298,Rachel Sly
+299,Jean Baptiste St. Aubin
+300,Charlotte Beler
 301,Marie Goulet
 302,Michel Catin Dit Baron
 303,Charlotte Riendeau Dit Joachim
@@ -338,6 +346,8 @@ id,name
 344,Marie Bergeron
 345,Louis Gaillard
 346,Marie Marguerite St. Ange
+347,Robert Jann
+348,Marie Catherine Reaume
 349,Janette Meloche
 350,André Bénéteau
 351,Agathe Le Duc
@@ -408,6 +418,10 @@ id,name
 416,Nicola Mignerau
 417,Marguerite Robidou
 418,Louis Brudel
+419,Jean Baptiste Hiax
+420,Reine Chrétien
+421,Louis Vessière
+422,Catherine L'Esprit
 423,Ignace Thuot
 424,Philippe La Bombarde
 425,Marguerite Briette
@@ -421,6 +435,8 @@ id,name
 433,Jean Baptiste Chapoton
 434,Thérése Pelletier
 435,Catherine Pernsen
+436,Jean Louis Révau Dit Lajeunesse
+437,Marie Jeanne Campau
 438,Pierre Amable Girard
 439,Marguerite Bernier
 440,Louis Bourassa
@@ -428,6 +444,8 @@ id,name
 442,Angélique Guyet
 443,Charlotte Souligny
 444,Marie Louise Drouen
+445,Sieur Charles Stanislas De Quindre
+446,Dame Marie Catherine La Butte
 447,Pierre Reaume
 448,Jeanne Campau
 449,Jean Baptiste Descomtes Labadie
@@ -455,6 +473,7 @@ id,name
 471,Joseph Mini
 472,Archange Dussault
 473,François Rivard
+474,Marie Louise Marsac
 475,Pierre Dumais
 476,Angélique Le May
 477,Joseph André Dit L'Italien
@@ -471,6 +490,8 @@ id,name
 488,Dame Marguerite Chabert
 489,Catherine Beaubien
 490,Magdelène Prud'homme
+491,Claude Du Chêne
+492,Jeannetre Bitiou
 493,Alexis Descomptes Labadie
 494,Marie Françoise Robert
 495,Jean Baptiste Tourneux
@@ -525,6 +546,9 @@ id,name
 544,Jean Louis Lajeunesse
 545,Jean Baptiste Valade
 546,Marie Louise De Rouillard
+547,Jean Baptist Chovin
+548,Thérése Tramblé
+549,Jeanne Billoux
 550,Louis Tramblé
 551,Josette Rémon
 552,Geneviève Deshêtres
@@ -537,7 +561,13 @@ id,name
 559,George Maldraivy
 560,Angélique Chapoton
 561,Magdelène Levasseux
+562,François Coutant
+563,Angélique Brillant
+564,Philippe Fry
+565,Dame Navarre
 566,Marie Anne ???
+567,François Tramblay
+568,Magdelène Mini
 569,Elizabeth Saint-George
 570,Julien Forton
 571,Thérése Billoux
@@ -561,9 +591,11 @@ id,name
 589,Simon Courtois
 590,Joseph Saucié
 591,Louis Saint-Aubin
+592,Charles Moran
 593,Joseph Hector Hevé
 594,François Charpentier
 595,Jean Bapt Giron
+596,Charles Etienne Marin
 597,Gabriel Héquet
 598,Pierre Tamizier
 599,François Villers
@@ -627,6 +659,7 @@ id,name
 657,Jean Baptiste Jérome Desrochers
 658,Jean Baptiste Bigra
 659,Dominique La Brosse
+660,Jean Bourjou
 661,Parfait Dufour
 662,Jean Baptiste Langlois
 663,Pierre Coquillar
@@ -642,6 +675,7 @@ id,name
 673,Réné Le Beau
 674,Mèdard Gamelin
 675,François Victor Morrisseau
+676,Pierre Chélu Dit Belair
 677,Charles Chauvin
 678,Jaques Chauvin
 679,Noel Chauvin
@@ -663,6 +697,7 @@ id,name
 695,François Montmeni
 696,Jean Chrisostome Villers
 697,Jean Baptiste Faignau
+698,François Catin
 699,Paul Desruisseaux
 700,Jean Baptiste Montbrian
 701,Louis Côte-Noir
@@ -696,15 +731,19 @@ id,name
 729,Jean Baptiste Antaia
 730,Louis Brudal
 731,Amable Mailloux
+732,Michel Hiax
+733,Simon Gendron
 734,Sieur Joseph Pouget
 735,André Bergeron
 736,Pierre Boismier
 737,Louis Peltier
+738,Joseph Campau
 739,Pierre Fouran
 740,Jean Baptiste Pilet
 741,François L'Espérance
 742,Thierry Soumande
 743,Jean Longpré
+744,Sieur François De Quindre
 745,Réné Campau
 746,Alexis L'Abadie
 747,Jean Baptiste Beaubien
@@ -715,6 +754,7 @@ id,name
 752,Joseph Carrier
 753,Alexis Delisle
 754,Joseph Pouget (fils
+755,Jacques Gagnier
 756,Jean Baptiste Peltier
 757,Dominique Drouillar
 758,Joseph Charron
@@ -722,6 +762,7 @@ id,name
 760,Alexis Peltier
 761,Mons. François Pert
 762,Théophile Mêté
+763,Caëtan Sèguin
 764,Joseph Dufaux
 765,Pierre Lévrier
 766,François Marantet
@@ -749,12 +790,16 @@ id,name
 788,Joseph Jobin
 789,Michel Chardonnet
 790,Joseph Beauchamp
+791,Joseph Tremblé
+792,François Xavier Forto
 793,Alexis Chêne
 794,Paul Poisson
 795,Gabriel  ???
 796,Michel Bondy
 797,Jean Baptiste Brisbois
 798,Charles François Girardin
+799,Jean Baptiste Cochois
+800,Jean Baptiste Créquy
 801,Joseph Bérac
 802,Marie Anne Bienvenu
 803,Josephine Chapoton
@@ -767,7 +812,9 @@ id,name
 810,Cécile Marsac
 811,Marie Elizabeth De Rouillard
 812,Agnes Tremblais
+813,Marie Geneviève Tremblais
 814,Marie Anne Chêne
+815,Marie François Navarre
 816,Judith Cuillerier
 817,Susanne Du Bey
 818,Maria Josephine Robert
@@ -824,6 +871,7 @@ id,name
 869,Elizabeth Reveau
 870,Marie Catherine Germain
 871,Angélique Godet
+872,Marie Cuillerier
 873,Marie Jeanne Belleperche
 874,Marie Catherine Robart-Jann
 875,Marie Anne Le Sueur
@@ -851,6 +899,7 @@ id,name
 897,Marie Amable Céras Dit Coquillard
 898,Charlotte Reaume
 899,Marie Joseph Janis
+900,Marie Catherine Jann
 901,Marie D'ovignon
 902,Marie Mag'd Goïau
 903,Geneviève Cuillerier
@@ -867,6 +916,7 @@ id,name
 914,Angélique Le Duc
 915,Marguerite Saint-Ange
 916,Cécile Chêne
+917,Marie Josette Jann
 918,Josette Rochelot
 919,Magdelène Jonçaire
 920,Véronique Bondy
@@ -895,6 +945,7 @@ id,name
 943,Thérése Béquet
 944,Cécile Campeau
 945,Dame Veuve Berthelet
+946,Jeanne Cardinal
 947,Marie Catherine L'Espérance
 948,Josette Bissonnet
 949,Dame Louise Catherine Soumande
@@ -902,10 +953,12 @@ id,name
 951,Geneviève Drouillard
 952,Angélique Chapaton
 953,Josette Cloutier
+954,Françoise Révau
 955,Charlotte Du Roseau
 956,Marguerite Chabert
 957,Judith La Violette
 958,Marie Thérése Drouillar
+959,Dame Marie Anne La Butte
 960,Magdelène Gaudet
 961,Marguerite L'Enfant
 962,Marie Louise Thérése Bertrand
@@ -917,11 +970,13 @@ id,name
 968,Catherine Bondy
 969,Angélique Chevalier
 970,Catherine St. Germa
+971,Angélique Campau
 972,Marie Anne Martin
 973,Suzanne Ouallet
 974,Marie Petit
 975,Angélique Langlois
 976,Marguerite Levrand
+977,Cécile Hiax
 978,Elizabeth Labadie
 979,Charlotte Fovel
 980,Archange Godet
@@ -948,6 +1003,8 @@ id,name
 1001,Marie Josette Pelleti
 1002,Marie Jeanne Lajeunes
 1003,Marie Thérése Ménard
+1004,Catherine Révard
+1005,Archange Socier
 1006,Marie Louise Bissonne
 1007,Geneviève Amable Bigr
 1008,Marie Joseph Chapoton
@@ -956,5 +1013,7 @@ id,name
 1011,Marie Thérése Paré
 1012,Marie Magdelène Pageot
 1013,Dame St. Jeaubert
+1014,Thérése Saint Aubin
+1015,Marie Julie Hay
 1016,Josette Drouillard
 1017,Josette Gatignou

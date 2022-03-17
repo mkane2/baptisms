@@ -67,6 +67,8 @@ id,name,gender,race
 65,Marie Tremblais,female,white
 66,Charles Dupuis,male,white
 67,Catherine Saint-Aubin,female,white
+68,Louis Deshétres,male,white
+69,Thérése Louvier,unknown,white
 70,Ambroise Tremblais,male,white
 71,Marguerite Cimar,female,white
 72,Pierre Chêne,male,white
@@ -81,6 +83,8 @@ id,name,gender,race
 81,Marie Anne Hamelin,female,white
 82,Charles François Caron,male,white
 83,Marie Louise Binau,female,white
+84,Robert Navarre,male,white
+85,Archange Marsac,male,white
 86,Jean Baptiste Dubreuil,male,white
 87,Catherine De Rouillard,female,white
 88,Marguerite St. Jean Dit Martin,female,white
@@ -233,6 +237,8 @@ id,name,gender,race
 235,Jacques Pelletier,male,white
 236,Marie Magdelène Le Vasseur,female,white
 237,Magdelène ??,unknown,white
+238,Jean Baptiste La Rue,male,white
+239,Elizabeth Binau,female,white
 240,Louise Campeau,female,white
 241,Josette Binau,female,white
 242,Jacques Parent,male,white
@@ -292,6 +298,8 @@ id,name,gender,race
 296,Marie Catherine Bergeron,female,white
 297,George Gnaggs Nexe,male,white
 298,Rachel Sly,female,white
+299,Jean Baptiste St. Aubin,male,white
+300,Charlotte Beler,female,white
 301,Marie Goulet,female,white
 302,Michel Catin Dit Baron,male,white
 303,Charlotte Riendeau Dit Joachim,female,white
@@ -338,6 +346,8 @@ id,name,gender,race
 344,Marie Bergeron,female,white
 345,Louis Gaillard,male,white
 346,Marie Marguerite St. Ange,female,white
+347,Robert Jann,male,white
+348,Marie Catherine Reaume,female,white
 349,Janette Meloche,female,white
 350,André Bénéteau,male,white
 351,Agathe Le Duc,female,white
@@ -408,6 +418,10 @@ id,name,gender,race
 416,Nicola Mignerau,female,white
 417,Marguerite Robidou,female,white
 418,Louis Brudel,male,white
+419,Jean Baptiste Hiax,male,white
+420,Reine Chrétien,female,white
+421,Louis Vessière,male,white
+422,Catherine L'Esprit,female,white
 423,Ignace Thuot,male,white
 424,Philippe La Bombarde,male,white
 425,Marguerite Briette,female,white
@@ -421,6 +435,8 @@ id,name,gender,race
 433,Jean Baptiste Chapoton,male,white
 434,Thérése Pelletier,unknown,white
 435,Catherine Pernsen,female,white
+436,Jean Louis Révau Dit Lajeunesse,male,white
+437,Marie Jeanne Campau,female,white
 438,Pierre Amable Girard,male,white
 439,Marguerite Bernier,female,white
 440,Louis Bourassa,male,white
@@ -428,6 +444,8 @@ id,name,gender,race
 442,Angélique Guyet,female,white
 443,Charlotte Souligny,female,white
 444,Marie Louise Drouen,female,white
+445,Sieur Charles Stanislas De Quindre,unknown,white
+446,Dame Marie Catherine La Butte,unknown,white
 447,Pierre Reaume,male,white
 448,Jeanne Campau,female,white
 449,Jean Baptiste Descomtes Labadie,male,white
@@ -455,6 +473,7 @@ id,name,gender,race
 471,Joseph Mini,male,white
 472,Archange Dussault,male,white
 473,François Rivard,male,white
+474,Marie Louise Marsac,female,white
 475,Pierre Dumais,male,white
 476,Angélique Le May,female,white
 477,Joseph André Dit L'Italien,male,white
@@ -471,6 +490,8 @@ id,name,gender,race
 488,Dame Marguerite Chabert,unknown,white
 489,Catherine Beaubien,female,white
 490,Magdelène Prud'homme,unknown,white
+491,Claude Du Chêne,male,white
+492,Jeannetre Bitiou,unknown,white
 493,Alexis Descomptes Labadie,male,white
 494,Marie Françoise Robert,female,white
 495,Jean Baptiste Tourneux,male,white
@@ -525,6 +546,9 @@ id,name,gender,race
 544,Jean Louis Lajeunesse,male,white
 545,Jean Baptiste Valade,male,white
 546,Marie Louise De Rouillard,female,white
+547,Jean Baptist Chovin,male,white
+548,Thérése Tramblé,unknown,white
+549,Jeanne Billoux,female,white
 550,Louis Tramblé,male,white
 551,Josette Rémon,female,white
 552,Geneviève Deshêtres,female,white
@@ -537,7 +561,13 @@ id,name,gender,race
 559,George Maldraivy,male,white
 560,Angélique Chapoton,female,white
 561,Magdelène Levasseux,unknown,white
+562,François Coutant,male,white
+563,Angélique Brillant,female,white
+564,Philippe Fry,male,white
+565,Dame Navarre,unknown,white
 566,Marie Anne ???,female,white
+567,François Tramblay,male,white
+568,Magdelène Mini,unknown,white
 569,Elizabeth Saint-George,female,white
 570,Julien Forton,male,white
 571,Thérése Billoux,unknown,white
@@ -561,9 +591,11 @@ id,name,gender,race
 589,Simon Courtois,male,white
 590,Joseph Saucié,male,white
 591,Louis Saint-Aubin,male,white
+592,Charles Moran,male,white
 593,Joseph Hector Hevé,male,white
 594,François Charpentier,male,white
 595,Jean Bapt Giron,male,white
+596,Charles Etienne Marin,male,white
 597,Gabriel Héquet,male,white
 598,Pierre Tamizier,male,white
 599,François Villers,male,white
@@ -613,7 +645,7 @@ id,name,gender,race
 643,Père Potier,unknown,white
 644,François Jouat,male,white
 645,François Renaud,male,white
-646,Dominique Godet,andy,white
+646,Dominique Godet,unknown,white
 647,Etienne La Côte Dit Languedoc,male,white
 648,Pierre Janerai Dit La Deboute,male,white
 649,Joseph ???,male,white
@@ -626,7 +658,8 @@ id,name,gender,race
 656,Joseph Sera Dit Coquillard,male,white
 657,Jean Baptiste Jérome Desrochers,male,white
 658,Jean Baptiste Bigra,male,white
-659,Dominique La Brosse,andy,white
+659,Dominique La Brosse,unknown,white
+660,Jean Bourjou,male,white
 661,Parfait Dufour,male,white
 662,Jean Baptiste Langlois,male,white
 663,Pierre Coquillar,male,white
@@ -642,6 +675,7 @@ id,name,gender,race
 673,Réné Le Beau,unknown,white
 674,Mèdard Gamelin,unknown,white
 675,François Victor Morrisseau,male,white
+676,Pierre Chélu Dit Belair,male,white
 677,Charles Chauvin,male,white
 678,Jaques Chauvin,unknown,white
 679,Noel Chauvin,male,white
@@ -654,7 +688,7 @@ id,name,gender,race
 686,Victor Morrisseau,male,white
 687,Antoine Descombes,male,white
 688,Jean Baptiste Laframboise,male,white
-689,Francois Sordillet,unknown,white
+689,Francois Sordillet,male,white
 690,Alexis L'oranger,male,white
 691,Pierre Levaisseur,male,white
 692,Réné Bourasa,unknown,white
@@ -663,6 +697,7 @@ id,name,gender,race
 695,François Montmeni,male,white
 696,Jean Chrisostome Villers,male,white
 697,Jean Baptiste Faignau,male,white
+698,François Catin,male,white
 699,Paul Desruisseaux,male,white
 700,Jean Baptiste Montbrian,male,white
 701,Louis Côte-Noir,male,white
@@ -696,15 +731,19 @@ id,name,gender,race
 729,Jean Baptiste Antaia,male,white
 730,Louis Brudal,male,white
 731,Amable Mailloux,male,white
+732,Michel Hiax,male,white
+733,Simon Gendron,male,white
 734,Sieur Joseph Pouget,unknown,white
 735,André Bergeron,male,white
 736,Pierre Boismier,male,white
 737,Louis Peltier,male,white
+738,Joseph Campau,male,white
 739,Pierre Fouran,male,white
 740,Jean Baptiste Pilet,male,white
 741,François L'Espérance,male,white
 742,Thierry Soumande,male,white
 743,Jean Longpré,male,white
+744,Sieur François De Quindre,unknown,white
 745,Réné Campau,unknown,white
 746,Alexis L'Abadie,male,white
 747,Jean Baptiste Beaubien,male,white
@@ -715,13 +754,15 @@ id,name,gender,race
 752,Joseph Carrier,male,white
 753,Alexis Delisle,male,white
 754,Joseph Pouget (fils,male,white
+755,Jacques Gagnier,male,white
 756,Jean Baptiste Peltier,male,white
-757,Dominique Drouillar,andy,white
+757,Dominique Drouillar,unknown,white
 758,Joseph Charron,male,white
 759,Réné Tremblay,unknown,white
 760,Alexis Peltier,male,white
 761,Mons. François Pert,unknown,white
 762,Théophile Mêté,male,white
+763,Caëtan Sèguin,unknown,white
 764,Joseph Dufaux,male,white
 765,Pierre Lévrier,male,white
 766,François Marantet,male,white
@@ -749,12 +790,16 @@ id,name,gender,race
 788,Joseph Jobin,male,white
 789,Michel Chardonnet,male,white
 790,Joseph Beauchamp,male,white
+791,Joseph Tremblé,male,white
+792,François Xavier Forto,male,white
 793,Alexis Chêne,male,white
 794,Paul Poisson,male,white
 795,Gabriel  ???,male,white
 796,Michel Bondy,male,white
 797,Jean Baptiste Brisbois,male,white
 798,Charles François Girardin,male,white
+799,Jean Baptiste Cochois,male,white
+800,Jean Baptiste Créquy,male,white
 801,Joseph Bérac,male,white
 802,Marie Anne Bienvenu,female,white
 803,Josephine Chapoton,female,white
@@ -767,7 +812,9 @@ id,name,gender,race
 810,Cécile Marsac,female,white
 811,Marie Elizabeth De Rouillard,female,white
 812,Agnes Tremblais,female,white
+813,Marie Geneviève Tremblais,female,white
 814,Marie Anne Chêne,female,white
+815,Marie François Navarre,female,white
 816,Judith Cuillerier,female,white
 817,Susanne Du Bey,female,white
 818,Maria Josephine Robert,female,white
@@ -824,6 +871,7 @@ id,name,gender,race
 869,Elizabeth Reveau,female,white
 870,Marie Catherine Germain,female,white
 871,Angélique Godet,female,white
+872,Marie Cuillerier,female,white
 873,Marie Jeanne Belleperche,female,white
 874,Marie Catherine Robart-Jann,female,white
 875,Marie Anne Le Sueur,female,white
@@ -851,6 +899,7 @@ id,name,gender,race
 897,Marie Amable Céras Dit Coquillard,female,white
 898,Charlotte Reaume,female,white
 899,Marie Joseph Janis,female,white
+900,Marie Catherine Jann,female,white
 901,Marie D'ovignon,female,white
 902,Marie Mag'd Goïau,female,white
 903,Geneviève Cuillerier,female,white
@@ -867,6 +916,7 @@ id,name,gender,race
 914,Angélique Le Duc,female,white
 915,Marguerite Saint-Ange,female,white
 916,Cécile Chêne,female,white
+917,Marie Josette Jann,female,white
 918,Josette Rochelot,female,white
 919,Magdelène Jonçaire,unknown,white
 920,Véronique Bondy,female,white
@@ -895,6 +945,7 @@ id,name,gender,race
 943,Thérése Béquet,unknown,white
 944,Cécile Campeau,female,white
 945,Dame Veuve Berthelet,unknown,white
+946,Jeanne Cardinal,female,white
 947,Marie Catherine L'Espérance,female,white
 948,Josette Bissonnet,female,white
 949,Dame Louise Catherine Soumande,unknown,white
@@ -902,10 +953,12 @@ id,name,gender,race
 951,Geneviève Drouillard,female,white
 952,Angélique Chapaton,female,white
 953,Josette Cloutier,female,white
+954,Françoise Révau,female,white
 955,Charlotte Du Roseau,female,white
 956,Marguerite Chabert,female,white
 957,Judith La Violette,female,white
 958,Marie Thérése Drouillar,female,white
+959,Dame Marie Anne La Butte,unknown,white
 960,Magdelène Gaudet,unknown,white
 961,Marguerite L'Enfant,female,white
 962,Marie Louise Thérése Bertrand,female,white
@@ -917,11 +970,13 @@ id,name,gender,race
 968,Catherine Bondy,female,white
 969,Angélique Chevalier,female,white
 970,Catherine St. Germa,female,white
+971,Angélique Campau,female,white
 972,Marie Anne Martin,female,white
 973,Suzanne Ouallet,female,white
 974,Marie Petit,female,white
 975,Angélique Langlois,female,white
 976,Marguerite Levrand,female,white
+977,Cécile Hiax,female,white
 978,Elizabeth Labadie,female,white
 979,Charlotte Fovel,female,white
 980,Archange Godet,male,white
@@ -948,6 +1003,8 @@ id,name,gender,race
 1001,Marie Josette Pelleti,female,white
 1002,Marie Jeanne Lajeunes,female,white
 1003,Marie Thérése Ménard,female,white
+1004,Catherine Révard,female,white
+1005,Archange Socier,male,white
 1006,Marie Louise Bissonne,female,white
 1007,Geneviève Amable Bigr,female,white
 1008,Marie Joseph Chapoton,female,white
@@ -956,5 +1013,7 @@ id,name,gender,race
 1011,Marie Thérése Paré,female,white
 1012,Marie Magdelène Pageot,female,white
 1013,Dame St. Jeaubert,unknown,white
+1014,Thérése Saint Aubin,unknown,white
+1015,Marie Julie Hay,female,white
 1016,Josette Drouillard,female,white
 1017,Josette Gatignou,female,white

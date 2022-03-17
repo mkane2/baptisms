@@ -107,6 +107,9 @@ id,name,gender
 105,Willem Barrit,male
 106,Simon Van Antwerpen,male
 107,Jacob Kleyn,male
+108,John Bromly,male
+109,James Davids,male
+110,Maria Constable,female
 111,John Dunbar,male
 112,John Wouters,male
 113,Sara Kleyn,female
@@ -141,6 +144,9 @@ id,name,gender
 142,Sam Redly,mostly_male
 143,Annatie Bronk,unknown
 144,Ephraim Bogardus,male
+145,Walder Knoet,unknown
+146,Francyntje Knoet,unknown
+147,Frerik Knoet,unknown
 148,Jacob Halenbeek,male
 149,Geertruy Visscher,unknown
 150,Jacob Van der Heyden,male
@@ -170,6 +176,8 @@ id,name,gender
 174,Ro. Roseboom,unknown
 175,Johannes Slingerland,male
 176,Albert Slingerland,male
+177,James Walles,male
+178,Catherine Leyster,female
 179,Christian Van Dyck,male
 180,Hester Slingerland,female
 181,Gerrit Dingmans,mostly_male
@@ -220,6 +228,16 @@ id,name,gender
 226,Cornelis Cuyler,male
 227,Thomas Witbeek,male
 228,Maria Cuyler,female
+229,Thomas Story,male
+230,Maria Mahane,female
+231,Willem Willemse,male
+232,Neth Telleth,unknown
+233,Albert Bratt,male
+234,Eva Bratt,female
+235,Willem Northen,male
+236,John Marroew,male
+237,Judy Marroew,female
+238,Neth Ethweth,unknown
 239,Johannes Oostrander,male
 240,Anna Garmo,female
 241,Pieter Van Brug,male
@@ -232,6 +250,9 @@ id,name,gender
 248,Rebecca Fonda,female
 249,Jacobus Schoonhoven,male
 250,Dirk jr,male
+251,Johannes Gaaf,male
+252,Edward Holland,male
+253,Zeely Holland,unknown
 254,Obedie Couper,unknown
 255,Elizabeth Van Oostrande,female
 256,Johannes Van Oostrande,male
@@ -239,6 +260,9 @@ id,name,gender
 258,Jan Maassen,male
 259,Catherine Fonda,female
 260,Harmen Van Arnhem,male
+261,John Morrow,male
+262,Maria Van der Linde,female
+263,Samuel Bortsen,male
 264,Marten Beekman,male
 265,Annatie Eckbertsen,unknown
 266,Isaac Van Deuse,male
@@ -291,6 +315,9 @@ id,name,gender
 313,Jeremias Schuyler,male
 314,Madalena Bajen,female
 315,Pieter Schuyler,male
+316,James Bath,male
+317,Elizabeth Wessels,female
+318,James Wessels,male
 319,Gysbert Scharp,male
 320,Elizabeth Goewey,female
 321,Gysbert Van den Berg,male
@@ -360,8 +387,16 @@ id,name,gender
 385,Hieroon Van Vlieren,unknown
 386,Lena Van Vlieren,female
 387,Theunis Eckbertsen,male
+388,Willem Helmig,male
+389,Anna De Peyster,female
 390,Rachel Harmensz,female
 391,Nicolaes Gardenier,unknown
+392,Dirk Halenbeek,male
+393,Jan Halenbeek,male
+394,Lybetie Conyn,unknown
+395,Benjamin Wood,male
+396,Willem Liedts,male
+397,Sara James,female
 398,Hendrick Cuyler,male
 399,Abraham Cuyler,male
 400,Samuel Pruyn,male
@@ -412,6 +447,9 @@ id,name,gender
 445,Cornelis Van Aalsteyn,male
 446,Albert Van der Werke,male
 447,Alida Van Aalsteyn,female
+448,Rykert Van Franken,unknown
+449,Barbara Van Franken,female
+450,Gerrit R.,mostly_male
 451,Sara Van Vechten,female
 452,Pieter Bratt,male
 453,Sophia Bratt,female
@@ -471,6 +509,8 @@ id,name,gender
 507,Christian Goes,male
 508,Samuel Bibbingthon,male
 509,Johannes Pruyn,male
+510,Lunk Hackings,unknown
+511,Sara Poel,female
 512,Sander Van Aalsteyn,male
 513,Maria Hilton,female
 514,Rykert Hilton,unknown
@@ -550,22 +590,34 @@ id,name,gender
 588,Willem Naarten,male
 589,Abraham Van Deuse,male
 590,Herbert Van Deuse,male
+591,Akes Bratt,unknown
+592,Jacobus Van Slyk,male
+593,Margaret Bratt,female
 594,Helena Van Deuse,female
 595,Math Van den Berg,unknown
+596,Anna Hun,female
 597,Hendrick Douw,male
 598,Jacomin Van Dyck,unknown
+599,Jeremias Pamerton,male
 600,Rogier James,male
 601,Jan Gerritsz,male
 602,Herbert Jacobse Van Deuse,male
 603,Meytie Ouderkerk,unknown
+604,Maria Couck,female
+605,Charl Wikkenson,andy
+606,Wilhelm Tuck,male
+607,Elizabeth Stephensz,female
+608,Christian Kanneda,male
 609,Elizabeth Redly,female
 610,Maria Van Alen,female
 611,Willem Redly,male
 612,Willem Van Alen,male
 613,Aaltje Van den Berg,female
+614,Charles Constable,male
 615,Johannes Maassen,male
 616,Jacob Maassen,male
 617,Maria Fonda,female
+618,John Bromley,male
 619,Bastiaan Visscher,male
 620,Egbert Van der Heyden,male
 621,Elizabeth De Warm,female
@@ -603,7 +655,10 @@ id,name,gender
 653,Gysbert Rosenboom,male
 654,Gerrit Roseboom,mostly_male
 655,Maria Roseboom,female
+656,James Bort,male
+657,Grees Gertsz,unknown
 658,Hendrick Van Bueren,male
+659,John Makinthos,male
 660,Catalina Bleeker,female
 661,Jacob Roseboom,male
 662,Elizabeth Roseboom,female
@@ -1104,6 +1159,9 @@ id,name,gender
 1157,Petrus jr,male
 1158,Sara Ver Brugge,female
 1159,Visschert Moor,unknown
+1160,Hendrick Salisbury,male
+1161,Anna Salisbury,female
+1162,Harmen Salisbury,male
 1163,Annetje Quackenbos,unknown
 1164,Teuntje Goes,female
 1165,Jan Tyssen,male
@@ -1119,9 +1177,20 @@ id,name,gender
 1175,Cornelia Gardenier,female
 1176,Cornelis Martensz,male
 1177,Maria Walters,female
+1178,Elizabeth Hanghin,female
+1179,Anna Margaret Gremmer,female
+1180,Pieter Knyskerk,male
+1181,Hans Marga Gremmer,male
+1182,Eliza Barber,female
+1183,Elizabeth Knyskerk,female
+1184,Elizabeth Margarita,female
+1185,Hans Margaret Gremmer,male
 1186,Engeltje Beekman,female
 1187,Catherine Waldering,female
+1188,Nicolaes Staring,unknown
+1189,Catherine Essching,female
 1190,Johannes Livingston,male
+1191,Joseph Essching,male
 1192,Aaltje Van Nes,female
 1193,Christina Swarts [?] or Van Wart [?],female
 1194,Barent Vrooman,unknown
@@ -1142,8 +1211,15 @@ id,name,gender
 1209,Maeyke Van Petten,unknown
 1210,Annatie Gilbert,unknown
 1211,Barent Pruyn,unknown
+1212,Nicolaes Roul,unknown
+1213,Anna Mary Roul,female
+1214,Christian Willern Walborn,male
+1215,Christian Willemse,male
+1216,Dorothe Margaret Royl,female
 1217,Matthys Barroway,unknown
 1218,Old Rebecca Douw,unknown
+1219,Jacob Snyder,male
+1220,Pieter Spys,male
 1221,Maritie Willemse,unknown
 1222,Maritie Van Deuse,unknown
 1223,Ahasueros Marselis,unknown
@@ -1553,14 +1629,21 @@ id,name,gender
 1627,Dirk Cornelisse Van Vechten,male
 1628,Margaret Harmensz,female
 1629,Bata Van Yselstein,female
+1630,Johannes Tejasse,male
+1631,Neeltie Tewagkerat,unknown
+1632,Rebecca Oodsdjchonwe,female
 1633,Anthony Rowville,male
 1634,Cornelis Teeuwisse Muller,male
 1635,Jurriaan Dekker,male
 1636,Teunis Pietersz,male
 1637,Dorothe Vosburg,female
 1638,Hilletje Dekker,unknown
+1639,Francois Salisbury,unknown
+1640,Jacob Marius Groen,male
+1641,Maria Salisbury,female
 1642,Jacob Vosburg,male
 1643,Margaret Laurensse,female
+1644,Maria Gaasbeek,female
 1645,Andries Brussy,male
 1646,Engeltje Claeuw,female
 1647,Wyntje Van Deuse,unknown
@@ -1676,17 +1759,25 @@ id,name,gender
 1757,Cornelis La Maitre,male
 1758,Arent Van Schaik,male
 1759,Anna Gansevoort,female
+1760,Dirk Matthysse,male
+1761,Barbara Matthysse,female
+1762,Cornelis Wynkoop,male
 1763,Herbert Teewisz Van Deuse,male
 1764,Margaret Van Steenbergen,female
 1765,Maria Van Steenbergen,female
 1766,Thomas Van Steenbergen,male
+1767,Maria Ten Eyck,female
 1768,Maria Van Loon,female
 1769,Hendrick Beekman,male
 1770,Aaltje Peld,female
 1771,Pieter Ploeg,male
+1772,Jacobus Dubois,male
+1773,Annetje Fynhout,unknown
 1774,Roelof De Duytser,male
 1775,Jan Janse Bleeker,male
+1776,Jan Leg,male
 1777,Margaret Bleeker,female
+1778,Susanna Leg,female
 1779,Jan Henrikse Bont,male
 1780,Annetje Reyers,unknown
 1781,Conrad Bogart,male
@@ -1707,11 +1798,16 @@ id,name,gender
 1796,Cornelia Douw,female
 1797,Daniel Dubois,male
 1798,Salomon Dubois,male
+1799,Abraham Bevier,male
+1800,Hester Bevier,female
+1801,Jan Bevier,male
 1802,Jacob Kip,male
 1803,Willem Schepmoes,male
 1804,Johannes Van Kleek,male
 1805,Lea Dubois,female
+1806,Louis Bevier,male
 1807,Maria Usile,female
+1808,Rachel Vernoy,female
 1809,Tryntje Gerritsz,unknown
 1810,Jacob Anonsfontje,male
 1811,Jacomin Kwanogweech,unknown
@@ -1832,6 +1928,8 @@ id,name,gender
 1926,Pieter Van Oostrande,male
 1927,Adam Dingmans,male
 1928,Tippings (obyt),unknown
+1929,Bastiaan Dewit,male
+1930,Annetje Post,unknown
 1931,Jacob Wenne,male
 1932,Willem Van Vredenburg,male
 1933,Cornelia Vredenburg,female
@@ -1847,6 +1945,7 @@ id,name,gender
 1943,Matthys Jansz,unknown
 1944,Styntje Goes,unknown
 1945,Annetje Singer,unknown
+1946,Jan Pearson,male
 1947,Adam Swart,male
 1948,Johanna Van Slyk,female
 1949,Harmen Jansse Van Salsberry,male
@@ -1854,6 +1953,7 @@ id,name,gender
 1951,Leendert Philipsz,male
 1952,Maeyke Bogart,unknown
 1953,Magdalena Matthysse,female
+1954,Margaret Pearson,female
 1955,Maria Bronk,female
 1956,Matje Van Slyk,unknown
 1957,Pieter Van Slyk,male
@@ -1869,7 +1969,9 @@ id,name,gender
 1967,Blandina Kierstede,female
 1968,Cornelis Vernoy,male
 1969,Sara Gaasbeek,female
+1970,Abraham Gaasbeek Chambers,male
 1971,Jacomin Gaasbeek,unknown
+1972,Sara Bayard,female
 1973,Sara Ten Broek,female
 1974,Thomas Wendel,male
 1975,Tryntje Millington,unknown
@@ -1945,6 +2047,14 @@ id,name,gender
 2045,Anna Maria Tower,female
 2046,Cornelia La Maitre,female
 2047,Maeyke Hun,unknown
+2048,Evert Wynkoop,male
+2049,Cornelis Cool,male
+2050,Grietje Elmendorp,female
+2051,Jenneke Cool,mostly_female
+2052,Gerrit Wynkoop,mostly_male
+2053,Hilletje Gerritsz,unknown
+2054,Maria Dubois,female
+2055,Moses Dubois,male
 2056,Maria Lockerman,female
 2057,Rachel Swartwoud,female
 2058,Machtel Quackenbos,unknown
@@ -2150,6 +2260,10 @@ id,name,gender
 2258,Marrytje Bratt,unknown
 2259,Capt. Bennit wid Ingolsby,unknown
 2260,Capt. James Wimps [Weems],unknown
+2261,Gerrit Schouten,mostly_male
+2262,Dorothe Friddi,female
+2263,Elizabeth Aarnolds,female
+2264,Philip Bois,male
 2265,Jonathan Jansz,male
 2266,Caspar Conyn,male
 2267,Marta Duyking,female
@@ -2179,25 +2293,36 @@ id,name,gender
 2291,Abigail Uyt den Boogert,female
 2292,Alettico Wenne,unknown
 2293,Tam Willemse,male
+2294,Conrad Hendriks,male
+2295,Ariaantje Hendriks,unknown
 2296,Johannes Cloet,male
 2297,Bata Van Slegtenaats,female
 2298,Grietje Volkets,female
 2299,Catalina Van Petten,female
 2300,Teunis Dirricksen,male
+2301,Dirk Jansse Goes,male
+2302,Claas Luycassen Wyngart,male
+2303,Maeyke Jansse Goes,unknown
 2304,Cornelia Claassen,female
 2305,Dorothe Bois,female
 2306,Maritie Van Hoesen,unknown
+2307,Goosse Hendriks,unknown
+2308,Meuwis Hendriks,unknown
 2309,Hilletje Lockerman,unknown
+2310,Lybetie Luycassen Wyngart,unknown
 2311,Marrytje Van der Poel,unknown
 2312,Tryntje De Wandelaar,unknown
 2313,Sije Hoogteelen,male
 2314,Anna Van Vorst,female
 2315,Jacob Turk,male
 2316,Catherine Van Benthuysen,female
+2317,Jacob Conynen,male
+2318,Felix Liendertsz,male
 2319,Johannes Thomasz,male
 2320,Grietje Rykman,female
 2321,Maria Van Petten,female
 2322,Maeyke Thomasz,unknown
+2323,Wyntje Liendertsz,unknown
 2324,Abraham Jansz,male
 2325,Marten Martissen,male
 2326,Pieter Martissen,male
@@ -2547,6 +2672,8 @@ id,name,gender
 2670,Maritie Swart,unknown
 2671,Maritie Lowysz,unknown
 2672,Maritie Pietersz,unknown
+2673,Annetje Jansz Bratt,unknown
+2674,Claartje Jansz Bratt,unknown
 2675,Marrytje Matthysse,unknown
 2676,Elizabeth Matthysse,female
 2677,Catherine Volkenburg,female
@@ -2568,6 +2695,10 @@ id,name,gender
 2693,Grietje Coeman,female
 2694,Geertruy Jacobsz,unknown
 2695,Elizabeth Rogi,female
+2696,Cornelia Pietersz Van Olinda,female
+2697,Annetje Bosboom,unknown
+2698,Jan Henderiksz Vroman,male
+2699,Jan Pietersz Mebi,male
 2700,Jan Becker,male
 2701,Thomas Wenne,male
 2702,Annetje Gansevoort,unknown
@@ -2700,6 +2831,8 @@ id,name,gender
 2829,Cornelis Teunisz Van Vegten,male
 2830,Anna Helmertsz,female
 2831,Gabriel Stridles,male
+2832,Cornelis Dykman,male
+2833,Ariaantje Melchertsz,unknown
 2834,Gerrit Claasz,mostly_male
 2835,Gerrit Wynandsz,mostly_male
 2836,Maritie Vosburg,unknown
@@ -2711,6 +2844,11 @@ id,name,gender
 2842,representing father,unknown
 2843,Styntje Jansz,unknown
 2844,Cornelis Swart,male
+2845,Dirk Willemse,male
+2846,Hendrick Lucasz,male
+2847,Jan Weyer,male
+2848,Pietertje Fransz,unknown
+2849,Pieter Willemsz Slyk,male
 2850,Jacobus Isaacsz,male
 2851,Elizabeth Harris,female
 2852,Hendrick Cornelisz,male
@@ -2777,6 +2915,12 @@ id,name,gender
 2913,Elizabeth Cuyler,female
 2914,Sara Hendriks,female
 2915,Wouter Pietersz Quakelbosch,male
+2916,Jan Jacobsz Van Oostrant,male
+2917,Annetje Van Oostrande,unknown
+2918,Jacob Van Oostrande,male
+2919,Dirk Willemsz Van Slyk,male
+2920,Grietje Willemse,female
+2921,Jan Henderiksz Van den Bergh,male
 2922,Simon Jansz,male
 2923,Dirk Lucasz,male
 2924,Adriaan Van Papendorp,male
@@ -2917,6 +3061,9 @@ id,name,gender
 3059,Gysbert Roos,male
 3060,Egbert Anthonisz,male
 3061,Johannes Pietersz Quakelbosch,male
+3062,Annetje Laamme,unknown
+3063,Hendrick Abelsz Riddenhaas,male
+3064,Thomas Creeve,male
 3065,Ariaentie Verplank,unknown
 3066,Maria Claasz,female
 3067,Jan Thomasz,male
@@ -2933,6 +3080,9 @@ id,name,gender
 3078,Jan Cornelisz Vyselaar,male
 3079,Jan Spoor,male
 3080,Marten Van Berge,male
+3081,Barent Jansz Wimp,unknown
+3082,Jenneke Martensz,mostly_female
+3083,Sweer Teunisz,male
 3084,Willem Abeel,male
 3085,Jan Karten,male
 3086,Joseph Peth,male

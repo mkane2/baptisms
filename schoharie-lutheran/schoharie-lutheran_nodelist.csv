@@ -1,0 +1,613 @@
+id,name
+0,Pieter Ziele
+1,Anatie Ekkerson
+2,Harman Van Aalstein
+3,Dorothea Van Slyck
+4,Joachim Van Aalstein
+5,Eva Valkenburg
+6,Dirck Hagedoorn
+7,Maria Matthiasse
+8,Pieter Larrowa
+9,Maria Van Aalstein
+10,Jacobus Schoelgraft
+11,Anna Christina Kemmer
+12,Adam Starenberg
+13,Elisabeth Rickert
+14,Maattheus Hilts
+15,Anna Eva Tantelaar
+16,Johannes Becker
+17,Cornelia Siele
+18,Teunis Slingerland
+19,Elisabeth Van der Zee
+20,Johannes an Indian
+21,Maria an Indian (1)
+22,Petrus an Indian
+23,Anna an Indian
+24,Conrad Rickert
+25,Elisabeth Haus
+26,Coenraad Coen
+27,Margrieta Koning
+28,Mathias Warner
+29,Anna Parub
+30,Johannes Braun
+31,Maria Elisabeth Vrymayer
+32,Johannes Ekkerson
+33,Maria Borst
+34,Storm Brat
+35,Sophia Zyle
+36,Lambert Sternberg
+37,Catharina Feller
+38,Christian Bauch
+39,Adilia Bekker
+40,Friederich Bauch
+41,Magdalena Ekkerson
+42,Adam Vroman
+43,Dina Larrowa
+44,Reyer Bakster
+45,Apollonia Ekkerson
+46,Bartholomeus Vroman
+47,Susanna Brat
+48,Pieter Beckker
+49,Sara Slingerland
+50,Simeon Larrowa
+51,Jannite Van der Volge
+52,Johan Joost Snell
+53,Maria Cathrina Graft
+54,Ludovicus Rikkert
+55,Catharian Coenraadse
+56,Markus Rickert
+57,Niclaas Feeck
+58,Margrieta Millers
+59,Jurrie Hous
+60,Cathrina Eerhart
+61,Willem Bekker
+62,Anna Dorothea York
+63,Barent Vroman
+64,Engeltie Swart
+65,Jurriaan Timmer
+66,Maria Elisabeth Craus
+67,Hendreck Passagie
+68,Sophia Magdalena Casselman
+69,Pieter Livingston
+70,Anna Apolonia Oosterman
+71,Storm Becker Jr.
+72,Geerdruid Klein
+73,Niclaas Matheyse
+74,Elisabeth Cas
+75,Markus Bellinger
+76,Maria Margerith Zee
+77,Anthony Beckker
+78,Margreet Berninger
+79,Robbert Herres
+80,Niclaas Ekkerson
+81,Maria Mardalene Horn
+82,Storm Becker
+83,Josias Swart
+84,Jannitie Vroman
+85,Barbara Bellinger
+86,Cornelis Van Aalstein
+87,Dennye Fort
+88,Robbin Frieman
+89,Molli Van der Lein
+90,Johannes Zee
+91,Anna Catherina Bellinger
+92,Deobald Hils
+93,Anna Eva Nerbel
+94,Henderick Knieskern
+95,Elisabeth Schaeffer
+96,Hendreck Coenraad
+97,Anna Maria Staring
+98,Hieronymus Heszoog
+99,Anna Margaritha Winther
+100,John Marte Borst
+101,Catharina Mathyse
+102,Jurrie Zimmer
+103,James Schilkragt
+104,Lodewyck Wanner
+105,Anna Margareth Coen
+106,Jochim Falckenberg
+107,Helena Warnar
+108,Michel Frederick
+109,Gertraud Livingston
+110,Hendrick Scheffer
+111,Anna Maria Schäfer
+112,Anna Maria Scherg
+113,Johan Niclaas Matheese
+114,Jacob Merckel
+115,Anna Maria Merckel
+116,Niclaas Miller
+117,Mary Dorotha
+118,Jurrie Coen
+119,Anna Rosina
+120,David Ziele
+121,Engeltie Vroman
+122,Peter Sneider
+123,Elisa Cathrin Brucker
+124,Adam Braun
+125,Eva Vrymeyer
+126,Johan Andries Heering
+127,Eva Catharin Heering
+128,Seth an Indian
+129,Catharina an Indian
+130,John Georgie an Indian
+131,Susanna an Indian
+132,John Hendrick Loux
+133,Anna Elisabeth Loux
+134,Peter Mann
+135,Anna Margareth Mann
+136,John Rudolf Achenbach
+137,Elisa Catharin Ackebach
+138,Johannes Lourens Neubergh
+139,Elisabeth Warner
+140,Jans Jurria an Indian
+141,Anna Margaretha Berninger
+142,Pieter Ball
+143,Anna Margareth Ball
+144,Malli Frieman
+145,Lammert Van Aalstyn
+146,Beckki Van Aalstyn
+147,Margarith Feeck
+148,Henrick Hauch
+149,Anna Fronica
+150,Hannes Weidman
+151,Anna Weidman
+152,Godvried Knieskern
+153,Anna Margareth Knieskern
+154,Michael Sultsberger
+155,Margareth Siek
+156,Thomas Ekkerson
+157,Margaritie Slingerland
+158,Johannes Ingolt
+159,Anna Margaretha Ingold
+160,Jonathan Hoogdeele
+161,Neeltie Van der Volge
+162,Harman Sidnig
+163,Maria Catharina
+164,Conrad Freymauer
+165,Anna Maria Freymauer
+166,George Coen
+167,Michel Wanner
+168,Anna Elisabeth
+169,Rudolpf Ackenbach
+170,Elisa Catharina
+171,Andres Muller
+172,Martia Dorothea
+173,Jacob Enters
+174,Anna Maria
+175,Johan Anthon Engel
+176,Juliana Engel
+177,Barend Kayser
+178,Maria Barbara Keiser
+179,Robin Harrison
+180,Elisabeth Harrison
+181,Theunis Ekkerson
+182,Anna Margareth
+183,Friederich Carl Schell
+184,Maria Barbara Schell
+185,Niclaas Loam
+186,Susanna Margaretha Lahm
+187,Catharina Schert
+188,Gurrie Seibel
+189,Anna Maria Reyin
+190,Hendrick Merki
+191,Frina Bucher
+192,Henrich Kniskern
+193,Elisabeth Kniskern
+194,Maria Barbara Werner
+195,Catharina Sternberg
+196,Peter Löwenstein
+197,Anna Abelena Löwenstein
+198,Johan Friederich Bauch
+199,Magdalena Bauch
+200,Johannes Balthasar Borst
+201,Jurgen Henrich Stubrach
+202,Maria Margareth
+203,Johan Wilhelm Bauch
+204,Anna Elisabeth Bauch
+205,Johannes Nicolaus Lahm
+206,Johannes Bauch
+207,Rudolph Affenbach
+208,Johannes Schäfer Jr
+209,Anna Gerdraut Schäfer
+210,Jacob Sternberg
+211,Eva Sternberg
+212,Christina Elisabet Bauch
+213,Hieronymus Kräusler
+214,Susanna Magdalena Falckenburg
+215,Johan Nicolas Becker
+216,Elisabeth Becker
+217,Peter N. Sommer
+218,Maria Sommer
+219,Abelona Lowenstein
+220,Peter Mesi Froman
+221,Anna Barbara
+222,Johannes Casselman
+223,Maria Eva
+224,Johan Michel Brand
+225,Jürgen Förster
+226,Jost Werner
+227,Michel Brand
+228,Barbara Warner
+229,Adam Schäfer
+230,Maria Magdalena
+231,Jacob Veeg
+232,Sebastian Becker
+233,Anna Eva
+234,Michel Borst
+235,Adam Zee
+236,Anna Maria Bellinger
+237,Michel Hilsinger
+238,Jacob an Indian (1)
+239,Maria an Indian (2)
+240,Conrad Quand
+241,Christian Schulkraf
+242,Elisabeth Margareth
+243,Sebastian Franz
+244,Tobias Haün
+245,Maria Elisabeth
+246,Paul Brandner
+247,Lorentz Jr. an Indian
+248,Sara an Indian
+249,Tinus an Indian
+250,Nelje an Indian
+251,Wilhelm Entes
+252,Joseph an Indian
+253,Maria an Indian (4)
+254,Henrich Matthes
+255,Jacob an Indian (2)
+256,Christina an Indian
+257,Jacob Ball
+258,Seth Vroman
+259,Samuel Hagedoorn
+260,Isaak Van Aalstein
+261,Joost Bellinger
+262,Jurriaan Sibel
+263,Cornelius Sixbury
+264,Storm Vander Zee
+265,William Fox
+266,Henerich Falckenburg
+267,Jacobus Falckenburg
+268,Johann Michael Freymeyer
+269,Johannes Van Sleek
+270,Martinus Van Aalstein
+271,Coenraad Haus
+272,Fredrik Bekker
+273,Jonas Larrowa
+274,Robbert Frieman
+275,Isaack Faalck
+276,Johannes Vedder
+277,Pieter Vroman
+278,Timotheus Vroman
+279,Jacob Borst Jr
+280,Johannes Frederik
+281,Cornelis Vroman
+282,Niclaas Yorck
+283,Hendreck Mathyse
+284,Lambert Starenberg
+285,Hendrick Bellinger
+286,John Larrowa
+287,Harme Haus
+288,Johannes Becker Jr.
+289,Abraham Berg
+290,Thenis Van der Volge
+291,John Jurrie Ekkerson
+292,Marthynes Vrooman
+293,Martins Rickert
+294,Conrad Freimauer
+295,Ephraim Bradt
+296,Christeyaam Scheffer
+297,John Wilhelm Kemmer
+298,Adam Swart
+299,Michael Vrymayer
+300,Jerri Sybel
+301,Johannes Schäfer
+302,Jacob Sneider
+303,Abram Van Aalsytn
+304,John Michael Wanner
+305,Harman Valkenburgh
+306,Johan Philip Fux
+307,Johannes Beckker Sr.
+308,Willem Bartram Enters
+309,Johannes Lawyer Sr
+310,Willem Bauck
+311,Johannes Finck
+312,Joost Knieskern
+313,Hans Jurrie an Indian
+314,Maria an Indian (3)
+315,Louzus an Indian
+316,Juriie Ekkerson
+317,Pieter Bratd
+318,Diderick Jokkob
+319,Hannes Bauch
+320,Pieter Midler
+321,Johan Lips Berg
+322,John Peter Vischer
+323,Joseph Bestede
+324,Hans Jurrie Couterman
+325,Andries Waard
+326,John Niclaas Beckker
+327,Hamran Van der Zee
+328,Joseph Dance
+329,Johannes Bal
+330,Jacob Freidrich Lawyer
+331,Johannes Knieskern
+332,Pellis Warreson
+333,Hendrick Stuprach
+334,Matthes Bowman
+335,John Lawyer Jr.
+336,Jacob Mentes
+337,Jacob Zimmer
+338,John Philips Bergh
+339,Joerge Henderick
+340,Willem Dietz
+341,Michael Francken
+342,Hannis Lawyer Jr.
+343,Gotfried Kniskern
+344,Elisabeth --gern
+345,Peter Kniskern
+346,Peter Nicolas Sommer
+347,Johannes Freymäuer
+348,Christian Bauch Sr.
+349,Johan Peter Kniskern
+350,Anna Dorothea Bauch
+351,Joseph Schneider
+352,Johann Jurgen Werner
+353,Eva Staring
+354,Jost Kniskern
+355,Anton Engel
+356,Marten Hook
+357,Asten Schulkraf
+358,Gerdraut Friederichs
+359,Johannes Martin Borst
+360,Jost Borst
+361,Jacob Egert
+362,Christian Bauch Jr.
+363,Henrich Bellinger
+364,Martinus von Alstein
+365,Jacob Friederich Lawyer
+366,Johannes Lawyer Jr
+367,Johan Henrich Mann
+368,Jürgen Werner
+369,Niclas Matthes
+370,Jurgen Windecker
+371,Ludwig Rickert
+372,Lorentz Lawyer
+373,Jacob Friderich Lawyer
+374,Johan Mickel Becker
+375,Christian Schäfer
+376,Jürgen Seibel
+377,Jellis Worris
+378,Mr Feller
+379,Johan Jacob Häns
+380,Henrich Häns
+381,Matthes Werner
+382,Wilhelm Maters
+383,Johannes Wolfgang Berlet
+384,Peter Jung
+385,Peter Vroman
+386,Johann Peter Kniskern
+387,Johannes Freymauer
+388,Jacob Häns
+389,Johan Jost matthes
+390,Michel Freymäuer
+391,Jürgen Zimmer
+392,Niclas York
+393,Henrich Schäfer
+394,Philip Berg
+395,Jacob Schäfer
+396,Michel Friemäuer
+397,Johan Balthasar Borst
+398,Martinus Schäfer
+399,Johannes Veeg
+400,Margareta Seibel
+401,Henrich Conrad
+402,Cornelius Vroman
+403,Jürgen Henrich Stubrach
+404,Christian Zee
+405,Johannes Rickert
+406,Marx Rickert
+407,Nickel Matthes
+408,Wilhelm Braun
+409,Jürgen Ricktmeier Jr.
+410,Nickel Sternberg
+411,Johannes Borst
+412,Salomon Meier
+413,Reinhard Häns
+414,Henrich Merki
+415,Maria Kniskern
+416,Adam Kräusler
+417,Jacob Krieshauf
+418,Jacob Shäfer
+419,Mark Rickert
+420,Johan Jost Borst
+421,Christian Bachmann
+422,Christian Schelf
+423,Jürgen Henrich Mann
+424,Anton Becker
+425,Stephen Friederich
+426,Johannes Schäfer Jr.
+427,Jost Matthes Jr.
+428,Henrich Schäfer Jr
+429,Jacob Friedrich Lawyer
+430,Johan Christoph Ohle
+431,Jurgen Michel Happolt
+432,Christolph Merckle
+433,Andres Rantzis
+434,Michel Freymauer
+435,Gottlieb Kospott
+436,Johan Michel König
+437,Anthon Widmer
+438,Franz Otto
+439,Friederich Schupp
+440,Johannes Eckert
+441,Michel Merckle
+442,Henrich Frey
+443,Adam Becker
+444,Philip Merckel
+445,Lorentz Sr. an Indian
+446,Henrich Häger
+447,Philip Freymäuer
+448,Johan Jacob Werth
+449,Johannes Ingold
+450,Caspar Christolph Rettig
+451,Jürgen Huls
+452,Johan Nickel Matthes
+453,Adam Braun Jr.
+454,Leonhard Adam Ramser
+455,Henrich Ball
+456,Eberhard Bürckle
+457,Johannes Stürtz
+458,Richard Baxter
+459,Maria Ziele
+460,Eva Van Aalstein
+461,Derkje Van Sleek
+462,Elisabeth Teller
+463,Catherina Van Aalstein
+464,Johannes Siever
+465,Elisabeth Savooja
+466,Maria Engel Hils
+467,Annatje Bekker
+468,Antje Van der Zee
+469,Maria Slingerland
+470,Magrieta Pellinger
+471,Catharina Bellinger
+472,Helena Van Sleek
+473,Corneila Larrowa
+474,Christina Walraad
+475,Cathrina Zenger
+476,Anna Dorothea
+477,Anatche Uzile
+478,Dina Hagedoorn
+479,Lydia Van Slyck
+480,Maria Fort
+481,Geertje Van Aalstein
+482,Elisabeth Slingerland
+483,Margrieta Viele
+484,Elisabeth Broekkerzon
+485,Sophia Layers
+486,Maria Catje Snell
+487,Maria Dorothea Warner
+488,Maria Elisabeth Berg
+489,Sofina Mathyse
+490,Barbara Wanner
+491,Marytie Klein
+492,Sara Van der Volge
+493,Elisa Margareth Winner
+494,Marytie Larrowa
+495,Elisabeth Lawyer
+496,Engeltie Ziele
+497,Elisabeth Bellinger
+498,Anna Maria Knieskern
+499,Anna Appalonia Warner
+500,Anatie Siele
+501,Margarith Bauch
+502,Anna Maria Bauch
+503,Cornelia Van der Berg
+504,Dintie Vroman
+505,Anna Maria Zoller
+506,Anna Eva Fux
+507,Geertraud Ekkerson
+508,Elisabeth Sneider
+509,Jannitie Van Aalstyn
+510,Anna Elisabeth Ceonin
+511,Anna Margareeth Beckkers
+512,Apelonia Livingston
+513,Lise Berbel Coen
+514,Marytie Ziele
+515,Geertruid Vroman
+516,Elisa Barbara Coen
+517,Elisabeth Sternberg
+518,Elisa Chatarin Sneider
+519,Ann Elies Berninger
+520,Maria Elisabeth Knieskern
+521,Maria Eva Hils
+522,Marytie Scheffer
+523,Maria Hagedoorn
+524,Elisabeth Vreymeyer
+525,Mary Christina Enters
+526,Margaretha Elisabeth Sneider
+527,Anna Elisabeth Berg
+528,Cornelia Beckker
+529,Catharina Elisabeth Ballin
+530,Mary Catharin Vreymeyer
+531,Elisa Margaret Knieskern
+532,Elisabeth Couterman
+533,Catharina Seibel
+534,Dorothea Wanner
+535,Eva Van der Zee
+536,John Jacob Zimmer
+537,Angentie Vedder
+538,Anna Rickert
+539,Maria Catherina Ekkerson
+540,Elisabeth Berg
+541,Maria Magdalena Inkhoold
+542,Cornelia Van Aalstyn
+543,Anna Maria Beckker
+544,Eva Starnberger
+545,Maria Barbara Bellinger
+546,Catharina Elisabeth
+547,Maria Margareth Zimmer
+548,Hannes Hagedoorn
+549,Anna Margaretha Kniskern
+550,Dorothea Hüls
+551,Maria Magdalena Ingold
+552,Anna Elisabet Berg
+553,Margaretha Ballen
+554,Catharina Schäfer
+555,Elisabeth Barbara Sternberg
+556,Margareta Contermann
+557,Maria Magdalena Ingoldt
+558,Magdalena Peg
+559,Catharina Kayser
+560,Bartholomaus Osterman
+561,Catharina Elisabet Ballen
+562,Anna Maria Rickert
+563,Margareth Bellinger
+564,Jost Schäfer
+565,Maria Elisabet Schneider
+566,Johannes Kniskern
+567,Wilhelm Schneider
+568,Margareth Freimäuer
+569,Margareth Freymäuer
+570,Margaretha Braun
+571,Catharina Matthes
+572,Christina Schäfer
+573,Maria Werner
+574,Jürgen Rickert
+575,Catharina Zimmer
+576,Elisabetha Becker
+577,Sophia Rickert
+578,Elisabet Barbara Sternberg
+579,Catharina Ingold
+580,Eva Richtmeier
+581,Gerdraut Conrad
+582,Maria Veeg
+583,Sophia Ingold
+584,Maria Elisabeth Yorck
+585,Peter Becker
+586,Magdalena Braun
+587,Anna Matthes
+588,Anna Bellinger
+589,Dorothea Seibel
+590,Elisabeth Veeg
+591,Catherina Ingold
+592,Maria Catharina Sommer
+593,Elisabeth Kräusler
+594,Gerdraut Zimmer
+595,Catharina Becker
+596,Elisabeth Schulkraf
+597,Margaretha Kayser
+598,Sara Matthes
+599,Catharina Rickert
+600,Elisabeth Schneider
+601,Magrieta Bekker
+602,Magdalena Bekker
+603,Christiaan Bauch
+604,Joost Mathees
+605,Maria Elisabeth Zimmer
+606,Eva Sternburg
+607,Christian Ernst Ottman
+608,Hendrik Valkenburg
+609,Margaretha Bauch
+610,Johanna Heuk
+611,Isaac an Indian

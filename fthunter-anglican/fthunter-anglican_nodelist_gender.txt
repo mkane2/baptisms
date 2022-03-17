@@ -14,12 +14,19 @@ id,name,gender
 12,Owen Connor,male
 13,Sarah Connor,female
 14,William Bowen,male
+15,Aaron 1,male
+16,Adam Tegedoonrek,male
+17,Christina Tegedoonrek,female
+18,Thomas Butler,male
+19,Margret Ejwaghtarani,female
 20,Aaron 2,male
 21,Aron Oseragighte,male
 22,Margaret Oseragighte,female
 23,Aria,unknown
 24,Esras Sr,unknown
 25,Anna Arons Sister,female
+26,Andrew Agerondongwass,male
+27,Deborak Teonoonaron,unknown
 28,Anna Clement,female
 29,Mary Clement,mostly_female
 30,Anna Henry's wife,female
@@ -29,6 +36,8 @@ id,name,gender
 34,Simon Waghnekaragkwa,male
 35,Gesina Waghnekaragkwa,female
 36,Mary Teonuleri,mostly_female
+37,Cannasswane,unknown
+38,Margaret Cannasswane's wife,female
 39,Catherine Sadagayeenda,female
 40,Joseph Clement,male
 41,Christina Ogoghsanogighta,female
@@ -64,9 +73,13 @@ id,name,gender
 71,Elizabeth Phillipse,female
 72,Mary 14,mostly_female
 73,Phillip Phillipse,male
+74,Mary 3,mostly_female
 75,Nicholas Hansen,male
+76,Paul 4,male
+77,Mary Paul's wife,mostly_female
 78,Sarah 6,female
 79,Sarah Prentop,female
+80,Seth 5,male
 81,Son of Petrus,mostly_male
 82,Petrus,unknown
 83,William 6,male
@@ -101,6 +114,8 @@ id,name,gender
 112,Henry2,unknown
 113,Seth 7,male
 114,Margaret Seth's wife,female
+115,Isack,unknown
+116,Christian 1,male
 117,Abraham 2,male
 118,Abraham Ouderkerk,male
 119,Mary Ouderkerk,mostly_female
@@ -123,6 +138,10 @@ id,name,gender
 136,Mary Hall,mostly_female
 137,Anna Eva Saltser,female
 138,Anna Hendrick's wife,female
+139,Annatie Erikson,unknown
+140,Ann Magraw,female
+141,Ariyantie Dawson,unknown
+142,Gerrit Erikson,mostly_male
 143,Isaac Anoghsookte,male
 144,Elizabeth Anoghsookte,female
 145,Canasteje,unknown
@@ -143,9 +162,15 @@ id,name,gender
 160,Claes,unknown
 161,William Sixbury's wife,male
 162,Mary 26,mostly_female
+163,Elizabeth Swart,female
+164,Terrey Thickston,unknown
+165,Teunis Swart,male
+166,Christina Swart,female
 167,Esras Kaneraghtaghare,unknown
 168,Seth Karonkyaghkwa,male
 169,Margaret Karonkyaghkwa,female
+170,Engeltie2,unknown
+171,William Dawson,male
 172,Hugh Linch,male
 173,Mary Linch,mostly_female
 174,Robt Clarke,unknown
@@ -169,8 +194,15 @@ id,name,gender
 192,Peter 7,male
 193,Rachel 1,female
 194,Sarah 1,female
+195,Teunis,unknown
+196,Wouter Swart,male
 197,William 5,male
 198,William Mills,male
+199,Abraham 3,male
+200,Cornelius Groot,male
+201,Elizabeth Groot,female
+202,Abraham Groot,male
+203,Willempie Groot,unknown
 204,Abraham 6,male
 205,Christina Abraham's wife,female
 206,Karonkyagera,unknown
@@ -178,12 +210,24 @@ id,name,gender
 208,Gesina Canostens,female
 209,Abraham Oneida,male
 210,Christina Oneida,female
+211,Abraham Truax,male
+212,Christina Truax,female
+213,Abraham Van der Pool,male
+214,Elizabeth Van der Pool,female
+215,Melkert Van Der Pool,unknown
+216,Ariyantie van der Pool,unknown
+217,Maike Witbeek,female
 218,Alida Karonkyatikha,female
 219,Gideon 3,male
 220,Mary Gideon's Daughter,mostly_female
 221,Alida Lenine,female
 222,Arent Lenine,male
 223,Margaret Lenine,female
+224,Andrew,unknown
+225,Harper,unknown
+226,Harper's wife,unknown
+227,Thomas Nixon,male
+228,Helena Bratt,female
 229,Andrew Oliver,male
 230,Anna Dorothea Barclay,female
 231,Sealy Livingston,unknown
@@ -196,10 +240,21 @@ id,name,gender
 238,Ann Eva Yayayer,female
 239,Mathew Fennin,male
 240,Brant 8,male
+241,Anna Connor,female
+242,John Patist van Epss,male
 243,Anna Phronica his wife,female
 244,Barent Vrooman Jr,unknown
 245,Hendrick7,unknown
 246,Christina Hendrick's wife,female
+247,Arent,unknown
+248,Harman Vedder,unknown
+249,Mary Vedder,mostly_female
+250,Arent Vedder Sr,male
+251,Simon Vedder,male
+252,Arent Stevens,male
+253,Mary Stevens,mostly_female
+254,Ephraim Smith,male
+255,Annatie Smith,unknown
 256,Ariaentie Wemp,unknown
 257,Rebecca Wemp,female
 258,Ariyaentie 2,unknown
@@ -234,11 +289,17 @@ id,name,gender
 287,Mary Hare,mostly_female
 288,Peter Mynderse,male
 289,Sarah Quakenbus,female
+290,Catherine1,unknown
+291,Cecilia,female
+292,Edward Connor,male
 293,Chatharina,unknown
 294,Christian 2,male
 295,Margaret Christian's wife,female
 296,Gideon Dewignidoge,male
 297,Christina1,unknown
+298,Christina2,unknown
+299,Cornelius Van Slyk Jr,male
+300,Jannitie Van Slyk,unknown
 301,Isaac Collier,male
 302,Annatie Collier,unknown
 303,Cornelius Lenine,male
@@ -260,6 +321,7 @@ id,name,gender
 319,Geeshie,unknown
 320,Hendrick Vrooman,male
 321,Jacamin1,unknown
+322,Jacobus1,unknown
 323,Janie,unknown
 324,Rachel Quackenbus,female
 325,Johannis Loos,unknown
@@ -303,6 +365,9 @@ id,name,gender
 363,David Kahowa,male
 364,Susanna Kahowa,female
 365,Elizabeth Prentop,female
+366,Peter Coieman,male
+367,Andries Witbeek,male
+368,Charlotta Amelia Coieman,female
 369,Alida 2,female
 370,Alida Bowen,female
 371,Alida Wemp,female
@@ -323,6 +388,10 @@ id,name,gender
 386,Walter Welch,male
 387,George Philips,male
 388,Sarah Manes,female
+389,Ann Nixon,female
+390,Thomas Burrows,male
+391,Sophia Peters,female
+392,Ariyaentie Veeder,unknown
 393,Ann Quackenbus,female
 394,Mary 24,mostly_female
 395,Anna Huber,female
@@ -335,6 +404,11 @@ id,name,gender
 402,Mary Seth's wife,mostly_female
 403,Cornelius 8,male
 404,Neeltie Cornelius' wife,unknown
+405,Anthony Oniyingodon,male
+406,Margaret Oniyingodon,female
+407,John Garihotea,male
+408,Susanna Kanighsentha,female
+409,Jannitie Kannoenoah,unknown
 410,Catharina,unknown
 411,Baltus,unknown
 412,Catharine Speck,female
@@ -360,11 +434,19 @@ id,name,gender
 432,Cornelius 7,male
 433,Neeltie 5,unknown
 434,Seth 11,male
+435,Cornelius2,unknown
+436,John Shaddidaghton,male
+437,Martina Shaddidaghton,female
 438,Cornelius3,unknown
 439,Joseph Decasonyorea,male
 440,Margaret Decasonyorea,female
 441,David Quackenbus,male
 442,David10,unknown
+443,David9,unknown
+444,Peter Teyoronkyathe,male
+445,Mary Teyoronkyathe,mostly_female
+446,Isaack Sinhagtontho,unknown
+447,David Seregwaghakon,male
 448,Elizabeth Powel,female
 449,William Johnson,male
 450,Elizabeth White,female
@@ -409,6 +491,8 @@ id,name,gender
 489,Seth 8,male
 490,Lot,unknown
 491,Lydia,unknown
+492,Margaret 1,female
+493,Margaret 8,female
 494,Maria Catharina,female
 495,Martha,unknown
 496,Mary 11,mostly_female
@@ -425,6 +509,9 @@ id,name,gender
 507,Amia,unknown
 508,Ann Magdalene,female
 509,Joseph Walleslous's wife,male
+510,Ann Van Buren,female
+511,Cornelius Van Buren,male
+512,Eytie Vosburg,unknown
 513,Anna 4,female
 514,Alida Osaragihle,female
 515,Area Gerritse Nukerk,unknown
@@ -452,11 +539,23 @@ id,name,gender
 537,John Syehowane's wife,male
 538,Gerrit Nukerk,mostly_male
 539,Engeltie Van Driesen,unknown
+540,Ephraim,unknown
+541,Tobias Van Buren,male
+542,Gedion Sehonjowane,unknown
+543,Catharine Sehonjowane,female
 544,Gerrit,unknown
 545,Rachel Sradit,female
 546,Gideon1,unknown
+547,Henderick Kaghsoghyaetha,unknown
+548,Christina Kaghsoghyaetha,female
+549,Henderick3,unknown
+550,Nicus 3,unknown
+551,Sarah Kanaghkwase,female
 552,Henderick4,unknown
 553,Kahickgo,unknown
+554,Henrieus,unknown
+555,Margaret Henrieus' wife,female
+556,Paulus 1,male
 557,Isaac3,unknown
 558,Jacob 10,male
 559,Jacob Tagaghrorieaethe,male
@@ -465,6 +564,9 @@ id,name,gender
 562,Jacob7,unknown
 563,Mary Serehowane,mostly_female
 564,Mary Seyoenwese,mostly_female
+565,Jacob8,unknown
+566,Peter Kanasagrongo,male
+567,Mary Kanasagrongo,mostly_female
 568,Jacob9,unknown
 569,James3,unknown
 570,John Lagy,male
@@ -489,6 +591,7 @@ id,name,gender
 589,Ester Kenderago,female
 590,Moses 1,male
 591,Neeltie 3,unknown
+592,Paul 3,male
 593,Robert 2,male
 594,Sarah 5,female
 595,Thomas 3,male
@@ -517,6 +620,10 @@ id,name,gender
 618,John Cleyn,male
 619,Saltser,unknown
 620,Edward Mills,male
+621,Ester,unknown
+622,Jacob,unknown
+623,Hendrick Peterse,male
+624,Gesina 1,female
 625,Ester 1,female
 626,Ester Paul's wife,female
 627,Gesina 2,female
@@ -569,6 +676,10 @@ id,name,gender
 674,Cornelia Asaph's wife,female
 675,Kisiagoe's wife,unknown
 676,Benjamin1,unknown
+677,Brant,unknown
+678,Seth 9,male
+679,Nicus 4,unknown
+680,Alida 5,female
 681,Brant 7,male
 682,Margaret 10,female
 683,Lydia Seth's daughter,female
@@ -591,16 +702,36 @@ id,name,gender
 700,David3,unknown
 701,David4,unknown
 702,David5,unknown
+703,Dowe Fonda,unknown
+704,Margaret Fonda,female
+705,Hans Knoet,male
+706,Thaneke Knoet,unknown
+707,Lana Yaets,female
 708,Edward3,unknown
 709,Margaret Mills,female
+710,Elenor,unknown
+711,Elenor Middleton,female
+712,John Akerman,male
+713,John Ackerman's wife,male
+714,Mary Thin,mostly_female
 715,Elizabeth Dunn,female
 716,Richard James,male
+717,Eve2,unknown
+718,Petrus Patray,male
+719,Seth 14,male
+720,Neeltie 7,unknown
 721,Gerritie Barclay,unknown
 722,Hans Jacob,male
 723,Helena,unknown
 724,Helena Walleslous,female
 725,Henry1,unknown
+726,Isaac4,unknown
+727,Joseph 12,male
+728,Catharine 11,female
+729,Jacob4,unknown
 730,James Dunn,male
+731,John 15,male
+732,Thomas Brant's son,male
 733,John 9,male
 734,John Barclay,male
 735,Margaret 4,female
@@ -609,6 +740,7 @@ id,name,gender
 738,Mary 16,mostly_female
 739,Moses 3,male
 740,Paul 2,male
+741,Rachel 3,female
 742,Richard,unknown
 743,Sarah 3,female
 744,Seth 4,male
@@ -616,12 +748,23 @@ id,name,gender
 746,William 3,male
 747,Abraham 8,male
 748,Mary S,mostly_female
+749,Andries Ten Eyk,male
+750,David Verplank,male
 751,Rachel Van Allen,female
+752,Anna 2,female
+753,Cornelius Kaghneghtagon,male
+754,James,unknown
+755,Magdalene 4,female
+756,Anna 3,female
+757,Simon 3,male
+758,Gesina 3,female
 759,Phillipse,unknown
 760,Brant 5,male
 761,Margaret Brant's wife,female
 762,Mary Osaragihte,mostly_female
 763,Ephraim Wemp,male
+764,Brant 6,male
+765,Mary Peterse,mostly_female
 766,Brant Jr,male
 767,Seth Sietstarare Karihoge Jr,male
 768,Brant3,unknown
@@ -632,15 +775,22 @@ id,name,gender
 773,Christian Walter,male
 774,Mrs Nukerk,unknown
 775,Christina 4,female
+776,Christina Paulus's wife,female
 777,Christopher Magraw,male
 778,Claes Philipse,male
 779,Susanna Quackenbus,female
 780,Cornelius4,unknown
 781,Joseph Sonhahtowane,male
 782,Cornlius Potman,unknown
+783,Daniel 1,male
+784,Sarah 9,female
 785,Daughter2,unknown
 786,David7,unknown
 787,John Seghnegearat,male
+788,David8,unknown
+789,Nicus 2,unknown
+790,Paulus 2,male
+791,Unknown 2,unknown
 792,Dorothy,unknown
 793,Marte Van Olinde,female
 794,Marte Van Olinde's wife,female
@@ -648,16 +798,25 @@ id,name,gender
 796,Downard,unknown
 797,Edward1,unknown
 798,Elizabeth Huff,female
+799,Elizabeth5,unknown
+800,William Lamb,male
+801,Saml Cotes,unknown
+802,Margaret Dowler,female
+803,Elizabeth Cramer,female
 804,Eva1,unknown
 805,Rebecca,unknown
 806,William Hall,male
 807,Henry Harris,male
+808,Henderick5,unknown
 809,Henderick6,unknown
 810,Leah,unknown
+811,Isaac1,unknown
 812,Joseph 11,male
 813,Sarah 11,female
 814,Jacob Potman,male
 815,Elizabeth Evans,female
+816,John 11,male
+817,Paulus,unknown
 818,John 5,male
 819,John 6,male
 820,John 8,male
@@ -674,6 +833,7 @@ id,name,gender
 831,Mrs Gronendick,unknown
 832,Magdalene 2,female
 833,Margaret 3,female
+834,Margaret 9,female
 835,Mary 13,mostly_female
 836,Nicholaus,unknown
 837,Mary Nicholas' wife,mostly_female
@@ -682,6 +842,7 @@ id,name,gender
 840,Mary 4,mostly_female
 841,Mary 5,mostly_female
 842,Neeltie 4,unknown
+843,Peter 1,male
 844,Peter 2,male
 845,Peter 3,male
 846,Peter 5,male
@@ -689,6 +850,7 @@ id,name,gender
 848,Rachel 6,female
 849,William Bowen Jr,male
 850,Sarah 2,female
+851,Sarah 7,female
 852,Son 1,mostly_male
 853,Thomas 1,male
 854,Thomas 7,male
@@ -698,10 +860,19 @@ id,name,gender
 858,Aaron,unknown
 859,David Laroy,male
 860,Isaack,unknown
+861,Abraham 7,male
 862,Elizabeth Canostens,female
 863,Mary Canostens,mostly_female
+864,Adam 2,male
+865,Jury,unknown
+866,Mary 25,mostly_female
+867,Adrian Quackenbus,male
+868,Sybrant Quackenbus,unknown
+869,Maghtel Quackenbus,unknown
 870,Andrew Frank,male
 871,Anna 1,female
+872,Anna Kaniyoghsawero,female
+873,Joseph Onondagera,male
 874,Anthony Speck,male
 875,Susannah Speck,female
 876,Ariyaentie4,unknown
@@ -714,29 +885,46 @@ id,name,gender
 883,child,unknown
 884,Mr Harper,unknown
 885,Unknown 3,unknown
+886,Child 1,unknown
 887,Child 2,unknown
 888,Child 3,unknown
 889,Christian,unknown
 890,Christina Eerhart,female
 891,Mary Magraw,mostly_female
+892,Cornelia Cromwell,female
+893,Mary Williams,mostly_female
 894,Anna Sixbury,female
 895,Cornelius6,unknown
 896,Sarah Paulus' wife,female
+897,Daughter1,unknown
+898,Joseph 8,male
+899,Daniel,unknown
 900,David1,unknown
 901,Edward2,unknown
 902,Luke Casidy,male
 903,Laghlan Doyla,unknown
 904,Isabel Mathews,female
+905,Elizabeth11,unknown
+906,Wolf,unknown
 907,Elizabeth2,unknown
 908,Elizabeth3,unknown
 909,Petrus Aront,male
 910,Engeltie1,unknown
+911,Frances2,unknown
+912,Thomas Harris,male
+913,Stephanus Cromwell,male
 914,Henderick2,unknown
 915,Henry Huber,male
 916,Seth Anthony's son,male
 917,Seth Anthony's wife,male
 918,Jacob Sayighranoha,male
+919,Jacob Tagwayanont,male
+920,Seth 12,male
+921,Magdalene 5,female
 922,Peter Quackenbus,male
+923,Jacobus2,unknown
+924,Joseph 10,male
+925,Margaret Joseph's wife,female
 926,James Wilson,male
 927,John 17,male
 928,John Dunbar,male
@@ -747,11 +935,15 @@ id,name,gender
 933,Thomas 5,male
 934,Joseph 3,male
 935,Magdalene 1,female
+936,Maghtel,unknown
 937,Mary 10,mostly_female
 938,Negro Child,unknown
+939,Nicus Onwerigoughsere,unknown
+940,Thomas Shayonwiyo,male
 941,Peter 11,male
 942,Peter 6,male
 943,Peter 8,male
 944,Sarah 4,female
 945,Seth 2,male
+946,Seth 3,male
 947,Victor 1,male

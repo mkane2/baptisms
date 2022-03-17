@@ -14,12 +14,19 @@ id,name,gender,race
 12,Owen Connor,male,white
 13,Sarah Connor,female,white
 14,William Bowen,male,white
+15,Aaron 1,male,white
+16,Adam Tegedoonrek,male,white
+17,Christina Tegedoonrek,female,white
+18,Thomas Butler,male,white
+19,Margret Ejwaghtarani,female,white
 20,Aaron 2,male,white
 21,Aron Oseragighte,male,white
 22,Margaret Oseragighte,female,white
 23,Aria,unknown,white
 24,Esras Sr,unknown,white
 25,Anna Arons Sister,female,white
+26,Andrew Agerondongwass,male,white
+27,Deborak Teonoonaron,unknown,white
 28,Anna Clement,female,white
 29,Mary Clement,female,white
 30,Anna Henry's wife,female,white
@@ -29,6 +36,8 @@ id,name,gender,race
 34,Simon Waghnekaragkwa,male,white
 35,Gesina Waghnekaragkwa,female,white
 36,Mary Teonuleri,female,white
+37,Cannasswane,unknown,white
+38,Margaret Cannasswane's wife,female,white
 39,Catherine Sadagayeenda,female,white
 40,Joseph Clement,male,white
 41,Christina Ogoghsanogighta,female,white
@@ -64,16 +73,20 @@ id,name,gender,race
 71,Elizabeth Phillipse,female,white
 72,Mary 14,female,white
 73,Phillip Phillipse,male,white
+74,Mary 3,female,white
 75,Nicholas Hansen,male,white
+76,Paul 4,male,white
+77,Mary Paul's wife,female,white
 78,Sarah 6,female,white
 79,Sarah Prentop,female,white
+80,Seth 5,male,white
 81,Son of Petrus,male,white
 82,Petrus,unknown,white
 83,William 6,male,white
 84,William Prentop,male,white
 85,Abel,unknown,white
 86,Margaret Abel's wife,female,white
-87,Neeltie Esras' wife,unknown,white
+87,Neeltie Esras' wife,female,white
 88,Catharine Tewaghjewasha,female,white
 89,Simon 4,male,white
 90,Jaeamine Tagwanagon,unknown,white
@@ -92,7 +105,7 @@ id,name,gender,race
 103,Lucas Jughahise,male,white
 104,Margaret Jughahiese,female,white
 105,Mary Stouiston,female,white
-106,Neeltie 1,unknown,white
+106,Neeltie 1,female,white
 107,Paul 1,male,white
 108,Peter 9,male,white
 109,Rut son,female,white
@@ -101,6 +114,8 @@ id,name,gender,race
 112,Henry2,unknown,white
 113,Seth 7,male,white
 114,Margaret Seth's wife,female,white
+115,Isack,unknown,white
+116,Christian 1,male,white
 117,Abraham 2,male,white
 118,Abraham Ouderkerk,male,white
 119,Mary Ouderkerk,female,white
@@ -123,6 +138,10 @@ id,name,gender,race
 136,Mary Hall,female,white
 137,Anna Eva Saltser,female,white
 138,Anna Hendrick's wife,female,white
+139,Annatie Erikson,female,white
+140,Ann Magraw,female,white
+141,Ariyantie Dawson,unknown,white
+142,Gerrit Erikson,male,white
 143,Isaac Anoghsookte,male,white
 144,Elizabeth Anoghsookte,female,white
 145,Canasteje,unknown,white
@@ -143,9 +162,15 @@ id,name,gender,race
 160,Claes,unknown,white
 161,William Sixbury's wife,male,white
 162,Mary 26,female,white
+163,Elizabeth Swart,female,white
+164,Terrey Thickston,unknown,white
+165,Teunis Swart,male,white
+166,Christina Swart,female,white
 167,Esras Kaneraghtaghare,unknown,white
 168,Seth Karonkyaghkwa,male,white
 169,Margaret Karonkyaghkwa,female,white
+170,Engeltie2,unknown,white
+171,William Dawson,male,white
 172,Hugh Linch,male,white
 173,Mary Linch,female,white
 174,Robt Clarke,unknown,white
@@ -169,8 +194,15 @@ id,name,gender,race
 192,Peter 7,male,white
 193,Rachel 1,female,white
 194,Sarah 1,female,white
+195,Teunis,unknown,white
+196,Wouter Swart,male,white
 197,William 5,male,white
 198,William Mills,male,white
+199,Abraham 3,male,white
+200,Cornelius Groot,male,white
+201,Elizabeth Groot,female,white
+202,Abraham Groot,male,white
+203,Willempie Groot,unknown,white
 204,Abraham 6,male,white
 205,Christina Abraham's wife,female,white
 206,Karonkyagera,unknown,white
@@ -178,12 +210,24 @@ id,name,gender,race
 208,Gesina Canostens,female,white
 209,Abraham Oneida,male,white
 210,Christina Oneida,female,white
+211,Abraham Truax,male,white
+212,Christina Truax,female,white
+213,Abraham Van der Pool,male,white
+214,Elizabeth Van der Pool,female,white
+215,Melkert Van Der Pool,unknown,white
+216,Ariyantie van der Pool,unknown,white
+217,Maike Witbeek,female,white
 218,Alida Karonkyatikha,female,white
 219,Gideon 3,male,white
 220,Mary Gideon's Daughter,female,white
 221,Alida Lenine,female,white
 222,Arent Lenine,male,white
 223,Margaret Lenine,female,white
+224,Andrew,unknown,white
+225,Harper,unknown,white
+226,Harper's wife,unknown,white
+227,Thomas Nixon,male,white
+228,Helena Bratt,female,white
 229,Andrew Oliver,male,white
 230,Anna Dorothea Barclay,female,white
 231,Sealy Livingston,unknown,white
@@ -191,16 +235,27 @@ id,name,gender,race
 233,Eytie Vrooman,unknown,white
 234,Ann 5,female,white
 235,Elizabeth Corry,female,white
-236,Capt Clarke,unknown,white
+236,Capt Clarke,male,white
 237,Mrs Pennyfeather,unknown,white
 238,Ann Eva Yayayer,female,white
 239,Mathew Fennin,male,white
 240,Brant 8,male,white
+241,Anna Connor,female,white
+242,John Patist van Epss,male,white
 243,Anna Phronica his wife,female,white
-244,Barent Vrooman Jr,unknown,white
+244,Barent Vrooman Jr,male,white
 245,Hendrick7,unknown,white
 246,Christina Hendrick's wife,female,white
-256,Ariaentie Wemp,unknown,white
+247,Arent,unknown,white
+248,Harman Vedder,unknown,white
+249,Mary Vedder,female,white
+250,Arent Vedder Sr,male,white
+251,Simon Vedder,male,white
+252,Arent Stevens,male,white
+253,Mary Stevens,female,white
+254,Ephraim Smith,male,white
+255,Annatie Smith,female,white
+256,Ariaentie Wemp,female,white
 257,Rebecca Wemp,female,white
 258,Ariyaentie 2,unknown,white
 259,Isaac Wemp,male,white
@@ -208,9 +263,9 @@ id,name,gender,race
 261,Ariyaentie 3,unknown,white
 262,Jacob Swits,male,white
 263,Eelena Swits,unknown,white
-264,Barent,unknown,white
+264,Barent,male,white
 265,Johan Peter Frederick,male,white
-266,Barent Vrooman,unknown,white
+266,Barent Vrooman,male,white
 267,Volkie Vrooman,unknown,white
 268,Bartholomew Vrooman,male,white
 269,Catherine Vrooman,female,white
@@ -224,9 +279,9 @@ id,name,gender,race
 277,Lydia Kaweghnoke,female,white
 278,Seth Sietstarare Karihoge,male,white
 279,Mary Karihoge,female,white
-280,Capt James Ramsey,unknown,white
+280,Capt James Ramsey,male,white
 281,Catharine Wysenbergh,female,white
-282,Capt Walter Butler,unknown,white
+282,Capt Walter Butler,male,white
 283,Walter Butler Jr,male,white
 284,Catharina Dewighnidoge,female,white
 285,Catharine4,unknown,white
@@ -234,13 +289,19 @@ id,name,gender,race
 287,Mary Hare,female,white
 288,Peter Mynderse,male,white
 289,Sarah Quakenbus,female,white
+290,Catherine1,unknown,white
+291,Cecilia,female,white
+292,Edward Connor,male,white
 293,Chatharina,unknown,white
 294,Christian 2,male,white
 295,Margaret Christian's wife,female,white
 296,Gideon Dewignidoge,male,white
 297,Christina1,unknown,white
+298,Christina2,unknown,white
+299,Cornelius Van Slyk Jr,male,white
+300,Jannitie Van Slyk,unknown,white
 301,Isaac Collier,male,white
-302,Annatie Collier,unknown,white
+302,Annatie Collier,female,white
 303,Cornelius Lenine,male,white
 304,Cornelius Oderagwarrie a Captive Indian,male,Native
 305,Hendrick 21,male,white
@@ -260,6 +321,7 @@ id,name,gender,race
 319,Geeshie,unknown,white
 320,Hendrick Vrooman,male,white
 321,Jacamin1,unknown,white
+322,Jacobus1,unknown,white
 323,Janie,unknown,white
 324,Rachel Quackenbus,female,white
 325,Johannis Loos,unknown,white
@@ -273,7 +335,7 @@ id,name,gender,race
 333,Margaret 2,female,white
 334,Mary 2,female,white
 335,Mary 8,female,white
-336,Neeltie 2,unknown,white
+336,Neeltie 2,female,white
 337,Peter Quackenbus Jr,male,white
 338,Sarah Quackenbus Jr,female,white
 339,Nicolaus,unknown,white
@@ -303,12 +365,15 @@ id,name,gender,race
 363,David Kahowa,male,white
 364,Susanna Kahowa,female,white
 365,Elizabeth Prentop,female,white
+366,Peter Coieman,male,white
+367,Andries Witbeek,male,white
+368,Charlotta Amelia Coieman,female,white
 369,Alida 2,female,white
 370,Alida Bowen,female,white
 371,Alida Wemp,female,white
 372,Sarah Mynderse,female,white
 373,Andreas,unknown,white
-374,Myndert Wemp,unknown,white
+374,Myndert Wemp,male,white
 375,Dilling,unknown,white
 376,Ann 2,female,white
 377,Ellenor,unknown,white
@@ -323,6 +388,10 @@ id,name,gender,race
 386,Walter Welch,male,white
 387,George Philips,male,white
 388,Sarah Manes,female,white
+389,Ann Nixon,female,white
+390,Thomas Burrows,male,white
+391,Sophia Peters,female,white
+392,Ariyaentie Veeder,unknown,white
 393,Ann Quackenbus,female,white
 394,Mary 24,female,white
 395,Anna Huber,female,white
@@ -334,7 +403,12 @@ id,name,gender,race
 401,Seth 6,male,white
 402,Mary Seth's wife,female,white
 403,Cornelius 8,male,white
-404,Neeltie Cornelius' wife,unknown,white
+404,Neeltie Cornelius' wife,female,white
+405,Anthony Oniyingodon,male,white
+406,Margaret Oniyingodon,female,white
+407,John Garihotea,male,white
+408,Susanna Kanighsentha,female,white
+409,Jannitie Kannoenoah,unknown,white
 410,Catharina,unknown,white
 411,Baltus,unknown,white
 412,Catharine Speck,female,white
@@ -358,13 +432,21 @@ id,name,gender,race
 430,Sarah 10,female,white
 431,Cornelia,unknown,white
 432,Cornelius 7,male,white
-433,Neeltie 5,unknown,white
+433,Neeltie 5,female,white
 434,Seth 11,male,white
+435,Cornelius2,unknown,white
+436,John Shaddidaghton,male,white
+437,Martina Shaddidaghton,female,white
 438,Cornelius3,unknown,white
 439,Joseph Decasonyorea,male,white
 440,Margaret Decasonyorea,female,white
 441,David Quackenbus,male,white
 442,David10,unknown,white
+443,David9,unknown,white
+444,Peter Teyoronkyathe,male,white
+445,Mary Teyoronkyathe,female,white
+446,Isaack Sinhagtontho,unknown,white
+447,David Seregwaghakon,male,white
 448,Elizabeth Powel,female,white
 449,William Johnson,male,white
 450,Elizabeth White,female,white
@@ -409,6 +491,8 @@ id,name,gender,race
 489,Seth 8,male,white
 490,Lot,unknown,white
 491,Lydia,unknown,white
+492,Margaret 1,female,white
+493,Margaret 8,female,white
 494,Maria Catharina,female,white
 495,Martha,unknown,white
 496,Mary 11,female,white
@@ -425,6 +509,9 @@ id,name,gender,race
 507,Amia,unknown,white
 508,Ann Magdalene,female,white
 509,Joseph Walleslous's wife,male,white
+510,Ann Van Buren,female,white
+511,Cornelius Van Buren,male,white
+512,Eytie Vosburg,unknown,white
 513,Anna 4,female,white
 514,Alida Osaragihle,female,white
 515,Area Gerritse Nukerk,unknown,white
@@ -452,11 +539,23 @@ id,name,gender,race
 537,John Syehowane's wife,male,white
 538,Gerrit Nukerk,male,white
 539,Engeltie Van Driesen,unknown,white
+540,Ephraim,unknown,white
+541,Tobias Van Buren,male,white
+542,Gedion Sehonjowane,unknown,white
+543,Catharine Sehonjowane,female,white
 544,Gerrit,unknown,white
 545,Rachel Sradit,female,white
 546,Gideon1,unknown,white
+547,Henderick Kaghsoghyaetha,unknown,white
+548,Christina Kaghsoghyaetha,female,white
+549,Henderick3,unknown,white
+550,Nicus 3,unknown,white
+551,Sarah Kanaghkwase,female,white
 552,Henderick4,unknown,white
 553,Kahickgo,unknown,white
+554,Henrieus,unknown,white
+555,Margaret Henrieus' wife,female,white
+556,Paulus 1,male,white
 557,Isaac3,unknown,white
 558,Jacob 10,male,white
 559,Jacob Tagaghrorieaethe,male,white
@@ -465,6 +564,9 @@ id,name,gender,race
 562,Jacob7,unknown,white
 563,Mary Serehowane,female,white
 564,Mary Seyoenwese,female,white
+565,Jacob8,unknown,white
+566,Peter Kanasagrongo,male,white
+567,Mary Kanasagrongo,female,white
 568,Jacob9,unknown,white
 569,James3,unknown,white
 570,John Lagy,male,white
@@ -488,7 +590,8 @@ id,name,gender,race
 588,Rutgert Kenderago,unknown,white
 589,Ester Kenderago,female,white
 590,Moses 1,male,white
-591,Neeltie 3,unknown,white
+591,Neeltie 3,female,white
+592,Paul 3,male,white
 593,Robert 2,male,white
 594,Sarah 5,female,white
 595,Thomas 3,male,white
@@ -517,6 +620,10 @@ id,name,gender,race
 618,John Cleyn,male,white
 619,Saltser,unknown,white
 620,Edward Mills,male,white
+621,Ester,unknown,white
+622,Jacob,unknown,white
+623,Hendrick Peterse,male,white
+624,Gesina 1,female,white
 625,Ester 1,female,white
 626,Ester Paul's wife,female,white
 627,Gesina 2,female,white
@@ -560,7 +667,7 @@ id,name,gender,race
 665,Casper Coens,male,white
 666,Jacob Naef's wife,male,white
 667,Ariyaentie 1,unknown,white
-668,Barent Wemp,unknown,white
+668,Barent Wemp,male,white
 669,Mary Wemp,female,white
 670,Aront,unknown,white
 671,Magdalene Aront's wife,female,white
@@ -569,6 +676,10 @@ id,name,gender,race
 674,Cornelia Asaph's wife,female,white
 675,Kisiagoe's wife,unknown,white
 676,Benjamin1,unknown,white
+677,Brant,unknown,white
+678,Seth 9,male,white
+679,Nicus 4,unknown,white
+680,Alida 5,female,white
 681,Brant 7,male,white
 682,Margaret 10,female,white
 683,Lydia Seth's daughter,female,white
@@ -580,7 +691,7 @@ id,name,gender,race
 689,Sarah Castillo,female,white
 690,Chatarine,unknown,white
 691,Joseph 13,male,white
-692,Neeltie 6,unknown,white
+692,Neeltie 6,female,white
 693,Anna Potman,female,white
 694,Cornelius1,unknown,white
 695,Cornelius5,unknown,white
@@ -591,16 +702,36 @@ id,name,gender,race
 700,David3,unknown,white
 701,David4,unknown,white
 702,David5,unknown,white
+703,Dowe Fonda,unknown,white
+704,Margaret Fonda,female,white
+705,Hans Knoet,male,white
+706,Thaneke Knoet,unknown,white
+707,Lana Yaets,female,white
 708,Edward3,unknown,white
 709,Margaret Mills,female,white
+710,Elenor,unknown,white
+711,Elenor Middleton,female,white
+712,John Akerman,male,white
+713,John Ackerman's wife,male,white
+714,Mary Thin,female,white
 715,Elizabeth Dunn,female,white
 716,Richard James,male,white
+717,Eve2,unknown,white
+718,Petrus Patray,male,white
+719,Seth 14,male,white
+720,Neeltie 7,female,white
 721,Gerritie Barclay,unknown,white
 722,Hans Jacob,male,white
 723,Helena,unknown,white
 724,Helena Walleslous,female,white
 725,Henry1,unknown,white
+726,Isaac4,unknown,white
+727,Joseph 12,male,white
+728,Catharine 11,female,white
+729,Jacob4,unknown,white
 730,James Dunn,male,white
+731,John 15,male,white
+732,Thomas Brant's son,male,white
 733,John 9,male,white
 734,John Barclay,male,white
 735,Margaret 4,female,white
@@ -609,6 +740,7 @@ id,name,gender,race
 738,Mary 16,female,white
 739,Moses 3,male,white
 740,Paul 2,male,white
+741,Rachel 3,female,white
 742,Richard,unknown,white
 743,Sarah 3,female,white
 744,Seth 4,male,white
@@ -616,12 +748,23 @@ id,name,gender,race
 746,William 3,male,white
 747,Abraham 8,male,white
 748,Mary S,female,white
+749,Andries Ten Eyk,male,white
+750,David Verplank,male,white
 751,Rachel Van Allen,female,white
+752,Anna 2,female,white
+753,Cornelius Kaghneghtagon,male,white
+754,James,unknown,white
+755,Magdalene 4,female,white
+756,Anna 3,female,white
+757,Simon 3,male,white
+758,Gesina 3,female,white
 759,Phillipse,unknown,white
 760,Brant 5,male,white
 761,Margaret Brant's wife,female,white
 762,Mary Osaragihte,female,white
 763,Ephraim Wemp,male,white
+764,Brant 6,male,white
+765,Mary Peterse,female,white
 766,Brant Jr,male,white
 767,Seth Sietstarare Karihoge Jr,male,white
 768,Brant3,unknown,white
@@ -632,15 +775,22 @@ id,name,gender,race
 773,Christian Walter,male,white
 774,Mrs Nukerk,unknown,white
 775,Christina 4,female,white
+776,Christina Paulus's wife,female,white
 777,Christopher Magraw,male,white
 778,Claes Philipse,male,white
 779,Susanna Quackenbus,female,white
 780,Cornelius4,unknown,white
 781,Joseph Sonhahtowane,male,white
 782,Cornlius Potman,unknown,white
+783,Daniel 1,male,white
+784,Sarah 9,female,white
 785,Daughter2,unknown,white
 786,David7,unknown,white
 787,John Seghnegearat,male,white
+788,David8,unknown,white
+789,Nicus 2,unknown,white
+790,Paulus 2,male,white
+791,Unknown 2,unknown,white
 792,Dorothy,unknown,white
 793,Marte Van Olinde,female,white
 794,Marte Van Olinde's wife,female,white
@@ -648,16 +798,25 @@ id,name,gender,race
 796,Downard,unknown,white
 797,Edward1,unknown,white
 798,Elizabeth Huff,female,white
+799,Elizabeth5,unknown,white
+800,William Lamb,male,white
+801,Saml Cotes,unknown,white
+802,Margaret Dowler,female,white
+803,Elizabeth Cramer,female,white
 804,Eva1,unknown,white
 805,Rebecca,unknown,white
 806,William Hall,male,white
 807,Henry Harris,male,white
+808,Henderick5,unknown,white
 809,Henderick6,unknown,white
 810,Leah,unknown,white
+811,Isaac1,unknown,white
 812,Joseph 11,male,white
 813,Sarah 11,female,white
 814,Jacob Potman,male,white
 815,Elizabeth Evans,female,white
+816,John 11,male,white
+817,Paulus,unknown,white
 818,John 5,male,white
 819,John 6,male,white
 820,John 8,male,white
@@ -669,11 +828,12 @@ id,name,gender,race
 826,Alida 4,female,white
 827,John Michael Brant,male,white
 828,John Quackenbus Jr,male,white
-829,Neeltie Quackenbus,unknown,white
+829,Neeltie Quackenbus,female,white
 830,Joseph 4,male,white
 831,Mrs Gronendick,unknown,white
 832,Magdalene 2,female,white
 833,Margaret 3,female,white
+834,Margaret 9,female,white
 835,Mary 13,female,white
 836,Nicholaus,unknown,white
 837,Mary Nicholas' wife,female,white
@@ -681,7 +841,8 @@ id,name,gender,race
 839,Paul Combes,male,white
 840,Mary 4,female,white
 841,Mary 5,female,white
-842,Neeltie 4,unknown,white
+842,Neeltie 4,female,white
+843,Peter 1,male,white
 844,Peter 2,male,white
 845,Peter 3,male,white
 846,Peter 5,male,white
@@ -689,6 +850,7 @@ id,name,gender,race
 848,Rachel 6,female,white
 849,William Bowen Jr,male,white
 850,Sarah 2,female,white
+851,Sarah 7,female,white
 852,Son 1,male,white
 853,Thomas 1,male,white
 854,Thomas 7,male,white
@@ -698,10 +860,19 @@ id,name,gender,race
 858,Aaron,unknown,white
 859,David Laroy,male,white
 860,Isaack,unknown,white
+861,Abraham 7,male,white
 862,Elizabeth Canostens,female,white
 863,Mary Canostens,female,white
+864,Adam 2,male,white
+865,Jury,unknown,white
+866,Mary 25,female,white
+867,Adrian Quackenbus,male,white
+868,Sybrant Quackenbus,male,white
+869,Maghtel Quackenbus,unknown,white
 870,Andrew Frank,male,white
 871,Anna 1,female,white
+872,Anna Kaniyoghsawero,female,white
+873,Joseph Onondagera,male,white
 874,Anthony Speck,male,white
 875,Susannah Speck,female,white
 876,Ariyaentie4,unknown,white
@@ -709,34 +880,51 @@ id,name,gender,race
 878,Magdalene 3,female,white
 879,Brant 4,male,white
 880,Jannitie 1,unknown,white
-881,Capt Hellens,unknown,white
-882,Capt Hellens Slave,unknown,Black
+881,Capt Hellens,male,white
+882,Capt Hellens Slave,male,Black
 883,child,unknown,white
-884,Mr Harper,unknown,white
+884,Mr Harper,male,white
 885,Unknown 3,unknown,white
+886,Child 1,unknown,white
 887,Child 2,unknown,white
 888,Child 3,unknown,white
 889,Christian,unknown,white
 890,Christina Eerhart,female,white
 891,Mary Magraw,female,white
+892,Cornelia Cromwell,female,white
+893,Mary Williams,female,white
 894,Anna Sixbury,female,white
 895,Cornelius6,unknown,white
 896,Sarah Paulus' wife,female,white
+897,Daughter1,unknown,white
+898,Joseph 8,male,white
+899,Daniel,unknown,white
 900,David1,unknown,white
 901,Edward2,unknown,white
 902,Luke Casidy,male,white
 903,Laghlan Doyla,unknown,white
 904,Isabel Mathews,female,white
+905,Elizabeth11,unknown,white
+906,Wolf,unknown,white
 907,Elizabeth2,unknown,white
 908,Elizabeth3,unknown,white
 909,Petrus Aront,male,white
 910,Engeltie1,unknown,white
+911,Frances2,unknown,white
+912,Thomas Harris,male,white
+913,Stephanus Cromwell,male,white
 914,Henderick2,unknown,white
 915,Henry Huber,male,white
 916,Seth Anthony's son,male,white
 917,Seth Anthony's wife,male,white
 918,Jacob Sayighranoha,male,white
+919,Jacob Tagwayanont,male,white
+920,Seth 12,male,white
+921,Magdalene 5,female,white
 922,Peter Quackenbus,male,white
+923,Jacobus2,unknown,white
+924,Joseph 10,male,white
+925,Margaret Joseph's wife,female,white
 926,James Wilson,male,white
 927,John 17,male,white
 928,John Dunbar,male,white
@@ -747,11 +935,15 @@ id,name,gender,race
 933,Thomas 5,male,white
 934,Joseph 3,male,white
 935,Magdalene 1,female,white
+936,Maghtel,unknown,white
 937,Mary 10,female,white
 938,Negro Child,unknown,Black
+939,Nicus Onwerigoughsere,unknown,white
+940,Thomas Shayonwiyo,male,white
 941,Peter 11,male,white
 942,Peter 6,male,white
 943,Peter 8,male,white
 944,Sarah 4,female,white
 945,Seth 2,male,white
+946,Seth 3,male,white
 947,Victor 1,male,white

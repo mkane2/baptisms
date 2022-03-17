@@ -11,18 +11,26 @@ id,name
 9,Anna Meyer
 10,Heinrich Conrad
 11,Lea Bautsher Conrad
+12,Abraham Kuntz
+13,Anna Kuntz
+14,Johannes Bergmann
+15,Anna Maria Bergmann
 16,George Wetzel
 17,Maria Wetzel
 18,Jacob Zipperly
 19,Elisabeth Dater
 20,Heinrich Mueller
 21,Anna Mueller
+22,Christoph Beekman
+23,Maria Beekman
 24,Jacob Schmid
 25,Elisabeth Schmid
 26,Jonas Gunther
 27,Maria Gunther
 28,Johannes Straub
 29,Dorothea Straub
+30,Bernhard Polak
+31,Agnes Polak
 32,Laurentius Schneider
 33,Elizabeth Schneider
 34,Carolus Derk
@@ -37,49 +45,166 @@ id,name
 43,Anna Schmid
 44,Johannes Creller
 45,Elizabeth Creller
+46,William Groon
+47,Catlina Borns
 48,James McCowen
 49,Magraeth McCowen
+50,Johannes Wust
+51,Juliana Wust
+52,Adam Babst
+53,Eva Maria Babst
+54,Gerhard Brath
+55,Sophia Brath
+56,Joseph Staaker
+57,Hanna Staaker
 58,Margaretha Schmid
+59,Christian Birckle
+60,Elisabeth Birckle
+61,Michael Friederich
+62,Catharina Friederich
+63,Johannes Hoch
+64,Maria Hoch
+65,John Brath
+66,Maria Brath
+67,William Presie
+68,Catharina Prosie
+69,Michael Layer
+70,Danega Van Buhren
 71,Johannes Ehring
 72,Elisabeth Catharina Wolf
 73,Ludwig Gerngross
 74,Magdalena Gerngross
+75,Michael Henn
+76,Catharina Dorothea Bauer
+77,Henrich Blass
+78,Eva Blass
+79,John Danielson
+80,Juliana Lehn
 81,Georg Gernreich
 82,Margareth Gernreich
+83,David Yorg
+84,Susanna Creller
+85,Richard Kirchner
+86,Anna Kirchner
 87,Petrus Douty
 88,Catharina Douty
+89,Jeremias Pemperton
+90,Susanna Pemperton
+91,Magdalena Brath
 92,John Walker
 93,Johnetta Walker
+94,Johannes Raaf
+95,Christina Raaf
+96,Philip Jacob Gerngros
+97,Anna Jacob Gerngros
 98,Bernhard Hener
 99,Anna Hener
+100,Friederich or Daniel Davis
+101,Susanna Hoffman
+102,George Raush
+103,Christina Raush
+104,Peter Loose
+105,Maria Eliez
 106,James Yates
 107,Eliesabeth Yates
 108,Georg Michel
 109,Margaretha Michel
 110,Willhelm Schauer
 111,Margaretha Schauer
+112,Conrad Raush
+113,Catharina Raush
 114,Nicolaus Michel
 115,Anna Barbara Michel
+116,John Sheple
+117,Magdalena Sheple
+118,John Wilson
+119,Maria Wilson
 120,Georg Rosenberger
 121,Regina Rosenberger
 122,Jacob Brimmer
 123,Rosina Brimmer
+124,Jacob Landmann
+125,Lydia Landmann
 126,Conrad Best
 127,Catharina Diel
+128,Simon Kuhn
+129,Magdalena Kuhn
+130,James Wilks
+131,Maria Wilks
+132,Jacob Keller
+133,Eva Keller
+134,Duncan McMollen
+135,Catharina McMollen
 136,Georg Kloeckner
 137,Angelica Conrad
 138,Johannes Weyer
 139,Catharina Weyer
+140,Philip Feller
+141,Anna Margaretha Feller
 142,Samuel Ehring
 143,Sara Ehring
+144,Ludewig Zicker
+145,Christina Zicker
+146,Franciscus Josephus Pfister
+147,Anna McCombs
+148,James Mitchell
+149,Catharina Mitchell
+150,John Ostrander
+151,Anna Wolff Ostrander
+152,Friederich Nagel
+153,Susanna Nagel
+154,Louis Laquois
+155,Dorothea Laquois
 156,Johannes Hoener
 157,Catharina Hoener
+158,Johannes Federle
+159,Anna Maria Federle
+160,Heinrich Dilleback
+161,Rosina Dilleback
+162,Friederich Muller
+163,Magdlaena Muller
+164,Gottlieb Bockle
+165,Margaretha Bockle
+166,Carolus Nehr
+167,Catharina Nehr
+168,Samuel Rose
+169,Elisabeth Rose
+170,John Concklin
+171,Johanna Concklin
+172,Georg Nehr
+173,Elisabeth Nehr
+174,Johannes Hom
+175,Charlotta Hom
 176,Nelya Schmid
+177,Wilhelm Schermerhorn
+178,Elisabeth Schermerhorn
+179,John Thomson
+180,Margareth Thomson
+181,Arnd Halenbeck
+182,Anna Halenbeck
+183,Michael Herb
+184,Eliesabeth Herb
 185,Wilhelm Van Aalstein
 186,Catherina Van Aalstein
+187,Benjamin Baker
+188,Jeane Ellot
 189,John Schneider
 190,Conrad Hamm
 191,Anna Moris
+192,John Hok
+193,Gertraut Hok
+194,Abraham Baum
+195,Dorothea Baum
+196,John Richtstein
+197,Hanna Richtstein
+198,Philipp Pember
+199,Maria Pember
+200,Charles Newmann
+201,Christina Newmann
+202,Johannes Tilman
+203,Maria Tilman
+204,Stophel Pulmore
+205,Fanny Pulmore
 206,Heinrich Schiffer
 207,Magdalena Schiffer
 208,John Young
@@ -90,16 +215,35 @@ id,name
 213,Altzia Young
 214,Patrick Martin
 215,Maria Martin
+216,Adam Zufeld
+217,Nellya Zufeld
+218,Heinrich Meyer
+219,Maria Meyer
 220,Johannes Milius
 221,Johnetta Milius
 222,Jacob Philipp
 223,Anna Keller
 224,Sebastian Lownes
 225,Margaretha Lownes
+226,Carl Michel
 227,Balthasar Kummel
 228,Maria Kummel
 229,Bernhard Zipperly
 230,Margaretha Zipperly
+231,Richard Bengbod
+232,Catharina Bengbod
+233,Johannes Palmadier
+234,Catharina Kep
+235,Casparus Taushenk
+236,Eliesabeth Taushenk
+237,Wilhelm Breath
+238,Eliesabeth Brath
+239,Thomas McElwain
+240,Jeane McElwain
+241,Anthonius Reylin
+242,Catharina Reylin
+243,Petrus Kunz
+244,Catharina Kunz
 245,Catharina Mueller
 246,Petrus Eichelsheimer
 247,Christina Eichelsheimer
@@ -110,28 +254,78 @@ id,name
 252,Leonhard Weger
 253,Christina Weger
 254,Johannes Deter
+255,Hermanus Van Buren
+256,Sara Schneider
+257,Gabriel Presie
+258,Danetya Presie
 259,Heinrich Kramer
 260,Anna Maria Kramer
+261,James Spicer
+262,Barbara Spicer
 263,Johannes Schaefer
 264,Eliesabeth Schaefer
 265,Elisha Adams
 266,Eliesabeth Adams
+267,Wilhelm Froelich
+268,Eliesabeth Froelich
+269,Andreas Flemann
+270,Johannetya Flemann
+271,Isaac Ostrander
+272,Eliesabeth Ostrander
+273,Johannes Meissinger
+274,Anna Van De Berg
+275,Ludwig Steinmann
+276,Catharina Steinmann
+277,Alexander Anderson
+278,Anderson
 279,Wilhelm Kilmar
 280,Catharina Link
 281,Bernhard Uhley
 282,Anna Maria Uhlen
+283,Archilaus Linn
+284,Maria Linn
+285,John Hegermann
+286,Magdalena Drake
+287,Johannes Weber
+288,Appalonia Weber
+289,Eva Birckle
+290,Jessias Minclar
+291,Rahel Minclar
+292,Philipp Groantshe
+293,Maria Groantshe
+294,John Louis
+295,Maria Louis
+296,Abraham Roberts
+297,Maria Roberts
 298,Christian Kohlhammer
 299,Anna Kohlhammer
+300,Georg Myer
+301,Hanna Myer
 302,William Bernam
 303,Sara Bernam
 304,Colvert Robison
 305,Margaretha Robison
+306,Benjamin Simons
+307,Anna Simons
 308,Abraham Prosie
 309,Sara Prosie
 310,Thimotheus Depiks
 311,Louise Depiks
+312,Abraham Hogel
+313,Margareth Hogel
+314,Petrus Van Buskirck
+315,Eliesabeth Van Buskirck
 316,John van Ostrander
 317,Maria van Ostrander
+318,Philipp Prosie
+319,Thomas Wilson
+320,Ariana Wilson
+321,Henry Shnidermore
+322,Jeane Shnidermore
+323,Archi McNeal
+324,Jeane McNeal
+325,Zachariah Harington
+326,Maria Harington
 327,Michael Reichert
 328,Maria Reichert
 329,Jacobus Wiederwaks
@@ -140,18 +334,39 @@ id,name
 332,Anna Keyser
 333,Christian Beiser
 334,Catharina Beiser
+335,Daniel Ertzberger
+336,Regina Ertzberger
+337,Conrad Ruby
+338,Ruby
+339,Jacob Foster
+340,Jeane Foster
 341,Thomas Weber
 342,Eliesabeth Weber
 343,Johannes Mayer
 344,Gertrauth Mayer
+345,James Patchet
+346,Margareth Patchet
 347,Emmerich Blass
 348,Anna Gertrauth
 349,Samuel McChesney
 350,Margaretha McChesney
+351,Friederich Philipps
+352,Sophia Philipps
+353,Sara Ostrander
 354,Laurenz Meintzer
 355,Eliesabeth Meintzer
+356,Jacob Saltzbury
+357,Johanna Saltzbury
+358,John Armstrong
+359,Johanna Armstrong
+360,John McDohl
+361,Catharina McDohl
+362,Jeremias Johnson
+363,Sara Eliesabeth Jobey
 364,Anthonius Derk
 365,Barbara Derk
+366,Abraham Oberhauser
+367,Eliesabeth Oberhauser
 368,Heinrich Moris
 369,Maria Sybilla Moris
 370,Isaac Hopp
@@ -162,65 +377,247 @@ id,name
 375,Maria McCay
 376,Jacob Rosenfeld
 377,Lydia Buts
+378,Benjamin Evans
+379,Maria Evans
 380,Andreas Stoll
 381,Eliesabeth Stahl
+382,Samuel Fearbancks
+383,Magdalena Fearbancks
+384,Johannes Boehm
+385,Hanna Bruster
 386,Thomas Martin
 387,Eleonora Martin
+388,Valentin Casparus
+389,Eliesabeth Casparus
+390,Zacharias Feller
+391,Frances Feller
+392,Petrus Hunsinger
+393,Debora Hunsinger
+394,Omie Legrange
+395,Eydya Legrange
+396,Johannes Christian Friedenreich
+397,Margaretha Keenus
+398,Samuel Anthony
+399,Rahel Anthony
 400,David Michel
 401,Altzia Michel
+402,Georg Jacob Zornberger
+403,Magdalena Jacob Zornberger
+404,Samuel Covenoven
+405,Anna Covenoven
+406,Angus Murray
+407,Jeane Grant
+408,Daniel McDonald
+409,Nancy McCruger
+410,Isaac LeGrange
+411,Jacobina LeGrange
+412,James Silves
+413,Phoebe Silves
+414,Johannes Barthel
+415,Eliesabeth Barthel
+416,Petrus Landman
+417,Sara Landman
+418,William Heyer
+419,Eliesabeth Heyer
 420,Susana Hoener
+421,Henrich Schotter
+422,Johanna Schotter
+423,Felix Meyer
+424,Margaretha Meyer
 425,Christoph Ramser
 426,Debora Ramser
+427,Adam Cook
+428,Johanna Cook
 429,Cornelius Sprung
 430,Margaretha Johnson
+431,John Schiboleth
+432,Magdalena Schiboleth
+433,John Owens
+434,Maria Magdalena Owens
 435,Johann Jost Theis
 436,Catharina Jost Theis
+437,Johann Georg Zickle
+438,Kirsia Georg Zickle
+439,Niclas Husener
+440,Frances Husener
+441,Johannes Zickle
+442,Cornelia Zickle
+443,Peter Dio
+444,Gertrauth Kramer
 445,John Wolf
 446,Maria Barbara Wolf
 447,Johann Durfstein
 448,Catharina Durfstein
+449,John Forgison
+450,Retica Lasy
+451,William Berry
+452,Agnes Berry
+453,Philipp Kraemer
+454,Eliesabeth Kraemer
+455,Benjamin van Flarckin
+456,Rebecca Van Sheuben
+457,Thomas De Long
+458,Magdalena De Long
+459,Jeremias Emig
+460,Eliesabeth Emig
 461,Philipp Conrad
 462,Veronica Conrad
+463,James Torns
+464,Mary Read Torns
+465,Barney Lochlin
+466,Margareth Lochlin
+467,Georg Heintz
+468,Magdalena Heintz
 469,Lorence Schneider
+470,Philipp Kerner
+471,Margareth Kerner
 472,Petrus Ostrander
 473,Catharina Ostrander
+474,Ralph Muller
+475,Maria Muller
 476,Johannes van Valkenbourg
 477,Anna van Valkenbourg
+478,Johannes Reisdorf
+479,Catharina Reisdorf
+480,Georg Sharp
+481,Catharina Sharp
+482,Johannes Dick
+483,Cornelia Quackenbush
 484,Jacob Stober
 485,Rhode Stober
 486,Georg Fek
 487,Maria Eliesabeth Fek
+488,Christoph Fischer
+489,Anna Fischer
+490,John Benson
+491,Cathalinya Benson
+492,Andreas Hornacker
+493,Eliesabeth Hornacker
+494,Philippus Feller
+495,William R. Hilden
+496,Eliesabeth Brooks
+497,John McChesney
+498,Eliesabeth McChesney
 499,Lea Bautsher
 500,Michael Ehring
 501,Elisabeth Ehring
+502,Johann Joseph Klein
+503,Anna Eliesabeth Joseph Klein
+504,Christian Croy
+505,Catharina Croy
+506,Jacob Schermerhorn
+507,Carolus Treber
+508,Maria Grawberger
+509,Henry Ramsy
+510,Catharina Ramsy
 511,Jacob Young
 512,Catharina Young
+513,John Wust
+514,Mary Wust
+515,David Gibson
+516,Magdalena Gibson
+517,John McCay
+518,Margareth McCay
+519,Thimotheus Parks
+520,Eleonara Parks
+521,Johannes Van De Werke
+522,Maria Defu
+523,William Borvel
+524,Eliesabeth Saltsbury
+525,Hermanus Fosborough
+526,Abigail Fosborough
+527,William Brown
+528,Jeane Brown
+529,Anthony Wain
+530,Sara Johnson
+531,Robert Hilden
+532,Eliesabeth Hilden
 533,Joseph Freeouth
 534,Juliana Freeouth
+535,Hugh Cholly
+536,Eleanora McCoy
+537,William Falkener
+538,Margareth Anderson
+539,Alexander Forsight
+540,Mary Freazer
+541,John Crumb
+542,Jeane Cholly
+543,Charles Bullock
+544,Eliesabeth Bullock
 545,Andreas Hubner
 546,Maria Margaretha Hubner
 547,James Corry
 548,Margareth Corry
 549,Peter Douty
 550,Petrus Wiederwachs
+551,Johann Georg Spengle
+552,Anna Dorothea Hentz
+553,James Clay
+554,Anna Clay
 555,Petrus van Ostrander
+556,Jacob Fischer
+557,Margareth Fischer
 558,William Optom
 559,Maria Optom
+560,Johannes Clockener
+561,Margaretha Clockener
 562,Mathias Cloekener
 563,Susana Cloekener
 564,Lorence Baker
 565,Joh: Paul Graaf
 566,Margaretha Graaf
 567,Johannes Young
+568,John Easton
+569,Jeanetta Rotterford
+570,Mary Read
 571,Petrus Grawberger
 572,Anna Eliesabeth Grawberger
 573,Maria Barbara Wetzel
 574,Jacob Gerngross
 575,Anna Gerngross
+576,Michael Seybel
+577,Angelica Seybel
+578,James Hamilton
+579,Jeane Elkson
+580,Wilhelm Monck
+581,Esther Monck
+582,Albert Brath
+583,Esaias Mirlar
+584,Rahel Mirlar
+585,Hubert Buchwall
+586,Catharina Buchwall
+587,John Burnside
+588,Mary Burnside
+589,Thomas Burnside
+590,Ariana Burnside
+591,Charls McCalason
+592,Catharina McCalason
+593,John Hunter
+594,Eva Van Aalstein
+595,Jacobus Hans
+596,Rebecca Hans
+597,Robert Davis
+598,Margaretha Davis
+599,Alexander Seger
+600,Mary Seger
+601,George Collier
+602,Martha Collier
+603,Joseph Johnson
+604,Eliesabeth Johnson
+605,John Ruberth
+606,Eliesabeth Ruberth
+607,George Brown
+608,Maria Brown
 609,Cornelius Ostrander
 610,Margaretha Ostrander
 611,Andreas Taeuber
 612,Eva Taeuber
+613,Iwiy Chamber
+614,Eliesabeth Chamber
+615,Jacob Schotter
+616,Margaretha Schotter
+617,Lucas van Arnheim
+618,Sara van Arnheim
 619,Wilhelm Simon
 620,Catharina Simon
 621,Martinus Hoener
@@ -229,65 +626,179 @@ id,name
 624,Maria Stober
 625,Paulus Schneider
 626,Maria Schneider
+627,Johannes Augustin Schwerdfeger
+628,Catharina Rosenberger
 629,Bernhardus Uhlen
+630,Jonathan Moore
+631,Dorothea Moore
+632,Johannes Doman
+633,Christina Reiss
+634,Thomas Wiedbeck
+635,Eliesabeth Wiedbeck
+636,William Tilghmann
+637,Charity Tilghmann
+638,George Wilson
+639,Sara Wilson
+640,Samuel Wilson
 641,Conrad Hener
+642,Anna Wolff
+643,David Hirt
+644,Catharina Hirt
+645,Melchior Ochs
+646,Engel Schanzenbach
+647,Bernhard Wiedecker
+648,Gertrauth Wiedecker
+649,Magdalene Brown
+650,Duncan McDugalle
+651,Hanna McDugalle
+652,Samuel McMurray
+653,Sara McMurray
+654,Christoph Gardene
+655,Jeane Gardene
+656,William Frantzwood
+657,Margareth Frantzwood
+658,Henrich Lasing
+659,Eliesabeth Grauss
+660,John Tilman Dickenshed
+661,Maria Tilman Dickenshed
+662,Samuel Wallis
+663,Anna Wallis
 664,Andreas Heinemann
 665,Anna Heinemann
 666,Alexander Wiederwachs
 667,Johanna Wiederwachs
 668,Christoph Wittinger
 669,Anna Maria Wittinger
+670,Benjamin Presie
+671,Eliesabeth Presie
 672,Michel Oberacker
 673,Maria Emig
+674,Isaac Seaman
+675,Margaretha Seaman
+676,Robert Cornier
+677,Anna Maria Cornier
 678,Jacob Fretz
 679,Barbara Fretz
 680,Christoph Raaf
 681,Catharina Raaf
 682,Joseph Rockensteuer
 683,Maria Rockensteuer
+684,William Keller
+685,Anna Maria Keller
 686,Sophia Kummel
 687,Jacob Wiederwachs
+688,John Anthony
+689,Eliesabeth Anthony
+690,Johannes Kreber
+691,Maria Kreber
 692,Johannes Bahret
 693,Anna Bahret
+694,Johannes Kummel
+695,Christina Kummel
 696,Jacob Torn
 697,Hanna Combs
+698,Eberhard Ostrander
 699,Johannes Ostrander
 700,Maria Van Dusen
+701,Daniel He__ston
+702,Maria He
+703,Samuel Bachonel
+704,Eliesabeth Bachonel
 705,Carl Near
 706,Gertrauth Near
+707,John Randell
+708,Catharina Randell
+709,Arthur McCord
+710,Mary McCord
+711,Daniel Hagot
+712,Catharina Hagot
+713,Leonhard Weyland
+714,Anetya Weyland
+715,Johannes Prosie
+716,Ketzia Prosie
 717,Anna Keller Philipp
 718,Abraham Simon
 719,Gelph Wilcok
 720,Naemi Wilcok
+721,William Sandforth
+722,Christina Sandforth
 723,Heinrich Wiestenhausen
 724,Anna Maria Wiestenhausen
 725,Jacob Martin
 726,Eliesabeth Diel
+727,Heinrich Gordonier
+728,Eliesabeth Gordonier
 729,Peter Rose
 730,Maria Rose
 731,Jeremias Johns
 732,Louise Adams
+733,Johan Van Sande
+734,Eliesabeth Van Sande
 735,Daniel Care
 736,Eliesabeth Care
+737,Georg Shwan
+738,Eva Shwan
+739,Philipp Creycele
+740,Margareth Creycele
+741,James Blackley
+742,Anna Blackley
+743,Denis Sulivan
+744,Eliesabeth Sulivan
+745,Nicolaus Halenbeck
+746,Jeane Halenbeck
+747,Johann Dieterich Tilman
+748,Sara Dieterich Tilman
+749,John Williamson
+750,Maria Love
 751,Joh: Leonhard Weger
 752,Christina Leonhard Weger
 753,Melchior Feil
 754,Catharina Feil
+755,Johannes Feller
+756,Maria Feller
 757,Johanna Milius
+758,Louis LaCroy
+759,Dorothea LaCroy
+760,John Callwell
+761,Eliesabeth Callwell
+762,Johannes Van De Berg
+763,Eva Van De Berg
+764,Georg Huston
+765,Eliesabeth Huston
+766,Edward Simson
+767,Maria Simson
+768,William Van Allstein
+769,Catharina Hochebaum
+770,Christina Ludwig
 771,Anna Moris Hamm
 772,Nicolaus Schiffer
 773,Catharina Schiffer
 774,Wilhelm Derk
+775,Samuel BS
+776,Maria BS
 777,Nicolaus Brath
 778,Barbara Brath
+779,Samuel Evans
+780,Ruth Shmid
 781,Engel Kloeckner
 782,Johannes Hogel
 783,Maria Hogel
+784,Franciscus Hogel
+785,Johanna Hogel
 786,Johann Lorence Correus
 787,Eliesabeth Lorence Correus
+788,William Schmid
+789,Catalina Schmid
+790,William Moor
+791,Jeanetta Moor
+792,Georg Jost
+793,Lydia Jost
 794,Christian Schaefer
 795,Bernhard Maurer
 796,Sussana Maurer
+797,Isaac Freyer
+798,Eliesabeth Freyer
+799,Petrus Hilden
 800,Henrich Zipperly
 801,Eliesabeth Zipperly
 802,Friederich Raush
@@ -295,37 +806,117 @@ id,name
 804,Robert McChesney
 805,Maria McChesney
 806,Anthony Derk
+807,Benjamin Froelich
+808,Robert Gradus
+809,Maria Young
 810,William Elsworth
 811,Catharina Elsworth
 812,Johannes Dupp
 813,Margareth Emig
+814,Johann Nicols
+815,Hanna Nicols
 816,Georg Wilkeson
 817,Catharina Wilkeson
+818,Bernhardus Halenbeck
+819,Eleonor Halenbeck
+820,John Norton
+821,Eliesabeth Norton
+822,James Dornee
 823,Emanuel Young
 824,Maria Weger
+825,Christian Fischer
+826,Rahel Fischer
+827,JoSepth Bruster
+828,Samuel Loew
+829,Eliesabeth Loew
+830,Wilhelm Presie
+831,Jacob Feller
+832,Barbara Feller
 833,William Johnson
+834,Ralph Spooner
+835,Abigail Spooner
 836,Alida Michel
+837,John Willis
+838,Jean Brighth
+839,Owen Bennet
+840,Anor Bennet
+841,Joh: Georg Spengler
+842,Anna Dorothea Georg Spengler
+843,James Williamson
+844,Mary Williamson
 845,Helena Martin
+846,Henrich Van Dusen
+847,Eleonora Van Dusen
+848,Jonathan Ostrander
+849,Lea Ostrander
+850,Johannes Lewis
+851,Maria Lewis
+852,Georg Van De Bochart
+853,Sara Van De Bochart
 854,Christian Schmid
+855,Bartholomeus Brodhack
+856,Eliesabeth Brodhack
+857,Jacob Froelich
+858,Anna Froelich
+859,Peter Landmann
+860,Anna Landmann
+861,Johannes Ricker
+862,Eliesabeth Ricker
+863,Heinrich Bremmermann
+864,Eliesabeth Bremmermann
 865,Casparus Fretz
 866,Maria Fretz
+867,Martinus Boetlinger
+868,Magdalena Boetlinger
+869,David Chambers
+870,Margareth Chambers
+871,Jeremias Brower
+872,Hanna Brower
 873,Abraham Ostrander
 874,Wendel Oberacker
 875,Anna Oberacker
+876,William Adams
+877,Margareth Adams
+878,Joh: Christian Bloy
+879,Johanna Dorothea Christian Bloy
 880,Anna van Ostrander
+881,Peter Van Aalstein
+882,Anna Dotch
+883,Robert a Negro
+884,Lea a Negro
+885,Cornelius Cachel
+886,Hanna Cachel
+887,John Tuneclife
+888,Hanna Tuneclife
+889,John Huchgheson
+890,Maria Huchgheson
+891,Thomas Bechtel
+892,Catharina Bechtel
 893,Thomas Mueller
 894,Abraham Othout
 895,Maria Othout
+896,Peter McCart
+897,Judith McCart
+898,Thomas White
+899,Eliesabeth White
+900,Heinrich Rulf Van De Werken
+901,Catharina Rulf Van De Werken
 902,Rosina Stober
+903,Albert J. van Dewercken
+904,Barbara Eliesabeth J van Dewercken
 905,Christian Betz
 906,Eliesabeth Betz
 907,Heinrich Schister
 908,Magdalena Schister
 909,Daniel Grawberger
 910,Gertrauth Grawberger
+911,Friederich Keller
+912,Guise Keller
 913,William Rosh
 914,Heinrich Landmann
 915,Maria Landmann
+916,Ludwig Barsh
+917,Margaretha Barsh
 918,Laurentius Mentzer
 919,Johannes Reinhard
 920,Sara Schaefer
@@ -335,240 +926,730 @@ id,name
 924,Cornelia Oberacker
 925,Paulus Graaf
 926,Johannes Wiederwachs
+927,William Johns
 928,James Adams
 929,James Battom
 930,Ellis Battom
+931,Henry Darnels
+932,Maria Darnels
 933,Anna Young
+934,Arthus Cary
+935,Maria Cary
+936,John Mueller
+937,Sara Mueller
+938,Salvinus Shearer
+939,Eliesabeth Shearer
 940,John Gunther
 941,Anna Gunther
 942,Christian Weber
 943,Merchury Weber
 944,William Derck
+945,Heinrich Battick
+946,Mary Battick
+947,Dennis Dunn
+948,Christina Dunn
 949,David Danna
 950,Hopestill Danna
 951,Carl Derck
+952,Joh: Wolfgang Kaempf
+953,Eliesabeth Wolfgang Kaempf
 954,Philipp Dater
 955,Catharina Dater
 956,Philip Hener
 957,Jacob Jung
 958,Mathias Kuntz
 959,Petrus Schmid
+960,Johannes Rausch
+961,Gerhard Muller
 962,Johannes Grawberger
 963,Michael Zipperli
 964,Michael Hauswirth
+965,Richard Brazee
 966,Johannes Wager
 967,Abraham Freher
+968,Philip Conrad
 969,Christian Schneider
 970,Heinrich Reiffenberger
 971,Marinus Oberakker
 972,Antonius Abram
 973,Georg Rosenberg
+974,Emanuel Strobel
 975,Peter Grand
+976,Michael Leonhard
+977,Albarth Brath
 978,William Taylor
+979,Eberhard Birkle
+980,Henrich Appel
+981,William Monch
+982,John Seeger
+983,Heinrich Presie
+984,Benjamin Mittelton
 985,Peter Ostrander
+986,Bernhard Bauer
+987,Johann Heinrich Strunk
+988,Richard Stanley
 989,Michael Blass
+990,Daniel Brath
+991,Hermanas Van Aalstein
+992,William Pemperton
+993,Peter Brath
+994,Johannes Horn
+995,Isaac Quackenbush
+996,Peter Jacob Brett
 997,Martin Meintzer
 998,Christoph Meintzer
+999,Andreas Raush
 1000,Andreas Michel
+1001,Jacob Gardenier
+1002,Edward Rhein
 1003,Jacob Rosenberger
 1004,Henrich Wistinghausen
+1005,Petrus Van Buskirk
+1006,Johann Ernst Bacchus
+1007,John Baker
+1008,Petrus Creller
+1009,Alexnader McDougle
 1010,Johannes Fischer
+1011,Nicolaus Feller
+1012,Philip Meyer
+1013,Henricus Cyler
+1014,Samuel Wolf
+1015,Jacob Henderer
+1016,Aron Van Dusen
+1017,Philip Wikwager
 1018,Heinrich Marison
+1019,Johan Adam Pabst
+1020,Franciscus Weber
+1021,Georg Bader
+1022,Johannes Hudle
+1023,Philipp Ries
+1024,Georg Oberaker
 1025,Simon LeRoy
+1026,Philipp Werner
+1027,Friederich Wurmer
+1028,Matthias Halenbek
 1029,Petrus Stahl
 1030,Andreas Scoll
+1031,Georg Mallias
+1032,Jacob Wilus
+1033,James Wood
+1034,John Hokison
+1035,Wilhelm Zobel
+1036,Wilhelm Tillman
+1037,William Aasen
 1038,Christoph Presie
 1039,Umphrey Deffenbord
+1040,Johannes Clint
+1041,Magdalena Casparus
 1042,Heinrich Heydorn
+1043,Jacob Michel
 1044,Petrus Muhch
+1045,Benjamin Van Etten
+1046,Solomon Du bois
+1047,Martinus Breath
 1048,Johann Georg Lauke
+1049,Nichel Lauer
+1050,Peter Van Hussen
+1051,Ebenezar Beker
 1052,Johannes Krebes
 1053,Oliver Adams
+1054,Abraham Froelich
+1055,Walter Wedbek
+1056,Andreas Brath
+1057,Cornelius van De Berg
+1058,Wilhelm Breth
+1059,William Morell
+1060,Cornelius Schlauder
+1061,Johannes Muller
+1062,Henrich Ostrum
+1063,Johannes Lowenstein
+1064,George Ox
+1065,Jacob Valtin
+1066,Martin Shmid
+1067,Georg Meyers
+1068,Johan Melchior Feil
 1069,Antonius Derk
 1070,Anthony Abraham
+1071,Jacob Ertzberger
 1072,Johannes Dath
+1073,David Weed
+1074,Petrus Lampmann
 1075,Edward Freeman
+1076,Jacob Friedenbourg
+1077,Andreas Moore
+1078,Jaocbus Propes
 1079,Andreas Wiederwaks
+1080,Johannes Leonhard
+1081,Carolus Newmann
 1082,Philippus Conrad
+1083,Jacob Proper
+1084,Johannes Salzbury
+1085,David Falk
+1086,Partick Clark
+1087,Johannes Huth
+1088,George Emig
 1089,Adam Conrad
+1090,Adam Behm
 1091,Conrad Homm
+1092,Benjamin Roger
+1093,Joseph Bruster
+1094,Weynand van Aalstein
+1095,Philipp Feller
+1096,Johannes Hunsinger
+1097,Johannes Everson Hussen
+1098,Johannhes Mathias Horn
+1099,Philipp Aufensend
+1100,Petrus Covenoven
+1101,Petrus Barthel
+1102,Joseph van Sand
+1103,Jeromias Johnson Ustenbert
 1104,Ludwig Schneider
+1105,Joh: Henrich Hundermund
+1106,Christian Ehring
 1107,Gerhard van De Berge
 1108,Daniel Uhl
 1109,William Buchur
 1110,Lorence Emig
+1111,Casper Oberhauser
+1112,Peter Van Sheuben
+1113,Peter Kitney
+1114,Philipp Emig
+1115,John Reiss
 1116,Walther McChesney
+1117,Johannes Freher
+1118,John Hutshison
+1119,Laurentius Reisdorf
+1120,Nicolaus Scharp
+1121,David Dick
 1122,Adam Lownes
+1123,Petrus Scharp
+1124,George Warner
+1125,Andreas Barth
+1126,Richard Hilden
+1127,Cornelius Hogel
+1128,Johannes Philipps
 1129,Jacob Ostrander
+1130,Johannes Treber
+1131,John Rattle
 1132,Jacob Brust
+1133,Michael Herm
+1134,Daniel Huston
+1135,Gibson Kohl
+1136,Stephen Dorhams
+1137,Henrich Katzenback
+1138,Johannes Wittbeck
+1139,James Hilden
+1140,Johannes Stoltz
 1141,Martinus Overacker
+1142,Lorence Reisdorf
 1143,Johannes Brimmer
+1144,Henrich Stahl
+1145,John van Buhren
 1146,Stephan Young
 1147,Alexander Wiederwwachs
 1148,George Fex
+1149,Sebastian Cress
+1150,Michael Friederick
+1151,Christian Brath
+1152,Bernhard Wiedekar
+1153,Johannes Settel
+1154,Arnd Halenbek
+1155,William Waren
+1156,John Phorus
+1157,Jacobus Beiss
+1158,Thomas Mears
+1159,John Deckin
+1160,Henry Simson
 1161,Heinrich Cramer
+1162,Josua Blower
+1163,Johannes Schotter
+1164,Salomon Jubey
 1165,Philipp Kreller
+1166,Petrus Landmann
 1167,Mathias Shneider
+1168,Petrus Rosenberger
+1169,Lavinus Waing
+1170,James Wilson
 1171,Philipp Derk
+1172,William Leack
+1173,Christian Sand
+1174,Michael Gress
+1175,Esaias Minclar
+1176,Johannes Scheider
+1177,William Hilden
+1178,Sara nolastname
+1179,Jeane nolastname
+1180,Margareth Mandell
+1181,Peter Lasing
+1182,Heinrich Newmann
+1183,Henry Northon
 1184,Heinrich Zipperly
+1185,William Tilmann
 1186,Cornelius Runckel
 1187,Emerich Blass
+1188,Daniel Korbmann
 1189,Conrad Heydorn
+1190,Adam Yates
+1191,David Ostrum
+1192,Simon Ostrum
 1193,Johann Georg Schneider
+1194,Bahrend Mueller
 1195,Friederich Bremmermann
 1196,Henrich Wiestenhausen
 1197,Vollrath Krueger
 1198,Joseph Allport
+1199,Friederich Rauss
 1200,John Meintzer
 1201,John Wietbeck
+1202,John Van Sande
 1203,Henry Grawberger
+1204,James Adam
 1205,Martinus Hener
+1206,Jacob Quackenbush
+1207,Thomas Willis
+1208,Thomas Morel
+1209,Benjamin Williamson
 1210,Andreas Heineman
 1211,Andreas Kohlhammer
+1212,Johannes Georg Spengler
+1213,Michael Ruf
+1214,Moritz Schulze
 1215,Stephan Mueller
+1216,Wilhelm Barthel
+1217,Martinus Sharp
+1218,Johannes Van De Wercke
 1219,Andreas Lownes
 1220,Michael Landmann
+1221,Cornelius Van Wurmer
+1222,Jacob Prosie
 1223,Jacob Van Der Heyden
 1224,Johannes Valentin
 1225,Friederich Bohnenstiel
+1226,Philipp Nears
+1227,Johannes Wyngod
 1228,Zacharias Diel
 1229,Johannes Brust
 1230,William Derk
+1231,Stephanus Froelich
+1232,Danis Danison
 1233,Jacob Zimmermann
+1234,Henrich Barseley
+1235,Patrick Clerck
+1236,Joh: Georg Kruger
 1237,Petrus Simon
+1238,Daniel Defu
 1239,Christoph Feil
+1240,Adam Fischer
+1241,Cornelius Schleider
+1242,Christoph Van Dusen
 1243,JoSepth Brimmer
+1244,William Orson
+1245,Wilhelmus Van Dusen
+1246,Jacobus Wolfen
+1247,Emanuel Henecke
+1248,Lorence Van Gleek
 1249,Bernhard Near
+1250,Martin Froelich
+1251,Georg Ricker
+1252,Peter Bacchus
+1253,Ernst Pap
 1254,Georg Schneider
 1255,Christoph Dormann
 1256,Michael Oberacker
 1257,Peter Grawberger
 1258,Levy Patrick
 1259,Balthaser Kuemmel
+1260,Samuel Lodmann
+1261,Lot
 1262,Jacob Springer
+1263,George Pots
 1264,Jacob Claudius
+1265,Richard Sandy
 1266,George Kohlhammer
+1267,James White
+1268,Johann Georg Kraemer
 1269,Johannes Nickel
+1270,Jacob Van Dewercken
 1271,George Gernreich
 1272,Benjamin Schearer
 1273,Martin Rosenberger
+1274,Christian Keller
 1275,William Kalb
+1276,Christian Barsh
 1277,Heinrich Grawberger
 1278,Friederich Schaefer
+1279,John Burges
 1280,Peter Jubey
 1281,Christoph Wetzel
+1282,William Hegermann
+1283,Barney Cadlocken
 1284,Abraham Young
+1285,Anna Moor
+1286,John Gonnel
 1287,Philipp Deter
 1288,Christoph Froelich
+1289,Peter Diel
 1290,Friederich Weber
+1291,Jacob Mueller
+1292,Joseph Martin
 1293,Margareth Hoener
 1294,Magdalena Weger
 1295,Catharina Brust
 1296,Elisabeth Kuntz
 1297,Christina Schmid
+1298,Maria Rausch
+1299,Margaretha Wagerin
 1300,Maria Graberger
 1301,Regina Zipperli
 1302,Anna Margaretha Hauswirth
+1303,Henrich Doman Brazee
 1304,Catharina Wager
 1305,Catharina Ehring
 1306,Johanetta Freher
+1307,Anna Margaretha Klumm
 1308,Sabina Schneider
 1309,Gertraut Schiffer
 1310,Eleanora Yates
 1311,Anna Abraham
 1312,Rahel Fonda
+1313,Magdalena Strobel
 1314,Elizabeth Grand
+1315,Jacob Neher Hogel
+1316,Maria Leonhard
+1317,Elisabeth Brath
 1318,Eva Taylor
+1319,Margaretha Birkle
+1320,Eva Appel
+1321,Anna Augsbourg
+1322,Christina Seeger
+1323,Elisabeth Van Saltzberger
+1324,Anna Maria Schryin
+1325,Anna Eliza Heinrich Strunk
+1326,Lydia Stanley
 1327,Anna Maria Blass
+1328,Margaretha Ocaner
+1329,Catharina Van Aalstein
 1330,Rahel Oberakker
+1331,Johannes Long
+1332,Margaretha Brath
+1333,Charlotta Horn
+1334,Johanna Charlotte Riegel
 1335,maria Meintzer
 1336,Margaretha Meintzer
+1337,Rebecca Raush
 1338,Susanna Michel
+1339,Johnetta Gardenier
+1340,Magdlaena Heick
 1341,Anna Maria Wistinghausen
+1342,Elisabeth Van Buskirk
 1343,Margaretha Diel
+1344,Catharina Ernst Bacchus
+1345,James Mars
+1346,Catharina Bacchus
 1347,Eva Conrad
+1348,Catharina Fretz
+1349,John McCombs
+1350,Elisabeth Wolf
+1351,Anna Margaretha
+1352,Margaretha Van Dusen
+1353,Elisabeth Wikwager
 1354,Anna Sybilla
+1355,Eva Maria Adam Pabst
+1356,Christina Froelich
+1357,Cathrina Weber
+1358,Margaretha Bader
+1359,Catherine Hudle
+1360,Helena Ries
+1361,Anna Deter
 1362,Johanna LeRoy
+1363,Elisabeth Werner
+1364,Lena Wurmer
+1365,Maria Halenbek
 1366,Elisabeth Stahl
 1367,Anna Mellias
 1368,Elisabeth Scoll
+1369,Christina Mallias
+1370,Maria Wilus
+1371,Catharina Whipp
+1372,Martha Hokison
+1373,Christina Zobel
+1374,Charity Tillman
+1375,Mary Aasen
 1376,Gertraut Reiffenberger
 1377,Aeltzia Young
+1378,Barbara Clint
+1379,Casparus
 1380,Gertraut Philipp
 1381,Eliesabeth Muhch
+1382,Anna Van Etten
+1383,Ariana Du bois
+1384,Maria Magdalena Meyer
+1385,Rachel Grubel
 1386,Maria Georg Lauke
+1387,Danetya Lauer
+1388,Maria Van Hussen
+1389,Mindwell Beker
 1390,Maria Krebes
 1391,Cornelia Brath
+1392,Margaretha Froelich
+1393,Gertrauth Wedbek
+1394,Alida Brath
+1395,Eliesabeth van De Berg
+1396,Sara Morell
 1397,Eva Hener
+1398,Maria Schlauder
+1399,Maria Ostrum
+1400,Anna Lowenstein
+1401,Eva Ox
+1402,Maria Valtin
+1403,Rebecca Shmid
+1404,Hanna Meyers
+1405,Catharina Melchior Feil
 1406,Louise Johns
+1407,Sophia Catharina Ertzberger
+1408,Gertrauth Weed
+1409,Anna Lampmann
 1410,Helena Freeman
+1411,Maria Prosie
+1412,Maria Hotshison
+1413,Eva Proper
 1414,Eva Sherer
 1415,Magdelena Schaefer
+1416,Cornelia Leonhard
 1417,Barbara Michel
+1418,Maria Salzbury
+1419,Hanna Falk
+1420,Cornelia Clarck
+1421,Eliesabeth Huth
+1422,Eva Emig
 1423,Eva Schneider
 1424,Eliesabeth Conrad
+1425,Catharina Behm
 1426,Anna Homm
+1427,Magdalena Roger
+1428,Anna Boehm
+1429,Margaretha van Aalstein
+1430,Margareth Hunsinger
+1431,Eliesabeth V
+1432,Anna Maria Schreg
+1433,Barbara Farkison
+1434,Robert Martin
+1435,Jenae Grant
+1436,Jacobina Everson Hussen
+1437,Anthony Reylin
+1438,Eleonora Barthel
+1439,Maria van Sand
+1440,Susanna V
 1441,Maria Barbara Schneider
+1442,Catharina Henrich Hundermund
+1443,Margaretha Ehring
 1444,Anna van De Berge
+1445,Margareth Schiboleth
+1446,Maritya Ostrum
 1447,Maria Catharina Buchur
+1448,Eliesabeth Graus
+1449,Veronica Oberhauser
+1450,Cornelia Van Sheuben
+1451,Ester Kitney
+1452,Gertrauth Emig
+1453,Maria Torns
+1454,Hanna Reiss
 1455,Jeane McChesney
+1456,Lydia Freher
+1457,Dorothea Deal
+1458,Anna Margaretha Reisdorf
+1459,Conrad Schart
+1460,Christina Dick
 1461,Eliesabeth Lownes
+1462,Catharina Scharp
+1463,Anna Warner
+1464,Rebecca Feller
+1465,Anna Hilden
+1466,Hanna Hogel
+1467,Anna Margaretha Philipps
+1468,Barbara Heidlin
 1469,Jacobina Ostrander
+1470,Anna Barara Treber
+1471,Maria Rhein
+1472,Dorothea Catharina Herm
+1473,Maria Ziegler Huston
+1474,Susanna Kohl
+1475,Eva Katzenback
+1476,Catharina Wittbeck
+1477,Anna Margaretha Henderer
+1478,Maria Christina Brown
 1479,Maria Barbara Fretz
+1480,Juliana Danielson
 1481,Anna Eliesabeth Scheylen
 1482,Margaretha Overacker
+1483,Ursula Heywood
 1484,Maria Stenson
+1485,Gertrauth Waeger
+1486,Anna Maria Stahl
+1487,Anna van Buhren
 1488,Anna Margaretha Stahl
 1489,Lydia Hunsinger
 1490,Fex
+1491,Catharina Roberts
+1492,Margaretha Cress
+1493,Catharina Friederick
+1494,Bertya Brath
+1495,Gertrauth Wiedekar
+1496,Maria Settel
+1497,Anna Halenbek
+1498,Eva Bratt
+1499,Johanna Hans
+1500,Mary Mears
+1501,Hanna Deckin
+1502,Sara Simson
 1503,Anna Maria Cramer
+1504,Jeane Shephert
+1505,Adriana Schotter
+1506,Eliesabeth Jobey
+1507,Sara Landmann
 1508,Veronica Krebes
-1513,Anna Maria Derk
-1525,Eliesabeth Runckel
-1527,Barbara Heydorn
-1530,Catharina Schneider
-1531,Maria Eliesabetha Fex
-1536,Anna Maria Near
-1540,Catharina Bavokus
-1541,Maria Krueger
-1542,Margareth Allport
-1544,Catharina Johns
-1546,Christina Roemer
-1551,Anna Heineman
-1557,Magdalena Martin
-1559,Veronica Lownes
-1563,Maria Van Der Heyden
-1564,Eva Beiser
-1565,Eva Bohnenstiel
-1566,Margareth Emit
-1570,Catharina Near
-1571,Christina Schuster
-1574,Christina Best
-1575,Eva Zimmermann
-1578,Eliesabeth Cloom
-1582,Christina Hener
-1583,Margaretha Weger
-1584,Anna Weger
-1594,Maria Barbara Near
-1598,Wilhelmina Deffenbord
-1601,Margaretha Dormann
-1602,Anna Barbara Oberacker
-1603,Maria Eliesabeth
-1604,Eliesabeth Grawberger
-1605,Christina Graaf
-1606,Margaretha Wolf
-1607,Maria Kuemmel
-1610,Maria Springer
-1613,Maica Claudius
-1618,Christina Fex
-1620,Margaretha Grawberger
-1621,Anna Best
-1623,Magdalena Keller
-1624,Hanna Young
-1626,Gertrauth Schaefer
-1628,Maria Jubey
-1632,Anna Philipp
-1635,Catharina Deter
-1636,Cornelia Boehm
-1638,Barbara Weber
-1645,Catharina Heigerd
+1509,Anna Rosenberger
+1510,Maria Waing
+1511,Maria Hughston
+1512,Anna Maria Derk
+1513,Sara Leack
+1514,Maria Barbara Sand
+1515,Dorothea Grosboth
+1516,Appalonia Loewenstein
+1517,Junes Stillwoll
+1518,Mandell
+1519,Anna Maria Lasing
+1520,Sara Ziegler
+1521,Margaretha Northon
+1522,Rahel Willis
+1523,Eliesabeth Drobridge
+1524,Eliesabeth Runckel
+1525,Catharina Korbmann
+1526,Barbara Heydorn
+1527,Catharina Feller
+1528,Cornelia Dick
+1529,Catharina Schneider
+1530,Maria Eliesabetha Fex
+1531,Johanna Yates
+1532,Ariana Hegerman
+1533,Catharina Hegermann
+1534,Sara Pemperton
+1535,Anna Maria Near
+1536,Agnes Amor
+1537,Cornelia Mueller
+1538,Margareth Ricker
+1539,Catharina Bavokus
+1540,Maria Krueger
+1541,Margareth Allport
+1542,Magdalena Sheplin
+1543,Catharina Johns
+1544,Eleonora Van Sande
+1545,Christina Roemer
+1546,Sussana Karbey
+1547,Catharina Quackenbush
+1548,Eliesabeth Morel
+1549,Maria Williamson
+1550,Anna Heineman
+1551,Anna Dorothea
+1552,Johanna Meltina Christina Schulze
+1553,Maria Ziegler
+1554,Gertrauth Barthel
+1555,Maria Sharp
+1556,Magdalena Martin
+1557,Magdalena Zitzer
+1558,Veronica Lownes
+1559,Margaretha Hogel
+1560,Catharina Fosbourg
+1561,Lea Prosie
+1562,Maria Van Der Heyden
+1563,Eva Beiser
+1564,Eva Bohnenstiel
+1565,Margareth Emit
+1566,Rahel Nears
+1567,Phoebe Wyngod
+1568,Christina Cramer
+1569,Catharina Near
+1570,Christina Schuster
+1571,Anna Maria Froelich
+1572,Christina Danison
+1573,Christina Best
+1574,Eva Zimmermann
+1575,Maria Barseley
+1576,Catharina Clerck
+1577,Eliesabeth Cloom
+1578,Henry Wustenhausen Georg Kruger
+1579,Anna McOvelhenn
+1580,Catharina Defu
+1581,Christina Hener
+1582,Margaretha Weger
+1583,Anna Weger
+1584,Catharina Fischer
+1585,Catharina Freher
+1586,Maria Schleider
+1587,Magdalena Van Dusen
+1588,Eliesabeth Davis
+1589,Christina Van Dusen
+1590,Maria Wolfen
+1591,Johanna Henecke
+1592,Charity Van Gleek
+1593,Maria Barbara Near
+1594,Maria Brodhack
+1595,Catharina Ricker
+1596,Eva Maria Bacchus
+1597,Wilhelmina Deffenbord
+1598,Margaretha Pap
+1599,Maria Van De Wercke
+1600,Margaretha Dormann
+1601,Anna Barbara Oberacker
+1602,Maria Eliesabeth
+1603,Eliesabeth Grawberger
+1604,Christina Graaf
+1605,Margaretha Wolf
+1606,Maria Kuemmel
+1607,Maria Lodmann
+1608,Rahel a Negro
+1609,Maria Springer
+1610,Eliesabeth Rowbottem
+1611,Veronica Pots
+1612,Maica Claudius
+1613,Hanna Shoomaker
+1614,Lydia Anna Landman
+1615,Jeanette White
+1616,Maria Margaretha Georg Kraemer
+1617,Christina Fex
+1618,Alida Liversie Lansing
+1619,Margaretha Grawberger
+1620,Anna Best
+1621,Eliesabeth Keller
+1622,Magdalena Keller
+1623,Hanna Young
+1624,Anna Barsh
+1625,Gertrauth Schaefer
+1626,and wife Burges
+1627,Maria Jubey
+1628,Eliesabeth Silbernagel
+1629,Eva Cadlocken
+1630,Catharina Henderer
+1631,Anna Philipp
+1632,Moor
+1633,Lucretia Gonnel
+1634,Catharina Deter
+1635,Cornelia Boehm
+1636,Maria Schultz
+1637,Barbara Weber
+1638,Eliesabeth Barry
+1639,Anna Dorothea Martin
+1640,Rebecca Neher
+1641,Hanna Dakin
+1642,Rebecca Patten
+1643,Martha Reylin
+1644,Catharina Heigerd
+1645,Anna Wustenhausen
+1646,Dorothea Bartholomae
+1647,Eliesabeth Rowbotten
+1648,Christina
+1649,Catharina Defou
+1650,John Docks
+1651,Magdalena Defou Docks
+1652,Isaac Legrange
+1653,Jacobina Legrange
