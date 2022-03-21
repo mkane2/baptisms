@@ -1,7 +1,7 @@
 id,name,gender,race
 0,Pieter Ziele,male,white
-1,Anatie Ekkerson,unknown,white
-2,Harman Van Aalstein,unknown,white
+1,Anatie Ekkerson,female,white
+2,Harman Van Aalstein,male,white
 3,Dorothea Van Slyck,female,white
 4,Joachim Van Aalstein,male,white
 5,Eva Valkenburg,female,white
@@ -13,7 +13,7 @@ id,name,gender,race
 11,Anna Christina Kemmer,female,white
 12,Adam Starenberg,male,white
 13,Elisabeth Rickert,female,white
-14,Maattheus Hilts,unknown,white
+14,Maattheus Hilts,male,white
 15,Anna Eva Tantelaar,female,white
 16,Johannes Becker,male,white
 17,Cornelia Siele,female,white
@@ -50,60 +50,60 @@ id,name,gender,race
 48,Pieter Beckker,male,white
 49,Sara Slingerland,female,white
 50,Simeon Larrowa,male,white
-51,Jannite Van der Volge,unknown,white
+51,Jannite Van der Volge,female,white
 52,Johan Joost Snell,male,white
 53,Maria Cathrina Graft,female,white
 54,Ludovicus Rikkert,male,white
-55,Catharian Coenraadse,unknown,white
+55,Catharian Coenraadse,female,white
 56,Markus Rickert,male,white
-57,Niclaas Feeck,unknown,white
+57,Niclaas Feeck,male,white
 58,Margrieta Millers,female,white
-59,Jurrie Hous,unknown,white
-60,Cathrina Eerhart,unknown,white
+59,Jurrie Hous,male,white
+60,Cathrina Eerhart,female,white
 61,Willem Bekker,male,white
 62,Anna Dorothea York,female,white
 63,Barent Vroman,male,white
-64,Engeltie Swart,unknown,white
+64,Engeltie Swart,female,white
 65,Jurriaan Timmer,male,white
 66,Maria Elisabeth Craus,female,white
-67,Hendreck Passagie,unknown,white
+67,Hendreck Passagie,male,white
 68,Sophia Magdalena Casselman,female,white
 69,Pieter Livingston,male,white
 70,Anna Apolonia Oosterman,female,white
 71,Storm Becker Jr.,male,white
-72,Geerdruid Klein,unknown,white
-73,Niclaas Matheyse,unknown,white
+72,Geerdruid Klein,male,white
+73,Niclaas Matheyse,male,white
 74,Elisabeth Cas,female,white
 75,Markus Bellinger,male,white
 76,Maria Margerith Zee,female,white
 77,Anthony Beckker,male,white
 78,Margreet Berninger,female,white
 79,Robbert Herres,male,white
-80,Niclaas Ekkerson,unknown,white
+80,Niclaas Ekkerson,male,white
 81,Maria Mardalene Horn,female,white
 82,Storm Becker,male,white
-83,Josias Swart,unknown,white
-84,Jannitie Vroman,unknown,white
+83,Josias Swart,male,white
+84,Jannitie Vroman,female,white
 85,Barbara Bellinger,female,white
 86,Cornelis Van Aalstein,male,white
-87,Dennye Fort,unknown,white
+87,Dennye Fort,male,white
 88,Robbin Frieman,female,white
-89,Molli Van der Lein,unknown,white
+89,Molli Van der Lein,female,white
 90,Johannes Zee,male,white
 91,Anna Catherina Bellinger,female,white
-92,Deobald Hils,unknown,white
+92,Deobald Hils,male,white
 93,Anna Eva Nerbel,female,white
-94,Henderick Knieskern,unknown,white
+94,Henderick Knieskern,male,white
 95,Elisabeth Schaeffer,female,white
-96,Hendreck Coenraad,unknown,white
+96,Hendreck Coenraad,male,white
 97,Anna Maria Staring,female,white
 98,Hieronymus Heszoog,male,white
 99,Anna Margaritha Winther,female,white
 100,John Marte Borst,male,white
 101,Catharina Mathyse,female,white
-102,Jurrie Zimmer,unknown,white
+102,Jurrie Zimmer,male,white
 103,James Schilkragt,male,white
-104,Lodewyck Wanner,unknown,white
+104,Lodewyck Wanner,male,white
 105,Anna Margareth Coen,female,white
 106,Jochim Falckenberg,male,white
 107,Helena Warnar,female,white
@@ -115,12 +115,12 @@ id,name,gender,race
 113,Johan Niclaas Matheese,male,white
 114,Jacob Merckel,male,white
 115,Anna Maria Merckel,female,white
-116,Niclaas Miller,unknown,white
+116,Niclaas Miller,male,white
 117,Mary Dorotha,female,white
-118,Jurrie Coen,unknown,white
+118,Jurrie Coen,male,white
 119,Anna Rosina,female,white
 120,David Ziele,male,white
-121,Engeltie Vroman,unknown,white
+121,Engeltie Vroman,female,white
 122,Peter Sneider,male,white
 123,Elisa Cathrin Brucker,female,white
 124,Adam Braun,male,white
@@ -139,39 +139,39 @@ id,name,gender,race
 137,Elisa Catharin Ackebach,female,white
 138,Johannes Lourens Neubergh,male,white
 139,Elisabeth Warner,female,white
-140,Jans Jurria an Indian,unknown,Native
+140,Jans Jurria an Indian,male,Native
 141,Anna Margaretha Berninger,female,white
 142,Pieter Ball,male,white
 143,Anna Margareth Ball,female,white
-144,Malli Frieman,unknown,white
+144,Malli Frieman,female,white
 145,Lammert Van Aalstyn,male,white
-146,Beckki Van Aalstyn,unknown,white
-147,Margarith Feeck,unknown,white
+146,Beckki Van Aalstyn,female,white
+147,Margarith Feeck,female,white
 148,Henrick Hauch,male,white
 149,Anna Fronica,female,white
 150,Hannes Weidman,male,white
 151,Anna Weidman,female,white
-152,Godvried Knieskern,unknown,white
+152,Godvried Knieskern,male,white
 153,Anna Margareth Knieskern,female,white
 154,Michael Sultsberger,male,white
 155,Margareth Siek,female,white
 156,Thomas Ekkerson,male,white
-157,Margaritie Slingerland,unknown,white
+157,Margaritie Slingerland,female,white
 158,Johannes Ingolt,male,white
 159,Anna Margaretha Ingold,female,white
 160,Jonathan Hoogdeele,male,white
 161,Neeltie Van der Volge,female,white
-162,Harman Sidnig,unknown,white
+162,Harman Sidnig,male,white
 163,Maria Catharina,female,white
 164,Conrad Freymauer,male,white
 165,Anna Maria Freymauer,female,white
 166,George Coen,male,white
 167,Michel Wanner,male,white
 168,Anna Elisabeth,female,white
-169,Rudolpf Ackenbach,unknown,white
+169,Rudolpf Ackenbach,male,white
 170,Elisa Catharina,female,white
 171,Andres Muller,male,white
-172,Martia Dorothea,unknown,white
+172,Martia Dorothea,female,white
 173,Jacob Enters,male,white
 174,Anna Maria,female,white
 175,Johan Anthon Engel,male,white
@@ -184,13 +184,13 @@ id,name,gender,race
 182,Anna Margareth,female,white
 183,Friederich Carl Schell,male,white
 184,Maria Barbara Schell,female,white
-185,Niclaas Loam,unknown,white
+185,Niclaas Loam,male,white
 186,Susanna Margaretha Lahm,female,white
 187,Catharina Schert,female,white
-188,Gurrie Seibel,unknown,white
+188,Gurrie Seibel,male,white
 189,Anna Maria Reyin,female,white
 190,Hendrick Merki,male,white
-191,Frina Bucher,unknown,white
+191,Frina Bucher,female,white
 192,Henrich Kniskern,male,white
 193,Elisabeth Kniskern,female,white
 194,Maria Barbara Werner,female,white
@@ -218,7 +218,7 @@ id,name,gender,race
 216,Elisabeth Becker,female,white
 217,Peter N. Sommer,male,white
 218,Maria Sommer,female,white
-219,Abelona Lowenstein,unknown,white
+219,Abelona Lowenstein,female,white
 220,Peter Mesi Froman,male,white
 221,Anna Barbara,female,white
 222,Johannes Casselman,male,white
@@ -249,7 +249,7 @@ id,name,gender,race
 247,Lorentz Jr. an Indian,male,Native
 248,Sara an Indian,female,Native
 249,Tinus an Indian,male,Native
-250,Nelje an Indian,unknown,Native
+250,Nelje an Indian,female,Native
 251,Wilhelm Entes,male,white
 252,Joseph an Indian,male,Native
 253,Maria an Indian (4),female,Native
@@ -265,7 +265,7 @@ id,name,gender,race
 263,Cornelius Sixbury,male,white
 264,Storm Vander Zee,male,white
 265,William Fox,male,white
-266,Henerich Falckenburg,unknown,white
+266,Henerich Falckenburg,male,white
 267,Jacobus Falckenburg,male,white
 268,Johann Michael Freymeyer,male,white
 269,Johannes Van Sleek,male,white
@@ -274,28 +274,28 @@ id,name,gender,race
 272,Fredrik Bekker,male,white
 273,Jonas Larrowa,male,white
 274,Robbert Frieman,male,white
-275,Isaack Faalck,unknown,white
+275,Isaack Faalck,male,white
 276,Johannes Vedder,male,white
 277,Pieter Vroman,male,white
 278,Timotheus Vroman,male,white
 279,Jacob Borst Jr,male,white
 280,Johannes Frederik,male,white
 281,Cornelis Vroman,male,white
-282,Niclaas Yorck,unknown,white
-283,Hendreck Mathyse,unknown,white
+282,Niclaas Yorck,male,white
+283,Hendreck Mathyse,male,white
 284,Lambert Starenberg,male,white
 285,Hendrick Bellinger,male,white
 286,John Larrowa,male,white
-287,Harme Haus,unknown,white
+287,Harme Haus,male,white
 288,Johannes Becker Jr.,male,white
 289,Abraham Berg,male,white
-290,Thenis Van der Volge,unknown,white
+290,Thenis Van der Volge,male,white
 291,John Jurrie Ekkerson,male,white
-292,Marthynes Vrooman,unknown,white
-293,Martins Rickert,unknown,white
+292,Marthynes Vrooman,male,white
+293,Martins Rickert,male,white
 294,Conrad Freimauer,male,white
 295,Ephraim Bradt,male,white
-296,Christeyaam Scheffer,unknown,white
+296,Christeyaam Scheffer,male,white
 297,John Wilhelm Kemmer,male,white
 298,Adam Swart,male,white
 299,Michael Vrymayer,male,white
@@ -304,7 +304,7 @@ id,name,gender,race
 302,Jacob Sneider,male,white
 303,Abram Van Aalsytn,male,white
 304,John Michael Wanner,male,white
-305,Harman Valkenburgh,unknown,white
+305,Harman Valkenburgh,male,white
 306,Johan Philip Fux,male,white
 307,Johannes Beckker Sr.,male,white
 308,Willem Bartram Enters,male,white
@@ -314,10 +314,10 @@ id,name,gender,race
 312,Joost Knieskern,male,white
 313,Hans Jurrie an Indian,male,Native
 314,Maria an Indian (3),female,Native
-315,Louzus an Indian,unknown,Native
-316,Juriie Ekkerson,unknown,white
+315,Louzus an Indian,male,Native
+316,Juriie Ekkerson,male,white
 317,Pieter Bratd,male,white
-318,Diderick Jokkob,unknown,white
+318,Diderick Jokkob,male,white
 319,Hannes Bauch,male,white
 320,Pieter Midler,male,white
 321,Johan Lips Berg,male,white
@@ -326,23 +326,23 @@ id,name,gender,race
 324,Hans Jurrie Couterman,male,white
 325,Andries Waard,male,white
 326,John Niclaas Beckker,male,white
-327,Hamran Van der Zee,unknown,white
+327,Hamran Van der Zee,male,white
 328,Joseph Dance,male,white
 329,Johannes Bal,male,white
 330,Jacob Freidrich Lawyer,male,white
 331,Johannes Knieskern,male,white
-332,Pellis Warreson,unknown,white
+332,Pellis Warreson,male,white
 333,Hendrick Stuprach,male,white
 334,Matthes Bowman,male,white
 335,John Lawyer Jr.,male,white
 336,Jacob Mentes,male,white
 337,Jacob Zimmer,male,white
 338,John Philips Bergh,male,white
-339,Joerge Henderick,unknown,white
+339,Joerge Henderick,male,white
 340,Willem Dietz,male,white
 341,Michael Francken,male,white
-342,Hannis Lawyer Jr.,unknown,white
-343,Gotfried Kniskern,unknown,white
+342,Hannis Lawyer Jr.,male,white
+343,Gotfried Kniskern,male,white
 344,Elisabeth --gern,female,white
 345,Peter Kniskern,male,white
 346,Peter Nicolas Sommer,male,white
@@ -356,7 +356,7 @@ id,name,gender,race
 354,Jost Kniskern,male,white
 355,Anton Engel,male,white
 356,Marten Hook,male,white
-357,Asten Schulkraf,unknown,white
+357,Asten Schulkraf,male,white
 358,Gerdraut Friederichs,male,white
 359,Johannes Martin Borst,male,white
 360,Jost Borst,male,white
@@ -405,7 +405,7 @@ id,name,gender,race
 403,Jürgen Henrich Stubrach,male,white
 404,Christian Zee,male,white
 405,Johannes Rickert,male,white
-406,Marx Rickert,unknown,white
+406,Marx Rickert,male,white
 407,Nickel Matthes,male,white
 408,Wilhelm Braun,male,white
 409,Jürgen Ricktmeier Jr.,male,white
@@ -431,7 +431,7 @@ id,name,gender,race
 429,Jacob Friedrich Lawyer,male,white
 430,Johan Christoph Ohle,male,white
 431,Jurgen Michel Happolt,male,white
-432,Christolph Merckle,unknown,white
+432,Christolph Merckle,male,white
 433,Andres Rantzis,male,white
 434,Michel Freymauer,male,white
 435,Gottlieb Kospott,male,white
@@ -460,23 +460,23 @@ id,name,gender,race
 458,Richard Baxter,male,white
 459,Maria Ziele,female,white
 460,Eva Van Aalstein,female,white
-461,Derkje Van Sleek,unknown,white
+461,Derkje Van Sleek,male,white
 462,Elisabeth Teller,female,white
 463,Catherina Van Aalstein,female,white
 464,Johannes Siever,male,white
 465,Elisabeth Savooja,female,white
 466,Maria Engel Hils,female,white
-467,Annatje Bekker,unknown,white
+467,Annatje Bekker,female,white
 468,Antje Van der Zee,female,white
 469,Maria Slingerland,female,white
-470,Magrieta Pellinger,unknown,white
+470,Magrieta Pellinger,female,white
 471,Catharina Bellinger,female,white
 472,Helena Van Sleek,female,white
-473,Corneila Larrowa,unknown,white
+473,Corneila Larrowa,female,white
 474,Christina Walraad,female,white
-475,Cathrina Zenger,unknown,white
+475,Cathrina Zenger,female,white
 476,Anna Dorothea,female,white
-477,Anatche Uzile,unknown,white
+477,Anatche Uzile,female,white
 478,Dina Hagedoorn,female,white
 479,Lydia Van Slyck,female,white
 480,Maria Fort,female,white
@@ -488,40 +488,40 @@ id,name,gender,race
 486,Maria Catje Snell,female,white
 487,Maria Dorothea Warner,female,white
 488,Maria Elisabeth Berg,female,white
-489,Sofina Mathyse,unknown,white
+489,Sofina Mathyse,female,white
 490,Barbara Wanner,female,white
-491,Marytie Klein,unknown,white
+491,Marytie Klein,female,white
 492,Sara Van der Volge,female,white
 493,Elisa Margareth Winner,female,white
-494,Marytie Larrowa,unknown,white
+494,Marytie Larrowa,female,white
 495,Elisabeth Lawyer,female,white
-496,Engeltie Ziele,unknown,white
+496,Engeltie Ziele,female,white
 497,Elisabeth Bellinger,female,white
 498,Anna Maria Knieskern,female,white
 499,Anna Appalonia Warner,female,white
-500,Anatie Siele,unknown,white
-501,Margarith Bauch,unknown,white
+500,Anatie Siele,female,white
+501,Margarith Bauch,female,white
 502,Anna Maria Bauch,female,white
 503,Cornelia Van der Berg,female,white
-504,Dintie Vroman,unknown,white
+504,Dintie Vroman,female,white
 505,Anna Maria Zoller,female,white
 506,Anna Eva Fux,female,white
-507,Geertraud Ekkerson,unknown,white
+507,Geertraud Ekkerson,male,white
 508,Elisabeth Sneider,female,white
-509,Jannitie Van Aalstyn,unknown,white
+509,Jannitie Van Aalstyn,female,white
 510,Anna Elisabeth Ceonin,female,white
 511,Anna Margareeth Beckkers,female,white
-512,Apelonia Livingston,unknown,white
+512,Apelonia Livingston,female,white
 513,Lise Berbel Coen,female,white
-514,Marytie Ziele,unknown,white
-515,Geertruid Vroman,unknown,white
+514,Marytie Ziele,female,white
+515,Geertruid Vroman,male,white
 516,Elisa Barbara Coen,female,white
 517,Elisabeth Sternberg,female,white
 518,Elisa Chatarin Sneider,female,white
 519,Ann Elies Berninger,female,white
 520,Maria Elisabeth Knieskern,female,white
 521,Maria Eva Hils,female,white
-522,Marytie Scheffer,unknown,white
+522,Marytie Scheffer,female,white
 523,Maria Hagedoorn,female,white
 524,Elisabeth Vreymeyer,female,white
 525,Mary Christina Enters,female,white
@@ -536,7 +536,7 @@ id,name,gender,race
 534,Dorothea Wanner,female,white
 535,Eva Van der Zee,female,white
 536,John Jacob Zimmer,male,white
-537,Angentie Vedder,unknown,white
+537,Angentie Vedder,female,white
 538,Anna Rickert,female,white
 539,Maria Catherina Ekkerson,female,white
 540,Elisabeth Berg,female,white
@@ -559,7 +559,7 @@ id,name,gender,race
 557,Maria Magdalena Ingoldt,female,white
 558,Magdalena Peg,female,white
 559,Catharina Kayser,female,white
-560,Bartholomaus Osterman,unknown,white
+560,Bartholomaus Osterman,male,white
 561,Catharina Elisabet Ballen,female,white
 562,Anna Maria Rickert,female,white
 563,Margareth Bellinger,female,white
@@ -600,7 +600,7 @@ id,name,gender,race
 598,Sara Matthes,female,white
 599,Catharina Rickert,female,white
 600,Elisabeth Schneider,female,white
-601,Magrieta Bekker,unknown,white
+601,Magrieta Bekker,female,white
 602,Magdalena Bekker,female,white
 603,Christiaan Bauch,male,white
 604,Joost Mathees,male,white

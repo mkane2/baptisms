@@ -47,12 +47,12 @@ id,name,gender,race
 45,Daniel Broadheat,male,white
 46,Gerrit Lucasz,male,white
 47,Goosse Van Schaik,male,white
-48,Rub. Van Vechten,unknown,white
+48,Rub. Van Vechten,male,white
 49,Jan Van Vechten,male,white
 50,Lucas Wyngaard,male,white
 51,Philip Conyn,male,white
 52,Philip Livingston,male,white
-53,Sal. Van Vechten,unknown,white
+53,Sal. Van Vechten,female,white
 54,Sara Wyngaard,female,white
 55,Marten Van Aalsteyn,male,white
 56,Abigail Foreest,female,white
@@ -73,10 +73,10 @@ id,name,gender,race
 71,Anna Wendel,female,white
 72,Egbert Bratt,male,white
 73,Anthony Bogardus,male,white
-74,Jann. Bogardus,unknown,white
+74,Jann. Bogardus,male,white
 75,Matthys Flensburg,male,white
 76,Joseph Jets,male,white
-77,Celle Rattelief,female,white
+77,Celle Rattelief,male,white
 78,Caspar Ham,male,white
 79,Caspar Leyb [?],male,white
 80,Sara Gardenier,female,white
@@ -144,7 +144,7 @@ id,name,gender,race
 142,Sam Redly,male,white
 143,Annatie Bronk,female,white
 144,Ephraim Bogardus,male,white
-145,Walder Knoet,unknown,white
+145,Walder Knoet,male,white
 146,Francyntje Knoet,female,white
 147,Frerik Knoet,male,white
 148,Jacob Halenbeek,male,white
@@ -173,7 +173,7 @@ id,name,gender,race
 171,Maria Mingal,female,white
 172,Matthys Bovie,male,white
 173,Rebecca Bratt,female,white
-174,Ro. Roseboom,unknown,white
+174,Ro. Roseboom,male,white
 175,Johannes Slingerland,male,white
 176,Albert Slingerland,male,white
 177,James Walles,male,white
@@ -231,13 +231,13 @@ id,name,gender,race
 229,Thomas Story,male,white
 230,Maria Mahane,female,white
 231,Willem Willemse,male,white
-232,Neth Telleth,unknown,white
+232,Neth Telleth,male,white
 233,Albert Bratt,male,white
 234,Eva Bratt,female,white
 235,Willem Northen,male,white
 236,John Marroew,male,white
 237,Judy Marroew,female,white
-238,Neth Ethweth,unknown,white
+238,Neth Ethweth,male,white
 239,Johannes Oostrander,male,white
 240,Anna Garmo,female,white
 241,Pieter Van Brug,male,white
@@ -252,7 +252,7 @@ id,name,gender,race
 250,Dirk jr,male,white
 251,Johannes Gaaf,male,white
 252,Edward Holland,male,white
-253,Zeely Holland,unknown,white
+253,Zeely Holland,female,white
 254,Obedie Couper,male,white
 255,Elizabeth Van Oostrande,female,white
 256,Johannes Van Oostrande,male,white
@@ -307,7 +307,7 @@ id,name,gender,race
 305,Isaac Fryer,male,white
 306,Johannes Redly,male,white
 307,Theunis Visscher,male,white
-308,Celle Redly,female,white
+308,Celle Redly,male,white
 309,Matthys De Garmeau,male,white
 310,Bessie Van Arnhem,female,white
 311,Abraham Van der Poel,male,white
@@ -348,7 +348,7 @@ id,name,gender,race
 346,Alida Van Yvere,female,white
 347,Abraham Van Valkenburg,male,white
 348,Elizabeth Schermerhorn,female,white
-349,Harp. Van Deuse,unknown,white
+349,Harp. Van Deuse,male,white
 350,Engeltje Van Nes,female,white
 351,Hendrick Lansing,male,white
 352,Christian Schans,male,white
@@ -362,7 +362,7 @@ id,name,gender,race
 360,Cornelis Ridder,male,white
 361,Evert Rycksen,male,white
 362,Anna Van Franken,female,white
-363,Jann. Van Arnhem,unknown,white
+363,Jann. Van Arnhem,male,white
 364,Ryck Van Franken,male,white
 365,David Schuyler,male,white
 366,Alida Schuyler,female,white
@@ -509,7 +509,7 @@ id,name,gender,race
 507,Christian Goes,male,white
 508,Samuel Bibbingthon,male,white
 509,Johannes Pruyn,male,white
-510,Lunk Hackings,unknown,white
+510,Lunk Hackings,male,white
 511,Sara Poel,female,white
 512,Sander Van Aalsteyn,male,white
 513,Maria Hilton,female,white
@@ -524,7 +524,7 @@ id,name,gender,race
 522,Harmanus Schuyler,male,white
 523,Jacob Beekman,male,white
 524,Teunis Slingerland,male,white
-525,Jann. Van Den Zee,unknown,white
+525,Jann. Van Den Zee,male,white
 526,Wouter Van der Zee,male,white
 527,Johannes Van Valkenburg,male,white
 528,Johannes De Wandelaar,male,white
@@ -564,7 +564,7 @@ id,name,gender,race
 562,Rachel Bockly,female,white
 563,Josina Gardenier,female,white
 564,Anna Staats,female,white
-565,Co. Van Dyck,unknown,white
+565,Co. Van Dyck,male,white
 566,Nicolaes Saxburry,male,white
 567,Annetje Lansing,female,white
 568,Johannes Schoonmaker,male,white
@@ -590,7 +590,7 @@ id,name,gender,race
 588,Willem Naarten,male,white
 589,Abraham Van Deuse,male,white
 590,Herbert Van Deuse,male,white
-591,Akes Bratt,unknown,white
+591,Akes Bratt,male,white
 592,Jacobus Van Slyk,male,white
 593,Margaret Bratt,female,white
 594,Helena Van Deuse,female,white
@@ -604,7 +604,7 @@ id,name,gender,race
 602,Herbert Jacobse Van Deuse,male,white
 603,Meytie Ouderkerk,female,white
 604,Maria Couck,female,white
-605,Charl Wikkenson,unknown,white
+605,Charl Wikkenson,male,white
 606,Wilhelm Tuck,male,white
 607,Elizabeth Stephensz,female,white
 608,Christian Kanneda,male,white
@@ -656,7 +656,7 @@ id,name,gender,race
 654,Gerrit Roseboom,male,white
 655,Maria Roseboom,female,white
 656,James Bort,male,white
-657,Grees Gertsz,unknown,white
+657,Grees Gertsz,male,white
 658,Hendrick Van Bueren,male,white
 659,John Makinthos,male,white
 660,Catalina Bleeker,female,white
@@ -1075,7 +1075,7 @@ id,name,gender,race
 1073,Catherine Johanna,female,white
 1074,Johanna Van Strey,female,white
 1075,Maritie Peeks,female,white
-1076,Bethi Van den Berg,female,white
+1076,Bethi Van den Berg,male,white
 1077,Simon Van Nes,male,white
 1078,Willem Halebeek,male,white
 1079,Daniel Bratt,male,white
@@ -1085,7 +1085,7 @@ id,name,gender,race
 1083,Elsje Rutgers,female,white
 1084,Gerardus Cloet,male,white
 1085,Jacob Teunisz,male,white
-1086,P. Van Driessen,unknown,white
+1086,P. Van Driessen,male,white
 1087,Dorothe Douw,female,white
 1088,Petrus Van Brug,male,white
 1089,Anna De Wandelaar,female,white
@@ -1139,7 +1139,7 @@ id,name,gender,race
 1137,Geertruy Cortlandt,female,white
 1138,Stephanus Cortlandt,male,white
 1139,Wyntje Barrit,female,white
-1140,Santje Gardenier,female,white
+1140,Santje Gardenier,male,white
 1141,Volkert Symensz,male,white
 1142,Anna De Warm,female,white
 1143,Dirk Groot,male,white
@@ -1260,7 +1260,7 @@ id,name,gender,race
 1258,Hilletje Becker,female,white
 1259,Jan Bogart,male,white
 1260,Catherine De Meyer,female,white
-1261,Col. Van Rensselaar,unknown,white
+1261,Col. Van Rensselaar,male,white
 1262,Jacob Cortlandt,male,white
 1263,Philip Cortlandt,male,white
 1264,Rykert Jansz,male,white
@@ -1337,7 +1337,7 @@ id,name,gender,race
 1335,Eldert Teimesen,male,white
 1336,Laurens Van Schaik,male,white
 1337,Dorothe Oothout,female,white
-1338,G. Gerritse Van den Berg,unknown,white
+1338,G. Gerritse Van den Berg,male,white
 1339,Egbert Harmensz,male,white
 1340,Elizabeth Rosy,female,white
 1341,Geertruy Quackenbos,female,white
@@ -1396,7 +1396,7 @@ id,name,gender,race
 1394,Christina Maria (Aborigine),female,white
 1395,Abraham Schuyler,male,white
 1396,Elizabeth Ten Broek,female,white
-1397,Adriaantjen Barents,female,white
+1397,Adriaantjen Barents,male,white
 1398,Annetje Roelefsen,female,white
 1399,Maria Schuyler,female,white
 1400,Catalina Schermerhorn,female,white
@@ -1441,14 +1441,14 @@ id,name,gender,race
 1439,Barbara Groesbeek,female,white
 1440,Evert Van Franken,male,white
 1441,Katie Bleeker,female,white
-1442,Claartje Quackenbos,female,white
+1442,Claartje Quackenbos,male,white
 1443,Dirk Taakels,male,white
 1444,Gualtherus Dubois,male,white
 1445,Eva Vinhagel,female,white
 1446,Grietje Quackenbos,female,white
 1447,Maria Van Cortlandt,female,white
 1448,Grietje Bleeker,female,white
-1449,Tohs. Turk,unknown,white
+1449,Tohs. Turk,male,white
 1450,Maria Van Trigt,female,white
 1451,Maritie Lockerman,female,white
 1452,Marrytje Visscher,female,white
@@ -1464,12 +1464,12 @@ id,name,gender,race
 1462,Annetje Van Esch,female,white
 1463,Simon Van Esch,male,white
 1464,Grietje Vrooman,female,white
-1465,Jobs. Van Aalsteyn,unknown,white
+1465,Jobs. Van Aalsteyn,male,white
 1466,Harmen Van Salsberry,male,white
 1467,Andries Rees,male,white
 1468,Ariaantje Scharp,female,white
 1469,Hilletje Goewey,female,white
-1470,Matje Fonda,female,white
+1470,Matje Fonda,male,white
 1471,John Harding,male,white
 1472,Nicolaes Wyngaard,male,white
 1473,Maria Becker,female,white
@@ -1526,7 +1526,7 @@ id,name,gender,race
 1524,Abraham Aalstyn,male,white
 1525,Annetje Mingal,female,white
 1526,Johannes Vrooman,male,white
-1527,Jobs. Mingal,unknown,white
+1527,Jobs. Mingal,male,white
 1528,Judith Barents,female,white
 1529,Maria Singer,female,white
 1530,Maria Van Deuse,female,white
@@ -1534,7 +1534,7 @@ id,name,gender,race
 1532,Catherine Bleeker,female,white
 1533,Arent Danielsen,male,white
 1534,Agnietie Vedder,female,white
-1535,Matje or Nieltje,female,white
+1535,Matje or Nieltje,male,white
 1536,Albert Vedder,male,white
 1537,Maria Slingerland,female,white
 1538,Eva Mebi,female,white
@@ -1558,7 +1558,7 @@ id,name,gender,race
 1556,Johannes Lanse,male,white
 1557,Samuel Gardenier,male,white
 1558,Arent Van Petten,male,white
-1559,Claartje Bratt,female,white
+1559,Claartje Bratt,male,white
 1560,Jesaias Swart,male,white
 1561,Eva Teunisse Van Schoonderwoert,female,white
 1562,Jonathan Rumney,male,white
@@ -1580,7 +1580,7 @@ id,name,gender,race
 1578,Gerrit Teunisz,male,white
 1579,Maria Bogardus,female,white
 1580,Catherine Douw,female,white
-1581,Jobs. Wendel,unknown,white
+1581,Jobs. Wendel,male,white
 1582,Elizabeth Walters,female,white
 1583,Elsje Ten Broek,female,white
 1584,Barent Ten Eyck,male,white
@@ -1702,7 +1702,7 @@ id,name,gender,race
 1700,Geertruy Van Slyk,female,white
 1701,Johannes Myndertse,male,white
 1702,Catherine Van Alen,female,white
-1703,Claartje Brussy,female,white
+1703,Claartje Brussy,male,white
 1704,Annetje Van der Zee,female,white
 1705,Catherine Van der Werke,female,white
 1706,Johannes Van der Werke Marrytje Kidni,male,white
@@ -1725,7 +1725,7 @@ id,name,gender,race
 1723,Jan Dekker,male,white
 1724,Rachel Hooghteeling,female,white
 1725,Richard Van den Berg,male,white
-1726,Tysje Bogart,female,white
+1726,Tysje Bogart,male,white
 1727,Elizabeth Nottingham,female,white
 1728,Maria Foreest,female,white
 1729,Cornelia Keteltas,female,white
@@ -1784,7 +1784,7 @@ id,name,gender,race
 1782,Goosse Van Wie,male,white
 1783,Elizabeth Delmond,female,white
 1784,Annetje Scharp,female,white
-1785,Matje Lockerman,female,white
+1785,Matje Lockerman,male,white
 1786,Bata Cloet,female,white
 1787,Jan Cloet,male,white
 1788,Frederik Harmense Visscher,male,white
@@ -1877,7 +1877,7 @@ id,name,gender,race
 1875,Margaret Mingal,female,white
 1876,Catalina Dingmans,female,white
 1877,Cornelis Maasse Van Bloemendaal,male,white
-1878,Jesje b 9/17,female,white
+1878,Jesje b 9/17,male,white
 1879,Lena By,female,white
 1880,Cornelis Van Esch,male,white
 1881,Johannes Oothout,male,white
@@ -1943,7 +1943,7 @@ id,name,gender,race
 1941,Thomas Jansz,male,white
 1942,Jan Matthysse,male,white
 1943,Matthys Jansz,male,white
-1944,Styntje Goes,female,white
+1944,Styntje Goes,male,white
 1945,Annetje Singer,female,white
 1946,Jan Pearson,male,white
 1947,Adam Swart,male,white
@@ -1955,7 +1955,7 @@ id,name,gender,race
 1953,Magdalena Matthysse,female,white
 1954,Margaret Pearson,female,white
 1955,Maria Bronk,female,white
-1956,Matje Van Slyk,female,white
+1956,Matje Van Slyk,male,white
 1957,Pieter Van Slyk,male,white
 1958,Rebecca Trophagen,female,white
 1959,Tanne Wenne,male,white
@@ -1994,7 +1994,7 @@ id,name,gender,race
 1992,Sara Van Schaik,female,white
 1993,Catherine Oothout,female,white
 1994,Claasje Bratt,male,white
-1995,Lammetje Lockerman,female,white
+1995,Lammetje Lockerman,male,white
 1996,Willem Teller,male,white
 1997,Nicolaes Frederiksz,male,white
 1998,Cornelis Gysbertse Van den Berg,male,white
@@ -2079,8 +2079,8 @@ id,name,gender,race
 2077,Catherine Marinus,female,white
 2078,Thomas Nobel,male,white
 2079,Hester Brikkers,female,white
-2080,Capt. Shenks,unknown,white
-2081,Capt. Matthysse,unknown,white
+2080,Capt. Shenks,male,white
+2081,Capt. Matthysse,male,white
 2082,Huybert Marselis,male,white
 2083,Johanna Jets,female,white
 2084,Neeltie Myndertse,female,white
@@ -2113,8 +2113,8 @@ id,name,gender,race
 2111,Cornelis Kierstede,male,white
 2112,Sara Elswaart,female,white
 2113,Marrvtje Fonda,female,white
-2114,Claartje Van Heemstrate,female,white
-2115,Lieut. Brnwer,unknown,white
+2114,Claartje Van Heemstrate,male,white
+2115,Lieut. Brnwer,male,white
 2116,Jan Rosier,male,white
 2117,Patrick Macgregory,male,white
 2118,Sydje Hooghteeling,female,white
@@ -2163,7 +2163,7 @@ id,name,gender,race
 2161,Philip Foreest,male,white
 2162,Tryntje Kip,female,white
 2163,James Parker,male,white
-2164,Styntje Ten Broek,female,white
+2164,Styntje Ten Broek,male,white
 2165,Anna Van Esch,female,white
 2166,Ryck Staats,male,white
 2167,Joachim Staats,male,white
@@ -2184,7 +2184,7 @@ id,name,gender,race
 2182,Eva Van Valkenburg,female,white
 2183,Richard Janse Van den Berk,male,white
 2184,Annetje Jeraleman,female,white
-2185,Dievertje Masten,female,white
+2185,Dievertje Masten,male,white
 2186,Annetje Casparsz,female,white
 2187,John Appelstown,male,white
 2188,Willem Jacobse Van Deuse,male,white
@@ -2258,8 +2258,8 @@ id,name,gender,race
 2256,Marten Martens Van Buuren,male,white
 2257,Marrytje Henriks,female,white
 2258,Marrytje Bratt,female,white
-2259,Capt. Bennit wid Ingolsby,unknown,white
-2260,Capt. James Wimps [Weems],unknown,white
+2259,Capt. Bennit wid Ingolsby,male,white
+2260,Capt. James Wimps [Weems],male,white
 2261,Gerrit Schouten,male,white
 2262,Dorothe Friddi,female,white
 2263,Elizabeth Aarnolds,female,white
@@ -2275,7 +2275,7 @@ id,name,gender,race
 2273,Meuwis Cornelisz,male,white
 2274,Jacomin Gardenier,female,white
 2275,Benoni Van Corlaer,male,white
-2276,Capt. Sanders,unknown,white
+2276,Capt. Sanders,male,white
 2277,Annetje Claasz,female,white
 2278,Harmen Thomasz,male,white
 2279,Catalina Bensing,female,white
@@ -2334,7 +2334,7 @@ id,name,gender,race
 2332,Jan Cittene,male,white
 2333,Geertruy Van Schaluynen,female,white
 2334,Jellis Fonda,male,white
-2335,Landje Lockerman,female,white
+2335,Landje Lockerman,male,white
 2336,Maria Kittel,female,white
 2337,Jacob Bastiaanse De Wit,male,white
 2338,Maritie Roelofse,female,white
@@ -2358,7 +2358,7 @@ id,name,gender,race
 2356,Claas Ripse Van Dam,male,white
 2357,Thomas Willinton,male,white
 2358,Johanna Hansse,female,white
-2359,Santje Bratt,female,white
+2359,Santje Bratt,male,white
 2360,Benoni Corlaer,male,white
 2361,Abigail Van den Vos,female,white
 2362,Grietje Teunisz,female,white
@@ -2400,9 +2400,9 @@ id,name,gender,race
 2398,Jacomin Van Deuse,female,white
 2399,Jan Redly,male,white
 2400,Annetje Berkhove,female,white
-2401,G. Dellius,unknown,white
+2401,G. Dellius,male,white
 2402,Catherine Ver Brugge,female,white
-2403,P. Schuyler,unknown,white
+2403,P. Schuyler,male,white
 2404,Carel Hansse,male,white
 2405,Elizabeth Rinkhout,female,white
 2406,Rebecca Claasz,female,white
@@ -2431,7 +2431,7 @@ id,name,gender,race
 2429,Cornelis Van Vechten,male,white
 2430,John Fine,male,white
 2431,Jan Van der Karre,male,white
-2432,Jopje Claasz,female,white
+2432,Jopje Claasz,male,white
 2433,Maria Lucasz,female,white
 2434,Dorothe Bosch,female,white
 2435,Feitje Claasz,female,white
@@ -2474,7 +2474,7 @@ id,name,gender,race
 2472,Grietje Rykertsz,female,white
 2473,Meuwis Rykertsz,male,white
 2474,Katie Martensz,female,white
-2475,Styntje Wessels,female,white
+2475,Styntje Wessels,male,white
 2476,Annetje Gerritsz,female,white
 2477,Cornelia Lauw,female,white
 2478,Jan Jansz Van Haarlem,male,white
@@ -2574,7 +2574,7 @@ id,name,gender,race
 2572,Anna Berkhove,female,white
 2573,Jean Kint,male,white
 2574,Aaltje Jansz,female,white
-2575,Dievertje Jansz,female,white
+2575,Dievertje Jansz,male,white
 2576,Bartel Volkenburg,male,white
 2577,Lambert Volkenburg,male,white
 2578,Lena Teuisz,female,white
@@ -2607,7 +2607,7 @@ id,name,gender,race
 2605,Cornelia Teunisz Verwey,female,white
 2606,Goosse Jansz,male,white
 2607,Christoffel Brussy,male,white
-2608,Styntje Nicols,female,white
+2608,Styntje Nicols,male,white
 2609,Johannes Te Neur,male,white
 2610,Catalina Martensz,female,white
 2611,Engeltje Melchertsz,female,white
@@ -2673,7 +2673,7 @@ id,name,gender,race
 2671,Maritie Lowysz,female,white
 2672,Maritie Pietersz,female,white
 2673,Annetje Jansz Bratt,female,white
-2674,Claartje Jansz Bratt,female,white
+2674,Claartje Jansz Bratt,male,white
 2675,Marrytje Matthysse,female,white
 2676,Elizabeth Matthysse,female,white
 2677,Catherine Volkenburg,female,white
@@ -2769,7 +2769,7 @@ id,name,gender,race
 2767,Maritie Lansing,female,white
 2768,Hendrick Dreeper,male,white
 2769,Claas Willemse,male,white
-2770,Dievertje Wimp,female,white
+2770,Dievertje Wimp,male,white
 2771,Harmen Vedder,male,white
 2772,Reynier Barents,male,white
 2773,Rebecca Douw,female,white
@@ -2842,12 +2842,12 @@ id,name,gender,race
 2840,Simon Jansz Post,male,white
 2841,for father,unknown,white
 2842,representing father,unknown,white
-2843,Styntje Jansz,female,white
+2843,Styntje Jansz,male,white
 2844,Cornelis Swart,male,white
 2845,Dirk Willemse,male,white
 2846,Hendrick Lucasz,male,white
 2847,Jan Weyer,male,white
-2848,Pietertje Fransz,unknown,white
+2848,Pietertje Fransz,male,white
 2849,Pieter Willemsz Slyk,male,white
 2850,Jacobus Isaacsz,male,white
 2851,Elizabeth Harris,female,white
@@ -2868,7 +2868,7 @@ id,name,gender,race
 2866,Gabriel Stridley,male,white
 2867,Jan Jacobsz Gardenier,male,white
 2868,Rebecca Jurriaansz,female,white
-2869,Celle Van der Heyden,female,white
+2869,Celle Van der Heyden,male,white
 2870,Johannes Roos,male,white
 2871,Engeltje Schuyler,female,white
 2872,Dirk Evertsz,male,white
@@ -2972,7 +2972,7 @@ id,name,gender,race
 2970,Sophia Van Wykersloot,female,white
 2971,Jacob Tomesz,male,white
 2972,Rutger Tomesz,male,white
-2973,Matje Martensz,female,white
+2973,Matje Martensz,male,white
 2974,Barent Salomonsz,male,white
 2975,Susanna Salomonsz,female,white
 2976,Isabella Dellius,female,white
@@ -3034,7 +3034,7 @@ id,name,gender,race
 3032,Andries Hansse,male,white
 3033,Anna Zachariasz,female,white
 3034,Margaret Wynandsz,female,white
-3035,Styntje Adams,female,white
+3035,Styntje Adams,male,white
 3036,Jacob Sandersz Glenn,male,white
 3037,Zybrant Van Schaik,male,white
 3038,Catalina Paulusz,female,white
@@ -3069,7 +3069,7 @@ id,name,gender,race
 3067,Jan Thomasz,male,white
 3068,Simon Jacobsz Schermerhoorn,male,white
 3069,Johannes Scherluyn,male,white
-3070,Matje Beekman,female,white
+3070,Matje Beekman,male,white
 3071,Jan Gilbornsz,male,white
 3072,Elizabeth Douw,female,white
 3073,Richard Willemse,male,white

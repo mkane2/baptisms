@@ -8432,7 +8432,7 @@
       "end": 1782,
       "gender": "male",
       "id": 0,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Robert Schmid",
       "race": "white",
       "start": 1777
@@ -8458,7 +8458,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Catharina Schmid",
       "race": "white",
       "start": 1777
@@ -8484,7 +8484,7 @@
       "end": 1782,
       "gender": "male",
       "id": 2,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Jacob Weger",
       "race": "white",
       "start": 1777
@@ -8510,7 +8510,7 @@
       "end": 1782,
       "gender": "female",
       "id": 3,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Rosina Barbara Weger",
       "race": "white",
       "start": 1777
@@ -8536,7 +8536,7 @@
       "end": 1782,
       "gender": "male",
       "id": 4,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Petrus Hener",
       "race": "white",
       "start": 1780
@@ -8562,7 +8562,7 @@
       "end": 1782,
       "gender": "female",
       "id": 5,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Anna Maria Hener",
       "race": "white",
       "start": 1778
@@ -8640,7 +8640,7 @@
       "end": 1782,
       "gender": "male",
       "id": 8,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Christoph Meyer",
       "race": "white",
       "start": 1777
@@ -8666,7 +8666,7 @@
       "end": 1782,
       "gender": "female",
       "id": 9,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Anna Meyer",
       "race": "white",
       "start": 1777
@@ -8796,7 +8796,7 @@
       "end": 1782,
       "gender": "male",
       "id": 18,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Jacob Zipperly",
       "race": "white",
       "start": 1777
@@ -8822,7 +8822,7 @@
       "end": 1782,
       "gender": "female",
       "id": 19,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Elisabeth Dater",
       "race": "white",
       "start": 1777
@@ -8848,7 +8848,7 @@
       "end": 1782,
       "gender": "male",
       "id": 20,
-      "modularity": 4,
+      "modularity": 9,
       "name": "Heinrich Mueller",
       "race": "white",
       "start": 1777
@@ -8874,7 +8874,7 @@
       "end": 1782,
       "gender": "female",
       "id": 21,
-      "modularity": 4,
+      "modularity": 9,
       "name": "Anna Mueller",
       "race": "white",
       "start": 1777
@@ -8952,7 +8952,7 @@
       "end": 1782,
       "gender": "male",
       "id": 26,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Jonas Gunther",
       "race": "white",
       "start": 1777
@@ -8978,7 +8978,7 @@
       "end": 1782,
       "gender": "female",
       "id": 27,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Maria Gunther",
       "race": "white",
       "start": 1777
@@ -9004,7 +9004,7 @@
       "end": 1782,
       "gender": "male",
       "id": 28,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Johannes Straub",
       "race": "white",
       "start": 1777
@@ -9030,7 +9030,7 @@
       "end": 1782,
       "gender": "female",
       "id": 29,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Dorothea Straub",
       "race": "white",
       "start": 1777
@@ -9056,7 +9056,7 @@
       "end": 1782,
       "gender": "male",
       "id": 32,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Laurentius Schneider",
       "race": "white",
       "start": 1777
@@ -9082,7 +9082,7 @@
       "end": 1782,
       "gender": "female",
       "id": 33,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Elizabeth Schneider",
       "race": "white",
       "start": 1777
@@ -9160,7 +9160,7 @@
       "end": 1782,
       "gender": "male",
       "id": 36,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Nicholas Dik",
       "race": "white",
       "start": 1777
@@ -9186,7 +9186,7 @@
       "end": 1782,
       "gender": "female",
       "id": 37,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Anna Schiffer",
       "race": "white",
       "start": 1777
@@ -9212,7 +9212,7 @@
       "end": 1782,
       "gender": "male",
       "id": 38,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Jacob Oberacker",
       "race": "white",
       "start": 1777
@@ -9238,7 +9238,7 @@
       "end": 1782,
       "gender": "female",
       "id": 39,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Rahel Oberacker",
       "race": "white",
       "start": 1777
@@ -9264,7 +9264,7 @@
       "end": 1782,
       "gender": "male",
       "id": 40,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Joseph Brimmer",
       "race": "white",
       "start": 1777
@@ -9290,7 +9290,7 @@
       "end": 1782,
       "gender": "female",
       "id": 41,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Maria Barbara Brimmer",
       "race": "white",
       "start": 1777
@@ -9316,7 +9316,7 @@
       "end": 1782,
       "gender": "male",
       "id": 42,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Johannes Schmid",
       "race": "white",
       "start": 1777
@@ -9342,7 +9342,7 @@
       "end": 1782,
       "gender": "female",
       "id": 43,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Anna Schmid",
       "race": "white",
       "start": 1777
@@ -9368,7 +9368,7 @@
       "end": 1782,
       "gender": "male",
       "id": 44,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Johannes Creller",
       "race": "white",
       "start": 1778
@@ -9394,7 +9394,7 @@
       "end": 1782,
       "gender": "female",
       "id": 45,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Elizabeth Creller",
       "race": "white",
       "start": 1778
@@ -9420,7 +9420,7 @@
       "end": 1782,
       "gender": "male",
       "id": 48,
-      "modularity": 3,
+      "modularity": 2,
       "name": "James McCowen",
       "race": "white",
       "start": 1778
@@ -9444,9 +9444,9 @@
       "degree_1782": 5,
       "degree_1783": 5,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 49,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Magraeth McCowen",
       "race": "white",
       "start": 1778
@@ -9472,7 +9472,7 @@
       "end": 1782,
       "gender": "female",
       "id": 58,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Margaretha Schmid",
       "race": "white",
       "start": 1778
@@ -9498,7 +9498,7 @@
       "end": 1782,
       "gender": "male",
       "id": 71,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Johannes Ehring",
       "race": "white",
       "start": 1777
@@ -9524,7 +9524,7 @@
       "end": 1782,
       "gender": "female",
       "id": 72,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Elisabeth Catharina Wolf",
       "race": "white",
       "start": 1778
@@ -9654,7 +9654,7 @@
       "end": 1782,
       "gender": "male",
       "id": 87,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Petrus Douty",
       "race": "white",
       "start": 1778
@@ -9680,7 +9680,7 @@
       "end": 1782,
       "gender": "female",
       "id": 88,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Catharina Douty",
       "race": "white",
       "start": 1778
@@ -9706,7 +9706,7 @@
       "end": 1782,
       "gender": "male",
       "id": 92,
-      "modularity": 4,
+      "modularity": 9,
       "name": "John Walker",
       "race": "white",
       "start": 1778
@@ -9730,9 +9730,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 93,
-      "modularity": 4,
+      "modularity": 9,
       "name": "Johnetta Walker",
       "race": "white",
       "start": 1778
@@ -9758,7 +9758,7 @@
       "end": 1782,
       "gender": "male",
       "id": 98,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Bernhard Hener",
       "race": "white",
       "start": 1778
@@ -9784,7 +9784,7 @@
       "end": 1782,
       "gender": "female",
       "id": 99,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Anna Hener",
       "race": "white",
       "start": 1778
@@ -9810,7 +9810,7 @@
       "end": 1782,
       "gender": "male",
       "id": 106,
-      "modularity": 18,
+      "modularity": 17,
       "name": "James Yates",
       "race": "white",
       "start": 1778
@@ -9836,7 +9836,7 @@
       "end": 1782,
       "gender": "female",
       "id": 107,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Eliesabeth Yates",
       "race": "white",
       "start": 1778
@@ -9862,7 +9862,7 @@
       "end": 1782,
       "gender": "male",
       "id": 108,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Georg Michel",
       "race": "white",
       "start": 1778
@@ -9888,7 +9888,7 @@
       "end": 1782,
       "gender": "female",
       "id": 109,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Margaretha Michel",
       "race": "white",
       "start": 1778
@@ -9912,9 +9912,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 110,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Willhelm Schauer",
       "race": "white",
       "start": 1778
@@ -9940,7 +9940,7 @@
       "end": 1782,
       "gender": "female",
       "id": 111,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Margaretha Schauer",
       "race": "white",
       "start": 1778
@@ -9966,7 +9966,7 @@
       "end": 1782,
       "gender": "male",
       "id": 114,
-      "modularity": 9,
+      "modularity": 17,
       "name": "Nicolaus Michel",
       "race": "white",
       "start": 1778
@@ -9992,7 +9992,7 @@
       "end": 1782,
       "gender": "female",
       "id": 115,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Anna Barbara Michel",
       "race": "white",
       "start": 1778
@@ -10018,7 +10018,7 @@
       "end": 1782,
       "gender": "male",
       "id": 120,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Georg Rosenberger",
       "race": "white",
       "start": 1778
@@ -10044,7 +10044,7 @@
       "end": 1782,
       "gender": "female",
       "id": 121,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Regina Rosenberger",
       "race": "white",
       "start": 1778
@@ -10070,7 +10070,7 @@
       "end": 1782,
       "gender": "male",
       "id": 122,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Jacob Brimmer",
       "race": "white",
       "start": 1778
@@ -10096,7 +10096,7 @@
       "end": 1782,
       "gender": "female",
       "id": 123,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Rosina Brimmer",
       "race": "white",
       "start": 1778
@@ -10122,7 +10122,7 @@
       "end": 1782,
       "gender": "male",
       "id": 126,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Conrad Best",
       "race": "white",
       "start": 1778
@@ -10148,7 +10148,7 @@
       "end": 1782,
       "gender": "female",
       "id": 127,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Catharina Diel",
       "race": "white",
       "start": 1778
@@ -10226,7 +10226,7 @@
       "end": 1782,
       "gender": "male",
       "id": 138,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Johannes Weyer",
       "race": "white",
       "start": 1779
@@ -10252,7 +10252,7 @@
       "end": 1782,
       "gender": "female",
       "id": 139,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Catharina Weyer",
       "race": "white",
       "start": 1778
@@ -10278,7 +10278,7 @@
       "end": 1782,
       "gender": "male",
       "id": 142,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Samuel Ehring",
       "race": "white",
       "start": 1779
@@ -10304,7 +10304,7 @@
       "end": 1782,
       "gender": "female",
       "id": 143,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Sara Ehring",
       "race": "white",
       "start": 1778
@@ -10330,7 +10330,7 @@
       "end": 1782,
       "gender": "male",
       "id": 156,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Johannes Hoener",
       "race": "white",
       "start": 1778
@@ -10356,7 +10356,7 @@
       "end": 1782,
       "gender": "female",
       "id": 157,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Catharina Hoener",
       "race": "white",
       "start": 1778
@@ -10382,7 +10382,7 @@
       "end": 1782,
       "gender": "female",
       "id": 176,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Nelya Schmid",
       "race": "white",
       "start": 1778
@@ -10408,7 +10408,7 @@
       "end": 1782,
       "gender": "male",
       "id": 185,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Wilhelm Van Aalstein",
       "race": "white",
       "start": 1778
@@ -10434,7 +10434,7 @@
       "end": 1782,
       "gender": "female",
       "id": 186,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Catherina Van Aalstein",
       "race": "white",
       "start": 1778
@@ -10460,7 +10460,7 @@
       "end": 1782,
       "gender": "male",
       "id": 189,
-      "modularity": 13,
+      "modularity": 11,
       "name": "John Schneider",
       "race": "white",
       "start": 1778
@@ -10538,7 +10538,7 @@
       "end": 1782,
       "gender": "male",
       "id": 206,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Heinrich Schiffer",
       "race": "white",
       "start": 1778
@@ -10564,7 +10564,7 @@
       "end": 1782,
       "gender": "female",
       "id": 207,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Magdalena Schiffer",
       "race": "white",
       "start": 1778
@@ -10642,7 +10642,7 @@
       "end": 1782,
       "gender": "male",
       "id": 210,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Ruben Weed",
       "race": "white",
       "start": 1778
@@ -10668,7 +10668,7 @@
       "end": 1782,
       "gender": "female",
       "id": 211,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Regina Weed",
       "race": "white",
       "start": 1778
@@ -10694,7 +10694,7 @@
       "end": 1782,
       "gender": "male",
       "id": 212,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Heinrich Young",
       "race": "white",
       "start": 1778
@@ -10718,9 +10718,9 @@
       "degree_1782": 5,
       "degree_1783": 5,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 213,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Altzia Young",
       "race": "white",
       "start": 1778
@@ -10822,9 +10822,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 221,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Johnetta Milius",
       "race": "white",
       "start": 1778
@@ -10902,7 +10902,7 @@
       "end": 1782,
       "gender": "male",
       "id": 224,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Sebastian Lownes",
       "race": "white",
       "start": 1778
@@ -10928,7 +10928,7 @@
       "end": 1782,
       "gender": "female",
       "id": 225,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Margaretha Lownes",
       "race": "white",
       "start": 1778
@@ -10954,7 +10954,7 @@
       "end": 1782,
       "gender": "male",
       "id": 227,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Balthasar Kummel",
       "race": "white",
       "start": 1778
@@ -10980,7 +10980,7 @@
       "end": 1782,
       "gender": "female",
       "id": 228,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Maria Kummel",
       "race": "white",
       "start": 1778
@@ -11006,7 +11006,7 @@
       "end": 1782,
       "gender": "male",
       "id": 229,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Bernhard Zipperly",
       "race": "white",
       "start": 1778
@@ -11032,7 +11032,7 @@
       "end": 1782,
       "gender": "female",
       "id": 230,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Margaretha Zipperly",
       "race": "white",
       "start": 1778
@@ -11084,7 +11084,7 @@
       "end": 1782,
       "gender": "male",
       "id": 246,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Petrus Eichelsheimer",
       "race": "white",
       "start": 1778
@@ -11110,7 +11110,7 @@
       "end": 1782,
       "gender": "female",
       "id": 247,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Christina Eichelsheimer",
       "race": "white",
       "start": 1778
@@ -11136,7 +11136,7 @@
       "end": 1782,
       "gender": "male",
       "id": 248,
-      "modularity": 1,
+      "modularity": 8,
       "name": "David Wiederwachs",
       "race": "white",
       "start": 1778
@@ -11162,7 +11162,7 @@
       "end": 1782,
       "gender": "female",
       "id": 249,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Magdalena Wiederwachs",
       "race": "white",
       "start": 1778
@@ -11188,7 +11188,7 @@
       "end": 1782,
       "gender": "male",
       "id": 250,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Petrus Kummel",
       "race": "white",
       "start": 1778
@@ -11214,7 +11214,7 @@
       "end": 1782,
       "gender": "female",
       "id": 251,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Maria Sophia Kummel",
       "race": "white",
       "start": 1778
@@ -11240,7 +11240,7 @@
       "end": 1782,
       "gender": "male",
       "id": 252,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Leonhard Weger",
       "race": "white",
       "start": 1778
@@ -11266,7 +11266,7 @@
       "end": 1782,
       "gender": "female",
       "id": 253,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Christina Weger",
       "race": "white",
       "start": 1778
@@ -11292,7 +11292,7 @@
       "end": 1782,
       "gender": "male",
       "id": 254,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Johannes Deter",
       "race": "white",
       "start": 1778
@@ -11318,7 +11318,7 @@
       "end": 1782,
       "gender": "male",
       "id": 259,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Heinrich Kramer",
       "race": "white",
       "start": 1778
@@ -11344,7 +11344,7 @@
       "end": 1782,
       "gender": "female",
       "id": 260,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Anna Maria Kramer",
       "race": "white",
       "start": 1778
@@ -11370,7 +11370,7 @@
       "end": 1782,
       "gender": "male",
       "id": 263,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Johannes Schaefer",
       "race": "white",
       "start": 1778
@@ -11396,7 +11396,7 @@
       "end": 1782,
       "gender": "female",
       "id": 264,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Eliesabeth Schaefer",
       "race": "white",
       "start": 1778
@@ -11422,7 +11422,7 @@
       "end": 1782,
       "gender": "male",
       "id": 265,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Elisha Adams",
       "race": "white",
       "start": 1777
@@ -11448,7 +11448,7 @@
       "end": 1782,
       "gender": "female",
       "id": 266,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Eliesabeth Adams",
       "race": "white",
       "start": 1778
@@ -11474,7 +11474,7 @@
       "end": 1782,
       "gender": "male",
       "id": 279,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Wilhelm Kilmar",
       "race": "white",
       "start": 1779
@@ -11500,7 +11500,7 @@
       "end": 1782,
       "gender": "female",
       "id": 280,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Catharina Link",
       "race": "white",
       "start": 1779
@@ -11526,7 +11526,7 @@
       "end": 1782,
       "gender": "male",
       "id": 281,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Bernhard Uhley",
       "race": "white",
       "start": 1779
@@ -11552,7 +11552,7 @@
       "end": 1782,
       "gender": "female",
       "id": 282,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Anna Maria Uhlen",
       "race": "white",
       "start": 1779
@@ -11578,7 +11578,7 @@
       "end": 1782,
       "gender": "male",
       "id": 298,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Christian Kohlhammer",
       "race": "white",
       "start": 1779
@@ -11604,7 +11604,7 @@
       "end": 1782,
       "gender": "female",
       "id": 299,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Anna Kohlhammer",
       "race": "white",
       "start": 1779
@@ -11630,7 +11630,7 @@
       "end": 1782,
       "gender": "male",
       "id": 302,
-      "modularity": 12,
+      "modularity": 13,
       "name": "William Bernam",
       "race": "white",
       "start": 1779
@@ -11656,7 +11656,7 @@
       "end": 1782,
       "gender": "female",
       "id": 303,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Sara Bernam",
       "race": "white",
       "start": 1779
@@ -11680,9 +11680,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 304,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Colvert Robison",
       "race": "white",
       "start": 1779
@@ -11708,7 +11708,7 @@
       "end": 1782,
       "gender": "female",
       "id": 305,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Margaretha Robison",
       "race": "white",
       "start": 1779
@@ -11734,7 +11734,7 @@
       "end": 1782,
       "gender": "male",
       "id": 308,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Abraham Prosie",
       "race": "white",
       "start": 1779
@@ -11760,7 +11760,7 @@
       "end": 1782,
       "gender": "female",
       "id": 309,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Sara Prosie",
       "race": "white",
       "start": 1779
@@ -11784,9 +11784,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 310,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Thimotheus Depiks",
       "race": "white",
       "start": 1779
@@ -11812,7 +11812,7 @@
       "end": 1782,
       "gender": "female",
       "id": 311,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Louise Depiks",
       "race": "white",
       "start": 1779
@@ -11838,7 +11838,7 @@
       "end": 1782,
       "gender": "male",
       "id": 316,
-      "modularity": 20,
+      "modularity": 10,
       "name": "John van Ostrander",
       "race": "white",
       "start": 1779
@@ -11864,7 +11864,7 @@
       "end": 1782,
       "gender": "female",
       "id": 317,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Maria van Ostrander",
       "race": "white",
       "start": 1779
@@ -11890,7 +11890,7 @@
       "end": 1782,
       "gender": "male",
       "id": 327,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Michael Reichert",
       "race": "white",
       "start": 1779
@@ -11916,7 +11916,7 @@
       "end": 1782,
       "gender": "female",
       "id": 328,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Maria Reichert",
       "race": "white",
       "start": 1779
@@ -11942,7 +11942,7 @@
       "end": 1782,
       "gender": "male",
       "id": 329,
-      "modularity": 13,
+      "modularity": 15,
       "name": "Jacobus Wiederwaks",
       "race": "white",
       "start": 1779
@@ -11968,7 +11968,7 @@
       "end": 1782,
       "gender": "female",
       "id": 330,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Catharina Wiederwachs",
       "race": "white",
       "start": 1779
@@ -12046,7 +12046,7 @@
       "end": 1782,
       "gender": "male",
       "id": 333,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Christian Beiser",
       "race": "white",
       "start": 1779
@@ -12072,7 +12072,7 @@
       "end": 1782,
       "gender": "female",
       "id": 334,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Catharina Beiser",
       "race": "white",
       "start": 1779
@@ -12098,7 +12098,7 @@
       "end": 1782,
       "gender": "male",
       "id": 341,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Thomas Weber",
       "race": "white",
       "start": 1779
@@ -12124,7 +12124,7 @@
       "end": 1782,
       "gender": "female",
       "id": 342,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Eliesabeth Weber",
       "race": "white",
       "start": 1779
@@ -12150,7 +12150,7 @@
       "end": 1782,
       "gender": "male",
       "id": 343,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Johannes Mayer",
       "race": "white",
       "start": 1779
@@ -12174,9 +12174,9 @@
       "degree_1782": 5,
       "degree_1783": 5,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 344,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Gertrauth Mayer",
       "race": "white",
       "start": 1779
@@ -12202,7 +12202,7 @@
       "end": 1782,
       "gender": "male",
       "id": 347,
-      "modularity": 16,
+      "modularity": 5,
       "name": "Emmerich Blass",
       "race": "white",
       "start": 1779
@@ -12254,7 +12254,7 @@
       "end": 1782,
       "gender": "male",
       "id": 349,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Samuel McChesney",
       "race": "white",
       "start": 1779
@@ -12280,7 +12280,7 @@
       "end": 1782,
       "gender": "female",
       "id": 350,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Margaretha McChesney",
       "race": "white",
       "start": 1779
@@ -12306,7 +12306,7 @@
       "end": 1782,
       "gender": "male",
       "id": 354,
-      "modularity": 9,
+      "modularity": 17,
       "name": "Laurenz Meintzer",
       "race": "white",
       "start": 1779
@@ -12332,7 +12332,7 @@
       "end": 1782,
       "gender": "female",
       "id": 355,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Eliesabeth Meintzer",
       "race": "white",
       "start": 1779
@@ -12356,9 +12356,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 364,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Anthonius Derk",
       "race": "white",
       "start": 1779
@@ -12384,7 +12384,7 @@
       "end": 1782,
       "gender": "female",
       "id": 365,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Barbara Derk",
       "race": "white",
       "start": 1779
@@ -12410,7 +12410,7 @@
       "end": 1782,
       "gender": "male",
       "id": 368,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Heinrich Moris",
       "race": "white",
       "start": 1779
@@ -12436,7 +12436,7 @@
       "end": 1782,
       "gender": "female",
       "id": 369,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Maria Sybilla Moris",
       "race": "white",
       "start": 1779
@@ -12462,7 +12462,7 @@
       "end": 1782,
       "gender": "male",
       "id": 370,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Isaac Hopp",
       "race": "white",
       "start": 1778
@@ -12488,7 +12488,7 @@
       "end": 1782,
       "gender": "female",
       "id": 371,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Sabina Hopp",
       "race": "white",
       "start": 1778
@@ -12514,7 +12514,7 @@
       "end": 1782,
       "gender": "male",
       "id": 372,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Jacob Baumhauer",
       "race": "white",
       "start": 1779
@@ -12540,7 +12540,7 @@
       "end": 1782,
       "gender": "female",
       "id": 373,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Sara Baumhauer",
       "race": "white",
       "start": 1779
@@ -12566,7 +12566,7 @@
       "end": 1782,
       "gender": "male",
       "id": 374,
-      "modularity": 17,
+      "modularity": 19,
       "name": "William McCay",
       "race": "white",
       "start": 1779
@@ -12592,7 +12592,7 @@
       "end": 1782,
       "gender": "female",
       "id": 375,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Maria McCay",
       "race": "white",
       "start": 1779
@@ -12618,7 +12618,7 @@
       "end": 1782,
       "gender": "male",
       "id": 376,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Jacob Rosenfeld",
       "race": "white",
       "start": 1779
@@ -12644,7 +12644,7 @@
       "end": 1782,
       "gender": "female",
       "id": 377,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Lydia Buts",
       "race": "white",
       "start": 1779
@@ -12670,7 +12670,7 @@
       "end": 1782,
       "gender": "male",
       "id": 380,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Andreas Stoll",
       "race": "white",
       "start": 1779
@@ -12696,7 +12696,7 @@
       "end": 1782,
       "gender": "female",
       "id": 381,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Eliesabeth Stahl",
       "race": "white",
       "start": 1779
@@ -12722,7 +12722,7 @@
       "end": 1782,
       "gender": "male",
       "id": 386,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Thomas Martin",
       "race": "white",
       "start": 1779
@@ -12748,7 +12748,7 @@
       "end": 1782,
       "gender": "female",
       "id": 387,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Eleonora Martin",
       "race": "white",
       "start": 1779
@@ -12774,7 +12774,7 @@
       "end": 1782,
       "gender": "male",
       "id": 400,
-      "modularity": 12,
+      "modularity": 13,
       "name": "David Michel",
       "race": "white",
       "start": 1779
@@ -12798,9 +12798,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 401,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Altzia Michel",
       "race": "white",
       "start": 1779
@@ -12826,7 +12826,7 @@
       "end": 1782,
       "gender": "female",
       "id": 420,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Susana Hoener",
       "race": "white",
       "start": 1779
@@ -12956,7 +12956,7 @@
       "end": 1782,
       "gender": "male",
       "id": 435,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Johann Jost Theis",
       "race": "white",
       "start": 1779
@@ -12982,7 +12982,7 @@
       "end": 1782,
       "gender": "female",
       "id": 436,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Catharina Jost Theis",
       "race": "white",
       "start": 1779
@@ -13008,7 +13008,7 @@
       "end": 1782,
       "gender": "male",
       "id": 445,
-      "modularity": 20,
+      "modularity": 10,
       "name": "John Wolf",
       "race": "white",
       "start": 1779
@@ -13034,7 +13034,7 @@
       "end": 1782,
       "gender": "female",
       "id": 446,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Maria Barbara Wolf",
       "race": "white",
       "start": 1779
@@ -13112,7 +13112,7 @@
       "end": 1782,
       "gender": "male",
       "id": 461,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Philipp Conrad",
       "race": "white",
       "start": 1779
@@ -13138,7 +13138,7 @@
       "end": 1782,
       "gender": "female",
       "id": 462,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Veronica Conrad",
       "race": "white",
       "start": 1779
@@ -13162,9 +13162,9 @@
       "degree_1782": 6,
       "degree_1783": 6,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 469,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Lorence Schneider",
       "race": "white",
       "start": 1779
@@ -13190,7 +13190,7 @@
       "end": 1782,
       "gender": "male",
       "id": 472,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Petrus Ostrander",
       "race": "white",
       "start": 1778
@@ -13216,7 +13216,7 @@
       "end": 1782,
       "gender": "female",
       "id": 473,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Catharina Ostrander",
       "race": "white",
       "start": 1778
@@ -13242,7 +13242,7 @@
       "end": 1782,
       "gender": "male",
       "id": 476,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Johannes van Valkenbourg",
       "race": "white",
       "start": 1779
@@ -13268,7 +13268,7 @@
       "end": 1782,
       "gender": "female",
       "id": 477,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Anna van Valkenbourg",
       "race": "white",
       "start": 1779
@@ -13294,7 +13294,7 @@
       "end": 1782,
       "gender": "male",
       "id": 484,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Jacob Stober",
       "race": "white",
       "start": 1779
@@ -13318,9 +13318,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 485,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Rhode Stober",
       "race": "white",
       "start": 1779
@@ -13346,7 +13346,7 @@
       "end": 1782,
       "gender": "male",
       "id": 486,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Georg Fek",
       "race": "white",
       "start": 1779
@@ -13372,7 +13372,7 @@
       "end": 1782,
       "gender": "female",
       "id": 487,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Maria Eliesabeth Fek",
       "race": "white",
       "start": 1779
@@ -13398,7 +13398,7 @@
       "end": 1782,
       "gender": "female",
       "id": 499,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Lea Bautsher",
       "race": "white",
       "start": 1779
@@ -13424,7 +13424,7 @@
       "end": 1782,
       "gender": "male",
       "id": 500,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Michael Ehring",
       "race": "white",
       "start": 1779
@@ -13450,7 +13450,7 @@
       "end": 1782,
       "gender": "female",
       "id": 501,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Elisabeth Ehring",
       "race": "white",
       "start": 1778
@@ -13528,7 +13528,7 @@
       "end": 1782,
       "gender": "male",
       "id": 533,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Joseph Freeouth",
       "race": "white",
       "start": 1780
@@ -13554,7 +13554,7 @@
       "end": 1782,
       "gender": "female",
       "id": 534,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Juliana Freeouth",
       "race": "white",
       "start": 1780
@@ -13684,7 +13684,7 @@
       "end": 1782,
       "gender": "male",
       "id": 549,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Peter Douty",
       "race": "white",
       "start": 1780
@@ -13710,7 +13710,7 @@
       "end": 1782,
       "gender": "male",
       "id": 550,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Petrus Wiederwachs",
       "race": "white",
       "start": 1780
@@ -13736,7 +13736,7 @@
       "end": 1782,
       "gender": "male",
       "id": 555,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Petrus van Ostrander",
       "race": "white",
       "start": 1780
@@ -13762,7 +13762,7 @@
       "end": 1782,
       "gender": "male",
       "id": 558,
-      "modularity": 0,
+      "modularity": 1,
       "name": "William Optom",
       "race": "white",
       "start": 1780
@@ -13788,7 +13788,7 @@
       "end": 1782,
       "gender": "female",
       "id": 559,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Maria Optom",
       "race": "white",
       "start": 1780
@@ -13814,7 +13814,7 @@
       "end": 1782,
       "gender": "male",
       "id": 562,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Mathias Cloekener",
       "race": "white",
       "start": 1780
@@ -13840,7 +13840,7 @@
       "end": 1782,
       "gender": "female",
       "id": 563,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Susana Cloekener",
       "race": "white",
       "start": 1780
@@ -13864,9 +13864,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 564,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Lorence Baker",
       "race": "white",
       "start": 1780
@@ -13890,9 +13890,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 565,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Joh: Paul Graaf",
       "race": "white",
       "start": 1780
@@ -13918,7 +13918,7 @@
       "end": 1782,
       "gender": "female",
       "id": 566,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Margaretha Graaf",
       "race": "white",
       "start": 1780
@@ -13970,7 +13970,7 @@
       "end": 1782,
       "gender": "male",
       "id": 571,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Petrus Grawberger",
       "race": "white",
       "start": 1780
@@ -13996,7 +13996,7 @@
       "end": 1782,
       "gender": "female",
       "id": 572,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Anna Eliesabeth Grawberger",
       "race": "white",
       "start": 1780
@@ -14100,7 +14100,7 @@
       "end": 1782,
       "gender": "male",
       "id": 609,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Cornelius Ostrander",
       "race": "white",
       "start": 1780
@@ -14126,7 +14126,7 @@
       "end": 1782,
       "gender": "female",
       "id": 610,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Margaretha Ostrander",
       "race": "white",
       "start": 1780
@@ -14152,7 +14152,7 @@
       "end": 1782,
       "gender": "male",
       "id": 611,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Andreas Taeuber",
       "race": "white",
       "start": 1780
@@ -14178,7 +14178,7 @@
       "end": 1782,
       "gender": "female",
       "id": 612,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Eva Taeuber",
       "race": "white",
       "start": 1780
@@ -14204,7 +14204,7 @@
       "end": 1782,
       "gender": "male",
       "id": 619,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Wilhelm Simon",
       "race": "white",
       "start": 1780
@@ -14230,7 +14230,7 @@
       "end": 1782,
       "gender": "female",
       "id": 620,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Catharina Simon",
       "race": "white",
       "start": 1780
@@ -14256,7 +14256,7 @@
       "end": 1782,
       "gender": "male",
       "id": 621,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Martinus Hoener",
       "race": "white",
       "start": 1780
@@ -14282,7 +14282,7 @@
       "end": 1782,
       "gender": "female",
       "id": 622,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Christina Hoener",
       "race": "white",
       "start": 1780
@@ -14360,7 +14360,7 @@
       "end": 1782,
       "gender": "male",
       "id": 625,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Paulus Schneider",
       "race": "white",
       "start": 1780
@@ -14386,7 +14386,7 @@
       "end": 1782,
       "gender": "female",
       "id": 626,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Maria Schneider",
       "race": "white",
       "start": 1780
@@ -14412,7 +14412,7 @@
       "end": 1782,
       "gender": "male",
       "id": 629,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Bernhardus Uhlen",
       "race": "white",
       "start": 1780
@@ -14438,7 +14438,7 @@
       "end": 1782,
       "gender": "male",
       "id": 641,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Conrad Hener",
       "race": "white",
       "start": 1778
@@ -14464,7 +14464,7 @@
       "end": 1782,
       "gender": "male",
       "id": 664,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Andreas Heinemann",
       "race": "white",
       "start": 1780
@@ -14490,7 +14490,7 @@
       "end": 1782,
       "gender": "female",
       "id": 665,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Anna Heinemann",
       "race": "white",
       "start": 1780
@@ -14516,7 +14516,7 @@
       "end": 1782,
       "gender": "male",
       "id": 666,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Alexander Wiederwachs",
       "race": "white",
       "start": 1780
@@ -14542,7 +14542,7 @@
       "end": 1782,
       "gender": "female",
       "id": 667,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Johanna Wiederwachs",
       "race": "white",
       "start": 1779
@@ -14568,7 +14568,7 @@
       "end": 1782,
       "gender": "male",
       "id": 668,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Christoph Wittinger",
       "race": "white",
       "start": 1780
@@ -14594,7 +14594,7 @@
       "end": 1782,
       "gender": "female",
       "id": 669,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Anna Maria Wittinger",
       "race": "white",
       "start": 1780
@@ -14828,7 +14828,7 @@
       "end": 1782,
       "gender": "female",
       "id": 686,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Sophia Kummel",
       "race": "white",
       "start": 1780
@@ -14854,7 +14854,7 @@
       "end": 1782,
       "gender": "male",
       "id": 687,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Jacob Wiederwachs",
       "race": "white",
       "start": 1780
@@ -14880,7 +14880,7 @@
       "end": 1782,
       "gender": "male",
       "id": 692,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Johannes Bahret",
       "race": "white",
       "start": 1780
@@ -14906,7 +14906,7 @@
       "end": 1782,
       "gender": "female",
       "id": 693,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Anna Bahret",
       "race": "white",
       "start": 1780
@@ -14932,7 +14932,7 @@
       "end": 1782,
       "gender": "male",
       "id": 696,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Jacob Torn",
       "race": "white",
       "start": 1780
@@ -14958,7 +14958,7 @@
       "end": 1782,
       "gender": "female",
       "id": 697,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Hanna Combs",
       "race": "white",
       "start": 1780
@@ -14984,7 +14984,7 @@
       "end": 1782,
       "gender": "male",
       "id": 699,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Johannes Ostrander",
       "race": "white",
       "start": 1781
@@ -15010,7 +15010,7 @@
       "end": 1782,
       "gender": "female",
       "id": 700,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Maria Van Dusen",
       "race": "white",
       "start": 1781
@@ -15036,7 +15036,7 @@
       "end": 1782,
       "gender": "male",
       "id": 705,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Carl Near",
       "race": "white",
       "start": 1780
@@ -15060,9 +15060,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 706,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Gertrauth Near",
       "race": "white",
       "start": 1781
@@ -15114,7 +15114,7 @@
       "end": 1782,
       "gender": "male",
       "id": 718,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Abraham Simon",
       "race": "white",
       "start": 1781
@@ -15138,9 +15138,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 719,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Gelph Wilcok",
       "race": "white",
       "start": 1781
@@ -15166,7 +15166,7 @@
       "end": 1782,
       "gender": "female",
       "id": 720,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Naemi Wilcok",
       "race": "white",
       "start": 1781
@@ -15192,7 +15192,7 @@
       "end": 1782,
       "gender": "male",
       "id": 723,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Heinrich Wiestenhausen",
       "race": "white",
       "start": 1781
@@ -15218,7 +15218,7 @@
       "end": 1782,
       "gender": "female",
       "id": 724,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Anna Maria Wiestenhausen",
       "race": "white",
       "start": 1781
@@ -15244,7 +15244,7 @@
       "end": 1782,
       "gender": "male",
       "id": 725,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Jacob Martin",
       "race": "white",
       "start": 1778
@@ -15270,7 +15270,7 @@
       "end": 1782,
       "gender": "female",
       "id": 726,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Eliesabeth Diel",
       "race": "white",
       "start": 1781
@@ -15296,7 +15296,7 @@
       "end": 1782,
       "gender": "male",
       "id": 729,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Peter Rose",
       "race": "white",
       "start": 1781
@@ -15322,7 +15322,7 @@
       "end": 1782,
       "gender": "female",
       "id": 730,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Maria Rose",
       "race": "white",
       "start": 1781
@@ -15348,7 +15348,7 @@
       "end": 1782,
       "gender": "male",
       "id": 731,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Jeremias Johns",
       "race": "white",
       "start": 1779
@@ -15374,7 +15374,7 @@
       "end": 1782,
       "gender": "female",
       "id": 732,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Louise Adams",
       "race": "white",
       "start": 1781
@@ -15400,7 +15400,7 @@
       "end": 1782,
       "gender": "male",
       "id": 735,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Daniel Care",
       "race": "white",
       "start": 1781
@@ -15426,7 +15426,7 @@
       "end": 1782,
       "gender": "female",
       "id": 736,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Eliesabeth Care",
       "race": "white",
       "start": 1781
@@ -15450,9 +15450,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 751,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Joh: Leonhard Weger",
       "race": "white",
       "start": 1781
@@ -15478,7 +15478,7 @@
       "end": 1782,
       "gender": "female",
       "id": 752,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Christina Leonhard Weger",
       "race": "white",
       "start": 1781
@@ -15504,7 +15504,7 @@
       "end": 1782,
       "gender": "male",
       "id": 753,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Melchior Feil",
       "race": "white",
       "start": 1778
@@ -15530,7 +15530,7 @@
       "end": 1782,
       "gender": "female",
       "id": 754,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Catharina Feil",
       "race": "white",
       "start": 1778
@@ -15608,7 +15608,7 @@
       "end": 1782,
       "gender": "male",
       "id": 772,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Nicolaus Schiffer",
       "race": "white",
       "start": 1781
@@ -15634,7 +15634,7 @@
       "end": 1782,
       "gender": "female",
       "id": 773,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Catharina Schiffer",
       "race": "white",
       "start": 1781
@@ -15686,7 +15686,7 @@
       "end": 1782,
       "gender": "male",
       "id": 777,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Nicolaus Brath",
       "race": "white",
       "start": 1781
@@ -15712,7 +15712,7 @@
       "end": 1782,
       "gender": "female",
       "id": 778,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Barbara Brath",
       "race": "white",
       "start": 1781
@@ -15764,7 +15764,7 @@
       "end": 1782,
       "gender": "male",
       "id": 782,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Johannes Hogel",
       "race": "white",
       "start": 1781
@@ -15790,7 +15790,7 @@
       "end": 1782,
       "gender": "female",
       "id": 783,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Maria Hogel",
       "race": "white",
       "start": 1781
@@ -15816,7 +15816,7 @@
       "end": 1782,
       "gender": "male",
       "id": 786,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Johann Lorence Correus",
       "race": "white",
       "start": 1781
@@ -15842,7 +15842,7 @@
       "end": 1782,
       "gender": "female",
       "id": 787,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Eliesabeth Lorence Correus",
       "race": "white",
       "start": 1781
@@ -15868,7 +15868,7 @@
       "end": 1782,
       "gender": "male",
       "id": 794,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Christian Schaefer",
       "race": "white",
       "start": 1779
@@ -15894,7 +15894,7 @@
       "end": 1782,
       "gender": "male",
       "id": 795,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Bernhard Maurer",
       "race": "white",
       "start": 1781
@@ -15918,9 +15918,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 796,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Sussana Maurer",
       "race": "white",
       "start": 1781
@@ -15946,7 +15946,7 @@
       "end": 1782,
       "gender": "male",
       "id": 800,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Henrich Zipperly",
       "race": "white",
       "start": 1781
@@ -15972,7 +15972,7 @@
       "end": 1782,
       "gender": "female",
       "id": 801,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Eliesabeth Zipperly",
       "race": "white",
       "start": 1778
@@ -15998,7 +15998,7 @@
       "end": 1782,
       "gender": "male",
       "id": 802,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Friederich Raush",
       "race": "white",
       "start": 1781
@@ -16024,7 +16024,7 @@
       "end": 1782,
       "gender": "female",
       "id": 803,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Anna Raush",
       "race": "white",
       "start": 1781
@@ -16050,7 +16050,7 @@
       "end": 1782,
       "gender": "male",
       "id": 804,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Robert McChesney",
       "race": "white",
       "start": 1780
@@ -16076,7 +16076,7 @@
       "end": 1782,
       "gender": "female",
       "id": 805,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Maria McChesney",
       "race": "white",
       "start": 1780
@@ -16102,7 +16102,7 @@
       "end": 1782,
       "gender": "male",
       "id": 806,
-      "modularity": 8,
+      "modularity": 4,
       "name": "Anthony Derk",
       "race": "white",
       "start": 1781
@@ -16128,7 +16128,7 @@
       "end": 1782,
       "gender": "male",
       "id": 810,
-      "modularity": 19,
+      "modularity": 0,
       "name": "William Elsworth",
       "race": "white",
       "start": 1781
@@ -16154,7 +16154,7 @@
       "end": 1782,
       "gender": "female",
       "id": 811,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Catharina Elsworth",
       "race": "white",
       "start": 1781
@@ -16180,7 +16180,7 @@
       "end": 1782,
       "gender": "male",
       "id": 812,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Johannes Dupp",
       "race": "white",
       "start": 1781
@@ -16206,7 +16206,7 @@
       "end": 1782,
       "gender": "female",
       "id": 813,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Margareth Emig",
       "race": "white",
       "start": 1781
@@ -16232,7 +16232,7 @@
       "end": 1782,
       "gender": "male",
       "id": 816,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Georg Wilkeson",
       "race": "white",
       "start": 1781
@@ -16258,7 +16258,7 @@
       "end": 1782,
       "gender": "female",
       "id": 817,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Catharina Wilkeson",
       "race": "white",
       "start": 1781
@@ -16284,7 +16284,7 @@
       "end": 1782,
       "gender": "male",
       "id": 823,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Emanuel Young",
       "race": "white",
       "start": 1781
@@ -16310,7 +16310,7 @@
       "end": 1782,
       "gender": "female",
       "id": 824,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Maria Weger",
       "race": "white",
       "start": 1781
@@ -16362,7 +16362,7 @@
       "end": 1782,
       "gender": "female",
       "id": 836,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Alida Michel",
       "race": "white",
       "start": 1781
@@ -16388,7 +16388,7 @@
       "end": 1782,
       "gender": "female",
       "id": 845,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Helena Martin",
       "race": "white",
       "start": 1781
@@ -16492,7 +16492,7 @@
       "end": 1782,
       "gender": "male",
       "id": 873,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Abraham Ostrander",
       "race": "white",
       "start": 1782
@@ -16518,7 +16518,7 @@
       "end": 1782,
       "gender": "male",
       "id": 874,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Wendel Oberacker",
       "race": "white",
       "start": 1778
@@ -16544,7 +16544,7 @@
       "end": 1782,
       "gender": "female",
       "id": 875,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Anna Oberacker",
       "race": "white",
       "start": 1782
@@ -16570,7 +16570,7 @@
       "end": 1782,
       "gender": "female",
       "id": 880,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Anna van Ostrander",
       "race": "white",
       "start": 1782
@@ -16674,7 +16674,7 @@
       "end": 1782,
       "gender": "female",
       "id": 902,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Rosina Stober",
       "race": "white",
       "start": 1782
@@ -16752,7 +16752,7 @@
       "end": 1782,
       "gender": "male",
       "id": 907,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Heinrich Schister",
       "race": "white",
       "start": 1782
@@ -16778,7 +16778,7 @@
       "end": 1782,
       "gender": "female",
       "id": 908,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Magdalena Schister",
       "race": "white",
       "start": 1782
@@ -16804,7 +16804,7 @@
       "end": 1782,
       "gender": "male",
       "id": 909,
-      "modularity": 13,
+      "modularity": 15,
       "name": "Daniel Grawberger",
       "race": "white",
       "start": 1779
@@ -16828,9 +16828,9 @@
       "degree_1782": 5,
       "degree_1783": 5,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 910,
-      "modularity": 13,
+      "modularity": 15,
       "name": "Gertrauth Grawberger",
       "race": "white",
       "start": 1782
@@ -16856,7 +16856,7 @@
       "end": 1782,
       "gender": "male",
       "id": 913,
-      "modularity": 19,
+      "modularity": 0,
       "name": "William Rosh",
       "race": "white",
       "start": 1782
@@ -16882,7 +16882,7 @@
       "end": 1782,
       "gender": "male",
       "id": 914,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Heinrich Landmann",
       "race": "white",
       "start": 1782
@@ -16908,7 +16908,7 @@
       "end": 1782,
       "gender": "female",
       "id": 915,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Maria Landmann",
       "race": "white",
       "start": 1781
@@ -16934,7 +16934,7 @@
       "end": 1782,
       "gender": "male",
       "id": 918,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Laurentius Mentzer",
       "race": "white",
       "start": 1782
@@ -16960,7 +16960,7 @@
       "end": 1782,
       "gender": "male",
       "id": 919,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Johannes Reinhard",
       "race": "white",
       "start": 1782
@@ -16986,7 +16986,7 @@
       "end": 1782,
       "gender": "female",
       "id": 920,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Sara Schaefer",
       "race": "white",
       "start": 1782
@@ -17012,7 +17012,7 @@
       "end": 1782,
       "gender": "male",
       "id": 921,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Martinus Wiederwacks",
       "race": "white",
       "start": 1780
@@ -17038,7 +17038,7 @@
       "end": 1782,
       "gender": "female",
       "id": 922,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Eliesabeth Wiederwacks",
       "race": "white",
       "start": 1782
@@ -17064,7 +17064,7 @@
       "end": 1782,
       "gender": "male",
       "id": 923,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Adam Oberacker",
       "race": "white",
       "start": 1782
@@ -17090,7 +17090,7 @@
       "end": 1782,
       "gender": "female",
       "id": 924,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Cornelia Oberacker",
       "race": "white",
       "start": 1782
@@ -17116,7 +17116,7 @@
       "end": 1782,
       "gender": "male",
       "id": 925,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Paulus Graaf",
       "race": "white",
       "start": 1782
@@ -17142,7 +17142,7 @@
       "end": 1782,
       "gender": "male",
       "id": 926,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Johannes Wiederwachs",
       "race": "white",
       "start": 1780
@@ -17168,7 +17168,7 @@
       "end": 1782,
       "gender": "male",
       "id": 928,
-      "modularity": 9,
+      "modularity": 17,
       "name": "James Adams",
       "race": "white",
       "start": 1782
@@ -17194,7 +17194,7 @@
       "end": 1782,
       "gender": "male",
       "id": 929,
-      "modularity": 12,
+      "modularity": 13,
       "name": "James Battom",
       "race": "white",
       "start": 1782
@@ -17220,7 +17220,7 @@
       "end": 1782,
       "gender": "male",
       "id": 930,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Ellis Battom",
       "race": "white",
       "start": 1782
@@ -17246,7 +17246,7 @@
       "end": 1782,
       "gender": "female",
       "id": 933,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Anna Young",
       "race": "white",
       "start": 1782
@@ -17272,7 +17272,7 @@
       "end": 1782,
       "gender": "male",
       "id": 940,
-      "modularity": 2,
+      "modularity": 9,
       "name": "John Gunther",
       "race": "white",
       "start": 1782
@@ -17298,7 +17298,7 @@
       "end": 1782,
       "gender": "female",
       "id": 941,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Anna Gunther",
       "race": "white",
       "start": 1782
@@ -17324,7 +17324,7 @@
       "end": 1782,
       "gender": "male",
       "id": 942,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Christian Weber",
       "race": "white",
       "start": 1782
@@ -17348,9 +17348,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 943,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Merchury Weber",
       "race": "white",
       "start": 1782
@@ -17426,7 +17426,7 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 950,
       "modularity": 16,
       "name": "Hopestill Danna",
@@ -17480,7 +17480,7 @@
       "end": 1782,
       "gender": "male",
       "id": 954,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Philipp Dater",
       "race": "white",
       "start": 1782
@@ -17506,7 +17506,7 @@
       "end": 1782,
       "gender": "female",
       "id": 955,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Catharina Dater",
       "race": "white",
       "start": 1782
@@ -17532,7 +17532,7 @@
       "end": 1782,
       "gender": "male",
       "id": 956,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Philip Hener",
       "race": "white",
       "start": 1777
@@ -17584,7 +17584,7 @@
       "end": 1782,
       "gender": "male",
       "id": 958,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Mathias Kuntz",
       "race": "white",
       "start": 1777
@@ -17662,7 +17662,7 @@
       "end": 1782,
       "gender": "male",
       "id": 963,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Michael Zipperli",
       "race": "white",
       "start": 1777
@@ -17688,7 +17688,7 @@
       "end": 1782,
       "gender": "male",
       "id": 964,
-      "modularity": 4,
+      "modularity": 9,
       "name": "Michael Hauswirth",
       "race": "white",
       "start": 1777
@@ -17740,7 +17740,7 @@
       "end": 1782,
       "gender": "male",
       "id": 967,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Abraham Freher",
       "race": "white",
       "start": 1777
@@ -17766,7 +17766,7 @@
       "end": 1782,
       "gender": "male",
       "id": 969,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Christian Schneider",
       "race": "white",
       "start": 1777
@@ -17792,7 +17792,7 @@
       "end": 1782,
       "gender": "male",
       "id": 970,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Heinrich Reiffenberger",
       "race": "white",
       "start": 1777
@@ -17818,7 +17818,7 @@
       "end": 1782,
       "gender": "male",
       "id": 971,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Marinus Oberakker",
       "race": "white",
       "start": 1777
@@ -17844,7 +17844,7 @@
       "end": 1782,
       "gender": "male",
       "id": 972,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Antonius Abram",
       "race": "white",
       "start": 1777
@@ -17870,7 +17870,7 @@
       "end": 1782,
       "gender": "male",
       "id": 973,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Georg Rosenberg",
       "race": "white",
       "start": 1778
@@ -17896,7 +17896,7 @@
       "end": 1782,
       "gender": "male",
       "id": 975,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Peter Grand",
       "race": "white",
       "start": 1778
@@ -17922,7 +17922,7 @@
       "end": 1782,
       "gender": "male",
       "id": 978,
-      "modularity": 5,
+      "modularity": 14,
       "name": "William Taylor",
       "race": "white",
       "start": 1778
@@ -17948,7 +17948,7 @@
       "end": 1782,
       "gender": "male",
       "id": 985,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Peter Ostrander",
       "race": "white",
       "start": 1778
@@ -18000,7 +18000,7 @@
       "end": 1782,
       "gender": "male",
       "id": 997,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Martin Meintzer",
       "race": "white",
       "start": 1778
@@ -18026,7 +18026,7 @@
       "end": 1782,
       "gender": "male",
       "id": 998,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Christoph Meintzer",
       "race": "white",
       "start": 1778
@@ -18052,7 +18052,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1000,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Andreas Michel",
       "race": "white",
       "start": 1778
@@ -18078,7 +18078,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1003,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Jacob Rosenberger",
       "race": "white",
       "start": 1778
@@ -18104,7 +18104,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1004,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Henrich Wistinghausen",
       "race": "white",
       "start": 1778
@@ -18156,7 +18156,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1018,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Heinrich Marison",
       "race": "white",
       "start": 1778
@@ -18182,7 +18182,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1025,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Simon LeRoy",
       "race": "white",
       "start": 1778
@@ -18208,7 +18208,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1029,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Petrus Stahl",
       "race": "white",
       "start": 1778
@@ -18260,7 +18260,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1038,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Christoph Presie",
       "race": "white",
       "start": 1778
@@ -18284,7 +18284,7 @@
       "degree_1782": 6,
       "degree_1783": 6,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 1039,
       "modularity": 15,
       "name": "Umphrey Deffenbord",
@@ -18312,7 +18312,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1042,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Heinrich Heydorn",
       "race": "white",
       "start": 1778
@@ -18338,7 +18338,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1044,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Petrus Muhch",
       "race": "white",
       "start": 1778
@@ -18364,7 +18364,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1048,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Johann Georg Lauke",
       "race": "white",
       "start": 1778
@@ -18390,7 +18390,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1052,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Johannes Krebes",
       "race": "white",
       "start": 1778
@@ -18416,7 +18416,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1053,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Oliver Adams",
       "race": "white",
       "start": 1778
@@ -18442,7 +18442,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1069,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Antonius Derk",
       "race": "white",
       "start": 1779
@@ -18468,7 +18468,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1070,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Anthony Abraham",
       "race": "white",
       "start": 1779
@@ -18494,7 +18494,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1072,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Johannes Dath",
       "race": "white",
       "start": 1779
@@ -18520,7 +18520,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1075,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Edward Freeman",
       "race": "white",
       "start": 1779
@@ -18546,7 +18546,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1079,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Andreas Wiederwaks",
       "race": "white",
       "start": 1779
@@ -18572,7 +18572,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1082,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Philippus Conrad",
       "race": "white",
       "start": 1779
@@ -18598,7 +18598,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1089,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Adam Conrad",
       "race": "white",
       "start": 1779
@@ -18624,7 +18624,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1091,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Conrad Homm",
       "race": "white",
       "start": 1779
@@ -18650,7 +18650,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1104,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Ludwig Schneider",
       "race": "white",
       "start": 1779
@@ -18702,7 +18702,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1108,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Daniel Uhl",
       "race": "white",
       "start": 1779
@@ -18728,7 +18728,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1109,
-      "modularity": 20,
+      "modularity": 10,
       "name": "William Buchur",
       "race": "white",
       "start": 1779
@@ -18752,7 +18752,7 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 1110,
       "modularity": 7,
       "name": "Lorence Emig",
@@ -18780,7 +18780,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1116,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Walther McChesney",
       "race": "white",
       "start": 1779
@@ -18806,7 +18806,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1122,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Adam Lownes",
       "race": "white",
       "start": 1779
@@ -18832,7 +18832,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1129,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Jacob Ostrander",
       "race": "white",
       "start": 1779
@@ -18884,7 +18884,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1141,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Martinus Overacker",
       "race": "white",
       "start": 1780
@@ -18910,7 +18910,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1143,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Johannes Brimmer",
       "race": "white",
       "start": 1780
@@ -18962,7 +18962,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1147,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Alexander Wiederwwachs",
       "race": "white",
       "start": 1780
@@ -18988,7 +18988,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1148,
-      "modularity": 13,
+      "modularity": 11,
       "name": "George Fex",
       "race": "white",
       "start": 1780
@@ -19014,7 +19014,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1161,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Heinrich Cramer",
       "race": "white",
       "start": 1780
@@ -19040,7 +19040,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1165,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Philipp Kreller",
       "race": "white",
       "start": 1780
@@ -19066,7 +19066,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1167,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Mathias Shneider",
       "race": "white",
       "start": 1780
@@ -19092,7 +19092,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1171,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Philipp Derk",
       "race": "white",
       "start": 1780
@@ -19118,7 +19118,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1184,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Heinrich Zipperly",
       "race": "white",
       "start": 1780
@@ -19196,7 +19196,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1189,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Conrad Heydorn",
       "race": "white",
       "start": 1780
@@ -19222,7 +19222,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1193,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Johann Georg Schneider",
       "race": "white",
       "start": 1781
@@ -19274,7 +19274,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1196,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Henrich Wiestenhausen",
       "race": "white",
       "start": 1781
@@ -19300,7 +19300,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1197,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Vollrath Krueger",
       "race": "white",
       "start": 1781
@@ -19326,7 +19326,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1198,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Joseph Allport",
       "race": "white",
       "start": 1781
@@ -19352,7 +19352,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1200,
-      "modularity": 18,
+      "modularity": 17,
       "name": "John Meintzer",
       "race": "white",
       "start": 1781
@@ -19378,7 +19378,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1201,
-      "modularity": 12,
+      "modularity": 13,
       "name": "John Wietbeck",
       "race": "white",
       "start": 1781
@@ -19404,7 +19404,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1203,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Henry Grawberger",
       "race": "white",
       "start": 1781
@@ -19430,7 +19430,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1205,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Martinus Hener",
       "race": "white",
       "start": 1781
@@ -19456,7 +19456,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1210,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Andreas Heineman",
       "race": "white",
       "start": 1781
@@ -19560,7 +19560,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1220,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Michael Landmann",
       "race": "white",
       "start": 1781
@@ -19586,7 +19586,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1223,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Jacob Van Der Heyden",
       "race": "white",
       "start": 1781
@@ -19612,7 +19612,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1224,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Johannes Valentin",
       "race": "white",
       "start": 1781
@@ -19638,7 +19638,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1225,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Friederich Bohnenstiel",
       "race": "white",
       "start": 1781
@@ -19664,7 +19664,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1228,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Zacharias Diel",
       "race": "white",
       "start": 1781
@@ -19716,7 +19716,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1230,
-      "modularity": 8,
+      "modularity": 4,
       "name": "William Derk",
       "race": "white",
       "start": 1781
@@ -19742,7 +19742,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1233,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Jacob Zimmermann",
       "race": "white",
       "start": 1781
@@ -19768,7 +19768,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1237,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Petrus Simon",
       "race": "white",
       "start": 1781
@@ -19794,7 +19794,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1239,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Christoph Feil",
       "race": "white",
       "start": 1781
@@ -19818,9 +19818,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 1243,
-      "modularity": 12,
+      "modularity": 13,
       "name": "JoSepth Brimmer",
       "race": "white",
       "start": 1781
@@ -19872,7 +19872,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1254,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Georg Schneider",
       "race": "white",
       "start": 1781
@@ -19898,7 +19898,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1255,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Christoph Dormann",
       "race": "white",
       "start": 1782
@@ -19924,7 +19924,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1256,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Michael Oberacker",
       "race": "white",
       "start": 1782
@@ -19950,7 +19950,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1257,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Peter Grawberger",
       "race": "white",
       "start": 1782
@@ -19974,7 +19974,7 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 1258,
       "modularity": 7,
       "name": "Levy Patrick",
@@ -20000,9 +20000,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "male",
       "id": 1259,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Balthaser Kuemmel",
       "race": "white",
       "start": 1782
@@ -20028,7 +20028,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1262,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Jacob Springer",
       "race": "white",
       "start": 1782
@@ -20080,7 +20080,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1266,
-      "modularity": 8,
+      "modularity": 5,
       "name": "George Kohlhammer",
       "race": "white",
       "start": 1782
@@ -20158,7 +20158,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1272,
-      "modularity": 13,
+      "modularity": 15,
       "name": "Benjamin Schearer",
       "race": "white",
       "start": 1782
@@ -20184,7 +20184,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1273,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Martin Rosenberger",
       "race": "white",
       "start": 1782
@@ -20236,7 +20236,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1277,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Heinrich Grawberger",
       "race": "white",
       "start": 1782
@@ -20262,7 +20262,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1278,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Friederich Schaefer",
       "race": "white",
       "start": 1782
@@ -20288,7 +20288,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1280,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Peter Jubey",
       "race": "white",
       "start": 1782
@@ -20314,7 +20314,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1281,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Christoph Wetzel",
       "race": "white",
       "start": 1782
@@ -20366,7 +20366,7 @@
       "end": 1782,
       "gender": "male",
       "id": 1287,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Philipp Deter",
       "race": "white",
       "start": 1782
@@ -20444,7 +20444,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1293,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Margareth Hoener",
       "race": "white",
       "start": 1777
@@ -20470,7 +20470,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1294,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Magdalena Weger",
       "race": "white",
       "start": 1777
@@ -20522,7 +20522,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1296,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Elisabeth Kuntz",
       "race": "white",
       "start": 1777
@@ -20600,7 +20600,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1301,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Regina Zipperli",
       "race": "white",
       "start": 1777
@@ -20626,7 +20626,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1302,
-      "modularity": 4,
+      "modularity": 9,
       "name": "Anna Margaretha Hauswirth",
       "race": "white",
       "start": 1777
@@ -20678,7 +20678,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1305,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Catharina Ehring",
       "race": "white",
       "start": 1777
@@ -20702,9 +20702,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 1306,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Johanetta Freher",
       "race": "white",
       "start": 1777
@@ -20730,7 +20730,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1308,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Sabina Schneider",
       "race": "white",
       "start": 1777
@@ -20756,7 +20756,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1309,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Gertraut Schiffer",
       "race": "white",
       "start": 1777
@@ -20782,7 +20782,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1310,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Eleanora Yates",
       "race": "white",
       "start": 1777
@@ -20808,7 +20808,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1311,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Anna Abraham",
       "race": "white",
       "start": 1777
@@ -20834,7 +20834,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1312,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Rahel Fonda",
       "race": "white",
       "start": 1777
@@ -20860,7 +20860,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1314,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Elizabeth Grand",
       "race": "white",
       "start": 1778
@@ -20886,7 +20886,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1318,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Eva Taylor",
       "race": "white",
       "start": 1778
@@ -20938,7 +20938,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1330,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Rahel Oberakker",
       "race": "white",
       "start": 1778
@@ -20962,9 +20962,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 1335,
-      "modularity": 18,
+      "modularity": 17,
       "name": "maria Meintzer",
       "race": "white",
       "start": 1778
@@ -20990,7 +20990,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1336,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Margaretha Meintzer",
       "race": "white",
       "start": 1778
@@ -21016,7 +21016,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1338,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Susanna Michel",
       "race": "white",
       "start": 1778
@@ -21042,7 +21042,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1341,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Anna Maria Wistinghausen",
       "race": "white",
       "start": 1778
@@ -21068,7 +21068,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1343,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Margaretha Diel",
       "race": "white",
       "start": 1778
@@ -21120,7 +21120,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1354,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Anna Sybilla",
       "race": "white",
       "start": 1778
@@ -21146,7 +21146,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1362,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Johanna LeRoy",
       "race": "white",
       "start": 1778
@@ -21172,7 +21172,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1366,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Elisabeth Stahl",
       "race": "white",
       "start": 1778
@@ -21198,7 +21198,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1367,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Anna Mellias",
       "race": "white",
       "start": 1778
@@ -21250,7 +21250,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1376,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Gertraut Reiffenberger",
       "race": "white",
       "start": 1778
@@ -21274,9 +21274,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 1377,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Aeltzia Young",
       "race": "white",
       "start": 1778
@@ -21328,7 +21328,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1381,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Eliesabeth Muhch",
       "race": "white",
       "start": 1778
@@ -21354,7 +21354,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1386,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Maria Georg Lauke",
       "race": "white",
       "start": 1778
@@ -21380,7 +21380,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1390,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Maria Krebes",
       "race": "white",
       "start": 1778
@@ -21406,7 +21406,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1391,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Cornelia Brath",
       "race": "white",
       "start": 1778
@@ -21432,7 +21432,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1397,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Eva Hener",
       "race": "white",
       "start": 1779
@@ -21458,7 +21458,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1406,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Louise Johns",
       "race": "white",
       "start": 1779
@@ -21484,7 +21484,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1410,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Helena Freeman",
       "race": "white",
       "start": 1779
@@ -21534,9 +21534,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 1415,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Magdelena Schaefer",
       "race": "white",
       "start": 1779
@@ -21562,7 +21562,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1417,
-      "modularity": 9,
+      "modularity": 17,
       "name": "Barbara Michel",
       "race": "white",
       "start": 1779
@@ -21588,7 +21588,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1423,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Eva Schneider",
       "race": "white",
       "start": 1779
@@ -21614,7 +21614,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1424,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Eliesabeth Conrad",
       "race": "white",
       "start": 1779
@@ -21640,7 +21640,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1426,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Anna Homm",
       "race": "white",
       "start": 1779
@@ -21666,7 +21666,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1441,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Maria Barbara Schneider",
       "race": "white",
       "start": 1779
@@ -21718,7 +21718,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1447,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Maria Catharina Buchur",
       "race": "white",
       "start": 1779
@@ -21744,7 +21744,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1455,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Jeane McChesney",
       "race": "white",
       "start": 1779
@@ -21770,7 +21770,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1461,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Eliesabeth Lownes",
       "race": "white",
       "start": 1779
@@ -21796,7 +21796,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1469,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Jacobina Ostrander",
       "race": "white",
       "start": 1779
@@ -21874,7 +21874,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1482,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Margaretha Overacker",
       "race": "white",
       "start": 1780
@@ -21900,7 +21900,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1484,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Maria Stenson",
       "race": "white",
       "start": 1780
@@ -21926,7 +21926,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1488,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Anna Margaretha Stahl",
       "race": "white",
       "start": 1780
@@ -22004,7 +22004,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1503,
-      "modularity": 2,
+      "modularity": 0,
       "name": "Anna Maria Cramer",
       "race": "white",
       "start": 1780
@@ -22030,7 +22030,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1508,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Veronica Krebes",
       "race": "white",
       "start": 1780
@@ -22056,7 +22056,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1512,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Anna Maria Derk",
       "race": "white",
       "start": 1780
@@ -22108,7 +22108,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1526,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Barbara Heydorn",
       "race": "white",
       "start": 1780
@@ -22134,7 +22134,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1529,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Catharina Schneider",
       "race": "white",
       "start": 1780
@@ -22160,7 +22160,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1530,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Maria Eliesabetha Fex",
       "race": "white",
       "start": 1780
@@ -22186,7 +22186,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1535,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Anna Maria Near",
       "race": "white",
       "start": 1781
@@ -22238,7 +22238,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1540,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Maria Krueger",
       "race": "white",
       "start": 1781
@@ -22264,7 +22264,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1541,
-      "modularity": 19,
+      "modularity": 18,
       "name": "Margareth Allport",
       "race": "white",
       "start": 1781
@@ -22290,7 +22290,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1543,
-      "modularity": 12,
+      "modularity": 13,
       "name": "Catharina Johns",
       "race": "white",
       "start": 1781
@@ -22316,7 +22316,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1545,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Christina Roemer",
       "race": "white",
       "start": 1781
@@ -22342,7 +22342,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1550,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Anna Heineman",
       "race": "white",
       "start": 1781
@@ -22368,7 +22368,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1556,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Magdalena Martin",
       "race": "white",
       "start": 1781
@@ -22420,7 +22420,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1562,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Maria Van Der Heyden",
       "race": "white",
       "start": 1781
@@ -22446,7 +22446,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1563,
-      "modularity": 10,
+      "modularity": 3,
       "name": "Eva Beiser",
       "race": "white",
       "start": 1781
@@ -22472,7 +22472,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1564,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Eva Bohnenstiel",
       "race": "white",
       "start": 1781
@@ -22498,7 +22498,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1565,
-      "modularity": 18,
+      "modularity": 17,
       "name": "Margareth Emit",
       "race": "white",
       "start": 1781
@@ -22524,7 +22524,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1569,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Catharina Near",
       "race": "white",
       "start": 1781
@@ -22576,7 +22576,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1573,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Christina Best",
       "race": "white",
       "start": 1781
@@ -22602,7 +22602,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1574,
-      "modularity": 17,
+      "modularity": 19,
       "name": "Eva Zimmermann",
       "race": "white",
       "start": 1781
@@ -22628,7 +22628,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1577,
-      "modularity": 5,
+      "modularity": 14,
       "name": "Eliesabeth Cloom",
       "race": "white",
       "start": 1781
@@ -22654,7 +22654,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1581,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Christina Hener",
       "race": "white",
       "start": 1781
@@ -22680,7 +22680,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1582,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Margaretha Weger",
       "race": "white",
       "start": 1781
@@ -22706,7 +22706,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1583,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Anna Weger",
       "race": "white",
       "start": 1781
@@ -22784,7 +22784,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1600,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Margaretha Dormann",
       "race": "white",
       "start": 1782
@@ -22810,7 +22810,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1601,
-      "modularity": 11,
+      "modularity": 12,
       "name": "Anna Barbara Oberacker",
       "race": "white",
       "start": 1782
@@ -22836,7 +22836,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1602,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Maria Eliesabeth",
       "race": "white",
       "start": 1782
@@ -22862,7 +22862,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1603,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Eliesabeth Grawberger",
       "race": "white",
       "start": 1782
@@ -22914,7 +22914,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1605,
-      "modularity": 20,
+      "modularity": 10,
       "name": "Margaretha Wolf",
       "race": "white",
       "start": 1782
@@ -22940,7 +22940,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1606,
-      "modularity": 8,
+      "modularity": 5,
       "name": "Maria Kuemmel",
       "race": "white",
       "start": 1782
@@ -22966,7 +22966,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1609,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Maria Springer",
       "race": "white",
       "start": 1782
@@ -22990,7 +22990,7 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 1612,
       "modularity": 15,
       "name": "Maica Claudius",
@@ -23044,7 +23044,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1619,
-      "modularity": 13,
+      "modularity": 11,
       "name": "Margaretha Grawberger",
       "race": "white",
       "start": 1782
@@ -23070,7 +23070,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1620,
-      "modularity": 14,
+      "modularity": 0,
       "name": "Anna Best",
       "race": "white",
       "start": 1782
@@ -23122,7 +23122,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1623,
-      "modularity": 19,
+      "modularity": 0,
       "name": "Hanna Young",
       "race": "white",
       "start": 1782
@@ -23146,9 +23146,9 @@
       "degree_1782": 3,
       "degree_1783": 3,
       "end": 1782,
-      "gender": "unknown",
+      "gender": "female",
       "id": 1625,
-      "modularity": 2,
+      "modularity": 9,
       "name": "Gertrauth Schaefer",
       "race": "white",
       "start": 1782
@@ -23174,7 +23174,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1627,
-      "modularity": 1,
+      "modularity": 8,
       "name": "Maria Jubey",
       "race": "white",
       "start": 1782
@@ -23226,7 +23226,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1634,
-      "modularity": 3,
+      "modularity": 2,
       "name": "Catharina Deter",
       "race": "white",
       "start": 1782
@@ -23304,7 +23304,7 @@
       "end": 1782,
       "gender": "female",
       "id": 1644,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Catharina Heigerd",
       "race": "white",
       "start": 1779
