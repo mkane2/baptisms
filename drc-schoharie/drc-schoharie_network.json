@@ -1830,7 +1830,7 @@
       "end": 1748,
       "gender": "female",
       "id": 7,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Maria Barbara Wernern",
       "race": "white",
       "start": 1743
@@ -2428,7 +2428,7 @@
       "end": 1748,
       "gender": "male",
       "id": 40,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Wilhelm Morrasen",
       "race": "white",
       "start": 1744
@@ -2454,7 +2454,7 @@
       "end": 1748,
       "gender": "female",
       "id": 41,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Sara Morrissen",
       "race": "white",
       "start": 1744
@@ -2792,7 +2792,7 @@
       "end": 1748,
       "gender": "male",
       "id": 61,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Aston Schulkraf",
       "race": "white",
       "start": 1745
@@ -2818,7 +2818,7 @@
       "end": 1748,
       "gender": "female",
       "id": 62,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Catharina Schulkraf",
       "race": "white",
       "start": 1745
@@ -2948,7 +2948,7 @@
       "end": 1748,
       "gender": "male",
       "id": 67,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Barend Kayser",
       "race": "white",
       "start": 1745
@@ -2974,7 +2974,7 @@
       "end": 1748,
       "gender": "male",
       "id": 68,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Peter Sommer",
       "race": "white",
       "start": 1745
@@ -3000,7 +3000,7 @@
       "end": 1748,
       "gender": "female",
       "id": 69,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Maria Sommern",
       "race": "white",
       "start": 1745
@@ -3078,7 +3078,7 @@
       "end": 1748,
       "gender": "male",
       "id": 76,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Peter Lowenstein",
       "race": "white",
       "start": 1745
@@ -3104,7 +3104,7 @@
       "end": 1748,
       "gender": "female",
       "id": 77,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Abelena Lowenstein",
       "race": "white",
       "start": 1745
@@ -3130,7 +3130,7 @@
       "end": 1748,
       "gender": "male",
       "id": 80,
-      "modularity": 7,
+      "modularity": 3,
       "name": "Friederich Carl Schell",
       "race": "white",
       "start": 1745
@@ -3156,7 +3156,7 @@
       "end": 1748,
       "gender": "female",
       "id": 81,
-      "modularity": 7,
+      "modularity": 3,
       "name": "Barbara Schell",
       "race": "white",
       "start": 1745
@@ -3260,7 +3260,7 @@
       "end": 1748,
       "gender": "male",
       "id": 87,
-      "modularity": 7,
+      "modularity": 3,
       "name": "Johannes Zahe",
       "race": "white",
       "start": 1745
@@ -3286,7 +3286,7 @@
       "end": 1748,
       "gender": "female",
       "id": 88,
-      "modularity": 7,
+      "modularity": 3,
       "name": "Anna Catharina",
       "race": "white",
       "start": 1746
@@ -4066,7 +4066,7 @@
       "end": 1748,
       "gender": "male",
       "id": 128,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Matthes Bauman",
       "race": "white",
       "start": 1744
@@ -4196,7 +4196,7 @@
       "end": 1748,
       "gender": "male",
       "id": 138,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Bartholomaeus Osterman",
       "race": "white",
       "start": 1745
@@ -4248,7 +4248,7 @@
       "end": 1748,
       "gender": "male",
       "id": 140,
-      "modularity": 7,
+      "modularity": 3,
       "name": "Henrich Bellinger",
       "race": "white",
       "start": 1746
@@ -4482,7 +4482,7 @@
       "end": 1748,
       "gender": "male",
       "id": 152,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Gellis Worris",
       "race": "white",
       "start": 1748
@@ -4976,7 +4976,7 @@
       "end": 1748,
       "gender": "female",
       "id": 177,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Catharina Kayser",
       "race": "white",
       "start": 1745
@@ -5002,7 +5002,7 @@
       "end": 1748,
       "gender": "male",
       "id": 179,
-      "modularity": 3,
+      "modularity": 7,
       "name": "Gerdraut Freiderichs",
       "race": "white",
       "start": 1745
@@ -5054,7 +5054,7 @@
       "end": 1748,
       "gender": "female",
       "id": 181,
-      "modularity": 7,
+      "modularity": 3,
       "name": "Margareth Bellinger",
       "race": "white",
       "start": 1746
