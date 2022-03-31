@@ -1,0 +1,4693 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "William",
+          "Willliam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "William"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Derck",
+          "Dereck",
+          "Derreck",
+          "dreck"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Derck"
+      },
+      {
+        "from": [
+          "Delefferins",
+          "Delifferens",
+          "Delifferins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delefferins"
+      },
+      {
+        "from": [
+          "Coenraet",
+          "Coenraat",
+          "Coonraet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Danel",
+          "Dannel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniel"
+      },
+      {
+        "from": [
+          "Davit",
+          "Davidt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "David"
+      },
+      {
+        "from": [
+          "Willem",
+          "Williem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "William"
+      },
+      {
+        "from": [
+          "Willum",
+          "Willium"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "William"
+      },
+      {
+        "from": [
+          "Gerret",
+          "Gert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerret"
+      },
+      {
+        "from": [
+          "Pieter",
+          "Piter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieter"
+      },
+      {
+        "from": [
+          "Robbert",
+          "Robert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Robert"
+      },
+      {
+        "from": [
+          "Matthis",
+          "Mathis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Matthis"
+      },
+      {
+        "from": [
+          "Zandaer",
+          "Zander"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zander"
+      },
+      {
+        "from": [
+          "Casper",
+          "Caspares"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Casper"
+      },
+      {
+        "from": [
+          "Ary",
+          "Aary"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arie"
+      },
+      {
+        "from": [
+          "Valenty",
+          "Valentyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Valentyn"
+      },
+      {
+        "from": [
+          "Hendericus",
+          "Hendricus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendericus"
+      },
+      {
+        "from": [
+          "Staats",
+          "Staas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Staats"
+      },
+      {
+        "from": [
+          "Kelem",
+          "Kellem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kellem"
+      },
+      {
+        "from": [
+          "Charles",
+          "Charels"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Charles"
+      },
+      {
+        "from": [
+          "Aentie",
+          "Antine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Antine"
+      },
+      {
+        "from": [
+          "Ariannus",
+          "Arianus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ariannus"
+      },
+      {
+        "from": [
+          "Isaac",
+          "Isac"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaac"
+      },
+      {
+        "from": [
+          "Adolf",
+          "Adolff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adolf"
+      },
+      {
+        "from": [
+          "Johannis",
+          "Johanis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Johannis"
+      },
+      {
+        "from": [
+          "Matheus",
+          "Mattheus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mattheus"
+      },
+      {
+        "from": [
+          "Harmen",
+          "Herman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harmen"
+      },
+      {
+        "from": [
+          "Thunis",
+          "Thunnis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis"
+      },
+      {
+        "from": [
+          "Anthoni",
+          "Anthonoi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anthony"
+      },
+      {
+        "from": [
+          "Tamus",
+          "Tammus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tamus"
+      },
+      {
+        "from": [
+          "Matys",
+          "Mattys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Matthies"
+      },
+      {
+        "from": [
+          "Adriyanis",
+          "Adryianis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adriyanis"
+      },
+      {
+        "from": [
+          "Petrus",
+          "Peterus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Petrus"
+      },
+      {
+        "from": [
+          "Wolfert",
+          "Wolffert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wolfert"
+      },
+      {
+        "from": [
+          "Leendert",
+          "Leenderdt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leendert"
+      },
+      {
+        "from": [
+          "Joannis",
+          "Joanis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Johannis"
+      },
+      {
+        "from": [
+          "Harmanis",
+          "Haramanis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harmanus"
+      },
+      {
+        "from": [
+          "Tames",
+          "Tammes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tames"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Henderick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      },
+      {
+        "from": [
+          "Jonatan",
+          "Jonaton"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathan"
+      },
+      {
+        "from": [
+          "Jonathan",
+          "Johnaton"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathan"
+      },
+      {
+        "from": [
+          "Haramanus",
+          "Harmanus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harmanus"
+      },
+      {
+        "from": [
+          "Staets",
+          "Staes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Staats"
+      },
+      {
+        "from": [
+          "Isack",
+          "Isaack"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaac"
+      },
+      {
+        "from": [
+          "Abram",
+          "Abraam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abram"
+      },
+      {
+        "from": [
+          "Evert",
+          "Eevert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evert"
+      },
+      {
+        "from": [
+          "Joris",
+          "Jooris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joris"
+      },
+      {
+        "from": [
+          "nis",
+          "nnis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Johannis"
+      },
+      {
+        "from": [
+          "Joryer",
+          "Joryjer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joryer"
+      },
+      {
+        "from": [
+          "Andris",
+          "Adrianis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andris"
+      },
+      {
+        "from": [
+          "Joghem",
+          "Joghemm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joghem"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Arie",
+          "Aarie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arie"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Herrick",
+          "Harreck",
+          "Harck",
+          "Harrick",
+          "Herrik",
+          "Hark",
+          "Harke",
+          "Herck"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Herrick"
+      },
+      {
+        "from": [
+          "Niclaes",
+          "Nicklaes",
+          "Niclaas",
+          "Nicholaas",
+          "Nicklas",
+          "Nicolaas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nicholas"
+      },
+      {
+        "from": [
+          "Marteines",
+          "Martinus",
+          "Martynis",
+          "Martynus",
+          "Marteinus",
+          "Martinis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martinus"
+      },
+      {
+        "from": [
+          "Thomas",
+          "Tomes",
+          "Tomus",
+          "Tamus",
+          "Tomas",
+          "Tames"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomas"
+      },
+      {
+        "from": [
+          "Matthis",
+          "Mattheus",
+          "Matthies",
+          "Mathys",
+          "Matthius"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mattheus"
+      },
+      {
+        "from": [
+          "Hendericus",
+          "Henderikus",
+          "Henderickus",
+          "Hendrekus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendericus"
+      },
+      {
+        "from": [
+          "Robert",
+          "Robbard",
+          "Robbart",
+          "Robberdt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Robert"
+      },
+      {
+        "from": [
+          "Stephanis",
+          "Stefanes",
+          "Stevanis",
+          "Stevanus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephan"
+      },
+      {
+        "from": [
+          "Antony",
+          "Antine",
+          "Antoni",
+          "Entenie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Antony"
+      },
+      {
+        "from": [
+          "Mateues",
+          "Matewes",
+          "Matis",
+          "Mattius"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mattheus"
+      },
+      {
+        "from": [
+          "Deleverens",
+          "Delefferins",
+          "Deleferens",
+          "Deleverins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Deleverens"
+      },
+      {
+        "from": [
+          "Lodewyck",
+          "Lodewyk",
+          "Lodewick",
+          "Lodwick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lodewick"
+      },
+      {
+        "from": [
+          "Cornelis",
+          "Cornelus",
+          "Cornelius",
+          "Corneles"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelius"
+      },
+      {
+        "from": [
+          "Paulus",
+          "Poulus",
+          "Paulius",
+          "Pouweles"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Paulus"
+      },
+      {
+        "from": [
+          "Harmen",
+          "Harmon",
+          "Harman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harman"
+      },
+      {
+        "from": [
+          "Joris",
+          "Jorus",
+          "Jores"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joris"
+      },
+      {
+        "from": [
+          "Hannes",
+          "Hennes",
+          "hanus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Johannis"
+      },
+      {
+        "from": [
+          "Gerrit",
+          "Gerret",
+          "Gerridt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrit"
+      },
+      {
+        "from": [
+          "Calep",
+          "Caleb",
+          "Calip"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Caleb"
+      },
+      {
+        "from": [
+          "Daniel",
+          "Dennel",
+          "Danyel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniel"
+      },
+      {
+        "from": [
+          "Teunis",
+          "Tunis",
+          "Tuenes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis"
+      },
+      {
+        "from": [
+          "Jacobus",
+          "Jacobes",
+          "Jakobus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobus"
+      },
+      {
+        "from": [
+          "Benjamin",
+          "Benjemen",
+          "Benjaman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Benjamin"
+      },
+      {
+        "from": [
+          "Richard",
+          "Richerd",
+          "Rychard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Richard"
+      },
+      {
+        "from": [
+          "Samuel",
+          "Sammul",
+          "Sammiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Samuel"
+      },
+      {
+        "from": [
+          "Adrianus",
+          "Adriyanis",
+          "Adrieannus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adrianus"
+      },
+      {
+        "from": [
+          "William",
+          "Willim",
+          "Wilyum"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "William"
+      },
+      {
+        "from": [
+          "Derck",
+          "Dirck",
+          "Derrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Derck"
+      },
+      {
+        "from": [
+          "Jonas",
+          "Jonis",
+          "Jones"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonas"
+      },
+      {
+        "from": [
+          "Sybout",
+          "Seybout",
+          "Syboudt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sybout"
+      },
+      {
+        "from": [
+          "Frenck",
+          "Franck",
+          "Francoy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franck"
+      },
+      {
+        "from": [
+          "Ariannus",
+          "Aryaennis",
+          "Aryannis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ariannus"
+      },
+      {
+        "from": [
+          "Edward",
+          "Eduaart",
+          "Edwaerdt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Edward"
+      },
+      {
+        "from": [
+          "Zarel",
+          "Sarel",
+          "Zaarel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zarel"
+      },
+      {
+        "from": [
+          "Jeremias",
+          "Jeremyas",
+          "Jeramius"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jeremias"
+      },
+      {
+        "from": [
+          "Claes",
+          "Claas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claes"
+      },
+      {
+        "from": [
+          "Sylas",
+          "Syles"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sylas"
+      },
+      {
+        "from": [
+          "Joseph",
+          "Josoph"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joseph"
+      },
+      {
+        "from": [
+          "Augustus",
+          "Agustes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Augustus"
+      },
+      {
+        "from": [
+          "David",
+          "Davet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "David"
+      },
+      {
+        "from": [
+          "Jacob",
+          "Jakob"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacob"
+      },
+      {
+        "from": [
+          "Elbert",
+          "Albert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albert"
+      },
+      {
+        "from": [
+          "Simon",
+          "Symon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Simon"
+      },
+      {
+        "from": [
+          "Beniamen",
+          "Benyamen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Benjamin"
+      },
+      {
+        "from": [
+          "Fredreck",
+          "Fredrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick"
+      },
+      {
+        "from": [
+          "Gregorius",
+          "Gregoris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gregorius"
+      },
+      {
+        "from": [
+          "Aert",
+          "Aart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aert"
+      },
+      {
+        "from": [
+          "Jeurie",
+          "Juerry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jeurie"
+      },
+      {
+        "from": [
+          "Josieh",
+          "Jozie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Josiah"
+      },
+      {
+        "from": [
+          "Wolfert",
+          "Wolvert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wolfert"
+      },
+      {
+        "from": [
+          "Magiel",
+          "Meigel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Magiel"
+      },
+      {
+        "from": [
+          "Isaac",
+          "Isaak"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaac"
+      },
+      {
+        "from": [
+          "Rissart",
+          "Resserdt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rissart"
+      },
+      {
+        "from": [
+          "Moses",
+          "Mosus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Moses"
+      },
+      {
+        "from": [
+          "Barent",
+          "Barendt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barent"
+      },
+      {
+        "from": [
+          "Casparus",
+          "Casparis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Casparus"
+      },
+      {
+        "from": [
+          "James",
+          "Jems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "James"
+      },
+      {
+        "from": [
+          "After",
+          "Efter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "After"
+      },
+      {
+        "from": [
+          "Elyas",
+          "Elias"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elias"
+      },
+      {
+        "from": [
+          "Leverens",
+          "Liverins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leverens"
+      },
+      {
+        "from": [
+          "Harmanus",
+          "Hermanus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harmanus"
+      },
+      {
+        "from": [
+          "Johannis",
+          "Johannes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Johannes"
+      },
+      {
+        "from": [
+          "Ammon",
+          "Emmen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ammon"
+      },
+      {
+        "from": [
+          "Abram",
+          "Aberam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abram"
+      },
+      {
+        "from": [
+          "Conrad",
+          "Coenradt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Gorus",
+          "Gooris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gorus"
+      },
+      {
+        "from": [
+          "Pieter",
+          "Peter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Peter"
+      },
+      {
+        "from": [
+          "Steven",
+          "Stevin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Steven"
+      },
+      {
+        "from": [
+          "Robben",
+          "Robin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Robin"
+      },
+      {
+        "from": [
+          "Harklis",
+          "Harkueles"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harkueles"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Hendrik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      },
+      {
+        "from": [
+          "Lourens",
+          "Louwrens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lourens"
+      },
+      {
+        "from": [
+          "Andries",
+          "Andris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andries"
+      },
+      {
+        "from": [
+          "Theunis",
+          "Thuennus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Johannes",
+          "Johannis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Johannes"
+      },
+      {
+        "from": [
+          "Stephan",
+          "Steven"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephan"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Magiel",
+          "Michiel",
+          "Maghiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      },
+      {
+        "from": [
+          "Abraham",
+          "Abram",
+          "Abrahan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abraham"
+      },
+      {
+        "from": [
+          "Evert",
+          "Everdt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evert"
+      },
+      {
+        "from": [
+          "Engel",
+          "Engiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Engel"
+      },
+      {
+        "from": [
+          "Zarel",
+          "Zharel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zarel"
+      },
+      {
+        "from": [
+          "Joseph",
+          "Hoseph"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joseph"
+      },
+      {
+        "from": [
+          "Gishum",
+          "Gussein"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gishum"
+      },
+      {
+        "from": [
+          "Elias",
+          "Eljias"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elias"
+      },
+      {
+        "from": [
+          "Marthen",
+          "Marten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marten"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Antony",
+          "Anthony"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Antony"
+      },
+      {
+        "from": [
+          "Arie",
+          "Aryje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arie"
+      },
+      {
+        "from": [
+          "Jonathan",
+          "Jannetan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathan"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Joseph",
+          "Josep"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joseph"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Deleverens",
+          "Deverens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Deleverens"
+      },
+      {
+        "from": [
+          "Leverens",
+          "Deverens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Deleverens"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Harman",
+          "Harmanus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harman"
+      },
+      {
+        "from": [
+          "Nathan",
+          "Nathaniel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nathan"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Marten",
+          "Maren",
+          "Marte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marten"
+      },
+      {
+        "from": [
+          "John",
+          "Johan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "John"
+      },
+      {
+        "from": [
+          "Marten",
+          "Marte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marten"
+      },
+      {
+        "from": [
+          "Janni",
+          "Jany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jany"
+      },
+      {
+        "from": [
+          "Marten",
+          "Maren"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marten"
+      },
+      {
+        "from": [
+          "Edman",
+          "Edmond"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Edmond"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "sponsors 2 1",
+          "expression": "value.length()",
+          "columnName": "sponsors 2 1",
+          "from": 0,
+          "to": 4.3999999999999995,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Saes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sas"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "sponsors 2 1",
+          "expression": "value.length()",
+          "columnName": "sponsors 2 1",
+          "from": 0,
+          "to": 4.3999999999999995,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Thom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomas"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hendrick",
+          "Henderick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gerrit",
+          "Gerridt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrit"
+      },
+      {
+        "from": [
+          "Lowies",
+          "Luas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louis"
+      },
+      {
+        "from": [
+          "Johannes",
+          "Johannis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Johannes"
+      },
+      {
+        "from": [
+          "Cornelius",
+          "Cornelus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelius"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Caleb",
+          "Cellep"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Caleb"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albartus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albert"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Alexzander"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Alexander"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Antonius"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Antony"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Casparus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Casper"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cobe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cobes"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cristeaen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Christian"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Franck"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frank"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Henrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jan"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jocheemus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joachim"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Joghem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joachim"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Paul"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Paulus"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Samuel"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Steve"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephan"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Thomus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomas"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Catriena",
+            "Catriena,"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catrina"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Aaltie",
+            "Aaaltie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aaltie"
+        },
+        {
+          "from": [
+            "Annatie",
+            "Annnatie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Annatie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Maragrietie",
+            "Margriete",
+            "Margrietie",
+            "Maragriet",
+            "Marragrietie",
+            "Margriet",
+            "Margrieta",
+            "Marigiettie",
+            "Marragriet",
+            "Marregriete",
+            "Marregrietie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Maritie",
+            "Mareitie",
+            "Maratie",
+            "Maretie",
+            "Maritei",
+            "Marritie",
+            "Marietie",
+            "Marretie",
+            "Martie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maritie"
+        },
+        {
+          "from": [
+            "Annatie",
+            "Antie",
+            "Anatie",
+            "Aantie",
+            "Anntie",
+            "Aanetie",
+            "Aentie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Annatie"
+        },
+        {
+          "from": [
+            "Maritje",
+            "Marritje",
+            "Mareitje",
+            "Marietje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maritje"
+        },
+        {
+          "from": [
+            "Aeltie",
+            "Aaltie",
+            "Altie",
+            "Aaeltie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aeltie"
+        },
+        {
+          "from": [
+            "Marytie",
+            "Marryetie",
+            "Maritye",
+            "Marrytie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maritie"
+        },
+        {
+          "from": [
+            "Beletie",
+            "Belitie",
+            "Belietie",
+            "Beelitie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Beletie"
+        },
+        {
+          "from": [
+            "Rebecka",
+            "Rabecka",
+            "Rebeckca",
+            "Rebeckka"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Rebecca"
+        },
+        {
+          "from": [
+            "Abiegel",
+            "Abiegiel",
+            "Abigael",
+            "Abiegeil"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Abigail"
+        },
+        {
+          "from": [
+            "Wilemeintie",
+            "Willemeintie",
+            "Willemintie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Willemintie"
+        },
+        {
+          "from": [
+            "Barnicke",
+            "Barenicke",
+            "Barranicke"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Barnicke"
+        },
+        {
+          "from": [
+            "Anneke",
+            "Anneken",
+            "Annake"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Anneke"
+        },
+        {
+          "from": [
+            "Liesebeth",
+            "Elisbeth",
+            "Lisebeth"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elizabeth"
+        },
+        {
+          "from": [
+            "Magrytie",
+            "Maragryetie",
+            "Margrietye"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Geertie",
+            "Grietie",
+            "Griettie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertie"
+        },
+        {
+          "from": [
+            "Mettie",
+            "Eemetie",
+            "Emmetie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Emmetie"
+        },
+        {
+          "from": [
+            "Abigail",
+            "Abbigal",
+            "Abigal"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Abigail"
+        },
+        {
+          "from": [
+            "Wyntie",
+            "Weyntie",
+            "Wyentie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Wyntie"
+        },
+        {
+          "from": [
+            "Carstiena",
+            "Crestiena",
+            "Cristena"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Christina"
+        },
+        {
+          "from": [
+            "Marethen",
+            "Marrethen",
+            "Marthen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Marthen"
+        },
+        {
+          "from": [
+            "Hilletie",
+            "Hellitie",
+            "Hielletie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hilletie"
+        },
+        {
+          "from": [
+            "Elisabeth",
+            "Eliesabeth",
+            "Lisabeth"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elizabeth"
+        },
+        {
+          "from": [
+            "Ragel",
+            "Raagel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Ragel"
+        },
+        {
+          "from": [
+            "Anna",
+            "Ann"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Anna"
+        },
+        {
+          "from": [
+            "Femmetie",
+            "Femmettie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Femmetie"
+        },
+        {
+          "from": [
+            "Ebbegel",
+            "Ebegel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Abigail"
+        },
+        {
+          "from": [
+            "Sara",
+            "Saara"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Sara"
+        },
+        {
+          "from": [
+            "Dercktie",
+            "Dircketie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dercktie"
+        },
+        {
+          "from": [
+            "Leia",
+            "Leeia"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Leia"
+        },
+        {
+          "from": [
+            "Antje",
+            "Aantje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Antje"
+        },
+        {
+          "from": [
+            "Lena",
+            "Leena"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lena"
+        },
+        {
+          "from": [
+            "Leya",
+            "Leeya"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Leia"
+        },
+        {
+          "from": [
+            "Barber",
+            "Barbera"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Barbera"
+        },
+        {
+          "from": [
+            "Liedea",
+            "Liedia"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lydia"
+        },
+        {
+          "from": [
+            "Lea",
+            "Leea"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lea"
+        },
+        {
+          "from": [
+            "Debbora",
+            "Debora"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Debora"
+        },
+        {
+          "from": [
+            "Peccens",
+            "Pecens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Patience"
+        },
+        {
+          "from": [
+            "Grietje",
+            "Gerritje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Grietje"
+        },
+        {
+          "from": [
+            "Rebecca",
+            "Rebbecca"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Rebecca"
+        },
+        {
+          "from": [
+            "Elisabet",
+            "Eliesabet"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elizabeth"
+        },
+        {
+          "from": [
+            "Weyntje",
+            "Wyntje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Wyntje"
+        },
+        {
+          "from": [
+            "Rebecke",
+            "Rebeckke"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Rebecca"
+        },
+        {
+          "from": [
+            "Magdalena",
+            "Magdelena"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Magdalena"
+        },
+        {
+          "from": [
+            "Aaltje",
+            "Aeltje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aaltie"
+        },
+        {
+          "from": [
+            "Mary",
+            "Marya"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Mary"
+        },
+        {
+          "from": [
+            "Susanna",
+            "Susana"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Susanna"
+        },
+        {
+          "from": [
+            "Eliezabet",
+            "Elizabet"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elizabeth"
+        },
+        {
+          "from": [
+            "Sefytie",
+            "Syfeytie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Sefytie"
+        },
+        {
+          "from": [
+            "Frena",
+            "Freena"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Frena"
+        },
+        {
+          "from": [
+            "Cornelia",
+            "Corneleia"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cornelia"
+        },
+        {
+          "from": [
+            "Zefeytie",
+            "Zeyfitie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Zeyfitie"
+        },
+        {
+          "from": [
+            "Weintie",
+            "Wintie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Wyntie"
+        },
+        {
+          "from": [
+            "Feytje",
+            "Fytje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Feytje"
+        },
+        {
+          "from": [
+            "Marretje",
+            "Martje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Martje"
+        },
+        {
+          "from": [
+            "Catharina",
+            "Cathrina"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catharina"
+        },
+        {
+          "from": [
+            "Resula",
+            "Resulla"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Resula"
+        },
+        {
+          "from": [
+            "Aafje",
+            "Aefjee"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aafje"
+        },
+        {
+          "from": [
+            "Hilletje",
+            "Hillitje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hilletie"
+        },
+        {
+          "from": [
+            "Feytie",
+            "Fytie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Feytie"
+        },
+        {
+          "from": [
+            "Beelitje",
+            "Belitje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Beelitje"
+        },
+        {
+          "from": [
+            "Effie",
+            "Efie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Effie"
+        },
+        {
+          "from": [
+            "Hannatie",
+            "Hanatie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hannatie"
+        },
+        {
+          "from": [
+            "Geertje",
+            "Geretje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertje"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Aeltie",
+            "Aaltie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aeltie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Saphia",
+            "Safeiia",
+            "Safya",
+            "Sofya",
+            "Sophia",
+            "Zefya"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Sophia"
+        },
+        {
+          "from": [
+            "Janitie",
+            "Jannitie",
+            "Jannetie",
+            "Jannittie",
+            "Janetie",
+            "Jannietie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Janitie"
+        },
+        {
+          "from": [
+            "Eva",
+            "Effie",
+            "Efa",
+            "Effe",
+            "Efye"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Eva"
+        },
+        {
+          "from": [
+            "Crestena",
+            "Christina",
+            "Christiena",
+            "Chrestena"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Christina"
+        },
+        {
+          "from": [
+            "Resula",
+            "Resoel",
+            "Resull",
+            "Rezula"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Resula"
+        },
+        {
+          "from": [
+            "Catharina",
+            "Catharena",
+            "Cathariena",
+            "Catharyn"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catharina"
+        },
+        {
+          "from": [
+            "Barnicke",
+            "Baranicka",
+            "Berranecke"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Barnicke"
+        },
+        {
+          "from": [
+            "Cornelia",
+            "Cornelea",
+            "Cornelya"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cornelia"
+        },
+        {
+          "from": [
+            "Leia",
+            "Lea",
+            "Layah"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lea"
+        },
+        {
+          "from": [
+            "Debora",
+            "Debbera",
+            "Dibra"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Debora"
+        },
+        {
+          "from": [
+            "Sara",
+            "Sarah",
+            "Sare"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Sara"
+        },
+        {
+          "from": [
+            "Sefytie",
+            "Zeyfitie",
+            "Sofitie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Sefytie"
+        },
+        {
+          "from": [
+            "Lydia",
+            "Liedya",
+            "Lydea"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lydia"
+        },
+        {
+          "from": [
+            "Mynno",
+            "Meino",
+            "Meyno"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Meino"
+        },
+        {
+          "from": [
+            "Phebe",
+            "Febe",
+            "Febie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Phoebe"
+        },
+        {
+          "from": [
+            "Susanna",
+            "Sosanna",
+            "Susane"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Susanna"
+        },
+        {
+          "from": [
+            "Maritje",
+            "Marytje",
+            "Martje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maritje"
+        },
+        {
+          "from": [
+            "Marethe",
+            "Marrethe"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Marethe"
+        },
+        {
+          "from": [
+            "Eeme",
+            "Emie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Emie"
+        },
+        {
+          "from": [
+            "Pesensie",
+            "Peciens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Patience"
+        },
+        {
+          "from": [
+            "Esther",
+            "Ester"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Esther"
+        },
+        {
+          "from": [
+            "Ragel",
+            "Reghel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Ragel"
+        },
+        {
+          "from": [
+            "Grietje",
+            "Geertje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Grietje"
+        },
+        {
+          "from": [
+            "Dercktie",
+            "Durcktie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dercktie"
+        },
+        {
+          "from": [
+            "Catrina",
+            "Catreina"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catrina"
+        },
+        {
+          "from": [
+            "Nelletie",
+            "Nilletie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Nelletie"
+        },
+        {
+          "from": [
+            "Engeltie",
+            "Engelt"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Engeltie"
+        },
+        {
+          "from": [
+            "Petronella",
+            "Pietronella"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Petronella"
+        },
+        {
+          "from": [
+            "Elsie",
+            "Elzee"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elsie"
+        },
+        {
+          "from": [
+            "Brechie",
+            "Brechye"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Brechie"
+        },
+        {
+          "from": [
+            "Maria",
+            "Mary"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maria"
+        },
+        {
+          "from": [
+            "Helena",
+            "Helene"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Helena"
+        },
+        {
+          "from": [
+            "Feytie",
+            "Feitie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Feytie"
+        },
+        {
+          "from": [
+            "Hillegond",
+            "Hillegonda"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hillegond"
+        },
+        {
+          "from": [
+            "Beletie",
+            "Belytie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Beletie"
+        },
+        {
+          "from": [
+            "Catalyntje",
+            "Catlintje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catalyntje"
+        },
+        {
+          "from": [
+            "Jezyntie",
+            "Jesyntie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jezyntie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Brechie",
+            "Bregie",
+            "Breghie",
+            "Breghye"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Brechie"
+        },
+        {
+          "from": [
+            "Margriet",
+            "Margrietje",
+            "Marygriethe"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Rachel",
+            "Ragel",
+            "Ragehl"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Rachel"
+        },
+        {
+          "from": [
+            "Geesje",
+            "Geese"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geesje"
+        },
+        {
+          "from": [
+            "Beletie",
+            "Beelitje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Beletie"
+        },
+        {
+          "from": [
+            "Grietje",
+            "Geertie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertie"
+        },
+        {
+          "from": [
+            "Dercktie",
+            "Dercktje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dercktie"
+        },
+        {
+          "from": [
+            "Liesebet",
+            "Ljesbeth"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elizabeth"
+        },
+        {
+          "from": [
+            "Patience",
+            "Petiens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Patience"
+        },
+        {
+          "from": [
+            "Engeltie",
+            "Engeltje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Engeltie"
+        },
+        {
+          "from": [
+            "Rensje",
+            "Renssie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Rensje"
+        },
+        {
+          "from": [
+            "Mattie",
+            "Metje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Mattie"
+        },
+        {
+          "from": [
+            "Jezyntie",
+            "Jesyntje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jezyntie"
+        },
+        {
+          "from": [
+            "Abigail",
+            "Abbegel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Abigail"
+        },
+        {
+          "from": [
+            "Debora",
+            "Djbra"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Debora"
+        },
+        {
+          "from": [
+            "Marthen",
+            "Marreeten"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Marthen"
+        },
+        {
+          "from": [
+            "Feytie",
+            "Feytje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Feytie"
+        },
+        {
+          "from": [
+            "Magdaleentje",
+            "Magdalentie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Magdalena"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Eva",
+            "Aafje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Eva"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Esther",
+            "Eisther"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Esther"
+        },
+        {
+          "from": [
+            "Hilletie",
+            "Helletje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hilletie"
+        },
+        {
+          "from": [
+            "Janitie",
+            "Jannitje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Janitie"
+        },
+        {
+          "from": [
+            "Johanna",
+            "Jahannah"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Johanna"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Annatie",
+            "Hannatie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Annatie"
+        },
+        {
+          "from": [
+            "Madalentie",
+            "Madaletie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Magdalena"
+        },
+        {
+          "from": [
+            "Magdalena",
+            "Madalena"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Magdalena"
+        },
+        {
+          "from": [
+            "Christina",
+            "Christing"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Christina"
+        },
+        {
+          "from": [
+            "Femmetie",
+            "Femmetje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Femmetie"
+        },
+        {
+          "from": [
+            "Madaletie",
+            "Magdaletie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Magdalena"
+        },
+        {
+          "from": [
+            "Emmetie",
+            "Femmetie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Emmetie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Emmetie",
+            "Femmetie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Emmetie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Annitje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Annatie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Aetie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aeltie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Antje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Annatie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Bregtie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Brechie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Catalyntje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cathalyna"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Dercktie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckje"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Eilsjen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elsie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Emie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Emmetie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Evatje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Eva"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Greesje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geesje"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Jemmea"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jemima"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Jemima"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jemina"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Jezyna"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jezyntie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Lear"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lea"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Marian"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maria"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Maritje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maritie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Niessje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Niesse"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Pheben"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Phoebe"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Rachgel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Rachel"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Wyntje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Wyntie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Weynt"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Wyntie"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 1"
+    },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Margriet",
+          "Maragritie",
+          "Maragrittie",
+          "Maregrietie",
+          "Marragrieta",
+          "Marregriet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margriet"
+      },
+      {
+        "from": [
+          "Niesen",
+          "Niese",
+          "Nisse",
+          "Niesse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Niesse"
+      },
+      {
+        "from": [
+          "Maritie",
+          "Marite",
+          "Maritiei",
+          "Marreitie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maritie"
+      },
+      {
+        "from": [
+          "Nelletie",
+          "Nellitie",
+          "Nellietie",
+          "Nelti"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nelletie"
+      },
+      {
+        "from": [
+          "Willemintie",
+          "Willimintie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemintie"
+      },
+      {
+        "from": [
+          "Baranicke",
+          "Barnicke"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baranicke"
+      },
+      {
+        "from": [
+          "Marytye",
+          "Maratye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maritie"
+      },
+      {
+        "from": [
+          "Catrina",
+          "Catrinna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catrina"
+      },
+      {
+        "from": [
+          "Jannittye",
+          "Jannitye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jannite"
+      },
+      {
+        "from": [
+          "Christina",
+          "Christana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Christina"
+      },
+      {
+        "from": [
+          "Marten",
+          "Marreten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marreten"
+      },
+      {
+        "from": [
+          "Mareiia",
+          "Mariea"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Zeytie",
+          "Zytie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zytie"
+      },
+      {
+        "from": [
+          "Aeltye",
+          "Altye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aeltie"
+      },
+      {
+        "from": [
+          "Annatie",
+          "Aaentie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Annatie"
+      },
+      {
+        "from": [
+          "Willemyntie",
+          "Willimyntie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemintie"
+      },
+      {
+        "from": [
+          "Maragritye",
+          "Marargriety"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maragrit"
+      },
+      {
+        "from": [
+          "Sefya",
+          "Seyfya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sofia"
+      },
+      {
+        "from": [
+          "Magdalena",
+          "Magdaleena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Magdalena"
+      },
+      {
+        "from": [
+          "Styntje",
+          "Steyntje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Styntje"
+      },
+      {
+        "from": [
+          "Wyntie",
+          "Wintye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wyntie"
+      },
+      {
+        "from": [
+          "Catharina",
+          "Chatarina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      },
+      {
+        "from": [
+          "Ersula",
+          "Resula"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Resula"
+      },
+      {
+        "from": [
+          "Maria",
+          "Mari"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Marthen",
+          "Marathen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marthen"
+      },
+      {
+        "from": [
+          "Hilletie",
+          "Hiiletie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hilletie"
+      },
+      {
+        "from": [
+          "Engeltie",
+          "Engeeltie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Engeltie"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Maragrit",
+          "Margitta"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maragrit"
+      },
+      {
+        "from": [
+          "Janitie",
+          "Jannite"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janitie"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sophia",
+          "Sophya",
+          "Sofia",
+          "Sapheya",
+          "Zeffya",
+          "Zyfya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sophia"
+      },
+      {
+        "from": [
+          "Meino",
+          "Myno",
+          "Menno",
+          "Meynno",
+          "Muno"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Meino"
+      },
+      {
+        "from": [
+          "Christina",
+          "Cristina",
+          "Crestean",
+          "Crestina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Christina"
+      },
+      {
+        "from": [
+          "Maritie",
+          "Martyie",
+          "Marete",
+          "Merrytie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maritie"
+      },
+      {
+        "from": [
+          "Pietronelle",
+          "Petronella",
+          "Petronelle",
+          "Pieternelle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Petronella"
+      },
+      {
+        "from": [
+          "Anna",
+          "Anni",
+          "Annie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anna"
+      },
+      {
+        "from": [
+          "Safytie",
+          "Sefytie",
+          "Zyfitie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sophia"
+      },
+      {
+        "from": [
+          "Dirckje",
+          "Dercjee",
+          "Derckje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckje"
+      },
+      {
+        "from": [
+          "Aeltie",
+          "Ailtye",
+          "Alida"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aeltie"
+      },
+      {
+        "from": [
+          "Rebecca",
+          "Rebeecka",
+          "Rebekka"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rebecca"
+      },
+      {
+        "from": [
+          "Susanna",
+          "Sosanne",
+          "Suzana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Susanna"
+      },
+      {
+        "from": [
+          "Magdalena",
+          "Maghdaleena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Magdalena"
+      },
+      {
+        "from": [
+          "Niesje",
+          "Neesje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Niesje"
+      },
+      {
+        "from": [
+          "Marethe",
+          "Martha"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marethe"
+      },
+      {
+        "from": [
+          "Cornelia",
+          "Corneleya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelia"
+      },
+      {
+        "from": [
+          "Beeltje",
+          "Bellitje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beeltje"
+      },
+      {
+        "from": [
+          "Nelletie",
+          "Nelletye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nelletie"
+      },
+      {
+        "from": [
+          "Zytie",
+          "Seytie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zytie"
+      },
+      {
+        "from": [
+          "Metthe",
+          "Metthie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mattie"
+      },
+      {
+        "from": [
+          "Margriet",
+          "Maragrit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margriet"
+      },
+      {
+        "from": [
+          "Mazre",
+          "Masere"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mazre"
+      },
+      {
+        "from": [
+          "Dyna",
+          "Tyna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dyna"
+      },
+      {
+        "from": [
+          "Engeltie",
+          "Engeltye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Engeltie"
+      },
+      {
+        "from": [
+          "Liesabeth",
+          "Lysbeth"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Janitie",
+          "Jannettye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janitie"
+      },
+      {
+        "from": [
+          "Nelly",
+          "Nillie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nellitie"
+      },
+      {
+        "from": [
+          "Geertie",
+          "Gerritye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geertie"
+      },
+      {
+        "from": [
+          "Abigail",
+          "Ebbegal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abigail"
+      },
+      {
+        "from": [
+          "Hilletie",
+          "Hillitye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hilletie"
+      },
+      {
+        "from": [
+          "Beletie",
+          "Beletye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beletie"
+      },
+      {
+        "from": [
+          "Elizabeth",
+          "Elyzabeth"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Hester",
+          "Hesther"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hester"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mattie",
+          "Metye",
+          "Mettje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mattie"
+      },
+      {
+        "from": [
+          "Brechie",
+          "Bregje",
+          "Bregye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brechie"
+      },
+      {
+        "from": [
+          "Willemintie",
+          "Willemyntje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemintie"
+      },
+      {
+        "from": [
+          "Nelletie",
+          "Nellitie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nelletie"
+      },
+      {
+        "from": [
+          "Abigail",
+          "Ebiegel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abigail"
+      },
+      {
+        "from": [
+          "Cathalynte",
+          "Cathalyntje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cathalynte"
+      },
+      {
+        "from": [
+          "Beletie",
+          "Beeltje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beletie"
+      },
+      {
+        "from": [
+          "Dirckje",
+          "Dirckie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckje"
+      },
+      {
+        "from": [
+          "Maritie",
+          "Marethe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maritie"
+      },
+      {
+        "from": [
+          "Niesse",
+          "Niesje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Niesse"
+      },
+      {
+        "from": [
+          "Jezyntie",
+          "Jezyntje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jezyntie"
+      },
+      {
+        "from": [
+          "Eilse",
+          "Elsje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eilse"
+      },
+      {
+        "from": [
+          "Tryntje",
+          "Treintie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tryntje"
+      },
+      {
+        "from": [
+          "Marthen",
+          "Marreten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marthen"
+      },
+      {
+        "from": [
+          "Sophia",
+          "Safeija"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sophia"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lea",
+          "Leeja"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lea"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Janitie",
+          "Jannetje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janitie"
+      },
+      {
+        "from": [
+          "Grees",
+          "Griesse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Grees"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cathalyna",
+          "Cathalynte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cathalyna"
+      },
+      {
+        "from": [
+          "Petronella",
+          "Pironella"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Petronella"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 1"
+  }
+]

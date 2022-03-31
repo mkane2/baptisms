@@ -1,0 +1,6840 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(Aert) Joons"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joons"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Waart",
+          "Van waart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waart"
+      },
+      {
+        "from": [
+          "de Revier",
+          "De Revier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "de Voe",
+          "De Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Voe"
+      },
+      {
+        "from": [
+          "de Puw",
+          "De Puw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Puw"
+      },
+      {
+        "from": [
+          "Van Wert",
+          "Van wert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Wert"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van waert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "de Ravier",
+          "Deravier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "de Lameter",
+          "Delameter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La Mater"
+      },
+      {
+        "from": [
+          "Devoe",
+          "de Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      },
+      {
+        "from": [
+          "de Revier",
+          "Derevier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hileker",
+          "Hielker",
+          "Hieleker",
+          "Hilker",
+          "Heilker",
+          "Hielleker",
+          "Hiliker",
+          "Hilleker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hileker"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Canckele",
+          "Cankele",
+          "Cankle",
+          "Canklen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Hiscock",
+          "Hiskoc",
+          "Hiskock",
+          "Hiscok",
+          "Hiskcock"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hiscock"
+      },
+      {
+        "from": [
+          "Willemse",
+          "Willems",
+          "Willimse",
+          "Williems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemse"
+      },
+      {
+        "from": [
+          "Aarssen",
+          "Aarsen",
+          "Aersen",
+          "Arsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aarssen"
+      },
+      {
+        "from": [
+          "Crankheyt",
+          "Cranckheyt",
+          "Kranckheyt",
+          "Krancheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Fosuer",
+          "Fouseur",
+          "Foseur",
+          "Fouseer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fosuer"
+      },
+      {
+        "from": [
+          "Willens",
+          "Willsen",
+          "Wilssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willsen"
+      },
+      {
+        "from": [
+          "de La Mater",
+          "Dalameter",
+          "de Lameeter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La Mater"
+      },
+      {
+        "from": [
+          "Roemer",
+          "Romer",
+          "Roomer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roemer"
+      },
+      {
+        "from": [
+          "Cancklie",
+          "Canckelie",
+          "Cankelie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Weilie",
+          "Wile",
+          "Wilie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wiley"
+      },
+      {
+        "from": [
+          "Teller",
+          "Teeler",
+          "Teler"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teller"
+      },
+      {
+        "from": [
+          "Beselie",
+          "Beeselie",
+          "Beeslie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beselie"
+      },
+      {
+        "from": [
+          "de Witt",
+          "de Widtt",
+          "de Wit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Witt"
+      },
+      {
+        "from": [
+          "Belyee",
+          "Beely",
+          "Belly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Aerse",
+          "Aarse",
+          "Arse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Wilse",
+          "Wilsie",
+          "Wielsie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilse"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Weert",
+          "Van Wert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Seifer",
+          "Seiffer",
+          "Siffer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seifer"
+      },
+      {
+        "from": [
+          "Cranckheit",
+          "Crankheit",
+          "Kranckheit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Odel",
+          "Oodel",
+          "Odle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Odel"
+      },
+      {
+        "from": [
+          "de Revier",
+          "de Rivier",
+          "Derievier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "Hussen",
+          "Heusen",
+          "Huussen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hussen"
+      },
+      {
+        "from": [
+          "Jons",
+          "Joons",
+          "Jonss"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jons"
+      },
+      {
+        "from": [
+          "Aertse",
+          "Artse",
+          "Aartse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aertse"
+      },
+      {
+        "from": [
+          "Helker",
+          "Heleker",
+          "Helleker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Helker"
+      },
+      {
+        "from": [
+          "Van Tessel",
+          "Van Tassel",
+          "Van Tesel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Gravenstien",
+          "Gravenstin",
+          "Gravestien"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gravenstien"
+      },
+      {
+        "from": [
+          "Syffer",
+          "Syfer",
+          "Seyfer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syffer"
+      },
+      {
+        "from": [
+          "Canckely",
+          "Cankely"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Jonasz Gerritse",
+          "Jonasz Gerritsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonasz Gerritse"
+      },
+      {
+        "from": [
+          "Van Noorstrant",
+          "Van Noortstrant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Noorstrant"
+      },
+      {
+        "from": [
+          "Ceyfer",
+          "Cyfer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ceyfer"
+      },
+      {
+        "from": [
+          "Sherewood",
+          "Sherwood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sherewood"
+      },
+      {
+        "from": [
+          "Hetviel",
+          "Hitviel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hetviel"
+      },
+      {
+        "from": [
+          "Cocks",
+          "Coks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cocks"
+      },
+      {
+        "from": [
+          "Palden",
+          "Paelden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Palden"
+      },
+      {
+        "from": [
+          "Juwell",
+          "Juwel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juwell"
+      },
+      {
+        "from": [
+          "Mebie",
+          "Meebi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mabee"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duysert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Ablienes",
+          "Ablienis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ablienes"
+      },
+      {
+        "from": [
+          "Juel",
+          "Juell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juel"
+      },
+      {
+        "from": [
+          "Eemet",
+          "Eemett"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eemet"
+      },
+      {
+        "from": [
+          "Brit",
+          "Britt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brit"
+      },
+      {
+        "from": [
+          "Romen",
+          "Rommen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Romen"
+      },
+      {
+        "from": [
+          "Mathyse",
+          "Mathysse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mathyse"
+      },
+      {
+        "from": [
+          "Lafinnus",
+          "Lafinus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lafinnus"
+      },
+      {
+        "from": [
+          "Kankele",
+          "Kankle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Tenc Gelbach",
+          "Tenchelbag"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tenc Gelbach"
+      },
+      {
+        "from": [
+          "Canckly",
+          "Cankly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckly"
+      },
+      {
+        "from": [
+          "Jurckse",
+          "Jurckes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurckse"
+      },
+      {
+        "from": [
+          "Heuson",
+          "Heusson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heuson"
+      },
+      {
+        "from": [
+          "Stymets",
+          "Stymes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stymets"
+      },
+      {
+        "from": [
+          "Seybouts Crancheyt",
+          "Sybout Crancheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seybouts Krankheit"
+      },
+      {
+        "from": [
+          "Davets",
+          "Davetse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Ever",
+          "Evere"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ever"
+      },
+      {
+        "from": [
+          "Minne",
+          "Meinne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Minne"
+      },
+      {
+        "from": [
+          "Fausur",
+          "Fausuur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fausur"
+      },
+      {
+        "from": [
+          "Cranck",
+          "Crank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krank"
+      },
+      {
+        "from": [
+          "Huson",
+          "Husson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huson"
+      },
+      {
+        "from": [
+          "Bolye",
+          "Bolyee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bolye"
+      },
+      {
+        "from": [
+          "Geion",
+          "Geiong"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geion"
+      },
+      {
+        "from": [
+          "Lamberts",
+          "Lambertse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lamberts"
+      },
+      {
+        "from": [
+          "Boos",
+          "Bos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boos"
+      },
+      {
+        "from": [
+          "Revier",
+          "River"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "Okelie",
+          "Ookile"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Okelie"
+      },
+      {
+        "from": [
+          "Cennieff",
+          "Cenniff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cennieff"
+      },
+      {
+        "from": [
+          "Lourens",
+          "Lourense"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lourens"
+      },
+      {
+        "from": [
+          "Raquaw",
+          "Ruquaw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Van Thessel",
+          "Van Thesel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Van Wart",
+          "Van Waart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Wart"
+      },
+      {
+        "from": [
+          "Walderon",
+          "Waelderon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Walderon"
+      },
+      {
+        "from": [
+          "Miller",
+          "Meiller"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Canklingh",
+          "Cancklingh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Enderies",
+          "Endries"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Enderies"
+      },
+      {
+        "from": [
+          "Davidsen",
+          "Davidssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davidsen"
+      },
+      {
+        "from": [
+          "Requa",
+          "Requaa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Gardenier",
+          "Gerdanier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gardenier"
+      },
+      {
+        "from": [
+          "Daniels",
+          "Danniels"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniels"
+      },
+      {
+        "from": [
+          "Sadoor",
+          "Saddoor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sadoor"
+      },
+      {
+        "from": [
+          "Canklin",
+          "Cancklin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canklin"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerritese"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      },
+      {
+        "from": [
+          "Mular",
+          "Mullar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Kenniff",
+          "Kennieff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kenniff"
+      },
+      {
+        "from": [
+          "Williums",
+          "Willums"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williums"
+      },
+      {
+        "from": [
+          "de Puw",
+          "de Peuw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Puw"
+      },
+      {
+        "from": [
+          "Storm",
+          "Stoorm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Storm"
+      },
+      {
+        "from": [
+          "McChane",
+          "Mechane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "McChane"
+      },
+      {
+        "from": [
+          "Davidse",
+          "Davidsse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davidse"
+      },
+      {
+        "from": [
+          "Feusuer",
+          "Fusuer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Feusuer"
+      },
+      {
+        "from": [
+          "Donny",
+          "Doony"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Donny"
+      },
+      {
+        "from": [
+          "Van Noortstrand",
+          "Van Ostrand"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Noortstrand"
+      },
+      {
+        "from": [
+          "Hof",
+          "Hoff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hof"
+      },
+      {
+        "from": [
+          "Bancken",
+          "Bancke"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bancken"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wiley",
+          "Wylie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wiley"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aarssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Willemse",
+          "Williams",
+          "Willims",
+          "Williums",
+          "Willemze",
+          "Williamse",
+          "Wilyums",
+          "Wyllims"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williams"
+      },
+      {
+        "from": [
+          "Okelie",
+          "Ookele",
+          "Ookle",
+          "Oackelie",
+          "Oakle",
+          "Oakley",
+          "Ockelie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oakley"
+      },
+      {
+        "from": [
+          "Hussen",
+          "Heuson",
+          "Huson",
+          "Hissen",
+          "Hiussen",
+          "Hughson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hughson"
+      },
+      {
+        "from": [
+          "Boeckhout",
+          "Bockhout",
+          "Boekhout",
+          "Boechout",
+          "Boeckhoud",
+          "Boekhouwt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boeckhout"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davits",
+          "Davidse",
+          "Davidze",
+          "Davitse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Bruyn",
+          "Bruin",
+          "Brown",
+          "Bernie",
+          "Broun"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brown"
+      },
+      {
+        "from": [
+          "Fosuer",
+          "Fosuur",
+          "Fausur",
+          "Feusuer",
+          "Fusuur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fosuer"
+      },
+      {
+        "from": [
+          "Wilzee",
+          "Wilse",
+          "Welze",
+          "Woelse",
+          "Wylse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilse"
+      },
+      {
+        "from": [
+          "Kuyper",
+          "Cuiper",
+          "Cuyper",
+          "Cupper",
+          "Kuiper"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cuyper"
+      },
+      {
+        "from": [
+          "Martlinghs",
+          "Martlings",
+          "Martelinghs",
+          "Martelings",
+          "Mertlings"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martlings"
+      },
+      {
+        "from": [
+          "Bailey",
+          "Bolye",
+          "Baelly",
+          "Bilyee",
+          "Bolie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Bandt",
+          "Band",
+          "Bant",
+          "Bante"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bandt"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Canclie",
+          "Canckly",
+          "Cancly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Syffer",
+          "Seifer",
+          "Ceyfer",
+          "Zyfer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syffer"
+      },
+      {
+        "from": [
+          "de Puw",
+          "de Peu",
+          "de Piu",
+          "de Piuw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Puw"
+      },
+      {
+        "from": [
+          "Beselie",
+          "Beesly",
+          "Beasely",
+          "Besele"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beasely"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duitser",
+          "Dutser",
+          "Duytzer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Wart",
+          "Van Weerdt",
+          "Van Weerd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Krankheyt",
+          "Cranckhet",
+          "Kranckhyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Gerritsen",
+          "Gerretson",
+          "Gerridsen",
+          "Gerritson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritsen"
+      },
+      {
+        "from": [
+          "Ecker",
+          "Ekker",
+          "Aeckerr",
+          "Ocker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ecker"
+      },
+      {
+        "from": [
+          "Buys",
+          "Bueis",
+          "Boos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Buys"
+      },
+      {
+        "from": [
+          "Chorssen",
+          "Corsen",
+          "Korsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corsen"
+      },
+      {
+        "from": [
+          "Rasel",
+          "Resel",
+          "Rissel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rasel"
+      },
+      {
+        "from": [
+          "Rutan",
+          "Retan",
+          "Ratan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rutan"
+      },
+      {
+        "from": [
+          "Dykman",
+          "Dyckman",
+          "Deyckman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dyckman"
+      },
+      {
+        "from": [
+          "Tys",
+          "Tice",
+          "Tyse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tice"
+      },
+      {
+        "from": [
+          "Brouwer",
+          "Brouer",
+          "Brower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brouwer"
+      },
+      {
+        "from": [
+          "Jurckse",
+          "Jurkse",
+          "Jurcse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurkse"
+      },
+      {
+        "from": [
+          "Miller",
+          "Meller",
+          "Melar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Sherewood",
+          "Sharewood",
+          "Sherret"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sherwood"
+      },
+      {
+        "from": [
+          "Springsteen",
+          "Sprencksteen",
+          "Sprincksteen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Springsteen"
+      },
+      {
+        "from": [
+          "Van Dyck",
+          "Van Deyck",
+          "Van Dyk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Dyck"
+      },
+      {
+        "from": [
+          "Smedt",
+          "Smet",
+          "Smidt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schmidt"
+      },
+      {
+        "from": [
+          "Marteling",
+          "Martelingh",
+          "Martlingh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marteling"
+      },
+      {
+        "from": [
+          "Hileker",
+          "Helker",
+          "Hylker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Helker"
+      },
+      {
+        "from": [
+          "Becaren",
+          "Becoren",
+          "Bycaren"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Becaren"
+      },
+      {
+        "from": [
+          "Hiscock",
+          "Hiescock",
+          "Hyescok"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hiscock"
+      },
+      {
+        "from": [
+          "Monsen",
+          "Mansen",
+          "Monson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Monsen"
+      },
+      {
+        "from": [
+          "Mabee",
+          "Mabie",
+          "Mebee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mabee"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerretse",
+          "Gerritze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      },
+      {
+        "from": [
+          "Treffus",
+          "Treyfus",
+          "Triffus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Treffus"
+      },
+      {
+        "from": [
+          "Gerrese",
+          "Gerrise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrese"
+      },
+      {
+        "from": [
+          "Sadoor",
+          "Cedoer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sadoor"
+      },
+      {
+        "from": [
+          "Theys",
+          "Theisse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tice"
+      },
+      {
+        "from": [
+          "Waldron",
+          "Walderon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waldron"
+      },
+      {
+        "from": [
+          "Requaw",
+          "Raqua"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Van Texel",
+          "Van Thexel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Texel"
+      },
+      {
+        "from": [
+          "Syn",
+          "Zyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syn"
+      },
+      {
+        "from": [
+          "Gravenstien",
+          "Gravenstyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gravenstien"
+      },
+      {
+        "from": [
+          "De Voe",
+          "de Vouw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      },
+      {
+        "from": [
+          "Meecks",
+          "Meegs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Meecks"
+      },
+      {
+        "from": [
+          "Storm",
+          "Stoerm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Storm"
+      },
+      {
+        "from": [
+          "Lafinnus",
+          "Lafynus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lafinnus"
+      },
+      {
+        "from": [
+          "Van Lent",
+          "Van Lendt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Lent"
+      },
+      {
+        "from": [
+          "Ackerman",
+          "Akkerman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ackerman"
+      },
+      {
+        "from": [
+          "Stoutenburgh",
+          "Stoutenburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stoutenburgh"
+      },
+      {
+        "from": [
+          "de La Mater",
+          "Delemeter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La Mater"
+      },
+      {
+        "from": [
+          "Delenooy",
+          "de Lanoy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La noy"
+      },
+      {
+        "from": [
+          "Archer",
+          "Erscher"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Archer"
+      },
+      {
+        "from": [
+          "Mertin",
+          "Marttyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martin"
+      },
+      {
+        "from": [
+          "Heck",
+          "Hek"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heck"
+      },
+      {
+        "from": [
+          "Hoszy",
+          "Hous"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hous"
+      },
+      {
+        "from": [
+          "Heyedt",
+          "Heyet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heyedt"
+      },
+      {
+        "from": [
+          "Denel",
+          "Dennil"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniel"
+      },
+      {
+        "from": [
+          "Soms",
+          "Zooms"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Soms"
+      },
+      {
+        "from": [
+          "Ablienes",
+          "Ablinis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ablienes"
+      },
+      {
+        "from": [
+          "Davidsen",
+          "Davidzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davidsen"
+      },
+      {
+        "from": [
+          "Juel",
+          "Juwell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juel"
+      },
+      {
+        "from": [
+          "Crancheyt",
+          "Crencheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Cennieff",
+          "Cenneff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cennieff"
+      },
+      {
+        "from": [
+          "Palden",
+          "Paldon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Paldon"
+      },
+      {
+        "from": [
+          "Dobs",
+          "Dopse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dobs"
+      },
+      {
+        "from": [
+          "Geion",
+          "Guion"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geion"
+      },
+      {
+        "from": [
+          "Quorey",
+          "Quori"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Quorey"
+      },
+      {
+        "from": [
+          "Tanken",
+          "Tankenye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tanken"
+      },
+      {
+        "from": [
+          "Gersen",
+          "Geryason"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gersen"
+      },
+      {
+        "from": [
+          "Herrikze Krankheyt",
+          "Herrickse Krankhz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Herrikze Krankheit"
+      },
+      {
+        "from": [
+          "Shamponwa",
+          "Shampenwa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Shamponwa"
+      },
+      {
+        "from": [
+          "Daniels",
+          "Dannals"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniels"
+      },
+      {
+        "from": [
+          "Eemet",
+          "Emmitte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emmitte"
+      },
+      {
+        "from": [
+          "Sybout Krankhz",
+          "Sybouwt Krankhz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sybout Krankheit"
+      },
+      {
+        "from": [
+          "Duyser",
+          "Duiser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duyser"
+      },
+      {
+        "from": [
+          "Banker",
+          "Bancker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Banker"
+      },
+      {
+        "from": [
+          "Castan",
+          "Caston"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Castan"
+      },
+      {
+        "from": [
+          "Beljee",
+          "Boulje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beljee"
+      },
+      {
+        "from": [
+          "Tanckerit",
+          "Tenckerit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tanckerit"
+      },
+      {
+        "from": [
+          "Willsen",
+          "Willzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willsen"
+      },
+      {
+        "from": [
+          "Jorden",
+          "Jordyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jorden"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Lourens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      },
+      {
+        "from": [
+          "Hemmen",
+          "Hemmon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hemmen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kool",
+          "Cool",
+          "Koel",
+          "Coel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kool"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duyser",
+          "Duyscher"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Waldron",
+          "Walderom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waldron"
+      },
+      {
+        "from": [
+          "Bailey",
+          "Beljee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Buys",
+          "Buis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Buys"
+      },
+      {
+        "from": [
+          "Teller",
+          "Theller"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teller"
+      },
+      {
+        "from": [
+          "Jorden",
+          "Jordim"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jorden"
+      },
+      {
+        "from": [
+          "Williams",
+          "Wiljums"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williams"
+      },
+      {
+        "from": [
+          "Whitebarck",
+          "Withbarck"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Whitebark"
+      },
+      {
+        "from": [
+          "Mathyse",
+          "Mattus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mathyse"
+      },
+      {
+        "from": [
+          "Heyert",
+          "Heyjert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heyert"
+      },
+      {
+        "from": [
+          "Van Noorstrant",
+          "Van Noortstrand"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Noorstrant"
+      },
+      {
+        "from": [
+          "Storm",
+          "Sturne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Storm"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aertzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Reyerse",
+          "Reyjerse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reyerse"
+      },
+      {
+        "from": [
+          "Lambers",
+          "Lamberts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lamberts"
+      },
+      {
+        "from": [
+          "Shamponwa",
+          "Sampenwa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Shamponwa"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hendrickze",
+          "Hendrikse Lent"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickze"
+      },
+      {
+        "from": [
+          "Tenc Gelbach",
+          "Tinchgelbagh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tinchgelbagh"
+      },
+      {
+        "from": [
+          "Martlings",
+          "Marteling"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martlings"
+      },
+      {
+        "from": [
+          "Pue",
+          "Pou"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pue"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aetsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Gerritsen",
+          "Gertsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritsen"
+      },
+      {
+        "from": [
+          "Hiscock",
+          "Hitchcock"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hitchcock"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fosie",
+          "Foshe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duythser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Fousy",
+          "Fousie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Fausee",
+          "Fousee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dean",
+          "Dien"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dean"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Daniels",
+          "Daniel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniels"
+      },
+      {
+        "from": [
+          "Winter",
+          "Winters"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Winters"
+      },
+      {
+        "from": [
+          "Reyerse",
+          "Reyersen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reyerse"
+      },
+      {
+        "from": [
+          "Canklin",
+          "Cankling"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canklin"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerritsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Tessel",
+          "Van Texel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davidsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Bancken",
+          "Banckert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bancken"
+      },
+      {
+        "from": [
+          "Van Wormer",
+          "Van Worman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Wormer"
+      },
+      {
+        "from": [
+          "Seybouts Krankheit",
+          "Sybout Krankheit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seybouts Krankheit"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Dankheit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Herrikze Krankheit",
+          "Herrickzen Krankeyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Herrikze Krankheit"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(obyt)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "De Voe",
+          "de Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Tessel",
+          "Van Tassel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Roemer",
+          "Romer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roemer"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Cancklen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Britt",
+          "Brit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Britt"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aarsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Weert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Hof",
+          "Hoff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hoff"
+      },
+      {
+        "from": [
+          "Viensen",
+          "Vinsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Vinsen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fousy",
+          "Fosie",
+          "Fauce",
+          "Focie",
+          "Vosie",
+          "Vousie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Crankheyt",
+          "Krankheyt",
+          "Kranckeyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Canckelie",
+          "Canckly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Cocks",
+          "Cox",
+          "Coxs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cox"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Weerdt",
+          "Van Waart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Boeckhout",
+          "Boekhout",
+          "Buckhout"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boeckhout"
+      },
+      {
+        "from": [
+          "Bailey",
+          "Beely",
+          "Bolye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Walderoom",
+          "Waldrom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waldron"
+      },
+      {
+        "from": [
+          "Requaw",
+          "Requa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Sniffen",
+          "Sniffin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sniffen"
+      },
+      {
+        "from": [
+          "Sie",
+          "Sy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sie"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davidse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Syffer",
+          "Siffer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syffer"
+      },
+      {
+        "from": [
+          "de Vouw",
+          "De Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      },
+      {
+        "from": [
+          "Dyckman",
+          "Dykman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dyckman"
+      },
+      {
+        "from": [
+          "Jurkse",
+          "Jurckse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurkse"
+      },
+      {
+        "from": [
+          "Ackerman",
+          "Akkerman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ackerman"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duitser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Schoute",
+          "Shoot"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schoute"
+      },
+      {
+        "from": [
+          "Williams",
+          "Willems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williams"
+      },
+      {
+        "from": [
+          "Fosuer",
+          "Fosuur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fosuer"
+      },
+      {
+        "from": [
+          "Helker",
+          "Hileker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Helker"
+      },
+      {
+        "from": [
+          "Haerlager",
+          "Horliger"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Haerlager"
+      },
+      {
+        "from": [
+          "Ecker",
+          "Ekker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ecker"
+      },
+      {
+        "from": [
+          "Wilse",
+          "Wilzee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilse"
+      },
+      {
+        "from": [
+          "Mebie",
+          "Mabee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mabee"
+      },
+      {
+        "from": [
+          "Hemmen",
+          "Hemmon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hemmen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kool",
+          "Koel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kool"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duyser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Schmidt",
+          "Smit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schmidt"
+      },
+      {
+        "from": [
+          "Aertse",
+          "Aarsche"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aertse"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Crancheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wever",
+          "Weiber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wever"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerrese"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cankling",
+          "Canklin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canklin"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tinchgelbagh",
+          "Tinegelbagh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tinchgelbagh"
+      },
+      {
+        "from": [
+          "Marteling",
+          "Martelen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marteling"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Tessel",
+          "Van Texel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davidsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "de Revier",
+          "Revier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "Martin",
+          "Martinghs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martin"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(Aert) Joons"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joons"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Waart",
+          "Van waart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waart"
+      },
+      {
+        "from": [
+          "de Revier",
+          "De Revier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "de Voe",
+          "De Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Voe"
+      },
+      {
+        "from": [
+          "de Puw",
+          "De Puw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Puw"
+      },
+      {
+        "from": [
+          "Van Wert",
+          "Van wert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Wert"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van waert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "de Ravier",
+          "Deravier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "de Lameter",
+          "Delameter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La Mater"
+      },
+      {
+        "from": [
+          "Devoe",
+          "de Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      },
+      {
+        "from": [
+          "de Revier",
+          "Derevier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hileker",
+          "Hielker",
+          "Hieleker",
+          "Hilker",
+          "Heilker",
+          "Hielleker",
+          "Hiliker",
+          "Hilleker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hileker"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Canckele",
+          "Cankele",
+          "Cankle",
+          "Canklen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Hiscock",
+          "Hiskoc",
+          "Hiskock",
+          "Hiscok",
+          "Hiskcock"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hiscock"
+      },
+      {
+        "from": [
+          "Willemse",
+          "Willems",
+          "Willimse",
+          "Williems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemse"
+      },
+      {
+        "from": [
+          "Aarssen",
+          "Aarsen",
+          "Aersen",
+          "Arsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aarssen"
+      },
+      {
+        "from": [
+          "Crankheyt",
+          "Cranckheyt",
+          "Kranckheyt",
+          "Krancheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Fosuer",
+          "Fouseur",
+          "Foseur",
+          "Fouseer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fosuer"
+      },
+      {
+        "from": [
+          "Willens",
+          "Willsen",
+          "Wilssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willsen"
+      },
+      {
+        "from": [
+          "de La Mater",
+          "Dalameter",
+          "de Lameeter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La Mater"
+      },
+      {
+        "from": [
+          "Roemer",
+          "Romer",
+          "Roomer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roemer"
+      },
+      {
+        "from": [
+          "Cancklie",
+          "Canckelie",
+          "Cankelie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Weilie",
+          "Wile",
+          "Wilie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wiley"
+      },
+      {
+        "from": [
+          "Teller",
+          "Teeler",
+          "Teler"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teller"
+      },
+      {
+        "from": [
+          "Beselie",
+          "Beeselie",
+          "Beeslie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beselie"
+      },
+      {
+        "from": [
+          "de Witt",
+          "de Widtt",
+          "de Wit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Witt"
+      },
+      {
+        "from": [
+          "Belyee",
+          "Beely",
+          "Belly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Aerse",
+          "Aarse",
+          "Arse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Wilse",
+          "Wilsie",
+          "Wielsie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilse"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Weert",
+          "Van Wert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Seifer",
+          "Seiffer",
+          "Siffer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seifer"
+      },
+      {
+        "from": [
+          "Cranckheit",
+          "Crankheit",
+          "Kranckheit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Odel",
+          "Oodel",
+          "Odle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Odel"
+      },
+      {
+        "from": [
+          "de Revier",
+          "de Rivier",
+          "Derievier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "Hussen",
+          "Heusen",
+          "Huussen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hussen"
+      },
+      {
+        "from": [
+          "Jons",
+          "Joons",
+          "Jonss"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jons"
+      },
+      {
+        "from": [
+          "Aertse",
+          "Artse",
+          "Aartse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aertse"
+      },
+      {
+        "from": [
+          "Helker",
+          "Heleker",
+          "Helleker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Helker"
+      },
+      {
+        "from": [
+          "Van Tessel",
+          "Van Tassel",
+          "Van Tesel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Gravenstien",
+          "Gravenstin",
+          "Gravestien"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gravenstien"
+      },
+      {
+        "from": [
+          "Syffer",
+          "Syfer",
+          "Seyfer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syffer"
+      },
+      {
+        "from": [
+          "Canckely",
+          "Cankely"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Jonasz Gerritse",
+          "Jonasz Gerritsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonasz Gerritse"
+      },
+      {
+        "from": [
+          "Van Noorstrant",
+          "Van Noortstrant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Noorstrant"
+      },
+      {
+        "from": [
+          "Ceyfer",
+          "Cyfer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ceyfer"
+      },
+      {
+        "from": [
+          "Sherewood",
+          "Sherwood"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sherewood"
+      },
+      {
+        "from": [
+          "Hetviel",
+          "Hitviel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hetviel"
+      },
+      {
+        "from": [
+          "Cocks",
+          "Coks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cocks"
+      },
+      {
+        "from": [
+          "Palden",
+          "Paelden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Palden"
+      },
+      {
+        "from": [
+          "Juwell",
+          "Juwel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juwell"
+      },
+      {
+        "from": [
+          "Mebie",
+          "Meebi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mabee"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duysert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Ablienes",
+          "Ablienis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ablienes"
+      },
+      {
+        "from": [
+          "Juel",
+          "Juell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juel"
+      },
+      {
+        "from": [
+          "Eemet",
+          "Eemett"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eemet"
+      },
+      {
+        "from": [
+          "Brit",
+          "Britt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brit"
+      },
+      {
+        "from": [
+          "Romen",
+          "Rommen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Romen"
+      },
+      {
+        "from": [
+          "Mathyse",
+          "Mathysse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mathyse"
+      },
+      {
+        "from": [
+          "Lafinnus",
+          "Lafinus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lafinnus"
+      },
+      {
+        "from": [
+          "Kankele",
+          "Kankle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Tenc Gelbach",
+          "Tenchelbag"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tenc Gelbach"
+      },
+      {
+        "from": [
+          "Canckly",
+          "Cankly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckly"
+      },
+      {
+        "from": [
+          "Jurckse",
+          "Jurckes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurckse"
+      },
+      {
+        "from": [
+          "Heuson",
+          "Heusson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heuson"
+      },
+      {
+        "from": [
+          "Stymets",
+          "Stymes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stymets"
+      },
+      {
+        "from": [
+          "Seybouts Crancheyt",
+          "Sybout Crancheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seybouts Krankheit"
+      },
+      {
+        "from": [
+          "Davets",
+          "Davetse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Ever",
+          "Evere"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ever"
+      },
+      {
+        "from": [
+          "Minne",
+          "Meinne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Minne"
+      },
+      {
+        "from": [
+          "Fausur",
+          "Fausuur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fausur"
+      },
+      {
+        "from": [
+          "Cranck",
+          "Crank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krank"
+      },
+      {
+        "from": [
+          "Huson",
+          "Husson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huson"
+      },
+      {
+        "from": [
+          "Bolye",
+          "Bolyee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bolye"
+      },
+      {
+        "from": [
+          "Geion",
+          "Geiong"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geion"
+      },
+      {
+        "from": [
+          "Lamberts",
+          "Lambertse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lamberts"
+      },
+      {
+        "from": [
+          "Boos",
+          "Bos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boos"
+      },
+      {
+        "from": [
+          "Revier",
+          "River"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "Okelie",
+          "Ookile"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Okelie"
+      },
+      {
+        "from": [
+          "Cennieff",
+          "Cenniff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cennieff"
+      },
+      {
+        "from": [
+          "Lourens",
+          "Lourense"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lourens"
+      },
+      {
+        "from": [
+          "Raquaw",
+          "Ruquaw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Van Thessel",
+          "Van Thesel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Van Wart",
+          "Van Waart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Wart"
+      },
+      {
+        "from": [
+          "Walderon",
+          "Waelderon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Walderon"
+      },
+      {
+        "from": [
+          "Miller",
+          "Meiller"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Canklingh",
+          "Cancklingh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Enderies",
+          "Endries"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Enderies"
+      },
+      {
+        "from": [
+          "Davidsen",
+          "Davidssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davidsen"
+      },
+      {
+        "from": [
+          "Requa",
+          "Requaa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Gardenier",
+          "Gerdanier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gardenier"
+      },
+      {
+        "from": [
+          "Daniels",
+          "Danniels"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniels"
+      },
+      {
+        "from": [
+          "Sadoor",
+          "Saddoor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sadoor"
+      },
+      {
+        "from": [
+          "Canklin",
+          "Cancklin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canklin"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerritese"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      },
+      {
+        "from": [
+          "Mular",
+          "Mullar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Kenniff",
+          "Kennieff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kenniff"
+      },
+      {
+        "from": [
+          "Williums",
+          "Willums"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williums"
+      },
+      {
+        "from": [
+          "de Puw",
+          "de Peuw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Puw"
+      },
+      {
+        "from": [
+          "Storm",
+          "Stoorm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Storm"
+      },
+      {
+        "from": [
+          "McChane",
+          "Mechane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "McChane"
+      },
+      {
+        "from": [
+          "Davidse",
+          "Davidsse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davidse"
+      },
+      {
+        "from": [
+          "Feusuer",
+          "Fusuer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Feusuer"
+      },
+      {
+        "from": [
+          "Donny",
+          "Doony"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Donny"
+      },
+      {
+        "from": [
+          "Van Noortstrand",
+          "Van Ostrand"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Noortstrand"
+      },
+      {
+        "from": [
+          "Hof",
+          "Hoff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hof"
+      },
+      {
+        "from": [
+          "Bancken",
+          "Bancke"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bancken"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wiley",
+          "Wylie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wiley"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aarssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Willemse",
+          "Williams",
+          "Willims",
+          "Williums",
+          "Willemze",
+          "Williamse",
+          "Wilyums",
+          "Wyllims"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williams"
+      },
+      {
+        "from": [
+          "Okelie",
+          "Ookele",
+          "Ookle",
+          "Oackelie",
+          "Oakle",
+          "Oakley",
+          "Ockelie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oakley"
+      },
+      {
+        "from": [
+          "Hussen",
+          "Heuson",
+          "Huson",
+          "Hissen",
+          "Hiussen",
+          "Hughson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hughson"
+      },
+      {
+        "from": [
+          "Boeckhout",
+          "Bockhout",
+          "Boekhout",
+          "Boechout",
+          "Boeckhoud",
+          "Boekhouwt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boeckhout"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davits",
+          "Davidse",
+          "Davidze",
+          "Davitse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Bruyn",
+          "Bruin",
+          "Brown",
+          "Bernie",
+          "Broun"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brown"
+      },
+      {
+        "from": [
+          "Fosuer",
+          "Fosuur",
+          "Fausur",
+          "Feusuer",
+          "Fusuur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fosuer"
+      },
+      {
+        "from": [
+          "Wilzee",
+          "Wilse",
+          "Welze",
+          "Woelse",
+          "Wylse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilse"
+      },
+      {
+        "from": [
+          "Kuyper",
+          "Cuiper",
+          "Cuyper",
+          "Cupper",
+          "Kuiper"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cuyper"
+      },
+      {
+        "from": [
+          "Martlinghs",
+          "Martlings",
+          "Martelinghs",
+          "Martelings",
+          "Mertlings"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martlings"
+      },
+      {
+        "from": [
+          "Bailey",
+          "Bolye",
+          "Baelly",
+          "Bilyee",
+          "Bolie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Bandt",
+          "Band",
+          "Bant",
+          "Bante"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bandt"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Canclie",
+          "Canckly",
+          "Cancly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Syffer",
+          "Seifer",
+          "Ceyfer",
+          "Zyfer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syffer"
+      },
+      {
+        "from": [
+          "de Puw",
+          "de Peu",
+          "de Piu",
+          "de Piuw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Puw"
+      },
+      {
+        "from": [
+          "Beselie",
+          "Beesly",
+          "Beasely",
+          "Besele"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beasely"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duitser",
+          "Dutser",
+          "Duytzer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Wart",
+          "Van Weerdt",
+          "Van Weerd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Krankheyt",
+          "Cranckhet",
+          "Kranckhyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Gerritsen",
+          "Gerretson",
+          "Gerridsen",
+          "Gerritson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritsen"
+      },
+      {
+        "from": [
+          "Ecker",
+          "Ekker",
+          "Aeckerr",
+          "Ocker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ecker"
+      },
+      {
+        "from": [
+          "Buys",
+          "Bueis",
+          "Boos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Buys"
+      },
+      {
+        "from": [
+          "Chorssen",
+          "Corsen",
+          "Korsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corsen"
+      },
+      {
+        "from": [
+          "Rasel",
+          "Resel",
+          "Rissel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rasel"
+      },
+      {
+        "from": [
+          "Rutan",
+          "Retan",
+          "Ratan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rutan"
+      },
+      {
+        "from": [
+          "Dykman",
+          "Dyckman",
+          "Deyckman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dyckman"
+      },
+      {
+        "from": [
+          "Tys",
+          "Tice",
+          "Tyse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tice"
+      },
+      {
+        "from": [
+          "Brouwer",
+          "Brouer",
+          "Brower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brouwer"
+      },
+      {
+        "from": [
+          "Jurckse",
+          "Jurkse",
+          "Jurcse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurkse"
+      },
+      {
+        "from": [
+          "Miller",
+          "Meller",
+          "Melar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Sherewood",
+          "Sharewood",
+          "Sherret"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sherwood"
+      },
+      {
+        "from": [
+          "Springsteen",
+          "Sprencksteen",
+          "Sprincksteen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Springsteen"
+      },
+      {
+        "from": [
+          "Van Dyck",
+          "Van Deyck",
+          "Van Dyk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Dyck"
+      },
+      {
+        "from": [
+          "Smedt",
+          "Smet",
+          "Smidt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schmidt"
+      },
+      {
+        "from": [
+          "Marteling",
+          "Martelingh",
+          "Martlingh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marteling"
+      },
+      {
+        "from": [
+          "Hileker",
+          "Helker",
+          "Hylker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Helker"
+      },
+      {
+        "from": [
+          "Becaren",
+          "Becoren",
+          "Bycaren"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Becaren"
+      },
+      {
+        "from": [
+          "Hiscock",
+          "Hiescock",
+          "Hyescok"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hiscock"
+      },
+      {
+        "from": [
+          "Monsen",
+          "Mansen",
+          "Monson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Monsen"
+      },
+      {
+        "from": [
+          "Mabee",
+          "Mabie",
+          "Mebee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mabee"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerretse",
+          "Gerritze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      },
+      {
+        "from": [
+          "Treffus",
+          "Treyfus",
+          "Triffus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Treffus"
+      },
+      {
+        "from": [
+          "Gerrese",
+          "Gerrise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrese"
+      },
+      {
+        "from": [
+          "Sadoor",
+          "Cedoer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sadoor"
+      },
+      {
+        "from": [
+          "Theys",
+          "Theisse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tice"
+      },
+      {
+        "from": [
+          "Waldron",
+          "Walderon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waldron"
+      },
+      {
+        "from": [
+          "Requaw",
+          "Raqua"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Van Texel",
+          "Van Thexel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Texel"
+      },
+      {
+        "from": [
+          "Syn",
+          "Zyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syn"
+      },
+      {
+        "from": [
+          "Gravenstien",
+          "Gravenstyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gravenstien"
+      },
+      {
+        "from": [
+          "De Voe",
+          "de Vouw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      },
+      {
+        "from": [
+          "Meecks",
+          "Meegs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Meecks"
+      },
+      {
+        "from": [
+          "Storm",
+          "Stoerm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Storm"
+      },
+      {
+        "from": [
+          "Lafinnus",
+          "Lafynus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lafinnus"
+      },
+      {
+        "from": [
+          "Van Lent",
+          "Van Lendt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Lent"
+      },
+      {
+        "from": [
+          "Ackerman",
+          "Akkerman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ackerman"
+      },
+      {
+        "from": [
+          "Stoutenburgh",
+          "Stoutenburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stoutenburgh"
+      },
+      {
+        "from": [
+          "de La Mater",
+          "Delemeter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La Mater"
+      },
+      {
+        "from": [
+          "Delenooy",
+          "de Lanoy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de La noy"
+      },
+      {
+        "from": [
+          "Archer",
+          "Erscher"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Archer"
+      },
+      {
+        "from": [
+          "Mertin",
+          "Marttyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martin"
+      },
+      {
+        "from": [
+          "Heck",
+          "Hek"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heck"
+      },
+      {
+        "from": [
+          "Hoszy",
+          "Hous"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hous"
+      },
+      {
+        "from": [
+          "Heyedt",
+          "Heyet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heyedt"
+      },
+      {
+        "from": [
+          "Denel",
+          "Dennil"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniel"
+      },
+      {
+        "from": [
+          "Soms",
+          "Zooms"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Soms"
+      },
+      {
+        "from": [
+          "Ablienes",
+          "Ablinis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ablienes"
+      },
+      {
+        "from": [
+          "Davidsen",
+          "Davidzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davidsen"
+      },
+      {
+        "from": [
+          "Juel",
+          "Juwell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juel"
+      },
+      {
+        "from": [
+          "Crancheyt",
+          "Crencheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Cennieff",
+          "Cenneff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cennieff"
+      },
+      {
+        "from": [
+          "Palden",
+          "Paldon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Paldon"
+      },
+      {
+        "from": [
+          "Dobs",
+          "Dopse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dobs"
+      },
+      {
+        "from": [
+          "Geion",
+          "Guion"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geion"
+      },
+      {
+        "from": [
+          "Quorey",
+          "Quori"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Quorey"
+      },
+      {
+        "from": [
+          "Tanken",
+          "Tankenye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tanken"
+      },
+      {
+        "from": [
+          "Gersen",
+          "Geryason"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gersen"
+      },
+      {
+        "from": [
+          "Herrikze Krankheyt",
+          "Herrickse Krankhz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Herrikze Krankheit"
+      },
+      {
+        "from": [
+          "Shamponwa",
+          "Shampenwa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Shamponwa"
+      },
+      {
+        "from": [
+          "Daniels",
+          "Dannals"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniels"
+      },
+      {
+        "from": [
+          "Eemet",
+          "Emmitte"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emmitte"
+      },
+      {
+        "from": [
+          "Sybout Krankhz",
+          "Sybouwt Krankhz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sybout Krankheit"
+      },
+      {
+        "from": [
+          "Duyser",
+          "Duiser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duyser"
+      },
+      {
+        "from": [
+          "Banker",
+          "Bancker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Banker"
+      },
+      {
+        "from": [
+          "Castan",
+          "Caston"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Castan"
+      },
+      {
+        "from": [
+          "Beljee",
+          "Boulje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beljee"
+      },
+      {
+        "from": [
+          "Tanckerit",
+          "Tenckerit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tanckerit"
+      },
+      {
+        "from": [
+          "Willsen",
+          "Willzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willsen"
+      },
+      {
+        "from": [
+          "Jorden",
+          "Jordyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jorden"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Lourens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      },
+      {
+        "from": [
+          "Hemmen",
+          "Hemmon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hemmen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kool",
+          "Cool",
+          "Koel",
+          "Coel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kool"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duyser",
+          "Duyscher"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Waldron",
+          "Walderom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waldron"
+      },
+      {
+        "from": [
+          "Bailey",
+          "Beljee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Buys",
+          "Buis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Buys"
+      },
+      {
+        "from": [
+          "Teller",
+          "Theller"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teller"
+      },
+      {
+        "from": [
+          "Jorden",
+          "Jordim"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jorden"
+      },
+      {
+        "from": [
+          "Williams",
+          "Wiljums"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williams"
+      },
+      {
+        "from": [
+          "Whitebarck",
+          "Withbarck"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Whitebark"
+      },
+      {
+        "from": [
+          "Mathyse",
+          "Mattus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mathyse"
+      },
+      {
+        "from": [
+          "Heyert",
+          "Heyjert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heyert"
+      },
+      {
+        "from": [
+          "Van Noorstrant",
+          "Van Noortstrand"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Noorstrant"
+      },
+      {
+        "from": [
+          "Storm",
+          "Sturne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Storm"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aertzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Reyerse",
+          "Reyjerse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reyerse"
+      },
+      {
+        "from": [
+          "Lambers",
+          "Lamberts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lamberts"
+      },
+      {
+        "from": [
+          "Shamponwa",
+          "Sampenwa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Shamponwa"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hendrickze",
+          "Hendrikse Lent"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickze"
+      },
+      {
+        "from": [
+          "Tenc Gelbach",
+          "Tinchgelbagh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tinchgelbagh"
+      },
+      {
+        "from": [
+          "Martlings",
+          "Marteling"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martlings"
+      },
+      {
+        "from": [
+          "Pue",
+          "Pou"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pue"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aetsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Gerritsen",
+          "Gertsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritsen"
+      },
+      {
+        "from": [
+          "Hiscock",
+          "Hitchcock"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hitchcock"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fosie",
+          "Foshe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duythser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Fousy",
+          "Fousie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Fausee",
+          "Fousee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dean",
+          "Dien"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dean"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Daniels",
+          "Daniel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniels"
+      },
+      {
+        "from": [
+          "Winter",
+          "Winters"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Winters"
+      },
+      {
+        "from": [
+          "Reyerse",
+          "Reyersen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reyerse"
+      },
+      {
+        "from": [
+          "Canklin",
+          "Cankling"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canklin"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerritsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Tessel",
+          "Van Texel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davidsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Bancken",
+          "Banckert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bancken"
+      },
+      {
+        "from": [
+          "Van Wormer",
+          "Van Worman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Wormer"
+      },
+      {
+        "from": [
+          "Seybouts Krankheit",
+          "Sybout Krankheit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seybouts Krankheit"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Dankheit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Herrikze Krankheit",
+          "Herrickzen Krankeyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Herrikze Krankheit"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(obyt)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "De Voe",
+          "de Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Tessel",
+          "Van Tassel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Roemer",
+          "Romer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roemer"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Cancklen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Britt",
+          "Brit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Britt"
+      },
+      {
+        "from": [
+          "Aersen",
+          "Aarsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aersen"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Weert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Hof",
+          "Hoff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hoff"
+      },
+      {
+        "from": [
+          "Viensen",
+          "Vinsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Vinsen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fousy",
+          "Fosie",
+          "Fauce",
+          "Focie",
+          "Vosie",
+          "Vousie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Crankheyt",
+          "Krankheyt",
+          "Kranckeyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Canckelie",
+          "Canckly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Cocks",
+          "Cox",
+          "Coxs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cox"
+      },
+      {
+        "from": [
+          "Van Waert",
+          "Van Weerdt",
+          "Van Waart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Waert"
+      },
+      {
+        "from": [
+          "Boeckhout",
+          "Boekhout",
+          "Buckhout"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boeckhout"
+      },
+      {
+        "from": [
+          "Bailey",
+          "Beely",
+          "Bolye"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Walderoom",
+          "Waldrom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waldron"
+      },
+      {
+        "from": [
+          "Requaw",
+          "Requa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Requaw"
+      },
+      {
+        "from": [
+          "Sniffen",
+          "Sniffin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sniffen"
+      },
+      {
+        "from": [
+          "Sie",
+          "Sy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sie"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davidse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "Syffer",
+          "Siffer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syffer"
+      },
+      {
+        "from": [
+          "de Vouw",
+          "De Voe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De Voe"
+      },
+      {
+        "from": [
+          "Dyckman",
+          "Dykman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dyckman"
+      },
+      {
+        "from": [
+          "Jurkse",
+          "Jurckse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurkse"
+      },
+      {
+        "from": [
+          "Ackerman",
+          "Akkerman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ackerman"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duitser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Schoute",
+          "Shoot"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schoute"
+      },
+      {
+        "from": [
+          "Williams",
+          "Willems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Williams"
+      },
+      {
+        "from": [
+          "Fosuer",
+          "Fosuur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fosuer"
+      },
+      {
+        "from": [
+          "Helker",
+          "Hileker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Helker"
+      },
+      {
+        "from": [
+          "Haerlager",
+          "Horliger"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Haerlager"
+      },
+      {
+        "from": [
+          "Ecker",
+          "Ekker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ecker"
+      },
+      {
+        "from": [
+          "Wilse",
+          "Wilzee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilse"
+      },
+      {
+        "from": [
+          "Mebie",
+          "Mabee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mabee"
+      },
+      {
+        "from": [
+          "Hemmen",
+          "Hemmon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hemmen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kool",
+          "Koel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kool"
+      },
+      {
+        "from": [
+          "Duytser",
+          "Duyser"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Duytser"
+      },
+      {
+        "from": [
+          "Schmidt",
+          "Smit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schmidt"
+      },
+      {
+        "from": [
+          "Aertse",
+          "Aarsche"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aertse"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Crancheyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wever",
+          "Weiber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wever"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerrese"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cankling",
+          "Canklin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canklin"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tinchgelbagh",
+          "Tinegelbagh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tinchgelbagh"
+      },
+      {
+        "from": [
+          "Marteling",
+          "Martelen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marteling"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Tessel",
+          "Van Texel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davidsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "de Revier",
+          "Revier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Revier"
+      },
+      {
+        "from": [
+          "Martin",
+          "Martinghs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martin"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Vermeileie",
+          "Vermielie",
+          "Vermillie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Vermillie"
+      },
+      {
+        "from": [
+          "Muler",
+          "Muller"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Escot",
+          "Escott"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Escott"
+      },
+      {
+        "from": [
+          "Canckle",
+          "Cancklee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canckle"
+      },
+      {
+        "from": [
+          "Kenniff",
+          "Kennif"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kenniff"
+      },
+      {
+        "from": [
+          "Gal",
+          "Gall"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gal"
+      },
+      {
+        "from": [
+          "de Witt",
+          "de Widt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Witt"
+      },
+      {
+        "from": [
+          "Storm",
+          "Storms"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Storm"
+      },
+      {
+        "from": [
+          "Ecker",
+          "Eckker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ecker"
+      },
+      {
+        "from": [
+          "Theysse",
+          "Thyse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tice"
+      },
+      {
+        "from": [
+          "Corsen",
+          "Corssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corsen"
+      },
+      {
+        "from": [
+          "Hemmen",
+          "Hemen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hemmen"
+      },
+      {
+        "from": [
+          "Cennieff",
+          "Cennif"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kenniff"
+      },
+      {
+        "from": [
+          "Hermanze",
+          "Hermanzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hermanze"
+      },
+      {
+        "from": [
+          "Reyerse",
+          "Reyyerse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reyerse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Tessel",
+          "Van Tassal",
+          "Van Theseel",
+          "Van Thissel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Tessel"
+      },
+      {
+        "from": [
+          "Aertse",
+          "Aertze",
+          "Ardse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aertse"
+      },
+      {
+        "from": [
+          "Beasely",
+          "Baselie",
+          "Beesely"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Beasely"
+      },
+      {
+        "from": [
+          "Fousy",
+          "Fouse",
+          "Fause"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Krankhz",
+          "Crankhz",
+          "Krankyz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Bailey",
+          "Beelie",
+          "Beuly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bailey"
+      },
+      {
+        "from": [
+          "Buys",
+          "Buies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Buys"
+      },
+      {
+        "from": [
+          "Namburgh",
+          "Namburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Namburgh"
+      },
+      {
+        "from": [
+          "Reyerse",
+          "Reyerze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reyerse"
+      },
+      {
+        "from": [
+          "Aerze",
+          "Arsse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aertse"
+      },
+      {
+        "from": [
+          "Ro",
+          "Rouw"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rouw"
+      },
+      {
+        "from": [
+          "Davids",
+          "Davidts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Davids"
+      },
+      {
+        "from": [
+          "de Puw",
+          "Depew"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Pue"
+      },
+      {
+        "from": [
+          "Dyckman",
+          "Dickman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dyckman"
+      },
+      {
+        "from": [
+          "Joachimze",
+          "Joachimse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joachimze"
+      },
+      {
+        "from": [
+          "Heyert",
+          "Heyart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heyert"
+      },
+      {
+        "from": [
+          "Brown",
+          "Bruein"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brown"
+      },
+      {
+        "from": [
+          "Canklin",
+          "Cankelin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Canklin"
+      },
+      {
+        "from": [
+          "Jurkse",
+          "Jurkze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurkse"
+      },
+      {
+        "from": [
+          "Miller",
+          "Mellar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Miller"
+      },
+      {
+        "from": [
+          "Hughson",
+          "Huissen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hughson"
+      },
+      {
+        "from": [
+          "Besaph",
+          "Bissoph"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bishop"
+      },
+      {
+        "from": [
+          "Teller",
+          "Tellaer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teller"
+      },
+      {
+        "from": [
+          "Manghem",
+          "Menghem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Manghem"
+      },
+      {
+        "from": [
+          "Coecks",
+          "Cox"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cox"
+      },
+      {
+        "from": [
+          "Martyn",
+          "Martin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martin"
+      },
+      {
+        "from": [
+          "Heck",
+          "Hick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heck"
+      },
+      {
+        "from": [
+          "Hous",
+          "Huys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hous"
+      },
+      {
+        "from": [
+          "Lent",
+          "Lendt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lent"
+      },
+      {
+        "from": [
+          "Van Dyck",
+          "Van Dick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Dyck"
+      },
+      {
+        "from": [
+          "Hogencamp",
+          "Hogenkamp"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hogencamp"
+      },
+      {
+        "from": [
+          "Krankheit",
+          "Krankeyt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Sampowa",
+          "Sampoa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sampowa"
+      },
+      {
+        "from": [
+          "Chrancheyt",
+          "Cranchydt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Krankheit"
+      },
+      {
+        "from": [
+          "Vermilye",
+          "Vermillie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Vermillie"
+      },
+      {
+        "from": [
+          "Abramze",
+          "Abramsze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abramze"
+      },
+      {
+        "from": [
+          "Tencgelback",
+          "Tinkelbach"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tinkelbach"
+      },
+      {
+        "from": [
+          "Oakley",
+          "Oockelie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oakley"
+      },
+      {
+        "from": [
+          "Ecker",
+          "Ykkr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ecker"
+      },
+      {
+        "from": [
+          "Philipse",
+          "Phillips"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philipse"
+      },
+      {
+        "from": [
+          "Wilze",
+          "Wilse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilse"
+      },
+      {
+        "from": [
+          "Cuyper",
+          "Cuipper"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cuyper"
+      },
+      {
+        "from": [
+          "Sibout",
+          "Sybout"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sybout"
+      },
+      {
+        "from": [
+          "Meyer",
+          "Meirr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Meyer"
+      },
+      {
+        "from": [
+          "Danels",
+          "Dannils"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daniels"
+      },
+      {
+        "from": [
+          "Martlings",
+          "Maertlinghs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martlings"
+      },
+      {
+        "from": [
+          "Herrickze",
+          "Herrikze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Herrickze"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bastjaensse",
+          "Bastyaenze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bastiaense"
+      },
+      {
+        "from": [
+          "Vermillie",
+          "Vermilje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Vermillie"
+      },
+      {
+        "from": [
+          "Tice",
+          "Theis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tice"
+      },
+      {
+        "from": [
+          "Fousy",
+          "Foshie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fousy"
+      },
+      {
+        "from": [
+          "Thincgelback",
+          "Tincgelbagh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tincgelbagh"
+      },
+      {
+        "from": [
+          "Hermanse",
+          "Hermanze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hermanse"
+      },
+      {
+        "from": [
+          "Martin",
+          "Martheyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Martin"
+      },
+      {
+        "from": [
+          "Laurense",
+          "Lerens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lourens"
+      },
+      {
+        "from": [
+          "Abramze",
+          "Abrahams"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abramze"
+      },
+      {
+        "from": [
+          "Van Noorstrand",
+          "Van Nortstrant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Noorstrand"
+      },
+      {
+        "from": [
+          "Gellewee",
+          "Gellewie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gellewee"
+      },
+      {
+        "from": [
+          "Lavorsse",
+          "Louwerse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louwerse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Abramze",
+          "Abramzen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abramze"
+      },
+      {
+        "from": [
+          "Banker",
+          "Bankert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Banker"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sybout",
+          "Syboutze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sybout"
+      },
+      {
+        "from": [
+          "Enders",
+          "Enderson"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Enders"
+      },
+      {
+        "from": [
+          "Wouterssen",
+          "Wouterze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wouterze"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hendrickssen",
+          "Hendricx"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickssen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 2"
+  }
+]
