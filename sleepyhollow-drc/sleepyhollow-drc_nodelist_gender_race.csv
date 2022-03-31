@@ -1,0 +1,1802 @@
+id,name,gender,race
+0,Jan Heyert,male,white
+1,Maria Heyert,female,white
+2,Jan Laurens,male,white
+3,Maritie Laurens,female,white
+4,Casper Springsteen,male,white
+5,Maria Springsteen,female,white
+6,Hendrick Abramse Van Lent,male,white
+7,Catharina Abramse Van Lent,female,white
+8,Francoys Giljon,unknown,white
+9,Resula Giljon,unknown,white
+10,Mattheus Davids,male,white
+11,Debora Davids,female,white
+12,Kellem Quorey,unknown,white
+13,Janitie Quory,unknown,white
+14,Gerrit Van Waert,male,white
+15,Cathalyna Van Waert,unknown,white
+16,Jan Herrikze Krankheit,male,white
+17,Geertie Herrikze Krankheit,unknown,white
+18,Cornelius Van Tessel,male,white
+19,Annatie Van Tessel,female,white
+20,Albert Gardenier,male,white
+21,Maritie Gardenier,female,white
+22,Abraham Sybout,male,white
+23,Annatie Sybout,female,white
+24,Jan Fousy,male,white
+25,Eva Fousy,female,white
+26,William de Pue,male,white
+27,Betty de Pue,female,white
+28,Robert Williams,male,white
+29,Geesje Williams,female,white
+30,David Storm,male,white
+31,Esther Storm,female,white
+32,Wolfert Ecker,unknown,white
+33,Maritie Ecker,female,white
+34,William Hendrickze,male,white
+35,Magdalena Hendrickze,female,white
+36,Nathan Bailey,male,white
+37,Esther Kenniff,female,white
+38,Peter Storm,male,white
+39,Gerrit Storm,male,white
+40,Jacob Van Tessel,male,white
+41,Aeltie Van Tessel,unknown,white
+42,Sammel Brouwer,unknown,white
+43,Geertie Brouwer,unknown,white
+44,Abraham Wybrant,male,white
+45,Geertie Wybrant,unknown,white
+46,Thomas Heyert,male,white
+47,Elizabeth Heyert,female,white
+48,Barent de Witt,male,white
+49,Sara de Witt,female,white
+50,Elizabeth de Pue,female,white
+51,Jacobus Sie,male,white
+52,Catharina Sie,female,white
+53,Hendrick Storm,male,white
+54,Niesse Storm,unknown,white
+55,Deleverens Canckle,unknown,white
+56,Engeltie Canckle,female,white
+57,Gregorius Storm,unknown,white
+58,Engeltie Storm,female,white
+59,Andries Van Dyck,male,white
+60,Geesje Van Dyck,female,white
+61,Lourens Mathyse,male,white
+62,Janitie Mathyse,unknown,white
+63,Herrick Van Lent,unknown,white
+64,Cornelia Van Lent,female,white
+65,Peter Sie,male,white
+66,Petronella Sie,female,white
+67,Barent Duytser,male,white
+68,Maria Duytser,female,white
+69,Maria Laurens,female,white
+70,William Van Tessel,male,white
+71,Wyntie Krankheit,unknown,white
+72,Jan Emmitte,male,white
+73,Engeltie Emmitte,female,white
+74,Samuel Canckle,male,white
+75,Annatie Canckle,female,white
+76,Jeronimus Van Beyeren,male,white
+77,Johanna Van Beyeren,female,white
+78,Johannes Schuerman,male,white
+79,Johanna Schuerman,female,white
+80,Abel Schmidt,male,white
+81,Tryntje Schmidt,female,white
+82,Jan Claessen,male,white
+83,Tryntje Claessen,female,white
+84,Abraham Hendrickze,male,white
+85,Maria Hendrickze,female,white
+86,Rachel Heyert,female,white
+87,Isaac Sie,male,white
+88,Annatie Sie,female,white
+89,Albert Minnelay,male,white
+90,Meenske Minnelay,unknown,white
+91,David Davids,male,white
+92,Janitie Davids,unknown,white
+93,Jan Fosuer,male,white
+94,Eva Fosuer,female,white
+95,Frans Giljon,male,white
+96,Janitie Giljon,unknown,white
+97,Jan Van Tessel,male,white
+98,Catharina Van Tessel,female,white
+99,Harman Montras,male,white
+100,Geertie Montras,unknown,white
+101,Jacob Van Waert,male,white
+102,Beletie Van Waert,unknown,white
+103,Hendrick Lamberts,male,white
+104,Dirckje Lamberts,unknown,white
+105,Lodewick Ackerman,unknown,white
+106,Hillegond Bosch,unknown,white
+107,Jan Buys,male,white
+108,Elizabeth Buys,female,white
+109,Jan Krankheit,male,white
+110,Geertie Krankheit,unknown,white
+111,Ryck Van Lent,male,white
+112,Elizabeth Van Lent,female,white
+113,Harman Meyer,male,white
+114,Lena Meyer,female,white
+115,Jan Canckle,male,white
+116,Lydia Canckle,female,white
+117,Jacob Claerwater,male,white
+118,Maritie Claerwater,female,white
+119,Louis Bailey,male,white
+120,Anna Bailey,female,white
+121,Jan Dobs,male,white
+122,Elizabeth Dobs,female,white
+123,Jan Louwrense,male,white
+124,Maria Louwrense,female,white
+125,Jeurian Springsteen,unknown,white
+126,Catharina Springsteen,female,white
+127,Peter Fousy,male,white
+128,Abigail de Pue,female,white
+129,Abedy Winters,unknown,white
+130,Susanna Winters,female,white
+131,Gidion Castan,unknown,white
+132,Tryntje Cokever,female,white
+133,Jan Ecker,male,white
+134,Magdalena Ecker,female,white
+135,Thomas Hughson,male,white
+136,Maria Hughson,female,white
+137,Isaac Van Dyck,male,white
+138,Barbera Van Dyck,female,white
+139,Joseph Canckle,male,white
+140,Rebecca Canckle,female,white
+141,Engel Hoff,female,white
+142,Maria Hoff,female,white
+143,Abraham de Revier,male,white
+144,Niesse Mathyse,unknown,white
+145,Abraham Van Hamborgh,male,white
+146,Maria Van Hamborgh,female,white
+147,Simon Schoute,male,white
+148,Eypjen Schoute,unknown,white
+149,Abraham Van Lent,male,white
+150,Maria Van Lent,female,white
+151,Maritie Van Lent,female,white
+152,Cornelius Michgielze,male,white
+153,Elizabeth Michgielze,female,white
+154,Hendrick Krankheit,male,white
+155,Annatie Krankheit,female,white
+156,Johannes Buys,male,white
+157,Maritie Buys,female,white
+158,Jan Man,male,white
+159,Elizabeth Man,female,white
+160,Jeurie Springsteen,unknown,white
+161,James Wieller,male,white
+162,Elizabeth Wieller,female,white
+163,Charles Davids,male,white
+164,Annatie Davids,female,white
+165,Jacob Wilse,male,white
+166,Abigail Wilse,female,white
+167,Paulus Rutan,male,white
+168,Engeltie Davids,female,white
+169,Abigail Dobs,female,white
+170,Jan Beasely,male,white
+171,Annatie Beasely,female,white
+172,Abraham Namburgh,male,white
+173,Anna Nambring,female,white
+174,Catharina Van Waert,female,white
+175,Maritie Krankheit,female,white
+176,Maritie Louwrense,female,white
+177,Edward Meecks,male,white
+178,Maritie Meecks,female,white
+179,Michael Reyerse,male,white
+180,Mazre Reyerse,unknown,white
+181,Simon Wieller,male,white
+182,Peter Buys,male,white
+183,Geertie Buys,unknown,white
+184,Thomas Buys,male,white
+185,Sara Buys,female,white
+186,Sybout Krankheit,unknown,white
+187,Jezyntie Gardenier,unknown,white
+188,Jacob Gardenier,male,white
+189,Sara Gardenier,female,white
+190,Lourens Bancken,male,white
+191,Niesse Bancken,unknown,white
+192,Abraham Lent,male,white
+193,Maritie Lent,female,white
+194,Peter Hetviel,male,white
+195,Elizabeth Hetviel,female,white
+196,Herreck Krankheit,unknown,white
+197,Helena Van Waert,female,white
+198,Maria Meecks,female,white
+199,Johannes Fonteyn,male,white
+200,Catharina Fonteyn,female,white
+201,Frans Beasely,male,white
+202,Hilletie Beasely,unknown,white
+203,Engeltie Van Dyck,female,white
+204,Joseph Torttel,male,white
+205,Elizabeth Tortel,female,white
+206,Annatie Namburgh,female,white
+207,Jacobus Hous,male,white
+208,Maritie Hous,female,white
+209,Abraham Van Dyck,male,white
+210,Elizabeth Van Dyck,female,white
+211,Joseph Jons,male,white
+212,Catharina Jons,female,white
+213,Herrick Lent,unknown,white
+214,Cornelia Lent,female,white
+215,Johannes La Meyer,male,white
+216,Elizabeth La Meyer,female,white
+217,Helena Meyer,female,white
+218,Maria Lent,female,white
+219,Peter Fosuer,male,white
+220,Lodewick Post,unknown,white
+221,Rensje Minne,female,white
+222,Herrick Seybouts Krankheit,unknown,white
+223,Feytie Seybouts Krankheit,unknown,white
+224,Jan Boeckhout,male,white
+225,Maria Boeckhout,female,white
+226,Joris Juel,male,white
+227,Mattie Juel,female,white
+228,Nicholas de Pue,male,white
+229,Barbera de Pue,female,white
+230,Wyntie Van Tessel,unknown,white
+231,Jonas Geritsen,male,white
+232,Cornelia Geritsen,female,white
+233,Nicholas De Voe,male,white
+234,Catharina Ekkers,female,white
+235,Janitie Springsteen,unknown,white
+236,Reynske Minne,unknown,white
+237,Evert Aertsen,male,white
+238,Wyntie De Voe,unknown,white
+239,Janitie Krankheit,unknown,white
+240,Thomas Storm,male,white
+241,Christina Van Waert,female,white
+242,Harman Jurckzen,male,white
+243,Maritie Jurckzen,female,white
+244,Rithzart Gersen,unknown,white
+245,Elizabeth Gersen,female,white
+246,Giljon Franswa,unknown,white
+247,Sara Ackerman,female,white
+248,Hendrick Bancken,male,white
+249,Maritie De Voe,female,white
+250,William Teller,male,white
+251,Maritie Teller,female,white
+252,Jan Lent,male,white
+253,Johannes Brouwer,male,white
+254,Maritie Brouwer,female,white
+255,Hilletie Krankheit,unknown,white
+256,Feytie Krankheit,unknown,white
+257,Johannes Van Tessel,male,white
+258,Josiah Jons,male,white
+259,Hendrick Lent,male,white
+260,Sara Bailey,female,white
+261,Engeltie Boeckhout,female,white
+262,Joseph Hitchcock,male,white
+263,Margriet Hitchcock,female,white
+264,Jan Schmidt,male,white
+265,Dyna Schmidt,unknown,white
+266,Harman Jurkse,male,white
+267,Maritie Jurkse,female,white
+268,Zarel Davids,unknown,white
+269,Emmetie Juel,unknown,white
+270,Christina Hughson,female,white
+271,Abraham Martlings,male,white
+272,Rachel De Voe,female,white
+273,Jezyntie Krankheit,unknown,white
+274,Dirckje Schmidt,unknown,white
+275,Hendrick Brouwer,male,white
+276,Janitie Brouwer,unknown,white
+277,Aert Aertse,male,white
+278,Maria Aertse,female,white
+279,Elias Canckle,male,white
+280,Christina Ecker,female,white
+281,Rachel Martlings,female,white
+282,Hendrick Montras,male,white
+283,Elizabeth Montras,female,white
+284,Samuel Springsteen,male,white
+285,Jacob Krankheit,male,white
+286,Helena Krankheit,female,white
+287,Claes Cuyper,male,white
+288,Maritie Cuyper,female,white
+289,Mattheus Brouwer,male,white
+290,Elizabeth Fosuer,female,white
+291,David Ackman,male,white
+292,Maritie Ackman,female,white
+293,Claes Storm,male,white
+294,Rachel Canckle,female,white
+295,Peter Williams,male,white
+296,Geertie Williams,unknown,white
+297,Jan Bailey,male,white
+298,Helena Bailey,female,white
+299,Derck Storm,unknown,white
+300,Baranicke Storm,unknown,white
+301,William Hemmen,male,white
+302,Mattheus Canckle,male,white
+303,Sophia Canckle,female,white
+304,Peter Fuzurs,male,white
+305,Abigail Fuzurs,female,white
+306,Frans Van Dyck,male,white
+307,Resula Van Dyck,unknown,white
+308,Sybout Ecker,unknown,white
+309,Aeltie Ecker,unknown,white
+310,Jan Ever,male,white
+311,Maria Ever,female,white
+312,Jeremias Kenniff,male,white
+313,Annatie de Revier,female,white
+314,Harman Gardenier,male,white
+315,Maritie Storm,female,white
+316,Derck Crom,unknown,white
+317,Catharina Crom,female,white
+318,Nicholas Helker,male,white
+319,Elizabeth Helker,female,white
+320,Cornelius Louwerse,male,white
+321,Aeltie Louwerse,unknown,white
+322,Marthen Lent,unknown,white
+323,Hendrick Leyck,male,white
+324,Elizabeth Leyck,female,white
+325,David Ackerman,male,white
+326,Maritie Sie,female,white
+327,Jeremias Mabee,male,white
+328,Magdalena Canckle,female,white
+329,Mattheus de Ronde,male,white
+330,Aeltie de Ronde,unknown,white
+331,Jacob Lent,male,white
+332,Elsie Lent,female,white
+333,Hester Storm,female,white
+334,Christian Winters,male,white
+335,Maria Winters,female,white
+336,Jeremias Denffinf,male,white
+337,Annatie Denffinf,female,white
+338,Elizabeth Storm,female,white
+339,Cornelius Williams,male,white
+340,Maria Williams,female,white
+341,Thomas Pue,male,white
+342,Cornelia de Pue,female,white
+343,William Tiel,male,white
+344,Sara Tiel,female,white
+345,Derck Van Tessel,unknown,white
+346,Christina Van Tessel,female,white
+347,Conrad Syn,male,white
+348,Elizabeth Crestena,female,white
+349,John Jurry Koel,male,white
+350,Margriet Kool,female,white
+351,Maritie Hoff,female,white
+352,Johannes Jurkse,male,white
+353,Rachel Jurkse,female,white
+354,Gerrit Schmidt,male,white
+355,Brechie Schmidt,unknown,white
+356,Mattheus Fosuer,male,white
+357,Magdalena Fosuer,female,white
+358,Jacob Bancken,male,white
+359,Rachel Montras,female,white
+360,Marthen Cuyper,unknown,white
+361,Jan Waart,male,white
+362,Rachel Waart,female,white
+363,Johannes De Voe,male,white
+364,Hester Sie,female,white
+365,Frederick Bancken,male,white
+366,Aeltie Storm,unknown,white
+367,Jacob Drom,male,white
+368,Annatie Drom,female,white
+369,Arie de Witt,male,white
+370,Jacobus Jurkse,male,white
+371,Elizabeth Jurkse,female,white
+372,Jacob Winters,male,white
+373,Janitie Canckle,unknown,white
+374,Janitie Van Waert,unknown,white
+375,Anna de Revier,female,white
+376,Cornelius Cuyper,male,white
+377,Dirckje Cuyper,unknown,white
+378,Christina Canckle,female,white
+379,Wouter Jons,male,white
+380,Annatie Jons,female,white
+381,Jan Hughson,male,white
+382,Sara Hughson,female,white
+383,Marten Krankheit,male,white
+384,Hester Krankheit,female,white
+385,Paul Tincgelbagh,male,white
+386,Maria Tinchgelbagh,female,white
+387,Jan Williams,male,white
+388,Sara Williams,female,white
+389,Helena Canckle,female,white
+390,Jeurie Kool,unknown,white
+391,Rissart Soms,unknown,white
+392,Maritie Soms,female,white
+393,Stephan Ecker,male,white
+394,Samuel Dentfordt,male,white
+395,Elsie Dentfordt,female,white
+396,Sara Lent,female,white
+397,William Brouwer,male,white
+398,Christina Syn,female,white
+399,Jacobus Stoutenburgh,male,white
+400,Margriet Stoutenburgh,female,white
+401,Esther Sie,female,white
+402,Hendrick Dusburgh,male,white
+403,Maritie Dusburgh,female,white
+404,Susanna Lent,female,white
+405,Peter Hens,male,white
+406,Clara Hens,female,white
+407,Jan Van Waert,male,white
+408,Maria Van Waert,female,white
+409,Salomon Leen,male,white
+410,Annatie Leen,female,white
+411,Helena Van Tessel,female,white
+412,Rombout Bancken,male,white
+413,Maritie Davids,female,white
+414,Rachel Gardenier,female,white
+415,Johannes Teller,male,white
+416,Aeltie Teller,unknown,white
+417,Frans de Pue,male,white
+418,Maritie de Pue,female,white
+419,Hendrick Wilse,male,white
+420,Rachel Van Waert,female,white
+421,Mattheus Sexsenhennen,male,white
+422,Elizabeth Sexsenhennen,female,white
+423,Staats Storm,unknown,white
+424,Susanna De Voe,female,white
+425,Johannes Clemens,male,white
+426,Maritie Clemens,female,white
+427,Andries Berger,male,white
+428,Phoebe Berger,female,white
+429,Magdalena Walgraf,female,white
+430,Isaac Namburgh,male,white
+431,Maritie Canckle,female,white
+432,Jacobus Rasel,male,white
+433,Elizabeth Rasel,female,white
+434,John Jurrien Koel,male,white
+435,Margriet Jurrien Koel,female,white
+436,Jan Storm,male,white
+437,Rachel Storm,female,white
+438,Catharina Fosuer,female,white
+439,Sara Canckle,female,white
+440,Helena,unknown,white
+441,Esther Krankheit,female,white
+442,Jan Hitchcock,male,white
+443,Magdalena Hitchcock,female,white
+444,Jan Montras,male,white
+445,Emmetie Montras,unknown,white
+446,Jacobus Teller,male,white
+447,William Donny,male,white
+448,Sara Donny,female,white
+449,William Dobs,male,white
+450,Lea Van Waert,female,white
+451,William Gemmen,male,white
+452,Esther Gemmen,female,white
+453,William Van Waert,male,white
+454,Eemus Lafinnus,unknown,white
+455,Maritie Lafinnus,female,white
+456,Daniel Zekaar,male,white
+457,Catharina Zekaar,female,white
+458,Thomas Treffus,male,white
+459,Catharina Treffus,female,white
+460,Abraham Ecker,male,white
+461,Margriet Ecker,female,white
+462,Cornelius Lammerse,male,white
+463,Margriet Lammerse,female,white
+464,Abraham Van Waert,male,white
+465,Annatie Mey,female,white
+466,Adolf Bancken,male,white
+467,Maritie Bancken,female,white
+468,Mermel Jonasz Gerritse,unknown,white
+469,Emmetie Hemmen,unknown,white
+470,Jan Brown,male,white
+471,Annatie Brown,female,white
+472,Efrom Bertelie,unknown,white
+473,Margriet Bertelie,female,white
+474,David Duytser,male,white
+475,Sara Duytser,female,white
+476,Jan Root,male,white
+477,Christina Root,female,white
+478,Maritie Williams,female,white
+479,Job Becaren,male,white
+480,Elizabeth Krankheit,female,white
+481,Johannes Duytser,male,white
+482,Meino Duytser,male,white
+483,Hendrick Van Tessel,male,white
+484,Beletie Van Tessel,unknown,white
+485,Elezar Eumars,unknown,white
+486,Maritie Eumars,female,white
+487,Jan Martin,male,white
+488,Eva Martin,female,white
+489,Philip Luninbecker,male,white
+490,Margriet Luninbecker,female,white
+491,Hendrick Davids,male,white
+492,Johannes Syffer,male,white
+493,Lea Syffer,female,white
+494,Teunis Corsen,male,white
+495,Elizabeth Corsen,female,white
+496,Casper Stymets,male,white
+497,Rachel Stymets,female,white
+498,Marthen de Pue,unknown,white
+499,Joachim Van Waert,male,white
+500,William Hughson,male,white
+501,Maritie Hughson,female,white
+502,Reyndert Hous,unknown,white
+503,Elizabeth Hous,female,white
+504,Maritie Ackerman,female,white
+505,John Gerritse,male,white
+506,Maritie Gerritse,female,white
+507,Thomas Vibartt,male,white
+508,Maritie Vibartt,female,white
+509,Jan Waldron,male,white
+510,Margriet Waldron,female,white
+511,Joost Davids,male,white
+512,Anneke Davids,female,white
+513,Robin Williams,male,white
+514,David Fosuer,male,white
+515,Janitie Fosuer,unknown,white
+516,Stephan Sakeling,male,white
+517,Maritie Sakeling,female,white
+518,Johannes Van Garde,male,white
+519,Janitie Van Garde,unknown,white
+520,Thomas Miller,male,white
+521,Catharina Miller,female,white
+522,Abraham Canckle,male,white
+523,Marthen Canckle,unknown,white
+524,Zander Wever,male,white
+525,Maritie Wever,female,white
+526,Jan Finssen,male,white
+527,Teunis Krankheit,male,white
+528,William Davids,male,white
+529,Nelletie Davids,female,white
+530,Wyntie Van Waert,unknown,white
+531,Thamer Canckle,unknown,white
+532,Johannes Bancken,male,white
+533,Catharina Bancken,female,white
+534,Eva Sie,female,white
+535,Christina De Voe,female,white
+536,Jan Hemmen,male,white
+537,Adrianus Buys,male,white
+538,Janitie Buys,unknown,white
+539,Joryer Trabus,unknown,white
+540,Janitie Trabus,unknown,white
+541,Leendert Hoff,male,white
+542,Cornelia Hoff,female,white
+543,Staats Juel,unknown,white
+544,Maritie Juel,female,white
+545,Rachel Ever,female,white
+546,Richard Mecdeneel,male,white
+547,Janitie Mecdeneel,unknown,white
+548,John Daniels,male,white
+549,Maritie Daniels,female,white
+550,William Tice,male,white
+551,Aeltie Tice,unknown,white
+552,Ariannus Buys,unknown,white
+553,Hendrick Helker,male,white
+554,Janitie Helker,unknown,white
+555,Joost Gerritse,male,white
+556,Magdalena Gerritse,female,white
+557,Joryer Treffus,unknown,white
+558,Janitie Duytser,unknown,white
+559,Rissart Schmidt,unknown,white
+560,Maritie Schmidt,female,white
+561,Catharina Tinchgelbagh,female,white
+562,Annatie Williams,female,white
+563,Maritie Wilse,female,white
+564,Sara Juel,female,white
+565,Elizabeth Brouwer,female,white
+566,Alexander Wever,male,white
+567,Cornelia Gardenier,female,white
+568,Antony Tangere,male,white
+569,Esther Tangere,female,white
+570,Abraham Juel,male,white
+571,Abraham Duytser,male,white
+572,Annatie Duytser,female,white
+573,Abraham Van Tessel,male,white
+574,Cornelia Van Tessel,female,white
+575,Janitie Jurkse,unknown,white
+576,Jan Miller,male,white
+577,Rachel Miller,female,white
+578,Janitie Martlings,unknown,white
+579,Marthe Bandt,female,white
+580,Janitie Bandt,unknown,white
+581,Frans Breyert,male,white
+582,Janitie Breyert,unknown,white
+583,Engeltie Hitchcock,female,white
+584,Jooryder Treffus,unknown,white
+585,Annatie Gardenier,female,white
+586,Jan Juel,male,white
+587,Engeltie Juel,female,white
+588,Harman Davids,male,white
+589,William Juel,male,white
+590,Elizabeth Juel,female,white
+591,Hendrick Bailey,male,white
+592,Debora Bailey,female,white
+593,Johannes de Revier,male,white
+594,Catharina de Revier,female,white
+595,Jacob Dyckman,male,white
+596,Rebecca Dyckman,female,white
+597,Nicholas Miller,male,white
+598,Maria Miller,female,white
+599,Mattheus Boeckhout,male,white
+600,Elizabeth Boeckhout,female,white
+601,Lena Beasely,female,white
+602,Catharina Storm,female,white
+603,Antony Tanckerit,male,white
+604,Esther Tanckerit,female,white
+605,Leentie Gerritse,unknown,white
+606,David Hemmen,male,white
+607,Johannes Martlings,male,white
+608,Elizabeth Martlings,female,white
+609,Abraham Bancken,male,white
+610,Rachel Bancken,female,white
+611,Abraham Aertsen,male,white
+612,Lea Aertse,female,white
+613,William Aertse,male,white
+614,Barbera Aertse,female,white
+615,Maritie Post,female,white
+616,Evert Brown,male,white
+617,Magdalena Brown,female,white
+618,Michael Overacker,male,white
+619,Barbera Overacker,female,white
+620,Jacob Buys,male,white
+621,Engeltie Buys,female,white
+622,Catharina Buys,female,white
+623,William Hoff,male,white
+624,Elizabeth Hoff,female,white
+625,Peter Heck,male,white
+626,Elizabeth Heck,female,white
+627,Wyntie Canckle,unknown,white
+628,Jacob Helker,male,white
+629,Susanna Van Tessel,female,white
+630,Benjamin Hughson,male,white
+631,John Cox,male,white
+632,Rachel Cox,female,white
+633,Marthen Daniels,unknown,white
+634,Maritie Miller,female,white
+635,Lak Bexster,unknown,white
+636,Rachel Bexster,female,white
+637,Jacob Canckle,male,white
+638,Esther Canckle,female,white
+639,Joachim Gardenier,male,white
+640,Janitie Gardenier,unknown,white
+641,David Sie,male,white
+642,Rachel Sie,female,white
+643,Isaac Hemmen,male,white
+644,Catharina Ackerman,female,white
+645,Jan Slot,male,white
+646,Sara Slot,female,white
+647,Jan Gellewee,male,white
+648,Annatie Gellewee,female,white
+649,Lea Aersen,female,white
+650,Jenneke Buys,female,white
+651,Johannes Krankheit,male,white
+652,Moses Van Noorstrant,male,white
+653,Abigail Van Noorstrant,female,white
+654,Daniel De Voe,male,white
+655,Aeltie Martlings,unknown,white
+656,Elizabeth Van Tessel,female,white
+657,Hendrick Roemer,male,white
+658,Marthen Romen,unknown,white
+659,Barent Waldron,male,white
+660,Lena Gardenier,female,white
+661,Rachel de Pue,female,white
+662,Thomas Emmons,male,white
+663,Magdalena Eemons,female,white
+664,Samuel Willsen,male,white
+665,Jemina Willsen,female,white
+666,Petrus Heck,male,white
+667,Leendert Vinsen,male,white
+668,Elizabeth Vinsen,female,white
+669,Joseph Dol,male,white
+670,Catharina Dol,female,white
+671,Rosanna Van Tessel,female,white
+672,Job Becaerd,male,white
+673,Elizabeth Mabee,female,white
+674,Brechie Boeckhout,unknown,white
+675,Thomas Sampowa,male,white
+676,Deleverens Mabee,unknown,white
+677,Catharina Clemens,female,white
+678,Thomas Shamponwa,male,white
+679,Hendrick Martlings,male,white
+680,Hester Canklin,female,white
+681,Gerrit Gravenstien,male,white
+682,Catrina Jurkse,female,white
+683,Ammon Geion,male,white
+684,Sara Geion,female,white
+685,Albert Aertsen,male,white
+686,Margriet Jurkse,female,white
+687,Isaac Boeckhout,male,white
+688,Rachel Ecker,female,white
+689,Jacobus Helker,male,white
+690,Peter Rasel,male,white
+691,Maritie Helker,female,white
+692,William Jurkse,male,white
+693,Philip Pier,male,white
+694,Engeltie Brouwer,female,white
+695,Martinus Van Waert,male,white
+696,Rachel Williams,female,white
+697,Aert Williams,male,white
+698,Emmetie Waldron,unknown,white
+699,Susanna Fousy,female,white
+700,Annatie Storm,female,white
+701,Lea Ecker,female,white
+702,Daniel Requaw,male,white
+703,Maritie Martin,female,white
+704,Maria Bartyne,female,white
+705,Elizabeth Gardenier,female,white
+706,Jacobus Ackerman,male,white
+707,Maritie Enders,female,white
+708,Nicholas Storm,male,white
+709,Abraham Odel,male,white
+710,Peter Vermillie,male,white
+711,Maritie Pinckney,female,white
+712,William Williams,male,white
+713,Hester Williams,female,white
+714,Conrad Sadoor,male,white
+715,Annatie Sadoor,female,white
+716,Abraham Beasely,male,white
+717,Catrina Beasely,female,white
+718,Jacob Roemer,male,white
+719,Frena Haerlager,unknown,white
+720,Antony Miller,male,white
+721,Esther Miller,female,white
+722,Jacobus Davids,male,white
+723,Catrina Davids,female,white
+724,Augustus Helker,male,white
+725,Margriet Helker,female,white
+726,Jonathan Canckle,male,white
+727,Helena Canklin,female,white
+728,James McChane,male,white
+729,Maria McChane,female,white
+730,John Jorden,male,white
+731,Maritie Jorden,female,white
+732,Wyntie de Revier,unknown,white
+733,Arie Van Wormer,male,white
+734,Annatie Van Wormer,female,white
+735,Sara Van Tessel,female,white
+736,Engeltie Van Waert,female,white
+737,Maritie Lamberts,female,white
+738,Nicholas Kool,male,white
+739,Catrina Kool,female,white
+740,Isaac Davids,male,white
+741,Wyntie Davids,unknown,white
+742,Abraham Rutan,male,white
+743,Aeltie Rutan,unknown,white
+744,Teunis Gerritse,male,white
+745,Annatie Gerritse,female,white
+746,Engeltie Syffer,female,white
+747,Janitie Van Tessel,unknown,white
+748,Jan Canklin,male,white
+749,Wyntie Canklin,unknown,white
+750,Thomas Uybert,male,white
+751,Elizabeth Uybert,female,white
+752,Engeltie Bailey,female,white
+753,Jacobus De Voe,male,white
+754,Catharina De Voe,female,white
+755,Susanna Jurkse,female,white
+756,Thomas Medanels,male,white
+757,Maria Medanels,female,white
+758,Barent De La Meter,male,white
+759,Rachel De La Meter,female,white
+760,Sophia Duytser,female,white
+761,Beletie Storm,unknown,white
+762,Hester Pier,female,white
+763,Maritie Van Tessel,female,white
+764,Petrus Martlings,male,white
+765,Catharina Martlings,female,white
+766,Jacob Storm,male,white
+767,Janitie Storm,unknown,white
+768,Susanna Gerritse,female,white
+769,Willemintie Ecker,unknown,white
+770,Maritie Requaw,female,white
+771,Elizabeth Jurckse,female,white
+772,Peter Syffer,male,white
+773,Eagie Syffer,unknown,white
+774,Daniel Enders,male,white
+775,Wyntie Enders,unknown,white
+776,Brechie Ecker,unknown,white
+777,Nicholas Aertse,male,white
+778,Phoebe Aertsen,female,white
+779,Johannes Van Waert,male,white
+780,Gishum Sherwood,unknown,white
+781,Maritie Sherwood,female,white
+782,Mattheus Banker,male,white
+783,Rebecca Banker,female,white
+784,Johannes Uythuys,male,white
+785,Rachel Uythuys,female,white
+786,Jan Hogencamp,male,white
+787,Annatie Hogencamp,female,white
+788,Deleverens Ecker,unknown,white
+789,Judah Ecker,male,white
+790,Johannes Britt,male,white
+791,Eva Britt,female,white
+792,Maria Sie,female,white
+793,Daniel Wilse,male,white
+794,Elizabeth Wilse,female,white
+795,Daniel Martlings,male,white
+796,Maritie Martlings,female,white
+797,Isaac Martlings,male,white
+798,Abraham Williams,male,white
+799,William Lent,male,white
+800,Abigail Lent,female,white
+801,Isaac Storm,male,white
+802,After Williams,unknown,white
+803,Emmetie Williams,unknown,white
+804,Hester Miller,female,white
+805,Abraham De Voe,male,white
+806,Lea De Voe,female,white
+807,Esther Williams,female,white
+808,Catrina Lamberts,female,white
+809,Benjamin Oakley,male,white
+810,Elizabeth Oakley,female,white
+811,Rachel Davids,female,white
+812,Rachel Van Tessel,female,white
+813,Stephan Sarels,male,white
+814,Maritie Sarels,female,white
+815,Jan Aersen,male,white
+816,Rachel Aersen,female,white
+817,Rebecca Odel,female,white
+818,Wyntie Ecker,unknown,white
+819,Sas Monsen,male,white
+820,Maritie Monsen,female,white
+821,Peter Martlings,male,white
+822,Jacob Boeckhout,male,white
+823,Mattie Williams,female,white
+824,Thomas Wever,male,white
+825,Elizabeth Wever,female,white
+826,Eva Syffer,female,white
+827,Wyntie Hammond,unknown,white
+828,After Jons,unknown,white
+829,Susanna Bailey,female,white
+830,Johannes Hogencamp,male,white
+831,William Duytser,male,white
+832,Catrina Duytser,female,white
+833,Petrus Davids,male,white
+834,Elizabeth Davids,female,white
+835,William Van Noorstrand,male,white
+836,Catrina Van Noorstrand,female,white
+837,Caleb Aersen,male,white
+838,Aeltie Aersen,unknown,white
+839,Patience Storm,female,white
+840,Jacob Ackerman,male,white
+841,Mattie Ackerman,female,white
+842,Annatie Cuyper,female,white
+843,Gust Helker,male,white
+844,Lena Helker,female,white
+845,Caes Monsen,unknown,white
+846,Annatie Ecker,female,white
+847,Casper Canckle,male,white
+848,Meino Canckle,male,white
+849,Hester Martlings,female,white
+850,Cobes Sie,unknown,white
+851,Mattie Sie,female,white
+852,Cobes Storm,unknown,white
+853,Beletie Davids,unknown,white
+854,Hendrick Lammerse,male,white
+855,Catrina Lammerse,female,white
+856,Annatie Miller,female,white
+857,Lea Krankheit,female,white
+858,Deleverens Brouwer,unknown,white
+859,Claes Aersen,male,white
+860,Emmetie Aersen,unknown,white
+861,William Hitchcock,male,white
+862,Messie Hitchcock,unknown,white
+863,Peter Van Tessel,male,white
+864,Caleb Aetset,male,white
+865,Aeltie Aetset,unknown,white
+866,Jacob De Voe,male,white
+867,Elizabeth De Voe,female,white
+868,Paulus Sie,male,white
+869,Gorest Storm,unknown,white
+870,Wolfert Cuyper,unknown,white
+871,Susanna his wief,female,white
+872,Johannes Jorden,male,white
+873,Hester Van Tessel,female,white
+874,Annatie Corsen,female,white
+875,Margriet Sie,female,white
+876,Abraham Buys,male,white
+877,Annatie Buys,female,white
+878,Sophia Sie,female,white
+879,Luwje Jacobs,unknown,white
+880,Sara Jacobs,female,white
+881,Johannes Cox,male,white
+882,Janitie Brown,unknown,white
+883,William Syffer,male,white
+884,Margriet Shamponwa,female,white
+885,Debora Buys,female,white
+886,Jacob Wiley,male,white
+887,Engeltie Wiley,female,white
+888,Elizabeth Canckle,female,white
+889,William Juckse,male,white
+890,Catharina Ecker,female,white
+891,Brechie Hemmen,unknown,white
+892,Den Wilse,unknown,white
+893,Jacob Romen,male,white
+894,Teunis Gersen,male,white
+895,Claes Kool,male,white
+896,Johannes Helker,male,white
+897,Sara Helker,female,white
+898,Sara Aersen,female,white
+899,Nicholas Aersen,male,white
+900,Annatie Fousy,female,white
+901,Janitie Fousy,unknown,white
+902,Sara Sie,female,white
+903,Staats Hemmen,unknown,white
+904,Elizabeth Hemmen,female,white
+905,Johannes Ackerman,male,white
+906,Staats Williams,unknown,white
+907,William Hont,male,white
+908,Maritie Hont,female,white
+909,Jonas Aersen,male,white
+910,Elizabeth Aersen,female,white
+911,Abraham Ackerman,male,white
+912,Hendrick Williams,male,white
+913,Brechie Canckle,unknown,white
+914,Joris Storm,male,white
+915,Geertie Van Tessel,unknown,white
+916,Isaac Ecker,male,white
+917,Harkueles Krankheit,unknown,white
+918,Michael Stisepagh,male,white
+919,Margriet Stisepagh,female,white
+920,Margriet Syffer,female,white
+921,Gishum Serret,unknown,white
+922,Margriet Serret,female,white
+923,Jacobus Minne,male,white
+924,Catrina Minne,female,white
+925,Jacobus Van Waert,male,white
+926,Zannetan Canckle,unknown,white
+927,Lena Krankheit,female,white
+928,David De Voe,male,white
+929,Rebecca De Voe,female,white
+930,Abraham Storm,male,white
+931,Annatie Juel,female,white
+932,Petrus Sie,male,white
+933,Feytie Sie,unknown,white
+934,Frena Hemmen,unknown,white
+935,Jan Berrens,male,white
+936,Catrina Berrens,female,white
+937,Teunis Ablienes,male,white
+938,Cornelia Ablienes,female,white
+939,Maritie Waldron,female,white
+940,William Fousy,male,white
+941,Rebecca Fousy,female,white
+942,Patience Gibs,female,white
+943,Jonathan Odel,male,white
+944,Margriet Odel,female,white
+945,Sara Ecker,female,white
+946,Joseph Paldon,male,white
+947,Susanna Paldon,female,white
+948,Jan Tice,male,white
+949,Catrina Tice,female,white
+950,Annatie Martlings,female,white
+951,Jan Ackerman,male,white
+952,Gregye Hemmen,unknown,white
+953,Phoebe Duytser,female,white
+954,Rachel Buys,female,white
+955,Abraham Brown,male,white
+956,Sara Brown,female,white
+957,Herrick Krank,unknown,white
+958,Wovert Cuyper,unknown,white
+959,Susanna Cuyper,female,white
+960,Joel Nep,male,white
+961,Maritie Nep,female,white
+962,Hendrick de Revier,male,white
+963,Rachel de Revier,female,white
+964,Aeltie Stymets,unknown,white
+965,Abraham Sie,male,white
+966,Arie Buys,male,white
+967,Jan Oakley,male,white
+968,Maritie Oakley,female,white
+969,Petrus Mabee,male,white
+970,Lena Mabee,female,white
+971,Mattheus Van Tessel,male,white
+972,Lea Buys,female,white
+973,Beletie Buys,unknown,white
+974,Isaac Duytser,male,white
+975,Lena Canklin,female,white
+976,Hester Van Waert,female,white
+977,Sara Lammerse,female,white
+978,Hester Duytser,female,white
+979,Phoebe Storm,female,white
+980,Syer Teller,unknown,white
+981,Beletie Teller,unknown,white
+982,Isaac Van Tessel,male,white
+983,Lea Van Tessel,female,white
+984,Catrina Ablienes,female,white
+985,Engeltie Ecker,female,white
+986,Christina Brouwer,female,white
+987,Geertie Ecker,unknown,white
+988,George Monsen,male,white
+989,Nicholas Cuyper,male,white
+990,Edward Couenhoven,male,white
+991,Annatie Couenhoven,female,white
+992,Caleb Archer,male,white
+993,Aeltie Archer,unknown,white
+994,Abraham Syffer,male,white
+995,Joseph Palding,male,white
+996,Susanna Palding,female,white
+997,David Van Tessel,male,white
+998,Jacob Brouwer,male,white
+999,Abigail Brouwer,female,white
+1000,Elizabeth Ackerman,female,white
+1001,Isaac Lent,male,white
+1002,Joseph Wiley,male,white
+1003,Aeltie Wiley,unknown,white
+1004,Abraham Lanooy,male,white
+1005,Rachel Lanooy,female,white
+1006,Isaac de Revier,male,white
+1007,Lena de Revier,female,white
+1008,George Comb,male,white
+1009,Elizabeth Comb,female,white
+1010,Janitie Boeckhout,unknown,white
+1011,Sylas Slot,unknown,white
+1012,Aeltie Slot,unknown,white
+1013,William Lounsberre,male,white
+1014,Maritie Lounsberre,female,white
+1015,Richard Gerritse,male,white
+1016,Lea Gerritse,female,white
+1017,Moses Gilbert,male,white
+1018,Maritie Gilbert,female,white
+1019,Hendrick Van Waert,male,white
+1020,Annatie Van Waert,female,white
+1021,Harme Davids,male,white
+1022,Ecker,unknown,white
+1023,John Dean,male,white
+1024,David Martlings,male,white
+1025,Abraham de La noy,male,white
+1026,Maria Couenhoven,female,white
+1027,Annatie Cox,female,white
+1028,James Marchal,male,white
+1029,Anna Barber,female,white
+1030,Richard Mulheron,male,white
+1031,Elizabeth Burtis,female,white
+1032,Uytendale Allaire,unknown,white
+1033,Sara Seaman,female,white
+1034,David Sie Davidzen,male,white
+1035,Lea Duytser,female,white
+1036,Aeltie Jurkse,unknown,white
+1037,Barent Swits,male,white
+1038,Catharina Gilfort,female,white
+1039,Gerson Sherwood,male,white
+1040,Margriet Aersen,female,white
+1041,John Hammond,male,white
+1042,Frena Roemer,unknown,white
+1043,Emmetie Banker,unknown,white
+1044,Johannes Lent,male,white
+1045,Francyntje Odel,female,white
+1046,Jacob Ecker,male,white
+1047,Sara Fousy,female,white
+1048,Hendrick Kool,male,white
+1049,Lena Cox,female,white
+1050,Aeltie Banker,unknown,white
+1051,Miles Oakley,male,white
+1052,Isaac Hammond,male,white
+1053,Lena Williams,female,white
+1054,William Buys,male,white
+1055,De Voe,unknown,white
+1056,William Sie,male,white
+1057,Storm,unknown,white
+1058,John Ammerman,male,white
+1059,Hannah Ackerman,female,white
+1060,Johannes Ecker,male,white
+1061,Bandt,unknown,white
+1062,Benjamin Brown,male,white
+1063,Christina Brown,female,white
+1064,Emmetie de Revier,unknown,white
+1065,Antony Martin,male,white
+1066,Magdalena Martin,female,white
+1067,Johannes Mendeviel,male,white
+1068,Rachel Mendeviel,female,white
+1069,Ebbe Brouwer,male,white
+1070,Johannes Vynk,male,white
+1071,Nencie Vynk,unknown,white
+1072,Johannes Sie,male,white
+1073,Hendrick Syffer,male,white
+1074,Mattheus Fousy,male,white
+1075,Elizabeth Gravenstien,female,white
+1076,William Tamkins,male,white
+1077,Rachel Syffer,female,white
+1078,Christina Odel,female,white
+1079,Sophia de Revier,female,white
+1080,Sara Storm,female,white
+1081,Maria de Pue,female,white
+1082,Rebecca Ecker,female,white
+1083,Nicholas Banker,male,white
+1084,Jenneke Ecker,female,white
+1085,Susanna Sniffen,female,white
+1086,Nathan Wiley,male,white
+1087,Susanna Wiley,female,white
+1088,Isaac Dean,male,white
+1089,Maritie Dean,female,white
+1090,Gabriel Requaw,male,white
+1091,Elizabeth Requaw,female,white
+1092,Petrus Jurkse,male,white
+1093,Rebecca Jurkse,female,white
+1094,Edmond Bird,male,white
+1095,Eva Brouwer,female,white
+1096,Susanna Boeckhout,female,white
+1097,Jemina Duytser,female,white
+1098,Petrus Van Wormer,male,white
+1099,Maritie Van Wormer,female,white
+1100,Cornelius de Revier,male,white
+1101,Sara de Revier,female,white
+1102,William Tankkens,male,white
+1103,Sara Tankkens,female,white
+1104,Edward Wiley,male,white
+1105,Esau King,unknown,white
+1106,Elizabeth King,female,white
+1107,Sara Jurkse,female,white
+1108,Stephan Camble,male,white
+1109,Maritie Camble,female,white
+1110,Hendrick Nier,male,white
+1111,Sara Nier,female,white
+1112,Isaac Sadoor,male,white
+1113,Wyntie Sadoor,unknown,white
+1114,Jan Odel,male,white
+1115,Annatie Odel,female,white
+1116,Jacob Chatterton,male,white
+1117,Maritie Chatterton,female,white
+1118,Isaac Odel,male,white
+1119,Thomas Esten,male,white
+1120,Aeltie Esten,unknown,white
+1121,Abraham Pue,male,white
+1122,Sara Pue,female,white
+1123,Isaac Ecker (dec),male,white
+1124,Jonathan Chatterton,male,white
+1125,Rachel de La noy,female,white
+1126,Jan Hopper (dec),male,white
+1127,Susanna Davids,female,white
+1128,William Odel,male,white
+1129,Johanna Odel,female,white
+1130,Jacob Couenhoven,male,white
+1131,Cathalyna Couenhoven,unknown,white
+1132,Harme Jurkse,male,white
+1133,Eva Helker,female,white
+1134,Janitie Hemmen,unknown,white
+1135,Susanna Storm,female,white
+1136,Samuel Sherwood,male,white
+1137,Lea Boeckhout,female,white
+1138,Caleb Brush,male,white
+1139,Phelityah Fitch,unknown,white
+1140,Rebecca Fitch,female,white
+1141,Annatie Roemer,female,white
+1142,Petrus Van Tessel,male,white
+1143,Annatie Vinsen,female,white
+1144,Stephan Williams,male,white
+1145,Catharina Britt,female,white
+1146,Eva Mabee,female,white
+1147,Margriet Manghem,female,white
+1148,Maritie Sniffen,female,white
+1149,Elizabeth Sie,female,white
+1150,Abraham Turtter (dec),male,white
+1151,Johannes Boeckhout,male,white
+1152,William De Voe,male,white
+1153,John Parel,male,white
+1154,Annatie Parel,female,white
+1155,Isaac Brown,male,white
+1156,Sara Schoute,female,white
+1157,Abraham Hitchcock,male,white
+1158,Abigail Yorks,female,white
+1159,Charles Craft,male,white
+1160,Jane Requaw,female,white
+1161,Charles Deusenbary,male,white
+1162,Maritie Deusenbary,female,white
+1163,Sybout Herrikzen,unknown,white
+1164,Jan Cornelize Van Texel,male,white
+1165,Carel Jansen,male,white
+1166,Ryck Abramze,male,white
+1167,Sybout Herrickse,unknown,white
+1168,Jacob Sie,male,white
+1169,Floris Krom,male,white
+1170,William Sonderling,male,white
+1171,Jan Hermanse,male,white
+1172,Jan Van Kercke,male,white
+1173,Hendrick Vonck,male,white
+1174,Francoys de Pue,unknown,white
+1175,Celem Quory,unknown,white
+1176,Wolffer Ecker,unknown,white
+1177,Teunis Roelofse Van Houten,male,white
+1178,Cornelius Laurens,male,white
+1179,Jan des Maretz,male,white
+1180,Jan Seente,male,white
+1181,Mathy Brouwer,unknown,white
+1182,Arie Krom,male,white
+1183,Janny Heyedt,female,white
+1184,Joseph Escott,male,white
+1185,Peter Dron,male,white
+1186,Johannes Dobs,male,white
+1187,Bastiaen Michgielze,unknown,white
+1188,Johannes Blauvelt,male,white
+1189,Peter Carteljouw,male,white
+1190,Joachim Wouterze,male,white
+1191,Elizabeth Jacobze,female,white
+1192,Isaac Springsteen,male,white
+1193,Gieljam Giljon,unknown,white
+1194,Johannes Hendrik Van Lent,male,white
+1195,Rithsardt Schjapman,unknown,white
+1196,Hendrick Banker,male,white
+1197,Jan Woet,male,white
+1198,Steffanus Cortlant,unknown,white
+1199,Michael Bases,male,white
+1200,Reysard Michielze,unknown,white
+1201,Joseph Heldelick,male,white
+1202,Lourens Banker,male,white
+1203,Jeremy Kenniff,male,white
+1204,Jan Hermanze [Abrahams],male,white
+1205,Joost Paldingh,male,white
+1206,William de Ronde,male,white
+1207,Tam de Pue,male,white
+1208,Teunis Taelman,male,white
+1209,Leverns Canckle,unknown,white
+1210,Albardt Lent,unknown,white
+1211,Sybout Harckse Krankheit,unknown,white
+1212,Jan Harmze,male,white
+1213,Derck Sie,unknown,white
+1214,Hendrick Namburgh,male,white
+1215,Ressardt Saphman,unknown,white
+1216,Haremanis Gardenier,unknown,white
+1217,Lambert Schmidt,male,white
+1218,Jan Harreckse,male,white
+1219,Jeremias Cennef,male,white
+1220,Casper Mabee,male,white
+1221,Joseph Hescock,male,white
+1222,Thomas Borbanck,male,white
+1223,Rissart Gerritse,unknown,white
+1224,Adreaen Straet,unknown,white
+1225,Hendrick de Ronde,male,white
+1226,Reyjer Megielse,unknown,white
+1227,William Snock,male,white
+1228,Jan Magdalena,male,white
+1229,Martinus Mey,male,white
+1230,Abraham Haringh,male,white
+1231,Garrick Krankheit,male,white
+1232,Marckus Moseman,unknown,white
+1233,Johannes Storm,male,white
+1234,Peter Syn,male,white
+1235,John Mattius Sexsenhenne,male,white
+1236,William Schmidt,male,white
+1237,Joph Canckle,unknown,white
+1238,John Fliepse Linnebecker,male,white
+1239,Antony Van Tessel,male,white
+1240,Jan Hooms,male,white
+1241,Johannes Syn,male,white
+1242,Annatie Kool,female,white
+1243,Jonas Gerrets,male,white
+1244,Herculius Lent,unknown,white
+1245,Ernst Clemens,male,white
+1246,Isaac Vermillie,male,white
+1247,Jurrien Sexkehennen,male,white
+1248,Peter Valenthein,male,white
+1249,Risserdt Hughson,unknown,white
+1250,Reinnaert Hous,unknown,white
+1251,Harme J,male,white
+1252,Barent Martlings,male,white
+1253,Mabee,unknown,white
+1254,Edmond Canckle,male,white
+1255,Jannis Waldron,male,white
+1256,Joris Merret,male,white
+1257,Alebartus Thortel,unknown,white
+1258,Benjamen Boghgert,unknown,white
+1259,Frans Stee (Slee),male,white
+1260,Louwerins Krankheit,unknown,white
+1261,Tobias Stoutenburgh,male,white
+1262,William Britt,male,white
+1263,William Willemsen,male,white
+1264,Nicholas Rouw,male,white
+1265,Johannes,unknown,white
+1266,Daniel Vouw,male,white
+1267,Wouter Hughson,male,white
+1268,Hendericus Van Tessel,unknown,white
+1269,Cristoffel Stymets,unknown,white
+1270,Sybout Beasely,unknown,white
+1271,Cornelius Leydecker,male,white
+1272,Frederick De Voe,male,white
+1273,Augesteinus Helker,unknown,white
+1274,Jeremias Namburgh,male,white
+1275,Isaac Juel,male,white
+1276,Jan Enders,male,white
+1277,William Aersen,male,white
+1278,Jacob Duytser,male,white
+1279,Alzander de Wever,unknown,white
+1280,Gerrit Everdt Bruyn,male,white
+1281,Heckter Miller,unknown,white
+1282,Albert Van Tessel,male,white
+1283,Jassuel Bishop,unknown,white
+1284,Petrus Waldron,male,white
+1285,Engelbart Hoff,male,white
+1286,Johannes Vermillie,male,white
+1287,Hans Tys Kous,male,white
+1288,Gregorus Bancken,unknown,white
+1289,Andries Snock,male,white
+1290,Johannes Leena,male,white
+1291,Jan Janse,male,white
+1292,Thomas Williams,male,white
+1293,Jacob Wormel,male,white
+1294,Abraham Banker,male,white
+1295,Abartus Gardenier,unknown,white
+1296,David Brown,male,white
+1297,Hendericus Martlings,unknown,white
+1298,Martinus Wilse,male,white
+1299,Jacob Stymets,male,white
+1300,Marcus Meyer,male,white
+1301,Nethaniel Hughson,unknown,white
+1302,Harme Matras,male,white
+1303,Jacob Van Wormer,male,white
+1304,Cornelius Van Wormer,male,white
+1305,Johannes Gardenier,male,white
+1306,Abraham Davids,male,white
+1307,Jan Entens,male,white
+1308,Benjamin Hutsun,male,white
+1309,Hencricus Storm,unknown,white
+1310,Thomas Eemas,male,white
+1311,Abraham Jurkse,male,white
+1312,Joost Sie,male,white
+1313,Teunis Van Tessel,male,white
+1314,Peter Boeckhout,male,white
+1315,Antony Tanken,male,white
+1316,William Enders,male,white
+1317,Johannes Banker,male,white
+1318,Abraham Boeckhout,male,white
+1319,Isaac de Milt,male,white
+1320,Peter Waldron,male,white
+1321,Nicholas Stevense,male,white
+1322,Peter Stevense,male,white
+1323,Cornelius De Voe,male,white
+1324,Johannes Seyfen,male,white
+1325,Jan Aertse,male,white
+1326,Jacob Teller,male,white
+1327,Jeremias Stuyvers,male,white
+1328,Josua Bisop,male,white
+1329,Adrianus Van Wormer,male,white
+1330,Antony Caspersen,male,white
+1331,Jacobus Hemmen,male,white
+1332,Isaac Teller,male,white
+1333,David Hitchcock,male,white
+1334,Joris Douni,male,white
+1335,Benjamin Hughins,male,white
+1336,Thomas Gerritse,male,white
+1337,Frans Pue,male,white
+1338,Gorus Banker,unknown,white
+1339,Jermyas Martin,unknown,white
+1340,Jan Nagel,male,white
+1341,John Britt,male,white
+1342,Hendrick Pue,male,white
+1343,Peter Stymets,male,white
+1344,Frederick Philipse,male,white
+1345,John Sclat,male,white
+1346,Joseph Aertse,male,white
+1347,William Fosuer,male,white
+1348,Joakemis Van Waert,unknown,white
+1349,Jan Dyckman,male,white
+1350,Thomas Bisop,male,white
+1351,Jan Davids,male,white
+1352,Abraham Stymets,male,white
+1353,William Ritts,male,white
+1354,Isaac Post,male,white
+1355,Andries Van Wormer,male,white
+1356,John Gordon,male,white
+1357,Hendrick Ackerman,male,white
+1358,William Spilsbary,male,white
+1359,Barent Duther,male,white
+1360,Louis Slot,male,white
+1361,Aaron Van Noorstrant,male,white
+1362,Harman Williams,male,white
+1363,David Canklin,male,white
+1364,Petrus Banker,male,white
+1365,William Fisher,male,white
+1366,John Hemmen,male,white
+1367,Ananias Mathyse,unknown,white
+1368,John Hutchins,male,white
+1369,Sachariah Thelety,unknown,white
+1370,Rombout Banker,male,white
+1371,Isaac Trabus,male,white
+1372,Daniel Martin,male,white
+1373,Banker,unknown,white
+1374,Peter Buysman,male,white
+1375,John Jurkse,male,white
+1376,Thomas Whitebark,male,white
+1377,Harman Helker,male,white
+1378,Peter Banker,male,white
+1379,Samuel Hickskock,male,white
+1380,Jan de La Mater,male,white
+1381,Petrus Vermillie,male,white
+1382,Peter Banth,male,white
+1383,Peter Davids,male,white
+1384,Stephan Gal,male,white
+1385,John Michel Wolwever,male,white
+1386,Gerrit Dyckman,male,white
+1387,Valentyn Rynick,male,white
+1388,Jacob Shoomaker,male,white
+1389,Jacob Fogel,male,white
+1390,Cristofel Korts,unknown,white
+1391,Tobias Miller,male,white
+1392,Abraham Bandt,male,white
+1393,Jacobus Gerritse,male,white
+1394,Johannes Barheyt,male,white
+1395,Robin Bailey,male,white
+1396,Harme Williams,male,white
+1397,Jacob Vreihour,male,white
+1398,Wyntie Meir,unknown,white
+1399,Jan Requaw,male,white
+1400,Jan Cock,male,white
+1401,Leise Hont,unknown,white
+1402,Cobes Van Waert,unknown,white
+1403,Johannes Juel,male,white
+1404,Eliesebeth Odel,unknown,white
+1405,Elizabeth Weibert,female,white
+1406,Johannes Van,male,white
+1407,Jacob Van,male,white
+1408,Frerick Ban,unknown,white
+1409,William Breitt (or Bueis),male,white
+1410,Petrus,unknown,white
+1411,Jan Willem Coy,male,white
+1412,Sem Brouwer,unknown,white
+1413,William Paldon,male,white
+1414,Joost Paldon,male,white
+1415,Moses Herres,male,white
+1416,Maritie Romen,female,white
+1417,Cobes Davids,unknown,white
+1418,Zeim Spein,unknown,white
+1419,Feilleph Meyer,unknown,white
+1420,Johannes Ablienes,male,white
+1421,Jacobus,unknown,white
+1422,Abraham Merlin,male,white
+1423,Jacob Tice,male,white
+1424,William Boeckhout,male,white
+1425,Petrus Bandt,male,white
+1426,Abraham De,male,white
+1427,Jonathan Nep,male,white
+1428,Jan Koningh,male,white
+1429,William,unknown,white
+1430,nckens,unknown,white
+1431,Josiah,unknown,white
+1432,Dyckman,unknown,white
+1433,Tobeas Ecker,unknown,white
+1434,Johannes Shamponwa,male,white
+1435,Derck Williams,unknown,white
+1436,Davids,unknown,white
+1437,Martinus,unknown,white
+1438,Daniel,unknown,white
+1439,William Ecker,male,white
+1440,Helker,unknown,white
+1441,Ackerman,unknown,white
+1442,John Hopson,male,white
+1443,Jan Gravenstien,male,white
+1444,Samson Dyckman,male,white
+1445,Henrikus Storm,unknown,white
+1446,Martinus Bandt,male,white
+1447,Hendrick Spingeler,male,white
+1448,Harman Van Tessel,male,white
+1449,Isaac Banker,male,white
+1450,Edward W,male,white
+1451,Isaac Van Waert,male,white
+1452,Stephan Denfort,male,white
+1453,Will Van Waert,male,white
+1454,Hendrick,unknown,white
+1455,William Vermillie,male,white
+1456,Tice,unknown,white
+1457,Isaac De Voe,male,white
+1458,Dikman Brown,unknown,white
+1459,Aeltie Abramze,unknown,white
+1460,Martaleentje Ecker,unknown,white
+1461,Maria Storm,female,white
+1462,Annatie Cornelize Van Texel,female,white
+1463,Geertie de Pue,unknown,white
+1464,Tryntje Abramze,female,white
+1465,Maritie Herrickze,female,white
+1466,Dyna Krom,unknown,white
+1467,Margriet Sonderling,female,white
+1468,Aeltie Hermanse,unknown,white
+1469,Catharina Philipse,female,white
+1470,Christina Joachimze,female,white
+1471,Eilse Van Kercke,unknown,white
+1472,Cathalyna Canckle,unknown,white
+1473,Sara Joachimze,female,white
+1474,Tryntje Roelofse Van Houten,female,white
+1475,Sara Van Waert,female,white
+1476,Aeltie Brouwer,unknown,white
+1477,Sophia Krankheit,female,white
+1478,Aeltie Vonck,unknown,white
+1479,Maritie Mathyssen,female,white
+1480,Magdalena Vonck,female,white
+1481,Maria Seente,female,white
+1482,Mattie Wickelen,female,white
+1483,Catharina Lent,female,white
+1484,Maritie Sybout,female,white
+1485,Catharina Meyer,female,white
+1486,Tryntje Krom,female,white
+1487,Annatie Heyedt,female,white
+1488,Margriet Dobs,female,white
+1489,Margriet Escott,female,white
+1490,Janitie Dron,unknown,white
+1491,Geertie Herrickze,unknown,white
+1492,Maritie Van Dyck,female,white
+1493,Janneke Dron,female,white
+1494,Janitie Beasely,unknown,white
+1495,Margriet Schmidt,female,white
+1496,Dievertje Carteljouw,male,white
+1497,Maritie Pieterze,female,white
+1498,Maria Cocheveer,female,white
+1499,Christina Wouterze,female,white
+1500,Annatie Hendrickssen,female,white
+1501,Maria Bastiaense,female,white
+1502,Maria Giljon,female,white
+1503,Magdalena Van Waert,female,white
+1504,Annatie Brouwer,female,white
+1505,Geertie Lent,unknown,white
+1506,Catharina Van Lent,female,white
+1507,Maria Rutan,female,white
+1508,Aeltie Ackerman,unknown,white
+1509,Eva Bastiaense,female,white
+1510,Maria Bluwet,female,white
+1511,Sara Crab,female,white
+1512,Margriet Krankheit,female,white
+1513,Margriet Montras,female,white
+1514,Barbera Gardenier,female,white
+1515,Maritie de Groot,female,white
+1516,Willemintie Brouwer,unknown,white
+1517,Hanna Heyert,female,white
+1518,Jocamyna Michielze,unknown,white
+1519,Anna Catharina Berset,female,white
+1520,Niesse Banker,unknown,white
+1521,Rachel Michgielze,female,white
+1522,Feytie de Ronde,unknown,white
+1523,Elizabeth Bennitt,female,white
+1524,Maria Kenniff,female,white
+1525,Janitie Puw,unknown,white
+1526,Orseltje Montras,unknown,white
+1527,Sophia Hendrickssen,female,white
+1528,Annatie Kenniff,female,white
+1529,Galante Michgielze,unknown,white
+1530,Styntje Aersen,male,white
+1531,Anna Van Waert,female,white
+1532,Margriet Taelman,female,white
+1533,Meino De Voe,male,white
+1534,Rachel Teller,female,white
+1535,Sara Cuyper,female,white
+1536,Annatie Weert,female,white
+1537,Margriet Franswa,female,white
+1538,Nelletie Williams,female,white
+1539,Esther Bailey,female,white
+1540,Catharina Bailey,female,white
+1541,Altje Lent,female,white
+1542,Wyntie Aertse,unknown,white
+1543,Catharina Canckle,female,white
+1544,Christina Storm,female,white
+1545,Zytie Krankheit,male,white
+1546,Dirckje Duytser,unknown,white
+1547,Grees Williams,male,white
+1548,Maritie Rutan,female,white
+1549,Anna Cennef,female,white
+1550,Anna Kenniff,female,white
+1551,Maria Kengh,female,white
+1552,Nelletie Bailey,female,white
+1553,Aeltie Cuyper,unknown,white
+1554,Margriet Hescock,female,white
+1555,Barytie Borbanck,unknown,white
+1556,Elizabeth Gerritse,female,white
+1557,Magdalena Louwerse,female,white
+1558,Eva Barber,female,white
+1559,Zytie Brouwer,male,white
+1560,Christina Aersen,female,white
+1561,Maritie Meyer,female,white
+1562,Rachel Lent,female,white
+1563,Lesse Lent,unknown,white
+1564,Christina Hitchcock,female,white
+1565,Annageert Syn,unknown,white
+1566,Aeltie Amburgh,unknown,white
+1567,Catharina Teller,female,white
+1568,Elizabeth Blauvelt,female,white
+1569,Metthen Juel,unknown,white
+1570,Maria Mey,female,white
+1571,Maria Schmidt,female,white
+1572,John Fliep Tys,male,white
+1573,Catharina de Ronde,female,white
+1574,Sophia Paldingh,female,white
+1575,Marthen Brouwer,unknown,white
+1576,Maritie Wenter,female,white
+1577,Martynnis Miller,unknown,white
+1578,Marthen Beasely,unknown,white
+1579,Marthen Ecker,unknown,white
+1580,Barbera Berger,female,white
+1581,Magdalena Davids,female,white
+1582,Jezyntie Vermillie,unknown,white
+1583,Hendrick Tice,male,white
+1584,Christina Tice,female,white
+1585,Grees Hoff,male,white
+1586,Petres Iskenis,unknown,white
+1587,Aeltie Namburgh,unknown,white
+1588,Nelletie Eemens,female,white
+1589,Aeltie Harmse,unknown,white
+1590,Esther De Voe,female,white
+1591,Dyna Martlings,unknown,white
+1592,Aant Syn,female,white
+1593,Antony Kenniff,male,white
+1594,Margriet Hoff,female,white
+1595,Esters Storm,unknown,white
+1596,Sophia Aertse,female,white
+1597,Janitie de Revier,unknown,white
+1598,Maria Soms,female,white
+1599,Nelletie Storm,female,white
+1600,Rebecca Vermillie,female,white
+1601,Magdelentie Ecker,unknown,white
+1602,Susanna Waldron,female,white
+1603,Maritie Merret,female,white
+1604,Esther Van Tessel,female,white
+1605,Sophia Aersen,female,white
+1606,Antony Davids,male,white
+1607,Esther Louwerse,female,white
+1608,Elizabeth Haal,female,white
+1609,Elizabeth Namburgh,female,white
+1610,Elizabeth Carrent,female,white
+1611,Angenitie Storm,unknown,white
+1612,Abigail Fosuer,female,white
+1613,Rachel Stoutenburgh,female,white
+1614,Annatie Britt,female,white
+1615,Janitie Ackerman,unknown,white
+1616,Rachel Krankheit,female,white
+1617,Annatie Rouw,female,white
+1618,Catharina Krankheit,female,white
+1619,Sara Fosuer,female,white
+1620,Catharina Hemmen,female,white
+1621,Tryntje Van Tessel,female,white
+1622,Maria Buys,female,white
+1623,Geertie Vouw,unknown,white
+1624,Maritie Bailey,female,white
+1625,Engeltie Jurkse,female,white
+1626,Margriet Aertse,female,white
+1627,Cornelia Van Waert,female,white
+1628,Margriet Lent,female,white
+1629,Sara Boeckhout,female,white
+1630,Annatie Mabee,female,white
+1631,Aeffie Stymets,unknown,white
+1632,Rachel Beasely,female,white
+1633,Maritie Hemmen,female,white
+1634,Margriet Leydecker,female,white
+1635,Maritie Sampowa,female,white
+1636,Maritie Beasely,female,white
+1637,Hester De Voe,female,white
+1638,Rachel Juel,female,white
+1639,Sara Enders,female,white
+1640,Hester Tankere,female,white
+1641,Marthen Gardenier,unknown,white
+1642,Helena Everdt Bruyn,female,white
+1643,Susanna Miller,female,white
+1644,Susanna Wever,female,white
+1645,Maritie Bishop,female,white
+1646,Janitie Waldron,unknown,white
+1647,Lea Dobs,female,white
+1648,Meino de Revier,male,white
+1649,Feytie Canckle,unknown,white
+1650,Elizabeth Rutan,female,white
+1651,Rebecca Juel,female,white
+1652,Geertie Vermillie,unknown,white
+1653,Hittebel Vermillie,unknown,white
+1654,Annatie Tinkelbach,female,white
+1655,Esther Lent,female,white
+1656,Marthen Buys,unknown,white
+1657,Margriet Davids,female,white
+1658,Sielietie Janse,unknown,white
+1659,Anneke Storm,female,white
+1660,Rachel Bailey,female,white
+1661,Esther Brown,female,white
+1662,Antony Van Waert,male,white
+1663,Meynotie Martlings,unknown,white
+1664,Meino Martlings,male,white
+1665,Maria Ackerman,female,white
+1666,Rachel Mabee,female,white
+1667,Catrina Waldron,female,white
+1668,Maria Davids,female,white
+1669,Antye Jurkse,unknown,white
+1670,Sara Krankheit,female,white
+1671,Aeltie Boeckhout,unknown,white
+1672,Hester Dani,female,white
+1673,Judith Barheyt,female,white
+1674,Margriet Roods,female,white
+1675,Margriet Stevense,female,white
+1676,Magdalena De Voe,female,white
+1677,Van Weert,male,white
+1678,Aeltie Jacobse,unknown,white
+1679,Anna Boeckhout,female,white
+1680,Hanatye Krank,unknown,white
+1681,Janitie Mercdennel,unknown,white
+1682,Catrina Douni,female,white
+1683,Janitie Banker,unknown,white
+1684,Hanatye Martin,unknown,white
+1685,Janitie Dyckman,unknown,white
+1686,Helena Davids,female,white
+1687,Maria Philipse,female,white
+1688,Maria Sclat,female,white
+1689,Margriet Daniels,female,white
+1690,Catrina Syffer,female,white
+1691,Meino Banker,male,white
+1692,Sara Douningh,female,white
+1693,Margriet Shaarwood,female,white
+1694,Barbera Banker,female,white
+1695,Darckis Enders,unknown,white
+1696,Rachel Duytser,female,white
+1697,Adam Machiel,male,white
+1698,Debora Martin,female,white
+1699,Heleng Ecker,unknown,white
+1700,Josyna Teller,unknown,white
+1701,Geertie Bandt,unknown,white
+1702,Anatie Davids,female,white
+1703,Hester Daniels,female,white
+1704,Catrina Tinkelbach,female,white
+1705,Saartie Williams,unknown,white
+1706,Margriet Storm,female,white
+1707,Engeltie Mabee,female,white
+1708,Catrina Canklin,female,white
+1709,Christina Aertse,female,white
+1710,Catrina Bussing,female,white
+1711,Susanna Van Waert,female,white
+1712,Sophia Gravenstien,female,white
+1713,Margriet Dyckman,female,white
+1714,Annatie Vermillie,female,white
+1715,Maritie Rasel,female,white
+1716,Debora Boeckhout,female,white
+1717,Maritie Aertse,female,white
+1718,Janitie Shoomaker,unknown,white
+1719,Wyntie Storm,unknown,white
+1720,Chrisie Williams,unknown,white
+1721,Margriet Gal,female,white
+1722,Judah Barheyt,male,white
+1723,Rachel Wilse,female,white
+1724,Anna Jurkse,female,white
+1725,Petronella Davids,female,white
+1726,Barbera Aersen,female,white
+1727,Catrina Brown,female,white
+1728,Feytie de Revier,unknown,white
+1729,Judick Bailey,unknown,white
+1730,Lea Storm,female,white
+1731,Margriet Van Waert,female,white
+1732,Lena Hemmen,female,white
+1733,Aeltie Requaw,unknown,white
+1734,Maritie Aersen,female,white
+1735,Margriet Hont,female,white
+1736,Seia Van Waert,unknown,white
+1737,Catrina Banker,female,white
+1738,Seintie Vermillie,unknown,white
+1739,Annatie De Voe,female,white
+1740,Annatie Van,female,white
+1741,Engeltie Van,female,white
+1742,Frena Rouw,unknown,white
+1743,Maritie Levrens,female,white
+1744,Annatie Breitt (or Bueis),female,white
+1745,Rebecca Duytser,female,white
+1746,Catrina,unknown,white
+1747,wid Frederick Bruin,female,white
+1748,Jemeima Aersen,unknown,white
+1749,Maritie Ablines,female,white
+1750,Susanna Monfoor,female,white
+1751,Catiena Hemmen,unknown,white
+1752,Keyaa Van Tessel,unknown,white
+1753,Catiena Martlings,unknown,white
+1754,Willimytie Ecker,unknown,white
+1755,Catrieng Duytser,unknown,white
+1756,Femmitie Williams,unknown,white
+1757,Hester Davids,female,white
+1758,Catiena Ackerman,unknown,white
+1759,Maritie Merlin,female,white
+1760,Maritie Syffer,female,white
+1761,Maritie De,female,white
+1762,Abigail Jurkse,female,white
+1763,Maritie Banker,female,white
+1764,Annatie Koningh,female,white
+1765,Annatie,female,white
+1766,Maritie Dyckman,female,white
+1767,Rachel,unknown,white
+1768,Maritie,female,white
+1769,Magrietje Williams,unknown,white
+1770,Maritie Hammond,female,white
+1771,Margriet Brush,female,white
+1772,Janitie Spingeler,unknown,white
+1773,Willemintie Bare,unknown,white
+1774,Jenny Hemmen,female,white
+1775,Catrina Roemer,female,white
+1776,Maritie Denfort,female,white
+1777,Annatie Dyckman,female,white
+1778,Elizabeth Vermillie,female,white
+1779,Sara Britt,female,white
+1780,Willemintie Bandt,unknown,white
+1781,wife of John Vousie,female,white
+1782,Sara Lemetter,female,white
+1783,Annatie Familia,female,white
+1784,Hendricx Wiltse,unknown,white
+1785,Helena Maria Hof,female,white
+1786,Crestena Syn,unknown,white
+1787,Eva Tyssen,female,white
+1788,Anna Syn,female,white
+1789,Maritie Zyn,female,white
+1790,Antie Van Texel,female,white
+1791,Emie Krankheyt,female,white
+1792,Crestena Tyssen,unknown,white
+1793,Vrona Leemans,unknown,white
+1794,Susanna Derckse a Negro,female,Black
+1795,Annatie Texer,female,white
+1796,Isaac Pearse,male,white
+1797,Abraham Bockee,male,white
+1798,Eva Hutchings,female,white
+1799,Rachel Post,female,white
+1800,Eva Jurkse,female,white
