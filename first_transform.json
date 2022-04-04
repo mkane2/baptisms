@@ -5,7 +5,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -18,7 +18,7 @@
         "to": "William"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -26,7 +26,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -484,7 +484,7 @@
         "to": "Joghem"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -492,7 +492,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -505,7 +505,7 @@
         "to": "Arie"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -513,7 +513,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1243,7 +1243,7 @@
         "to": "Teunis"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1251,7 +1251,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1273,7 +1273,7 @@
         "to": "Stephan"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1281,7 +1281,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1368,7 +1368,7 @@
         "to": "Marten"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1376,7 +1376,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1407,7 +1407,7 @@
         "to": "Jonathan"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1415,7 +1415,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1428,7 +1428,7 @@
         "to": "Joseph"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1436,7 +1436,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1458,7 +1458,7 @@
         "to": "Deleverens"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1466,7 +1466,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1488,7 +1488,7 @@
         "to": "Nathan"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1496,7 +1496,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1555,7 +1555,7 @@
         "to": "Edmond"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1563,9 +1563,9 @@
       "facets": [
         {
           "type": "range",
-          "name": "sponsors 2 1",
+          "name": "parents 2 1",
           "expression": "value.length()",
-          "columnName": "sponsors 2 1",
+          "columnName": "parents 2 1",
           "from": 0,
           "to": 4.3999999999999995,
           "selectNumeric": true,
@@ -1576,7 +1576,7 @@
       ],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1588,7 +1588,7 @@
         "to": "Sas"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1596,9 +1596,9 @@
       "facets": [
         {
           "type": "range",
-          "name": "sponsors 2 1",
+          "name": "parents 2 1",
           "expression": "value.length()",
-          "columnName": "sponsors 2 1",
+          "columnName": "parents 2 1",
           "from": 0,
           "to": 4.3999999999999995,
           "selectNumeric": true,
@@ -1609,7 +1609,7 @@
       ],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1621,7 +1621,7 @@
         "to": "Thomas"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1629,7 +1629,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1642,7 +1642,7 @@
         "to": "Hendrick"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1650,7 +1650,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1690,7 +1690,7 @@
         "to": "Cornelius"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1698,7 +1698,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1711,7 +1711,7 @@
         "to": "Caleb"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1719,7 +1719,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1731,7 +1731,7 @@
         "to": "Albert"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1739,7 +1739,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1751,7 +1751,7 @@
         "to": "Alexander"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1759,7 +1759,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1771,7 +1771,7 @@
         "to": "Antony"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1779,7 +1779,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1791,7 +1791,7 @@
         "to": "Casper"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1799,7 +1799,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1811,7 +1811,7 @@
         "to": "Cobes"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1819,7 +1819,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1831,7 +1831,7 @@
         "to": "Christian"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1839,7 +1839,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1851,7 +1851,7 @@
         "to": "Frank"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1859,7 +1859,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1871,7 +1871,7 @@
         "to": "Hendrick"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1879,7 +1879,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1891,7 +1891,7 @@
         "to": "Jan"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1899,7 +1899,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1911,7 +1911,7 @@
         "to": "Joachim"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1919,7 +1919,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1931,7 +1931,7 @@
         "to": "Joachim"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1939,7 +1939,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1951,7 +1951,7 @@
         "to": "Paulus"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1959,7 +1959,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1971,7 +1971,7 @@
         "to": "Samuel"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1979,7 +1979,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -1991,7 +1991,7 @@
         "to": "Stephan"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -1999,7 +1999,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -2011,7 +2011,7 @@
         "to": "Thomas"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
     {
       "op": "core/mass-edit",
@@ -2019,7 +2019,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -2032,7 +2032,7 @@
           "to": "Catrina"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -2040,7 +2040,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -2062,7 +2062,7 @@
           "to": "Annatie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -2070,7 +2070,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -2687,7 +2687,7 @@
           "to": "Geertje"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -2695,7 +2695,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -2708,7 +2708,7 @@
           "to": "Aeltie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -2716,7 +2716,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3081,7 +3081,7 @@
           "to": "Jezyntie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3089,7 +3089,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3259,7 +3259,7 @@
           "to": "Magdalena"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3267,7 +3267,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3280,7 +3280,7 @@
           "to": "Eva"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3288,7 +3288,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3328,7 +3328,7 @@
           "to": "Johanna"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3336,7 +3336,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3403,7 +3403,7 @@
           "to": "Emmetie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3411,7 +3411,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3424,7 +3424,7 @@
           "to": "Emmetie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3432,7 +3432,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3444,7 +3444,7 @@
           "to": "Annatie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3452,7 +3452,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3464,7 +3464,7 @@
           "to": "Aeltie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3472,7 +3472,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3484,7 +3484,7 @@
           "to": "Annatie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3492,7 +3492,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3504,7 +3504,7 @@
           "to": "Brechie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3512,7 +3512,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3524,7 +3524,7 @@
           "to": "Cathalyna"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3532,7 +3532,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3544,7 +3544,7 @@
           "to": "Dirckje"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3552,7 +3552,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3564,7 +3564,7 @@
           "to": "Elsie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3572,7 +3572,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3584,7 +3584,7 @@
           "to": "Emmetie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3592,7 +3592,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3604,7 +3604,7 @@
           "to": "Eva"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3612,7 +3612,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3624,7 +3624,7 @@
           "to": "Geesje"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3632,7 +3632,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3644,7 +3644,7 @@
           "to": "Jemima"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3652,7 +3652,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3664,7 +3664,7 @@
           "to": "Jemina"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3672,7 +3672,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3684,7 +3684,7 @@
           "to": "Jezyntie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3692,7 +3692,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3704,7 +3704,7 @@
           "to": "Lea"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3712,7 +3712,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3724,7 +3724,7 @@
           "to": "Maria"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3732,7 +3732,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3744,7 +3744,7 @@
           "to": "Maritie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3752,7 +3752,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3764,7 +3764,7 @@
           "to": "Niesse"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3772,7 +3772,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3784,7 +3784,7 @@
           "to": "Phoebe"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3792,7 +3792,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3804,7 +3804,7 @@
           "to": "Rachel"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3812,7 +3812,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3824,7 +3824,7 @@
           "to": "Wyntie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
     {
       "op": "core/mass-edit",
@@ -3832,7 +3832,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 1",
+      "columnName": "parents 2 1",
       "expression": "value",
       "edits": [
         {
@@ -3844,7 +3844,7 @@
           "to": "Wyntie"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 1"
+      "description": "Mass edit cells in column parents 2 1"
     },
   {
     "op": "core/mass-edit",
@@ -3852,7 +3852,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -4109,7 +4109,7 @@
         "to": "Engeltie"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -4117,7 +4117,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -4139,7 +4139,7 @@
         "to": "Janitie"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -4147,7 +4147,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -4458,7 +4458,7 @@
         "to": "Hester"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -4466,7 +4466,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -4607,7 +4607,7 @@
         "to": "Sophia"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -4615,7 +4615,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -4628,7 +4628,7 @@
         "to": "Lea"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -4636,7 +4636,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -4658,7 +4658,7 @@
         "to": "Grees"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
+    "description": "Mass edit cells in column parents 2 1"
   },
   {
     "op": "core/mass-edit",
@@ -4666,7 +4666,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 1",
+    "columnName": "parents 2 1",
     "expression": "value",
     "edits": [
       {
@@ -4688,6 +4688,1405 @@
         "to": "Petronella"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 1"
-  }
-]
+    "description": "Mass edit cells in column parents 2 1"
+  },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Anthoine",
+            "Anthonie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Anthony"
+        },
+        {
+          "from": [
+            "Dirckrick",
+            "Dirkrick"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirkrick"
+        },
+        {
+          "from": [
+            "Jost",
+            "Joost"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Joost"
+        },
+        {
+          "from": [
+            "Haggaeus",
+            "Haggeus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Haggeus"
+        },
+        {
+          "from": [
+            "Andries",
+            "Anderies"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Andries"
+        },
+        {
+          "from": [
+            "Antoine",
+            "Antonie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Antoine"
+        },
+        {
+          "from": [
+            "Roelof",
+            "Roelef"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Roelof"
+        },
+        {
+          "from": [
+            "Jurian",
+            "Jurrian"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jurian"
+        },
+        {
+          "from": [
+            "Simon",
+            "Simons"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Simon"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Volkerd",
+            "Volkhard",
+            "Volkhert"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Volkhert"
+        },
+        {
+          "from": [
+            "Claes",
+            "Klaas"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Claes"
+        },
+        {
+          "from": [
+            "Leffert",
+            "Leffard"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Leffert"
+        },
+        {
+          "from": [
+            "Joachim",
+            "Joachem"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Joachim"
+        },
+        {
+          "from": [
+            "Frederick",
+            "Frederik"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Frederick"
+        },
+        {
+          "from": [
+            "Aris",
+            "Ares"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aries"
+        },
+        {
+          "from": [
+            "Aard",
+            "Aert"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aard"
+        },
+        {
+          "from": [
+            "Barent",
+            "Barend"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Barent"
+        },
+        {
+          "from": [
+            "Antoine",
+            "Antony"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Antoine"
+        },
+        {
+          "from": [
+            "Dirk",
+            "Derck"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirk"
+        },
+        {
+          "from": [
+            "Reinier",
+            "Rynier"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Reinier"
+        },
+        {
+          "from": [
+            "Arend",
+            "Arent"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Arend"
+        },
+        {
+          "from": [
+            "Francois",
+            "Frans"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Francois"
+        },
+        {
+          "from": [
+            "Haggeus",
+            "Haggaus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Haggeus"
+        },
+        {
+          "from": [
+            "Karel",
+            "Karul"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Karel"
+        },
+        {
+          "from": [
+            "Gisbrecht",
+            "Gysbrecht"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Gisbrecht"
+        },
+        {
+          "from": [
+            "Laurens",
+            "Louwerens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Laurens"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Michael",
+            "Michel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Michael"
+        },
+        {
+          "from": [
+            "Gerardus",
+            "Geerhardus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Gerardus"
+        },
+        {
+          "from": [
+            "Antoine",
+            "Anthony"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Antoine"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Theodore",
+            "Theodorus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Theodore"
+        },
+        {
+          "from": [
+            "Landolph",
+            "Landolphus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Landolph"
+        },
+        {
+          "from": [
+            "Christian",
+            "Christianus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Christian"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Christoffel",
+            "Christofel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Christofel"
+        },
+        {
+          "from": [
+            "Reyer",
+            "Ryer"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Reyer"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Jeronimus",
+            "Jeronymus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jeronimus"
+        },
+        {
+          "from": [
+            "Eyte",
+            "Ida"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Ida"
+        },
+        {
+          "from": [
+            "Simon",
+            "Symen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Simon"
+        },
+        {
+          "from": [
+            "Wilhelmus",
+            "Willelmus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Wilhelmus"
+        },
+        {
+          "from": [
+            "Catharina",
+            "Catharine"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catharina"
+        },
+        {
+          "from": [
+            "Gisbert",
+            "Gysbert"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Gisbert"
+        },
+        {
+          "from": [
+            "Louisje",
+            "Louwiesje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Louisje"
+        },
+        {
+          "from": [
+            "Volkert",
+            "Volkhert"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Volkert"
+        },
+        {
+          "from": [
+            "Laurens",
+            "Lourens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Laurens"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Tys",
+            "Thys"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Tys"
+        },
+        {
+          "from": [
+            "Jeronimus",
+            "Hieronymus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jeronimus"
+        },
+        {
+          "from": [
+            "Joachim",
+            "Jochem"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Joachim"
+        },
+        {
+          "from": [
+            "Christian",
+            "Cristaen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Christian"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Hendrick",
+            "Hendricks"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hendrick"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Willemptje",
+            "Willemtie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Willemtie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Janneke",
+            "Janeke",
+            "Jannake"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Janneke"
+        },
+        {
+          "from": [
+            "Margriet",
+            "Margariet",
+            "Margretie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Elsie",
+            "Eilse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elsie"
+        },
+        {
+          "from": [
+            "Geertruy",
+            "Gertruy"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertie"
+        },
+        {
+          "from": [
+            "Geertie",
+            "Gerritie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertie"
+        },
+        {
+          "from": [
+            "Hildegond",
+            "Hillegond"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hildegond"
+        },
+        {
+          "from": [
+            "Gertruyd",
+            "Geertruyd"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertie"
+        },
+        {
+          "from": [
+            "Magdalena",
+            "Magdalene"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Magdalena"
+        },
+        {
+          "from": [
+            "Catalyntie",
+            "Cateleyntie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catalyntie"
+        },
+        {
+          "from": [
+            "Janitie",
+            "Jannettie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Janitie"
+        },
+        {
+          "from": [
+            "Agnietje",
+            "Angenitje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Agnietje"
+        },
+        {
+          "from": [
+            "Johanna",
+            "Johana"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Johanna"
+        },
+        {
+          "from": [
+            "Anneke",
+            "Annaken"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Anneke"
+        },
+        {
+          "from": [
+            "Neeltje",
+            "Neltje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Neeltje"
+        },
+        {
+          "from": [
+            "Tietje",
+            "Titje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Tietje"
+        },
+        {
+          "from": [
+            "Annatie",
+            "Annetie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Annatie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Josina",
+            "Jesina"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Josina"
+        },
+        {
+          "from": [
+            "Anna",
+            "Anne"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Anna"
+        },
+        {
+          "from": [
+            "Gertje",
+            "Geurtje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertie"
+        },
+        {
+          "from": [
+            "Catrina",
+            "Catryna"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catrina"
+        },
+        {
+          "from": [
+            "Cunira",
+            "Kunira"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cunira"
+        },
+        {
+          "from": [
+            "Sitie",
+            "Sytie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Sitie"
+        },
+        {
+          "from": [
+            "Catharina",
+            "Catharine"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catharina"
+        },
+        {
+          "from": [
+            "Margriet",
+            "Margaret"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Louisa",
+            "Louise"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Louisa"
+        },
+        {
+          "from": [
+            "Catalina",
+            "Cataline"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catalina"
+        },
+        {
+          "from": [
+            "Maria",
+            "Marie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maria"
+        },
+        {
+          "from": [
+            "Adriana",
+            "Adriane"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Adriana"
+        },
+        {
+          "from": [
+            "Trintje",
+            "Tryntje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Trintje"
+        },
+        {
+          "from": [
+            "Stintie",
+            "Styntie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Stintie"
+        },
+        {
+          "from": [
+            "Feytie",
+            "Fietie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Feytie"
+        },
+        {
+          "from": [
+            "Hendrika",
+            "Hendrickie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hendrika"
+        },
+        {
+          "from": [
+            "Tryntie",
+            "Trintie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Tryntie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Aardje",
+            "Aartje",
+            "Artie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Artie"
+        },
+        {
+          "from": [
+            "Catryntie",
+            "Catryntje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catryntie"
+        },
+        {
+          "from": [
+            "Willemtie",
+            "Willemtje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Willemtie"
+        },
+        {
+          "from": [
+            "Maritie",
+            "Maretje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maritie"
+        },
+        {
+          "from": [
+            "Wyntie",
+            "Weintje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Wyntie"
+        },
+        {
+          "from": [
+            "Catharina",
+            "Catrina"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catharina"
+        },
+        {
+          "from": [
+            "Cuniertie",
+            "Kniertie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cuniertie"
+        },
+        {
+          "from": [
+            "Adriantie",
+            "Adriantje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Adriantie"
+        },
+        {
+          "from": [
+            "Neeltje",
+            "Neeltie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Neeltje"
+        },
+        {
+          "from": [
+            "Tryntie",
+            "Trintje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Tryntie"
+        },
+        {
+          "from": [
+            "Hendrikje",
+            "Hendrika"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hendrika"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Catalina",
+            "Cathalina"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catalina"
+        },
+        {
+          "from": [
+            "Hilletie",
+            "Heyltje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hilletie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Adriantie",
+            "Adriantle"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Adriantie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Willemtie",
+            "Willemke"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Willemtie"
+        },
+        {
+          "from": [
+            "Willemptje",
+            "Willemtie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Willemtie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Adriantie",
+            "Adriana"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Adriantie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Margritie",
+            "Margriet",
+            "Margarite"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Angenietie",
+            "Angenitie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Angenitie"
+        },
+        {
+          "from": [
+            "Janneke",
+            "Janeken"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Janneke"
+        },
+        {
+          "from": [
+            "Geertie",
+            "Gerrit"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Geertie"
+        },
+        {
+          "from": [
+            "Artie",
+            "Aertie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Artie"
+        },
+        {
+          "from": [
+            "Swantje",
+            "Swaantje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Swantje"
+        },
+        {
+          "from": [
+            "Janitie",
+            "Jannetie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Janitie"
+        },
+        {
+          "from": [
+            "Agnietje",
+            "Angenietje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Agnietje"
+        },
+        {
+          "from": [
+            "Maritie",
+            "Marrittie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maritie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Ida",
+            "Ytie",
+            "Eytye"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Ida"
+        },
+        {
+          "from": [
+            "Margriet",
+            "Margareta",
+            "Margarita"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Swantje",
+            "Zwaantje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Swantje"
+        },
+        {
+          "from": [
+            "Dorothea",
+            "Dorothy"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dorothea"
+        },
+        {
+          "from": [
+            "Dirkje",
+            "Dirckje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirkje"
+        },
+        {
+          "from": [
+            "Gertrud",
+            "Gertruid"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Gertrud"
+        },
+        {
+          "from": [
+            "Lammetje",
+            "Lumetje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lammetje"
+        },
+        {
+          "from": [
+            "Maria",
+            "Marrie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maria"
+        },
+        {
+          "from": [
+            "Jacomintie",
+            "Jacomyntie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jacomin"
+        },
+        {
+          "from": [
+            "Hilletie",
+            "Heyltie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hilletie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Lisbeth",
+            "Lysbet"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Elizabeth"
+        },
+        {
+          "from": [
+            "Reinier",
+            "Rymier"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Reinier"
+        },
+        {
+          "from": [
+            "Wilempje",
+            "Willempie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Willempie"
+        },
+        {
+          "from": [
+            "Dirkje",
+            "Dirk"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirk"
+        },
+        {
+          "from": [
+            "Pietertie",
+            "Pietertje"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Pietertie"
+        },
+        {
+          "from": [
+            "Margriet",
+            "Margaretha"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Margriet"
+        },
+        {
+          "from": [
+            "Catharina",
+            "Catarina"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Catharina"
+        },
+        {
+          "from": [
+            "Jacomin",
+            "Jacomina"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jacomin"
+        },
+        {
+          "from": [
+            "Agnietje",
+            "Agneta"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Agnietje"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2 1",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Willemtie",
+            "Willempie"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Willemtie"
+        }
+      ],
+      "description": "Mass edit cells in column parents 2 1"
+    }
+  ]

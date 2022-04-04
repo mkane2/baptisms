@@ -1,0 +1,666 @@
+date 1,date 2,date 3,parents 1,parents 2,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1 1,parents 1 2,parents 2 1,parents 2 2,child,sponsors 1 1,sponsors 1 2,sponsors 2 1,sponsors 2 2
+1677,Sep,16,Gisbert Thyssen,Janitie Adrianse,,,,,Gisbert,Thyssen,Janitie,Adrianse,Wilhelmyntje,,,,
+1677,Sep,16,Dirk Stofelsz van Langstraet,Catharina van Leeuwen,William Davids,Helena Aardsen,,,Dirk,Stofelsz van Langstraet,Catharina,van Leeuwen,Arien,William,Davids,Helena,Aardsen
+1677,Sep,16,Gerrit Snedeker,Elsie Teunisz,,,,,Gerrit,Snedeker,Elsie,Teunisz,Abraham,,,,
+1677,Sep,16,Lucas Stevens van Voorhees,Catharina Hanse,Jan Kiersz,Hendrika Stevens van Voorhees,,,Lucas,Stevens,Catharina,Hanse,Stephen,Jan,Kiersz,Hendrika,Stevens
+1677,Sep,16,Haggeus Jansz van Dyk,Janitie Lambertsz,,,,,Haggeus,Jansz van Dyk,Janitie,Lambertsz,Lambert,,,,
+1677,Sep,30,Arend Isaacksz,Stintie Laurens,Hendrick Slecht,Janitie Roemers,,,Arend,Isaacksz,Stintie,Laurens,Roelof,Hendrick,Slecht,Janitie,Roemers
+1677,Sep,30,Jan Peters,Stintie Hansz,William Joris,Hermjen Jansz,,,Jan,Peters,Stintie,Jansz,Margriet,William,Joris,Hermjen,Jansz
+1677,Oct,14,William Joris,Hendrika Johannes,Johannes Marcus,Tyntie Claasse,,,William,Joris,Hendrika,Johannes,Elsje,Johannes,Marcus,Tyntie,Claasse
+1677,Oct,14,Jan Cornelisz Boomgard,Agnietje Stryker,Peter Stryker,Sara Stryker,,,Jan,Cornelisz Boomgard,Agnietje,Stryker,Lambertje,Peter,Stryker,Sara,Stryker
+1677,Dec,9,Jan Frederiksz van Leeuwen,Aeltie Jansz,Claes Arendsz van Vechten,Dina Jans,,,Jan,Frederick,Aeltie,Jansz,Jan,Claes,Arentsz,Dina,Jansz
+1677,Dec,9,Gerrit Corsz,Neeltje Jansz,Annatie Jansz,Jan Vincent,,,Gerrit,Corsz,Neeltje,Jansz,Annetje,Annetje,Jansz,Jan,Vincent
+1677,Dec,16,Gerrit Stryker,Weintie Kornelis Bogart,Jan Cornelisz Boomgard,Geesje Boomgard,,,Gerrit,Stryker,Wyntie,Cornelis Boomgart,Gezina,Jan,Cornelisz Boomgard,Geesje,Boomgard
+1677,Dec,25,Elderd Lucasz,Stintie Hendriksz,Gerrit Snedeker,Egbertie Jansen,,,Elderd,Lucasz,Stintie,Hendriksz,Lucas,Gerrit,Snedeker,Egbertie,Jansen
+1677,Dec,26,Marthen Reyersz,Annetje Jorisen Rapelye,Hieronymus Rapelye,Louisa van Zuren,,,Marthen,Reyersz,Annetje,Jorisen,Jacobus,Jeronimus,Rapelje,Louisa,van Zuren
+1678,Jan,16,Roelof Marten Schenk,Annatie Peters,Court Stevensz van Derveer,Geertie van Ness,,,Roelof,Marten Schenk,Annetje,Peters,Margrietie,Court,Stevensz van Derveer,Geertie,van Ess
+1678,Feb,3,William Davids,Helena Aardsen,,,,,William,Davids,Helena,Aards,Helena,,,,
+1678,Feb,10,Paulus Van Der Beek,Sara Schouten,Paulus Van Der Beek,Sara Schouten,,,Paulus,Van Der Beek,Sara,Schouten,Sara,Paulus,Van Der Beek,Sara,Schouten
+1678,Feb,17,Teunis Jansen,Janitie Jansz Brower,Jan Brouwer,Janitie Brouwer,,,Teunis,Jansz,Janitie,Jansz Brower,Aafje,Jan,Brouwer,Janitie,Brouwer
+1678,Feb,17,Jacob Joris,Elizabeth Thomas,Joris Jacobs,Thomas Lambertsz,Janitie Peters Monfort,,Jacob,Joris,Elizabeth,Thomas,Joris,Joris,Jacobs,Thomas,Lambertsz
+1678,Mar,31,Adrian Hendriksz,Elizabeth Thomas,Hendrick Van Doesburg,Maritie Van Doesburg,,,Adrian,Hendriksz,Elizabeth,Thomas,Marritie,Hendrick,Van Doesburg,Maritie,Van Doesburg
+1678,Mar,31,Adrian Reyersz,Annatie Martens Schenk,,,,,Adrian,Reyersz,Annetje,Martens,Reyer,,,,
+1678,Mar,31,Abraham Marles,,Jan Corsen,Margriet Corsen,,,Abraham,Marles,,,Margriet,Jan,Corsen,Margriet,Corsen
+1678,Mar,31,William van Borkeloo,Elizabeth Jansen Woertman,Stoffel Jans Romein,Stintie Alberts,,,William,van Borkeloo,Elizabeth,Jansz,David,Stoffel,Jans Romein,Stintie,Alberts
+1678,Apr,1,,,Hieronymus Rapelye,Catelyntie Rapelje,,,,,,,Jan,Jeronimus,Rapelje,Catelyntie,Rapelje
+1678,Apr,7,Simon Jans van Arsdalen,Peterje Klaasen Wykof,Lisbeth Thomas,,,,Simon,Jansz van Arsdalen,Peterje,Klaasen Wykof,Marritje,Lisbeth,Thomas,,
+1678,Apr,21,Jan Gellisz,Aeltie Peters,,,,,Jan,Gellisz,Altje,Peters,Wilhelmina,,,,
+1678,Apr,28,Jan Gerrits van Cowenhoven,Gerardina De Sille,Laurens De Sille,Archonia Hildegond,,,Jan,Gerrits van Cowenhoven,Godardina,De Sille,Altje,Laurens,De Sille,Archonia,Hildegond
+1678,May,5,Peter Gilliaumsz,Margriet Verschuur,Cornelius Steenwick,Margriet Steenwick,,,Peter,Guilliamsz,Margriet,Verschuur,(blank),Cornelius,Steenwick,Margriet,Steenwick
+1678,May,5,Casper van Zuren,Louisa van Zuren,Johannes Hellenius,Sophia Hellenius,Catharina Polhemius,,Casper,van Zuren,Louisa,van Zuren,Johana Louisa,Johannes,Hellenius,Sophia,Hellenius
+1678,May,12,Lambert Dorland,Harmtje Dorland,Thomas Lambertsz,Annatie Remsz,,,Lambert,Dorland,Harmtje,Dorland,Elsje,Thomas,Lambertsz,Annatie,Remsz
+1678,May,12,Jacob Hansz Bergen,Elsie Frederiks Lubertse van der Kreest,Teunis Gisbertsz Bogart,Sara Rapelje,,,Jacob,Hansz Bergen,Elsie,Frederiks Lubertse van der Kreest,Hans,Teunis,Gisbertsz Bogart,Sara,Rapelje
+1678,May,12,Melchert Casparsz,,Maria Teunisz,,,,Melchert,Casparsz,,,Catharina,Maria,Theunis,,
+1678,May,12,Gisbert Jansz,Sophia Jansz van Putten,Elsie Barends,Jan Aukes,,,Gisbert,Jansz,Sophia,Jansz van Putten,Heyltje,Eilse,Barends,Jan,Aukes
+1678,May,12,Jan Wouters van den Bosh,Wyntie Peters,,,,,Jan,Wouters van der Bosch,Wyntie,Peters,Jacobus 5 yrs,,,,
+1678,May,12,Jan Wouters van den Bosh,Wyntie Peters,,,,,Jan,Wouters van der Bosch,Wyntie,Peters,Judith 2 yrs,,,,
+1678,May,12,Jan Wouters van den Bosh,,,,,,Jan,Wouters van der Bosch,,,"Weintie Peters, from Stanford New Eng,",,,,
+1678,Jun,2,Evert Hendriksz,Sophia Adams Brower,Jacob Peters,Aeltie Brouwer,,,Evert,Hendriksz,Sophia,Adams Brower,Jacobus,Jacob,Peters,Aeltie,Browers
+1678,Jun,2,Abraham De Toict,Janitie Bocquet,Bourgon Broucard,Catharina Broucard,,,Abraham,De Toict,Janitie,Bocquet,Catharine,Bourgon,Broucard,Catharina,Broucard
+1678,Jun,2,Michael Hansz Bergen,Emmetie Teunisz,Teunis Gisbertsz Bogart,Sara Jorissen Rapalye,,,Michael,Hansz Bergen,Emmetie,Teunisz,Sara,Teunis,Gisbertsz Bogart,Sara,Jorissen Rapalye
+1678,Jun,23,Coert Stevens,Maritie Gerrits van Cowenhoven,Thomas Willet,Hilletie Elbertsz Stoothoff,,,Court,Stevens,Maritie,Gerrits van Cowenhoven,Cornelis,Thomas,Willet,Hilletie,Elbertsz Stoothoff
+1678,Jun,30,,,Joris Woolsey,Rebecca Woolsey,,,,,,,William,Joris,Woolsey,Rebecca,Woolsey
+1678,Jun,30,,,Joris Woolsey,Rebecca Woolsey,,,,,,,Marritje,Joris,Woolsey,Rebecca,Woolsey
+1678,Jun,30,Jan Cornelis Buys,Machteld Gerritz Buys,Jan Buys,Christiaan Jacobsz Wolf,,,Jan,Cornelis Buys,Machteld,Gerritz Buys,Jan,Jan,Buys,Christiaan,Jacobsz Wolf
+1678,Jun,30,Cornelius Verwey,Hendrika Jans,Michael Hansz Bergen,Maria Teunisz,Tunis Nissen,,Cornelius,Verwey,Hendrika,Jans,Neltje,Michael,Hansz Bergen,Maritie,Teunisz
+1678,Jul,14,Barent Tice,,Wolphert Jansz,Adriantie van De Venter,,,Barent,Tice,,,Matthys,Wolphert,Jansz,Adriantie,van De Venter
+1678,Jul,14,Nicholas Stillwell,Catharina Stillwell,Daniel Stillwell,Richard Stillwell,,,Nicholas,Stillwell,Catharina,Stillwell,Anna,Daniel,Stillwell,Richard,Stillwell
+1678,Jul,14,Nicholas Stillwell,Catharina Stillwell,Adam Moth,Jan Morgan,,,Nicholas,Stillwell,Catharina,Stillwell,Catharina,Adam,Moth,Jan,Morgan
+1678,Jul,14,Nicholas Stillwell,Catharina Stillwell,Annetie Stillwell,Maria Stillwell,Maria Stillwell,,Nicholas,Stillwell,Catharina,Stillwell,Rebecca,Annetie,Stillwell,Maritie,Stillwell
+1678,Jul,14,Richard Michielsz, Michielsz,Louis Lakeman,Maria Walters,,,Richard,Michielsz,,Michielsz,Louis,Louis,Lakeman,Maria,Walters
+1678,Jul,14,Thomas Morgan,,Catharina Stillwell,,,,Thomas,Morgan,,,Thomas 2 yrs,Catharina,Stillwell,,
+1678,Jul,14,Thomas Morgan, Morgan,Catharina Stillwell,,,,Thomas,Morgan,,Morgan,Margrietie,Catharina,Stillwell,,
+1678,Jul,14,William Britton,Maria ,Ananias Torier,,,,William,Britton,Maria,,Willem age 15,Ananias,Torier,,
+1678,Jul,14,William Britton,Maria ,Joris Commens,,,,William,Britton,Maria,,Nathanael age 13,Joris,Commens,,
+1678,Jul,14,William Britton,Maria ,Nathanael Britton,,,,William,Britton,Maria,,Richard age 11,Nathanael,Britton,,
+1678,Jul,14,William Britton,Maria Britton,Peter Peters,,,,William,Britton,Maria,Britton,Joseph age 9,Peter,Peters,,
+1678,Jul,14,William Britton,Maria Britton,Peter Bolsouw,,,,William,Britton,Maria,Britton,Benjamin age 7,Peter,Bolsouw,,
+1678,Jul,14,William Britton,Maria Britton,Thomas Stillwell,,,,William,Britton,Maria,Britton,Jan age 5,Thomas,Stillwell,,
+1678,Jul,14,William Britton,Maria Britton,Daniel Stillwell,Jan Aukes,,,William,Britton,Maria,Britton,Daniel age 1,Daniel,Stillwell,Jan,Aukes
+1678,Jul,28,Dirk Jansen,Maria Teunisz,Denys Teunisz,Femmitie Tunis Nyssen,,,Dirk,Jansen,Maritie,Teunisz,Denys,Denys,Teunisz,Femmitie,Tunis Nyssen
+1678,Jul,28,Johannes Christofel Schars,Maria Willemsz Bennet,Nicholas Jansz,Catharina Van Der Beek,,,Johannes,Christofel Schars,Maria,Willemsz,Aaltje,Nicholas,Jansz,Catharina,Van Der Beek
+1678,Aug,11,Aries Jansz van der Bild,Hildegond Remsz,Jacob Jansz van der Bild,Janitie Roemers,,,Aries,Jansz van der Bild,Hildegond,Remsz,Jan,Jacob,Jansz van der Bild,Janitie,Roemers
+1678,Aug,18,Cornelius Janse Berrian,Janitie Stryker,Christoffel Probasco,Peter Stryker,Hilletie Klopper,,Cornelius,Janse Berrian,Janitie,Stryker,Jacob,Christofel,Probasco,Peter,Stryker
+1678,Aug,25,,Stintie Hansz,Tileman Jacobs van der Meyen,Elsie Barends,,,,,Stintie,Hansz,Catharyntje,Tileman,Jacobs,Elsie,Barends
+1678,Oct,15,Jan Elson,,Dirk Jansz van der Vliet,,,,Jan,Elson,,,Mahitabel,Dirk,Jansz van der Vliet,,
+1678,Oct,15,Dirk Storm,Maria Peters Monfort,Laurens Akerman,Janitie Titus,,,Dirk,Storm,Maria,Peters Monfort,Aaltje,Laurens,Akerman,Janitie,Titus
+1678,Oct,15,Joseph Hegeman,Emmetie Roemers,Janitie Joris Rapelje,Rem Jans van der Beek,,,Joseph,Hegeman,Emmetie,Roemers,Jannetje,Janitie,Joris Rapelje,Rem,Jans van der Beek
+1678,Dec,,Adrian Peters Kinne,Willemtie Peters Wyckof,Dirk Stofelsz van Langstraet,Adrian Andriez,Beletye Andriesz,,Adrian,Peters Kinne,Willemtie,Peters,Adrian,Dirk,Stoffelse,Adrian,Andriez
+1679,Jan,5,Jaques La Resiliere,Maria La Resiliere,Abraham De Toict,Magdalena Duiere,,,Jaques,La Resiliere,Maria,La Resiliere,Magdalena,Abraham,De Toict,Magdalena,Duiere
+1679,Jan,26,Michael Hainelle,Hendrika Strokels,Jan van Munster,Christine Freihoff,,,Michael,Hainelle,Hendrika,Strokels,Theodorus,Jan,van Munster,Christine,Freihoff
+1679,Jan,26,Andries Jurianse,Annatie Peters,Thomas Lambertsz,Janitie Lambertsz,,,Andries,Jurianse,Annetje,Peters,Jannetje,Thomas,Lambertsz,Janitie,Lambertsz
+1679,Feb,2,William Gerrits van Cowenhoven,Janitie Peters Monfort,Peter Monfort,Maria Peters,,,William,Gerrits van Cowenhoven,Janitie,Peters Monfort,Jacob,Peter,Monfort,Maritie,Peters
+1679,Feb,2,Daniel Joris Rapalie,Sara Abrahams Clok,Joris Hansz Bergen,Catalina Rapelje,,,Daniel,Joris Rapalie,Sara,Abrahams Clok,Catharine,Joris,Hansz Bergen,Catalina,Rapelje
+1679,Feb,2,Laurens Jansen,Altje Gillis De Mandeville,Trintie Gillis,,,,Laurens,Jansz,Altje,Gillis,Johannes,Trintie,Gillis,,
+1679,Feb,16,Christofel Jans Romein,Geertie Peters Wyckof,Peter Claasz Wykof,Geertie Cornelis,,,Christoffel,Jansz,Geertie,Peters Wyckof,Lisbeth,Peter,Claasz Wykof,Geertie,Cornelis
+1679,Feb,16,Claes Peters Wyckof,Sara Peters Monfort,Rudolph Marten Schenk,Annatie Peters,,,Claes,Peters Wyckof,Sara,Peters Monfort,Nicolaas,Rudolph,Marten Schenk,Annatie,Peters
+1679,Feb,23,Francois De Puys,Geertie Willemsz,Gerrit De Leydekker,Anna Maria,,,Francois,De Puys,Geertie,Willemsz,Sara,Gerrit,De Leydekker,Anna,Maria
+1679,Mar,16,Joost Casparsz,,Hendrick Jansen,Maritie Adrianse,,,Joost,Casparsz,,,Johannes,Hendrick,Jansz,Maritie,Adrianse
+1679,Mar,16,Paulus Van Der Beek,Sara Schouten,Jan Schouten,Sara Thomas,,,Paulus,Van Der Beek,Sara,Schouten,Maria,Jan,Schouten,Sara,Thomas
+1679,Mar,16,Hendrick Corsz Vroom,Josina Peters van Nest,Peter van Nest,Elsie Frederiks Lubertse van der Kreest,,,Hendrick,Corsz,Josina,Peters,Judith,Peter,van Nest,Elsie,Frederiks
+1679,Mar,31,Thomas Stillwell,,Peter Noe,Maria Arendsz,,,Thomas,Stillwell,,,Francina,Peter,Noe,Maria,Arendsz
+1679,Apr,20,Jacob Beauvois,Maria Joosten,Joost Karelsz DeBevoise,Sophia Lodenstein,,,Jacob,Beauvois,Maria,Joosten,Karel,Joost,Karelsz,Sophia,van Lodenstein
+1679,Apr,20,Jan Hansz Bergen,Janitie Teunisz,Lucas Tunisz Coevors,Sara Teunisz,,,Jan,Hansz Bergen,Janitie,Teunisz,Teunis,Lucas,Teunisz,Sara,Teunisz
+1679,Apr,27,Jan Teunisz,Maria Peters,Geertie Jansen,Joachim Gulik,,,Jan,Teunisz,Maria,Peters,Grietje,Geertie,Jansz,Joachim,Gulik
+1679,Apr,27,Jaques Boulon,Adriantie Corilon,Jan Bodin,Maria Corilon,,,Jaques,Boulon,Adriantie,Corilon,Maria,Jan,Bodin,Maria,Corilon
+1679,Apr,18,Jacob Hendriksz,Geesje Bartholds,Anna De Sille,Janneke Roemers,,,Jacob,Hendriksz,Geesje,Bartholds,Hendrik,Anna,De Sille,Janneke,Roemers
+1679,Apr,18,Jacob Hendriksz,Geesje Bartholds,Anna De Sille,Janneke Roemers,,,Jacob,Hendriksz,Geesje,Bartholds,Catalyntie,Anna,De Sille,Janneke,Roemers
+1679,May,18,Johannes Casparsz,Maria Casparsz,Marthen Reyersz,Catharina Hoogland,,,Johannes,Casparsz,Maria,Casparsz,Catarina,Marthen,Reyersz,Catharina,Hoogland
+1679,May,18,Haggeus Jansz van Dyk,Janitie Lambertsz,Peter Jansz van Dyk,Annatie van Dyck,,,Haggeus,Jansz van Dyk,Janitie,Lambertsz,Susanna,Peter,Jansz van Dyk,Annatie,van Dyck
+1679,May,18,Paulus Merlet,Elizabeth Bushwick,Jan Merlet,Elizabeth van der Wall,,,Paulus,Merlet,Elizabeth,Bushwick,Janneken,Jan,Merlet,Elizabeth,van der Wall
+1679,May,18,Isaac Sie,,,,,,Isaac,Sie,,,Simon,,,,
+1679,May,18,Arend Pral,,Isaac Sie,,,,Arend,Pral,,,Barentje,Isaac,Sie,,
+1679,May,18,Laurens Jurianse,Cunira Peters,Tileman Jacobs van der Meyen,Joris Jansz,Maria Meyring,,Laurens,Jurianse,Cunira,Peters,Jurian,Tileman,Jacobs,Joris,Jansz
+1679,May,25,Francois Martino,,Jean Belville,Hester Casier,,,Francois,Martino,,,Stephen,Jean,Belville,Hester,Casier
+1679,May,25,Jean Belville,,Francois Martino,Elizabeth Ravensteyn,,,Jean,Belville,,,Philip,Francois,Martino,Elizabeth,Ravensteyn
+1679,May,25,Richard Cartes,,Isaac Balieu,Maria Stillwell,,,Richard,Cartes,,,Richard,Isaac,Balieu,Maritie,Stillwell
+1679,Jun,22,Harman Hendriksz,Margriet Sodder,Fernandus van Sicklen,Stintie Hendriksz,,,Harman,Hendriksz,Margriet,Sodder,Hendrik,Fernandus,van Sicklen,Stintie,Hendriksz
+1679,Jun,29,Peter Monfort,Maria Peters,Jan Monfort,Janitie Hansz,,,Peter,Monfort,Maritie,Peters,Sartje,Jan,Monfort,Janitie,Jansz
+1679,Jul,15,Joost Duiere,Magdalena Duiere,Gisbert Tice van Pelt,Janitie Ariens,,,Joost,Duiere,Magdalena,Duiere,Jaques,Gisbert,Tice van Pelt,Janitie,Ariens
+1679,Jul,15,Harman Hey,Tryntie Jans van Ditmarsen,Jan Jansen van Ditmarschen,Adriantie Jansen van Ditmarschen,,,Harman,Hey,Tryntie,Jans van Ditmarsen,Emmetje,Jan,van Ditmarschen,Adriantie,van Ditmarschen
+1679,Jul,20,Clement Salomens,Johanna Salomens,,,,,Clement,Salomens,Johanna,Salomens,Maria aged 16,,,,
+1679,Jul,20,Clement Salomens,Johanna Salomens,,,,,Clement,Salomens,Johanna,Salomens,Samuel aged 10,,,,
+1679,Jul,27,Antoine du Chesne,Anna Bocke,Laurens Jansen,Altje Gillis De Mandeville,,,Antoine,du Chesne,Anna,Bocke,Maria,Laurens,Jansz,Aeltie,Gillis
+1679,Aug,17,Jurian Blanck,Hester Van Der Beek,Nicholas Blanck,Clasje Blanck,,,Jurian,Blanck,Hester,Van Der Beek,Jan,Nicholas,Blanck,Clasje,Blanck
+1679,Aug,17,Cornelius Jansz de Zeeuw,Geertie Kolfs,Peter Jansz Zeeuw,Sara Kolfs,,,Cornelius,Jansz de Zeeuw,Geertie,Kolfs,Jan,Peter,Jansz Zeeuw,Sara,Kolfs
+1679,Aug,19,Gisbert Mathysz,Janitie Ariens,Hendrick Willemsz,Maria Ariens,,,Gisbert,Mathysz,Janitie,Ariens,Matthys,Hendrick,Willemsz,Maria,Ariens
+1679,Aug,23,Peter Gilliaumsz,Margriet Verschuur,William Gilliaumsz,Margriet Polhemius,,,Peter,Guilliamsz,Margriet,Verschuur,Guiliame,William,Gilliaumsz,Margriet,Polhemius
+1679,Sep,7,Lucas Stevens van Voorhees,Catalina Hanse,Aeltie Stevens van Voorhees,,,,Lucas,Stevens,Catalina,Hanse,Hans,Aeltie,Stevens,,
+1679,Sep,14,Cornelius Peters Wyckof,Geertie Simons van Arsdalen,Peter Claasz Wykof,Geertie Hendriks van Ness,,,Cornelius,Peters Wyckof,Geertie,Simons van Arsdalen,Pieter,Peter,Claasz Wykof,Geertie,Hendriks van Ness
+1679,Sep,14,William Brouwer,Elsie Brouwer,Josias Strakken,Aeltie Brouwer,,,William,Brouwer,Elsie,Brouwer,Magdalena,Josias,Strakken,Aeltie,Brouwer
+1679,Sep,28,Jan Aukes,Barbara Provost,Jacob Aukez van Nuys,Reinier Arendsz,,,Jan,Aukes,Barbara,Provost,Willem,Jacob,Aukez van Nuys,Reinier,Arendsz
+1679,Sep,28,Antoine van Pelt,Magdalena van Pelt,Geertie Jansen,Teunis van Pelt,,,Antoine,van Pelt,Magdalena,van Pelt,(blank),Geertie,Jansz,Teunis,van Pelt
+1679,Oct,5,Jan Aardsz,Adriantie Cornelis,Jan Stryker,Agatha Elbertsz Stoothoff,,,Jan,Aardsz,Adriantie,Cornelis,Mattheus,Jan,Stryker,Agatha,Elbertsz Stoothoff
+1679,Oct,5,Cornelius Barentsz van der Wyck,Anna Polhemius,Daniel Polhemius,Artie Teunis Bogard,,,Cornelius,Barentsz van der Wyck,Anna,Polhemius,Aaltje,Daniel,Polhemius,Artie,Teunis Bogard
+1679,Oct,12,Jan Cornelis Buys,Machteld Gerritz Buys,Jan Buys,Willemtie Thysen,,,Jan,Cornelis Buys,Machteld,Gerritz,Margritie,Jan,Buys,Willemtie,Tysen
+1679,Nov,2,Francois Joosten,Geertie Aukes,Wynant Peters,,Jannetie Aukes van Nuys,,Francois,Joosten,Geertie,Aukes,Magdalena,Wynant,Peters,,
+1679,Nov,16,Cornelius Jans van de Veer,Tryntie Aaltje Gillis,Gertrud Lott,,,,Cornelius,Jans van de Veer,Tryntie,Aaltje Gillis,Dominicus,Gertruyd,Lott,,
+1679,Dec,14,,Abigail ,Jan Buys,Cornelius Verwey,,,Dentin,,Abigail,,Daniel aged 17/18,Jan,Buys,Cornelius,Verwey
+1679,Dec,14,Jan Leurst,Rachel Dirks,Michael Hainelle,Janitie Messural,,,Jan,Leurst,Rachel,Dirks,Ragel,Michael,Hainelle,Janitie,Messural
+1679,Dec,20,Jan Stevens van Voorhees,Cornelia Reiniers Wizzelpennig,Willemtie Sebring,Lucas Stevens van Voorhees,,,Jan,Stevens,Cornelia,Reiniers Wizzelpennig,Stephen,Willemtie,Sebring,Lucas,Stevens van Voorhees
+1679,Dec,25,Lambert Jansz Dorland,Tietje Barends,,,,,Lambert,Jansz,Tietje,Barends,Ida,,,,
+1679,Dec,26,Gerrit Stryker,Weintie Kornelis Bogart,Jacob Stryker,Ida Stryker,,,Gerrit,Stryker,Wyntie,Cornelis Boomgart,Jannetje,Jacob,Stryker,Ida,Stryker
+1679,Dec,26,Joris Hansz Bergen,Sara Stryker,Janitie Joris Rapelje,Jan Stryker,,,Joris,Hansz Bergen,Sara,Stryker,Lammertje,Janitie,Joris Rapelje,Jan,Stryker
+1679,Dec,26,Reinier Arendsz,Janitie Aukes,Jan Aukez van Nuys,Emmetie Aukes,,,Reinier,Arendsz,Janitie,Aukes,Barbara,Jan,Aukez van Nuys,Emmetie,Aukes
+1679,Dec,28,Titus Sirachsz De Vries,Janitie Teunisz,Hendrika Strokels,,,,Titus,Sirachsz,Janitie,Teunisz,Sjak,Hendrika,Strokels,,
+1679,Dec,28,Casper van Zuren,Louisa Hellenius,Abraham Hellenius,Maria van Zuren,Catharina Hegeman,,Casper,van Zuren,Louisa,Hellenius,Johanna Louisa,Abraham,Hellenius,Maria,van Zuren
+1680,Mar,14,Jan Frederiksz van Leeuwen,Aeltie Jansz,Claes Arendsz van Vechten,Lammetje van Vechten,,,Jan,Frederick,Aeltie,Jansz,Margriet,Claes,Arendsz van Vechten,Lammetje,van Vechten
+1680,Mar,28,Jacob Verdon,Annatie Jansz,Thomas Verdon,,,,Jacob,Verdon,Emmetie,Jansz,Barbara,Thomas,Verdon,Dirk,
+1680,Mar,28,Adrian Willemsz Bennet,Agnietje Jansz van Dyk,Tileman Jacobs van der Meyen,Gertrud van Mullen,,,Adrian,Willemsz Bennet,Agnietje,Jansz van Dyk,Abraham,Tileman,Jacobs van der Meyen,Gertrud,van Mullen
+1680,Mar,28,Josias Golers,Neeltje Claas,Joachim Gulik,,,,Josias,Golers,Neeltje,Claas,Nicolaas,Joachim,Gulik,,
+1680,Apr,4,Elderd Lucasz,Stintie Hendriksz,Eilse Lucas van Voorhees,Egbert Fokkesz,,,Elderd,Lucasz,Stintie,Hendriksz,Hendrikje,Eilse,Lucas van Voorhees,Egbert,Fokkesz
+1680,Apr,4,Abraham De Toict,Janitie Bocquet,Geertie Simons van Arsdalen,Cornelius Peters Wyckof,,,Abraham,De Toict,Janitie,Bocquet,Hester,Geertie,Simons van Arsdalen,Cornelius,Peters Wyckof
+1680,Apr,18,Theodore Polhemius,Artie Teunis Bogard,Jacob Rutgersz,Maritie Hansz Bergen,,,Theodore,Polhemius,Artie,Teunis Bogard,Sara,Jacob,Rutgersz,Maritie,Hansz Bergen
+1680,Apr,18,Albert Alberts,Hendrika Stevens van Voorhees,Lucas Stevens van Voorhees,Stintie Alberts,,,Albert,Alberts,Hendrika,Stevens,Stephen,Lucas,Stevens van Voorhees,Stintie,Alberts
+1680,Apr,25,Jan Jansen van Ditmarschen,Adriantie Jansen van Ditmarschen,Minne Johannes,Rensje Feddens,,,Jan,Jansen van Ditmarschen,Adriantie,Jansen van Ditmarschen,Laurens,Minne,Johannes,Rensje,Feddens
+1680,May,9,Daniel Verveelen,Aeltie Schaats,Peter Gilliaumsz,Margriet Verschuur,,,Daniel,Verveelen,Aeltie,Schaats,Gideon,Peter,Gilliaumsz,Margriet,Verschuur
+1680,May,16,William Jansen,Beletie Mathyssen,Abraham Marles,Christina Peters,,,William,Jansz,Beletie,Mathyssen,Mathys,Abraham,Merlet,Christine,Peters
+1680,May,16,Abraham Marles,Christina Peters,Jean Bandaiy,Maria Croisson,,,Abraham,Merlet,Christina,Peters,Abraham,Jean,Bandaiy,Maria,Croisson
+1680,May,16,Michael Hansz Bergen,Emmetie Teunisz,Teunis Gisbertsz Bogart,Sara Joris Rapelje,,,Michael,Hansz Bergen,Emmetie,Teunisz,Tunis,Teunis,Gisbertsz Bogart,Sara,Joris Rapelje
+1680,May,23,Dirk Paulusz,Aagje Teunis,Teunis Jansz Covers,Arend Frederick,Janitie Teunisz,Jannetie Claasz van Loendersloot,Dirk,Paulusz,Aagje,Teunis,Johannes,Teunis,Jansz Covers,Arend,Frederick
+1680,May,23,Dirk Paulusz,Aagje Teunis,Teunis Jansz Covers,Arend Frederick,Janitie Teunisz,Jannetie Claasz van Loendersloot,Dirk,Paulusz,Aagje,Teunis,Wilhelmus,Teunis,Jansz Covers,Arend,Frederick
+1680,May,30,Jan Gerritz,Elizabeth Gysberts,,,,,Jan,Gerritz,Elizabeth,Gysberts,Jacob,,,,
+1680,Jun,6,Hans Christoffelsz,Tryntie Barends,Ida Rycke,Jan Barends,,,Hans,Christoffelsz,Tryntie,Barends,Barend,Ida,Rycke,Jan,Barends
+1680,Jun,13,Michael Pietersz Parlamentier,Neeltje Jans Damen,Fitie Martensz Damen,Peter Parmentier,,,Michael,Pietersz Parlamentier,Neeltje,Janse Damen,Pieter,Fitie,Martensz Damen,Peter,Parmentier
+1680,Jun,27,Barent Tice,Magdalena Jansz,Tys Barends,Susanna Rauns,,,Barent,Tice,Magdalena,Jansz,Johannes,Tys,Barends,Susanna,Rauns
+1680,Jun,27,Peter Jansen,Maritie Jansen,Tys Barends,Magdalena Jansz,,,Peter,Jansz,Maritie,Jansz,Jacobus,Tys,Barends,Magdalena,Jansz
+1680,Jun,27,Jacob Gerritsz Haas,Stintie Corsen,Josie Corsen,Adriantie Jansz,,,Jacob,Gerritsz Haas,Stintie,Corsen,Johannes,Josie,Corsen,Adriantie,Jansz
+1680,Jun,27,Thomas Morgan,Margriet Gerritz,Adam Gerritz,Margriet Corsen,,,Thomas,Morgan,Margriet,Gerritz,Adam,Adam,Gerritz,Margriet,Corsen
+1680,Jun,27,Hendrick Rycke,Ida Jacobs,Gerardus Beekman,Hendrika ver Planken,,,Hendrick,Rycke,Ida,Jacobs,Jannetie,Gerardus,Beekman,Hendrika,ver Planken
+1680,Jul,4,Thomas Paris,Janitie Paris,Jan Wolphenkraft,Dorothea Wolphenkraft,,,Thomas,Paris,Janitie,Paris,Nicholas,Jan,Wolphenkraft,Dorothea,Wolphenkraft
+1680,Jul,18,Jan Teunisz,Agatha Elbertsz Stoothoff,Gerrit Elbertsz Stoothoff,Hilletie Elbertsz Stoothoff,,,Jan,Teunisz,Agatha,Elbertsz Stoothoff,Swantje,Gerrit,Elbertsz Stoothoff,Hilletie,Elbertsz Stoothoff
+1680,Jul,25,Peter Jansen,Annatie Jansz,Agnietje Jansz van Dyk,Jan Jansz van Dyk,,,Peter,Jansz,Annatie,Jansz,Agneta,Agnietje,Jansz van Dyk,Jan,Jansz van Dyk
+1680,Jul,25,Jacob Joris,Elizabeth Thomas,Andries Pieter Juriansz,William Joris,Agatha Joris,,Jacob,Joris,Elizabeth,Thomas,Thomas,Andries,Pieter Juriansz,William,Joris
+1680,Aug,1,Simon Aardsz van der Hard,Geertie Aardsz van der Hard,Carel van Dyck,Elizabeth van der Hard,,,Simon,Aardsz van der Hard,Geertie,Aardsz van der Hard,Dorothea,Carel,van Dyck,Elizabeth,van der Hard
+1680,Aug,1,Evert Hendriksz,Sophia Adams Brower,Mattheus Brouwer,Magdalena Brouwer,,,Evert,Hendriksz,Sophia,Adams Brower,Altje,Mattheus,Brouwer,Magdalena,Brouwer
+1680,Aug,1,Jacob Beauvois,Maria Joosten,Joost Karelsz DeBevoise,Geertie Beauvois,,,Jacobus,Beauvois,Maria,Joosten,Karel,Joost,Karelsz DeBevoise,Geertie,Beauvois
+1680,Aug,8,Jan Damen,Sophia Martens,Lisbeth Jans Damen,Jean Casier,,,Jan,Damen,Sophia,Martens,Sophia,Lisbeth,Jans Damen,Jean,Casier
+1680,Aug,8,Jan Teunisz,Catalina Teunis Bogard,Teunis Gisbertsz Bogart,Sara Joris Rapelje,,,Jan,Teunisz,Catalina,Teunis Bogard,Femmetje,Teunis,Gisbertsz Bogart,Sara,Joris Rapelje
+1680,Aug,15,,,,,,,,,,,John Witings of Jameca age abt 20 yrs,,,,
+1680,Aug,15,,,,,,,,,,,Gersom Witings of Jameca age abt. 20 yrs,,,,
+1680,Aug,22,Arend Pral,Maria Pral,Isaac Sie,Hester Sie,,,Arend,Pral,Maria,Pral,Barendtje,Isaac,Sie,Hester,Sie
+1680,Aug,29,,,,,,,,,,,Thomas Witings of Jameca age abt 28 yrs,,,,
+1680,Aug,29,,,Frederick van Leeuwen,,,,,,,,Benjamin Witings of Jameca age abt. 12 yrs,Frederick,van Leeuwen,,
+1680,Aug,29,Stoffel Jans Romein,Geertie Peters Wyckof,Peter Claasz Wykof,Geertie Hendriks van Ness,,,Stoffel,Jans Romein,Geertie,Peters,Grietie,Peter,Claasz Wykof,Geertie,Hendriks van Ness
+1680,Sep,26,Thomas Heckkon,Elizabeth of Jam,,,,,Thomas,Heckkon,Elizabeth,of Jam,Thomas (4 yrs),,,,
+1680,Sep,26,Thomas Heckkon,Elizabeth of Jam,,,,,Thomas,Heckkon,Elizabeth,of Jam,Judith (2 yrs),,,,
+1680,Sep,26,Thomas Heckkon,Elizabeth of Jam,,,,,Thomas,Heckkon,Elizabeth,of Jam,Elisabeth (some months),,,,
+1680,Sep,30,Peter Hendriksz,Catharina Hanse,Hendrick Peters,Lammetje van Vechten,,,Peter,Hendriksz,Catharina,Jansz,Jan,Hendrick,Peters,Lammetje,Vechten
+1680,Oct,3,Andries Jurianse,Annetje Jurianse,Thomas Lambertsz,Janitie Lambertsz,Jacob Joris,,Andries,Jurianse,Annetje,Jurianse,Andries,Thomas,Lambertsz,Janitie,Lambertsz
+1680,Oct,17,Haggeus Jansz van Dyk,Janitie Lambertsz,Tileman Jacobs van der Meyen,Tryntie Haggeus,,,Haggeus,Jansz van Dyk,Janitie,Lambertsz,Tryntje,Tileman,Jacobs van der Meyen,Tryntie,Haggeus
+1680,Oct,17,Daniel Stillwell,Maria Stillwell,Cornelius Corsz Vroom,Maritie Jacobs van der Griest,,,Daniel,Stillwell,Maria,Stillwell,Daniel,Cornelius,Corsz Vroom,Maritie,Jacobs van der Griest
+1680,Oct,17,William Britton,Maria Britton,Sara Casier,Jaques Guyon,,,William,Britton,Maria,Britton,Nicolas,Sara,Casier,Jaques,Geion
+1680,Oct,24,Hendrick Willemsz,Maritie Adrianse,Casper van Zuren,Louisa Hellenius,,,Hendrick,Willemsz,Maritie,Adrianse,Louise,Casper,van Zuren,Louisa,Hellenius
+1680,Oct,24,Paulus Van Der Beek,Sara Schouten,Jan Schouten,Maria Van Der Beek,,,Paulus,Van Der Beek,Sara,Schouten,(blank),Jan,Schouten,Maria,Van Der Beek
+1680,Oct,31,Dirk Storm,Maria Peters,Jan Gerrits Dorlant,Sitie Martens,,,Dirk,Storm,Maritie,Peters,Aaltje,Jan,Gerrits Dorlant,Sitie,Martens
+1680,Oct,31,Joseph Hegeman,Emmetie Roemers,Hendrick Hegeman,Catharina Hegeman,,,Joseph,Hegeman,Emmetie,Roemers,Adrian,Hendrick,Hegeman,Catharina,Hegeman
+1680,Nov,14,Adrian Hendriksz,Elizabeth Thomas,Jan van der Bild,Annatie Gysbrechts,,,Adrian,Hendriksz,Elizabeth,Thomas,Paul,Jan,van der Bild,Annatie,Gysbrechts
+1680,Nov,14,Gisbrecht Jansz van Dyk,Sophia Jansz,Jacobje Jansz,,,,Gisbrecht,Jansz,Sophia,Jansz,Gertruyd,Jacobje,Jansz,,
+1680,Nov,14,Bourgon Broucard,Catharina Broucard,Janitie Roemers,Jacob Resiliere,,,Bourgon,Broucard,Catharina,Broucard,Jan,Janitie,Roemers,Jacob,Resiliere
+1680,Nov,14,Barent Jurianse,Aeltie Stevens van Voorhees,Jan Stevens van Voorhees,Hendrika Stevens van Voorhees,,,Barent,Jurianse,Aeltie,Stevens,Jan,Jan,Stevens van Voorhees,Hendrika,Stevens van Voorhees
+1680,Nov,20,Adrian Reyersz,Annatie Martens Schenk,Roelof Schenck,Annatie Peters,,,Arian,Reyersz,Annatie,Martens Schenk,Abrahamm,Roelof,Schenck,Annatie,Peters
+1680,Nov,20,Adrian Reyersz,Annatie Martens Schenk,Jan Marten Schenk,Janitie Stevens van Voorhees,,,Arian,Reyersz,Annatie,Martens Schenk,Sara,Jan,Marten Schenk,Janitie,Stevens van Voorhees
+1680,Nov,28,Cornelius Barendz Teunes,Cornelia Hendriks Brinkhorst,Hendrick Brinkhorst,Reinier van Gieson,,,Cornelius,Barendz Teunes,Cornelia,Hendriks Brinkhorst,Quirintje,Hendrick,Brinkhorst,Reinier,van Gieson
+1680,Dec,5,Coert Stevens,Maritie Gerrits van Cowenhoven,Jan Marten Schenk,Janitie Stevens van Voorhees,,,Court,Stevens,Maritie,Gerrits van Cowenhoven,Annatje,Jan,Marten Schenk,Janitie,Stevens van Voorhees
+1680,Dec,5,Adrian Peters Kinne,Willemtie Peters Wyckof,Christofel Jans Romein,Geertie Peters Wyckof,,,Adrian,Peters Kinne,Willemtie,Peters Wyckof,Jacob,Christofel,Jans Romein,Geertie,Peters Wyckof
+1680,Dec,5,William van Borkeloo,Elizabeth Jansen Woertman,Jan Barendsz van Driest,Janitie Willems van Barkeloo,,,William,van Borkeloo,Elizabeth,Jansz,Coenrad,Jan,Barendsz van Driest,Janitie,Willems van Barkeloo
+1680,Dec,5,Jan Wouters van den Bosh,Wyntie Peters,Simon Hanse,Maria Fredrick Lubertse,,,Jan,Wouters van der Bosch,Wyntie,Peters,Sara,Simon,Hansz,Maria,Fredrick Lubertse
+1680,Dec,12,Hendrick Matthys Smak,Annatie Tilemans,Tileman Jacobs van der Meyen,Adriantie Tourjon,,,Hendrick,Mathysz,Annetje,Tilemans,Tileman,Tileman,Jacobs van der Meyen,Adriantie,Tourjon
+1680,Dec,19,Laurens Cornelis,Margriet Barends,Cornelius Peters Wyckof,Emmetie Barends,,,Laurens,Cornelis,Margriet,Barends,Marritie,Cornelius,Peters,Emmetie,Barends
+1681,Jan,1,Joachim Gulik,Magdalena Teunis van Pelt,Geertie Jansen,Wouter Teunis van Pelt,,,Joachim,Gulik,Magdalena,Teunisz,(blank),Geertie,Jansz,Wouter,Teunis van Pelt
+1681,Jan,9,Peter Schamp,Janitie Dirks,Joseph Boschleiding,Maria Lucasz,,,Peter,Scham,Janitie,Dirks,Johanna,Joseph,Boschleiding,Maria,Lucasz
+1681,Jan,9,Aries Jansz van der Bild,Hildegond Roemers,Jan Remsz,Maritie van der Bild,,,Aries,Jansz van der Bild,Hildegond,Roemers,Annatie,Jan,Remsz,Maritie,van der Bild
+1681,Jan,16,Gerardus Beekman,Magdalena Abeel,Wilhelmus Beekman,,,,Gerardus,Beekman,Magdalena,Abeel,Christoffel,Wilhelmus,Beekman,Catharina,
+1681,Jan,16,Gerrit Snedeker,Elsie Teunisz,Denys Teunisz,Stintie Hendriksz,,,Gerrit,Snedeker,Elsie,Teunisz,Isaak,Denys,Teunisz,Stintie,Hendriksz
+1681,Jan,16,Laurens Jansen,Altje Gillis De Mandeville,Gillis Mandeville,,,,Laurens,Jansz,Altje,Gillis De Mandeville,Styntje,Gillis,Mandeville,Elsie,
+1681,Jan,23,Hendrick Teunisz,Annetje Meinards,Geertie Jansen,Aard Teunis van Pelt,,,Hendrick,Teunisz,Annetje,Meinards,Pieter,Geertie,Jansz,Aard,Teunis van Pelt
+1681,Jan,23,Jan Karsten,Maria Elias Daas,Elias Dawes,Barbara Karsten,,,Jan,Karsten,Maria,Elias Daas,Andries,Elias,Daas,Barbara,Karsten
+1681,Jan,30,Peter Jansz Loisen,Sara Kolfs,Simon Haaks,Sara Kolfs,,,Peter,Jansz Loisen,Sara,Kolfs,Simon,Simon,Haaks,Sara,Kolfs
+1681,Jan,30,Gerrit Lubbertsz,Geertruid Willemsz,Catharina Simones,Frederick van Leeuwen,,,Gerrit,Lubbertsz,Geertruid,Willemsz,Cornelia,Catharina,Simons,Frederick,van Leeuwen
+1681,Feb,6,Joost Casparsz,Magdalena Jansz,Johannes Casparsz,Maria Teunisz,,,Joost,Casparsz,Magdalena,Jansz,Catharine,Johannes,Casparsz,Maria,Teunisz
+1681,Feb,13,Teunis Jansen,Janitie Hansz,Jan Brouwer,Janitie Brouwer,,,Teunis,Jansz,Janitie,Jansz,Aafje,Jan,Brouwer,Janitie,Brouwer
+1681,Feb,27,Johannes Christofel Schars,Maria Willemsz Bennet,William Willemsz Bennet,Agnietje Jansz van Dyk,,,Johannes,Christofel Schars,Maria,Willemsz Bennet,Willemptje,William,Willemsz Bennet,Agnietje,Jansz van Dyk
+1681,Feb,27,Peter Monfort,Janitie Peters Monfort,Peter Cornelisz Luyster,Janitie Monfort,,,Peter,Monfort,Janitie,Peters,Peter,Peter,Cornelisz Luyster,Janitie,Monfort
+1681,Feb,27,Claes Peters Wyckof,Sara Monfort,Jan Monfort,Mayke Peters Wyckof,,,Claes,Peters,Sara,Monfort,Sara,Jan,Monfort,Mayken,Peters
+1681,Feb,27,Hendrick Matthys Smak,Geertie Harmans,Cornelius Cloppers,Hilletie Klopper,,,Hendrick,Matthys Smak,Geertie,Harmans,Rebecca,Cornelius,Cloppers,Hilletie,Kloppars of N Y
+1681,Mar,13,Cornelius Janse Berrian,Janitie Stryker,Jan Gorter,Swaantje Stryker,,,Cornelius,Janse Berrian,Janitie,Stryker,Claas,Jan,Gorter,Swantje,Stryker
+1681,Mar,13,Joris Hansz Bergen,Sara Stryker,Teunis Gisbertsz Bogart,Swaantje Stryker,,,Joris,Hansz Bergen,Sara,Stryker,Sara,Teunis,Gisbertsz Bogart,Swantje,Stryker
+1681,Mar,13,Gerrit Christoffelsz,Elizabeth Cornelis,Rutgert Alberts,Cornelia Cornelis,,,Gerrit,Christoffelsz,Elizabeth,Cornelis,Albert,Rutgert,Alberts,Cornelia,Cornelis
+1681,Mar,13,Hendrick Corsz Vroom,Josina Peters van Nest,Cornelius Cornelis,Aeltie Frederiks,,,Hendrick,Corsz,Josina,Peters van Nest,(blank),Cornelius,Cornelis,Aeltie,Frederiks
+1681,Mar,20,Lambert Jansz Dorland,Harmptje Jansz,Jan Jans Romein,Maria Adrianse,,,Lambert,Jansz Dorland,Harmptje,Jansz,Jan,Jan,Jans Romein,Maritie,Arendsz
+1681,Mar,20,Jan Peterz Makelie,Stintie Hansz,Thomas Verdon,Agatha Joris,,,Jan,Peterz Makelie,Stintie,Jansz,Adrian,Thomas,Verdon,Agatha,Joris
+1681,Mar,20,Harman van Bursum,Wybrecht Hendriksz,Hendrick van Bursum,Sara van Bursum,,,Harman,van Bursum,Wybrecht,Hendriksz,Femmetje,Hendrick,van Bursum,Sara,van Bursum
+1681,Mar,27,Daniel Joris Rapalie,Sara Abrahams Clok,Marthen Abrahamsz Klok,Annatie Teunisz,,,Daniel,Joris Rapalie,Sara,Abrahams Clok,Annetje,Marthen,Abrahamsz Klok,Annatie,Teunisz
+1681,Mar,27,Thomas Willet,Hilletie Elbertsz Stoothoff,Jan Tunisz van Duykhuys,Maritie van Cowenhoven,,,Thomas,Willet,Hilletie,Elbertsz Stoothoff,Helena,Jan,Tunisz van Duykhuys,Maritie,van Cowenhoven
+1681,Apr,4,Dirk Jans Veerman,Maria Teunisz,Joost Kokkuyt,Elizabeth Jansen Woertman,,,Dirk,Jans Veerman,Maritie,Teunisz,Lysbeth,Joost,Kokkuyt,Elizabeth,Jansz
+1681,Apr,4,Jurian Blanck,Hester Van Der Beek,Philip Schmidt,Annetje Blanck,,,Jurian,Blanck,Hester,Van Der Beek,Jurrian,Philip,Schmidt,Annetje,Blanck
+1681,Apr,10,William Gerrits van Cowenhoven,Janitie Monfort,Gerrit Elbertsz Stoothoff,Annatie Roelofs Schenk,,,William,Gerrits van Cowenhoven,Janitie,Monfort,Jan,Gerrit,Elbertsz Stoothoff,Annatie,Roelofs Schenk
+1681,Apr,17,Jan Hasbeek,Anna Duyo,Abraham Duboys,Maria Lorein,,,Jan,Hasbeek,Anna,Duyo,Isaac,Abraham,Duboys,Maria,Lorein
+1681,Apr,17,Peter Duyo,Agnietje Vieque,Christian Duyo,Jean Guibo,,,Peter,Duyo,Agnietje,Vieque,Christian,Christian,Duyo,Jean,Guibo
+1681,Apr,17,Melchert Casparsz,Geertie Bartholds from the other side,Caspar Jansz,Teuntie Jurianse,,,Melchior,Casparsz,Geertie,Bartholds from the other side,Jereerian,Casper,Jansz,Teuntie,Jurianse
+1681,Apr,24,Gisbrecht Mathysz,Janitie Ariens,Tys Jans van Pelt,Annatie Tilemans,Hendrick Matthys van Pelt,,Gisbrecht,Mathysz,Janitie,Ariens,Cataline,Tys,Jans van Pelt,Annatie,Tilemans w of Hendrick Matthys van Pelt
+1681,May,1,Ferdinand van Sicklen,Eva Antonis,Jan Barendsz van Driest,Sara Antonis,,,Ferdinand,van Sicklen,Eva,Antonis,Susanna,Jan,Barendsz van Driest,Sara,Antonis
+1681,May,8,Karel Jansz van Dyk,Elizabeth van der Hard,Geertie Aardsz van der Hard,Simon van der Hard,,,Karel,Jansz van Dyk,Elizabeth,van der Hard,Geertje,Geertie,van der Hard,Simon,van der Hard
+1681,May,8,Swaan a Negro ,Christina a Negro ,Annatie Tilemans,,,,Swaan a Negro,,Christina a Negro,,Teuntje,Annetie,Tilemans,,
+1681,Jun,12,Jaques La Resiliere,Maria Gransen,Bourgon Broucard,Neeltje Jans Damen,,,Jaques,La Resiliere,Maria,Gransen,Maria,Bourgon,Broucard,Neeltje,Jans Damen
+1681,Jul,3,Antoine du Chesne,Annetje Bocquet,Tys Jans van Pelt,Adriantie Hendriks Wynhard,,,Antoine,du Chesne,Annetje,Bocquet,Valentin,Tys,Jans van Pelt,Adriantie,Hendriksz
+1681,Jul,8,Paulus ,Elizabeth Paulus,Paulus Dirks,Annatie Teunisz,Hieronymus Rapelye,,Paulus,,Elizabeth,Paulus,Paulus,Paulus,Dirks,Annetje,Teunisz
+1681,Jul,8,Jan Gerrits van Cowenhoven,Gerardina De Sille,Maritie van Cowenhoven,,,,Jan,Gerrits van Cowenhoven,Gerardina,De Sille,Nicasius,Maritie,van Cowenhoven,,
+1681,Jul,10,Hendrick Jansz van Dyk,Janitie Hansz,Harman Harmensz van Borkelo,Tryntie van Dyck,,,Hendrick,Jansz van Dyk,Janitie,Hansz,Wilemptje,Harman,Harmensz van Borkelo,Tryntie,van Dyck
+1681,Jul,8,Harman Hendriksz,Margriet Sodder,Elderd Lucasz,Maritie Van Doesburg,,,Harman,Hendriksz,Margriet,Sodder,Cornelia,Elderd,Lucasz,Maritie,Van Doesburg
+1681,Jul,17,Jacob Peters,Maritie Adams Brower,Hieronymus Rapelye,Magdalena Adams Brower,,,Jacob,Peters,Maritie,Adams Brower,Magdalena,Jeronimus,Rapelje,Magdalena,Adams Brower
+1681,Jul,17,Jan Aukes,Evertje Jansz,Auke Jansz,Geertie Geysbers,,,Jan,Aukes,Evertje,Jansz,Jan,Auke,Jansz,Geertie,Gysbrechts
+1681,Jul,24,Laurens Jurriansz HoforStof,Cunira Peters,Janitie Monfort,,,,Laurens,Jurriansz HoforStof,Cunira,Peters,Tunis (Teuntje),Janitie,Monfort,,
+1681,Jul,31,Jan Clement,Maria Bocquet,Jan Kiersz,Hendrika Stevens van Voorhees,,,Jan,Clement,Maria,Bocquet,Peter,Jan,Kiersz,Hendrika,Stevens
+1681,Jul,31,Reinier Jansz,Elizabeth van Ravestein,Jan Jansen van Ditmarschen,Adriantie Jansen van Ditmarschen,,,Reinier,Jansz,Elizabeth,van Ravestein,Geertje,Jan,van Ditmarschen,Adriantie,van Ditmarschen
+1681,Aug,7,Hendrick Claasz Vechten,Janitie of Bedford,Jan Damen,Elizabeth Kokkuyt,,,Hendrick,Claasz,Janitie,of Bedford,Peter,Jan,Damen,Elizabeth,Kokkuyt
+1681,Aug,7,Dirk Jansz Hoogland,Annetje Feddens,Siourt de Messelaar,Aeltie Peters,Jan Gellisz,,Dirk,Jansz Hoogland,Annetje,Feddens,Sara,Siourt,de Messelaar,Aeltie,Peters
+1681,Aug,14,Peter Gilliaumsz,Margriet Verschuur,Cornelius Steenwick,,,,Peter,Guilliamsz,Margriet,Verschuur,Cornelis,Cornelius,Steenwick,Margriet,
+1681,Aug,14,Cornelius Corsz Vroom,Maritie Jacobs van der Grift,Hendrick Corsz Vroom,Anna Jacobs van der Griest,,,Cornelius,Corsz,Maritie,Jacobs van der Grift,Cornelia,Hendrick,Corsz Vroom,Anna,Jacobs van der Griest
+1681,Sep,11,Thomas Jansz van Dyk,Maritie Adrianse,Peter Jansz van Dyk,Annatie van Dyck,,,Thomas,Jansz van Dyk,Maritie,Adrianse,Isaac,Peter,Jansz van Dyk,Annatie,van Dyck
+1681,Sep,18,Francois DePui,Geertie Willemsz,Jaques La Resiliere,Geertie Simons van Arsdalen,,,Francois,DePui,Geertie,Willemsz,Geertje,Jaques,La Resiliere,Geertie,Simons van Arsdalen
+1681,Sep,18,Jan Barends,Maritie Simons van Arsdalen,Christoffel Probasco,Maria Teunisz,,,Jan,Barends,Maritie,Simons,Rachel,Christofel,Probasco,Maritie,Teunisz
+1681,Sep,18,Elias Dawes,,Mayke Peters Wyckof,,,,Elias,Dawes,,,Rebecca age 8,Mayke,Peters Wyckof,,
+1681,Sep,18,Elias Dawes,,Albert Elbertsz Stoothoff,,,,Elias,Dawes,,,Patientia age 6 or 7,Albert,Elbertsz Stoothoff,Aeltie,
+1681,Sep,18,Elias Dawes,,Peter Claasz Wykof,,,,Elias,Dawes,,,"Annetje, age 4 or 5",Peter,Claasz Wykof,Geertie,
+1681,Sep,25,Lucas Stevens van Voorhees,Catalina Hanse,Peter Hansz,Sara Elbertsz Stoothoff,,,Lucas,Stevens,Catalina,Hansz,Jannetie,Peter,Hansz,Sara,Alberts
+1681,Sep,25,Richard Michielsz,Maria ,Jean Tinbrel,Anna Beet,,,Richard,Michel,Maria,,Annetje,Jean,Tinbrel,Anna,Beet
+1681,Sep,25,Jaques Guyon,Sara ,Richard Stillwell,Maria Stillwell,,,Jaques,Guyon,Sara,,Lysbeth,Richard,Stillwell,Maria,Stillwell
+1681,Oct,2,Jan Martens,Janitie Stevens van Voorhees,Adrian Reyersz,Aeltie Stevens van Voorhees,,,Jan,Martens,Janitie,Stevens,Stephen,Adrian,Reyersz,Aeltie,Stevens van Voorhees
+1681,Oct,2,Casper van Zuren,Louisa Hellenius,Cornelius Steenwick,Margriet Steenwick,,,Casper,van Zuren,Louisa,Hellenius,Johannes,Cornelius,Steenwick,Margriet,Steenwick
+1681,Oct,14,Albert Stevens van Voorhees,Hilletie Reiniers Wizzelpennig,Peter Cornelisz Luyster,Janitie Snedeker,,,Albert,Stevens,Hilletie,Reiniers Wizzelpennig,Cornelia,Peter,Cornelisz Luyster,Janitie,Snedeker
+1681,Oct,14,Antonis van Pelt,Magdalena van Pelt,Tys Jans van Pelt,Adriantie Hendriks Wynhard,,,Antonis,van Pelt,Magdalena,van Pelt,Maria,Tys,Jans van Pelt,Adriantie,Hendriksz
+1681,Oct,23,Abraham Joris Brinkerhoff,Aaltie Stryker,Joris Hansz Bergen,Stoffel Probasco,Sara Stryker,,Abraham,Joris,Aeltie,Stryker,Gerrit,Joris,Hansz Bergen,Stoffel,Probasco
+1681,Oct,23,Jan van Cleeft,Engeltie van Kleef,Peter Stryker,Hendrika Stevens van Voorhees,,,Jan,van Kleef,Engeltie,van Kleef,Catharina,Peter,Stryker,Hendrika,Stevens van Voorhees
+1681,Oct,30,David De Mares,Rachel Corsen,Jacobus Corsen,Maria De Ruine,,,David,De Mares,Rachel,Corsen,Jacobus,Jacobus,Corsen,Maria,De Ruine
+1681,Oct,30,Francois Abramsz,Lucretia Hendriksz,Jan de Vries,Adriantie de Vries,,,Francois,Abramsz,Lucretia,Hendriksz,Abraham,Jan,de Vries,Adriantie,de Vries
+1681,Oct,30,Dirk Jansen,Aeltie Paulus van der Beek,William Davids,Helena Aardsen,,,Dirk,Jansz,Aeltie,Paulus van der Beek,Annatie,William,Davids,Helena,Aardsdr
+1681,Nov,9,Simon Hanse,Maria Frederiks Lubbertse,Cornelius Jan Hansz Bergen,Janitie Stryker,,,Simon,Hansz,Maria,Frederiks,Sara,Cornelius,Jan Hansz Bergen,Janitie,Stryker
+1681,Nov,9,Paulus Van Der Beek,Sara Schouten,Conradus Van Der Beek,Sara Schouten,,,Paulus,Van Der Beek,Sara,Schouten,Paulus,Conradus,Van Der Beek,Sara,Schouten
+1681,Nov,13,Jan Jansz van Dyk,Teuntje Tice van Pelt,Gisbrecht Tice van Pelt,Adriantie van Pelt,,,Jan,Jansz van Dyk,Teuntje,Tice van Pelt,Catalyntie,Gisbrecht,Tice van Pelt,Adriantie,van Pelt
+1681,Nov,13,Volkhert Hansz,Sara Elbertsz Stoothoff,Hans Jansz,Geertie ,,,Volkhert,Hansz,Sara,Alberts,Jannetje,Hans,Jansz,Geertie,
+1681,Nov,20,Theodore Polhemius,Artie Boogaard,Jan Sebring,Elizabeth Polhemius,,,Theodore,Polhemius,Artie,Boogaard,Elisabeth,Jan,Sebring,Elizabeth,Polhemius
+1681,Nov,27,Jacob Hansz Bergen,Elsie Frederiks Lubertse van der Kreest,Teunis Gisbertsz Bogart,Aeltie Frederiks,Cornelius Corsz Vroom,Maritie Hansz Bergen,Jacob,Hansz Bergen,Elsie,Frederiks,Frederyk,Teunis,Gisbrecht Bogart,Aeltie,Frederiks
+1681,Nov,27,Cors Vonk,Magdalena Vonk,Jan Schouten,Sara Schouten,,,Cors,Vonk,Magdalena,Vonk,Ida (age 4),Jan,Schouten,Sara,Schouten
+1681,Nov,27,Cors Vonk,Magdalena Vonk,Jan Tunisz De Nys,,,,Cors,Vonk,Magdalena,Vonk,Barbara (age 2),Jan,Tunisz De Nys,Catharina,
+1681,Nov,27,Cors Vonk,Magdalena Vonk,Peter Claasz Wykof,Geertie Cornelis,,,Cors,Vonk,Magdalena,Vonk,Hendrik (age 1),Peter,Claasz Wykof,Geertie,Cornelis
+1681,Dec,11,Cornelius Peters Wyckof,Geertie Simons,Simon Jans van Arsdalen,Pietertie Claas Wykoff,,,Cornelius,Peters,Geertie,Simons,Marrie,Simon,Jans van Arsdalen,Pietertie,Claas Wykoff
+1681,Dec,11,Joost Duiere,Magdalena Duiere,Jan Mesurol,Lea Fonteyn,,,Joost,Duiere,Magdalena,Duiere,Antoinette,Jan,Mesurol,Lea,Fonteyn
+1681,Dec,11,Jan Hansz Bergen,Janitie Teunisz,Jan Tunisz De Nys,Annatie Teunisz,,,Jan,Hansz Bergen,Janitie,Tunis,Adriantje,Han,Tunisz De Nys,Annatie,Teunisz
+1681,Dec,18,Jan Barendsz van Driest,Janitie Willems van Barkeloo,William van Borkeloo,Eva van Sickelen,,,Jan,Barendsz van Driest,Janitie,Willems van Borkelo,Barend,William,van Borkelo,Eva,van Sickelen
+1681,Dec,18,Dirk Jansz Sutphin,Elizabeth Jansen Woertman,Jan Aukes,Evertje Jansz,,,Dirk,Jansz Sutphin,Elizabeth,Jansz,Hendrikje,Jan,Aukes,Evertje,Jans his
+1681,Dec,18,Claes Jans Romein,Styntjen Alberts,Albert Alberts Terhunen,Hendrika Stevens van Voorhees,,,Claes,Jans Romein,Styntjen,Alberts,Gesbrechtje,Albert,Alberts Terhunen,Hendrika,Stevens van Voorhees
+1681,Dec,18,Jan Aardsz,Adriantie Cornelis,Gerrit Elbertsz Stoothoff,Swaantje Stryker,,,Jan,Aardsz,Adriantie,Cornelis,David,Gerrit,Elbertsz Stoothoff,Swantje,Stryker
+1681,Dec,26,Frederick Hendricks van Leeuwen,Dina Jans,William Jacobs,Aeltie Jansz,,,Frederick,Hendricks van Leeuwen,Dina,Jans,Johannes,William,Jacobs,Aeltie,Jansz
+1681,Dec,26,Elderd Lucasz,Stintie Hendriksz,William Huykke,Elsie Snedeker,,,Elderd,Lucasz,Stintie,Hendriksz,Johannes,William,Huykke,Elsie,Snedeker
+1682,Jan,1,Cornelius Jansz de Zeeuw,Geertie Kolfs,Wouter Gysbrechtz Verschuur,,,,Cornelius,Jansz de Zeeuw,Geertie,Kolfs,David,Wouter,Gysbrechts,Dorothea,
+1682,Jan,15,Rudolph Marten Schenk,Annatie Peters,Marthen Rudolfus Schenk,Annetje Rudolfus Schenk,,,Rudolph,Martens,Annetje,Peters,Neeltje,Marthen,Rudolfus Schenk,Annetje,Rudolfus Schenk
+1682,Jan,20,William Davids,Helena Aardsen,Gerrit Elbertsz Stoothoff,Aeltie Stoothoff,,,William,Davids,Helena,Aards,Aard,Gerrit,Elbertsz Stoothoff,Aeltie,Stoothoff
+1682,Jan,20,Leffert Peters,Abigail Aukes,Jan Stevens van Voorhees,Eva Jansen,,,Leffert,Peters,Abigail,Aukes,Rachel,Jan,Stevens van Voorhees,Eva,Jansz
+1682,Jan,20,Barnardus Hassing,Aeltie van Couwenhoven,William Gerrits van Cowenhoven,Aeltie Stoothoff,,,Barnardus,Hassing,Aeltie,van Couwenhoven,Gertje (Gerrit),William,Gerritsz van Covenhoven,Aeltie,Stoothoff
+1682,Jan,20,Jan Wouters van den Bosh,Wyntie Peters,Jan Spiegelar,Geertie van der Vliet,,,Jan,Wouters van der Bosch,Wyntie,Peters,Cornelis,Jan,Spiegelar,Geertie,van der Vliet
+1682,Feb,12,Lambert Jansz Dorland,Sitie Barends,Jan Pietersz van der Water,Tryntie Jans van Ditmarsen,,,Lambert,Jansz,Sitie,Barends,Styntje,Jan,Pietersz van der Water,Tryntie,Jansz
+1682,Feb,26,William Appelberg,Debora Jans Buys,Jan Buys,Willemtie Roelofs Tysen,,,William,Appelberg,Debora,Jans Buys,Abigail,Jan,Buys,Willemtie,Roelofs Tysen
+1682,Feb,26,Volkert Dirks,Annetje Philips,William Aardsz,Lydia Cousard,,,Volkhert,Dirks,Annetje,Philips,(Ledia) Machteld,William,Aardsz,Lydia,Cousard
+1682,Feb,26,Gerbrand Klaasz,Maritie Klaas,Arien Claas,Maritie Marius,,,Gerbrand,Klaasz,Maritie,Klaas,Meyndert,Arien,Claas,Maritie,Marius
+1682,Feb,26,Mattheus Brouwer,Maria Peters,Peter Brouwer,Agatha Joris,,,Matthys,Brouwer,Maritie,Peters,Willemyntie,Peter,Brouwer,Agatha,Joris
+1682,Mar,12,Johannes Rees,Jacobje Jansz,Reinier van Sicklen,Annetje grandmother,,,Johannes,Rees,Jacobje,Jansz,Andries,Reinier,van Sicklen,Annetje,grandmother
+1682,Mar,12,Reinier Arendsz,Janitie Aukes,Jacob Aukes,,,,Reinier,Arendsz,Janitie,Aukes,Adriantje,Jacob,Aukes,,
+1682,Mar,19,Michael Parmentier,Neeltje Damen,Jan Damen,Maritie Damen,,,Michael,Parmentier,Neeltje,Damen,Jan,Jan,Damen,Maritie,Damen
+1682,Mar,19,Titus Sirachsz De Vries,Janitie Teunisz,Cornelius Teunisz,Tryntie Titus De Vries,,,Titus,Sirachsz De Vries,Janitie,Teunisz,Jannetje,Cornelius,Teunisz,Tryntie,Titus De Vries
+1682,Mar,26,Peter Stryker,Annatie Barends,Jan Stryker,,,,Peter,Stryker,Annatie,Barends,Lammetje,Jan,Stryker,Swantje,
+1682,Apr,2,Marthen Reyersz,Annetje Jorisen Rapelye,Catelyntie Rapelje,,,,Marthen,Reyersz,Annetje,Jorisen Rapelye,Helena,Cataline,de Rapalie,,
+1682,Apr,2,Hieronymus De Rapalie,Annatie Teunisz,Dirk Jans Veerman,Janitie Joris Rapelje,,,Hieronymus,De Rapalie,Annetje,Teunisz,Hieronymus,Dirk,Jansen Veerman,Janitie,Joris Rapelje
+1682,Apr,2,Jan Tice,Geertie Jansen,Thomas Lambertsz,Emmetie Jurians,,,Jan,Tice,Geertie,Jansz,Agatha,Thomas,Lambertsz,Emmetie,Jurians
+1682,Apr,16,William Willemsz Bennet,Mayke Peters Wyckof,Peter Claasz Wykof,Geertie van Ness,,,William,Willemsz,Mayken,Peters Wyckof,Peter,Peter,Claasz Wykof,Geertie,van Ness
+1682,Apr,23,Jacob Joris,Elizabeth Thomas,Joris Jacobs,Engeltie van de Water,,,Jacob,Joris,Elizabeth,Thomas,Joris,Joris,Jacobs,Engeltie,van de Water
+1682,Apr,23,Wouter Gysbrechtz Verschuur,Dorothea Callier,Volkert Dirks,Geesje Harmans,,,Wouter,Gysbrechtz Verschuur,Dorothea,Callier,Magdalena,Volkert,Dirks,Geesje,Harmans
+1682,Apr,30,Jacob Verdon,Emmetie Willemsz,Johannes Willemsz,Janitie Ferdon,,,Jacob,Verdon,Emmetie,Willemsz,Willem,Johannes,Willemsz,Janitie,Verdon
+1682,May,14,Meinard Courten,Maria Pia,Coert Stevens van Voorhees,Maritie van Cowenhoven,,,Meinard,Courten,Maria,Pia,Court,Court,Stevens van Voorhees,Maritie,van Cowenhoven
+1682,May,14,Johannes Willemsz, Willemsz,Jan Hanse,Maritie Frederiks,,,Johannes,Willemsz,,Willemsz,Harmen,Jan,Hansz,Maritie,Frederiks
+1682,May,14,Peter Brouwer,,William Brouwer,Elizabeth Brouwer,,,Peter,Brouwer,,,Vrountje,William,Brouwer,Elizabeth,Brouwer
+1682,May,21,Rem Remsz,Maritie van der Bild,Jan Remsz,Hildegond Roemers,,,Rem,Remsz,Maritie,van der Bild,Annetje,Jan,Remsz,Hildegonde,Roemers
+1682,May,21,Jan Stevens van Voorhees,Emmetie Aukes,Auke Jansz,Geertie Geysbers,,,Jan,Stevens,Emmetie,Aukes,Auke,Auke,Jansz,Geertie,Gysbrechts
+1682,May,28,Josias Jansz Drets,Aeltie Brouwer,William Brouwer,Elizabeth Brouwer,,,Josias,Jansz Drets,Aeltie,Browers,Josias,William,Brouwer,Elizabeth,Brouwer
+1682,Jun,30,Peter Jansen,Annatie van Dyck,Jan van Dyck,Agnietje Bennet,,,Peter,Jansz,Annetje,van Dyck,Isaak,Jan,van Dyck,Agnietje,Bennet
+1682,Jul,2,Jan Roelofs Sebering,Adriantie Polhemius,Theodore Polhemius,Daniel Polhemius,Aardje Polhemius,,Jan,Roelofs Sebering,Adriantie,Polhemius,Daniel,Theodore,Polhemius,Daniel,Polhemius
+1682,Jul,9,Jan Frederiksz van Leeuwen,Aeltie Jansz,Frederick van Leeuwen,Geertie Reiners,,,Jan,Frederiksz van Leeuwen,Aeltie,Jansz,Abraham,Frederick,van Leeuwen,Geertie,Reiners
+1682,Jul,9,Stoffel Jans Romein,Geertie Peters Wyckof,Roelof Marten Schenk,Annatie Peters,,,Stoffel,Jans Romein,Geertie,Peters,Annetje,Roelof,Marten Schenk,Annetje,Peters
+1682,Jul,9,Stoffel Probasco,Ida Stryker,Jacob Stryker,Cornelius Berrien,Swantje Peters Stryker,,Stoffel,Probasco,Ida,Stryker,Jacob,Jacob,Stryker,Cornelius,Berrien
+1682,Jul,9,Cornelius Barentsz van der Wyck,Anna Polhemius,Cornelius Sebring,Maria Willemsz Bennet,,,Cornelius,Barentsz van der Wyck,Anna,Polhemius,Anna,Cornelius,Sebring,Maria,Willemsz
+1682,Jul,16,Jan Teunisz,Catalina Teunis Bogard,Jan Hansz Bergen,Annatie Teunis Denyse,,,Jan,Teunisz,Catalina,Teunis Bogard,Tunis,Jan,Hansz Bergen,Annatie,Teunis Denyse
+1682,Jul,23,,,,,,,,,,,Joseph Golder (28 yrs),,,,
+1682,Jul,23,Joseph Golder,Neeltje Claas,Jan Hanse,Maritie Frederiks,,,Joseph,Golder,Neeltje,Claas,Annetje,Jan,Hansz,Maritie,Fredriksen
+1682,Jul,23,Peter Hendriksz,Catharina Hanse,Harman Hendriksz,Geertie Rutgers,,,Peter,Hendriksz,Catharina,Jansz,Hendrik,Harman,Hendriksz,Geertie,Rutgers
+1682,Jul,30,Cornelius Jans van de Veer,Trintie Gillis,Hendrick Gillis,Ida Jacobs,,,Cornelius,Jans van de Veer,Tryntie,Gillis,Maria,Hendrick,Gillis,Ida,Jacobs
+1682,Aug,6,Hendrick Jansen,Maritie Joris,Jan Ariensz,Maritie Hendriksen Smack,,,Hendrick,Jansz,Maritie,Joris,Susanna,Jan,Ariensz,Maritie,Hendriksz
+1682,Aug,13,Albert Alberts,Hendrika Stevens van Voorhees,Jan Marten Schenk,Janitie Stevens van Voorhees,,,Albert,Alberts,Hendrika,Stevens,Germichje,Jan,Marten Schenk,Janitie,Stevens van Voorhees
+1682,Aug,20,Simon Aardsz van der Hard,Geertie Cornelis,Elias Cornelis,Elizabeth Dirks,,,Simon,Aardsz van der Hard,Geertie,Cornelis,Geertje,Elias,Cornelis,Elizabeth,Dirks
+1682,Aug,27,Gerrit Stryker,Weintie Kornelis Bogart,Jacob Stryker,Ida Stryker,,,Gerrit,Stryker,Wyntie,Cornelis Boomgart,Jacob,Jacob,Stryker,Ida,Stryker
+1682,Aug,27,William Claasz,Elsie Corsen,Gerbrand Klaasz,Neeltje Jansz,,,William,Claasz,Elsie,Corsen,Gerrit,Gerbrant,Klaz,Neeltje,Jansz
+1682,Aug,27,Gerardus Beekman,Magdalena Abeel,Adrian Gerritz Payendorp,Janitie Kroesen,,,Gerardus,Beekman,Magdalena,Abeel,Adrian,Adrian,Gerritz Payendorp,Janitie,Kroesen
+1682,Sep,3,Adrian Willemsz Bennet,Agnietje Jansz van Dyk,Thomas Verdon,Maritie Adrianse,,,Adrian,Willemsz Bennet,Agnietje,Jansz van Dyk,Agnietje,Thomas,Verdon,Maritie,Adrianse
+1682,Sep,17,Aries Jansz van der Bild,Hildegond Roemers,Joris Roemers,,,,Aries,van der Bild,Hildegond,Roemers,Jannetje,Joris,Roemers,Janitie,
+1682,Oct,6,Jan Remsz,Maritie Damen,Jan Damen,Janitie Roemers,,,Jan,Remsz,Maritie,Damen,Rem,Jan,Damen,Janitie,Roemers
+1682,Oct,15,Joris Hansz Bergen,Sara Stryker,Michael Hansz Bergen,Aaltie Stryker,,,Joris,Hansz Bergen,Sara,Stryker,Aaltje,Michael,Hansz Bergen,Aeltie,Stryker
+1682,Oct,22,Antoine Wanshaar,Maritie Herberts,Jan Dirkz Meyer,Baartje Kips,,,Antoine,Wanshaar,Maritie,Herberts,Catharine,Jan,Dirkz Meyer,Baartje,Kips
+1682,Oct,29,Roelof Verkerk,Catharina Simones,Barent Jansen Verkerken,Geertie Verkerk,,,Roelof,Verkerk,Catharina,Simons,Annetje,Barent,Jansen Verkerken,Geertie,Verkerk
+1682,Nov,5,Jan Marten Schenk,Janitie Stevens van Voorhees,Martin Roelofs Schenk,Janitie Ariens,,,Jan,Marten Schenk,Janitie,Stevens,Jan,Martin,Roelofs Schenk,Janitie,Ariens
+1682,Nov,5,Joseph Hegeman,Emmetie Rems Peters,Jan Remsz,Elizabeth Hegeman,,,Joseph,Hegeman,Emmetie,Rems Peters,Elisabeth,Jan,Remsz,Elizabeth,Hegemans
+1682,Nov,12,Aard Verkerk,Gratiosa Verkerk,Barent Verkerk,Barendje VerKerken,,,Aard,Verkerk,Gratiosa,Verkerk,Jan,Barent,Verkerk,Barendje,Verkerk
+1682,Nov,19,Cornelius Jansz van Dyk,Elizabeth van der Hard,Thomas van Dyck,,,,Cornelius,Jansz van Dyk,Elizabeth,van der Hard,Jan,Thomas,van Dyck,Tryntie,
+1682,Nov,19,Laurens Cornelis,Margriet Barends,Jean Parys,Rachel Dirks,,,Laurens,Cornelis,Margriet,Barends,Grietje,Jean,Parys,Rachel,Dirks of Bush
+1683,???,,,,Jan Teunisz,Trintie Tunisz Teunis Bogard,,,,,,,Jan,Jan,Teunisz,Trintie Tunisz,Teunis Bogard
+1683,???,,Jan Aukes,Evertje Jansz,Jacob Aukez van Nuys,Geertie Geysbers,,,Jan,Aukes,Evertje,Jansz,Geertje,Jacob,Aukez van Nuys,Geertie,Gysbrechts
+1683,Mar,25,Jan Martens,Geertie Bloodgood,Wouter Gysbrechtz Verschuur,Elizabeth Jansen Woertman,,,Jan,Masten,Geertie,Bloodgood,Lisbeth,Wouter,Gysbrechts,Elizabeth,Jansz
+1683,Mar,30,Gerrit Lubbertsz,Geertie Willemsz,Jacob Willemsz,Elizabeth Hegeman,,,Gerrit,Lubbertsz,Geertie,Willemsz,Jacob,Jacob,Willemsz,Elizabeth,Hegemans
+1683,Mar,30,Gisbert Tice,Janitie Ariens,Jan van Dyck,Teuntie Tice,,,Gisbert,Tice,Janitie,Ariens,Thys,Jan,van Dyck,Teuntie,Tice
+1683,Apr,8,Laurens Jansen,Altje Gillis De Mandeville,Hendrick Gillis,Annatie Peters,,,Laurens,Jansz,Aeltie,Gillis,Agidius,Hendrick,Gillis,Annatie,Peters
+1683,Apr,22,Jan Gellisz,Aeltie Peters,Theodore Polhemius,Elizabeth Harks of NY,,,Jan,Gillis,Aeltie,Peters,Lisbeth,Theodore,Polhemius,Elizabeth,Harks of NY
+1683,Apr,22,William van Cowenhoven,Janitie Peters Monfort,Claes Peters Wyckof,Aeltie Willemsz,,,William,van Cowenhoven,Janitie,Peters Monfort,Annetje,Claes,Peters Wyckof,Aeltie,Willemsz
+1683,Apr,22,Coert Stevens,Maritie Kouwenhoven,Jan Teunisz,Aagie Elbertsz Stoothoff,,,Court,Stevens,Maritie,Kouwenhoven,Johannes,Jan,Teunisz,Aagie,Elbertsz Stoothoff
+1683,May,6,Adrian Reyersz,Annatie Martens Schenk,Peter Cornelisz Luyster,Janitie Snedeker,,,Adrian,Reyersz,Annetje,Martens,Reyer,Peter,Cornelisz Luyster,Janitie,Snedeker
+1683,May,6,William Joris,Hendrika Johannes,Jacob Joris,Elizabeth Thomas,,,William,Joris,Hendrika,Johannes,Joris,Jacob,Joris,Elizabeth,Thomas
+1683,May,13,Hendrick Corsz Vroom,Josina Peters van Nest,Peter van Nest,Jacomin van Nest,,,Hendrick,Corsen,Josina,Peters van Nest,Hendrik,Peter,van Nest,Jacomin,van Nest
+1683,May,13,Hendrick Tice,Annatie Tilemans,Thomas Jansz van Dyk,Teuntje Tysen,,,Hendrick,Tice,Annetje,Tilemans,Thys,Thomas,Jansz van Dyk,Teuntje,Tysen
+1683,May,27,Gisbrecht Jansz van Dyk,Sophia Jansz,Jan Wouters van den Bosh,Adriantie Jansen van Ditmarschen,,,Gisbrecht,Jansz van Dyk,Sophia,Jansz,Martha,Jan,Wouters van den Bosh,Adriantie,van Ditmarschen
+1683,May,27,Sander Egbertsz,Elsie Peters,Gerrit Tice,Annatie van Dyck,,,Sander,Egbertsz,Elsie,Peters,Annetje,Gerrit,Tice,Annetje,van Dyck
+1683,May,27,Jacob Hendriksz,Geesje Bartholds,Hendrick Willemsz,Maria Adrianse,,,Jacob,Hendriksz,Geesje,Bartholds,Cornelia,Hendrick,Willemsz,Maria,Adrianse
+1683,May,27,Lucas Tunisz Coevors,Barbara Sprong,Teunis Jansz Covers,Hans Tunisz Covers,,,Lucas,Tunisz Coevors,Barbara,Sprong,Abraham,Teunis,Jansz Covers,Hans,Tunisz Covers
+1683,May,27,Lucas Tunisz Coevors,Barbara Sprong,Aeltie Tunis Covers,Geesje Leuwes,William Post,,Lucas,Tunisz Coevors,Barbara,Sprong,Isaac,Aeltie,Tunis Covers,Geesje,Leuwes
+1683,Jul,24,Jurian Blanck,Hester Van Der Beek,Dirk Jansen,Aeltie Van Der Beek,,,Jurian,Blanck,Hester,Van Der Beek,Paulus,Dirk,Jansz,Aeltie,Van Der Beek
+1683,Jul,1,,Maria Storm,Joost Casparsz,Maria Storm,,,,,Maria,Storm,Joost,Joost,Casparsz,Maria,Storm grandmother
+1683,Jul,15,Cornelius Janse Berrian,Janitie Stryker,Jacob Stryker,Geertie Stryker,Ida Stryker,,Cornelius,Janse Berrian,Janitie,Stryker,Cornelis,Jacob,Stryker,Geertie,Stryker
+1683,Jul,22,Cornelius Sebring,Aeltie Frederiks,Jan Sebring,Catharina Polhemius,,,Cornelius,Sebring,Aeltie,Frederiks,Adriana,Jan,Sebring,Catharina,Polhemius
+1683,Jul,22,Adrian Peters Kinne,Willemtie Kinne,Antoine Wanshaar,Andries Ariens,Maritie Herberts,,Adrian,Peters Kinne,Willemtie,Kinne,Jan,Antoine,Wanshaar,Andries,Ariens
+1683,Jul,22,Hendrick Willemsz,Maria Adrianse,Gisbert Tice van Pelt,Janitie Ariens,,,Hendrick,Willemsz,Maria,Adrianse,Hendrik,Gisbert,Tice van Pelt,Janitie,Ariens
+1683,Aug,5,Claes Peters Wyckof,Sara Monfort,Cornelius Peters Wyckof,Geertie Simons van Arsdalen,,,Claes,Peters,Sara,Monfort,Cornelis,Cornelius,Peters Wyckof,Geertie,Simons van Arsdalen
+1683,Aug,5,Laurens Jurianse,Cunira Peters,Jan Peters,Helena Fonteyn,,,Laurens,Jurianse,Cunira,Peters,Styntie,Jan,Peters,Helena,Fonteyn
+1683,Aug,12,Claes Jans Romein,Stintie Alberts,Jan Alberts Terhunen,Geertie Peters Wyckof,,,Claes,Jans Romein,Stintie,Alberts,Lisbeth,Jan,Alberts Terhunen,Geertie,Peters
+1683,Sep,2,Dirk Jansen,Aeltie Paulus van der Beek,Jan Alberts Terhunen,Annatie Roelofs Schenk,,,Dirk,Jansz,Aeltie,Paulus van der Beek,Isaac,Jan,Alberts Terhunen,Annatie,Roelofs Schenk
+1683,Sep,2,Jan Mesurol,Maritie Teunis Couvers,Teunis Jansz Covers,Janitie Messural,,,Jean,Messural,Maritie,Teunis Couvers,Jan,Teunis,Jansz Covers,Janitie,Messural
+1683,Sep,9,Johannes Christofel Schars,Maria Bennet,Jan Willemsz Bennet,Tryntie Ariens Bennet,,,Johannes,Christofel Schars,Maria,Bennet,Sartje,Jan,Willemsz Bennet,Tryntie,Ariens Bennet
+1683,Sep,23,Jacob Verdon,Emmetie Willemsz,Maritie Badie van der Beek,Johannes Abram Willemsz,,,Jacob,Verdon,Emmetie,Willemsz,Thomas,Maritie,Badie van der Beek,Johannes,Abram Willemsz
+1683,Sep,23,Hendrick Rycke,Ida Jacobs,Engelbert Lott,Hendrika ver Planken,,,Hendrick,Ryken,Ida,Jacobs,Jannetje,Engelbert,Lott,Hendrika,ver Planken
+1683,Sep,23,William Appelby,Debora Buys,Jan Cornelis Buys,Willemtie Thysen,,,William,Appelby,Debora,Buys,Jannetje,Jan,Corneliz Buys,Willemtie,Tysen
+1683,Oct,7,Jan Cornelis Damen,Sophia Martens,Michael Parmentier,Celitje van der Wall,,,Jan,Cornelis Damen,Sophia,Martens,Celitje,Michael,Parmentier,Celitje,van der Wall
+1683,Oct,14,Gerrit Snedeker,Elsie Teunisz,Peter Cornelisz Luyster,Janitie Snedeker,,,Gerrit,Snedeker,Elsie,Teunisz,Sara,Peter,Cornelisz Luyster,Janitie,Snedeker
+1683,Oct,14,Frederick van Leeuwen,Dina Jans,Jan Frederiksz van Leeuwen,Aeltie Jansz,,,Frederick,van Leeuwen,Dina,Jansz,Hendrik,Jan,Frederick,Aeltie,Jansz
+1683,Oct,21,Jan Remsz,Maritie Jansen,Jan Damen,Janitie Rapelje,,,Jan,Remsz,Maritie,Jansz,Rem,Jan,Damen,Janitie,Rapelje
+1683,Oct,28,Albert Stevens van Voorhees,Hilletie Reiniers Wizzelpennig,Lucas Stevens van Voorhees,Aeltie Stevens van Voorhees,,,Albert,Stevens,Hilletie,Reiners,Stephen,Lucas,Stevens van Voorhees,Aeltie,Stevens van Voorhees
+1683,Nov,4,Jan van Dyck,Teuntje Tice van Pelt,Hendrick Tice van Pelt,Annatie Tilemans,,,Jan,van Dyck,Teuntje,Tice van Pelt,Thys,Hendrick,Tice van Pelt,Annatie,Tilemans
+1683,Nov,11,Reinier Jansz,Elizabeth van Ravestein,Louis Jansz,Catharina Polhemius,,,Reinier,Jansz,Elizabeth,van Ravestein,Louis,Louis,Jansz,Catharina,Polhemius
+1683,Nov,11,Peter Gilliaumsz,Margriet Verschuur,Johannes Willemsz,Maritie Willemsz,,,Peter,Guilliamsz,Margriet,Verschuur,Jacob,Johannes,Willemsz,Maritie,Willemsz
+1683,Nov,11,Casper van Zuren,Louisa Hellenius,Sophia Hellenius,John Zas,Margriet Polhemius,,Casper,van Zuren,Louisa,Hellenius,Wilhelmus,Sophia,Hellenius,John,Zas
+1683,Nov,2,Lambrecht Jansz,Tietje Barends,Adam Hendrikz Vrooman,Ida Jacobs,,,Lambrecht,Jansz,Tietje,Barends,Barend,Adam,Hendrikz Vrooman,Ida,Jacobs
+1683,Nov,9,Lucas Stevens van Voorhees,Catalina Hanse,Peter Hansz,Maritie van Cowenhoven,,,Lucas,Stevens van Voorhees,Catalina,Hansz,Willemptje,Peter,Hansz,Maritie,van Cowenhoven
+1683,Nov,16,Volkert Dirks,Annetje Philips,Wouter Gysbrechtz Verschuur,Marrietje Hey,,,Volkhert,Dirks,Annetje,Philips,Rachel,Wouter,Gysbrechts,Marrietje,Hey
+1683,Nov,23,Cornelius Peters Wyckof,Geertie Simons,Simon Jans van Arsdalen,Pietertie Claas Wykoff,,,Cornelius,Peters Wyckof,Geertie,Simons,Simon,Simon,Jans van Arsdalen,Pietertie,Claas Wykoff
+1683,Nov,23,Jan Marten Schenk,Janitie Stevens van Voorhees,Albert Stoothof,Sara Roelofs Schenk,,,Jan,Marten Schenk,Janitie,Stevens,Neeltje,Albert,Stoothof,Sara,Roelofs Schenk
+1683,Nov,25,Jan van Cleeft,Engeltie van Kleef,Quirin Jans van Meteren,Neeltje van Kleef,,,Jan,van Kleef,Engeltie,van Kleef,Joseph,Quirin,Jans van Meteren,Neeltje,van Kleef
+1683,Nov,25,Jan van Cleeft,Engeltie van Kleef,Nicholas Rutgers van Brunt,Helena Cortelyou,,,Jan,van Kleef,Engeltie,van Kleef,Benjamin,Nicholas,Rutgers van Brunt,Helena,Cortelyou
+1683,Nov,30,Jacob Joris,Elizabeth Thomas,Jacobus van de Water,Hendrika Johannes,,,Jacob,Joris,Elizabeth,Thomas,Jacob,Jacobus,van de Water,Hendrika,Johannes
+1683,Nov,30,Melchert Casparsz,Geertruid Bartels,Hendrick Jansen,Willemtie Hendriksz,,,Melchior,Casparsz,Geertruid,Bartels,Lisbeth,Hendrick,Jansz,Willemtie,Hendriksz
+1684,Jan,13,Rem Remsz,Maritie van der Bild,Joris Remsen,Emmetie Roemers,,,Rem,Remsz,Maritie,van der Bild,Aris,Joris,Remsz,Emmetie,Roemers
+1684,Jan,20,Josias Dratz,Aeltie Brouwer,Michael Hansz Bergen,Sara Stryker,,,Josias,Dratz,Aeltie,Browers,Sara,Michael,Hansz Bergen,Sara,Stryker
+1684,Jan,20,Jacob Hansz Bergen,Elsie Frederiks Lubertse van der Kreest,Joris Hansz Bergen,Catalina Teunis Bogard,,,Jacob,Hansz Bergen,Elsie,Frederiks,Jacob,Joris,Hansz Bergen,Catalina,Teunis Bogard
+1684,Jan,20,Roelof Verkerk,Catharina Simones,Jan Dirksen van der Vliet,Geertie Verkerk,,,Roelof,Verkerk,Catharina,Simons,Annetje,Jan,Dirksen van der Vliet,Geertie,Verkerk
+1684,Jan,20,Dirk Jansz Sutphin,Elizabeth Jansen Woertman,Auke Jansen van Nuys,Geertie Geysbers,,,Dirk,Jansz Sutphin,Elizabeth,Jansz,Jacob,Auke,Jansen van Nuys,Geertie,Gysbrechts
+1684,Jan,20,Leffert Peters,Abigail Aukes,Jacob Aukez van Nuys,Emmetie Aukes,,,Leffert,Peters,Abigail,Aukes,Jan,Jacobus,Aukez van Nuys,Emmetie,Aukes
+1684,Jan,27,Roelof Marten Schenk,Annatie Peters,Stoffel Jans Romein,Geertie Peters Wyckof,,,Roelof,Marten Schenk,Annetje,Peters,Mayken,Stoffel,Jans Romein,Geertie,Peters
+1684,Jan,27,Reinier Arendsz,Janitie Aukes,Jan Stevens van Voorhees,Evertje Jansz,,,Reinier,Arendsz,Janitie,Aukes,Geertruyd,Jan,Stevens van Voorhees,Evertje,Jansz
+1684,Feb,3,Antoine van Pelt,Magdalena van Pelt,Cornelius Wynhard,Adriantie Hendriks Wynhard,,,Antoine,van Pelt,Magdalena,van Pelt,Adriantje,Cornelius,Wynhard,Adriantie,Hendriks Wynhard
+1684,Feb,10,Antoine du Chesne,Anna Bocke,Tys Lubbertsz,Tryntie ,,,Antoine,du Chesne,Anna,Bocke,Gerrit,Tys,Lubbertsz,Tryntie,
+1684,Feb,17,Landolph Evans,Maritie Youngs,Jacobus van de Water,Elizabeth Margriet Storm,,,Landolph,Evans,Maritie,Youngs,Elisabeth,Jacobus,van de Water,Elizabeth,Margriet Storm
+1684,Feb,24,Jan Stevens van Voorhees,Emmetie Aukes,Albert Stevens van Voorhees,Janitie Stevens van Voorhees,,,Jan,Stevens,Emmetie,Aukes,Willemptje,Albert,Stevens van Voorhees,Janitie,van Voorhees
+1684,Feb,24,Elderd Lucasz,Stintie Hendriksz,Jan Hendriksz,Annetje Hendriksz,,,Elderd,Lucasz,Stintie,Hendriksz,Annetje,Jan,Hendriksz,Annetje,Hendriksz
+1684,Mar,9,Hendrick Claasz Vechten,Geertie Reiners,Claes Arendsz van Vechten,Janitie Snedeker,,,Hendrick,Claasz Vechten,Geertie,Reiners,Hilletje,Claes,Arendsz van Vechten,Janitie,Snedeker
+1684,Mar,9,Peter Monfort,Janitie Peters Monfort,Cornelius Peters Wyckof,Willemtie Peters Wyckof,Thys Pieters,,Peter,Monfort,Janitie,Peters,Jan,Cornelius,Peters,Willemtie,Peters
+1684,Mar,9,Christofel Jans Romein,Geertie Peters Wyckof,Jan Peters,Stintie Alberts,,,Christoffel,Jans Romein,Geertie,Peters,Cornelis,Jan,Peters,Stintie,Alberts
+1684,Mar,16,Jan Jansen,Annatie Peters,Peter Jansz van Dyk,Annetje ,,,Jan,Jansz,Annatie,Peters,Jan,Peter,Jansz van Dyk,Annetje,
+1684,Mar,20,Dirk Hoogland,Annetje Feddens,Jan Aukez van Nuys,Maritie Jansen,,,Dirk,Hoogland,Annetje,Feddens,Lisbeth,Jan,Aukez van Nuys,Maritie,Jansz
+1684,Mar,30,Simon van der Hard,Geertie Aardsz van der Hard,Nicholas Rutgers van Brunt,Helena Cortelyou,,,Simon,van der Hard,Geertie,van der Hard,Simon,Nicholas,Rutgers van Brunt,Helena,Cortelyou
+1684,Mar,30,Hendrick Teunisz,Annatie Mynders,Hendrick Tice van Pelt,Geertie Jansen,,,Hendrick,Teunisz,Annetje,Mynders,Meinhard,Hendrick,Tice van Pelt,Geertie,Jansz
+1684,Mar,30,Martin Peters Wyckof,Hanna Willemsz,Peter Claasz Wykof,Geertie van Ness,,,Marthen,Peters Wyckof,Hanna,Willemsz,Grietje,Peter,Claasz Wykof,Geertie,van Nest
+1684,Apr,6,Joost Casparsz,Magdalena Jansz,Johannes Casparsz,Caspar Jansz,Maria Teunisz,Teuntie Jurrian,Joost,Casparsz,Magdalena,Jansz,Catharine,Johannes,Casparsz,Caspar,Jansz
+1684,Apr,6,Joost Casparsz,Magdalena Jansz,Johannes Casparsz,Caspar Jansz,Maria Teunisz,Teuntie Jurrian,Joost,Casparsz,Magdalena,Jansz,Jannetie,Johannes,Casparsz,Caspar,Jansz
+1684,Apr,13,Jan Alberts Terhunen,Annatie Roelofs Schenk,Albert de Lintwever,Geertie ,,,Jan,Alberts,Annetje,Roelofs Schenk,Albert,Albert,de Lintwerer,Geertie,
+1684,Apr,20,Peter Hendriksz,Catharina Hanse,Gerrit Hendriksz,Anna Wynhard,,,Peter,Hendriksz,Catharina,Jansz,Adam,Gerrit,Hendriksz,Anna,Wynhard
+1684,Apr,20,,,Geertie Jansen,Teunis van Pelt,,,Margarita a Negro,,,,Margrita (age 11),Geertie,Jansz,Teunis,van Pelt
+1684,Jun,15,Dirk Jans Woertman,Maria Teunisz,Jan Teunisz,Catalina Teunis Bogard,,,Dirk,Jans Woertman,Maritie,Teunisz,Annetje,Jan,Teunisz,Catalina,Teunis Bogard
+1684,Jun,29,William Davids,Helena Aardsen,Peter Nevius,Janitie Roelofs,,,William,Davids,Helena,Aards,Laurens,Petrus,Nevius,Janitie,Roelofs
+1684,Jun,29,Jan Barendsz van Driest,Janitie Willems van Barkeloo,Cornelia Willemsz,,,,Jan,Barendsz van Driest,Janitie,Willems van Borkelo,Cornelia,Cornelia,Willemsz,,
+1684,Jul,27,Jacobus Hegeman,Janitie Ariens,Hendrick Hegeman,Elizabeth Hegeman,,,Jacobus,Hegeman,Janitie,Ariens,Adrian,Hendrick,Hegeman,Elizabeth,Hegeman
+1684,Jul,27,Michael Parmentier,Neeltje Damen,Cornelia Dames,Jan Remsz,,,Michael,Parmentier,Neeltje,Damen,Antoinette,Cornelia,Damen,Jan,Remsz
+1684,Aug,20,Peter Stryker,Anneke Barends,Jan Stryker,Hendrick Stryker,Swantje Peters Stryker,,Peter,Stryker,Annetje,Barends,Jan,Jan,Stryker,Hendrick,Stryker
+1684,Aug,20,Gerardus Beekman,Magdalena Abeel,Wilhelmus Beekman,Maria Abeel,,,Gerardus,Beekman,Magdalena,Abeel,Wilhelmus,Wilhelmus,Beekman,Maria,Abeel
+1684,Aug,20,Peter Schamp,Janitie Dirks,Volkert Dirks,Elizabeth Kokkuyt,,,Peter,Schamp,Janitie,Dirks,Lisbeth,Volkert,Dirks,Elizabeth,Kokkuyt
+1684,Aug,20,William Brouwer,Elizabeth Brouwer,Cornelius Sebring,Ida Sebring,,,William,Brouwer,Elizabeth,Brouwer,Adolphus,Cornelius,Sebring,Ida,Sebring
+1684,Aug,17,Cornelius Jans van de Veer,Trintie Gillis,Altje Gillis De Mandeville,,,,Cornelius,Jans van de Veer,Tryntie,Gillis,Hendrikje,Aeltie,Gillis,,
+1684,Aug,24,Joseph Golder,Neeltje Claas,Claes Schmidt,Thomas Jansz van Dyk,Maritie Van Dyck,,Joseph,Golder,Neeltje,Klaas,Abraham,Claes,Schmidt,Thomas,Jansz van Dyk and Marritie
+1684,Aug,24,Andries Adriansz Onderdonk,Maria van der Vliet,Hendrick van der Vliet,Geertie van der Vliet,,,Andries,Adriansz Onderdonk,Maria,van der Vliet,Adrian,Hendrick,van der Vliet,Geertie,van der Vliet
+1684,Aug,31,Nicholas Rutgers van Brunt,Helena Cortelyou,Jacques Cortelyou,Cornelius Rutgers van Brunt,Tryntje van Brunt,,Nicholas,Rutgers van Brunt,Helena,Cortelyou,Claas,Jaques,Cortelyou,Cornelius,Rutgers van Brunt
+1684,Aug,31,Joris Hansz Bergen,Sara Stryker,Abraham Joris Brinkerhoff,Hendrick Stryker,Annetie Tunis Bogart,,Joris,Hansz Bergen,Sara,Stryker,Hans,Abraham,Joris Brinkerhoff,Hendrick,Stryker
+1684,Sep,14,Engelbert Lott,Cornelia Lanoy,Abraham Lanoy,Gertrud Lott,,,Engelbert,Lott,Cornelia,Lanoy,Abraham,Abraham,Lanoy,Gertrud,Lott
+1684,Sep,14,Aries Jansz van der Bild,Hildegond Roemers,Joseph Hegeman,Emmetie Roemers,,,Aries,van der Bild,Hildegond,Roemers,Femmitie,Joseph,Hegeman,Emmetie,Roemers
+1684,Sep,28,Mattheus Brouwer,Maria Peters,Aeltie Peters,Adolf Brouwer,,,Matthys,Brouwer,Maria,Peters,Altie,Aeltie,Peters,Adolph,Brouwer
+1684,Sep,28,Jan Wouters van den Bosh,Wyntie Peters,Janitie Stryker,,,,Jan,Wouters van der Bosch,Wyntie,Peters,Stintie,Janitie,Stryker,,
+1684,Oct,3,Jan van der Vliet,Geertie Verkerk,Hendrick van der Vliet,Barendje VerKerken,,,Jan,van der Vliet,Geertie,Verkerk,Jan,Hendrick,van der Vliet,Barendje,VerKerken
+1684,Oct,12,Jan Tunisz van Duykhuys,Agatha Elbertsz Stoothoff,Thomas Willet,Sara Roelofs Schenk,,,Jan,Tunisz van Dykhuysen,Agatha,Elbertsz Stoothoff,Alida,Thomas,Willet,Sara,Roelofs Schenk
+1684,Oct,19,Karel Jansz van Dyk,Elizabeth van der Hard,Peter Jansz van Dyk,Annatie ,,,Karel,Jansz van Dyk,Elizabeth,van der Hard,Engeltie,Peter,Jansz van Dyk,Annatie,
+1684,Nov,9,Jan Barends,Maritie Simons van Arsdalen,Gerrit Snedeker,Elsie Teunisz,,,Jan,Barends,Maritie,Simons van Arsdalen,Katharine,Gerrit,Snedeker,Elsie,Teunisz
+1684,Nov,16,Antoine Wanshaar,Maritie Herberts,Dirk Stofelsz van Langstraet,Catharina Langstraet,,,Antoine,Wanshaar,Maritie,Herberts,Jan,Dirk,Stoffelsz Langstraet,Catharina,Langstraet
+1684,Nov,17,Jan Cornelisz Bonger,Agnietje Stryker,Gerrit Stryker,Hendrick Stryker,Aaltie Stryker,,Jan,Cornelisz Bonger,Agnietje,Stryker,Cornelis,Gerrit,Stryker,Hendrick,Stryker
+1684,Nov,23,Johannes Michielsz,Neeltje Harmans,Jacob Hendriksz,Catharina Beauvois,,,Johannes,Michielsz,Neeltje,Harmans,Michiel,Jacob,Hendriksz,Catharina,Beauvois
+1684,Nov,23,Gerrit Stryker,Stintie Gerritz Dorland,Jan Stryker,Swaantje Stryker,,,Gerrit,Stryker,Stintie,Gerritz Dorland,Lammetje,Jan,Stryker,Swantje,Stryker
+1684,Nov,23,Laurens Cornelis,Margriet Barends,Adrian Hendriksz,Elizabeth Thomas,,,Laurens,Cornelis,Margriet,Barends,Gerrit,Adrian,Hendriksz,Elizabeth,Thomas
+1684,Nov,30,Jacobus van de Water,Engeltie Jurianse,Thomas Lambertsz,Elizabeth Thomas,,,Jacobus,van de Water,Engeltie,Jurianse,Jurrian,Thomas,Lambertsz,Elizabeth,Thomas
+1684,Nov,30,Jacob Brouwer,Annetje Bogardus,Josiah Dratse,Aeltie Brouwer,,,Jacob,Brouwer,Annetje,Bogardus,Jacob,Josiah,Dratse,Aeltie,Browers
+1684,Nov,30,Evert Hendriksz,Sitie Sophia Brouwers,Adolf Brouwer,Maritie Brouwer,,,Evert,Hendriksz,Sitie,Sophia Brouwers,Jannetje,Adolf,Brouwer,Maritie,Brouwer
+1684,Dec,7,Albert Alberts,Hendrika Stevens van Voorhees,Jan Stevens van Voorhees,Willemtie Sebring,,,Albert,Alberts,Hendrika,Stevens,Willemptje,Jan,Stevens van Voorhees,Willemtie,Sebring
+1684,Dec,14,Jan Elson,Hendrick van der Vliet,Jan van der Vliet,Maria van der Vliet,,,Jan,Elson,Hendrika,van der Vliet,Eli,Jan,van der Vliet,Maria,van der Vliet
+1684,Dec,14,Jan Cornelis Buys,Machteld Gerritz Buys,Johannes Michielsz,Susanna Emants,,,Jan,Cornelis Buys,Machteld,Gerritz,Cornelis,Johannes,Michielz,Susanna,Emants
+1684,Dec,14,Jan Cornelis Buys,Machteld Gerritz Buys,Trintie w of Thys Lubbertsz,,,,Jan,Cornelis Buys,Machteld,Gerritz,Adam,Trintie,w of Thys Lubbertsz,,
+1684,Dec,14,Wouter Brunoos,Neeltje Herberts,Hendrick Peters,Dirk Stofelsz van Langstraet,Catharine Stoffelse,,Wouter,Brunoos,Neeltje,Herberts,Bruno,Hendrick,Peters,Dirk,Stoffelse
+1684,Dec,25,Landolph Evans,Margriet Bleuw,Willemtie Thysen,,,,Landolph,Evans,Margriet,Bleuw,Wilhelmus,Willemtie,Thysen,,
+1685,Jan,1,William Grootman,,Cornelia Cornelis,,,,William,Grootman,,,Wilhelmus,Cornelia,Cornelis b of Hempd,,
+1685,Jan,4,Albert Hendriksz,Geertie Kroegers,Charles Fonteyn,Helena Fonteyn,,,Albert,Hendriksz,Geertie,Kroegers,Johannes,Charles,Fonteyn,Helena,Fonteyn
+1685,Jan,11,Gerrit Stryker,Weintie Kornelis Bogart,Jacob Stryker,Cornelia Hendriks Brinkhorst,,,Gerrit,Stryker,Wyntie,Cornelis Boomgart,Geesje,Jacob,Stryker,Cornelia,Hendriksz
+1685,Jan,11,Rutger Brunoos,Geertie Jansen,Gerrit Hendriksz,Catharina Hendricksz,Peter Hendrikz,,Rutger,Brunoos,Geertie,Jansz,Geertje,Gerrit,Hendriksz,Catharina,w of Peter Hendrikz
+1685,Jan,16,Cornelius van der Wyk,Anna Polhemius,Denys Teunisz,Hendrika Stevens van Voorhees,,,Cornelius,van der Wyk,Anna,Polhemius,Elisabeth,Denys,Teunisz,Hendrika,Stevens
+1685,Jan,23,Jan Remsz,Maritie Jansen,Jan Damen,Sophia Martens,,,Jan,Remsz,Maritie,Jansz,Sophia,Jan,Damen,Sophia,Martens
+1685,Jan,23,Hendrick Rycke,Ida Jacobs,Cornelius Janse Berrian,Hendrika ver Planken,,,Hendrick,Rycke,Ida,Jacobs,Jannetje,Cornelius,Janse Berrian,Hendrika,ver Planken
+1685,Feb,1,Jan Teunisz,Catalina Teunis Bogard,Denys Teunisz,Artie Teunis Bogard,,,Jan,Teunisz,Catalina,Teunis Bogard,Sara,Denys,Teunisz,Artie,Teunis Bogard
+1685,Feb,1,Hendrick Jansen,Maritie Jansen,Arien Jansz,Geertie Smith of Mespath,,,Hendrick,Jansz,Maritie,Jansz,Cornelia,Arien,Jansz,Geertie,Smith of Mespath
+1685,Feb,8,Joseph Hegeman,Emmetie Roemers,Jacobus Hegeman,Anna Roemers,,,Joseph,Hegeman,Emmetie,Roemers,Rem,Jacobus,Hegeman,Annatie,Roemers
+1685,Feb,15,Gerrit Stoffelse,Elizabeth Cornelis,The eldest daughter of Thomas Sjerkz,,,,Gerrit,Stoffelse,Elizabeth,Cornelis,Jacobus,The,eldest daughter of Thomas Sjerkz,,
+1685,Feb,22,John De Metzelaer,Maria De Metzelaer,Cornelius Janse Berrian,Peter Stryker,Maria Frederiks Lubbertse,,John,De Metzelaer,Maria,De Metzelaer,John,Cornelius,Janse Berrian,Peter,Stryker
+1685,Feb,22,Christoffel Probasco,Ida Stryker,Joris Hansz Bergen,Joris Abramze,Anneke Barends,,Christoffel,Probasco,Ida,Stryker,Abraham,Joris,Hansz Bergen,Joris,Abramze
+1685,Feb,22,Volkhert Hansz,Sara Elbertsz Stoothoff,Lucas Stevens van Voorhees,Albert de Lintwever,Caloline Hansz Stevens,,Volkhert,Hansz,Sara,Alberts,Albert,Lucas,Stevens van Voorhees,Albert,de Lintwever
+1685,Mar,4,Elias Dorland,,Cornelius Barends van Wyk,Geertie Dorland,Cornelia Brower DeBeauvois,,Elias,Dorland,,,Elias,Cornelius,Barends van Wyk,Geertie,Dorland
+1685,Mar,8,Gerrit Lubbertsz,Geertie Willemsz,Rem Remsz,Catharina De Bevoise,,,Gerrit,Lubbertsz,Geertie,Willemsz,Gysbrecht,Rem,Remsz,Catharina,De Bevoise
+1685,Mar,22,Gerrit Dorland,Cornelia De Bevoise,Jacobus De Bevoise,Geertie Beauvois,,,Gerrit,Dorland,Cornelia,De Bevoise,Karul,Jacobus,De Bevoise,Geertie,Beauvois
+1685,Mar,27,Adrian La Forge,Janitie Hansz,Jaques Fontyn,Geertie Kolfs,,,Adrian,La Forge,Janitie,Jansz,Marie,Jaques,Fontyn,Geertie,Kolfs
+1685,Mar,27,Adrian La Forge,Janitie Hansz,Wouter Gysbrechtz Verschuur,Dorothea Kaljiers,,,Adrian,La Forge,Janitie,Jansz,Aaltje,Wouter,Gysbrechts,Dorothea,Kaljiers
+1685,Mar,27,Hieronymus De Rapalie,Annatie Teunisz,Denys Teunisz,Maritie Teunis Denyse,,,Hieronymus,De Rapalie,Annetje,Teunisz,Cataline,Denys,Teunisz,Maritie,Teunis Denyse
+1685,Mar,29,Jan Hansz Bergen,Janitie Teunisz,Jan Tunisz De Nys,Neeltje Teunis Bogard,,,Jan,Hansz Bergen,Janitie,Teunisz,Marritie,Jan,Tunisz De Nys,Neeltje,Teunis Bogard
+1685,Mar,29,Hendrick Jorisz Brinkerhof,Klaasje Cornelis Boomgart,Gerrit van Cowenhoven,Joris Abrahams Brinkerhof,Weintie Kornelis Bogart,,Hendrick,Jorisz Brinkerhof,Klaasje,Cornelis Boomgart,Jacobus,Gerrit,van Cowenhoven,Joris,Abrahams Brinkerhof
+1685,Apr,3,Gisbrecht Tice van Pelt,Janitie Adrianse,Jan Tice van Pelt,Magdalena van Pelt,,,Gisbrecht,Thyz van Pelt,Janitie,Adrianse,Cornelis,Jan,Tice van Pelt,Magdalena,van Pelt
+1685,Apr,3,Dirk Jansz Amerman,Aeltie Van Der Beek,Jan Aardsz,Adriantie ,,,Dirk,Jansz Amerman,Aeltie,Van Der Beek,Gerbrect,Jan,Aardsz,Adriantie,
+1685,Apr,5,Joachim Gulik,Magdalena van Pelt,Aard Teunis van Pelt,Janitie van Borkelo,,,Joachim,Gulik,Magdalena,van Pelt,Samuel,Aard,Teunisz van Pelt,Janitie,van Borkelo
+1685,Apr,12,Jan Aukes,Evertje Jansz,Hendrick Willemsz,Frederick Simones,Abigail Aukes,,Jan,Aukes,Evertje,Jansz,Barbara,Hendrick,Willemsz,Frederick,Simones
+1685,Apr,12,William Willemsz Bennet,Mayke Peters Wyckof,Martin Peters Wyckof,Hanna Willemsz,,,William,Willemsz,Mayken,Petersz Wykof,Marritje,Martin,Peters Wyckof,Hanna,Willemsz
+1685,Apr,12,Albert Stevens van Voorhees,Hilletie Reiniers Wizzelpennig,Lucas Stevens van Voorhees,Aeltie Stevens van Voorhees,,,Albert,Stevens van Voorhees,Hilletie,Reiniers Wizzelpennig,Stephen,Lucas,Stevens van Voorhees,Aeltie,Stevens van Voorhees
+1685,Apr,20,Dirk Paulusz,Sara Jeates,,,,,Dirk,Paulusz,Sara,Jeates,William,,,,
+1685,Apr,20,Jan Frederiksz van Leeuwen,Aeltie Jansz,Jacob Hansz Bergen,Annatie Peters,,,Jan,Frederick,Aeltie,Jansz,Grietje,Jacob,Hansz Bergen,Annatie,Peters
+1685,Apr,26,Jan Clement,Maria Bocke,Abraham De Toict,Janitie Bocke,,,Jean,Clement,Maria,Bocke,Johannes,Abraham,De Toict,Janitie,Bocke
+1685,May,3,Simon van der Hard,Geertie Aardsz van der Hard,Denys Teunisz,Helena Cortelyou,,,Simon,van der Hard,Geertie,van der Hard,Simon,Denys,Teunisz,Helena,Cortelyou
+1685,May,7,Barent Barends,Catharina van Markken,Hendrick Rycke,Magdalena Vonk,,,Barent,Barends,Catharina,van Markken,Neeltje,Hendrick,Rycke,Magdalena,Vonk
+1685,May,7,Hendrick Tice van Pelt,Annatie Mynders,Wouter van Pelt,Geertie Jansen,,,Hendrick,van Pelt,Annatie,Mynders,Grietje,Wouter,van Pelt,Geertie,Jansz
+1685,Jun,13,Jacob Hendriksz,Catryntie De Bevoise,Jacobus De Bevoise,Sophia Lodenstein,,,Jacob,Hendriksz,Catryntie,De Bevoise,Karel,Jacobus,De Bevoise,Sophia,Lodenstein
+1685,Jun,13,Antoine Teunis van Pelt,Magdalena Teunis van Pelt,Joachim Gulik,Jacomin Teunis van Pelt,,,Antoine,Teunis van Pelt,Magdalena,Teunis van Pelt,Grietje,Joachim,Gulik,Jacomin,Teunis van Pelt
+1685,Jun,13,Jacob Verdon,Femeke Willemsz,Abraham Willemsz,Geertie Bennet,,,Jacob,Verdon,Femeke,Willemsz,Maria,Abraham,Willemsz,Geertie,Bennet
+1685,Jun,13,Lammert Jansen,Feytie Barends,Ida Jacobs,,,,Lammert,Jansen,Feytie,Barends,Feytje,Ida,Jacobs,,
+1685,Jun,13,Johannes Holsaert,Johanna Havens,Gerrit Stevens,Maria Wenterslick,,,Johannes,Holsaert,Johanna,Havens,Gerardus,Gerrit,Stevens,Maria,Wenterslick
+1685,Jun,15,Laurens Haff,Cuniertie Peters,Hendrick Matyse Smok,Helena Willems van Nuys,,,Laurens,Haff,Cuniertie,Peters,Maria,Hendrick,Matyse Smok,Helena,Willems van Nuys
+1685,Aug,16,Barent Jurianse,Artie Stevens,Jan Marten Schenk,Emmetie Aukez van Nuys,,,Barent,Jurianse,Artie,Stevens,Jan,Jan,Marten Schenk,Emmetie,Aukez van Nuys
+1685,Aug,16,Jacob Cowenhoven,Anna Roemers,Johannes Cowenhoven,Marta Claasen,,,Jacob,Cowenhoven,Anna,Roemers,Johannes,Johannes,Cowenhoven,Marta,Claasen
+1685,Oct,4,Gerrit Courten,Willemtie Peters Wyckof,Peter Cornelisz Luyster,Janneke Jansen Snedeker,,,Gerrit,Courten,Willemtie,Peters,Aaltie,Peter,Cornelisz Luyster,Janneke,Jansen Snedeker
+1685,Oct,4,Peter Jansen,Anneke Jansen,Adrian Willemsz Bennet,Anneke Peters,,,Peter,Jansen,Anneke,Jansen,Jacob,Adrian,Willemsz Bennet,Anneke,Peters
+1685,Dec,18,Roelof Marten Schenk,Aeltie Peters,Jan Alberts Terhunen,Janneke Roelofs Schenk,,,Roelof,Marten Schenk,Aeltie,Peters,Sara,Jan,Alberts Terhunen,Janneke,Roelofs Schenk
+1685,Dec,18,Dirk Jansen,Elizabeth Jansen Woertman,Auke Jansen van Nuys,Geertie Geysbers,,,Dirkrick,Jansen,Elizabeth,Jansen,Jan,Auke,Jansen van Nuys,Geertry,Geysbers
+1685,Dec,20,Peter Hafter,Debora Buys,Christian Jansen,Barent Jansen Verkerken,,,Peter,Hafter,Debora,Bus,Cristina,Christian,Jansen,Barent,Jansz
+1685,Dec,20,Martin Peters Wyckof,Anna Willamsen,Cornelius Willamsen,Maria Davids,,,Marthen,Peters,Anna,Willamsen,Maria,Cornelius,Willamsen,Maria,Davids
+1685,Dec,20,William Willemsz Bennet,Anneke Jurianse,Dirk Jansen,Elizabeth Jansen Woertman,,,William,Willemsz,Anneke,Jurianse,Jurrian,Dirk,Jansen,Elizabeth,Jansen
+1686,Jun,11,Dirk Jansz Hoogland,Annatie Fedders,Frederick Hanse,Janneke Mennes,,,Dirk,Jansz Hoogland,Annatie,Fedders,Neeltje,Frederick,Hanse,Janneke,Mennes
+1686,Jun,11,Andries Onderdonck,Maria van der Vliet,Jan van der Vliet,Geertie van der Vliet,,,Andries,Onderdonck,Maria,van der Vliet,Anderies,Jan,van der Vliet,Geertie,van der Vliet
+1686,May,25,Jan Martens,Geertie Bloodgood,Hendrick Heg,Adriantie Bloodgood,,,Jan,Masten,Geertie,Bloodgood,Tryntie,Hendrick,Heg,Adriantie,Bloodgood
+1686,Aug,8,Gerrit Alberts,Anna Nevius,Jan Aersen,Sara Elbertsz Stoothoff,,,Gerrit,Alberts,Anna,Nevius,Adriana,Jan,Aersen,Sara,Elbertsz Stoothoff
+1686,Sep,5,Peter Stryker,Anneke Barends,Jan van Cleeft,Engeltie Laurens,,,Peter,Stryker,Anneke,Barends,Barent,Jan,van Kleef,Engeltie,Laurens
+1686,Oct,3,Hendrick Jansen Cammega,Anna Maria Verveele,Daniel Verveelen,Aeltie Schaats,,,Hendrick,Jansen Cammega,Anna,Maria Verveele,Janna,Daniel,Vervele,Aeltie,Schats
+1686,Oct,31,Albert Alberts Terhunen,Hendrika Stevens van Voorhees,Dirk Jansen Amberman,Aeltie Paulus van der Beek,,,Albert,Albertse Terhuynen,Hendrika,Stevens,Maritie,Dirk,Jansen Amberman,Aeltie,Paulus van der beek
+1687,Jan,9,William Willemsz Bennet,Janneke Jurianse,Dirk Jansen,Elizabeth Jansen Woertman,,,William,Willemsz,Janneke,Jurianse,C. Barbar,Dirk,Jansen,Elizabeth,Jansen
+1687,Jan,9,Hendrick Tice van Pelt,Anneke Mynders,Hendrick Frederick,Neeltje Jansen Cleef,,,Hendrick,van Pelt,Anneke,Mynders,Mindert,Hendrick,Frederick,Neeltje,Jansen
+1687,Feb,6,Dirk Jansen,Elizabeth Jansen Woertman,Auke Jansen van Nuys,Geertie Geysbers,,,Dirkrick,Jansen,Elizabeth,Jansen,Jan,Auke,Jansen van Nuys,Geertie,Geysbers
+1687,Feb,6,Joachim Gulik,Jacomin Teunis van Pelt,Neeltie Jansen van Tuyl,,,,Joachim,Gulik,Jacomin,Thuunisse,Joachim,Neeltie,Jansen van Tuyl,,
+1687,Mar,24,Lammert Jansen,Feytie Barends,,,,,Lammert,Jansen,Feytie,Barends,Jacob,,,,
+1687,Mar,29,Peter Janse Van de Venter,Mayke Cristiaen vande Venter,Jacobus Janse Van de Venter,Adriantie van De Venter,,,Peter,Janse Van de Venter,Mayke,Cristiaen vande Venter,Cristiaen,Jacobus,van De Venter,Adriantie,van De Venter
+1687,Apr,24,Cryn Jansen van Meteren,Neeltje Jansen Cleef,Jan van Cleeft,Engel Laurens van Cleef,,,Cryn,Jansen van Meteren,Neeltje,Jansen Cleef,Jan,Jan,van Kleef,Engel,Laurens van Cleef
+1687,Apr,24,Gerrit Stoffelse,Elizabeth Cornelis,Jacob Cornelis,Aeltie Frederiks,,,Gerrit,Stoffelse,Elizabeth,Cornelis,Joris,Jacob,Cornelis,Aeltie,Frederiks
+1687,Apr,24,Denys Teunisz,Helena Cortelyou,Dirk Jans Veerman,Janneke Teunis Denyse,,,Denys,Teunessen,Lena,Cortelyou,Tunis,Dirk,Jansen Veerman,Janneke,Teunis Denyse
+1687,May,15,Joost De Bane,Elizabeth Drabbe,Johannes Holsaert,Adriantie Jurianse,,,Joost,De Bane,Elizabeth,Drabbe,Christiaen,Johannes,Holsaert,Adriantie,Jurianse
+1687,May,15,Laurens Jansen,Altje Gillis De Mandeville,Daniel Polhemius,Neeltje Cornelissen van der Veen,,,Laurens,Jansen,Aeltie,Gillis,Werickie,Daniel,Polhemius,Neeltje,Cornelissen van der Veen
+1687,Jun,15,Pouwel Paulusz,Elsie Jurianse,Jan Hanse,Maria Frederiks Lubbertse,,,Pouwel,Paulusz,Elsie,Jurianse,Maregrietie,Jan,Hanse,Maria,Fredericksen Lubbertse
+1687,Jun,3,Daniel De Rapalie,Sara Clock,Hendrick Slecht,Elizabeth Abramze,,,Daniel,De Rapalie,Sara,Clock,Sara,Hendrick,Slecht,Elizabeth,Abramze
+1687,Jul,31,Jan Aukes,Eva Jansen,Dirk van Sutvin,Maria Willemsz Bennet,,,Jan,Aukes,Eva,Jansen,Maria,Dirk,van Sutvin,Maria,Willemsz
+1687,Oct,23,Gerrit Courten,Willemtie Peters Wyckof,Coert Stevens van Voorhees,Mayke Gerritz,,,Gerrit,Courten,Willemtie,Peters,Marytie,Coert,Stevens van Voorhees,Mayke,Gerritz
+1687,Nov,20,Jacques Cortelyou,Maritie Hendriksen Smack,Cornelius Cortelyou,Geertie Cortelyou,,,Jacques,Cortelyou,Maritie,Hendriksen Smack,Aeltie,Cornelius,Cortelyou,Geertie,Cortelyou
+1687,Dec,18,Jan Clement,Maria Bocke,Antoine die Leemenen,Annatie Bocken,,,Jan,Clement,Maria,Bocke,Annatie,Antoine,die Leemenen,Annatie,Bocken
+1688,Jan,8,Martin Peters Wyckof,Hanna Willemsz,Cornelius Peters Wyckof,Annatie Peters,,,Marthen,Petersen Wyckoff,Hanna,Willemsz,Annetie,Cornelius,Peters Wyckof,Annatie,Peters
+1688,Feb,26,Jacobus Janse Van de Venter,Emmetie Barends,Cornelius Janse Van de Venter,Adriantie Jansz van Deventer,,,Jacobus,Janse Van de Venter,Emmetie,Barends,Jan,Cornelius,Janse Van de Venter,Adriantie,Jansz van Deventer
+1688,Apr,16,Jan Leuck,Neeltje Claas,William Willemsz Bennet,Mayke Petersen Wykoff,,,Jan,Leuck,Neeltje,Claasen,Jan,William,Willemsz,Mayke,Petersen Wykoff
+1688,Apr,16,Peter Janse van Tellel,Mayke Willemsz,Jan van De Venter,Engel Thomas,,,Peter,Janse van Tellel,Mayke,Willemsz,(Torn out),Jan,van De Venter,Engel,Thomas
+1688,May,5,Hendrick Jansen Cammega,Anna Maria Verveele,Laurens Jansen,Altje Gillis De Mandeville,,,Hendrick,Jansen Cammega,Anna,Maria Verveele,Angenitie,Laurens,Jansen,Aeltie,Gillise
+1688,May,13,Jan van Cleeft,Engeltie Laurens,William Jansen,,,,Jan,van Cleeft,Engeltie,Lourents,Ceytie,William,Jansen,Adriantie,
+1688,Aug,5,Jacob Hansz Bergen,Elsie Frederiks Lubertse van der Kreest,Cornelius Sebring,Femmitie Tunis Nyssen,,,Jacob,Hansz Bergen,Elsie,Frederiks Lubertse van der Kreest,Sara,Cornelius,Sebring,Femmitie,Teunisz
+1688,Aug,5,Isaac Goldens,Geertie Jansen,Simon Hanse,Maria Frederiks Lubbertse,,,Isaac,Goldens,Geertie,Jansen,Elisabeth,Simon,Hanse,Maritie,Frederiks Lubbertse
+1688,Sep,9,Rem Remsz,Maritie Jansen,Jacob Remsz,,,,Rem,Remsz,Maritie,Jansen,Janneke,Jacob,Remsz,Janneke,
+1688,Sep,9,Peter Franciscus,Susanna Day,Jan De Wyck,Elizabeth Franse,,,Peter,Franciscus,Susanna,Day,Lysbeth,Jan,De Wyck,Elizabeth,Franse
+1688,Sep,9,Isaac Hegeman,Maritie Schenck,Roelof Marten Schenk,Elizabeth Hegeman,,,Isaac,Hegeman,Maritie,Schenck,Adrian,Roelof,Marten Schenk,Elizabeth,Hegemans
+1688,Sep,9,William Willemsz Bennet,Janneke Jurianse,Dytelof Duiere,Elsie Jurianse,,,William,Willemsz,Janneke,Jurianse,Elsje,Dytelof,Duiere,Elsie,Jurianse
+1688,Sep,9,Jan Jansen,Anneke Peters,Volkert Hendriksz,Elizabeth Aardsen,,,Jan,Jansen,Anneke,Peters,Anneke,Volkert,Hendriksz,Elizabeth,Aardsen
+1688,Sep,9,Cornelius Barends van Wyk,Anna Polhemius,Theodore van Wyk,Maria van Wyk,,,Cornelius,Barentse van Wyk,Anna,Polhemius,Adriantie,Theodore,van Wyk,Maria,van Wyk
+1688,Sep,9,Cornelius Cortelyou,Neeltje Volkers,Volkert Dirks,Neeltje Cornelissen van der Veen,,,Cornelius,Cortelyou,Neeltje,Volkers,Antie,Volkert,Dirks,Neeltje,Cornelis
+1688,Oct,7,Hendrick Jansen,Hester Cartoys,Hendrick Claasz Vechten,Janneke Cartoys,,,Hendrick,Jansen,Hester,Cartoys,Anneke,Hendrick,Claasen,Janneke,Cartoys
+1688,Nov,4,Jacques Cortelyou,Maritie Hendriksen Smack,Cornelius Cortelyou,Geertie Harmans,,,Jacques,Cortelyou,Maritie,Hendriksz,Geertie,Cornelius,Cortelyou,Geertie,Harmans
+1688,Dec,25,Aard Lanen,Neeltje van Tuyl,Joachim Gulik,Geertie Jansen,,,Aard,Lanen,Neeltje,van Tuyl,Jan,Joachim,Gulik,Geertry,Jansen
+1689,Feb,3,Jan Staats,Catharina Corsen,Peter Staats,Maritie van der Griff,,,Jan,Staats,Catharina,Corsen,Maria,Peter,Staats,Maritie,van der Griff
+1689,Mar,3,Gisbert Tice van Pelt,Janneke Adrianse,Aard Teunis van Pelt,Neeltje van Tuyl,,,Gisbert,Tice van Pelt,Janneke,Adrianse,Mary,Aard,van Pelt,Neeltje,van Tuyl
+1689,Mar,3,Dirk van Sutvin,Elizabeth Jansen Woertman,Gerrit Holla,Maritie Hendriksen Smack,,,Dirk,van Sutphin,Elizabeth,Jansen,Geertie,Gerrit,Holla,Maritie,Hendriksz
+1689,Apr,21,Salomon Desever,Annatie Leclayse,Gisbert Tice van Pelt,Janneke Ariens,,,Salomon,Desever,Annatie,Leclayse,Isaac,Gisbert,Tice van Pelt,Janneke,Ariens
+1689,Apr,21,Teunis Jansen,Janitie Brouwer,Hendrick Brouwer,Machteld Brouwer,,,Teunis,Jansen,Janitie,Browers,Jannetie,Hendrick,Brouwer,Machteld,Brouwer
+1689,Apr,21,Lammert Jansen,Feytie Barends,Roelof Verkerk,Catharina Simones,,,Lammert,Jansen,Feytie,Barends,Jan,Roelof,Verkerk,Catharina,Simones
+1689,Jun,2,Gerardus Beekman,Magdalena Abeel,Johannes Beekman,Elizabeth Abeel,,,Gerardus,Beekman,Magdalena,Abeel,Catarina,Johannes,Beekman,Elizabeth,Abeel
+1689,Jun,30,Cornelius Rutgers van Brunt,Tryntie Bennet,Joost van Brunt,Angenitie van Dyck,,,Cornelius,Rutgers van Brunt,Tryntie,Bennet,Angenieta,Joost,van Brunt,Angenitie,van Dyck
+1689,Aug,28,Cornelius Gerritz,Dirk Jurianse,Dirk Jansen,Elizabeth Jansen Woertman,,,Cornelius,Gerritz,Dirk,Jurianse,Elisabeth,Dirk,Jansen,Elizabeth,Jansen
+1689,Sep,22,Johannes Fonteyn,Riemerick Simons,Simon Hanse,Maria Frederiks Lubbertse,,,Johannes,Fonteyn,Riemerick,Simons,Sjarel,Simon,Hanse,Maria,Frederiks Lubbertse
+1689,Sep,22,Martin Peters Wyckof,Hanna Willamsen,Johannes Brouwer,Sara Willemsz,,,Marthen,Peters,Hanna,Willamsen,Sara,Johannes,Brouwer,Sara,Willamsen
+1689,Sep,22,Joachim Gulik,Magdalena Teunis van Pelt,Jan Teunisz,Elizabeth Teunis van Pelt,,,Joachim,Gulik,Magdalena,Teunisz,Peter,Jan,Teunisz,Elizabeth,Teunis van Pelt
+1689,Sep,22,Reinier Arendsz,Janneke Aukes,Auke Reinierse,Tryntie Reiners,,,Reinier,Arendsz,Janneke,Aukes,Tunis,Auke,Reinierse,Tryntie,Reiners
+1689,Sep,22,Denys Teunisz,Helena Cortelyou,Jacques Cortelyou,Maria Cortelyou,,,Denys,Teunisz,Helena,Cortelyou,Neltie,Jacques,Cortelyou,Maria,Cortelyou
+1690,Feb,16,Peter Staats,Elizabeth Aerentsen,Peter Staats,Angenitie van Dyck,,,Peter,Staats,Elizabeth,Aerentsen,Pieter,Peter,Staats,Angenitie,van Dyck
+1690,Mar,16,Isaac Lefever,Wyntie Mynders,Myndert Coerten van Voorhees,Maria Meinders van Vorhes,,,Isaac,Lefever,Wyntie,Mynders,Mindert,Myndert,Coerten van Voorhees,Maria,Meinders van Vorhes
+1690,Mar,16,Wouter Teunis van Pelt,Maritie Schaers,Hendrick Tice van Pelt,Margriet Jansen,,,Wouter,Teunis van Pelt,Maritie,Schaers,Teunis,Hendrick,Tice van Pelt,Margriet,Jansen
+1690,Apr,13,Peter Franciscus,Susanna Day,Abraham Jansen,Susanna Peters Ritsers,,,Peter,Franciscus,Susanna,Dey,Peter,Abraham,Jansen,Susanna,Peters Ritsers
+1690,May,4,Joost De Bane,Elizabeth Drabbe,Cornelius Wynhard,Mayke Cornelis,,,Joost,De Bane,Elizabeth,Drabbe,Mayke,Cornelius,Wynhard,Mayke,Cornelis
+1690,May,20,Isaac Goldens,Geertie Jansen,Jan Hanse,Maria Frederiks Lubbertse,,,Isaac,Goedens,Geertie,Jansen,Jan,Jan,Hanse,Maria,Frederiks
+1690,Oct,20,Gerrit Stoffelse,Elizabeth Cornelis,Stoffel Gerretsen,Josyntie Holgen,,,Gerrit,Stoffelse,Elizabeth,Cornelis,Josyntie,Stoffel,Gerretsen,Josyntie,Holgen
+1690,Oct,20,Michael Parmentier,Neeltje Damen,Peter Sasiel,Aeltie Damen,,,Michael,Parmentier,Neeltje,Damen,Neeltje,Peter,Sasiel,Aeltie,Damen
+1690,Nov,15,William Bennet,Adriantie van de Water,Jan Bennet,Feytie van de Water,,,William,Bennet,Adriantie,van de Water,Fytie,Jan,Bennet,Feytie,van de Water
+1695,Jun,8,Gerrit Wickles,Tryntie Wickles,Jan Krankheit,Geertie Krankheit,,,Gerrit,Wickles,Tryntie,Wickles,Sytie,Jan,Krankheit,Geertie,Krankheit
+1695,Jun,8,Jan Wyckoff,Neeltje Wyckoff,Peter Willemsz,Patience Willemsz,,,Jan,Wyckoff,Neeltje,Wyckoff,Pieter,Peter,Willemsz,Patience,Willemsz
+1695,Jun,8,Rem Dorland,Annatie Dorland,Jan Gerrits Dorlant,Elsie Snedeker,,,Rem,Dorland,Annatie,Dorland,Elsje,Jan,Gerrits Dorlant,Elsie,Snedeker
+1695,Jun,9,Benjamin van de Water,Engeltie Harmans,Lammert Adrianse,Elizabeth Thomas,,,Benjamin,van de Water,Engeltie,Harmans,Harmen,Lammert,Adrianse,Elizabeth,Tomasse
+1695,Jun,9,Thomas Baudet,Maria Baudet,Msr Baubine,,,,Thomas,Baudet,Maria,Baudet,Magariet,Msr,Baubine,,
+1695,Jun,9,Dirk Brouwer,Hanna Daas,Jan Brouwer,Janitie Teunisz,,,Dirk,Brouwer,Hanna,Daas,Jan,Jan,Brouwer,Janitie,Teunisz
+1695,Oct,30,Peter Nevius,Janitie Nevius,Gerrit Stoothof,Sara Luister,,,Peter,Nevius,Janitie,Nevius,Pieter,Gerrit,Stoothof,Sara,Luister
+1695,Oct,30,Stoffel Probasco,Ida Stryker,Joris Abramze,Tryntie Abramze,,,Stoffel,Probasco,Ida,Stryckers,Jurrien,Joris,Abramze,Tryntie,Abramze
+1695,Oct,30,Jan Tyssen Lanen,Aeltie Tyssen Lanen,Geertie Cornelis,Jacomin Hellaken,,,Jan,Tyssen Lanen,Aeltie,Tyssen Lanen,Gerrit,Gerrit,Cornelis,Jacomin,Hellaken
+1695,Oct,30,Wouter van Pelt,Maria van Pelt,Stoffel Schars,Aeltie Schaats,,,Wouter,van Pelt,Maria,van Pelt,Teunis,Stoffel,Schars,Aeltie,Schars
+1695,Oct,30,Peter Brouwer,Annatie Brouwer,Cornelius Willamsen,Machiel Willemsz,,,Peter,Brouwer,Annatie,Brouwer,Hans,Cornelius,Willemsz,Machiel,Willemsz
+1695,Oct,30,Jan Hanse,Willemtie Jansen,Gerrit Hanse,Maria van Boerum,,,Jan,Hanse,Willemtie,Jansen,Hans,Gerrit,Hanse,Maria,van Boerum
+1695,Oct,30,Jan Swol,Geertie Swol,Jan Teunisz,Aagje Teunis,,,Jan,Swol,Geertie,Swol,Geertruy,Jan,Teunisz,Aachie,Teunisz
+1695,???,,Hendrick Hendriksz,Bennetie Hendriksz,Hendrick Rycke,Ida Hendriksz,,,Hendrick,Hendriksz,Bennetie,Hendriksz,Hendrick,Hendrick,Rycke,Ida,Hendriksz
+1695,???,,Ryck Hendriksz,Janitie Hendriksz,Hendrick Rycke,Ida Hendriksz,,,Ryck,Hendriksz,Janitie,Hendriksz,Ytie,Hendrick,Rycke,Ida,Hendriksz
+1698,Jan,9,Wilhelmus Lubbertsz,Cornelia Lubbertsz,Gerardus Beekman,Joseph Hegeman,Catharina Polhemius,,Wilhelmus,Lubbertsz,Cornelia,Lubbertsz,Adrianna,Gerardus,Beekman,Joseph,Hegeman
+1698,Jan,9,Laurens Jansen,Hendrika Laurens,Jacob Hendriksz,Catie Jacobs,,,Laurens,Jansen,Hendrika,Laurens,Jacob,Jacob,Hendriksz,Catie,Jacobs
+1698,Jan,9,Jan Bennet,Aeltie Bennet,Peter Wynantse,Neeltje Bennet,,,Jan,Bennet,Aeltie,Bennet,Geertruy,Peter,Wynantse,Neeltje,Bennet
+1698,Jan,9,Jan Hoogland,Jaapje Hoogland,William Hoogland,Neeltje Hoogland,,,Jan,Hoogland,Jaapje,Hoogland,Annetie,William,Hoogland,Neeltje,Hoogland
+1697,Sep,5,Samuel Philips,Aeltie Philips,Jan Damen,Sophia Damen,,,Samuel,Philips,Aeltie,Philips,Maria,Jan,Damen,Sophia,Damen
+1697,Sep,5,Peter van Deventer,Mayke van Deventer,Hendrick Rycke,Ida Hendriksz,,,Peter,van Deventer,Mayke,van Deventer,Abram,Hendrick,Rycke,Ida,Hendriksz
+1697,Sep,5,Peter van Deventer,Mayke van Deventer,Joost van Brunt,Aeltie van Brunt,,,Peter,van Deventer,Mayke,van Deventer,Isaac,Joost,van Brunt,Aeltie,van Brunt
+1697,???,,Johannes Fonteyn,Catharina Fonteyn,Cornelius Willamsen,Sara Willemsz,,,Johannes,Fonteyn,Catharina,Fonteyn,Margarita,Cornelius,Willemsz,Sara,Willemsz
+1697,Oct,31,Jan Sevenhoven,Maria Lequie,Jan Lequie,Rachel Lequie,,,Jan,Sevenhoven,Maria,Lequie,Jan,Jan,Lequie,Rachel,Lequie
+1697,Oct,31,Abraham Lott,Geertie Lott,Peter Lott,Geertie Lott,,,Abraham,Lott,Geertie,Lott,,Peter,Lott,Geertie,Lott
+1697,Oct,31,Douwe van Ditmas,Catharina van Ditmas,Hendrick Lott,Janitie Remsz,,,Douwe,van Ditmas,Catharina,van Ditmas,,Hendrick,Lott,Janitie,Remsz
+1697,Oct,31,Henry Filkin,Catharina Filkin,Achias van Dyck,Magdalena van Dyck,,,Henry,Filkin,Catharina,Filkin,Magdalena,Achias,van Dyck,Magdalena,van Dyck
+1698,Jul,31,Abraham van Duyn,Geertie van Duyn,Reyer Martens,Maritie Turk,,,Abraham,van Duyn,Geertie,van Duyn,Marten,Reyer,Martens,Maritie,Turk
+1698,Jul,31,Jan Ryder,Adriantie Ryder,Jan Snedeker,Hilletie Snedeker,,,Jan,Ryder,Adriantie,Ryder,Robbert,Jan,Snedeker,Hilletie,Snedeker
+1698,Jul,31,Engelbert Lott,Cornelia Lott,,,,,Engelbert,Lott,Cornelia,Lott,Cornelia,,,,
+1698,Aug,28,Jan Bennet,Emmetie Bennet,Hieronymus Rapelye,Annatie Rapelje,,,Jan,Bennet,Emmetie,Bennet,Joris,Jeronimus,Rapelje,Annatie,Rapelje
+1698,Aug,28,Jan Monfort,Ida Monfort,William Gerrits van Cowenhoven,Sara Monfort,,,Jan,Monfort,Ida,Monfort,Aeltje,William,Gerritz,Sara,Monfort
+1698,Apr,3,Aries Jansz van der Bild,Hilletie Jansz van der Bild,Jeronimus Remsz,Tryntie Remsz,,,Aries,Jansz van der Bild,Hilletie,Jansz van der Bild,Catlyntie,Jeronimus,Remsz,Tryntie,Remsz
+1698,Apr,3,Claes van Dyck,Francyntie van Dyck,Hendrick Hendriksz,Annatie Kros,,,Claes,van Dyck,Francyntie,van Dyck,Hendrick,Hendrick,Hendriksz,Annatie,Kros
+1698,Apr,3,Sirach Titus,Aeltie Titus,Francois Titus,Maritie Monfort,,,Sirach,Titus,Aeltie,Titus,Geertie,Francois,Titus,Maritie,Monfort
+1698,Apr,25,Teunis Wiltse,Divertie Wiltse,Gerrit Wickles,Tryntie Wickles,,,Teunis,Wiltse,Divertie,Wiltse,Geertruy,Gerrit,Wickles,Tryntie,Wickles
+1698,Apr,25,Johannes van Ekelen,Tryntie van Ekelen,Denys Teunisz,Helena Denys,,,Johannes,van Ekelen,Tryntie,van Ekelen,Helena,Denys,Teunisz,Helena,Denys
+1698,Apr,25,Aron van Nostrand,Aeltie van Nostrand,Andries Jansen,Maria Simones,,,Aron,van Nostrand,Aeltie,van Nostrand,Jan,Andries,Jansen,Maria,Simones
+1698,May,22,Lammert Adrianse,Lea Harmans,Jan Staats,Engeltie Lives,,,Lammert,Adrianse,Lea,Harmans,Rachel,Jan,Staats,Engeltie,Lives
+1698,May,22,Christian Snedeker,Pietertie Snedeker,Hendrick Aten,Annatie Aten,,,Christian,Snedeker,Pietertie,Snedeker,Adrian,Hendrick,Aten,Annatie,Aten
+1698,Jul,3,Jan Eldersen,Maria Hendriksz,William Jansen,Annatie Jansz,,,Jan,Eldersen,Maria,Hendriksz,Egbertie,William,Jansen,Annatie,Jansen
+1698,Jul,3,Abraham Remsz,Annatie Remsz,Gerrit Middag,Ida Hendriksz,,,Abraham,Remsz,Annatie,Remsz,Aert,Gerrit,Middag,Ida,Hendriksz
+1698,Jul,31,Abraham van Duyn,Geertie van Duyn,Reyer Martens,Maritie Turk,,,Abraham,van Duyn,Geertie,van Duyn,Marten,Reyer,Martens,Maritie,Turk
+1698,Jul,31,Jan Ryder,Adriantie Ryder,Jan Snedeker,Hilletie Snedeker,,,Jan,Ryder,Adriantie,Ryder,Robbert,Jan,Snedeker,Hilletie,Snedeker
+1698,Jul,31,Engelbert Lott,Cornelia Lott,Peter Lott,Geertie Lott,,,Engelbert,Lott,Cornelia,Lott,Cornelia,Peter,Lott,Geertie,Lott
+1698,Aug,28,Jan Bennet,Emmetie Bennet,Hieronymus Rapelye,Annatie Rapelje,,,Jan,Bennet,Emmetie,Bennet,Joris,Jeronimus,Rapelje,Annatie,Rapelje
+1698,Aug,28,Jan Monfort,Ida Monfort,William Gerrits van Cowenhoven,Sara Monfort,,,Jan,Monfort,Ida,Monfort,Aeltie,William,Gerritz,Sara,Monfort
+1698,Aug,28,Leffert Peters,Abigail Peters,,,,,Leffert,Peters,Abigail,Peters,Abigail,,,,
+1698,Sep,25,William Grootman,Margriet Grootman,Johannes Barends,Dirk Barends,,,William,Grootman,Margriet,Grootman,Margariet,Johannes,Barends,Dirk,Barends
+1698,Sep,25,William Grootman,Margriet Grootman,Christian Snedeker,Pietertie Snedeker,,,William,Grootman,Margriet,Grootman,Pietertie,Christian,Snedeker,Pietertie,Snedeker
+1698,Oct,,Barent Cornelis,Hanna Cornelis,Johannes Barends,Dirk Barends,,,Barent,Cornelis,Hanna,Cornelis,Cornelis,Johannes,Barends,Dirk,Barends
+1698,Oct,,Gerrit Stoothof,Johanna Stoothof,Coert Stevens,Maritie Coerte,,,Gerrit,Stoothof,Johanna,Stoothof,Cornelis,Coert,Stevens,Maritie,Coerte
+1698,Oct,,Josias Robberson,Margriet Robberson,,,,,Josias,Robberson,Margriet,Robberson,Hanna,,,,
+1698,Oct,23,Auke Reinierse,Ida Vonk,Achias van Dyck,Magdalena van Dyck,,,Auke,Rynierse,Ida,Vonk,Magdalena,Achias,van Dyck,Magdalena,van Dyck
+1698,Oct,23,Jan Benham,Vulpie Benham,George Herr,Willemtie Herr,,,Jan,Benham,Vulpie,Benham,Antie,George,Herr,Willemtie,Herr
+1698,Oct,26,Marthen Adrianse,Sara Adrianse,Jacobus Hegeman,Janitie Hegeman,,,Marthen,Adrianse,Sara,Adrianse,Adrian,Jacobus,Hegeman,Janitie,Hegeman
+1698,Oct,26,Marthen Adrianse,Sara Adrianse,Gerrit Claasen,Engeltie Harmans,Maritie Gerrits van Cowenhoven,,Marthen,Adrianse,Sara,Adrianse,Gerrit,Gerrit,Claasen,Engeltie,Harms
+1698,Oct,26,Evert Wikele,Emmetie Wikele,Gisbert Boomgard,Janitie Boomgard,,,Evert,Wikele,Emmetie,Wikele,Jan,Gisbert,Boomgard,Janitie,Boomgard
+1699,Apr,20,Jacob Hansz Bergen,Elsie Hanse,Jacob Rutse,Sara Joris,,,Jacob,Hanse,Elsie,Hanse,Jacob,Jacob,Rutse,Sara,Joris
+1699,Apr,26,Gerrit Hanse,Janitie Hansz,Jeronimus Remsz,Catie Remsz,,,Gerrit,Hanse,Janitie,Hanse,Gerrit,Jeronimus,Remsz,Catie,Remsz
+1699,Apr,30,Laurens Haff,Cuniertie Haff,Hendrick Martens,Hillegont Bogart,,,Laurens,Haff,Cuniertie,Haff,Laurens,Hendrick,Martens,Hillegont,Bogart
+1699,Feb,5,Peter Gillis,Cornelia Dames,Peter Symsen,Aeltie Damen,,,Peter,Gillis,Cornelia,Dames,Pieter,Peter,Symsen,Aeltie,Dames
+1699,Feb,5,Jan Aukes,Eva Jansen,Theodore Polhemius,Aardje Polhemius,,,Jan,Auke,Eva,Jansz,Willem,Theodore,Polhemius,Artie,Polhemius
+1699,Feb,5,Jan Aukes,Eva Jansen,Jannis Willamsen,Magdalena Wynants,,,Jan,Auke,Eva,Jansz,Abraham,Jannis,Willamsen,Magdalena,Wynants
+1699,Feb,5,Jan Peters,Geertie Jansen,Wouter van Pelt,Maritie ,,,Jan,Peters,Geertie,Jansen,Annatie,Wouter,van Pelt,Maritie,
+1699,Mar,5,Joris Remsen,Emmetie Joris,Daniel Remsen,Elizabeth Jansen Woertman,,,Joris,Remsen,Emmetie,Joris,Lisbeth,Daniel,Remsen,Elizabeth,Jansen Woertman
+1699,Mar,5,Gerrit van Wickelen,Tryntie van Wickelen,Jan Lambertsz,Emmetie van Wickelen,,,Gerrit,van Wickelen,Tryntie,van Wickelen,Evert,Jan,Lambertsz,Emmetie,van Wickelen
+1709,Sep,18,Jacob Bennet,Barbara Ferdon,Johannes Willemsz van Wyck,Janitie Ferdon,,,Jacob,Bennet,Barbara,Ferdon,Jannetje,Johannes,Willemsz van Wyck,Janitie,Ferdon
+1709,Sep,18,Elias De Hart,Catalina Laning,Simon De Hart,Annatie De Hart,,,Elias,De Hart,Catalina,Laning,Elyas,Simon,De Hart,Annatie,De Hart
+1709,Sep,18,William Willemsz Bennet,Catalyntie Gulik,Joachim Gulik,Geertie Gulik,,,William,Willemsz,Catalyntie,Gulik,Jochem,Joachim,Gulik,Geertie,Gulik
+1709,Nov,25,Joseph van Kleef,Catalina Rapelje,Daniel Rapelje,Maritie Rapelje,,,Joseph,van Kleef,Catharina,Rapelje,Sara,Daniel,Rapelje,Maritie,Rapelje
+1709,Nov,27,Teunis Haff,Janitie Baas,Peter Hendriksz,Catharina Peters,,,Teunis,Haff,Janitie,Baas,Pieter,Peter,Hendriksz,Catharina,Peters
+1709,Dec,25,Jan Hanse,Willemtie van Boerum,Louisje van Bos,Jan Lucasz,,,Jan,Hanse,Willemtie,van Boerum,Marritje,Louisje,van Bos,Jan,Lucasz
+1710,Jan,15,Femmete Hanse,Sara Hanse,,Johannes Alberts,,,Femmete,Hanse,Sara,Hanse,Johannes,Johannes,,Johannes,Alberts
+1710,Jan,15,Isaac Snedeker,Catharina Hanse,Jan Snedeker,Elsie Snedeker,,,Isaac,Snedeker,Catharina,Jansz,Abraham,Jan,Snedeker,Elsie,Snedeker
+1710,Jan,15,Benjamin van de Water,Engeltie Harmans,Bernardus Freeman,Margriet Freeman,,,Benjamin,van de Water,Engeltie,Harmsz,Bernardus,Bernardus,Freeman,Margriet,Freeman
+1709,Sep,18,Jacob Bennet,Barbara Ferdon,Johannes Will van Wicklen,Janitie Ferdon,,,Jacob,Bennet,Barbara,Ferdon,Fametie,Johannes,Will van Wicklen,Janitie,Ferdon
+1709,Sep,18,William Willemsz Bennet,Catalyntie Gulik,Forem Gulik,,,,William,Willemsz,Catalyntie,Gulik,Forem (?) or Floris (?),Forem,Gulik,Geertie,
+1709,Sep,25,Joseph van Kleef,Catalina Rapelje,Daniel Rapelje,,,,Joseph,van Kleef,Catharina,Rapelje,Sara,Dan,Rapelje,Maritie,
+1709,Nov,27,Teunis Haff,Janitie Baas,Peter Hendriksz,Catharina Peters,,,Teunis,Haff,Janitie,Baas,Peter,Peter,Hendriksz,Catharina,Peters
+1709,Dec,25,Jan Hanse,Willemtie van Boexen,Louisje van Boexen,Jan Lucasz,,,Jan,Hanszen,Willemtie,van Boexen,Marytie,Louisje,van Boexen,Jan,Lucasz
+1710,Jan,15,Emmetie Hanse,Saertie Hanse,Johannes Sie,Johannes Alberts,,,Emmetie,Hanse,Saertie,Hanse,Johannes,Johannes,Sie,Johannes,Alberts
+1710,Jan,15,Isaac Snedeker,Catalina Jansz,Jan Snedeker,Elsie Snedeker,,,Isaac,Snedeker,Catalina,Jansz,Abraham,Jan,Snedeker,Elsie,Snedeker
+1710,Jan,15,Benjamin van de Water,Engeltie Harmans,Bernardus Freeman,,,,Benjamin,van de Water,Engeltie,Harmsz,Bernhardus,Dom,Bernardus Freeman,Margriet,
+1721,Aug,27,Hendrick van Leeuwen,Maria van Leeuwen,Jacob Bennet,Janitie Brouwer,,,Hendrick,van Leeuwen,Maria,van Leeuwen,Jurian,Jacob,Bennet,Janitie,Browers
+1721,Aug,27,Christian Lubbertsz,Annatie Lubbertsz,Marthen Schenck,,,,Christian,Lubbertsz,Annatie,Lubbertsz,Wilhelmus,Marthen,Schenck,Cornelia,
+1721,Sep,17,Jan Waldron,Rachel Waldron,Ryn Aarsen van Hegelen,,,,Jan,Waldron,Rachel,Waldron,Benjamin,Ryn,Aarsen van Hegelen,,
+1721,Oct,8,Jan Gerregen,Maria Gerregen,Albert Stevens van Voorhees,,,,Jan,Gerregen,Maria,Gerregen,Albert,Albert,van Vorhes,Margriet,
+1721,Oct,8,Auke van Hengelen,Ida van Hengelen,Christopher Probasco,Ida ,,,Auke,van Hengelen,Ida,van Hengelen,Auke,Christopher,Probasco,Ida,
+1721,Nov,19,Cors Cornelis,Janitie Cornelis,Peter Stryker,Jan van der Bild,Abigail Leffertse,,Cors,Cornelis,Janitie,Cornelis,Adrian,Peter,Stryker,Jan,van der Bild
+1721,Nov,19,Peter Lott,Sara Lott,Isaac Snedeker,Catharina Snedeker,,,Peter,Lott,Sara,Lott,Antye,Isaac,Snedeker,Catharina,Snedeker
+1721,Dec,10,Dominicus van der Veer,Janitie van der Veer,Isaac Remsen,,,,Dominicus,van der Veer,Janitie,van der Veer,Jacobus,Isaac,Remsen,Hendrika,
+1721,Dec,25,Karel Boerum,Rebecca Boerum,Isaac Snedeker,,,,Karel,Boerum,Rebecca,Boerum,Elsye,Isaac,Snedeker,Elsie,
+1722,Jan,21,Simon De Hart,Agnietje van Dyck,Mattheus van Dyck,,,,Simon,De Hart,Agnietje,van Dyck,Angenietje,Mattheus,van Dyck,Agnietje,
+1722,Feb,11,Gerrit Martens,Mag Martens,Marthen Adrianse,,,,Gerrit,Martens,Mag,Martens,Marten,Marthen,Adrianse,Sara,
+1722,Feb,11,Peter Luyster,Annatie Luyster,Tys Luyster,,,,Peter,Luyster,Annatie,Luyster,Cornelia,Tys,Luyster,Cornelia,
+1722,Feb,11,Jan van Pelt,Susanna van Pelt,Adrian Schouten,Mag van Pelt,,,Jan,van Pelt,Susanna,van Pelt,Lena,Adrian,Schouten,Mag,van Pelt
+1722,Feb,11,Karel van Voorhees,Neeltje van Voorhees,Jan van Vorhes,,,,Karel,van Voorhees,Neeltje,van Voorhees,Ante,Jan,van Vorhes,Annatie,
+1722,Feb,11,Gerrit van Duyn,Aeltie van Duyn,Cors van Duyn,,,,Gerrit,van Duyn,Aeltie,van Duyn,Cornelis,Cors,van Duyn,Stintie,
+1722,Oct,25,Peter Wyckoff,Rensie Wyckoff,Hendrick Wyckoff,,,,Peter,Wyckoff,Rensie,Wyckoff,Gerrit,Hendrick,Wyckoff,Helena,
+1722,Oct,25,Giljam Cornelis,Cornelia Cornelis,Dom van de Veer,,,,Giljam,Cornelis,Cornelia,Cornelis,Giljam,Dom,van de Veer,Janitie,
+1722,Dec,6,Michael van der Veer,Beletie van der Veer,Peter Leffertz,,,,Michael,van der Veer,Beletie,van der Veer,Eytje,Peter,Leffertz,Ida,
+1722,Dec,25,Jos. Heg,Adriantie Heg,Laurens Ditmars,,,,Jos.,Heg,Adriantie,Heg,Cornelis,Laurens,Ditmars,Eliz,
+1725,Jan,17,Jan van Wickelen,Ida van Wickelen,Rem Heg,Petronella Heg,,,Jan,van Wickelen,Ida,van Wickelen,Metje,Rem,Heg,Petronella,Heg
+1725,Feb,7,Hendrick Stryker,Maritie Stryker,Jan van de Veer,,,,Hendrick,Stryker,Maritie,Stryker,Femmetie,Jan,van de Veer,Emmetie,
+1725,Apr,4,Denys van Duyn,Annatie van Duyn,Denys van Duyn,,,,Denys,van Duyn,Annatie,van Duyn,Marya,Denys,van Duyn,Maritie,
+1725,Apr,4,Jan Dorland,Catryntie Dorland,Gerrit Dorland,,,,Jan,Dorland,Catryntie,Dorland,Maretje,Gerrit,Dorland,Maritie,
