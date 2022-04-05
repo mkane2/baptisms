@@ -29,7 +29,10 @@
     "male-male":0.2724014337,
     "female-female":0.1039426523,
     "giant_percent_nodes":0.6979166667,
-    "giant_percent_edges":0.7728531856
+    "giant_percent_edges":0.7728531856,
+    "latitude": 42.6623856,
+    "longitude": -74.3134161,
+    "denomination": "dutch reformed"
   },
   {
     "congregation":"fthunter-anglican",
@@ -61,7 +64,10 @@
     "male-male":0.2058701943,
     "female-female":0.1426209177,
     "giant_percent_nodes":0.7974683544,
-    "giant_percent_edges":0.8633119201
+    "giant_percent_edges":0.8633119201,
+    "latitude": 42.939625,
+    "longitude": -74.286283,
+    "denomination": "anglican"
   },
   {
     "congregation":"detroit-catholic",
@@ -93,7 +99,10 @@
     "male-male":0.186440678,
     "female-female":0.1875341717,
     "giant_percent_nodes":0.942043222,
-    "giant_percent_edges":0.9752066116
+    "giant_percent_edges":0.9752066116,
+    "latitude": 42.283333,
+    "longitude": -83,
+    "denomination": "catholic"
   },
   {
     "congregation":"huguenot-nyc",
@@ -125,7 +134,10 @@
     "male-male":0.2085586645,
     "female-female":0.1622384199,
     "giant_percent_nodes":0.919365499,
-    "giant_percent_edges":0.9604787715
+    "giant_percent_edges":0.9604787715,
+    "latitude": 40.7634666,
+    "longitude": -73.9687545,
+    "denomination": "huguenot"
   },
   {
     "congregation":"albany-lutheran",
@@ -157,7 +169,10 @@
     "male-male":0.2058823529,
     "female-female":0.1749226006,
     "giant_percent_nodes":0.1525515744,
-    "giant_percent_edges":0.2087912088
+    "giant_percent_edges":0.2087912088,
+    "latitude": 42.6619892,
+    "longitude":-73.7776913,
+    "denomination": "lutheran"
   },
   {
     "congregation":"rensl-lutheran",
@@ -189,7 +204,10 @@
     "male-male":0.1920057102,
     "female-female":0.1855817273,
     "giant_percent_nodes":0.34643289,
-    "giant_percent_edges":0.4415379767
+    "giant_percent_edges":0.4415379767,
+    "latitude": 42.7612678,
+    "longitude": -73.5955521,
+    "denomination": "lutheran"
   },
   {
     "congregation":"schoharie-lutheran",
@@ -221,7 +239,10 @@
     "male-male":0.2741267022,
     "female-female":0.1486086442,
     "giant_percent_nodes":0.9477124183,
-    "giant_percent_edges":0.9791304348
+    "giant_percent_edges":0.9791304348,
+    "latitude": 42.664444,
+    "longitude": -74.3125,
+    "denomination": "lutheran"
   },
   {
     "congregation":"drc-albany",
@@ -253,7 +274,10 @@
     "male-male":0.313488871,
     "female-female":0.1087869849,
     "giant_percent_nodes":0.9517684887,
-    "giant_percent_edges":0.9849445325
+    "giant_percent_edges":0.9849445325,
+    "latitude": 42.653611,
+    "longitude": -73.750556,
+    "denomination": "dutch reformed"
   },
   {
     "congregation":"sleepyhollow-drc",
@@ -285,7 +309,10 @@
     "male-male":0.1896461337,
     "female-female":0.1193971166,
     "giant_percent_nodes":0.9244863964,
-    "giant_percent_edges":0.9841351735
+    "giant_percent_edges":0.9841351735,
+    "latitude": 41.090278,
+    "longitude": -73.861667,
+    "denomination": "dutch reformed"
   },
   {
     "congregation":"flatbush-drc",
@@ -317,6 +344,9 @@
     "male-male":0.182576769,
     "female-female":0.0680907877,
     "giant_percent_nodes":0.8573680063,
-    "giant_percent_edges":0.9232665639
+    "giant_percent_edges":0.9232665639,
+    "latitude": 40.65,
+    "longitude": -73.959167,
+    "denomination": "dutch reformed"
   }
 ]
