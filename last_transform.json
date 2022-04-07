@@ -10812,5 +10812,3238 @@
                 }
               ],
               "description": "Mass edit cells in column sponsors 2 2"
-            }
-          ]
+            },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Simones",
+          "Symonse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Simones"
+      },
+      {
+        "from": [
+          "Hendriksz",
+          "Hendriks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendriksz"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "-the mother's mother"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Doesburg",
+          "van Doesburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Doesburg"
+      },
+      {
+        "from": [
+          "van De Venter",
+          "van de Venter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van De Venter"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "w",
+          ""
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ver Planken",
+          "Verplanken"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ver Planken"
+      },
+      {
+        "from": [
+          "van de Water",
+          "van dewater"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van de Water"
+      },
+      {
+        "from": [
+          "van der Hard",
+          "vander Hard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van der Hard"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stryker",
+          "Strykker",
+          "Stykker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stryker"
+      },
+      {
+        "from": [
+          "Frederiks",
+          "Frederikse",
+          "Fredriks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederiks"
+      },
+      {
+        "from": [
+          "Teunis Denyse",
+          "Teunissen Denys",
+          "Tunis Denys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis Denyse"
+      },
+      {
+        "from": [
+          "Peters",
+          "Peterse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Peters"
+      },
+      {
+        "from": [
+          "Adrianse",
+          "Andries"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adrianse"
+      },
+      {
+        "from": [
+          "Snedeker",
+          "Snedekers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Snedeker"
+      },
+      {
+        "from": [
+          "Browers",
+          "Browers w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Browers"
+      },
+      {
+        "from": [
+          "Jurianse",
+          "Jurriaens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurianse"
+      },
+      {
+        "from": [
+          "Gysbrechts",
+          "Gysbrecht"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gysbrechts"
+      },
+      {
+        "from": [
+          "Alberts",
+          "Albertse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Alberts"
+      },
+      {
+        "from": [
+          "Ariens",
+          "Arisen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ariens"
+      },
+      {
+        "from": [
+          "Tysen",
+          "Tyssen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tysen"
+      },
+      {
+        "from": [
+          "van Cowenhoven",
+          "van Cowenhoven w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Cowenhoven"
+      },
+      {
+        "from": [
+          "Geysbers",
+          "Gysbers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geysbers"
+      },
+      {
+        "from": [
+          "Rapelje",
+          "Rappalje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rapelje"
+      },
+      {
+        "from": [
+          "Reiners",
+          "Reiniers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reiners"
+      },
+      {
+        "from": [
+          "Tunis van Pelt",
+          "Teunissen van Pelt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis van Pelt"
+      },
+      {
+        "from": [
+          "Elbertsz Stoothoff",
+          "Elbertz Stoothoff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elbertsz Stoothoff"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Joris",
+          "Jorisse",
+          "Jorisz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joris"
+      },
+      {
+        "from": [
+          "Lucasz",
+          "Luykesz",
+          "Luykez"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lucasz"
+      },
+      {
+        "from": [
+          "Teunis Bogard",
+          "Tunis Bogard w",
+          "Tunis Bogart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis Bogard"
+      },
+      {
+        "from": [
+          "Stevens",
+          "Stevensz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stevens"
+      },
+      {
+        "from": [
+          "Snedeker",
+          "Snedeker w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Snedeker"
+      },
+      {
+        "from": [
+          "Boomgard",
+          "Boomgart"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boomgard"
+      },
+      {
+        "from": [
+          "Cortelyou",
+          "Cortelyau"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cortelyou"
+      },
+      {
+        "from": [
+          "Aardsen",
+          "Aertsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aardsen"
+      },
+      {
+        "from": [
+          "Van Nest w",
+          "van Nest"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Nest"
+      },
+      {
+        "from": [
+          "Stevens van Voorhees",
+          "Stevens van Voorhees Hackensack"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stevens van Voorhees"
+      },
+      {
+        "from": [
+          "Jacobs",
+          "Jacobz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobs"
+      },
+      {
+        "from": [
+          "Frederiks",
+          "Frederiks w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederiks"
+      },
+      {
+        "from": [
+          "Teunis van Pelt",
+          "Tunis van Pelt w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis van Pelt"
+      },
+      {
+        "from": [
+          "Hendricks van Nes",
+          "Hendriks van Ness"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendriks van Ness"
+      },
+      {
+        "from": [
+          "Peters",
+          "Peters w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Peters"
+      },
+      {
+        "from": [
+          "Aukes",
+          "Aukez"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aukes"
+      },
+      {
+        "from": [
+          "Frederiks Lubbertse",
+          "Fredriks Lubertse w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederiks Lubbertse"
+      },
+      {
+        "from": [
+          "Jacobs van der Griest w",
+          "Jacobse van der Grift"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobs van der Griest w"
+      },
+      {
+        "from": [
+          "Jansz",
+          "Jans w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Harmans",
+          "Hermans"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harmans"
+      },
+      {
+        "from": [
+          "Remmers",
+          "Roemers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roemers"
+      },
+      {
+        "from": [
+          "Ariens",
+          "Ariens w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ariens"
+      },
+      {
+        "from": [
+          "Claas Wykoff",
+          "Klaas Wykof w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claas Wykoff"
+      },
+      {
+        "from": [
+          "Elbertsz Stoothoff",
+          "Elberts Stoothof"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elbertsz Stoothoff"
+      },
+      {
+        "from": [
+          "Simones",
+          "Simonsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Simones"
+      },
+      {
+        "from": [
+          "Joris Rapelje w",
+          "Joriz Rapelje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joris Rapelje"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Messural",
+          "Mesuroll"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Messural"
+      },
+      {
+        "from": [
+          "Adrianse",
+          "Adriansz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adrianse"
+      },
+      {
+        "from": [
+          "van Cowenhoven",
+          "van Couvenhoven"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Cowenhoven"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lambertsz",
+          "Lambrechts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lambertsz"
+      },
+      {
+        "from": [
+          "Joris Rapelje",
+          "Joris Rapelje wife"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joris Rapelje"
+      },
+      {
+        "from": [
+          "Teunis Bogard",
+          "Teunis Bogart wife"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Teunis Bogard"
+      },
+      {
+        "from": [
+          "Rapelje",
+          "Rapelie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rapelje"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van Ditmarschen",
+          "van Ditmarsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Ditmarschen"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Simones",
+          "Symonse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Simones"
+      },
+      {
+        "from": [
+          "Hendriksz",
+          "Hendriks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendriksz"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mackeleyn",
+          "Macleen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MacLean"
+      },
+      {
+        "from": [
+          "Marselissen",
+          "Merselisen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marselissen"
+      },
+      {
+        "from": [
+          "Dutoiet",
+          "Dutout"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dutoiet"
+      },
+      {
+        "from": [
+          "Poulus",
+          "Pouluse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Poulus"
+      },
+      {
+        "from": [
+          "Sickels",
+          "Sikkels"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sickels"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Waldron",
+          "Waldrum"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waldron"
+      },
+      {
+        "from": [
+          "Everse",
+          "Evertse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Everse"
+      },
+      {
+        "from": [
+          "van der Hoeven",
+          "van der Oeven"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van der Hoeven"
+      },
+      {
+        "from": [
+          "Diderix",
+          "Diderickx"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diderix"
+      },
+      {
+        "from": [
+          "Sickels",
+          "Sichels"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sickels"
+      },
+      {
+        "from": [
+          "Hermense",
+          "Harmans"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hermense"
+      },
+      {
+        "from": [
+          "Pieterse",
+          "Peters"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "Hennion",
+          "Hennejon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hennion"
+      },
+      {
+        "from": [
+          "York",
+          "Jork"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "York"
+      },
+      {
+        "from": [
+          "Steynmets",
+          "Stymets"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Steynmets"
+      },
+      {
+        "from": [
+          "Michielse Vreelant",
+          "Magielse Vreelant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse Vreelant"
+      },
+      {
+        "from": [
+          "Magielse",
+          "Michielse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MacLean",
+          "Macheleyn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MacLean"
+      },
+      {
+        "from": [
+          "Helmighsen",
+          "Helmighsen van Houten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Helmighsen van Houten"
+      },
+      {
+        "from": [
+          "Fredricksen",
+          "Fredrickse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fredricksen"
+      },
+      {
+        "from": [
+          "van Wagenen",
+          "van Wagening"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Wagenen"
+      },
+      {
+        "from": [
+          "Hartmansen Vreeland",
+          "Hertmanse Vreelant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hartmansen Vreeland"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Roelofse",
+          "Roelofsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roelofse"
+      },
+      {
+        "from": [
+          "Vreelant",
+          "Vreelanr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Vreelant"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Michielsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      },
+      {
+        "from": [
+          "Pieterse Buys",
+          "Pietersen Buys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse Buys"
+      },
+      {
+        "from": [
+          "Claesen",
+          "Claese"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claese"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Roelofse",
+          "Roelof"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roelofse"
+      },
+      {
+        "from": [
+          "Jacobs",
+          "Jacobsen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobs"
+      },
+      {
+        "from": [
+          "Blinkerhof",
+          "Brinkerhoff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blinkerhof"
+      },
+      {
+        "from": [
+          "Diderix",
+          "Diderick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diderix"
+      },
+      {
+        "from": [
+          "Lubbertse",
+          "Lubbersen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lubbertse"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Arents Toers",
+          "Arentsen Tours"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arentsen Tours"
+      },
+      {
+        "from": [
+          "Lacombe",
+          "de Lacombe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Lacombe"
+      },
+      {
+        "from": [
+          "van Voorst",
+          "van de Voorst"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van de Voorst"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "de Marre",
+            "De Marre"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "de Marre"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Verveelen",
+            "Verveleen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Verveelen"
+        },
+        {
+          "from": [
+            "Brestee",
+            "Breeste"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Brestee"
+        },
+        {
+          "from": [
+            "Marselus",
+            "Marseluse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Marselus"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Ariaens Sips",
+            "Ariaense Sips",
+            "Ariens Sips"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Ariaens Sips"
+        },
+        {
+          "from": [
+            "van de Voorst",
+            "van de Vorst",
+            "van der voorst"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van de Voorst"
+        },
+        {
+          "from": [
+            "Dirckse",
+            "Didericks",
+            "Diedricks"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckse"
+        },
+        {
+          "from": [
+            "Diderikx",
+            "Diederikx",
+            "Diedrikx"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckse"
+        },
+        {
+          "from": [
+            "Eerle",
+            "Eerrel",
+            "Errel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Erle"
+        },
+        {
+          "from": [
+            "Kleyndini",
+            "Kleyndinni",
+            "Klyndinney"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Klyndinney"
+        },
+        {
+          "from": [
+            "Jacobsen van Winkel",
+            "Jacobsen van Winckel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Jacobsen van Winkel"
+        },
+        {
+          "from": [
+            "Preyers",
+            "Pryers"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Pryer"
+        },
+        {
+          "from": [
+            "Preyer",
+            "Pryer"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Pryer"
+        },
+        {
+          "from": [
+            "Lubberts",
+            "Lubbertse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lubberts"
+        },
+        {
+          "from": [
+            "Aerts",
+            "Aertse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Aerts"
+        },
+        {
+          "from": [
+            "Blinkerhoff",
+            "Blinkerhof"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Blinkerhoff"
+        },
+        {
+          "from": [
+            "Terhuen",
+            "Terheun"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Terhuen"
+        },
+        {
+          "from": [
+            "Marseelus",
+            "Marselus"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Marseelus"
+        },
+        {
+          "from": [
+            "de Marre",
+            "de Mare"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "de Marre"
+        },
+        {
+          "from": [
+            "Dirckse Braack",
+            "Dirckse Braeck"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckse Braack"
+        },
+        {
+          "from": [
+            "Spier",
+            "Spiers"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Spier"
+        },
+        {
+          "from": [
+            "Franse",
+            "Fransen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Franse"
+        },
+        {
+          "from": [
+            "Adrianse",
+            "Andriessen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Adrianse"
+        },
+        {
+          "from": [
+            "Dirckx",
+            "Didrickx"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckse"
+        },
+        {
+          "from": [
+            "Johannisen Vreelant",
+            "Johannissen Vreelant"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Johannisen Vreelant"
+        },
+        {
+          "from": [
+            "Hartmans Vreelant",
+            "Hartmansen Vreelant"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hartmans Vreelant"
+        },
+        {
+          "from": [
+            "Hermense",
+            "Hermens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hermense"
+        },
+        {
+          "from": [
+            "Gerbrantse",
+            "Gerbrants"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Gerbrantse"
+        },
+        {
+          "from": [
+            "Iddo",
+            "Ido"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Iddo"
+        },
+        {
+          "from": [
+            "Eydersteyn",
+            "Eyderstyn"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Eydersteyn"
+        },
+        {
+          "from": [
+            "Romme",
+            "Roome"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Romme"
+        },
+        {
+          "from": [
+            "Maertens",
+            "Martens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maertens"
+        },
+        {
+          "from": [
+            "van Scheyve",
+            "van Schyve"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van Scheyve"
+        },
+        {
+          "from": [
+            "Juriaens",
+            "Jurianse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Juriaens"
+        },
+        {
+          "from": [
+            "Cornelis Vreelant",
+            "Cornelisen Vreelant"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cornelis Vreelant"
+        },
+        {
+          "from": [
+            "Boke",
+            "Bokee"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Boke"
+        },
+        {
+          "from": [
+            "van Hooren",
+            "van Horne"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van Hooren"
+        },
+        {
+          "from": [
+            "Ariaens",
+            "Ariaense"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Ariaens"
+        },
+        {
+          "from": [
+            "Vreelinghuysen",
+            "Vreelinghuyse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Vreelinghuysen"
+        },
+        {
+          "from": [
+            "van Hoorn",
+            "Van Horn"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van Hoorn"
+        },
+        {
+          "from": [
+            "Vreland",
+            "Vreeland"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Vreland"
+        },
+        {
+          "from": [
+            "Vliereboom",
+            "Vlierboom"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Vliereboom"
+        },
+        {
+          "from": [
+            "Vreelant",
+            "Vrelant"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Vreelant"
+        },
+        {
+          "from": [
+            "Toenis Boogert",
+            "Tonissen Bogert"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Teunis Boogert"
+        },
+        {
+          "from": [
+            "Cammegaer",
+            "Cammeger"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cammegaer"
+        },
+        {
+          "from": [
+            "Makdennel",
+            "Mekdannel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "MacDaniel"
+        },
+        {
+          "from": [
+            "Hoogland",
+            "Hoagland"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hoogland"
+        },
+        {
+          "from": [
+            "Diderix",
+            "Diederix"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Diderix"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "MacDaniel",
+            "Mekdannil",
+            "Mekdennel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "MacDaniel"
+        },
+        {
+          "from": [
+            "Reddenhars",
+            "Reddenhoers",
+            "Riddenhars"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Riddenhars"
+        },
+        {
+          "from": [
+            "Kouwenhoven",
+            "Couwenhoven",
+            "Kouenhoven"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Couwenhoven"
+        },
+        {
+          "from": [
+            "Poulus",
+            "Paulus",
+            "Pouelse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Poulus"
+        },
+        {
+          "from": [
+            "Klyndinney",
+            "Klyndini"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Klyndinney"
+        },
+        {
+          "from": [
+            "Hennion",
+            "Henneyon"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hennion"
+        },
+        {
+          "from": [
+            "Dirckse",
+            "Dircks"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckse"
+        },
+        {
+          "from": [
+            "Johannisen Vreelant",
+            "Johanisen Vreeland"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Johanisen Vreeland"
+        },
+        {
+          "from": [
+            "Helmegsen van Houten",
+            "Helmigsen van Houten"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Helmegsen van Houten"
+        },
+        {
+          "from": [
+            "Cammegaer",
+            "Kammegaar"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Kammegaar"
+        },
+        {
+          "from": [
+            "De Voe",
+            "Devou"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "De Voe"
+        },
+        {
+          "from": [
+            "Vreelant",
+            "Vreland"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Vreelant"
+        },
+        {
+          "from": [
+            "van Saan",
+            "van Saen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van Saan"
+        },
+        {
+          "from": [
+            "van Hoorn",
+            "van Hooren"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van Hoorn"
+        },
+        {
+          "from": [
+            "Marseelus",
+            "Merselis"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Merselis"
+        },
+        {
+          "from": [
+            "Hoogland",
+            "Hoaglant"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Hoogland"
+        },
+        {
+          "from": [
+            "Heilhaaken",
+            "Heylhaaken"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Heilhaaken"
+        },
+        {
+          "from": [
+            "van Blerkom",
+            "van Blerkum"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van Blerkom"
+        },
+        {
+          "from": [
+            "Griffens",
+            "Kirffens"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Griffens"
+        },
+        {
+          "from": [
+            "Toers",
+            "Tours"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Toers"
+        },
+        {
+          "from": [
+            "Dirckse Braack",
+            "Dircks Braack"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckse Braack"
+        },
+        {
+          "from": [
+            "Cornelis",
+            "Cornels"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Cornelis"
+        },
+        {
+          "from": [
+            "Fredrikx",
+            "Fredrickx"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Fredrikx"
+        },
+        {
+          "from": [
+            "Edsall",
+            "Etsel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Edsall"
+        },
+        {
+          "from": [
+            "Gerritz",
+            "Gerrets"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Gerritz"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Everse",
+            "Everts"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Everse"
+        },
+        {
+          "from": [
+            "Franse",
+            "Frans"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Franse"
+        },
+        {
+          "from": [
+            "Lubberts",
+            "Lubberse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Lubberts"
+        },
+        {
+          "from": [
+            "Vreelinghuysen",
+            "Vrelmighuysen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Vreelinghuysen"
+        },
+        {
+          "from": [
+            "Dirckse",
+            "Dirkx"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Dirckse"
+        },
+        {
+          "from": [
+            "Fredrikx",
+            "Fredrikse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Fredrikse"
+        },
+        {
+          "from": [
+            "Michielse",
+            "Migielse"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Michielse"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Brestee",
+            "Brestede"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Brestede"
+        },
+        {
+          "from": [
+            "Helmigs",
+            "Helmigh"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Helmigs"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "van Wagenen",
+            "van Wagenyng"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "van Wagenen"
+        },
+        {
+          "from": [
+            "Helmigs",
+            "Helmigsen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Helmigs"
+        },
+        {
+          "from": [
+            "Fielden",
+            "Tielden"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Fielden"
+        },
+        {
+          "from": [
+            "Diderix",
+            "Diderick"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Diderix"
+        },
+        {
+          "from": [
+            "Verveelen",
+            "Verveel"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Verveelen"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+    {
+      "op": "core/mass-edit",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "sponsors 2 2",
+      "expression": "value",
+      "edits": [
+        {
+          "from": [
+            "Maria van Giesen",
+            "Mary van Giese"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Maria van Giesen"
+        },
+        {
+          "from": [
+            "Vreelinghuysen",
+            "Vrelenhuysen"
+          ],
+          "fromBlank": false,
+          "fromError": false,
+          "to": "Vreelinghuysen"
+        }
+      ],
+      "description": "Mass edit cells in column sponsors 2 2"
+    },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "van Houten",
+              "Van Houten"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "van Houten"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "vander Hoef",
+              "van der Hoef"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "van der Hoef"
+          },
+          {
+            "from": [
+              "de Groot",
+              "DeGroot"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "de Groot"
+          },
+          {
+            "from": [
+              "van der Spiegel",
+              "vander Spiegel"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "van der Spiegel"
+          },
+          {
+            "from": [
+              "Juriaensen",
+              "Juriaense"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Juriaensen"
+          },
+          {
+            "from": [
+              "Merselis",
+              "Merselise"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Merselis"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Juriaensen",
+              "Juriansen",
+              "Juriaansen",
+              "Juriaens"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Juriansen"
+          },
+          {
+            "from": [
+              "Michielse Vreelant",
+              "Machielsen Vreelant",
+              "Micheilse Vreelant",
+              "Michielsen Vreelant"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Michielse Vreelant"
+          },
+          {
+            "from": [
+              "de Maree",
+              "de Marre",
+              "DeMare"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "de Maree"
+          },
+          {
+            "from": [
+              "Ariaens Sips",
+              "Ariaensen Sip",
+              "Ariaense Sip"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Ariaens Sips"
+          },
+          {
+            "from": [
+              "Hartmanse Vrelant",
+              "Hartmans Vreelant",
+              "Hartmans Vrelant"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Hartmanse Vrelant"
+          },
+          {
+            "from": [
+              "Cornelise Vreland",
+              "Cornelis Vreland",
+              "Cornelissen Vreeland"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Cornelise Vreland"
+          },
+          {
+            "from": [
+              "Gerretsen van Wagening",
+              "Garretsen van Wagening",
+              "Gerritsen van Wagenen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerretsen van Wagening"
+          },
+          {
+            "from": [
+              "van Vorst",
+              "van voorst"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "van Vorst"
+          },
+          {
+            "from": [
+              "Marselis",
+              "Marselisse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Marselis"
+          },
+          {
+            "from": [
+              "Aerts van de Bilt",
+              "Aertsen van de Bilt"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Aerts van de Bilt"
+          },
+          {
+            "from": [
+              "Dirckse",
+              "Diderickse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Dirckse"
+          },
+          {
+            "from": [
+              "Merselis",
+              "Mersilise"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Merselis"
+          },
+          {
+            "from": [
+              "Cornelis",
+              "Cornelise"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Cornelis"
+          },
+          {
+            "from": [
+              "Gerbrantse",
+              "Gerrebrantsen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerbrantse"
+          },
+          {
+            "from": [
+              "Tomas",
+              "Tomass"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Tomas"
+          },
+          {
+            "from": [
+              "de Mott",
+              "Demot"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "de Mott"
+          },
+          {
+            "from": [
+              "van Wagenen",
+              "van Wageneng"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "van Wagenen"
+          },
+          {
+            "from": [
+              "Helmighse",
+              "Helmigs"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Helmigs"
+          },
+          {
+            "from": [
+              "Cerson",
+              "Corsen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Corsen"
+          },
+          {
+            "from": [
+              "Vreelant",
+              "N Varlet"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Vreelant"
+          },
+          {
+            "from": [
+              "Fredricks ym",
+              "Fredrickse ym"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Fredrickse"
+          },
+          {
+            "from": [
+              "Nieukerk",
+              "Neiukerk"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Nieukerk"
+          },
+          {
+            "from": [
+              "Tomasen",
+              "Tomassen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Tomasen"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Nieukerk",
+              "Nieuwkerk",
+              "Niewkerk"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Nieukerk"
+          },
+          {
+            "from": [
+              "Juriansen",
+              "Jureaansen",
+              "Juriensen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Juriansen"
+          },
+          {
+            "from": [
+              "Merselis",
+              "Marselis",
+              "Mercelis"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Merselis"
+          },
+          {
+            "from": [
+              "Callerd",
+              "Collard",
+              "Collerd"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Collard"
+          },
+          {
+            "from": [
+              "Sabriskie",
+              "Zabriskie"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Sabriskie"
+          },
+          {
+            "from": [
+              "Nieukerk ym",
+              "Nukerk ym"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Nieukerk"
+          },
+          {
+            "from": [
+              "Johanisen Vreeland",
+              "Johannessen Vreeland"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Johanisen Vreeland"
+          },
+          {
+            "from": [
+              "Blinkerhoff",
+              "Blinckerhoff"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Blinkerhoff"
+          },
+          {
+            "from": [
+              "Michielse Vreelant",
+              "Michielse Vreeland"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Michielse Vreelant"
+          },
+          {
+            "from": [
+              "Cornelise Vreland",
+              "Cornelis Vreelant"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Cornelise Vreland"
+          },
+          {
+            "from": [
+              "Tomasen",
+              "Thomasen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Tomasen"
+          },
+          {
+            "from": [
+              "Gerbrantse",
+              "Gerbrantze"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerbrantse"
+          },
+          {
+            "from": [
+              "Tomas",
+              "Thomasse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Thomase"
+          },
+          {
+            "from": [
+              "Gerretsen ym",
+              "Gerritsen ym"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerretsen"
+          },
+          {
+            "from": [
+              "Marse",
+              "Merse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Marse"
+          },
+          {
+            "from": [
+              "Arentse Toers",
+              "Arents Toers ym"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Arentse Toers"
+          },
+          {
+            "from": [
+              "Gerretsen van Wagening",
+              "Gerretsen van Wagenen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerretsen van Wagening"
+          },
+          {
+            "from": [
+              "Juriansen ym",
+              "Juraensen ym"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Juriansen"
+          },
+          {
+            "from": [
+              "van Houten",
+              "van Dien"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "van Houten"
+          },
+          {
+            "from": [
+              "Poulus ym",
+              "Pouluse ym"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Poulus"
+          },
+          {
+            "from": [
+              "Jackson",
+              "Jaksen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Jackson"
+          },
+          {
+            "from": [
+              "Spier",
+              "Sipper"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Spier"
+          },
+          {
+            "from": [
+              "Marseelus ym",
+              "Marselise ym"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Marseelus"
+          },
+          {
+            "from": [
+              "Gerritz",
+              "Geritse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerritz"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Merselis",
+              "Marseelus"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Merselis"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Vreelant",
+              "Vreland"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Vreelant"
+          },
+          {
+            "from": [
+              "Gerbrantse",
+              "Gerbrantz"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerbrantse"
+          },
+          {
+            "from": [
+              "Ariaens Sips",
+              "Ariaense Sips"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Ariaens Sips"
+          },
+          {
+            "from": [
+              "de Mott",
+              "de Mot"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "de Mott"
+          },
+          {
+            "from": [
+              "Thomase",
+              "Tomasse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Thomase"
+          },
+          {
+            "from": [
+              "Fredricksen",
+              "Fredriksen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Fredricksen"
+          },
+          {
+            "from": [
+              "Bertolf",
+              "Bertollof"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Bertolf"
+          },
+          {
+            "from": [
+              "Claese",
+              "Claes"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Claese"
+          },
+          {
+            "from": [
+              "Mattheeusen",
+              "Mattheeussen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Mattheeusen"
+          },
+          {
+            "from": [
+              "Gerritz",
+              "Gerrits"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerritz"
+          },
+          {
+            "from": [
+              "Sickels",
+              "Sickles"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Sickels"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Steynmets",
+              "Steenhuys",
+              "Steymets"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Steynmets"
+          },
+          {
+            "from": [
+              "Diderix",
+              "Didericx"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Diderix"
+          },
+          {
+            "from": [
+              "Helmigs",
+              "Helmighse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Helmigs"
+          },
+          {
+            "from": [
+              "Michielse",
+              "Magielse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Michielse"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Fredricksen",
+              "Fredrickse"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Fredricksen"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Gerritz",
+              "Gerrit"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Gerritse"
+          },
+          {
+            "from": [
+              "Claesen Braack",
+              "Claese Braack"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Claesen Braack"
+          },
+          {
+            "from": [
+              "Cuyper",
+              "Cuypers"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Cuyper"
+          },
+          {
+            "from": [
+              "Claese",
+              "Claesen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Claese"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Sickels",
+              "Sickelsen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Sickels"
+          },
+          {
+            "from": [
+              "Vreelant",
+              "M Vreelant"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Vreelant"
+          },
+          {
+            "from": [
+              "Hartmanse Vrelant",
+              "Hartman Vrelant"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Hartmanse Vreelant"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Diderix",
+              "Didericke"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Diderix"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+      {
+        "op": "core/mass-edit",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 2 2",
+        "expression": "value",
+        "edits": [
+          {
+            "from": [
+              "Merselis",
+              "Marselissen"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Merselis"
+          },
+          {
+            "from": [
+              "Johanisen Vreeland",
+              "Johannisse Vreelant"
+            ],
+            "fromBlank": false,
+            "fromError": false,
+            "to": "Johanisen Vreeland"
+          }
+        ],
+        "description": "Mass edit cells in column sponsors 2 2"
+      },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van de Voorst",
+          "van der Voorst",
+          "vandervorrst"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van de Voorst"
+      },
+      {
+        "from": [
+          "Blinkerhoff",
+          "Blinkerhof"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blinkerhoff"
+      },
+      {
+        "from": [
+          "de Maree",
+          "Demarre"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de Maree"
+      },
+      {
+        "from": [
+          "Dirckse Braack",
+          "Dierckse Braeck"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckse Braack"
+      },
+      {
+        "from": [
+          "Harmanssen Vreelant",
+          "Hartmanse Vreelant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harmanssen Vreelant"
+      },
+      {
+        "from": [
+          "Hermense",
+          "Hermens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hermense"
+      },
+      {
+        "from": [
+          "Pieterse",
+          "Pieters"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "of Cornelis Blinkerhof",
+          "of Cornelis Brinkerhoff"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Cornelis Blinkerhof"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerrits"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      },
+      {
+        "from": [
+          "of Gerret Juriaansen",
+          "of Gerret Juriaensen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Gerret Juriaansen"
+      },
+      {
+        "from": [
+          "Steynmets",
+          "Stynmets"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Steynmets"
+      },
+      {
+        "from": [
+          "of Gerbrant Claese",
+          "of Gerbrant Claesen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Gerbrant Claese"
+      },
+      {
+        "from": [
+          "van Reype",
+          "van Rype"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Reype"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "of Pieter Mercelis",
+          "of Pieter Merse",
+          "of Pieter Mersilise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Pieter Mercelis"
+      },
+      {
+        "from": [
+          "Gerbrantse",
+          "Gerbranse",
+          "Gerrebrands"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerbrantse"
+      },
+      {
+        "from": [
+          "Iddo",
+          "Eiddo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Iddo"
+      },
+      {
+        "from": [
+          "of Lubbert Lubbertse",
+          "of Lubbert Lubbertse jr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Lubbert Lubbertse"
+      },
+      {
+        "from": [
+          "Streuckers",
+          "Streyckers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Streuckers"
+      },
+      {
+        "from": [
+          "Nieukerk",
+          "Nukerk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nieukerk"
+      },
+      {
+        "from": [
+          "Vreelant",
+          "Vreeland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Vreelant"
+      },
+      {
+        "from": [
+          "of Gerret Juriaansen",
+          "of Gerret Jureaansen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Gerret Juriaansen"
+      },
+      {
+        "from": [
+          "Thomase",
+          "Thomas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomase"
+      },
+      {
+        "from": [
+          "Hendriksz",
+          "Hendricks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendriksz"
+      },
+      {
+        "from": [
+          "van Hoorn",
+          "van Hooren"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van Hoorn"
+      },
+      {
+        "from": [
+          "of Cornelis Gerrebrantsen",
+          "of Cornelis Gerrets"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Cornelis Gerrebrantsen"
+      },
+      {
+        "from": [
+          "of Johannes Helmegsen van Houten",
+          "of Johannis Helmigsen van Houten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Johannes Helmegsen van Houten"
+      },
+      {
+        "from": [
+          "Griffens",
+          "Griffins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Griffins"
+      },
+      {
+        "from": [
+          "Jansz",
+          "Jans"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Hertmans",
+          "Hartmans"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hertmans"
+      },
+      {
+        "from": [
+          "Simons",
+          "Symmons"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Simons"
+      },
+      {
+        "from": [
+          "Gerritse",
+          "Gerretse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritse"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dirckse Braack",
+          "Dirckx Braack"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckse Braack"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Magliese"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ackerman",
+          "Ackermans"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ackerman"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 2"
+  }
+]
