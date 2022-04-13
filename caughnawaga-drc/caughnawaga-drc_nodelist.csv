@@ -1,0 +1,919 @@
+id,name
+0,Ephraim Wemp
+1,Anganieta Wemple
+2,Mathias Link
+3,Maria Magdalena Kraaft
+4,Philip Helmer
+5,Elizabeth Herris
+6,Hendrick Vrooman
+7,Neeltie Veeder
+8,Johannes Veeder
+9,Catharina Mabee
+10,Johannes Leenderson
+11,Anna Stanhouse
+12,William Snoch
+13,Catharina Kleyn
+14,Cornelius Potman
+15,Elizabeth Pruyn
+16,Johannes an Indian
+17,Anna an Indian
+18,Charles a Negro
+19,Susanna Primis
+20,Johan Dederk Meyer
+21,Osseltje Thomas
+22,William Olin
+23,Ariaantie Wemp
+24,Johannes Clement
+25,Rachel Reddely
+26,John Schot Quackenbush
+27,Elsje Staats
+28,Jacob Hall
+29,Elizabeth Snoch
+30,Philip Frederick
+31,Sophia Saltz
+32,Joseph Cain
+33,Catharina Cain
+34,Hendrick Wemp
+35,Eva Van Eps
+36,Johannes Miller
+37,Catharina Philipse
+38,Stephanus Jordan
+39,Margaret Bellony
+40,Jacob Kitts
+41,Eva Service
+42,John Butler
+43,Cataleyna Bradt
+44,Jacob Boosert
+45,Margaret Koch
+46,Hendrick Hoff
+47,Catharina Terrel
+48,Christiaan Schuls
+49,Elizabeth Bierman
+50,Marcus Lies
+51,Magdalena Helmer
+52,Anganieta Brouwer
+53,William Boin
+54,Catharina V: Antwerp
+55,Jan Boin
+56,Maria Snoch
+57,William Philipse
+58,Susanna Wemp
+59,Frans Prun
+60,Annatie Davis
+61,Johannes Van Antwerp
+62,Annatie Veeder
+63,Thomas Cain
+64,Maria Jong
+65,Samuel Gardinier
+66,Maria Van Everen
+67,Peter Quackenbush
+68,Elizabeth Davis
+69,David De Welt
+70,Maria De Welden
+71,Philip Miller
+72,Anna Visbach
+73,Philip Weemer
+74,Catharina Lyser
+75,Jelles Fonda
+76,Annatie Vrooman
+77,Peter Conyn
+78,Rebecca Wemp
+79,Paulus de Fransman
+80,Christina de Fransman
+81,Timothy Leenderson
+82,Bata Marinus
+83,Philip Philipse
+84,Elizabeth Wanner
+85,Gerrit Van Brakelen
+86,Maria Van Brakelen
+87,Jury Fey
+88,Anna Catarina Visbach
+89,Adam Fonda
+90,Neeltie Bries
+91,John Hare
+92,Margaret Davis
+93,Peter Grosch
+94,Anna Eva Saltz
+95,Laurens Stam
+96,Elizabeth Stam
+97,Philip Scoefer
+98,Elizabeth Anstes
+99,Barent Wemp
+100,Margaret Fonda
+101,Volkert Veeder
+102,Elizabeth Smith
+103,Lucas Veeder
+104,Maria Eva Bel
+105,Johannes Regtmeyer
+106,Geertruy Coonraet
+107,Jury Schenk
+108,Magdalena Spendeler
+109,Ambrosius Selnaar
+110,Margaret Schefin
+111,Casper Coens
+112,Catharina Coens
+113,Ludwig Potman
+114,Elizabeth Potman
+115,Jacob Neef
+116,Catharina Angst
+117,Benazar Bedel
+118,Sarah Van Deventer
+119,Harmen Brouwer
+120,Margaret Ekker
+121,Margaret Fieze
+122,Annatie Kitts
+123,Philip Sceffer
+124,Conrad Mouer
+125,Geertruy Smith
+126,Samuel Rogers
+127,John Wilson
+128,Barbera Tiefendorf
+129,Peter Hansen
+130,Rachel Fonda
+131,Edward Foster
+132,Maria Gerryty
+133,William Mombrute
+134,Maria Freest
+135,Lena Leenderson
+136,Abraham Van Aalstyn
+137,Catye Vallae
+138,Renier Van Everen
+139,Neeltie Van Eps
+140,Hendrick Scremling
+141,Rachel Leenderson
+142,Abraham Davis
+143,Catharina Rogers
+144,John Van Antwerp
+145,Anna Veeder
+146,Nicholas Dachsteder
+147,Catharina Van De Werken
+148,William Van De Werken
+149,Margaret Van Slyk
+150,William Van Brute
+151,Gideon Melat
+152,Maria Quackenbush
+153,Jacob Collier
+154,Maria Van Aalstyn
+155,William Quackenbush
+156,Catharina Van Aalstyn
+157,Philip Schafer
+158,Helena Van Duisen
+159,Adam Sexbury
+160,Anna Deloner
+161,John Philipse
+162,Alida Prent
+163,Sarah Smith
+164,Jacob Graff
+165,Sarah Potman
+166,Cornelius Van Aalstyn
+167,Annatie Quack
+168,Stuart Hazard
+169,Rachel Clark
+170,Catharina Tell
+171,Nicholas Gardinier
+172,Catharina Scremling
+173,Frederick Potman
+174,Catharina Pennal
+175,Jury Fyles
+176,Anna Flack
+177,Adam Ekker
+178,Margaret Cagnot
+179,Richard Hoff
+180,Elizabeth Paulse
+181,Gerrit Newkerk
+182,Neylche Quack
+183,Lewis Philipse
+184,Margaret Hatkok
+185,Robert Spenser
+186,Catharina Sternberg
+187,Amos France
+188,Annatie Fitchet
+189,Peter Miller
+190,Malle Miller
+191,Johannes Zeegers
+192,Sarah Van Der Roef
+193,Abraham D. Quackenbush
+194,Maria Bradt
+195,Hendrick Dachsteder
+196,Magdalena Dachsteder
+197,Hendrick Boosert
+198,Elizabeth Kitts
+199,Adam Sternberg
+200,Margaret Prent
+201,Johannes Anstes
+202,Maria Lewis
+203,Daniel Service
+204,Catharina Dachsteder
+205,Albert Van De Wetken
+206,Barbera E. Dachsteder
+207,Johan Jurry Fes
+208,Angenietche Brouwer
+209,Frederick Dachsteder
+210,Catharina Walraat
+211,Volkert Philipse
+212,Maria McDonnel
+213,Hannis Lepper
+214,Elizabeth Barlet
+215,John Meggrigere
+216,Anna Spitser
+217,Annatie Quackenbush
+218,Aron Smith
+219,Catharina Veeling
+220,Abraham Roelfse
+221,Catharina Saures
+222,Joseph Prent
+223,Annatie Franch
+224,Philip Service
+225,Catharina Seever
+226,Thomas Ferguson
+227,Margaret Menning
+228,Neylche Philipse
+229,William Suddert
+230,Susanna Anstes
+231,Margaret Van De Werken
+232,Cornelius Van Everen
+233,Cornelia Van Aalstyn
+234,Martyn Van Aalstyn
+235,David Cosaat
+236,Annatie Stymerse
+237,Johannes Vries
+238,Thomas Plato
+239,Maria Rogers
+240,Johannes Van Slyk
+241,Geertruy Marinus
+242,Michael Herris
+243,Cornelia Blaane
+244,Petrus Mabee
+245,Alida Peek
+246,Jeremiah Quack
+247,Elizabeth Van Aalstyn
+248,Conrad Rees
+249,Barbera Stooner
+250,John Wemp
+251,Maria Veeder
+252,Gerades Moak
+253,Anna Coonraet
+254,John Davis
+255,William Colon
+256,Anna Quackenbush
+257,Johannes Newkerk
+258,Rachel Knute
+259,Johannes Van Zyl
+260,Catharina Rykman
+261,Frederick Lewis
+262,Rachel Hover
+263,George Kirk
+264,Catharina Potman
+265,David Potman
+266,Annatie Van Antwerp
+267,Jacob Van Aalstyn
+268,Wyntje Leenderson
+269,John Rosa
+270,Christina Valkenburg
+271,Jury Miller
+272,Catharina Heever
+273,John Melat
+274,Hannah Shelden
+275,Frederick Fisher
+276,Gesina DeGraaf
+277,Rich 't Hansen
+278,Polly Butler
+279,Harmanus Philipse
+280,Annatie Cromwell
+281,Bolters Ergesinger
+282,Maddelena Ergesinger
+283,Gysbert Van Aalstyn
+284,Harmanus Mabee
+285,Isaac Davis
+286,Catharina Wilson
+287,John Fraiser
+288,Nancy Fraiser
+289,Isaac Collier
+290,Rachel Quackenbush
+291,Peter Davis
+292,Elsje Marinus
+293,Adam Lewis
+294,Eva Lewis
+295,Martinus Gardinier
+296,Dorothea Philipse
+297,Esmael Beekman
+298,Eva Halenbeek
+299,Benjamin Delyn
+300,Anganieta Philipse
+301,Hendrick Seever
+302,Fryna Barlet
+303,Johannes Lewis
+304,Derik Potman
+305,Neeltie Van Brawkley
+306,Philip Beemer
+307,Hannah Fitchet
+308,Frederick Starn
+309,Elizabeth France
+310,James De Rosa
+311,Fransyntje Coter
+312,Lena Van Duisen
+313,John Fonda
+314,Engeltje Hansen
+315,Jacob Tanner
+316,Hendrick Lewis
+317,Cataleyna Davis
+318,Hendrick Eyk
+319,Catharina Baromore
+320,Adam Dachsteder
+321,Eva Barlet
+322,Maria Philipse
+323,Abraham Gerritson
+324,Maria Brouwer
+325,Alexander McPherson
+326,Catharina McCay
+327,Johannes Ekker
+328,Elizabeth Dachsteder
+329,Gerrit G. Van Brawkley
+330,Anna Kitts
+331,Harmanus Smith
+332,Maria Wemp
+333,Jacob Gardinier
+334,Derkje Van De Werken
+335,Roelf Van De Werken
+336,Hendrick Wieler
+337,Neeltie Wieler
+338,Cobus Cromwell
+339,Rachel Gardinier
+340,Daniel McClain
+341,Barbera McClean
+342,Gysbert Van Brawkley
+343,Polly Wilson
+344,Conrad Crotsenberg
+345,Margaret Crasin
+346,Norman McLoud
+347,Jenny McLoud
+348,George Murder
+349,Agness Carr
+350,John Van De Werken
+351,Derkje Van Aalstyn
+352,Catharina Souse
+353,Anthony Van Veghten
+354,Maria Fonda
+355,Frederick Miller
+356,Delia Starn
+357,Michael Mier
+358,Elizabeth Wemell
+359,Hendrick Van Hoorn
+360,Elizabeth Van Hoorn
+361,Elizabeth Powelson
+362,Hugh Monro
+363,Catharina Camel
+364,Calloe Roos
+365,Jenny Roos
+366,Daniel McCoo
+367,Elizabeth Thenninger
+368,Abraham Veeder
+369,Annatie Fonda
+370,Roelf Johnson
+371,Elizabeth Lewis
+372,Thomas Romeyn
+373,Susanna Van Campen
+374,Jacob Herris
+375,Johannes Wert
+376,Maria Dorethe
+377,Hugh Fraiser
+378,Maria Thompson
+379,Peter Van Aalstyn
+380,Gerritje Van Aalstyn
+381,Gideon Marlet
+382,Maria Quack
+383,Adam Bekker
+384,Elizabeth Swart
+385,Richard Robinson
+386,Maria Service
+387,Carel H. Van Eps
+388,Catharina Winner
+389,Johannes Harmen
+390,Maria Mitsker
+391,Frederick Cash
+392,Elizabeth Helmer
+393,Hannicel Dachsteder
+394,John Morsophe
+395,William Shesim
+396,Elizabeth Comerson
+397,Eche Lewis
+398,Thomas Crane
+399,Margaret Crane
+400,William Quack
+401,Adam Plank
+402,Engeltje Quack
+403,Martinus Van Slyk
+404,Maria Starn
+405,Frans a Negro
+406,Sarah a free Negro
+407,Annatie Stimish
+408,Fanno a Negro
+409,Jin a Negro 2
+410,Jack a Negro 4
+411,Jenny a Negro
+412,Margaret Oelok
+413,Peter Quack
+414,Susanna Bradt
+415,Cornelius Rogers
+416,Christina Potman
+417,Thomas Roos
+418,Elizabeth Roos
+419,William Marten
+420,Annatie Mortin
+421,Jacob Craft
+422,Peter Service
+423,Leta Miller
+424,Ludwig Frederick
+425,Alida Miller
+426,Andries Bowman
+427,Lea Oosterhoudt
+428,Catharina Frietscer
+429,Aarnhoudt Veeder
+430,Bill Colon
+431,Anna Quack
+432,Bill Suddert
+433,Thomas Cagnot
+434,Maria Young
+435,Jacob Seerversteen
+436,Sarah Bernhart
+437,Laurens Roelefson
+438,Elizabeth Bernhart
+439,Samuel Pittinger
+440,Elizabeth Kleyn
+441,Richard Lelling
+442,Annatie Bons
+443,Arent Smith
+444,Martinus Algire
+445,Catharina Weemer
+446,Mark McLoud
+447,Isabella McOlroe
+448,Adam Frank
+449,Catharina Meyr
+450,Catharina Lederin
+451,John Cadogan
+452,Annatie Van Duisen
+453,Barent Oelman
+454,Ache Cromwell
+455,Limmetje Quack
+456,Hunter Quack
+457,Neeltie Quack
+458,Johannes Kitts
+459,Annatie Service
+460,Jack a Negro 2
+461,Floor a Negro
+462,Jack a Negro 1
+463,Jin a Negro 1
+464,William Hall
+465,Annatie Cownhover
+466,Andries Wemple
+467,Lena Bradt
+468,Annatie Collier
+469,Thomas Elle
+470,Maria Wilse
+471,James Plato
+472,Catharina Van Duisen
+473,Sent Quackenbush
+474,Annatie Van Aalstyn
+475,Johannes Evertse
+476,Elionera Krankheyt
+477,Jacob a Negro
+478,Sarah a Negro
+479,Catharina Johnson
+480,Harmanus Cromwell
+481,Catharina Picket
+482,James Dunn
+483,Rebecca Philipse
+484,Michael Linkerfelt
+485,Catharina Ergesinger
+486,Jacob Keelman
+487,Elizabeth Algire
+488,Jacob Laan
+489,Annatie Loyd
+490,Benoni Bellard
+491,Cobitje Quack
+492,Elsje Lewis
+493,Leentje Van Aalen
+494,Donald McBeen
+495,Annatie McNorton
+496,Johannes Dachsteder
+497,David Quack
+498,Catharina Terwilleger
+499,Cristoffel Forbutner
+500,Annatie Frederick
+501,Gilbert Van Duisen
+502,Neeltie Van Antwerp
+503,Symon Veeder
+504,Margaret Terwilleger
+505,Cobus Cosaat
+506,Elizabeth Sedam
+507,Mark Marlet
+508,Sophia Fonteyn
+509,Hendrick Ryker
+510,Christina Baromore
+511,Alexander Ferguson
+512,Anna Phares
+513,Jonathan Frans
+514,Maria Fitchet
+515,Hendrick Ploegh
+516,Thomas McClumpher
+517,Gennitsing McClumpher
+518,Jacob Dingman
+519,Maria Krankheyt
+520,Samuel Weeker
+521,Elionera Barry
+522,Peter McMartin
+523,Christina McMartin
+524,Thomas Lepper
+525,Samuel Cownhover
+526,Nancy Pattin
+527,Nicholas McDonnel
+528,Maria Aalen
+529,David Lewis
+530,Johannes Frank
+531,Catharina Muts
+532,Jack a Negro 3
+533,Beth a Negro
+534,Claus a Negro
+535,Johannes Smith
+536,Anna Picking
+537,Cesar a Negro
+538,Candins a Negro
+539,Hendrick V. D. Werken
+540,Sarah Van Aalen
+541,David Bogardus
+542,Maria Harrison
+543,Johannes Barlet
+544,Maria Gardinier
+545,Derkje Gardinier
+546,Hendrick Yany
+547,Polly McDonnel
+548,Jacob Fishback
+549,Polly Vrooman
+550,Douw Fonda
+551,Arent Brouwer
+552,Jacob Pikel
+553,Petrus Van Dreysen
+554,Thimothius Leenderson
+555,Johannes Kleyn
+556,Frans F. Pruyn
+557,Cornelius an Indian
+558,Johannes Van Eps
+559,John Hain
+560,Melchert Van Duisen
+561,Jacob Snoch
+562,William Jong
+563,Philip Stouwiths
+564,Arent Bradt
+565,Hendrick Grems
+566,James Schoolcraaft
+567,Andries Wemp
+568,Reyer Boin
+569,Johannes Potman
+570,James Davis
+571,Jacob De Welt
+572,Myndert Wemp
+573,Elizabeth Visbach
+574,William Hare
+575,Franciscus Saltz
+576,George Stam
+577,Jeremiah Quackenbush
+578,Barent Vrooman
+579,Cornelius Smith
+580,Arent Potman
+581,Adam Clobelich
+582,Jacob Heever
+583,Margretha Rupperts
+584,Harmanus Fisher
+585,Jacob Algire
+586,James Lints
+587,Harpert Van Brakelen
+588,John Long
+589,Stephanus Mombrute
+590,Jan Leenderson
+591,Gose Van Aalstyn
+592,John Van Everen
+593,Johannes Neef
+594,Cobus Davis
+595,Frederick De Graaf
+596,Jacob Simmons
+597,Hunter Quackenbush
+598,George Frederick L. Bernhart
+599,Peter Scremling
+600,Abraham Ekker
+601,Jacob Tiefendorf
+602,Hanse Hatkok
+603,William Marinus
+604,Barent Frederick
+605,Thomas Zeeger
+606,Barent Hansen
+607,Robert Yates
+608,Jacob Flaunder
+609,Aron Brouwer
+610,Jury Adam Dachsteder
+611,Hannis Seever
+612,Frederick Service
+613,Jonathan Romjen
+614,Jeremiah Clark
+615,Harmanus Peek
+616,Michael Warner
+617,Johannes Wyse
+618,Daniel Smith
+619,Lewis Clement
+620,Daniel DeGraaf
+621,Alexander Kerk
+622,Carel Marinus
+623,Adam Gardinier
+624,John Service
+625,Abraham Philipse
+626,Crownage Kinkaid
+627,Jacob Truax
+628,John Rogers
+629,William Lewis
+630,Philip George Fyles
+631,Jury Potman
+632,Melchert Van Brawkley
+633,Nicholas Crotsenberg
+634,Godfree Aney
+635,Frans Van Hoorn
+636,Nicholas Quack
+637,Arent Cromwell
+638,Adam Brown
+639,Johannes Stam
+640,John Cerl
+641,George Fyles
+642,Dorethe Schink
+643,Evert Van Eps
+644,Thomas Van De Werken
+645,Philip Stubbort
+646,Philip Cromwell
+647,Abraham Quack
+648,Johannes Boosert
+649,Abraham D. Quack
+650,Nicholas Van Slyk
+651,Nicholas a Negro
+652,William a Negro
+653,Harry a Negro
+654,Johannes Peek
+655,William Rogers
+656,Harry Lewis
+657,Johannes Service
+658,Nicholas Hansen
+659,Joseph Scot
+660,William Service
+661,John Magraw
+662,Petrus Wermer
+663,Christiaan Jane
+664,Joost Prent
+665,Christiaan Leederin
+666,Tyne Leenderson
+667,William Prentiss
+668,Abraham Valk
+669,John Boosert
+670,Samuel Bradt
+671,Gerrit Veeder
+672,Petrus Potman
+673,Samuel Rees
+674,Sampson Simmons
+675,Johannes Philipse
+676,Cato a Negro
+677,Matthew Van Duisen
+678,Addriaan Van Sikkelen
+679,Thomas Barry
+680,Peter Eel
+681,Peter Frederick
+682,Johannes Fonda
+683,Robert Hillborn
+684,John Fisher
+685,Casper Van Werken
+686,Peter De Wandelaar
+687,John Molten
+688,John Bowman
+689,Adam Evertse
+690,Jacob Potman
+691,Daniel Robinson
+692,Joseph Prentiss
+693,Joost Van Slyk
+694,Jacob Sikkle
+695,Heny a Negro
+696,Harmanus Horrison
+697,John Kitts
+698,Claas Van Brakelen
+699,Frederick Groat
+700,Deborah Fonda
+701,Sarah Brouwer
+702,Juliana Pikel
+703,Cataleyna Herris
+704,Engeltje Van Dreysen
+705,Anna Leenderson
+706,Margaret Leenderson
+707,Christina Kleyn
+708,Annatie Pruyn
+709,Neeltie an Indian
+710,Anganietie Wemp
+711,Annatie Van Eps
+712,Neeltie Van Duisen
+713,Eva Jong
+714,Catharina Van Eps
+715,Magdalena Stouwiths
+716,Catharina Beemener
+717,Magdalena Service
+718,Annatie Yates
+719,Christina Grems
+720,Maria Anstes
+721,Catharina Snoch
+722,Frans Schoolcraaft
+723,Ache Bradt
+724,Annatie Boin
+725,Deborah Wemp
+726,Annatie Potman
+727,Margaret Jong
+728,Maria Davis
+729,Anna De Welden
+730,Neeltie Fonda
+731,Maria Butler
+732,Eva Wemp
+733,Rebecca Van Brakelen
+734,Rebecca Conyn
+735,Weyntje Van Aalstyn
+736,Elizabeth Hare
+737,Sophia Frederick
+738,Barbera Stam
+739,Catharina Neef
+740,Volkje Vrooman
+741,Rachel Wemple
+742,Susanna Mabee
+743,Anna Maria Clobilich
+744,Molly Davis
+745,Anna Pilker
+746,Ariaantie Conyn
+747,Frans Rupperts
+748,Barbera Neef
+749,Catharina Fisher
+750,Maria Wale
+751,Margaret Wemple
+752,Eva Kitts
+753,Margaret Halenbeck
+754,Maria Mombrute
+755,Catharina Veeder
+756,Sarah Van Brakelen
+757,Elizabeth Sternburg
+758,Catharina Long
+759,Elsje Newkerk
+760,Annatie Leenderson
+761,Gorritche Van Aalstyn
+762,Cornelia Van Everen
+763,Anna Neef
+764,Rebecca Davis
+765,Bata Melat
+766,Cornelia Van De Werkel
+767,Annatie Van Everen
+768,Rachel Collier
+769,Elizabeth Boosert
+770,Neeltie Van Aalstyn
+771,Sarah De Graaf
+772,Eva Bradt
+773,Mariche Smith
+774,Margaret Potman
+775,Neylche Quackenbush
+776,Johanna F. R. Bornhart
+777,Neylche Gardinier
+778,Deborah Conyn
+779,Elizabeth Ekker
+780,Elizabeth Tiefendorf
+781,Rachel Hansen
+782,Rachel Newkerk
+783,Maria Marinus
+784,Doreta Frederick
+785,Polly Weever
+786,Anna Hansen
+787,Derkje Yates
+788,Elizabeth Evertson
+789,Lena Lewis
+790,Annatie Dachsteder
+791,Anna Flaunder
+792,Elizabeth Brouwer
+793,Fransynche Schoolcraaft
+794,Eva Dachsteder
+795,Maria Van Brute
+796,Grietje McGraw
+797,Anna Service
+798,Eva Johnson
+799,Catharina Runyen
+800,Catharina Davis
+801,Maria Clark
+802,Sarah Peek
+803,Margaret Warner
+804,Geertruy Regtmeyr
+805,Elizabeth Wyse
+806,Elsje Pruyn
+807,Annatie Prent
+808,Maria Van Brawkley
+809,Maria Smith
+810,Eva Cromwell
+811,Cataleyna Clement
+812,Geertruy Van Aalstyn
+813,Margaret Marinus
+814,Maria Van Veghten
+815,Elizabeth Philipse
+816,Annatie Gardinier
+817,Catharina Service
+818,Cornelia Kinkaid
+819,Maria Grand
+820,Hasse Rogers
+821,Catharina Lewis
+822,Anna Fyles
+823,Maria Ekker
+824,Elizabeth Veeder
+825,Engeltje Fonda
+826,Sophia Dennis
+827,Engeltje Van Brawkley
+828,Christina Boosert
+829,Margaret Aney
+830,Elizabeth Van Slyk
+831,Susanna Quack
+832,Catharina Algire
+833,Catje Service
+834,Alida Wemp
+835,Jane Wemple
+836,Margaret Boosert
+837,Elizabeth Van De Werken
+838,Maria Stubbott
+839,Elizabeth Johnson
+840,Margaret Cromwell
+841,Peggy Wemp
+842,Elizabeth Quack
+843,Grietje Starn
+844,Maragita Wemps
+845,Margaret Lewis
+846,Philix a Negro
+847,Lybe a Negro
+848,Catje Leenderson
+849,Eva Peek
+850,Rachel Quack
+851,Annatie Rogers
+852,Barbera Willson
+853,Grietje Hansen
+854,Lena Service
+855,Cornelia Scot
+856,Margaret Sternburg
+857,Susanna Rambag
+858,Margagriet McGraw
+859,Barbera Dogslt
+860,Margaret Algire
+861,Bata Leenderson
+862,Margaret Vrooman
+863,Catharina Quack
+864,Catharina Prentiss
+865,Catharina Cromwell
+866,Neeltie Valk
+867,Catharina Waldorf
+868,Kummertje Bradt
+869,Engeltje Van Antwerp
+870,Sarah Wemp
+871,Maria Runner
+872,Rachel Simmons
+873,Maria Collier
+874,Abraham Yates
+875,Rachel Van Duisen
+876,Eva Veeder
+877,Elizabeth Vries
+878,Rebecca Van Sikkelen
+879,Lena Ergesinger
+880,Machtel Collier
+881,Anna Cadogan
+882,Rachel Van Aalen
+883,Geertruy Service
+884,Lena Wemple
+885,Lena Frederick
+886,Neeltie Vrooman
+887,Maria Hillborn
+888,Geertruy Fisher
+889,Margaret Fisher
+890,Rachel Lewis
+891,Annatie De Wandelaar
+892,Derkje Dachsteder
+893,Rebecca Rubith
+894,Eva Bowman
+895,Fayna Schower
+896,Geertruy Lewis
+897,Elizabeth Hover
+898,Annatie Prentiss
+899,Geertruy Van Slyk
+900,Maria Sikkle
+901,Sarah Jones
+902,Grietje G. Preice
+903,Christien Frank
+904,Yaney Groat
+905,John Johnson
+906,Jift a Negro
+907,Margaret Krootsin
+908,Gerardus Mock
+909,Elizabeth Pret
+910,Rachel a Negro
+911,Eva Morrhe
+912,Ariaantie Arianntje
+913,Elizabeth Conely
+914,Isaac Bertly
+915,Anna Mock
+916,Diana a Negro
+917,Major Fol

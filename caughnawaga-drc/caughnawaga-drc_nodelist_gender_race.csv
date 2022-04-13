@@ -1,0 +1,919 @@
+id,name,gender,race
+0,Ephraim Wemp,male,white
+1,Anganieta Wemple,unknown,white
+2,Mathias Link,male,white
+3,Maria Magdalena Kraaft,female,white
+4,Philip Helmer,male,white
+5,Elizabeth Herris,female,white
+6,Hendrick Vrooman,male,white
+7,Neeltie Veeder,female,white
+8,Johannes Veeder,male,white
+9,Catharina Mabee,female,white
+10,Johannes Leenderson,male,white
+11,Anna Stanhouse,female,white
+12,William Snoch,male,white
+13,Catharina Kleyn,female,white
+14,Cornelius Potman,male,white
+15,Elizabeth Pruyn,female,white
+16,Johannes an Indian,male,Native
+17,Anna an Indian,female,Native
+18,Charles a Negro,male,Black
+19,Susanna Primis,female,white
+20,Johan Dederk Meyer,male,white
+21,Osseltje Thomas,unknown,white
+22,William Olin,male,white
+23,Ariaantie Wemp,unknown,white
+24,Johannes Clement,male,white
+25,Rachel Reddely,female,white
+26,John Schot Quackenbush,male,white
+27,Elsje Staats,female,white
+28,Jacob Hall,male,white
+29,Elizabeth Snoch,female,white
+30,Philip Frederick,male,white
+31,Sophia Saltz,female,white
+32,Joseph Cain,male,white
+33,Catharina Cain,female,white
+34,Hendrick Wemp,male,white
+35,Eva Van Eps,female,white
+36,Johannes Miller,male,white
+37,Catharina Philipse,female,white
+38,Stephanus Jordan,male,white
+39,Margaret Bellony,female,white
+40,Jacob Kitts,male,white
+41,Eva Service,female,white
+42,John Butler,male,white
+43,Cataleyna Bradt,unknown,white
+44,Jacob Boosert,male,white
+45,Margaret Koch,female,white
+46,Hendrick Hoff,male,white
+47,Catharina Terrel,female,white
+48,Christiaan Schuls,male,white
+49,Elizabeth Bierman,female,white
+50,Marcus Lies,male,white
+51,Magdalena Helmer,female,white
+52,Anganieta Brouwer,unknown,white
+53,William Boin,male,white
+54,Catharina V: Antwerp,female,white
+55,Jan Boin,male,white
+56,Maria Snoch,female,white
+57,William Philipse,male,white
+58,Susanna Wemp,female,white
+59,Frans Prun,male,white
+60,Annatie Davis,female,white
+61,Johannes Van Antwerp,male,white
+62,Annatie Veeder,female,white
+63,Thomas Cain,male,white
+64,Maria Jong,female,white
+65,Samuel Gardinier,male,white
+66,Maria Van Everen,female,white
+67,Peter Quackenbush,male,white
+68,Elizabeth Davis,female,white
+69,David De Welt,male,white
+70,Maria De Welden,female,white
+71,Philip Miller,male,white
+72,Anna Visbach,female,white
+73,Philip Weemer,male,white
+74,Catharina Lyser,female,white
+75,Jelles Fonda,unknown,white
+76,Annatie Vrooman,female,white
+77,Peter Conyn,male,white
+78,Rebecca Wemp,female,white
+79,Paulus de Fransman,male,white
+80,Christina de Fransman,female,white
+81,Timothy Leenderson,male,white
+82,Bata Marinus,female,white
+83,Philip Philipse,male,white
+84,Elizabeth Wanner,female,white
+85,Gerrit Van Brakelen,male,white
+86,Maria Van Brakelen,female,white
+87,Jury Fey,unknown,white
+88,Anna Catarina Visbach,female,white
+89,Adam Fonda,male,white
+90,Neeltie Bries,female,white
+91,John Hare,male,white
+92,Margaret Davis,female,white
+93,Peter Grosch,male,white
+94,Anna Eva Saltz,female,white
+95,Laurens Stam,male,white
+96,Elizabeth Stam,female,white
+97,Philip Scoefer,male,white
+98,Elizabeth Anstes,female,white
+99,Barent Wemp,male,white
+100,Margaret Fonda,female,white
+101,Volkert Veeder,male,white
+102,Elizabeth Smith,female,white
+103,Lucas Veeder,male,white
+104,Maria Eva Bel,female,white
+105,Johannes Regtmeyer,male,white
+106,Geertruy Coonraet,female,white
+107,Jury Schenk,unknown,white
+108,Magdalena Spendeler,female,white
+109,Ambrosius Selnaar,male,white
+110,Margaret Schefin,female,white
+111,Casper Coens,male,white
+112,Catharina Coens,female,white
+113,Ludwig Potman,male,white
+114,Elizabeth Potman,female,white
+115,Jacob Neef,male,white
+116,Catharina Angst,female,white
+117,Benazar Bedel,unknown,white
+118,Sarah Van Deventer,female,white
+119,Harmen Brouwer,male,white
+120,Margaret Ekker,female,white
+121,Margaret Fieze,female,white
+122,Annatie Kitts,female,white
+123,Philip Sceffer,male,white
+124,Conrad Mouer,male,white
+125,Geertruy Smith,female,white
+126,Samuel Rogers,male,white
+127,John Wilson,male,white
+128,Barbera Tiefendorf,female,white
+129,Peter Hansen,male,white
+130,Rachel Fonda,female,white
+131,Edward Foster,male,white
+132,Maria Gerryty,female,white
+133,William Mombrute,male,white
+134,Maria Freest,female,white
+135,Lena Leenderson,female,white
+136,Abraham Van Aalstyn,male,white
+137,Catye Vallae,unknown,white
+138,Renier Van Everen,male,white
+139,Neeltie Van Eps,female,white
+140,Hendrick Scremling,male,white
+141,Rachel Leenderson,female,white
+142,Abraham Davis,male,white
+143,Catharina Rogers,female,white
+144,John Van Antwerp,male,white
+145,Anna Veeder,female,white
+146,Nicholas Dachsteder,male,white
+147,Catharina Van De Werken,female,white
+148,William Van De Werken,male,white
+149,Margaret Van Slyk,female,white
+150,William Van Brute,male,white
+151,Gideon Melat,male,white
+152,Maria Quackenbush,female,white
+153,Jacob Collier,male,white
+154,Maria Van Aalstyn,female,white
+155,William Quackenbush,male,white
+156,Catharina Van Aalstyn,female,white
+157,Philip Schafer,male,white
+158,Helena Van Duisen,female,white
+159,Adam Sexbury,male,white
+160,Anna Deloner,female,white
+161,John Philipse,male,white
+162,Alida Prent,female,white
+163,Sarah Smith,female,white
+164,Jacob Graff,male,white
+165,Sarah Potman,female,white
+166,Cornelius Van Aalstyn,male,white
+167,Annatie Quack,female,white
+168,Stuart Hazard,male,white
+169,Rachel Clark,female,white
+170,Catharina Tell,female,white
+171,Nicholas Gardinier,male,white
+172,Catharina Scremling,female,white
+173,Frederick Potman,male,white
+174,Catharina Pennal,female,white
+175,Jury Fyles,unknown,white
+176,Anna Flack,female,white
+177,Adam Ekker,male,white
+178,Margaret Cagnot,female,white
+179,Richard Hoff,male,white
+180,Elizabeth Paulse,female,white
+181,Gerrit Newkerk,male,white
+182,Neylche Quack,unknown,white
+183,Lewis Philipse,male,white
+184,Margaret Hatkok,female,white
+185,Robert Spenser,male,white
+186,Catharina Sternberg,female,white
+187,Amos France,male,white
+188,Annatie Fitchet,female,white
+189,Peter Miller,male,white
+190,Malle Miller,female,white
+191,Johannes Zeegers,male,white
+192,Sarah Van Der Roef,female,white
+193,Abraham D. Quackenbush,male,white
+194,Maria Bradt,female,white
+195,Hendrick Dachsteder,male,white
+196,Magdalena Dachsteder,female,white
+197,Hendrick Boosert,male,white
+198,Elizabeth Kitts,female,white
+199,Adam Sternberg,male,white
+200,Margaret Prent,female,white
+201,Johannes Anstes,male,white
+202,Maria Lewis,female,white
+203,Daniel Service,male,white
+204,Catharina Dachsteder,female,white
+205,Albert Van De Wetken,male,white
+206,Barbera E. Dachsteder,female,white
+207,Johan Jurry Fes,male,white
+208,Angenietche Brouwer,unknown,white
+209,Frederick Dachsteder,male,white
+210,Catharina Walraat,female,white
+211,Volkert Philipse,male,white
+212,Maria McDonnel,female,white
+213,Hannis Lepper,male,white
+214,Elizabeth Barlet,female,white
+215,John Meggrigere,male,white
+216,Anna Spitser,female,white
+217,Annatie Quackenbush,female,white
+218,Aron Smith,male,white
+219,Catharina Veeling,female,white
+220,Abraham Roelfse,male,white
+221,Catharina Saures,female,white
+222,Joseph Prent,male,white
+223,Annatie Franch,female,white
+224,Philip Service,male,white
+225,Catharina Seever,female,white
+226,Thomas Ferguson,male,white
+227,Margaret Menning,female,white
+228,Neylche Philipse,unknown,white
+229,William Suddert,male,white
+230,Susanna Anstes,female,white
+231,Margaret Van De Werken,female,white
+232,Cornelius Van Everen,male,white
+233,Cornelia Van Aalstyn,female,white
+234,Martyn Van Aalstyn,male,white
+235,David Cosaat,male,white
+236,Annatie Stymerse,female,white
+237,Johannes Vries,male,white
+238,Thomas Plato,male,white
+239,Maria Rogers,female,white
+240,Johannes Van Slyk,male,white
+241,Geertruy Marinus,female,white
+242,Michael Herris,male,white
+243,Cornelia Blaane,female,white
+244,Petrus Mabee,male,white
+245,Alida Peek,female,white
+246,Jeremiah Quack,male,white
+247,Elizabeth Van Aalstyn,female,white
+248,Conrad Rees,male,white
+249,Barbera Stooner,female,white
+250,John Wemp,male,white
+251,Maria Veeder,female,white
+252,Gerades Moak,unknown,white
+253,Anna Coonraet,female,white
+254,John Davis,male,white
+255,William Colon,male,white
+256,Anna Quackenbush,female,white
+257,Johannes Newkerk,male,white
+258,Rachel Knute,female,white
+259,Johannes Van Zyl,male,white
+260,Catharina Rykman,female,white
+261,Frederick Lewis,male,white
+262,Rachel Hover,female,white
+263,George Kirk,male,white
+264,Catharina Potman,female,white
+265,David Potman,male,white
+266,Annatie Van Antwerp,female,white
+267,Jacob Van Aalstyn,male,white
+268,Wyntje Leenderson,female,white
+269,John Rosa,male,white
+270,Christina Valkenburg,female,white
+271,Jury Miller,unknown,white
+272,Catharina Heever,female,white
+273,John Melat,male,white
+274,Hannah Shelden,female,white
+275,Frederick Fisher,male,white
+276,Gesina DeGraaf,female,white
+277,Rich 't Hansen,male,white
+278,Polly Butler,female,white
+279,Harmanus Philipse,male,white
+280,Annatie Cromwell,female,white
+281,Bolters Ergesinger,unknown,white
+282,Maddelena Ergesinger,female,white
+283,Gysbert Van Aalstyn,male,white
+284,Harmanus Mabee,male,white
+285,Isaac Davis,male,white
+286,Catharina Wilson,female,white
+287,John Fraiser,male,white
+288,Nancy Fraiser,female,white
+289,Isaac Collier,male,white
+290,Rachel Quackenbush,female,white
+291,Peter Davis,male,white
+292,Elsje Marinus,female,white
+293,Adam Lewis,male,white
+294,Eva Lewis,female,white
+295,Martinus Gardinier,male,white
+296,Dorothea Philipse,female,white
+297,Esmael Beekman,unknown,white
+298,Eva Halenbeek,female,white
+299,Benjamin Delyn,male,white
+300,Anganieta Philipse,unknown,white
+301,Hendrick Seever,male,white
+302,Fryna Barlet,unknown,white
+303,Johannes Lewis,male,white
+304,Derik Potman,male,white
+305,Neeltie Van Brawkley,female,white
+306,Philip Beemer,male,white
+307,Hannah Fitchet,female,white
+308,Frederick Starn,male,white
+309,Elizabeth France,female,white
+310,James De Rosa,male,white
+311,Fransyntje Coter,unknown,white
+312,Lena Van Duisen,female,white
+313,John Fonda,male,white
+314,Engeltje Hansen,female,white
+315,Jacob Tanner,male,white
+316,Hendrick Lewis,male,white
+317,Cataleyna Davis,unknown,white
+318,Hendrick Eyk,male,white
+319,Catharina Baromore,female,white
+320,Adam Dachsteder,male,white
+321,Eva Barlet,female,white
+322,Maria Philipse,female,white
+323,Abraham Gerritson,male,white
+324,Maria Brouwer,female,white
+325,Alexander McPherson,male,white
+326,Catharina McCay,female,white
+327,Johannes Ekker,male,white
+328,Elizabeth Dachsteder,female,white
+329,Gerrit G. Van Brawkley,male,white
+330,Anna Kitts,female,white
+331,Harmanus Smith,male,white
+332,Maria Wemp,female,white
+333,Jacob Gardinier,male,white
+334,Derkje Van De Werken,male,white
+335,Roelf Van De Werken,male,white
+336,Hendrick Wieler,male,white
+337,Neeltie Wieler,female,white
+338,Cobus Cromwell,male,white
+339,Rachel Gardinier,female,white
+340,Daniel McClain,male,white
+341,Barbera McClean,female,white
+342,Gysbert Van Brawkley,male,white
+343,Polly Wilson,female,white
+344,Conrad Crotsenberg,male,white
+345,Margaret Crasin,female,white
+346,Norman McLoud,male,white
+347,Jenny McLoud,female,white
+348,George Murder,male,white
+349,Agness Carr,unknown,white
+350,John Van De Werken,male,white
+351,Derkje Van Aalstyn,male,white
+352,Catharina Souse,female,white
+353,Anthony Van Veghten,male,white
+354,Maria Fonda,female,white
+355,Frederick Miller,male,white
+356,Delia Starn,female,white
+357,Michael Mier,male,white
+358,Elizabeth Wemell,female,white
+359,Hendrick Van Hoorn,male,white
+360,Elizabeth Van Hoorn,female,white
+361,Elizabeth Powelson,female,white
+362,Hugh Monro,male,white
+363,Catharina Camel,female,white
+364,Calloe Roos,unknown,white
+365,Jenny Roos,female,white
+366,Daniel McCoo,male,white
+367,Elizabeth Thenninger,female,white
+368,Abraham Veeder,male,white
+369,Annatie Fonda,female,white
+370,Roelf Johnson,male,white
+371,Elizabeth Lewis,female,white
+372,Thomas Romeyn,male,white
+373,Susanna Van Campen,female,white
+374,Jacob Herris,male,white
+375,Johannes Wert,male,white
+376,Maria Dorethe,female,white
+377,Hugh Fraiser,male,white
+378,Maria Thompson,female,white
+379,Peter Van Aalstyn,male,white
+380,Gerritje Van Aalstyn,unknown,white
+381,Gideon Marlet,male,white
+382,Maria Quack,female,white
+383,Adam Bekker,male,white
+384,Elizabeth Swart,female,white
+385,Richard Robinson,male,white
+386,Maria Service,female,white
+387,Carel H. Van Eps,male,white
+388,Catharina Winner,female,white
+389,Johannes Harmen,male,white
+390,Maria Mitsker,female,white
+391,Frederick Cash,male,white
+392,Elizabeth Helmer,female,white
+393,Hannicel Dachsteder,unknown,white
+394,John Morsophe,male,white
+395,William Shesim,male,white
+396,Elizabeth Comerson,female,white
+397,Eche Lewis,unknown,white
+398,Thomas Crane,male,white
+399,Margaret Crane,female,white
+400,William Quack,male,white
+401,Adam Plank,male,white
+402,Engeltje Quack,female,white
+403,Martinus Van Slyk,male,white
+404,Maria Starn,female,white
+405,Frans a Negro,male,Black
+406,Sarah a free Negro,female,Black
+407,Annatie Stimish,female,white
+408,Fanno a Negro,unknown,Black
+409,Jin a Negro 2,female,Black
+410,Jack a Negro 4,male,Black
+411,Jenny a Negro,female,Black
+412,Margaret Oelok,female,white
+413,Peter Quack,male,white
+414,Susanna Bradt,female,white
+415,Cornelius Rogers,male,white
+416,Christina Potman,female,white
+417,Thomas Roos,male,white
+418,Elizabeth Roos,female,white
+419,William Marten,male,white
+420,Annatie Mortin,female,white
+421,Jacob Craft,male,white
+422,Peter Service,male,white
+423,Leta Miller,female,white
+424,Ludwig Frederick,male,white
+425,Alida Miller,female,white
+426,Andries Bowman,male,white
+427,Lea Oosterhoudt,female,white
+428,Catharina Frietscer,female,white
+429,Aarnhoudt Veeder,unknown,white
+430,Bill Colon,male,white
+431,Anna Quack,female,white
+432,Bill Suddert,male,white
+433,Thomas Cagnot,male,white
+434,Maria Young,female,white
+435,Jacob Seerversteen,male,white
+436,Sarah Bernhart,female,white
+437,Laurens Roelefson,male,white
+438,Elizabeth Bernhart,female,white
+439,Samuel Pittinger,male,white
+440,Elizabeth Kleyn,female,white
+441,Richard Lelling,male,white
+442,Annatie Bons,female,white
+443,Arent Smith,male,white
+444,Martinus Algire,male,white
+445,Catharina Weemer,female,white
+446,Mark McLoud,male,white
+447,Isabella McOlroe,female,white
+448,Adam Frank,male,white
+449,Catharina Meyr,female,white
+450,Catharina Lederin,female,white
+451,John Cadogan,male,white
+452,Annatie Van Duisen,female,white
+453,Barent Oelman,male,white
+454,Ache Cromwell,unknown,white
+455,Limmetje Quack,unknown,white
+456,Hunter Quack,male,white
+457,Neeltie Quack,female,white
+458,Johannes Kitts,male,white
+459,Annatie Service,female,white
+460,Jack a Negro 2,male,Black
+461,Floor a Negro,unknown,Black
+462,Jack a Negro 1,male,Black
+463,Jin a Negro 1,female,Black
+464,William Hall,male,white
+465,Annatie Cownhover,female,white
+466,Andries Wemple,male,white
+467,Lena Bradt,female,white
+468,Annatie Collier,female,white
+469,Thomas Elle,male,white
+470,Maria Wilse,female,white
+471,James Plato,male,white
+472,Catharina Van Duisen,female,white
+473,Sent Quackenbush,unknown,white
+474,Annatie Van Aalstyn,female,white
+475,Johannes Evertse,male,white
+476,Elionera Krankheyt,unknown,white
+477,Jacob a Negro,male,Black
+478,Sarah a Negro,female,Black
+479,Catharina Johnson,female,white
+480,Harmanus Cromwell,male,white
+481,Catharina Picket,female,white
+482,James Dunn,male,white
+483,Rebecca Philipse,female,white
+484,Michael Linkerfelt,male,white
+485,Catharina Ergesinger,female,white
+486,Jacob Keelman,male,white
+487,Elizabeth Algire,female,white
+488,Jacob Laan,male,white
+489,Annatie Loyd,female,white
+490,Benoni Bellard,male,white
+491,Cobitje Quack,unknown,white
+492,Elsje Lewis,female,white
+493,Leentje Van Aalen,female,white
+494,Donald McBeen,male,white
+495,Annatie McNorton,female,white
+496,Johannes Dachsteder,male,white
+497,David Quack,male,white
+498,Catharina Terwilleger,female,white
+499,Cristoffel Forbutner,unknown,white
+500,Annatie Frederick,female,white
+501,Gilbert Van Duisen,male,white
+502,Neeltie Van Antwerp,female,white
+503,Symon Veeder,male,white
+504,Margaret Terwilleger,female,white
+505,Cobus Cosaat,male,white
+506,Elizabeth Sedam,female,white
+507,Mark Marlet,male,white
+508,Sophia Fonteyn,female,white
+509,Hendrick Ryker,male,white
+510,Christina Baromore,female,white
+511,Alexander Ferguson,male,white
+512,Anna Phares,female,white
+513,Jonathan Frans,male,white
+514,Maria Fitchet,female,white
+515,Hendrick Ploegh,male,white
+516,Thomas McClumpher,male,white
+517,Gennitsing McClumpher,unknown,white
+518,Jacob Dingman,male,white
+519,Maria Krankheyt,female,white
+520,Samuel Weeker,male,white
+521,Elionera Barry,unknown,white
+522,Peter McMartin,male,white
+523,Christina McMartin,female,white
+524,Thomas Lepper,male,white
+525,Samuel Cownhover,male,white
+526,Nancy Pattin,female,white
+527,Nicholas McDonnel,male,white
+528,Maria Aalen,female,white
+529,David Lewis,male,white
+530,Johannes Frank,male,white
+531,Catharina Muts,female,white
+532,Jack a Negro 3,male,Black
+533,Beth a Negro,female,Black
+534,Claus a Negro,male,Black
+535,Johannes Smith,male,white
+536,Anna Picking,female,white
+537,Cesar a Negro,male,Black
+538,Candins a Negro,unknown,Black
+539,Hendrick V. D. Werken,male,white
+540,Sarah Van Aalen,female,white
+541,David Bogardus,male,white
+542,Maria Harrison,female,white
+543,Johannes Barlet,male,white
+544,Maria Gardinier,female,white
+545,Derkje Gardinier,male,white
+546,Hendrick Yany,male,white
+547,Polly McDonnel,female,white
+548,Jacob Fishback,male,white
+549,Polly Vrooman,female,white
+550,Douw Fonda,unknown,white
+551,Arent Brouwer,male,white
+552,Jacob Pikel,male,white
+553,Petrus Van Dreysen,male,white
+554,Thimothius Leenderson,unknown,white
+555,Johannes Kleyn,male,white
+556,Frans F. Pruyn,male,white
+557,Cornelius an Indian,male,Native
+558,Johannes Van Eps,male,white
+559,John Hain,male,white
+560,Melchert Van Duisen,male,white
+561,Jacob Snoch,male,white
+562,William Jong,male,white
+563,Philip Stouwiths,male,white
+564,Arent Bradt,male,white
+565,Hendrick Grems,male,white
+566,James Schoolcraaft,male,white
+567,Andries Wemp,male,white
+568,Reyer Boin,male,white
+569,Johannes Potman,male,white
+570,James Davis,male,white
+571,Jacob De Welt,male,white
+572,Myndert Wemp,male,white
+573,Elizabeth Visbach,female,white
+574,William Hare,male,white
+575,Franciscus Saltz,male,white
+576,George Stam,male,white
+577,Jeremiah Quackenbush,male,white
+578,Barent Vrooman,male,white
+579,Cornelius Smith,male,white
+580,Arent Potman,male,white
+581,Adam Clobelich,male,white
+582,Jacob Heever,male,white
+583,Margretha Rupperts,female,white
+584,Harmanus Fisher,male,white
+585,Jacob Algire,male,white
+586,James Lints,male,white
+587,Harpert Van Brakelen,unknown,white
+588,John Long,male,white
+589,Stephanus Mombrute,male,white
+590,Jan Leenderson,male,white
+591,Gose Van Aalstyn,male,white
+592,John Van Everen,male,white
+593,Johannes Neef,male,white
+594,Cobus Davis,male,white
+595,Frederick De Graaf,male,white
+596,Jacob Simmons,male,white
+597,Hunter Quackenbush,male,white
+598,George Frederick L. Bernhart,male,white
+599,Peter Scremling,male,white
+600,Abraham Ekker,male,white
+601,Jacob Tiefendorf,male,white
+602,Hanse Hatkok,unknown,white
+603,William Marinus,male,white
+604,Barent Frederick,male,white
+605,Thomas Zeeger,male,white
+606,Barent Hansen,male,white
+607,Robert Yates,male,white
+608,Jacob Flaunder,male,white
+609,Aron Brouwer,male,white
+610,Jury Adam Dachsteder,unknown,white
+611,Hannis Seever,male,white
+612,Frederick Service,male,white
+613,Jonathan Romjen,male,white
+614,Jeremiah Clark,male,white
+615,Harmanus Peek,male,white
+616,Michael Warner,male,white
+617,Johannes Wyse,male,white
+618,Daniel Smith,male,white
+619,Lewis Clement,male,white
+620,Daniel DeGraaf,male,white
+621,Alexander Kerk,male,white
+622,Carel Marinus,male,white
+623,Adam Gardinier,male,white
+624,John Service,male,white
+625,Abraham Philipse,male,white
+626,Crownage Kinkaid,unknown,white
+627,Jacob Truax,male,white
+628,John Rogers,male,white
+629,William Lewis,male,white
+630,Philip George Fyles,male,white
+631,Jury Potman,unknown,white
+632,Melchert Van Brawkley,male,white
+633,Nicholas Crotsenberg,male,white
+634,Godfree Aney,unknown,white
+635,Frans Van Hoorn,male,white
+636,Nicholas Quack,male,white
+637,Arent Cromwell,male,white
+638,Adam Brown,male,white
+639,Johannes Stam,male,white
+640,John Cerl,male,white
+641,George Fyles,male,white
+642,Dorethe Schink,unknown,white
+643,Evert Van Eps,male,white
+644,Thomas Van De Werken,male,white
+645,Philip Stubbort,male,white
+646,Philip Cromwell,male,white
+647,Abraham Quack,male,white
+648,Johannes Boosert,male,white
+649,Abraham D. Quack,male,white
+650,Nicholas Van Slyk,male,white
+651,Nicholas a Negro,male,Black
+652,William a Negro,male,Black
+653,Harry a Negro,male,Black
+654,Johannes Peek,male,white
+655,William Rogers,male,white
+656,Harry Lewis,male,white
+657,Johannes Service,male,white
+658,Nicholas Hansen,male,white
+659,Joseph Scot,male,white
+660,William Service,male,white
+661,John Magraw,male,white
+662,Petrus Wermer,male,white
+663,Christiaan Jane,male,white
+664,Joost Prent,male,white
+665,Christiaan Leederin,male,white
+666,Tyne Leenderson,unknown,white
+667,William Prentiss,male,white
+668,Abraham Valk,male,white
+669,John Boosert,male,white
+670,Samuel Bradt,male,white
+671,Gerrit Veeder,male,white
+672,Petrus Potman,male,white
+673,Samuel Rees,male,white
+674,Sampson Simmons,unknown,white
+675,Johannes Philipse,male,white
+676,Cato a Negro,male,Black
+677,Matthew Van Duisen,male,white
+678,Addriaan Van Sikkelen,unknown,white
+679,Thomas Barry,male,white
+680,Peter Eel,male,white
+681,Peter Frederick,male,white
+682,Johannes Fonda,male,white
+683,Robert Hillborn,male,white
+684,John Fisher,male,white
+685,Casper Van Werken,male,white
+686,Peter De Wandelaar,male,white
+687,John Molten,male,white
+688,John Bowman,male,white
+689,Adam Evertse,male,white
+690,Jacob Potman,male,white
+691,Daniel Robinson,male,white
+692,Joseph Prentiss,male,white
+693,Joost Van Slyk,male,white
+694,Jacob Sikkle,male,white
+695,Heny a Negro,unknown,Black
+696,Harmanus Horrison,male,white
+697,John Kitts,male,white
+698,Claas Van Brakelen,male,white
+699,Frederick Groat,male,white
+700,Deborah Fonda,female,white
+701,Sarah Brouwer,female,white
+702,Juliana Pikel,female,white
+703,Cataleyna Herris,unknown,white
+704,Engeltje Van Dreysen,female,white
+705,Anna Leenderson,female,white
+706,Margaret Leenderson,female,white
+707,Christina Kleyn,female,white
+708,Annatie Pruyn,female,white
+709,Neeltie an Indian,female,Native
+710,Anganietie Wemp,unknown,white
+711,Annatie Van Eps,female,white
+712,Neeltie Van Duisen,female,white
+713,Eva Jong,female,white
+714,Catharina Van Eps,female,white
+715,Magdalena Stouwiths,female,white
+716,Catharina Beemener,female,white
+717,Magdalena Service,female,white
+718,Annatie Yates,female,white
+719,Christina Grems,female,white
+720,Maria Anstes,female,white
+721,Catharina Snoch,female,white
+722,Frans Schoolcraaft,male,white
+723,Ache Bradt,unknown,white
+724,Annatie Boin,female,white
+725,Deborah Wemp,female,white
+726,Annatie Potman,female,white
+727,Margaret Jong,female,white
+728,Maria Davis,female,white
+729,Anna De Welden,female,white
+730,Neeltie Fonda,female,white
+731,Maria Butler,female,white
+732,Eva Wemp,female,white
+733,Rebecca Van Brakelen,female,white
+734,Rebecca Conyn,female,white
+735,Weyntje Van Aalstyn,female,white
+736,Elizabeth Hare,female,white
+737,Sophia Frederick,female,white
+738,Barbera Stam,female,white
+739,Catharina Neef,female,white
+740,Volkje Vrooman,female,white
+741,Rachel Wemple,female,white
+742,Susanna Mabee,female,white
+743,Anna Maria Clobilich,female,white
+744,Molly Davis,female,white
+745,Anna Pilker,female,white
+746,Ariaantie Conyn,unknown,white
+747,Frans Rupperts,male,white
+748,Barbera Neef,female,white
+749,Catharina Fisher,female,white
+750,Maria Wale,female,white
+751,Margaret Wemple,female,white
+752,Eva Kitts,female,white
+753,Margaret Halenbeck,female,white
+754,Maria Mombrute,female,white
+755,Catharina Veeder,female,white
+756,Sarah Van Brakelen,female,white
+757,Elizabeth Sternburg,female,white
+758,Catharina Long,female,white
+759,Elsje Newkerk,female,white
+760,Annatie Leenderson,female,white
+761,Gorritche Van Aalstyn,unknown,white
+762,Cornelia Van Everen,female,white
+763,Anna Neef,female,white
+764,Rebecca Davis,female,white
+765,Bata Melat,female,white
+766,Cornelia Van De Werkel,female,white
+767,Annatie Van Everen,female,white
+768,Rachel Collier,female,white
+769,Elizabeth Boosert,female,white
+770,Neeltie Van Aalstyn,female,white
+771,Sarah De Graaf,female,white
+772,Eva Bradt,female,white
+773,Mariche Smith,unknown,white
+774,Margaret Potman,female,white
+775,Neylche Quackenbush,unknown,white
+776,Johanna F. R. Bornhart,female,white
+777,Neylche Gardinier,unknown,white
+778,Deborah Conyn,female,white
+779,Elizabeth Ekker,female,white
+780,Elizabeth Tiefendorf,female,white
+781,Rachel Hansen,female,white
+782,Rachel Newkerk,female,white
+783,Maria Marinus,female,white
+784,Doreta Frederick,unknown,white
+785,Polly Weever,female,white
+786,Anna Hansen,female,white
+787,Derkje Yates,male,white
+788,Elizabeth Evertson,female,white
+789,Lena Lewis,female,white
+790,Annatie Dachsteder,female,white
+791,Anna Flaunder,female,white
+792,Elizabeth Brouwer,female,white
+793,Fransynche Schoolcraaft,unknown,white
+794,Eva Dachsteder,female,white
+795,Maria Van Brute,female,white
+796,Grietje McGraw,female,white
+797,Anna Service,female,white
+798,Eva Johnson,female,white
+799,Catharina Runyen,female,white
+800,Catharina Davis,female,white
+801,Maria Clark,female,white
+802,Sarah Peek,female,white
+803,Margaret Warner,female,white
+804,Geertruy Regtmeyr,female,white
+805,Elizabeth Wyse,female,white
+806,Elsje Pruyn,female,white
+807,Annatie Prent,female,white
+808,Maria Van Brawkley,female,white
+809,Maria Smith,female,white
+810,Eva Cromwell,female,white
+811,Cataleyna Clement,unknown,white
+812,Geertruy Van Aalstyn,female,white
+813,Margaret Marinus,female,white
+814,Maria Van Veghten,female,white
+815,Elizabeth Philipse,female,white
+816,Annatie Gardinier,female,white
+817,Catharina Service,female,white
+818,Cornelia Kinkaid,female,white
+819,Maria Grand,female,white
+820,Hasse Rogers,male,white
+821,Catharina Lewis,female,white
+822,Anna Fyles,female,white
+823,Maria Ekker,female,white
+824,Elizabeth Veeder,female,white
+825,Engeltje Fonda,female,white
+826,Sophia Dennis,female,white
+827,Engeltje Van Brawkley,female,white
+828,Christina Boosert,female,white
+829,Margaret Aney,female,white
+830,Elizabeth Van Slyk,female,white
+831,Susanna Quack,female,white
+832,Catharina Algire,female,white
+833,Catje Service,unknown,white
+834,Alida Wemp,female,white
+835,Jane Wemple,female,white
+836,Margaret Boosert,female,white
+837,Elizabeth Van De Werken,female,white
+838,Maria Stubbott,female,white
+839,Elizabeth Johnson,female,white
+840,Margaret Cromwell,female,white
+841,Peggy Wemp,female,white
+842,Elizabeth Quack,female,white
+843,Grietje Starn,female,white
+844,Maragita Wemps,unknown,white
+845,Margaret Lewis,female,white
+846,Philix a Negro,unknown,Black
+847,Lybe a Negro,unknown,Black
+848,Catje Leenderson,unknown,white
+849,Eva Peek,female,white
+850,Rachel Quack,female,white
+851,Annatie Rogers,female,white
+852,Barbera Willson,female,white
+853,Grietje Hansen,female,white
+854,Lena Service,female,white
+855,Cornelia Scot,female,white
+856,Margaret Sternburg,female,white
+857,Susanna Rambag,female,white
+858,Margagriet McGraw,unknown,white
+859,Barbera Dogslt,female,white
+860,Margaret Algire,female,white
+861,Bata Leenderson,female,white
+862,Margaret Vrooman,female,white
+863,Catharina Quack,female,white
+864,Catharina Prentiss,female,white
+865,Catharina Cromwell,female,white
+866,Neeltie Valk,female,white
+867,Catharina Waldorf,female,white
+868,Kummertje Bradt,unknown,white
+869,Engeltje Van Antwerp,female,white
+870,Sarah Wemp,female,white
+871,Maria Runner,female,white
+872,Rachel Simmons,female,white
+873,Maria Collier,female,white
+874,Abraham Yates,male,white
+875,Rachel Van Duisen,female,white
+876,Eva Veeder,female,white
+877,Elizabeth Vries,female,white
+878,Rebecca Van Sikkelen,female,white
+879,Lena Ergesinger,female,white
+880,Machtel Collier,female,white
+881,Anna Cadogan,female,white
+882,Rachel Van Aalen,female,white
+883,Geertruy Service,female,white
+884,Lena Wemple,female,white
+885,Lena Frederick,female,white
+886,Neeltie Vrooman,female,white
+887,Maria Hillborn,female,white
+888,Geertruy Fisher,female,white
+889,Margaret Fisher,female,white
+890,Rachel Lewis,female,white
+891,Annatie De Wandelaar,female,white
+892,Derkje Dachsteder,male,white
+893,Rebecca Rubith,female,white
+894,Eva Bowman,female,white
+895,Fayna Schower,unknown,white
+896,Geertruy Lewis,female,white
+897,Elizabeth Hover,female,white
+898,Annatie Prentiss,female,white
+899,Geertruy Van Slyk,female,white
+900,Maria Sikkle,female,white
+901,Sarah Jones,female,white
+902,Grietje G. Preice,female,white
+903,Christien Frank,female,white
+904,Yaney Groat,unknown,white
+905,John Johnson,male,white
+906,Jift a Negro,unknown,Black
+907,Margaret Krootsin,female,white
+908,Gerardus Mock,male,white
+909,Elizabeth Pret,female,white
+910,Rachel a Negro,female,Black
+911,Eva Morrhe,female,white
+912,Ariaantie Arianntje,unknown,white
+913,Elizabeth Conely,female,white
+914,Isaac Bertly,male,white
+915,Anna Mock,female,white
+916,Diana a Negro,female,Black
+917,Major Fol,male,white
