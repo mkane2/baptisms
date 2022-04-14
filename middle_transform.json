@@ -1,0 +1,244 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "de",
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      },
+      {
+        "from": [
+          "Van",
+          "van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Micheal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      },
+      {
+        "from": [
+          "Barentz",
+          "Baretnz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentz"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Samuels",
+          "Samuelz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Samuels"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Michel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "______"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ven"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Vander"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van der"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  }
+]
