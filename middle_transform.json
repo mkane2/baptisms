@@ -5,7 +5,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -27,7 +27,7 @@
         "to": "Van"
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -35,7 +35,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -57,7 +57,7 @@
         "to": "Barentz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -65,7 +65,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -78,7 +78,7 @@
         "to": "Samuels"
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -86,7 +86,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -99,7 +99,7 @@
         "to": "Michael"
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -107,7 +107,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -119,7 +119,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -127,7 +127,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -139,7 +139,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -147,7 +147,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -159,7 +159,7 @@
         "to": "de"
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -167,7 +167,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -179,7 +179,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -187,7 +187,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -199,7 +199,7 @@
         "to": "Van"
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -207,7 +207,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -219,7 +219,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
   },
   {
     "op": "core/mass-edit",
@@ -227,7 +227,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 1 middle",
+    "columnName": "sponsors 2 middle",
     "expression": "value",
     "edits": [
       {
@@ -239,6 +239,352 @@
         "to": "Van der"
       }
     ],
-    "description": "Mass edit cells in column sponsors 1 middle"
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "’Jeems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van Den",
+          "Van den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Du",
+          "du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Du"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Gerrison van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      },
+      {
+        "from": [
+          "Petist De",
+          "petist de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Baptist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Goerisson Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jurri",
+          "Jurry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurri"
+      },
+      {
+        "from": [
+          "van den",
+          "von den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Batist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hend."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(Garret?) V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sponsors 2 middle",
+          "expression": "value",
+          "columnName": "sponsors 2 middle",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "V.",
+                "l": "V."
+              }
+            },
+            {
+              "v": {
+                "v": "Du",
+                "l": "Du"
+              }
+            },
+            {
+              "v": {
+                "v": "",
+                "l": "(Garret?) V."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mc"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ten",
+          "Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ten"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "of Jurri",
+          "of Jurry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "of Jurri"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 2 middle"
   }
 ]
