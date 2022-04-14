@@ -1,0 +1,757 @@
+id,name,gender
+0,Johannes Sanderz Glen,male
+1,Diewer Wendel,unknown
+2,Jesias Swaart,unknown
+3,Eva Teunisz,female
+4,Teunis Viele,male
+5,Elizabeth Van Eps,female
+6,Isaac Truax,male
+7,Maria Browers,female
+8,Jan Vroman,male
+9,Geesie Simonz,unknown
+10,Simon Groot,male
+11,Geertie Janz,unknown
+12,Gisbert Gerritse,male
+13,Elizabeth Janz,female
+14,Samuel Bratt,male
+15,Susanna Van Slyk,female
+16,Daniel Janz,male
+17,Maria Groot,female
+18,Jacobus Peek,male
+19,Elizabeth Teunisz,female
+20,Hendrick Brouwer,male
+21,Maritie Pieterse,unknown
+22,Jonathan Stephens,male
+23,Lea Lea,female
+24,Isaac Swits,male
+25,Susanna Groot,female
+26,Jan Peterz Mabee,male
+27,Annatie Borsboom,unknown
+28,Barent Wemple,unknown
+29,Volkye Simonz,unknown
+30,Dirk Bratt,male
+31,Maritie Van Eps,unknown
+32,Geertie Simonz,unknown
+33,Tryntie Helmerz,unknown
+34,David Marinus,male
+35,Rachel Hansz,female
+36,William Hall,male
+37,Tryntie Claese,unknown
+38,Claes Graven,male
+39,Elizabeth Brouwer,female
+40,Geertie Van Slyk,unknown
+41,Harman Vedder,unknown
+42,Johannes Glen,male
+43,Arend Vedder,male
+44,Sara Groot,female
+45,Jonathan Dyer,male
+46,Maria Dirkz,female
+47,Philip Philips,male
+48,Elizabeth Gansevoort,female
+49,Jacobus Van Dyck,male
+50,Jacomin Glen,unknown
+51,Jan Mabee,male
+52,Maria Borsboom,female
+53,Martin Van Benthuysen,male
+54,Feytie Borsboom,unknown
+55,Johannes Simonz,male
+56,Susanna Wemple,female
+57,Jeremy Fikston,male
+58,Catharina Helmerz,female
+59,Cornelius Van Slyk,male
+60,Clara Janz,female
+61,Maria Hesling,female
+62,Maria Van Eps,female
+63,Volkert Simonz Vedder,male
+64,Jannitie Schermerhorn,unknown
+65,Adam Vroman,male
+66,Geertie Hemstreet,unknown
+67,Manasse Sixberry,unknown
+68,Pietertie Janz,unknown
+69,Cornelius Slingerland,male
+70,Aeche Mabee,unknown
+71,Bartholomeus Pickert,male
+72,Aeche Claese,unknown
+73,Claartie Bratt,unknown
+74,Barent Vroman,unknown
+75,Tryntie Hemstreet,unknown
+76,Jan Baptist Van Eps,male
+77,Helena Glen,female
+78,Abraham Groot,male
+79,Hester Vischer,female
+80,Jelles Van Vorst,unknown
+81,Anna Borsboom,female
+82,Carel Hansz,male
+83,Elizabeth Rinkout,female
+84,Albert Vedder,male
+85,Maria Glen,female
+86,Thomas Smith,male
+87,Maria Kobus,female
+88,Cornelius Viele,male
+89,Diewer Van Petten,unknown
+90,Jan Lensh,male
+91,Helena Janz,female
+92,Peter Mangel,male
+93,Jannitie Du Schein,unknown
+94,William Haen,male
+95,Jelles Fonda,unknown
+96,Rachel Winne,female
+97,Dirk Arentz Bratt,male
+98,Maria Bratt,female
+99,Geertie Rinkout,unknown
+100,Louis Viele,male
+101,Maria Freer,female
+102,Claes Franz,male
+103,Barbara Hemstreet,female
+104,Margriet Hemstreet,mostly_female
+105,Johannes Teller,male
+106,Susanna Wendel,female
+107,Jelles de Lagrange,unknown
+108,Jannitie Molenaer,unknown
+109,Eva Claese,female
+110,Jan Danielz,male
+111,Agnietie Vedder,unknown
+112,Stephan Bedie,male
+113,Maria Potman,female
+114,Benjamin Lennen,male
+115,Feytie Joncker,unknown
+116,Pietertie Jonkers,unknown
+117,Johannes Wemple,male
+118,Cataliena Schermerhorn,unknown
+119,Jeremias Dikston,male
+120,Rachel Tol,female
+121,Johannes Quackenbush,male
+122,Anna Cluet,female
+123,Mathiew Bovie,unknown
+124,Catharina Baraway,female
+125,Martin Van Slyk,male
+126,Geertie Gerritse,unknown
+127,Johannes Fort,male
+128,Margriet Rinkout,mostly_female
+129,Margriet Van Slyk,mostly_female
+130,Thomas Nobel,male
+131,Catharina Marinus,female
+132,Teunis Dirkz,male
+133,Cataliena Van Petten,unknown
+134,Lea Stephens,female
+135,Philip Groot,male
+136,Sara Peek,female
+137,Thomas Davis,male
+138,Catharina Kleyn,female
+139,Daniel Van Olinda,male
+140,Elizabeth Kreiger,female
+141,Johannes Vroman,male
+142,Jurgen Rinkout,male
+143,Maria Idersen,female
+144,Carel Tol,male
+145,William Bowen,male
+146,Rachel Jonkers,female
+147,Arend Van Petten,male
+148,Johanna Conyn,female
+149,Caspar Springsteen,male
+150,Eva Mabee,female
+151,Jan Wemple,male
+152,Johannes Cluet,male
+153,Bata Slegenhorst,female
+154,Helena Sanderz Glen,female
+155,Harman Van Slyk,unknown
+156,Jannitie Vroman,unknown
+157,Jan Hendrickz Bont,male
+158,Jannitie Conyn,unknown
+159,Maria Sanderz Glen,female
+160,Caleb Beck,male
+161,Anna Mol,female
+162,Peter Van Vranken,male
+163,Ariaantie Van der Volgen,unknown
+164,Peter Ouderkirk,male
+165,Hilletie Cluet,unknown
+166,Laurens Osterhout,male
+167,Rebecca Roosa,female
+168,William Cromwell,male
+169,Wyntye Roosa,unknown
+170,Gisbert Roosa,male
+171,Margriet Bont,mostly_female
+172,Arend Bratt,male
+173,Martin Benthuysen,male
+174,Peter Viele,male
+175,Anna Myndertz,female
+176,Tom Davie,male
+177,Johannes Danielz,male
+178,Carertye Bratt,unknown
+179,Simon a negro,male
+180,Susanna Tomassen a negro,female
+181,Geertie Van Vranken,unknown
+182,Tryntie VanderVolgen,unknown
+183,Catye Schermerhorn,unknown
+184,Isaac Van Valkenburg,male
+185,Lydia Van Slyk,female
+186,Jacobus Cromwell,male
+187,Maria Mabee,female
+188,Ezechial Masten,unknown
+189,Petronella Viele,female
+190,Johannes Myndertz,male
+191,Philip Bosi,male
+192,Bretje Bratt,unknown
+193,Geertie Simonz Vedder,unknown
+194,Evert Van Eps,male
+195,Eva Tol,female
+196,Johannes Vedder,male
+197,Maria Fort,female
+198,William Marinus,male
+199,Bata Kleyn,female
+200,Dirk Groot,male
+201,Elizabeth Van der Volgen,female
+202,Maria Philips,female
+203,Peter Vroman,male
+204,Geertie Van Alstyne,unknown
+205,Simon Danielz,male
+206,Maria Peek,female
+207,Jonathan Daye,male
+208,Arend Danielz,male
+209,Sara Van Eps,female
+210,Catharina Katarina,female
+211,Adriantie Swits,unknown
+212,Peter Clement,male
+213,Annatie Rinting,unknown
+214,Wouter Vroman,male
+215,Maritie Hallenbeck,unknown
+216,Margriet Margaret,mostly_female
+217,Daniel Ketelhun,male
+218,Debora Viele,female
+219,Clara Bratt,female
+220,Claes Claese,male
+221,Rebecca Groot,female
+222,Asseurus Marcelis,unknown
+223,Sara Hemstreet,female
+224,Teunis Van der Volgen,male
+225,Sara Freer,female
+226,Arend Potman,male
+227,Lysabeth Ackerman,unknown
+228,Victor Potman,male
+229,Geertie Mabee,unknown
+230,Jan Barentz Wemple,male
+231,Sara Swaart,female
+232,Anna Beck,female
+233,William Brouwer,male
+234,Rebecca Vedder,female
+235,Jan Schermerhorn,male
+236,Engeltie Vroman,unknown
+237,Margriet Van Vranken,mostly_female
+238,Walter Vroman,male
+239,Maritie Vroman,unknown
+240,Jesse de Graff,male
+241,Hilletie de Graff,unknown
+242,Jannitie Van Petten,unknown
+243,Ariaantie Wemple,unknown
+244,Antoine Schaick,male
+245,Anna Schaick,female
+246,Jacob Warnouff,male
+247,Sibilla Warnouff,female
+248,Hans Michael Ebich,male
+249,Eva Ebich,female
+250,Geertie Potman,unknown
+251,Maritie Viele,unknown
+252,Simon Swits,male
+253,Geesie Swits,unknown
+254,Diewer Viele,unknown
+255,Johannes Peek,male
+256,Annatie Peek,unknown
+257,Daniel Danielz,male
+258,Ariaantie Danielz,unknown
+259,Laurens Van der Volgen,male
+260,Hendrick Rysedorph,male
+261,Anna Margriet Rysedorph,female
+262,Rachel Fonda,female
+263,Teunis Swaart,male
+264,Syntie Swaart,unknown
+265,Harman Philips,unknown
+266,Sara Danielz,female
+267,Cornelius Potman,male
+268,Jacomin Potman,unknown
+269,Elizabeth Van Vorst,female
+270,Sara Wemple,female
+271,Reyer Schermerhorn,male
+272,Margriet Schermerhorn,mostly_female
+273,Barbara Franz,female
+274,Simon Simon,male
+275,Susanna Thomassen,female
+276,Jannitie Simonz,unknown
+277,Eva Van Eps,female
+278,Anna Clement,female
+279,Adam Michael Smith,male
+280,Brechie Smith,unknown
+281,William Copernol,male
+282,Engeltie Copernol,unknown
+283,Matte Peck,unknown
+284,Sara Vedder,female
+285,Geertie Brackel,unknown
+286,Catrientie Van der Volgen,unknown
+287,Laurens Claese,male
+288,Gertruit Van Petten,unknown
+289,Ariaantie Swits,unknown
+290,Elizabeth Ackerman,female
+291,Teunis Claese,male
+292,Sara Harmanz,female
+293,Arend Samuels Bratt,male
+294,Catrientie Mabee,unknown
+295,Sander Glen,male
+296,Rebecca Glen,female
+297,Corset Vedder,unknown
+298,Neeltie Chrisstianz,unknown
+299,Gertruit Van Alstyne,unknown
+300,Annatie Beck,unknown
+301,Christina Vroman,female
+302,Joseph Clement,male
+303,Anna Peek,female
+304,Robert Yates,male
+305,Maria de Graff,female
+306,Ariaantie Vedder,unknown
+307,Cornelius Christiansen,male
+308,Annatie Chrisstianz,unknown
+309,Arnold de Graff,male
+310,Ariaantie de Graff,unknown
+311,Hendrick Vroman,male
+312,Maria Wemple,female
+313,Helmer Simonz,male
+314,Annatie Mabee,unknown
+315,Engeltie Lantzgraff,unknown
+316,Maritie Lappen,unknown
+317,Jannitie Bratt,unknown
+318,Samuel Dachzi,male
+319,Elizabeth Dachzi,female
+320,Carel Born,male
+321,Bathsheba Bratt,unknown
+322,Agien Slingerland,unknown
+323,Jacob Van der Linde,male
+324,Eva Van der Linde,female
+325,Lydia Van Valkenburg,female
+326,Hilletie Hennion,unknown
+327,Frederick Cluet,male
+328,Francientie de Monde,unknown
+329,Nicholas Van Petten,male
+330,Rebecca Van Petten,female
+331,Arend Schermerhorn,male
+332,Annatie Fonda,unknown
+333,Dirk Franz,male
+334,Geertie Vedder,unknown
+335,Hilletie Ouderkirk,unknown
+336,Rebecca Danielz,female
+337,Abraham Fort,male
+338,Anna Barber Cluet,female
+339,Nicholas Stensel,male
+340,Elizabeth de Graff,female
+341,Jacob Schermerhorn,male
+342,Neeltie Vedder,unknown
+343,Hendrick Hagedorn,male
+344,Anna Hagedorn,female
+345,Tryntie Mabee,unknown
+346,Geertie Gysbertsz,unknown
+347,Catrientie Van Brackel,unknown
+348,Libetie Potman,unknown
+349,Geertie Seger,unknown
+350,Maritie Seger,unknown
+351,Margriet Bratt,mostly_female
+352,Gertruit Claese,unknown
+353,Annatie Christiansen,unknown
+354,Sara Marcelis,female
+355,Jacob Van Olinda,male
+356,Eva Van Olinda,female
+357,Maria Yates,female
+358,Eldert Tymens,unknown
+359,Hester Tymens,female
+360,Daniel Tol,male
+361,Geertie Bratt,unknown
+362,Sara Van der Volgen,female
+363,Peter Danielz,male
+364,Engeltie Mabee,unknown
+365,Peter Quackenbush,male
+366,Neeltie Quackenbush,unknown
+367,Eva Slingerland,female
+368,Abraham Truax,male
+369,Christina Truax,female
+370,Margriet Franz,mostly_female
+371,Gertruit Myndertz,unknown
+372,Simon Vroman,male
+373,Eytie Vroman,unknown
+374,Helmer Vedder,male
+375,Velt Koen,unknown
+376,Anna Katarina,female
+377,Martin Partort,male
+378,Maria Elisabeth,female
+379,Joseph Brackel,male
+380,Christina Swaart,female
+381,Feytie Lennen,unknown
+382,Andries Van Petten,male
+383,Mayke Van Petten,female
+384,Engeltie Schermerhorn,unknown
+385,Maritie Vedder,unknown
+386,Elizabeth Stensel,female
+387,Anna Barbara,female
+388,Maritie Wemple,unknown
+389,Meyndert Wemple,unknown
+390,Hilletie Wemple,unknown
+391,Jan Fort,male
+392,Catharina Bratt,female
+393,Grietien Bratt,unknown
+394,Samuel Willemsz,male
+395,Francientie Ackerman,unknown
+396,Jan Bartntz,male
+397,Helena Van Tricht,female
+398,Jacobus Lagrange,male
+399,Engeltie Vedder,unknown
+400,Eytie Dellemont,unknown
+401,Margriet Teller,mostly_female
+402,Walter Swaart,male
+403,Bata Swaart,female
+404,Gertruit Van der Volgen,unknown
+405,Nicholas Schuyler,male
+406,Elsie Wendel,female
+407,Margriet Bosi,mostly_female
+408,Rebecca Swits,female
+409,Joseph Brogsheal,male
+410,Engeltie Danielz,unknown
+411,Jacob Schoolcraft,male
+412,Madalena Schoolcraft,female
+413,Samuel Hagedorn,male
+414,Dina Hagedorn,female
+415,Jan de Graff,male
+416,Emmetie Bosi,unknown
+417,Jacob Swits,male
+418,Helena Swits,female
+419,Elizabeth Groot,female
+420,Abraham Lightall,male
+421,Anna Lightall,female
+422,Catharina Van Brackel,female
+423,Abraham Mabee,male
+424,Annatie Vedder,unknown
+425,Wilhelmus Vedder,male
+426,Thomas Harris,male
+427,Margriet Harris,mostly_female
+428,Cataliena Van Benthuysen,unknown
+429,Adam Smith,male
+430,Bregyd Smith,unknown
+431,Bata Marinus,female
+432,David Liewes,male
+433,Maria Liewes,female
+434,Jan Christiansen,male
+435,Neeltie Christiansen,unknown
+436,Simon Vedder,male
+437,Margriet Vedder,mostly_female
+438,Elizabeth Elisabeth,female
+439,Evert Ryksen,male
+440,Maria Vischer,female
+441,Joseph Bragham,male
+442,Hilletie Wandelaer,unknown
+443,Jacob Glen,male
+444,Sara Wendel,female
+445,Mayke Ten Eyck,female
+446,Maritie Fort,unknown
+447,Bata Tickston,female
+448,Catharina David,female
+449,Anna Stephens,female
+450,Capt Jan Schott,unknown
+451,Madalena Schott,female
+452,Benjamin Van Vleck,male
+453,Anna Gilbertz,female
+454,Claes Van Vranken,male
+455,Geertie Quackenbush,unknown
+456,Thomas Hall,male
+457,Cornelia Christiansen,female
+458,Anna Franz,female
+459,Meyndert Van Gysling,unknown
+460,Suster Viele,unknown
+461,Engeltie Slingerland,unknown
+462,Helena DeWitt,female
+463,Claes Van Petten,male
+464,Anna Vedder,female
+465,Johannes Van Eps,male
+466,Neeltie Tol,unknown
+467,Nicholas Hansz,male
+468,Engeltie Wemple,unknown
+469,Frederick Staats,male
+470,Margriet Tygert,mostly_female
+471,Christina Lagrange,female
+472,Dirk Stouwt,male
+473,Eva Truax,female
+474,Cornelius Van Dyck,male
+475,Maritie Mabee,unknown
+476,Dina Stephens,female
+477,Peter Mabee,male
+478,Susanna Vedder,female
+479,Robert Freeman,male
+480,Maritie Lennen,unknown
+481,Owin Kanner,unknown
+482,Maria Kanner,female
+483,Annatie Graven,unknown
+484,Wilhelmus Ryckman,male
+485,Anna Wyngart,female
+486,Catharina Van der Volgen,female
+487,Wouter Swaart,male
+488,Margriet Wemple,mostly_female
+489,Nicholas Fort,male
+490,Maritie Danielz,unknown
+491,Eva de Graff,female
+492,Asseurus Wendel,unknown
+493,Annatie Van Eps,unknown
+494,Jan Dellemont,male
+495,Eva Brouwer,female
+496,Rebecca Van Antwerpen,female
+497,Cataliena Benthuysen,unknown
+498,Catharina Mabee,female
+499,Simon Speck,male
+500,Peter Danielz Van Antwerpen,male
+501,Evert Wendel,male
+502,Peter Simonz,male
+503,Claes Laurents,male
+504,Jan Lucasz,male
+505,Tryntie Borsboom,unknown
+506,Eduwart Ryms,unknown
+507,Douwe Aukes,mostly_male
+508,Douwe Fonda,mostly_male
+509,Gisbert Van Vranken,male
+510,Jan Leuksen,male
+511,Daniel Mesgrave,male
+512,Jan Van Neps,male
+513,Cornelius Swits,male
+514,Gerardus Comforts,male
+515,Claes Van Bokhoven,male
+516,Claes Gerritse,male
+517,Gisbert Van Brackel,male
+518,Johannes Fonda,male
+519,Takel Hemstreet,unknown
+520,Philip Schuyler,male
+521,Matthew Schienks,male
+522,Ephriam Wemple,unknown
+523,Bernardus Freeman,male
+524,Johannes Dyckman,male
+525,Johannes Ouderkirk,male
+526,Albert Roosa,male
+527,Martin Dellemont,male
+528,Barent Benthuysen,unknown
+529,Johannes Mingal,male
+530,Johannes Philips,male
+531,John Macintire,male
+532,Cornelius Masten,male
+533,Eldert Van Vranken,unknown
+534,Geertie Van Brackel,unknown
+535,Carel Hansz Tol,male
+536,Elizabeth Clement,female
+537,Thomas a free negro,male
+538,Sander Philips,male
+539,Claes Frederickz,male
+540,Cornelius Van der Volgen,male
+541,Johannes Marinus,male
+542,Arend Cuyler,male
+543,David Schermerhorn,male
+544,Adam Bouman,male
+545,Godfried Fydeler,male
+546,Claes Van der Volgen,male
+547,Levi Lowys,male
+548,Sweer Marcelis,male
+549,John Marinus,male
+550,Hendrick Philips,male
+551,Jacobus Bratt,male
+552,Johannes Douwe,male
+553,Capt Philip Schuyler,unknown
+554,Abraham Glen,male
+555,Aukes Bratt,unknown
+556,Bartley Pickart,male
+557,Volkert Vedder,male
+558,Andries de Graff,male
+559,Jacobus Van Gysling,male
+560,Hester Groot,female
+561,Jacobus Vedder,male
+562,Christian,unknown
+563,Isaac de Graff,male
+564,Simon Volkertz,male
+565,Simon Tol,male
+566,Abraham de Graff,male
+567,Peter Brouwer,male
+568,Jan Fonda,male
+569,Susanna Swits,female
+570,Nicholas Franz,male
+571,Hendrick Vedder,male
+572,Jacob Mabee,male
+573,Johannes Van Slyk,male
+574,Harman Wendel,unknown
+575,William Sixberry,male
+576,Elizabeth Harris,female
+577,Cornelius Vroman,male
+578,Jan Farley,male
+579,Arend Staats,male
+580,Jacob Truax,male
+581,Hendrick Stephens,male
+582,William Teller,male
+583,Johannes Schott,male
+584,Hendrick Wemple,male
+585,Jan Marcelis,male
+586,Peter Ryckman,male
+587,Nicholas Stephens,male
+588,Abraham Leythal,male
+589,Jacob Fort,male
+590,Johannes de Graff,male
+591,Peter Bennoway,male
+592,Isaac Quackenbush,male
+593,Johannes Bratt,male
+594,Annatie Glen,unknown
+595,Maria Teunisz,female
+596,Elizabeth Robert,female
+597,Elizabeth Rinkvels,female
+598,Annatie Sanders,unknown
+599,Diewer Glen,unknown
+600,Ariaantie Schermerhorn,unknown
+601,Jannitie Reyersz,unknown
+602,Elizabeth Peek,female
+603,Rebecca Truax,female
+604,Angietje Vedder,unknown
+605,Jacomin Van Dyck,unknown
+606,Hendrick Van Dyck,male
+607,Geertie Vroman,unknown
+608,Annatie Viele,unknown
+609,Anna Wemple,female
+610,Aegie Janz,unknown
+611,Catharina Vroman,female
+612,Hilletie Corneliusz,unknown
+613,Bata Smith,female
+614,Maritie Glen,unknown
+615,Neeltie Claese,unknown
+616,Hilletie Van Olinda an Indian,unknown
+617,Suster Bois,unknown
+618,Ariaantie Bratt,unknown
+619,Maria Bocke,female
+620,Geertie Takel,unknown
+621,Rebecca Janz,female
+622,Volkertje Simonz,unknown
+623,Tryntie Franz,unknown
+624,Maria Swaart,female
+625,Catalyntya Schermerhorn,unknown
+626,Susanna Wemple Meindertsz,female
+627,Eitye Dirkz,unknown
+628,Magtelt Post,unknown
+629,Brechie Evertz,unknown
+630,Eva Arentz,female
+631,Eva Norman,female
+632,Eva Swaart,female
+633,Lisabit Lapate,unknown
+634,Maria Lockermans,female
+635,Maria Mesgrave,female
+636,Jacomin Sanderz Glen,unknown
+637,Geertie Claese,unknown
+638,Angeneta Vedder,unknown
+639,Eva Bratt,female
+640,Ariaantie Arentz,unknown
+641,Eva Andriesz,female
+642,Hester Tierkz,female
+643,Brechie Schermerhorn,unknown
+644,Gesina Beekman,female
+645,Jannitie Viele,unknown
+646,Eva Cromwell,female
+647,Geesie Bont,unknown
+648,Elizabeth Viele,female
+649,Geertie Benthuysen,unknown
+650,Maria Van Vranken,female
+651,Cataliena Wemple,unknown
+652,Maria Macintire,female
+653,Anna de Walon,female
+654,Geesie Vroman,unknown
+655,Syntje Vroman,unknown
+656,Elizabeth Schuyler,female
+657,Margriet Fort,mostly_female
+658,Maria Van der Volgen,female
+659,Maria Kleyn,female
+660,Jannitie Van Slyk,unknown
+661,Tryntie Simonz,unknown
+662,Maria Danielz,female
+663,Elizabeth Philips,female
+664,Margriet Van Ivren,mostly_female
+665,Elizabeth Tol,female
+666,Volkye Wemple,unknown
+667,Geertie Slingerland,unknown
+668,Andrew McKhant,male
+669,John Towman,male
+670,Geertie Van Petten,unknown
+671,Aegie Pickart,unknown
+672,Annatjen Viele,unknown
+673,Anna Fonda,female
+674,Hilletie Honeycut,unknown
+675,Annatie Pieterz Borsboom,unknown
+676,Lybetie Ackerman,unknown
+677,Susanna Teller,female
+678,Jan Godfried Vylelaar,male
+679,Anna Elisabet Fydeler,female
+680,Margriet Bouman,mostly_female
+681,Elizabeth Potman,female
+682,Maritie Bratt,unknown
+683,Elizabeth Bratt,female
+684,Jannitie Vedder,unknown
+685,Anna Ganesvort,female
+686,Neeltie Beekman,unknown
+687,Lana Van Slyk,female
+688,Tryntie Vroman,unknown
+689,Eva Van Petten,female
+690,Marrtgien Swaart,unknown
+691,Maria Christiansen,female
+692,Tryntie Vedder,unknown
+693,Anna Barbara Quackenbush,female
+694,Sara de Graff,female
+695,Bata Cluet,female
+696,Maritie Takelz,unknown
+697,Maritie Hoek,unknown
+698,Neeltie Marinus,unknown
+699,Claartie Dellemont,unknown
+700,Geertie Tol,unknown
+701,Maritie Tymens,unknown
+702,Maritie Van der Volgen,unknown
+703,Susanna Bratt,female
+704,Catharina Van Vranken,female
+705,Elizabeth Truax,female
+706,Annatie Mol,unknown
+707,Sara Glen,female
+708,Gertruit Van Slyk,unknown
+709,Francientie Cluet,unknown
+710,Catharina Vedder,female
+711,Ariaantie Volkertz,unknown
+712,Volkye Vedder,unknown
+713,Elizabeth Van Tricht,female
+714,Eva Groot,female
+715,Carertie Van Slyk,unknown
+716,Maritie Teller,unknown
+717,Cathrientie,unknown
+718,Agnietie Danielz,unknown
+719,Tanneke Fonda,female
+720,Catharina Hall,female
+721,Cataliena Truax,unknown
+722,Debora Tichston,female
+723,Saeertie Glen,unknown
+724,Annatie Stephens,unknown
+725,Celia Kulers,female
+726,Maritie Van Slyk,unknown
+727,Feytie Vedder,unknown
+728,Maritie Freeman,unknown
+729,Catharina Scharp,female
+730,Hester Wendel,female
+731,Johanna Beck,female
+732,Jacomin Viele,unknown
+733,Maritie Eva,unknown
+734,Tryntie Takelz Hemstreet,unknown
+735,Johanna Bratt,female
+736,Anna Margrieta Philips,female
+737,Annatie Teller,unknown
+738,Hester Schott,female
+739,Maria Groendyk,female
+740,Annatie Hallenbeck,unknown
+741,Neeltie Ryckman,unknown
+742,Cornelius Gilbertz,male
+743,Anna Claese,female
+744,Annatie Fort,unknown
+745,Tryntie Van Coewenhoven,unknown
+746,Cornelia Bratt,female
+747,Geertie Ten Eyck,unknown
+748,Margriet Wendel,mostly_female
+749,Susanna Wolef,female
+750,Sara Wyngart,female
+751,Jacomyntje Sanderz,unknown
+752,Capt Sander,unknown
+753,Lysbet Aertsen,unknown
+754,Jacomyntje Van Dyk,unknown
+755,Feitje Benthusen,unknown
