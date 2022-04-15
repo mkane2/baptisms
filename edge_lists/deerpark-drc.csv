@@ -354,7 +354,7 @@ year,source,target
 1749,Abraham Van Aken Hornbeck,Catharina Terwilgen
 1749,Aard Middagh,Ariaantie Van Etten
 1749,Arie Kortrecht,Elizabeth Kohl
-1847,Hendrick Kuikendal,Elizabeth Kohl
+1747,Hendrick Kuikendal,Elizabeth Kohl
 1749,Johannes Kohl,Pieternella Van Aken
 1749,Joris Davis,Debora Schoonhoven
 1749,Petrus Decker,Magdalena Osterhoudt
@@ -447,10 +447,10 @@ year,source,target
 1753,Abraham Chambers,Helena Westbroeck
 1753,Joseph Westbroeck,Elizabeth Kuikendal
 1753,Abraham Cuddebeck,Hester Swartwout
-1573,Johannes Kohl,Pieternella Van Aken
+1753,Johannes Kohl,Pieternella Van Aken
 1753,Daniel Gonsales,Elizabeth Van Vliet
 1754,Benjamin Depuy,Elizabeth Swartwout
-1574,Johannes Caspar Fryenmout,Magdalena Van Etten
+1754,Johannes Caspar Fryenmout,Magdalena Van Etten
 1754,Jacob Middagh,Sara Decker
 1754,Daniel Van Aken,Lea Kittel
 1754,James Wales,Elizabeth Kittel
@@ -983,7 +983,7 @@ year,source,target
 1749,Abraham Van Aken Hornbeck,Jacob Van Aken
 1749,Aard Middagh,Dirk Kittel
 1749,Arie Kortrecht,Johannes Westfael
-1847,Hendrick Kuikendal,William Kohl
+1747,Hendrick Kuikendal,William Kohl
 1749,Johannes Kohl,Johannes Van Aken
 1749,Joris Davis,Thomas Decker
 1749,Petrus Decker,Gerardus Swartwout
@@ -1076,10 +1076,10 @@ year,source,target
 1753,Abraham Chambers,Solomon Westbroeck
 1753,Joseph Westbroeck,Dirk Westbroeck
 1753,Abraham Cuddebeck,Gerardus Swartwout
-1573,Johannes Kohl,Jacob Van Aken
+1753,Johannes Kohl,Jacob Van Aken
 1753,Daniel Gonsales,Benjamin Van Vliet
 1754,Benjamin Depuy,Jacob Hornbeck
-1574,Johannes Caspar Fryenmout,Cornelius Van Etten
+1754,Johannes Caspar Fryenmout,Cornelius Van Etten
 1754,Jacob Middagh,Jacob Middagh
 1754,Daniel Van Aken,Abraham Van Aken
 1754,James Wales,Caspar Kimmel
@@ -1596,7 +1596,7 @@ year,source,target
 1749,Abraham Van Aken Hornbeck,Sara Van Aken
 1749,Aard Middagh,Rachel Van Etten
 1749,Arie Kortrecht,Apollonia Kortrecht
-1847,Hendrick Kuikendal,Sara Kohl
+1747,Hendrick Kuikendal,Sara Kohl
 1749,Johannes Kohl,Jannitie Van Aken
 1749,Joris Davis,Jannitie Van Niuwegen
 1749,Petrus Decker,Hester Swartwout
@@ -1682,9 +1682,9 @@ year,source,target
 1753,Abraham Chambers,Hester Bevier
 1753,Joseph Westbroeck,Jennek Van Keuren
 1753,Abraham Cuddebeck,Maria Osterhoudt
-1573,Johannes Kohl,Maria Kohl
+1753,Johannes Kohl,Maria Kohl
 1753,Daniel Gonsales,Debora Van Vliet
-1574,Johannes Caspar Fryenmout,Hilletie Westbroeck
+1754,Johannes Caspar Fryenmout,Hilletie Westbroeck
 1754,Jacob Middagh,Sara Kuikendal
 1754,Daniel Van Aken,Jannitie de Wit
 1754,James Wales,Helena Kimmel
@@ -2239,7 +2239,7 @@ year,source,target
 1749,Catharina Terwilgen,Jacob Van Aken
 1749,Ariaantie Van Etten,Dirk Kittel
 1749,Elizabeth Kohl,Johannes Westfael
-1847,Elizabeth Kohl,William Kohl
+1747,Elizabeth Kohl,William Kohl
 1749,Pieternella Van Aken,Johannes Van Aken
 1749,Debora Schoonhoven,Thomas Decker
 1749,Magdalena Osterhoudt,Gerardus Swartwout
@@ -2335,10 +2335,10 @@ year,source,target
 1753,Helena Westbroeck,Solomon Westbroeck
 1753,Elizabeth Kuikendal,Dirk Westbroeck
 1753,Hester Swartwout,Gerardus Swartwout
-1573,Pieternella Van Aken,Jacob Van Aken
+1753,Pieternella Van Aken,Jacob Van Aken
 1753,Elizabeth Van Vliet,Benjamin Van Vliet
 1754,Elizabeth Swartwout,Jacob Hornbeck
-1574,Magdalena Van Etten,Cornelius Van Etten
+1754,Magdalena Van Etten,Cornelius Van Etten
 1754,Sara Decker,Jacob Middagh
 1754,Lea Kittel,Abraham Van Aken
 1754,Elizabeth Kittel,Caspar Kimmel
@@ -2863,7 +2863,7 @@ year,source,target
 1749,Catharina Terwilgen,Sara Van Aken
 1749,Ariaantie Van Etten,Rachel Van Etten
 1749,Elizabeth Kohl,Apollonia Kortrecht
-1847,Elizabeth Kohl,Sara Kohl
+1747,Elizabeth Kohl,Sara Kohl
 1749,Pieternella Van Aken,Jannitie Van Aken
 1749,Debora Schoonhoven,Jannitie Van Niuwegen
 1749,Magdalena Osterhoudt,Hester Swartwout
@@ -2952,9 +2952,9 @@ year,source,target
 1753,Helena Westbroeck,Hester Bevier
 1753,Elizabeth Kuikendal,Jennek Van Keuren
 1753,Hester Swartwout,Maria Osterhoudt
-1573,Pieternella Van Aken,Maria Kohl
+1753,Pieternella Van Aken,Maria Kohl
 1753,Elizabeth Van Vliet,Debora Van Vliet
-1574,Magdalena Van Etten,Hilletie Westbroeck
+1754,Magdalena Van Etten,Hilletie Westbroeck
 1754,Sara Decker,Sara Kuikendal
 1754,Lea Kittel,Jannitie de Wit
 1754,Elizabeth Kittel,Helena Kimmel
@@ -3509,7 +3509,7 @@ year,source,target
 1749,Jacob Van Aken,Sara Van Aken
 1749,Dirk Kittel,Rachel Van Etten
 1749,Johannes Westfael,Apollonia Kortrecht
-1847,William Kohl,Sara Kohl
+1747,William Kohl,Sara Kohl
 1749,Johannes Van Aken,Jannitie Van Aken
 1749,Thomas Decker,Jannitie Van Niuwegen
 1749,Gerardus Swartwout,Hester Swartwout
@@ -3598,9 +3598,9 @@ year,source,target
 1753,Solomon Westbroeck,Hester Bevier
 1753,Dirk Westbroeck,Jennek Van Keuren
 1753,Gerardus Swartwout,Maria Osterhoudt
-1573,Jacob Van Aken,Maria Kohl
+1753,Jacob Van Aken,Maria Kohl
 1753,Benjamin Van Vliet,Debora Van Vliet
-1574,Cornelius Van Etten,Hilletie Westbroeck
+1754,Cornelius Van Etten,Hilletie Westbroeck
 1754,Jacob Middagh,Sara Kuikendal
 1754,Abraham Van Aken,Jannitie de Wit
 1754,Caspar Kimmel,Helena Kimmel
