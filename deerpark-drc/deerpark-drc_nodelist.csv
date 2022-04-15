@@ -1,0 +1,668 @@
+id,name
+0,Stephan Ditsoort
+1,Sara Hornbeck
+2,Jacob Kuikendal
+3,Sara Westfael
+4,Joost Hornbeck
+5,Eegje Van Vliet
+6,Jacob Cuddebeck
+7,Margriet Prevost
+8,Jacob Decker
+9,Anna Kortrecht
+10,Teunis Quick
+11,Claertie de Hooges
+12,Cornelius Kuikendal
+13,Maria Westfael
+14,Thomas Quick
+15,Geertie Decker
+16,Jan Middagh
+17,Geertie Klearwater
+18,Jurian Westfael
+19,Maritie Cuddebeck
+20,Jacob Westfael
+21,Margriet de Duytser
+22,Abel Westfael
+23,Annatie Bogaert
+24,Mattheus Kuikendal
+25,Jannitie Westfael
+26,Johannes Quick
+27,Brechie Middagh
+28,Rachel Hornbeck
+29,Geertie Brinck
+30,Sara Ditsoort
+31,Dirk Westbroeck
+32,Jannitie Van Keuren
+33,Hendrick Decker
+34,Annatie Ditsoort
+35,Peter Kuikendal
+36,Emmetie Decker
+37,Jacob Rosenkranz
+38,Sara Decker
+39,Cornelius Westbroeck
+40,Annatie Rosa
+41,Samuel Schamers
+42,Sara Kortrecht
+43,Arie Vredenburgh
+44,Sara Rosenkranz
+45,Dirk Quick
+46,Apollonia Van Garden
+47,Abraham Kermer
+48,Sara Schamers
+49,William Kortrecht
+50,Margriet Johnson
+51,Hendrick Haldring
+52,Annatie Decker
+53,Hue Pugh
+54,Helena Brinck
+55,Solomon Davis
+56,Lea Decker
+57,Henrich Henrickse Kortrecht
+58,Margriet Decker
+59,Henrich Kuikendal
+60,Elizabeth Kohl
+61,Gysbert Bogaert
+62,Catharina Decker
+63,Petrus Decker
+64,Magdalena Osterhoudt
+65,Jacob Middagh
+66,Sara Kuikendal
+67,Abraham Van Aken
+68,Anna de Wit
+69,David Kohl
+70,Eleonora Westfael
+71,Cornelius Krom
+72,Rebecca Schoonhoven
+73,Thomas Schoonhoven
+74,Johannes Westbroeck
+75,Magdalena Westbroeck
+76,William Cuddebeck
+77,Jacomin Elting
+78,Jan Van Etten
+79,Johannes Van Garden
+80,Margriet Quick
+81,Lambert Brinck
+82,Rachel Van Garden
+83,Arie Kortrecht
+84,Gysbert Van Garden
+85,Maria Kohl
+86,Johannes Kortrecht
+87,Margriet Dennemark
+88,Cornelius Van Aken
+89,Hester Relje
+90,Cornelius Brinck
+91,Johannes Brinck
+92,Helena Kohl
+93,Aard Middagh
+94,Ariaantie Van Etten
+95,Mattheus Brinck
+96,Abigail Bell
+97,Antoine Benschoten
+98,Margriet Wells
+99,Andries Kohl
+100,Sara Schoonmaker
+101,Lieur Kuikendal
+102,Helena Consales Duk
+103,Broer Decker
+104,Annatie Van Etten
+105,Hendrick Van Garden
+106,Eleonora Decker
+107,Cornelius Devoor
+108,Helena Westfael
+109,Johannes Hooghteeling
+110,Maritie Hornbeck
+111,Joachim Schoonmakerr
+112,Jacob Van Ortten
+113,Annatie Westbroeck
+114,Lenert Kohl
+115,Sara Van Garden
+116,Alexander Van De Winkle
+117,Annatie Rosenkranz
+118,Isaac Van Aken
+119,Rachel de Wit
+120,Johannes Westfael
+121,Apollonia Kortrecht
+122,Evert Hornbeck
+123,Helena Cuddebeck
+124,Andries Decker
+125,Divertie Maul
+126,William Van Garden
+127,Annatie Vredenburgh
+128,William Ditsoort
+129,Maria Ditsoort
+130,Philip Tailor
+131,Maria Bosch
+132,Gerardus Van Niuwegen
+133,Jannitie de Wit
+134,Barent Mollen
+135,Glaasje Andriess
+136,Terrence Devin
+137,Maritie Kuikendal
+138,Jacob Bogaert
+139,Nellie Kuikendal
+140,Jan Van Vliet
+141,Jezyntie Swartwout
+142,Hendrick Kuikendal
+143,William Waert
+144,Maritie Decker
+145,Peter Van Garden
+146,Gysbert Van Kampen
+147,Johannes Kohl
+148,Pieternella Van Aken
+149,William Kohl
+150,Hendrick Cornelis Kortrecht
+151,Jannitie Enniss
+152,Benjamin Decker
+153,Helena Kortrecht
+154,Harman Van Garden
+155,Elsie Cuddebeck
+156,Thomas Decker
+157,Jannitie Van Niuwegen
+158,Abraham Louw
+159,Dina Cuddebeck
+160,Sebastian Kortrecht
+161,Rachel Decker
+162,Cornelius Kohl
+163,Dina Brinck
+164,Peter Gemaer
+165,Tjatie de Wit
+166,Bernhardus Swartwout
+167,Neeltie Ditsoort
+168,Johannes Decker
+169,Helena Quick
+170,Andries Dingenman
+171,Cornelia Kermer
+172,John Boman
+173,Anna Middagh
+174,Hendrick Kortrecht
+175,Ebbegken Bell
+176,Antoine Van Benschoten
+177,William Enniss
+178,Elizabeth Quick
+179,Plone Van Garden
+180,Johannes Nethier
+181,William Ditschious
+182,Pieternella Kuikendal
+183,Abraham Middagh
+184,Lea Van Aken
+185,Benjamin Westfael
+186,Annatie Van Aken
+187,Jurk Westbroeck
+188,Jacob Quick
+189,Maria Westbroeck
+190,Abraham Van Kampen
+191,Susannah Depuy
+192,Hester Denis
+193,Hugh Pugh
+194,Daniel Kortrecht
+195,Johannes Caspar Fryenmout
+196,Helena Van Etten
+197,Julick Borgh
+198,Maria Bowman
+199,Hannah Middagh
+200,Abraham Wildfield
+201,Maria Wesch
+202,Caspar Kimmel
+203,Emmetie Willamse
+204,Josias Kohl
+205,Maria Kimmel
+206,Aaron Vredenburgh
+207,Jacomin Etten
+208,Simon Westfael
+209,Jannitie Westbroeck
+210,Neeltie Decker
+211,Helena Van Aken
+212,Joris Davis
+213,Debora Schoonhoven
+214,Johannes Bogaert
+215,Sara Hooghteeling
+216,Helena Osterhoudt
+217,Rachel Kortrecht
+218,Harman Rosenkranz
+219,Ariaantie Osterhoudt
+220,Maria Wells
+221,Johannes Kuikendal
+222,Elizabeth Decker
+223,John Willemsz
+224,Solomon Decker
+225,Magdalena Van Etten
+226,Maria Decker
+227,Benjamin Westbroeck
+228,Catharina Westbroeck
+229,James Mccarty
+230,Elizabeth Meyer
+231,John Prys
+232,Lucretia Ramsey
+233,John Jory Windemuth
+234,Johanna Margreta Elisabetha Bernhardin
+235,Helena Westbroeck
+236,Cornelius Van Etten
+237,Hilletie Westbroeck
+238,Abraham Van Tilbrugh
+239,Sara Calvonsher
+240,Andries de Wit
+241,Brechie Nottingham
+242,Caspar Sheefer
+243,Catharina Bernhardin
+244,Maria Kuikendal
+245,Anna Van Aken
+246,Leentie Osterhoudt
+247,Margriet Westfael
+248,Johannes Dirkse Westbroeck
+249,Sara Tack
+250,Lendert Ditsoort
+251,Geeshi Ritt
+252,Jury Philip Windemuth
+253,Maria Juliana Huber
+254,Dirk Rosenkranz
+255,Catharina Van Aken
+256,Cornelius Abraham Westfael
+257,Elizabeth Westfael
+258,Jacob Osterhoudt
+259,Annatie Terwilgen
+260,Claes Jongbloet
+261,Daniel Westfael
+262,Solomon Westbroeck
+263,Hester Bevier
+264,Jan Alderse Rosa
+265,Catharina Van Etten
+266,Catharina Rosenkranz
+267,Abraham Van Aken Hornbeck
+268,Catharina Terwilgen
+269,Benjamin Depuy
+270,Elizabeth Swartwout
+271,Petrus Quick
+272,Johanna Gonsales
+273,Abraham Schuymer
+274,Benjamin Quick
+275,Hannah Jons
+276,Daniel Kuikendal
+277,Elizabeth Van Aken
+278,Joseph Westbroeck
+279,Elizabeth Kuikendal
+280,Joseph Wallon
+281,David Devoor
+282,Geertie Hydt
+283,William Devoor
+284,Catharina Schoonmaker
+285,Mattheus Devoor
+286,Neeltie Schemerhorn
+287,Daniel Devoor
+288,Lydia Westfael
+289,Molly Leed
+290,Peter de Wit
+291,Maritie Rous
+292,Lucas Schemerhorn
+293,Sara Tice
+294,John Chandler
+295,Margriet Robert
+296,Dirk Kittel
+297,Rachel Van Etten
+298,Martinus Dewit
+299,Saartie Jons
+300,Andries Reifsnyder
+301,Susannah Wallon
+302,Cornelius Westfael
+303,Joris Kimble
+304,Jacob Van Sickel
+305,Sara Van Aken
+306,Maria Tilbrugh
+307,Abraham Seymor
+308,Nellie Van Aken
+309,Abraham Westbroeck
+310,Maria Helm
+311,Philip Swartwout
+312,Annatie Wynkoop
+313,Joel Quick
+314,Christina Middagh
+315,Thomas Duff
+316,Maria Kane
+317,Jan Rosa
+318,Thomas Murphy
+319,Maria Lundy
+320,Abraham Dirkse Westbroeck
+321,Blandina Rosenkranz
+322,Johanna Jons
+323,Jacob Van Aken
+324,Margriet Van Garden
+325,Antoine Van Etten
+326,Jan Van Sickel
+327,Geertie de Wit
+328,Jannitie Van Aken
+329,Evert Rosa Westbroeck
+330,Maria Kortrecht
+331,Benjamin Vernoi
+332,Cornelius Quick
+333,Joris Kimmel
+334,Samuel French
+335,Helena Rosenkranz
+336,Hannah Kermer
+337,Christina Keersbi
+338,Jannitie Van Garden
+339,Juliana Huber
+340,Samuel Van Vliet
+341,Tjatie Kohl
+342,Petrus Kuikendal
+343,Catharina Kittel
+344,Thomas Neffi
+345,Rebecca Krom
+346,Abraham Chambers
+347,Abraham Cuddebeck
+348,Hester Swartwout
+349,Daniel Gonsales
+350,Elizabeth Van Vliet
+351,Daniel Van Aken
+352,Lea Kittel
+353,James Wales
+354,Elizabeth Kittel
+355,Lisa Quick
+356,Jacob Gonsales
+357,Sara Westbroeck
+358,Jacob de Wit
+359,Jannitie Van Sicklen
+360,Francis Mcgee
+361,Catharina Quick
+362,Jacob Westbroeck
+363,Cornelius Middagh
+364,Elizabeth Benschoten
+365,Johannes Van Etten
+366,Maria Gonsales
+367,Johannes Van Aken
+368,Maria Van Garden
+369,James Rusle
+370,Catharina Hooghteeling
+371,Maria Van Tilbrugh
+372,Jeremiah Kittel
+373,Lea Davis
+374,Abraham Kittel
+375,Christina Westfael
+376,Thomas Wells
+377,Elizabeth de Wit
+378,Mattheus Terwilgen
+379,Elizabeth Ratier
+380,Ezechiel Decker
+381,Johanna Tilbrugh
+382,Elizabeth Van Garden
+383,Petrus Kortrecht
+384,Alexander Ivory
+385,Jannitie Decker
+386,Andries Grub
+387,Catharina Romfeld
+388,Aard Van Weyen
+389,Gideon Westbroeck
+390,Johannes Shaubus
+391,Catharina Schmidt
+392,Philip Windemuth
+393,Maria Hoever
+394,Hans C. Westbroeck
+395,Maria Dirkse Westbroeck
+396,James Everigame
+397,Anna Quick
+398,Petrus Brinck
+399,Hilletie Middagh
+400,Petrus Rosenkranz
+401,Maria Brinck
+402,Jan Davis
+403,Willemtie Linden
+404,Sara Terwilgen
+405,Margriet Hornbeck
+406,William Vredenburgh Van Garden
+407,Jannitie Terwilgen
+408,Debora Van Vliet
+409,John Breslar
+410,Elizabeth Kermer
+411,Elizabeth Kortrecht
+412,Daniel Decker
+413,Blandina Vredenburgh
+414,Solomon Kortrecht
+415,Cornelia Kohl
+416,Robert Seymor
+417,Lea Middagh
+418,James Ransen
+419,Lydia Krom
+420,Jacob Neerbas
+421,Anna Maria Rakien
+422,Johannes Leydi
+423,Ariaantie Rosenkranz
+424,Eliza Middagh
+425,Maritie Kimmel
+426,Bryan Hammen
+427,Blandientie Van Aken
+428,Benjamin Van Vliet
+429,Johanna Westfael
+430,Willemtie Snedkker
+431,Wilhelm Vredenburgh
+432,Jacob Viegli
+433,Beletie Davis
+434,Jan Decker
+435,Geertie Gamaer
+436,Debora Krom
+437,Catharina Middagh
+438,James Mollen
+439,Maria Swartwout
+440,Jacob Swartwout
+441,Lydia Decker
+442,Antoine Westbroeck
+443,Susannah Kittel
+444,Dirk Van Etten
+445,Rusje Westfael
+446,Clea Farletier
+447,Margriet Ditsoort
+448,Elizabeth Latier
+449,Andries Kroeg
+450,Hugh Shellet
+451,Hester Gemaa
+452,Martinus Kuikendal
+453,Catharina Kohl
+454,Lea Kortrecht
+455,Margriet Mollen
+456,William Prevost
+457,Michael Westfael
+458,Jurge Westfael
+459,John de Wit
+460,Cornelius Kortrecht
+461,Jacob Van Etten
+462,Jacob Ditsoort
+463,Adrian Quick
+464,Hendrick Krom
+465,Hendrick Janse Kortrecht
+466,Joseph Gonsales
+467,Jurian Tappen
+468,Benjamin Cuddenbeck
+469,Jury Westfael
+470,Josaphat Du Boys
+471,Harman Decker
+472,Laurens Kortrecht
+473,Moses Jons
+474,John Christoffel Dennemarken
+475,Samuel Swartwout
+476,Charles Van Weyen
+477,Jan Waert
+478,Abraham Kortrecht
+479,William Decker
+480,Cornelius Elmendorf
+481,Nicholas Best
+482,Gysbert Rous
+483,Solomon Wells
+484,Laurens Decker
+485,Moses Depuy
+486,James Davis
+487,Ludwig Hornbeck
+488,Mattheus Vredenburgh
+489,Johannes Maul
+490,Peter Van Aken
+491,Alexander Van Garden
+492,Solomon Kuikendal
+493,Abraham Isakse Van Aken
+494,Johannes Snauber
+495,Egbert Dewit
+496,Johannes Cornelius Westbroeck
+497,Valentyn Vocht
+498,Johannes Krom
+499,Hendrick J. Kortrecht
+500,Johannes Merchkel
+501,Jabobus Van Aken
+502,Isaac Rosa
+503,Gerardus Swartwout
+504,Jacob Devoor
+505,Johannes Depuy
+506,Paulus Dewit
+507,Isaac Slover
+508,Michael Helm
+509,Cornelius Aken
+510,Jabobus Wynkoop
+511,Petrus Westfael
+512,Cornelius de Wit
+513,Maria Hornbeck
+514,Jacob Hornbeck
+515,Samuel Gonsales
+516,Manuel Gonsales
+517,Richard Kittel
+518,Abraham Dodebeck
+519,Benjamin Thomson
+520,Philip Decker
+521,Jacob Helm
+522,John Michael Henry
+523,Jacob Davis
+524,John Kortrecht
+525,Epharim Middagh
+526,Jan Lady
+527,William Clinton
+528,Jurge Moore
+529,William Krom
+530,Koobes Van Sickel
+531,Elias Middagh
+532,Cornelius Schoonhoven
+533,Petrus Middagh
+534,Leonard Windemuth
+535,Jan Dirikse Westbroeck
+536,Jan Citel
+537,Adam Cheat
+538,Nicholas Brinck
+539,Dirk Van Keuren Westbroeck
+540,Elias Kortrecht
+541,Johannes Osterhoudt
+542,Daniel Van Vliet
+543,James Klerk
+544,Harman Van Inwegen
+545,Hans Decker
+546,Johannes de Wit
+547,Eva Swartwout
+548,Annatie Hornbeck
+549,Malletie Middagh
+550,Rymerick Quick
+551,Annatie Quick
+552,Blandina de Wit
+553,Helena Van Garden
+554,Christina Rosenkranz
+555,Beletie Quick
+556,Anna Ditsoort
+557,Aelje Van Etten
+558,Naomi Cuddebeck
+559,Maria Cook
+560,Geertie Benschoten
+561,Sara Gonsales
+562,Annatie Gemaer
+563,Femmtie Decker
+564,Tjatie Van Keuren
+565,Christina Keiser
+566,Sara Teneik
+567,Christina Elizabeth Bernhardin
+568,Geertie Westfael
+569,Sara Kohl
+570,Elizabeth Gemaer
+571,Margriet Kuikendal
+572,Neelgje Rous
+573,Engelje Heerenmans
+574,Cornelia Viervan
+575,Margriet Best
+576,Lea Westfael
+577,Johanna Van Aken
+578,Maria Cuddebeck
+579,Hilletie Van Etten
+580,Aelje Westbroeck
+581,Helena Decker
+582,Maritie Depuy
+583,Catharina Westfael
+584,Elizabeth Maul
+585,Hannatie Westfael
+586,Rusje Dami
+587,Tjatie Kortrecht
+588,Anneke Van Etten
+589,Elizabeth Consales Duke
+590,Hilletie Dingenman
+591,Anna Elizabeth Windemuth
+592,Molly Nottingham
+593,Barbara Behmin
+594,Margriet Rosenkranz
+595,Anna Cook
+596,Neeltie Rosa
+597,Maria de Wit
+598,Geertie Van Benschoten
+599,Anna Elizabeth Snauber
+600,Hannah Johnson
+601,Annatie Westfael
+602,Maria Rosa
+603,Margriet de Wit
+604,Eva Dingenman
+605,Rachel Devoor
+606,Catharina Depuy
+607,Elizabeth Robert
+608,Elizabeth Brinck
+609,Helena Kimmel
+610,Johannes Louw
+611,Jannitie Bogardus
+612,Jennek Van Keuren
+613,Hilletie Van Garden
+614,Maria Osterhoudt
+615,Jannitie Van Etten
+616,Sara Van Etten
+617,Aertie Van Etten
+618,Maritie Hooghteeling
+619,Sara Clevins
+620,Femmerje Decker
+621,Johanna Van Tilbrugh
+622,Margriet Kohl
+623,Margriet Gemaer
+624,Rymerick Decker
+625,Geertie Quick
+626,Rymerick Gonsales
+627,Petrus Westbroeck
+628,Maria Quick
+629,Debora Westbroeck
+630,Maria Schoonhoven
+631,Jannitie Middagh
+632,Annatie Terweige
+633,Geertie Kohl
+634,Seitie Terwilgen
+635,Debora Davis
+636,Elizabeth Buntshote
+637,Elizabeth Westbroeck
+638,Elizabeth Majerin
+639,Gerrerje Benschoten
+640,Catharina Kermer
+641,Hilletie Decker
+642,Jannitie Swartwout
+643,Saartie Decker
+644,Sara Van Vliet
+645,Jacomin Cuddebeck
+646,Geertie Van Inwegen
+647,Hilletie de Wit
+648,Margriet Kortrecht
+649,Catharina Van Garden
+650,Catharina Cole
+651,Sara Cole
+652,Lisabeth Cole
+653,Wilhelmus Devoor
+654,Lisa Kuykendal
+655,Elisabeth Dupuy
+656,Tjartje De Witt
+657,Daniel Rosenkranz
+658,Catharina Hoksen
+659,Catharina Clark
+660,Geertie Kortrecht
+661,Elizabeth Van Namen
+662,Hester McIntosh
+663,Geertie Wildfield
+664,Jannitie Quick
+665,Jennek Van Nimwegen
+666,Hendricka Kuikendal
