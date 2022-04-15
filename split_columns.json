@@ -1,0 +1,158 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "parents 1",
+    "expression": "grel:value.find(/^[\\p{L}]+/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "parents 1 first",
+    "columnInsertIndex": 4,
+    "description": "Create column parents 1 first at index 4 based on column parents 1 using expression grel:value.find(/^[\\p{L}]+/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "parents 1",
+    "expression": "grel:value.find(/[\\p{L}]+$/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "parents 1 last",
+    "columnInsertIndex": 4,
+    "description": "Create column parents 1 last at index 4 based on column parents 1 using expression grel:value.find(/[\\p{L}]+$/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "parents 1",
+    "expression": "grel:value.replace(cells[\"parents 1 first\"].value,\"\").replace(cells[\"parents 1 last\"].value,\"\").trim()",
+    "onError": "set-to-blank",
+    "newColumnName": "parents 1 middle",
+    "columnInsertIndex": 4,
+    "description": "Create column parents 1 middle at index 4 based on column parents 1 using expression grel:value.replace(cells[\"parents 1 first\"].value,\"\").replace(cells[\"parents 1 last\"].value,\"\").trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "parents 2",
+    "expression": "grel:value.find(/^[\\p{L}]+/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "parents 2 first",
+    "columnInsertIndex": 4,
+    "description": "Create column parents 2 first at index 4 based on column parents 2 using expression grel:value.find(/^[\\p{L}]+/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "parents 2",
+    "expression": "grel:value.find(/[\\p{L}]+$/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "parents 2 last",
+    "columnInsertIndex": 4,
+    "description": "Create column parents 2 last at index 4 based on column parents 2 using expression grel:value.find(/[\\p{L}]+$/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "parents 2",
+    "expression": "grel:value.replace(cells[\"parents 2 first\"].value,\"\").replace(cells[\"parents 2 last\"].value,\"\").trim()",
+    "onError": "set-to-blank",
+    "newColumnName": "parents 2 middle",
+    "columnInsertIndex": 4,
+    "description": "Create column parents 2 middle at index 4 based on column parents 2 using expression grel:value.replace(cells[\"parents 2 first\"].value,\"\").replace(cells[\"parents 2 last\"].value,\"\").trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "sponsors 1",
+    "expression": "grel:value.find(/^[\\p{L}]+/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "sponsors 1 first",
+    "columnInsertIndex": 4,
+    "description": "Create column sponsors 1 first at index 4 based on column sponsors 1 using expression grel:value.find(/^[\\p{L}]+/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "sponsors 1",
+    "expression": "grel:value.find(/[\\p{L}]+$/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "sponsors 1 last",
+    "columnInsertIndex": 4,
+    "description": "Create column sponsors 1 last at index 4 based on column sponsors 1 using expression grel:value.find(/[\\p{L}]+$/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "sponsors 1",
+    "expression": "grel:value.replace(cells[\"sponsors 1 first\"].value,\"\").replace(cells[\"sponsors 1 last\"].value,\"\").trim()",
+    "onError": "set-to-blank",
+    "newColumnName": "sponsors 1 middle",
+    "columnInsertIndex": 4,
+    "description": "Create column sponsors 1 middle at index 4 based on column sponsors 1 using expression grel:value.replace(cells[\"sponsors 1 first\"].value,\"\").replace(cells[\"sponsors 1 last\"].value,\"\").trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "sponsors 2",
+    "expression": "grel:value.find(/^[\\p{L}]+/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "sponsors 2 first",
+    "columnInsertIndex": 4,
+    "description": "Create column sponsors 2 first at index 4 based on column sponsors 2 using expression grel:value.find(/^[\\p{L}]+/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "sponsors 2",
+    "expression": "grel:value.find(/[\\p{L}]+$/).join(\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "sponsors 2 last",
+    "columnInsertIndex": 4,
+    "description": "Create column sponsors 2 last at index 4 based on column sponsors 2 using expression grel:value.find(/[\\p{L}]+$/).join(\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "sponsors 2",
+    "expression": "grel:value.replace(cells[\"sponsors 2 first\"].value,\"\").replace(cells[\"sponsors 2 last\"].value,\"\").trim()",
+    "onError": "set-to-blank",
+    "newColumnName": "sponsors 2 middle",
+    "columnInsertIndex": 4,
+    "description": "Create column sponsors 2 middle at index 4 based on column sponsors 2 using expression grel:value.replace(cells[\"sponsors 2 first\"].value,\"\").replace(cells[\"sponsors 2 last\"].value,\"\").trim()"
+  }
+]

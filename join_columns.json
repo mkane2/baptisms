@@ -1,0 +1,161 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1",
+    "expression": "grel:cells[\"parents 1 first\"].value + \" \" + cells[\"parents 1 middle\"].value + \" \" + cells[\"parents 1 last\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column parents 1 using expression grel:cells[\"parents 1 first\"].value + \" \" + cells[\"parents 1 middle\"].value + \" \" + cells[\"parents 1 last\"].value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column parents 1 using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column parents 1 using expression value.trim()"
+  },
+
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2",
+      "expression": "grel:cells[\"parents 2 first\"].value + \" \" + cells[\"parents 2 middle\"].value + \" \" + cells[\"parents 2 last\"].value",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column parents 2 using expression grel:cells[\"parents 2 first\"].value + \" \" + cells[\"parents 2 middle\"].value + \" \" + cells[\"parents 2 last\"].value"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2",
+      "expression": "value.replace(/\\s+/,' ')",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column parents 2 using expression value.replace(/\\s+/,' ')"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "parents 2",
+      "expression": "value.trim()",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column parents 2 using expression value.trim()"
+    },
+
+      {
+        "op": "core/text-transform",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 1",
+        "expression": "grel:cells[\"sponsors 1 first\"].value + \" \" + cells[\"sponsors 1 middle\"].value + \" \" + cells[\"sponsors 1 last\"].value",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column sponsors 1 using expression grel:cells[\"sponsors 1 first\"].value + \" \" + cells[\"sponsors 1 middle\"].value + \" \" + cells[\"sponsors 1 last\"].value"
+      },
+      {
+        "op": "core/text-transform",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 1",
+        "expression": "value.replace(/\\s+/,' ')",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column sponsors 1 using expression value.replace(/\\s+/,' ')"
+      },
+      {
+        "op": "core/text-transform",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "columnName": "sponsors 1",
+        "expression": "value.trim()",
+        "onError": "keep-original",
+        "repeat": false,
+        "repeatCount": 10,
+        "description": "Text transform on cells in column sponsors 1 using expression value.trim()"
+      },
+
+        {
+          "op": "core/text-transform",
+          "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+          },
+          "columnName": "sponsors 2",
+          "expression": "grel:cells[\"sponsors 2 first\"].value + \" \" + cells[\"sponsors 2 middle\"].value + \" \" + cells[\"sponsors 2 last\"].value",
+          "onError": "keep-original",
+          "repeat": false,
+          "repeatCount": 10,
+          "description": "Text transform on cells in column sponsors 2 using expression grel:cells[\"sponsors 2 first\"].value + \" \" + cells[\"sponsors 2 middle\"].value + \" \" + cells[\"sponsors 2 last\"].value"
+        },
+        {
+          "op": "core/text-transform",
+          "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+          },
+          "columnName": "sponsors 2",
+          "expression": "value.replace(/\\s+/,' ')",
+          "onError": "keep-original",
+          "repeat": false,
+          "repeatCount": 10,
+          "description": "Text transform on cells in column sponsors 2 using expression value.replace(/\\s+/,' ')"
+        },
+        {
+          "op": "core/text-transform",
+          "engineConfig": {
+            "facets": [],
+            "mode": "row-based"
+          },
+          "columnName": "sponsors 2",
+          "expression": "value.trim()",
+          "onError": "keep-original",
+          "repeat": false,
+          "repeatCount": 10,
+          "description": "Text transform on cells in column sponsors 2 using expression value.trim()"
+        }
+      ]

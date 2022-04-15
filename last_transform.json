@@ -18429,5 +18429,2588 @@
               }
             ],
             "description": "Mass edit cells in column sponsors 2 last"
-          }
-        ]
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Kuykendal",
+                  "Kuyendal",
+                  "Kuykendael",
+                  "Kuykendaal",
+                  "Kuykenddal"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kuykendal"
+              },
+              {
+                "from": [
+                  "Westbroeck",
+                  "Westbrock",
+                  "Wstbroeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westbroeck"
+              },
+              {
+                "from": [
+                  "Hooghteeling",
+                  "Hooghteling",
+                  "Hoogteeling"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hooghteeling"
+              },
+              {
+                "from": [
+                  "Schoonhoven",
+                  "Schoohoven",
+                  "Scoonhoven"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Schoonhoven"
+              },
+              {
+                "from": [
+                  "Rosenkranz",
+                  "Rosenkkranz",
+                  "Rosnekranz"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Rosenkranz"
+              },
+              {
+                "from": [
+                  "Kosekrans",
+                  "Rosekrans",
+                  "Rosenkrans"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Rosekrans"
+              },
+              {
+                "from": [
+                  "Aaken",
+                  "Aken",
+                  "Aeken"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Aken"
+              },
+              {
+                "from": [
+                  "Davis",
+                  "Davids"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Davis"
+              },
+              {
+                "from": [
+                  "Quick",
+                  "Qucik"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Quick"
+              },
+              {
+                "from": [
+                  "Westval",
+                  "Westvael"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westfael"
+              },
+              {
+                "from": [
+                  "Decker",
+                  "Deckker"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Decker"
+              },
+              {
+                "from": [
+                  "Gemaar",
+                  "Gemar"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Gemar"
+              },
+              {
+                "from": [
+                  "Middag",
+                  "Middaga"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Middag"
+              },
+              {
+                "from": [
+                  "Devin",
+                  "Dieven"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Devin"
+              },
+              {
+                "from": [
+                  "Kortregt",
+                  "Kotregt"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kortrecht"
+              },
+              {
+                "from": [
+                  "Wessebroek",
+                  "Weesbroek"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westbroek"
+              },
+              {
+                "from": [
+                  "Kortrecht",
+                  "Kortecht"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kortrecht"
+              },
+              {
+                "from": [
+                  "Hoornbeeck",
+                  "Hoornbeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hornbeck"
+              },
+              {
+                "from": [
+                  "Freyenmuth",
+                  "Fryenmuth"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Fryenmuth"
+              },
+              {
+                "from": [
+                  "Cuddebeck",
+                  "Kuddebeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Cuddebeck"
+              },
+              {
+                "from": [
+                  "Kuttebeck",
+                  "Cuttebeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Cuddebeck"
+              },
+              {
+                "from": [
+                  "Codebek",
+                  "Koddebeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Cuddebeck"
+              },
+              {
+                "from": [
+                  "Garden",
+                  "Gardren"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Garden"
+              },
+              {
+                "from": [
+                  "Windemoet",
+                  "Windmoet"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Windemoet"
+              },
+              {
+                "from": [
+                  "Kittle",
+                  "Kittel"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kittel"
+              },
+              {
+                "from": [
+                  "Schamers",
+                  "Schammers"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Schamers"
+              },
+              {
+                "from": [
+                  "Ennes",
+                  "Enness"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Enniss"
+              },
+              {
+                "from": [
+                  "Reifsnyder",
+                  "Riefsnyder"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Reifsnyder"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Garden",
+                  "Garten",
+                  "Gorden"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Garden"
+              },
+              {
+                "from": [
+                  "Cuddebeck",
+                  "Kottebek",
+                  "Kudebek"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Cuddebeck"
+              },
+              {
+                "from": [
+                  "Seymor",
+                  "Simour",
+                  "Symor"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Seymor"
+              },
+              {
+                "from": [
+                  "Morphe",
+                  "Morphy",
+                  "Murphy"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Murphy"
+              },
+              {
+                "from": [
+                  "Westbroeck",
+                  "Westbroek",
+                  "Westbroech"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westbroeck"
+              },
+              {
+                "from": [
+                  "Bogaert",
+                  "Bogart",
+                  "Bogard"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Bogaert"
+              },
+              {
+                "from": [
+                  "Kuykendal",
+                  "Kuikendal",
+                  "Kuyckendal"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kuikendal"
+              },
+              {
+                "from": [
+                  "Schamers",
+                  "Shuymers",
+                  "Shymers"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Schamers"
+              },
+              {
+                "from": [
+                  "Kortrecht",
+                  "Cortreght",
+                  "Kortrcht"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kortrecht"
+              },
+              {
+                "from": [
+                  "Boman",
+                  "Bomen",
+                  "Bouman"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Boman"
+              },
+              {
+                "from": [
+                  "Vernoi",
+                  "Vernooy"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Vernoi"
+              },
+              {
+                "from": [
+                  "Brinck",
+                  "Brink"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Brinck"
+              },
+              {
+                "from": [
+                  "Vredenburgh",
+                  "Fredenburg"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Vredenburgh"
+              },
+              {
+                "from": [
+                  "Risla",
+                  "Rusle"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Rusle"
+              },
+              {
+                "from": [
+                  "Windemuth",
+                  "Wintemuth"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Windemuth"
+              },
+              {
+                "from": [
+                  "Swartwout",
+                  "Swartwoud"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Swartwout"
+              },
+              {
+                "from": [
+                  "Waert",
+                  "Waard"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Waert"
+              },
+              {
+                "from": [
+                  "Pue",
+                  "Pugh"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Pugh"
+              },
+              {
+                "from": [
+                  "Quick",
+                  "Quik"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Quick"
+              },
+              {
+                "from": [
+                  "Hornbeck",
+                  "Horenbek"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hornbeck"
+              },
+              {
+                "from": [
+                  "Doff",
+                  "Duff"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Duff"
+              },
+              {
+                "from": [
+                  "Etten",
+                  "Oetten"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Etten"
+              },
+              {
+                "from": [
+                  "Depuy",
+                  "Dupuy"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Depuy"
+              },
+              {
+                "from": [
+                  "Mollen",
+                  "Mollin"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Mollen"
+              },
+              {
+                "from": [
+                  "Ditsoort",
+                  "Titsoort"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Ditsoort"
+              },
+              {
+                "from": [
+                  "Benschoten",
+                  "Bunschoten"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Benschoten"
+              },
+              {
+                "from": [
+                  "Chandlar",
+                  "Chandler"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Chandler"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Mccarty",
+                  "Mccarthy"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Mccarty"
+              },
+              {
+                "from": [
+                  "Fryenmoet",
+                  "Fryenmuth"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Fryenmoet"
+              },
+              {
+                "from": [
+                  "Kortrecht",
+                  "Cortregt"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kortrecht"
+              },
+              {
+                "from": [
+                  "Rosenkranz",
+                  "Rosenkrantz"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Rosenkranz"
+              },
+              {
+                "from": [
+                  "Kuikendal",
+                  "Kuychendal"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kuikendal"
+              },
+              {
+                "from": [
+                  "Windemoet",
+                  "Windemuth"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Windemuth"
+              },
+              {
+                "from": [
+                  "Middagh",
+                  "Middag"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Middagh"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Westbroeck",
+                  "Westvroeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westbroeck"
+              },
+              {
+                "from": [
+                  "Chandler",
+                  "Schendeler"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Chandler"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Sickel",
+                  "Sickelen"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Sickel"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Vredenburgh",
+                  "Vreden"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Vredenburgh"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Ake"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Aken"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Dingemans"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Dingenman"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Ette"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Etten"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Haldrin"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Haldring"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Hooghdeylen"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hooghteeling"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Hoorbeeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hornbeck"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Noj"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Vernoi"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Rosekrans"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Rosenkranz"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Wessebrock"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westbroeck"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Westael"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westfael"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Acce"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Aken"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Kittel",
+                  "Kitttel"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kittel"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Kortrecht",
+                  "Korechect",
+                  "Kortretcht"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kortrecht"
+              },
+              {
+                "from": [
+                  "Horenbeek",
+                  "Hoorenbeek",
+                  "Hoornbeek"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hornbeck"
+              },
+              {
+                "from": [
+                  "Ditsoort",
+                  "Disoort"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Ditsoort"
+              },
+              {
+                "from": [
+                  "Dewit",
+                  "Dewitt"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Dewit"
+              },
+              {
+                "from": [
+                  "Vredenburgh",
+                  "Vredenbrugh"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Vredenburgh"
+              },
+              {
+                "from": [
+                  "Hooghteeling",
+                  "Hooghteiling"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hooghteeling"
+              },
+              {
+                "from": [
+                  "Wells",
+                  "Wels"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Wells"
+              },
+              {
+                "from": [
+                  "Schoonhoven",
+                  "Schoonhove"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Schoonhoven"
+              },
+              {
+                "from": [
+                  "Westfael",
+                  "Wstfael"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westfael"
+              },
+              {
+                "from": [
+                  "Terwilge",
+                  "Terwillige"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Terwilge"
+              },
+              {
+                "from": [
+                  "Bell",
+                  "Bel"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Bell"
+              },
+              {
+                "from": [
+                  "Hornbeck",
+                  "Hoorrenbeeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hornbeck"
+              },
+              {
+                "from": [
+                  "Wit",
+                  "Witt"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Wit"
+              },
+              {
+                "from": [
+                  "Garden",
+                  "Gadren"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Garden"
+              },
+              {
+                "from": [
+                  "Tilbrugh",
+                  "Tilburgh"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Tilbrugh"
+              },
+              {
+                "from": [
+                  "Etten",
+                  "Etteen"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Etten"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Westfael",
+                  "Westphaal",
+                  "Westdfael",
+                  "Westvaal"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Westfael"
+              },
+              {
+                "from": [
+                  "Cuddebeck",
+                  "Koettebek",
+                  "Koettebeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Cuddebeck"
+              },
+              {
+                "from": [
+                  "Jansen",
+                  "Jansn",
+                  "Janson"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Jansen"
+              },
+              {
+                "from": [
+                  "Kittel",
+                  "Kettel"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kittel"
+              },
+              {
+                "from": [
+                  "Lundy",
+                  "Londi"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Lundy"
+              },
+              {
+                "from": [
+                  "Kemmel",
+                  "Kimmel"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kimmel"
+              },
+              {
+                "from": [
+                  "Swartwout",
+                  "Swartwood"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Swartwout"
+              },
+              {
+                "from": [
+                  "Quick",
+                  "Qick"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Quick"
+              },
+              {
+                "from": [
+                  "Kane",
+                  "Keen"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kane"
+              },
+              {
+                "from": [
+                  "Wallen",
+                  "Wallon"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Wallon"
+              },
+              {
+                "from": [
+                  "Schoonhoven",
+                  "Schoonhaven"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Schoonhoven"
+              },
+              {
+                "from": [
+                  "Gonsales",
+                  "Consales"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Gonsales"
+              },
+              {
+                "from": [
+                  "Meckentesh",
+                  "Mekkentash"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "McIntosh"
+              },
+              {
+                "from": [
+                  "Oosterhout",
+                  "Osterhoudt"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Osterhoudt"
+              },
+              {
+                "from": [
+                  "Kuikendal",
+                  "Keukendal"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kuikendal"
+              },
+              {
+                "from": [
+                  "Decker",
+                  "Dekkeer"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Decker"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Etten",
+                  "Ettem"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Etten"
+              },
+              {
+                "from": [
+                  "Swartwout",
+                  "Swarthwout"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Swartwout"
+              },
+              {
+                "from": [
+                  "Middagh",
+                  "Middach"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Middagh"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Dennemark",
+                  "Dennemarks"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Dennemark"
+              },
+              {
+                "from": [
+                  "Terwilge",
+                  "Terwilgen"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Terwilgen"
+              },
+              {
+                "from": [
+                  "Robert",
+                  "Roberts"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Robert"
+              },
+              {
+                "from": [
+                  "Terwilgen",
+                  "Terwilsgen"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Terwilgen"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Tilbrugh",
+                  "Vantilbrugh"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Tilbrugh"
+              },
+              {
+                "from": [
+                  "Hoever",
+                  "Hoeverin"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Hoever"
+              },
+              {
+                "from": [
+                  "Kuikendal",
+                  "Kuyenkendal"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Kuikendal"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Romvelden"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Romfeld"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Nimwegen"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Niuwegen"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Cuttenbeck"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Cuddebeck"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+            "op": "core/mass-edit",
+            "engineConfig": {
+              "facets": [],
+              "mode": "row-based"
+            },
+            "columnName": "sponsors 2 last",
+            "expression": "value",
+            "edits": [
+              {
+                "from": [
+                  "Arken"
+                ],
+                "fromBlank": false,
+                "fromError": false,
+                "to": "Aken"
+              }
+            ],
+            "description": "Mass edit cells in column sponsors 2 last"
+          },
+          {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Adken"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Aken"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Wesbroeck",
+                    "Wessebroeck"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Westbroeck"
+                },
+                {
+                  "from": [
+                    "Westbroeck",
+                    "Weestbroeck"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Westbroeck"
+                },
+                {
+                  "from": [
+                    "Decker",
+                    "Deckeer"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Decker"
+                },
+                {
+                  "from": [
+                    "Sickel",
+                    "Sickele"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Sickel"
+                },
+                {
+                  "from": [
+                    "Westfael",
+                    "Wastfael"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Westfael"
+                },
+                {
+                  "from": [
+                    "Fryenmoet",
+                    "Frynenmot"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Fryenmot"
+                },
+                {
+                  "from": [
+                    "Rosenkranz",
+                    "Rosennkranz"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Rosenkranz"
+                },
+                {
+                  "from": [
+                    "Kortrecht",
+                    "Korrtrecht"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Kortrecht"
+                },
+                {
+                  "from": [
+                    "Inwegen",
+                    "Ninwegen"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Inwegen"
+                },
+                {
+                  "from": [
+                    "Kuikendal",
+                    "Kuikendaal"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Kuikendal"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Kuikendal",
+                    "Kikendell",
+                    "Kukendal"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Kuikendal"
+                },
+                {
+                  "from": [
+                    "Kittel",
+                    "Ketel"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Kittel"
+                },
+                {
+                  "from": [
+                    "Cuddebeck",
+                    "Kodebek"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Cuddebeck"
+                },
+                {
+                  "from": [
+                    "Davis",
+                    "Devis"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Davis"
+                },
+                {
+                  "from": [
+                    "Vredenburgh",
+                    "Vredenburg"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Vredenburgh"
+                },
+                {
+                  "from": [
+                    "Fryenmot",
+                    "Fryenmout"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Fryenmout"
+                },
+                {
+                  "from": [
+                    "Vliet",
+                    "Vliedt"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Vliet"
+                },
+                {
+                  "from": [
+                    "Dewit",
+                    "Dewett"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Dewit"
+                },
+                {
+                  "from": [
+                    "Lady",
+                    "Leydy"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Lady"
+                },
+                {
+                  "from": [
+                    "Middagh",
+                    "Middah"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Middagh"
+                },
+                {
+                  "from": [
+                    "Decker",
+                    "Deker"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Decker"
+                },
+                {
+                  "from": [
+                    "Rosenkranz",
+                    "Rosnkranz"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Rosnkranz"
+                },
+                {
+                  "from": [
+                    "Kortrecht",
+                    "Kortrect"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Kortrecht"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Depuy",
+                    "Depue"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Depuy"
+                },
+                {
+                  "from": [
+                    "Viegli",
+                    "Vigil"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Viegli"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Vredenburgh",
+                    "Vredengurgh"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Vredenburgh"
+                },
+                {
+                  "from": [
+                    "Westbroeck",
+                    "Westbroechk"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Westbroeck"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Dayis"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Davis"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Ennest"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Enniss"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Ennens"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Enniss"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Hootnbeeck"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Hornbeck"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Koettebeb"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Kuttenbeck"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Kuttenbeck"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Cuddenbeck"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Kuykendak"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Kuikendal"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Rosejkrantz"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Rosenkranz"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Rosnkranz"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Rosenkranz"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Swartjoud"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Swartwout"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Swarwoud"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Swartwout"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Vanoy"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Vernoi"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Wesfael"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Westfael"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Wessebrorek"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Westbroeck"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Westhal"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Westfael"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 last",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Wintermoet"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Windemuth"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 last"
+            },
+
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Aeke"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Aken"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Aake"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Aken"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Gemaer",
+                      "Gemar",
+                      "Germaer",
+                      "Germar"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Gemaer"
+                  },
+                  {
+                    "from": [
+                      "Kortrecht",
+                      "Korrecht",
+                      "Kortrechr"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Kortrecht"
+                  },
+                  {
+                    "from": [
+                      "Benschoten",
+                      "Bonschote"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Benschoten"
+                  },
+                  {
+                    "from": [
+                      "Cock",
+                      "Cook"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Cook"
+                  },
+                  {
+                    "from": [
+                      "Niuwegen",
+                      "Nieuwegen"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Niuwegen"
+                  },
+                  {
+                    "from": [
+                      "Johns",
+                      "Johnson"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Johnson"
+                  },
+                  {
+                    "from": [
+                      "Deeker",
+                      "Dekkr"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Deeker"
+                  },
+                  {
+                    "from": [
+                      "Innewege",
+                      "Inwegen"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Inwegen"
+                  },
+                  {
+                    "from": [
+                      "Cuddebeck",
+                      "Kudebeck"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Cuddebeck"
+                  },
+                  {
+                    "from": [
+                      "Terwilgen",
+                      "Terwilligen"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Terwilgen"
+                  },
+                  {
+                    "from": [
+                      "Kimmel",
+                      "Kimmell"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Kimmel"
+                  },
+                  {
+                    "from": [
+                      "Koetebek",
+                      "Kottbek"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Cuddebeck"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Cuddebeck",
+                      "Koddebeek",
+                      "Koettebec"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Cuddebeck"
+                  },
+                  {
+                    "from": [
+                      "Niuwegen",
+                      "Nieuwegan"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Niuwegen"
+                  },
+                  {
+                    "from": [
+                      "Decker",
+                      "Deeker"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Decker"
+                  },
+                  {
+                    "from": [
+                      "Jansen",
+                      "Johnson"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Johnson"
+                  },
+                  {
+                    "from": [
+                      "Kimber",
+                      "Kember"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Kimber"
+                  },
+                  {
+                    "from": [
+                      "Kortrecht",
+                      "Cortrecht"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Kortrecht"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Kermer",
+                      "Germer"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Kermer"
+                  },
+                  {
+                    "from": [
+                      "Duytser",
+                      "Dutscher"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Duytser"
+                  },
+                  {
+                    "from": [
+                      "Ditsoort",
+                      "Ditscoort"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Ditsoort"
+                  },
+                  {
+                    "from": [
+                      "Cuddebeck",
+                      "Kutttebeck"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Cuddebeck"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Westbroeck",
+                      "Westfbroeck"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Westbroeck"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Rosenkranz",
+                      "Rosenkratz"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Rosenkranz"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Osterhoudt",
+                      "Olsterhout"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Osterhoudt"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Windemodin",
+                      "Windemuth"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Windemuth"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Cittle"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Kittel"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Elren"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Elting"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Elten"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Elting"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [
+                    {
+                      "type": "list",
+                      "name": "sponsors 2 last",
+                      "expression": "value",
+                      "columnName": "sponsors 2 last",
+                      "invert": false,
+                      "omitBlank": false,
+                      "omitError": false,
+                      "selection": [
+                        {
+                          "v": {
+                            "v": "Kimbel",
+                            "l": "Kimbel"
+                          }
+                        },
+                        {
+                          "v": {
+                            "v": "Kimmel",
+                            "l": "Kimmel"
+                          }
+                        },
+                        {
+                          "v": {
+                            "v": "Kimmer",
+                            "l": "Kimmer"
+                          }
+                        },
+                        {
+                          "v": {
+                            "v": "Kimber",
+                            "l": "Kimber"
+                          }
+                        }
+                      ],
+                      "selectBlank": false,
+                      "selectError": false
+                    }
+                  ],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Kimber"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Kimmel"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              },
+              {
+                "op": "core/mass-edit",
+                "engineConfig": {
+                  "facets": [],
+                  "mode": "row-based"
+                },
+                "columnName": "sponsors 2 last",
+                "expression": "value",
+                "edits": [
+                  {
+                    "from": [
+                      "Ninwegan"
+                    ],
+                    "fromBlank": false,
+                    "fromError": false,
+                    "to": "Niuwegen"
+                  }
+                ],
+                "description": "Mass edit cells in column sponsors 2 last"
+              }
+            ]
