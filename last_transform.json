@@ -5,7 +5,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -17,7 +17,7 @@
         "to": "Joons"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -25,7 +25,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -83,7 +83,7 @@
         "to": "Van Waert"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -91,7 +91,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -131,7 +131,7 @@
         "to": "de Revier"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -139,7 +139,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -1041,7 +1041,7 @@
         "to": "Bancken"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -1049,7 +1049,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -1071,7 +1071,7 @@
         "to": "Aersen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -1079,7 +1079,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -1983,7 +1983,7 @@
         "to": "Hemmen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -1991,7 +1991,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2151,7 +2151,7 @@
         "to": "Shamponwa"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2159,7 +2159,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2226,7 +2226,7 @@
         "to": "Hitchcock"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2234,7 +2234,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2274,7 +2274,7 @@
         "to": "Fousy"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2282,7 +2282,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2295,7 +2295,7 @@
         "to": "Dean"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2303,7 +2303,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2352,7 +2352,7 @@
         "to": "Gerritse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2360,7 +2360,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2418,7 +2418,7 @@
         "to": "Krankheit"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2426,7 +2426,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2439,7 +2439,7 @@
         "to": "Herrikze Krankheit"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2447,7 +2447,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2459,7 +2459,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2467,7 +2467,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2480,7 +2480,7 @@
         "to": "De Voe"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2488,7 +2488,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2564,7 +2564,7 @@
         "to": "Vinsen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2572,7 +2572,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2830,7 +2830,7 @@
         "to": "Hemmen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2838,7 +2838,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2887,7 +2887,7 @@
         "to": "Krankheit"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2895,7 +2895,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2917,7 +2917,7 @@
         "to": "Gerritse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2925,7 +2925,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2938,7 +2938,7 @@
         "to": "Canklin"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2946,7 +2946,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -2968,7 +2968,7 @@
         "to": "Marteling"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -2976,7 +2976,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -3016,7 +3016,7 @@
         "to": "Martin"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -3024,7 +3024,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -3036,7 +3036,7 @@
         "to": "Joons"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -3044,7 +3044,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -3102,7 +3102,7 @@
         "to": "Van Waert"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -3110,7 +3110,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -3150,7 +3150,7 @@
         "to": "de Revier"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -3158,7 +3158,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -4060,7 +4060,7 @@
         "to": "Bancken"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -4068,7 +4068,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -4090,7 +4090,7 @@
         "to": "Aersen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -4098,7 +4098,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5002,7 +5002,7 @@
         "to": "Hemmen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5010,7 +5010,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5170,7 +5170,7 @@
         "to": "Shamponwa"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5178,7 +5178,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5245,7 +5245,7 @@
         "to": "Hitchcock"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5253,7 +5253,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5293,7 +5293,7 @@
         "to": "Fousy"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5301,7 +5301,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5314,7 +5314,7 @@
         "to": "Dean"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5322,7 +5322,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5371,7 +5371,7 @@
         "to": "Gerritse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5379,7 +5379,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5437,7 +5437,7 @@
         "to": "Krankheit"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5445,7 +5445,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5458,7 +5458,7 @@
         "to": "Herrikze Krankheit"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5466,7 +5466,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5478,7 +5478,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5486,7 +5486,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5499,7 +5499,7 @@
         "to": "De Voe"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5507,7 +5507,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5583,7 +5583,7 @@
         "to": "Vinsen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5591,7 +5591,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5849,7 +5849,7 @@
         "to": "Hemmen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5857,7 +5857,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5906,7 +5906,7 @@
         "to": "Krankheit"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5914,7 +5914,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5936,7 +5936,7 @@
         "to": "Gerritse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5944,7 +5944,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5957,7 +5957,7 @@
         "to": "Canklin"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5965,7 +5965,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -5987,7 +5987,7 @@
         "to": "Marteling"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -5995,7 +5995,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -6035,7 +6035,7 @@
         "to": "Martin"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -6043,7 +6043,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -6183,7 +6183,7 @@
         "to": "Reyerse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -6191,7 +6191,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -6625,7 +6625,7 @@
         "to": "Herrickze"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -6633,7 +6633,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -6745,7 +6745,7 @@
         "to": "Louwerse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -6753,7 +6753,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -6775,7 +6775,7 @@
         "to": "Banker"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -6783,7 +6783,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -6814,7 +6814,7 @@
         "to": "Wouterze"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -6822,7 +6822,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -6835,7 +6835,7 @@
         "to": "Hendrickssen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
     {
       "op": "core/mass-edit",
@@ -6843,7 +6843,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -6855,7 +6855,7 @@
           "to": "Aardsz van der Hard"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -6863,7 +6863,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -6875,7 +6875,7 @@
           "to": "Aardsz van der Hard"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -6883,7 +6883,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -6923,7 +6923,7 @@
           "to": "De Hart"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -6931,7 +6931,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -6971,7 +6971,7 @@
           "to": "van de Water"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -6979,7 +6979,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -7199,7 +7199,7 @@
           "to": "Teunis"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -7207,7 +7207,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -7723,7 +7723,7 @@
           "to": "Willemsz Bennet"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -7731,7 +7731,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -7745,7 +7745,7 @@
           "to": "Jans Romein"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -7753,7 +7753,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -7847,7 +7847,7 @@
           "to": "Snedeker"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -7855,7 +7855,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -7886,7 +7886,7 @@
           "to": "Clement"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -7894,7 +7894,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -7934,7 +7934,7 @@
           "to": "Jans van de Veer"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -7942,7 +7942,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -7973,7 +7973,7 @@
           "to": "Jansz van der Bild"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
       {
         "op": "core/mass-edit",
@@ -7981,7 +7981,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8003,7 +8003,7 @@
             "to": "De Sille"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8011,7 +8011,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8042,7 +8042,7 @@
             "to": "van der Hard"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8050,7 +8050,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8219,7 +8219,7 @@
             "to": "Adrians"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8227,7 +8227,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8507,7 +8507,7 @@
             "to": "Bocke"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8515,7 +8515,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8537,7 +8537,7 @@
             "to": "Nevius"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8545,7 +8545,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8594,7 +8594,7 @@
             "to": "Tysen van Pelt"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8602,7 +8602,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8615,7 +8615,7 @@
             "to": "Cornelis Boomgart"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8623,7 +8623,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8645,7 +8645,7 @@
             "to": "Schouten"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -8653,9 +8653,9 @@
           "facets": [
             {
               "type": "list",
-              "name": "sponsors 2 last",
+              "name": "sponsors 5 last",
               "expression": "grel:value.contains(\" of\")",
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "invert": false,
               "omitBlank": false,
               "omitError": false,
@@ -8673,7 +8673,7 @@
           ],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -8685,7 +8685,7 @@
             "to": "Teunis"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
         {
           "op": "core/mass-edit",
@@ -8693,7 +8693,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -8706,7 +8706,7 @@
               "to": "Van Der Beek"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -8714,7 +8714,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -8736,7 +8736,7 @@
               "to": "van de Venter"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -8744,7 +8744,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -8886,7 +8886,7 @@
               "to": "Rapaille"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -8894,7 +8894,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -9229,7 +9229,7 @@
               "to": "Steenwick"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -9237,7 +9237,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -9250,7 +9250,7 @@
               "to": "van Kleef"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -9258,7 +9258,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -9307,7 +9307,7 @@
               "to": "Tice van Pelt"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -9315,7 +9315,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -9328,7 +9328,7 @@
               "to": "Gisbertsz Bogart"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -9336,7 +9336,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -9385,7 +9385,7 @@
               "to": "Lambertsz"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -9393,7 +9393,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -9424,7 +9424,7 @@
               "to": "Hendriksz"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -9432,7 +9432,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -9463,7 +9463,7 @@
               "to": "Aukez van Nuys"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
           {
             "op": "core/mass-edit",
@@ -9471,7 +9471,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -9483,7 +9483,7 @@
                 "to": ""
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -9491,7 +9491,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -9513,7 +9513,7 @@
                 "to": "van De Venter"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -9521,7 +9521,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -9534,7 +9534,7 @@
                 "to": ""
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -9542,7 +9542,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -9573,7 +9573,7 @@
                 "to": "van der Hard"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -9581,7 +9581,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -9750,7 +9750,7 @@
                 "to": "Elbertsz Stoothoff"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -9758,7 +9758,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -9999,7 +9999,7 @@
                 "to": "Joris Rapelje"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -10007,7 +10007,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -10038,7 +10038,7 @@
                 "to": "van Cowenhoven"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -10046,7 +10046,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -10086,7 +10086,7 @@
                 "to": "Rapelje"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -10094,7 +10094,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -10107,7 +10107,7 @@
                 "to": "van Ditmarschen"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -10115,7 +10115,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -10137,7 +10137,7 @@
                 "to": "Hendriksz"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
             {
               "op": "core/mass-edit",
@@ -10145,7 +10145,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10157,7 +10157,7 @@
                   "to": ""
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10165,7 +10165,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10187,7 +10187,7 @@
                   "to": "van De Venter"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10195,7 +10195,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10208,7 +10208,7 @@
                   "to": ""
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10216,7 +10216,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10247,7 +10247,7 @@
                   "to": "van der Hard"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10255,7 +10255,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10424,7 +10424,7 @@
                   "to": "Elbertsz Stoothoff"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10432,7 +10432,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10673,7 +10673,7 @@
                   "to": "Joris Rapelje"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10681,7 +10681,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10712,7 +10712,7 @@
                   "to": "van Cowenhoven"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10720,7 +10720,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10760,7 +10760,7 @@
                   "to": "Rapelje"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10768,7 +10768,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10781,7 +10781,7 @@
                   "to": "van Ditmarschen"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -10789,7 +10789,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -10811,7 +10811,7 @@
                   "to": "Hendriksz"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
   {
     "op": "core/mass-edit",
@@ -10819,7 +10819,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -10841,7 +10841,7 @@
         "to": "Hendriksz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -10849,7 +10849,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -10861,7 +10861,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -10869,7 +10869,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -10891,7 +10891,7 @@
         "to": "van De Venter"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -10899,7 +10899,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -10912,7 +10912,7 @@
         "to": ""
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -10920,7 +10920,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -10951,7 +10951,7 @@
         "to": "van der Hard"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -10959,7 +10959,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11128,7 +11128,7 @@
         "to": "Elbertsz Stoothoff"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11136,7 +11136,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11377,7 +11377,7 @@
         "to": "Joris Rapelje"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11385,7 +11385,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11416,7 +11416,7 @@
         "to": "van Cowenhoven"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11424,7 +11424,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11464,7 +11464,7 @@
         "to": "Rapelje"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11472,7 +11472,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11485,7 +11485,7 @@
         "to": "van Ditmarschen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11493,7 +11493,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11515,7 +11515,7 @@
         "to": "Hendriksz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11523,7 +11523,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11572,7 +11572,7 @@
         "to": "Sickels"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11580,7 +11580,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11692,7 +11692,7 @@
         "to": "Michielse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11700,7 +11700,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11749,7 +11749,7 @@
         "to": "Hartmansen Vreeland"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11757,7 +11757,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11806,7 +11806,7 @@
         "to": "Claese"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11814,7 +11814,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11863,7 +11863,7 @@
         "to": "Lubbertse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -11871,7 +11871,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -11902,7 +11902,7 @@
         "to": "van de Voorst"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
     {
       "op": "core/mass-edit",
@@ -11910,7 +11910,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -11923,7 +11923,7 @@
           "to": "de Marre"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -11931,7 +11931,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -11962,7 +11962,7 @@
           "to": "Marselus"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -11970,7 +11970,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -12376,7 +12376,7 @@
           "to": "Diderix"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -12384,7 +12384,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -12617,7 +12617,7 @@
           "to": "Gerritz"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -12625,7 +12625,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -12692,7 +12692,7 @@
           "to": "Michielse"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -12700,7 +12700,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -12722,7 +12722,7 @@
           "to": "Helmigs"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -12730,7 +12730,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -12779,7 +12779,7 @@
           "to": "Verveelen"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -12787,7 +12787,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -12809,7 +12809,7 @@
           "to": "Vreelinghuysen"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
       {
         "op": "core/mass-edit",
@@ -12817,7 +12817,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -12830,7 +12830,7 @@
             "to": "van Houten"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -12838,7 +12838,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -12887,7 +12887,7 @@
             "to": "Merselis"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -12895,7 +12895,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13115,7 +13115,7 @@
             "to": "Tomasen"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13123,7 +13123,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13347,7 +13347,7 @@
             "to": "Gerritz"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13355,7 +13355,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13368,7 +13368,7 @@
             "to": "Merselis"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13376,7 +13376,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13479,7 +13479,7 @@
             "to": "Sickels"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13487,7 +13487,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13528,7 +13528,7 @@
             "to": "Michielse"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13536,7 +13536,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13549,7 +13549,7 @@
             "to": "Fredricksen"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13557,7 +13557,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13597,7 +13597,7 @@
             "to": "Claese"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13605,7 +13605,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13636,7 +13636,7 @@
             "to": "Hartmanse Vreelant"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13644,7 +13644,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13657,7 +13657,7 @@
             "to": "Diderix"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -13665,7 +13665,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -13687,7 +13687,7 @@
             "to": "Johanisen Vreeland"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
   {
     "op": "core/mass-edit",
@@ -13695,7 +13695,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -13817,7 +13817,7 @@
         "to": "van Reype"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -13825,7 +13825,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -13993,7 +13993,7 @@
         "to": "Gerritse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14001,7 +14001,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14023,7 +14023,7 @@
         "to": "Michielse"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14031,7 +14031,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14044,7 +14044,7 @@
         "to": "Ackerman"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14052,7 +14052,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14074,7 +14074,7 @@
         "to": "Marinus"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14082,7 +14082,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14204,7 +14204,7 @@
         "to": "Christiansz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14212,7 +14212,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14427,7 +14427,7 @@
         "to": "Bovie"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14435,7 +14435,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14448,7 +14448,7 @@
         "to": "Schermerhorn"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14456,7 +14456,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14469,7 +14469,7 @@
         "to": "Christiansen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14477,7 +14477,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14499,7 +14499,7 @@
         "to": "Gysbertz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -14507,7 +14507,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -14538,7 +14538,7 @@
         "to": "Harris"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
     {
       "op": "core/mass-edit",
@@ -14546,7 +14546,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -14559,7 +14559,7 @@
           "to": "Slyk"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -14567,7 +14567,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -14697,7 +14697,7 @@
           "to": "Clasz"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -14705,7 +14705,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -14922,7 +14922,7 @@
           "to": "Thomase"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -14930,7 +14930,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -14952,7 +14952,7 @@
           "to": "Katarina"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -14960,7 +14960,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -14973,7 +14973,7 @@
           "to": "Borsboom"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -14981,7 +14981,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -14994,7 +14994,7 @@
           "to": "Kleyn"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15002,7 +15002,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15024,7 +15024,7 @@
           "to": "Hesling"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15032,7 +15032,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15045,7 +15045,7 @@
           "to": "Thomassen"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
   {
     "op": "core/mass-edit",
@@ -15053,7 +15053,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15066,7 +15066,7 @@
         "to": "Brakel"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15074,7 +15074,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15087,7 +15087,7 @@
         "to": "Benthuysen"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15095,7 +15095,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15135,7 +15135,7 @@
         "to": "Gysbertsz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15143,7 +15143,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15248,7 +15248,7 @@
         "to": "Gysling"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15256,7 +15256,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15287,7 +15287,7 @@
         "to": "Volkertz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15295,7 +15295,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15308,7 +15308,7 @@
         "to": "Tol"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15316,7 +15316,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15365,7 +15365,7 @@
         "to": "Hemstreet"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15373,7 +15373,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15433,7 +15433,7 @@
         "to": "Beekman"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
   {
     "op": "core/mass-edit",
@@ -15441,7 +15441,7 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "sponsors 2 last",
+    "columnName": "sponsors 5 last",
     "expression": "value",
     "edits": [
       {
@@ -15481,7 +15481,7 @@
         "to": "Meindertsz"
       }
     ],
-    "description": "Mass edit cells in column sponsors 2 last"
+    "description": "Mass edit cells in column sponsors 5 last"
   },
     {
       "op": "core/mass-edit",
@@ -15489,7 +15489,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15520,7 +15520,7 @@
           "to": "Mon"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15528,7 +15528,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15559,7 +15559,7 @@
           "to": "Henderiksen"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15567,7 +15567,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15857,7 +15857,7 @@
           "to": "Elting"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15865,7 +15865,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15879,7 +15879,7 @@
           "to": "Piele"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15887,7 +15887,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15901,7 +15901,7 @@
           "to": "Etten"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15909,7 +15909,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15921,7 +15921,7 @@
           "to": "Frye"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15929,7 +15929,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15941,7 +15941,7 @@
           "to": "Freyligh"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15949,7 +15949,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15961,7 +15961,7 @@
           "to": "Freyligh"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15969,7 +15969,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -15981,7 +15981,7 @@
           "to": "Freyligh"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -15989,7 +15989,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16001,7 +16001,7 @@
           "to": "Freyligh"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16009,7 +16009,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16021,7 +16021,7 @@
           "to": "Garden"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16029,7 +16029,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16541,7 +16541,7 @@
           "to": "Person"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16549,7 +16549,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16680,7 +16680,7 @@
           "to": "Brosinaham"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16688,7 +16688,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16719,7 +16719,7 @@
           "to": "Gradt"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16727,7 +16727,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16815,7 +16815,7 @@
           "to": "Ecker"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16823,7 +16823,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16854,7 +16854,7 @@
           "to": "Elting"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16862,7 +16862,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16875,7 +16875,7 @@
           "to": "Aelsteyn"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16883,7 +16883,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16896,7 +16896,7 @@
           "to": "Caddinton"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16904,7 +16904,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16926,7 +16926,7 @@
           "to": "Staert"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16934,7 +16934,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16946,7 +16946,7 @@
           "to": "Fiero"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16954,7 +16954,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16966,7 +16966,7 @@
           "to": "Fiero"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
     {
       "op": "core/mass-edit",
@@ -16974,7 +16974,7 @@
         "facets": [],
         "mode": "row-based"
       },
-      "columnName": "sponsors 2 last",
+      "columnName": "sponsors 5 last",
       "expression": "value",
       "edits": [
         {
@@ -16986,7 +16986,7 @@
           "to": "White"
         }
       ],
-      "description": "Mass edit cells in column sponsors 2 last"
+      "description": "Mass edit cells in column sponsors 5 last"
     },
       {
         "op": "core/mass-edit",
@@ -16994,7 +16994,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17006,7 +17006,7 @@
             "to": "Abeel"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17014,7 +17014,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17026,7 +17026,7 @@
             "to": "Allen"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17034,7 +17034,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17047,7 +17047,7 @@
             "to": "Broek"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17055,7 +17055,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17068,7 +17068,7 @@
             "to": "Trompoor"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17076,7 +17076,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17153,7 +17153,7 @@
             "to": "Witbeck"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17161,7 +17161,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17337,7 +17337,7 @@
             "to": "Bekker"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17345,7 +17345,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17459,7 +17459,7 @@
             "to": "Berringer"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17467,7 +17467,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17489,7 +17489,7 @@
             "to": "Syberse"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17497,7 +17497,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17510,7 +17510,7 @@
             "to": "Overbagh"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17518,7 +17518,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17540,7 +17540,7 @@
             "to": "Ebbertse"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
       {
         "op": "core/mass-edit",
@@ -17548,7 +17548,7 @@
           "facets": [],
           "mode": "row-based"
         },
-        "columnName": "sponsors 2 last",
+        "columnName": "sponsors 5 last",
         "expression": "value",
         "edits": [
           {
@@ -17561,7 +17561,7 @@
             "to": "Person"
           }
         ],
-        "description": "Mass edit cells in column sponsors 2 last"
+        "description": "Mass edit cells in column sponsors 5 last"
       },
         {
           "op": "core/mass-edit",
@@ -17569,7 +17569,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -17582,7 +17582,7 @@
               "to": "Diederich"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -17590,7 +17590,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -17688,7 +17688,7 @@
               "to": "Schaak"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -17696,7 +17696,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -17904,7 +17904,7 @@
               "to": "Hummel"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -17912,7 +17912,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -18009,7 +18009,7 @@
               "to": "Schut"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -18017,7 +18017,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -18039,7 +18039,7 @@
               "to": "Broek"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
         {
           "op": "core/mass-edit",
@@ -18047,7 +18047,7 @@
             "facets": [],
             "mode": "row-based"
           },
-          "columnName": "sponsors 2 last",
+          "columnName": "sponsors 5 last",
           "expression": "value",
           "edits": [
             {
@@ -18060,7 +18060,7 @@
               "to": "Schuyler"
             }
           ],
-          "description": "Mass edit cells in column sponsors 2 last"
+          "description": "Mass edit cells in column sponsors 5 last"
         },
           {
             "op": "core/mass-edit",
@@ -18068,7 +18068,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18081,7 +18081,7 @@
                 "to": "Oothoudt"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18089,7 +18089,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18129,7 +18129,7 @@
                 "to": "Schemerhorn"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18137,7 +18137,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18308,7 +18308,7 @@
                 "to": "Markel"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18316,7 +18316,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18347,7 +18347,7 @@
                 "to": "Emmerich"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18355,7 +18355,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18386,7 +18386,7 @@
                 "to": "Trompoor"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18394,7 +18394,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18407,7 +18407,7 @@
                 "to": "Brandow"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18415,7 +18415,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18428,7 +18428,7 @@
                 "to": "Demarest"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18436,7 +18436,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18701,7 +18701,7 @@
                 "to": "Reifsnyder"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18709,7 +18709,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -18966,7 +18966,7 @@
                 "to": "Chandler"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -18974,7 +18974,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19041,7 +19041,7 @@
                 "to": "Middagh"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19049,7 +19049,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19071,7 +19071,7 @@
                 "to": "Chandler"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19079,7 +19079,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19092,7 +19092,7 @@
                 "to": "Sickel"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19100,7 +19100,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19113,7 +19113,7 @@
                 "to": "Vredenburgh"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19121,7 +19121,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19133,7 +19133,7 @@
                 "to": "Aken"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19141,7 +19141,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19153,7 +19153,7 @@
                 "to": "Dingenman"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19161,7 +19161,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19173,7 +19173,7 @@
                 "to": "Etten"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19181,7 +19181,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19193,7 +19193,7 @@
                 "to": "Haldring"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19201,7 +19201,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19213,7 +19213,7 @@
                 "to": "Hooghteeling"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19221,7 +19221,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19233,7 +19233,7 @@
                 "to": "Hornbeck"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19241,7 +19241,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19253,7 +19253,7 @@
                 "to": "Vernoi"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19261,7 +19261,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19273,7 +19273,7 @@
                 "to": "Rosenkranz"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19281,7 +19281,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19293,7 +19293,7 @@
                 "to": "Westbroeck"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19301,7 +19301,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19313,7 +19313,7 @@
                 "to": "Westfael"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19321,7 +19321,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19333,7 +19333,7 @@
                 "to": "Aken"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19341,7 +19341,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19354,7 +19354,7 @@
                 "to": "Kittel"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19362,7 +19362,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19512,7 +19512,7 @@
                 "to": "Etten"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19520,7 +19520,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19672,7 +19672,7 @@
                 "to": "Decker"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19680,7 +19680,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19711,7 +19711,7 @@
                 "to": "Middagh"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19719,7 +19719,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19759,7 +19759,7 @@
                 "to": "Terwilgen"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19767,7 +19767,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19798,7 +19798,7 @@
                 "to": "Kuikendal"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19806,7 +19806,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19818,7 +19818,7 @@
                 "to": "Romfeld"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19826,7 +19826,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19838,7 +19838,7 @@
                 "to": "Niuwegen"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19846,7 +19846,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19858,7 +19858,7 @@
                 "to": "Cuddebeck"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
             "op": "core/mass-edit",
@@ -19866,7 +19866,7 @@
               "facets": [],
               "mode": "row-based"
             },
-            "columnName": "sponsors 2 last",
+            "columnName": "sponsors 5 last",
             "expression": "value",
             "edits": [
               {
@@ -19878,7 +19878,7 @@
                 "to": "Aken"
               }
             ],
-            "description": "Mass edit cells in column sponsors 2 last"
+            "description": "Mass edit cells in column sponsors 5 last"
           },
           {
               "op": "core/mass-edit",
@@ -19886,7 +19886,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -19898,7 +19898,7 @@
                   "to": "Aken"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -19906,7 +19906,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20000,7 +20000,7 @@
                   "to": "Kuikendal"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20008,7 +20008,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20130,7 +20130,7 @@
                   "to": "Kortrecht"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20138,7 +20138,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20160,7 +20160,7 @@
                   "to": "Viegli"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20168,7 +20168,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20190,7 +20190,7 @@
                   "to": "Westbroeck"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20198,7 +20198,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20210,7 +20210,7 @@
                   "to": "Davis"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20218,7 +20218,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20230,7 +20230,7 @@
                   "to": "Enniss"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20238,7 +20238,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20250,7 +20250,7 @@
                   "to": "Enniss"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20258,7 +20258,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20270,7 +20270,7 @@
                   "to": "Hornbeck"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20278,7 +20278,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20290,7 +20290,7 @@
                   "to": "Kuttenbeck"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20298,7 +20298,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20310,7 +20310,7 @@
                   "to": "Cuddenbeck"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20318,7 +20318,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20330,7 +20330,7 @@
                   "to": "Kuikendal"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20338,7 +20338,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20350,7 +20350,7 @@
                   "to": "Rosenkranz"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20358,7 +20358,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20370,7 +20370,7 @@
                   "to": "Rosenkranz"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20378,7 +20378,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20390,7 +20390,7 @@
                   "to": "Swartwout"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20398,7 +20398,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20410,7 +20410,7 @@
                   "to": "Swartwout"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20418,7 +20418,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20430,7 +20430,7 @@
                   "to": "Vernoi"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20438,7 +20438,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20450,7 +20450,7 @@
                   "to": "Westfael"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20458,7 +20458,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20470,7 +20470,7 @@
                   "to": "Westbroeck"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20478,7 +20478,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20490,7 +20490,7 @@
                   "to": "Westfael"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
             {
               "op": "core/mass-edit",
@@ -20498,7 +20498,7 @@
                 "facets": [],
                 "mode": "row-based"
               },
-              "columnName": "sponsors 2 last",
+              "columnName": "sponsors 5 last",
               "expression": "value",
               "edits": [
                 {
@@ -20510,7 +20510,7 @@
                   "to": "Windemuth"
                 }
               ],
-              "description": "Mass edit cells in column sponsors 2 last"
+              "description": "Mass edit cells in column sponsors 5 last"
             },
 
               {
@@ -20519,7 +20519,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20531,7 +20531,7 @@
                     "to": "Aken"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20539,7 +20539,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20551,7 +20551,7 @@
                     "to": "Aken"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20559,7 +20559,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20674,7 +20674,7 @@
                     "to": "Cuddebeck"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20682,7 +20682,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20741,7 +20741,7 @@
                     "to": "Kortrecht"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20749,7 +20749,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20789,7 +20789,7 @@
                     "to": "Cuddebeck"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20797,7 +20797,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20810,7 +20810,7 @@
                     "to": "Westbroeck"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20818,7 +20818,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20831,7 +20831,7 @@
                     "to": "Rosenkranz"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20839,7 +20839,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20852,7 +20852,7 @@
                     "to": "Osterhoudt"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20860,7 +20860,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20873,7 +20873,7 @@
                     "to": "Windemuth"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20881,7 +20881,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20893,7 +20893,7 @@
                     "to": "Kittel"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20901,7 +20901,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20913,7 +20913,7 @@
                     "to": "Elting"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20921,7 +20921,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20933,7 +20933,7 @@
                     "to": "Elting"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20941,9 +20941,9 @@
                   "facets": [
                     {
                       "type": "list",
-                      "name": "sponsors 2 last",
+                      "name": "sponsors 5 last",
                       "expression": "value",
-                      "columnName": "sponsors 2 last",
+                      "columnName": "sponsors 5 last",
                       "invert": false,
                       "omitBlank": false,
                       "omitError": false,
@@ -20979,7 +20979,7 @@
                   ],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -20991,7 +20991,7 @@
                     "to": "Kimmel"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -20999,7 +20999,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21011,7 +21011,7 @@
                     "to": "Niuwegen"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21019,7 +21019,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21041,7 +21041,7 @@
                     "to": "La Grange"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21049,7 +21049,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21062,7 +21062,7 @@
                     "to": "Bebee"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21070,7 +21070,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21365,7 +21365,7 @@
                     "to": "Bartlet"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21373,7 +21373,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21386,7 +21386,7 @@
                     "to": "Ten Eyck"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21394,7 +21394,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21798,7 +21798,7 @@
                     "to": "Sievers"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21806,7 +21806,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21882,7 +21882,7 @@
                     "to": "Lamberse"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21890,7 +21890,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21903,7 +21903,7 @@
                     "to": "Acker"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21911,7 +21911,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21933,7 +21933,7 @@
                     "to": "Frederick"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21941,7 +21941,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21972,7 +21972,7 @@
                     "to": "Jacobs"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -21980,7 +21980,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -21993,7 +21993,7 @@
                     "to": "Benschooten"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22001,7 +22001,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22176,7 +22176,7 @@
                     "to": "Flag"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22184,7 +22184,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22448,7 +22448,7 @@
                     "to": "Syvert"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22456,7 +22456,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22550,7 +22550,7 @@
                     "to": "Mynderson"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22558,7 +22558,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22571,7 +22571,7 @@
                     "to": "Oxburgh"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22579,7 +22579,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22592,7 +22592,7 @@
                     "to": "Wagener"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22600,7 +22600,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22640,7 +22640,7 @@
                     "to": "Benschooten"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22648,7 +22648,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22689,7 +22689,7 @@
                     "to": "Hemstreet"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22697,7 +22697,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22848,7 +22848,7 @@
                     "to": "Trever"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22856,7 +22856,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22924,7 +22924,7 @@
                     "to": "Mynderse"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22932,7 +22932,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22954,7 +22954,7 @@
                     "to": "Valkenburg"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22962,7 +22962,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -22975,7 +22975,7 @@
                     "to": "Mynderse"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -22983,7 +22983,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23005,7 +23005,7 @@
                     "to": "Vranken"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23013,7 +23013,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23053,7 +23053,7 @@
                     "to": "Westfael"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23061,7 +23061,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23173,7 +23173,7 @@
                     "to": "Markle"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23181,7 +23181,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23222,7 +23222,7 @@
                     "to": "Quackenbush"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23230,7 +23230,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23243,7 +23243,7 @@
                     "to": "Oxburgh"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23251,7 +23251,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23273,7 +23273,7 @@
                     "to": "Freeman"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23281,7 +23281,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23294,7 +23294,7 @@
                     "to": "Van der Veer"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23302,7 +23302,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23397,7 +23397,7 @@
                     "to": "Voorhees"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23405,7 +23405,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23576,7 +23576,7 @@
                     "to": "Whitlock"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23584,7 +23584,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23615,7 +23615,7 @@
                     "to": "Covenhoven"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23623,7 +23623,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23636,7 +23636,7 @@
                     "to": "Cosine"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23644,7 +23644,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23657,7 +23657,7 @@
                     "to": "Sicklen"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23665,7 +23665,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23696,7 +23696,7 @@
                     "to": "Monfoort"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23704,7 +23704,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23717,7 +23717,7 @@
                     "to": "Van der bilt"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23725,7 +23725,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23738,7 +23738,7 @@
                     "to": "Van der Veer"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23746,7 +23746,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23759,7 +23759,7 @@
                     "to": "Van der bilt"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23767,7 +23767,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23825,7 +23825,7 @@
                     "to": "Rapelje"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23833,7 +23833,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23909,7 +23909,7 @@
                     "to": "Sicklen"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23917,7 +23917,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23939,7 +23939,7 @@
                     "to": "Elderse"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23947,7 +23947,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23969,7 +23969,7 @@
                     "to": "Elderse"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },
               {
                 "op": "core/mass-edit",
@@ -23977,7 +23977,7 @@
                   "facets": [],
                   "mode": "row-based"
                 },
-                "columnName": "sponsors 2 last",
+                "columnName": "sponsors 5 last",
                 "expression": "value",
                 "edits": [
                   {
@@ -23999,14 +23999,14 @@
                     "to": "Covenhoven"
                   }
                 ],
-                "description": "Mass edit cells in column sponsors 2 last"
+                "description": "Mass edit cells in column sponsors 5 last"
               },  {
                   "op": "core/mass-edit",
                   "engineConfig": {
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24028,7 +24028,7 @@
                       "to": "parents"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24036,7 +24036,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24067,7 +24067,7 @@
                       "to": "Stoothof"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24075,7 +24075,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24115,7 +24115,7 @@
                       "to": "Emans"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24123,7 +24123,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24136,7 +24136,7 @@
                       "to": "Ryerse"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24144,7 +24144,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24166,7 +24166,7 @@
                       "to": "Leffersen"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24174,7 +24174,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24196,7 +24196,7 @@
                       "to": "Bloom"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24204,7 +24204,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24217,7 +24217,7 @@
                       "to": "Deventer"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24225,7 +24225,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24238,7 +24238,7 @@
                       "to": "Cunningham"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24246,7 +24246,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24323,7 +24323,7 @@
                       "to": "Crosper"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24331,7 +24331,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24431,7 +24431,7 @@
                       "to": "Lake"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24439,7 +24439,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24470,7 +24470,7 @@
                       "to": "Durye"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24478,7 +24478,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24490,7 +24490,7 @@
                       "to": "Amerman"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24498,7 +24498,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24511,7 +24511,7 @@
                       "to": "Voorhees"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24519,7 +24519,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24570,7 +24570,7 @@
                       "to": "Durye"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24578,7 +24578,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24591,7 +24591,7 @@
                       "to": "Voorhees"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 },
                 {
                   "op": "core/mass-edit",
@@ -24599,7 +24599,7 @@
                     "facets": [],
                     "mode": "row-based"
                   },
-                  "columnName": "sponsors 2 last",
+                  "columnName": "sponsors 5 last",
                   "expression": "value",
                   "edits": [
                     {
@@ -24631,6 +24631,6 @@
                       "to": "Hubbard"
                     }
                   ],
-                  "description": "Mass edit cells in column sponsors 2 last"
+                  "description": "Mass edit cells in column sponsors 5 last"
                 }
               ]
