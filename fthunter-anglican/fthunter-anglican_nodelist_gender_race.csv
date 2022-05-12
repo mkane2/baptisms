@@ -81,7 +81,7 @@ id,name,gender,race
 79,Sarah Prentop,female,white
 80,Seth 5,male,white
 81,Son of Petrus,male,white
-82,Petrus,unknown,white
+82,Petrus,male,white
 83,William 6,male,white
 84,William Prentop,male,white
 85,Abel,unknown,white
@@ -410,7 +410,7 @@ id,name,gender,race
 408,Susanna Kanighsentha,female,white
 409,Jannitie Kannoenoah,female,white
 410,Catharina,unknown,white
-411,Baltus,unknown,white
+411,Baltus,male,white
 412,Catharine Speck,female,white
 413,Peter Speck,male,white
 414,Volkie Speck,unknown,white
@@ -684,7 +684,7 @@ id,name,gender,race
 682,Margaret 10,female,white
 683,Lydia Seth's daughter,female,white
 684,Catharine5,unknown,white
-685,Lazarus,unknown,white
+685,Lazarus,male,white
 686,Mary 22,female,white
 687,Charles,unknown,white
 688,Pierce Castillo,male,white
@@ -722,7 +722,7 @@ id,name,gender,race
 720,Neeltie 7,female,white
 721,Gerritie Barclay,female,white
 722,Hans Jacob,male,white
-723,Helena,unknown,white
+723,Helena,female,white
 724,Helena Walleslous,female,white
 725,Henry1,unknown,white
 726,Isaac4,unknown,white
@@ -864,7 +864,7 @@ id,name,gender,race
 862,Elizabeth Canostens,female,white
 863,Mary Canostens,female,white
 864,Adam 2,male,white
-865,Jury,unknown,white
+865,Jury,male,white
 866,Mary 25,female,white
 867,Adrian Quackenbus,male,white
 868,Sybrant Quackenbus,male,white
@@ -888,7 +888,7 @@ id,name,gender,race
 886,Child 1,unknown,white
 887,Child 2,unknown,white
 888,Child 3,unknown,white
-889,Christian,unknown,white
+889,Christian,male,white
 890,Christina Eerhart,female,white
 891,Mary Magraw,female,white
 892,Cornelia Cromwell,female,white
@@ -898,7 +898,7 @@ id,name,gender,race
 896,Sarah Paulus' wife,female,white
 897,Daughter1,unknown,white
 898,Joseph 8,male,white
-899,Daniel,unknown,white
+899,Daniel,male,white
 900,David1,unknown,white
 901,Edward2,unknown,white
 902,Luke Casidy,male,white

@@ -1,0 +1,613 @@
+id,name,gender
+0,Pieter Ziele,male
+1,Anatie Ekkerson,unknown
+2,Harman Van Aalstein,unknown
+3,Dorothea Van Slyck,female
+4,Joachim Van Aalstein,male
+5,Eva Valkenburg,female
+6,Dirck Hagedoorn,male
+7,Maria Matthiasse,female
+8,Pieter Larrowa,male
+9,Maria Van Aalstein,female
+10,Jacobus Schoelgraft,male
+11,Anna Christina Kemmer,female
+12,Adam Starenberg,male
+13,Elisabeth Rickert,female
+14,Maattheus Hilts,unknown
+15,Anna Eva Tantelaar,female
+16,Johannes Becker,male
+17,Cornelia Siele,female
+18,Teunis Slingerland,male
+19,Elisabeth Van der Zee,female
+20,Johannes an Indian,male
+21,Maria an Indian (1),female
+22,Petrus an Indian,male
+23,Anna an Indian,female
+24,Conrad Rickert,male
+25,Elisabeth Haus,female
+26,Coenraad Coen,male
+27,Margrieta Koning,female
+28,Mathias Warner,male
+29,Anna Parub,female
+30,Johannes Braun,male
+31,Maria Elisabeth Vrymayer,female
+32,Johannes Ekkerson,male
+33,Maria Borst,female
+34,Storm Brat,mostly_male
+35,Sophia Zyle,female
+36,Lambert Sternberg,male
+37,Catharina Feller,female
+38,Christian Bauch,male
+39,Adilia Bekker,female
+40,Friederich Bauch,male
+41,Magdalena Ekkerson,female
+42,Adam Vroman,male
+43,Dina Larrowa,female
+44,Reyer Bakster,male
+45,Apollonia Ekkerson,female
+46,Bartholomeus Vroman,male
+47,Susanna Brat,female
+48,Pieter Beckker,male
+49,Sara Slingerland,female
+50,Simeon Larrowa,male
+51,Jannite Van der Volge,unknown
+52,Johan Joost Snell,male
+53,Maria Cathrina Graft,female
+54,Ludovicus Rikkert,unknown
+55,Catharian Coenraadse,unknown
+56,Markus Rickert,male
+57,Niclaas Feeck,unknown
+58,Margrieta Millers,female
+59,Jurrie Hous,unknown
+60,Cathrina Eerhart,unknown
+61,Willem Bekker,male
+62,Anna Dorothea York,female
+63,Barent Vroman,unknown
+64,Engeltie Swart,unknown
+65,Jurriaan Timmer,male
+66,Maria Elisabeth Craus,female
+67,Hendreck Passagie,unknown
+68,Sophia Magdalena Casselman,female
+69,Pieter Livingston,male
+70,Anna Apolonia Oosterman,female
+71,Storm Becker Jr.,mostly_male
+72,Geerdruid Klein,unknown
+73,Niclaas Matheyse,unknown
+74,Elisabeth Cas,female
+75,Markus Bellinger,male
+76,Maria Margerith Zee,female
+77,Anthony Beckker,male
+78,Margreet Berninger,female
+79,Robbert Herres,male
+80,Niclaas Ekkerson,unknown
+81,Maria Mardalene Horn,female
+82,Storm Becker,mostly_male
+83,Josias Swart,unknown
+84,Jannitie Vroman,unknown
+85,Barbara Bellinger,female
+86,Cornelis Van Aalstein,male
+87,Dennye Fort,unknown
+88,Robbin Frieman,mostly_female
+89,Molli Van der Lein,unknown
+90,Johannes Zee,male
+91,Anna Catherina Bellinger,female
+92,Deobald Hils,unknown
+93,Anna Eva Nerbel,female
+94,Henderick Knieskern,unknown
+95,Elisabeth Schaeffer,female
+96,Hendreck Coenraad,unknown
+97,Anna Maria Staring,female
+98,Hieronymus Heszoog,male
+99,Anna Margaritha Winther,female
+100,John Marte Borst,male
+101,Catharina Mathyse,female
+102,Jurrie Zimmer,unknown
+103,James Schilkragt,male
+104,Lodewyck Wanner,unknown
+105,Anna Margareth Coen,female
+106,Jochim Falckenberg,unknown
+107,Helena Warnar,female
+108,Michel Frederick,male
+109,Gertraud Livingston,female
+110,Hendrick Scheffer,male
+111,Anna Maria Schäfer,female
+112,Anna Maria Scherg,female
+113,Johan Niclaas Matheese,male
+114,Jacob Merckel,male
+115,Anna Maria Merckel,female
+116,Niclaas Miller,unknown
+117,Mary Dorotha,mostly_female
+118,Jurrie Coen,unknown
+119,Anna Rosina,female
+120,David Ziele,male
+121,Engeltie Vroman,unknown
+122,Peter Sneider,male
+123,Elisa Cathrin Brucker,female
+124,Adam Braun,male
+125,Eva Vrymeyer,female
+126,Johan Andries Heering,male
+127,Eva Catharin Heering,female
+128,Seth an Indian,male
+129,Catharina an Indian,female
+130,John Georgie an Indian,male
+131,Susanna an Indian,female
+132,John Hendrick Loux,male
+133,Anna Elisabeth Loux,female
+134,Peter Mann,male
+135,Anna Margareth Mann,female
+136,John Rudolf Achenbach,male
+137,Elisa Catharin Ackebach,female
+138,Johannes Lourens Neubergh,male
+139,Elisabeth Warner,female
+140,Jans Jurria an Indian,andy
+141,Anna Margaretha Berninger,female
+142,Pieter Ball,male
+143,Anna Margareth Ball,female
+144,Malli Frieman,unknown
+145,Lammert Van Aalstyn,male
+146,Beckki Van Aalstyn,unknown
+147,Margarith Feeck,unknown
+148,Henrick Hauch,male
+149,Anna Fronica,female
+150,Hannes Weidman,male
+151,Anna Weidman,female
+152,Godvried Knieskern,unknown
+153,Anna Margareth Knieskern,female
+154,Michael Sultsberger,male
+155,Margareth Siek,female
+156,Thomas Ekkerson,male
+157,Margaritie Slingerland,unknown
+158,Johannes Ingolt,male
+159,Anna Margaretha Ingold,female
+160,Jonathan Hoogdeele,male
+161,Neeltie Van der Volge,unknown
+162,Harman Sidnig,unknown
+163,Maria Catharina,female
+164,Conrad Freymauer,male
+165,Anna Maria Freymauer,female
+166,George Coen,male
+167,Michel Wanner,male
+168,Anna Elisabeth,female
+169,Rudolpf Ackenbach,unknown
+170,Elisa Catharina,female
+171,Andres Muller,male
+172,Martia Dorothea,unknown
+173,Jacob Enters,male
+174,Anna Maria,female
+175,Johan Anthon Engel,male
+176,Juliana Engel,female
+177,Barend Kayser,male
+178,Maria Barbara Keiser,female
+179,Robin Harrison,mostly_male
+180,Elisabeth Harrison,female
+181,Theunis Ekkerson,male
+182,Anna Margareth,female
+183,Friederich Carl Schell,male
+184,Maria Barbara Schell,female
+185,Niclaas Loam,unknown
+186,Susanna Margaretha Lahm,female
+187,Catharina Schert,female
+188,Gurrie Seibel,unknown
+189,Anna Maria Reyin,female
+190,Hendrick Merki,male
+191,Frina Bucher,unknown
+192,Henrich Kniskern,male
+193,Elisabeth Kniskern,female
+194,Maria Barbara Werner,female
+195,Catharina Sternberg,female
+196,Peter Löwenstein,male
+197,Anna Abelena Löwenstein,female
+198,Johan Friederich Bauch,male
+199,Magdalena Bauch,female
+200,Johannes Balthasar Borst,male
+201,Jurgen Henrich Stubrach,male
+202,Maria Margareth,female
+203,Johan Wilhelm Bauch,male
+204,Anna Elisabeth Bauch,female
+205,Johannes Nicolaus Lahm,male
+206,Johannes Bauch,male
+207,Rudolph Affenbach,male
+208,Johannes Schäfer Jr,male
+209,Anna Gerdraut Schäfer,female
+210,Jacob Sternberg,male
+211,Eva Sternberg,female
+212,Christina Elisabet Bauch,female
+213,Hieronymus Kräusler,male
+214,Susanna Magdalena Falckenburg,female
+215,Johan Nicolas Becker,male
+216,Elisabeth Becker,female
+217,Peter N. Sommer,male
+218,Maria Sommer,female
+219,Abelona Lowenstein,unknown
+220,Peter Mesi Froman,male
+221,Anna Barbara,female
+222,Johannes Casselman,male
+223,Maria Eva,female
+224,Johan Michel Brand,male
+225,Jürgen Förster,male
+226,Jost Werner,male
+227,Michel Brand,male
+228,Barbara Warner,female
+229,Adam Schäfer,male
+230,Maria Magdalena,female
+231,Jacob Veeg,male
+232,Sebastian Becker,male
+233,Anna Eva,female
+234,Michel Borst,male
+235,Adam Zee,male
+236,Anna Maria Bellinger,female
+237,Michel Hilsinger,male
+238,Jacob an Indian (1),male
+239,Maria an Indian (2),female
+240,Conrad Quand,male
+241,Christian Schulkraf,male
+242,Elisabeth Margareth,female
+243,Sebastian Franz,male
+244,Tobias Haün,male
+245,Maria Elisabeth,female
+246,Paul Brandner,male
+247,Lorentz Jr. an Indian,male
+248,Sara an Indian,female
+249,Tinus an Indian,male
+250,Nelje an Indian,unknown
+251,Wilhelm Entes,male
+252,Joseph an Indian,male
+253,Maria an Indian (4),female
+254,Henrich Matthes,male
+255,Jacob an Indian (2),male
+256,Christina an Indian,female
+257,Jacob Ball,male
+258,Seth Vroman,male
+259,Samuel Hagedoorn,male
+260,Isaak Van Aalstein,male
+261,Joost Bellinger,male
+262,Jurriaan Sibel,male
+263,Cornelius Sixbury,male
+264,Storm Vander Zee,mostly_male
+265,William Fox,male
+266,Henerich Falckenburg,unknown
+267,Jacobus Falckenburg,male
+268,Johann Michael Freymeyer,male
+269,Johannes Van Sleek,male
+270,Martinus Van Aalstein,male
+271,Coenraad Haus,male
+272,Fredrik Bekker,male
+273,Jonas Larrowa,male
+274,Robbert Frieman,male
+275,Isaack Faalck,unknown
+276,Johannes Vedder,male
+277,Pieter Vroman,male
+278,Timotheus Vroman,male
+279,Jacob Borst Jr,male
+280,Johannes Frederik,male
+281,Cornelis Vroman,male
+282,Niclaas Yorck,unknown
+283,Hendreck Mathyse,unknown
+284,Lambert Starenberg,male
+285,Hendrick Bellinger,male
+286,John Larrowa,male
+287,Harme Haus,unknown
+288,Johannes Becker Jr.,male
+289,Abraham Berg,male
+290,Thenis Van der Volge,unknown
+291,John Jurrie Ekkerson,male
+292,Marthynes Vrooman,unknown
+293,Martins Rickert,unknown
+294,Conrad Freimauer,male
+295,Ephraim Bradt,male
+296,Christeyaam Scheffer,unknown
+297,John Wilhelm Kemmer,male
+298,Adam Swart,male
+299,Michael Vrymayer,male
+300,Jerri Sybel,female
+301,Johannes Schäfer,male
+302,Jacob Sneider,male
+303,Abram Van Aalsytn,male
+304,John Michael Wanner,male
+305,Harman Valkenburgh,unknown
+306,Johan Philip Fux,male
+307,Johannes Beckker Sr.,male
+308,Willem Bartram Enters,male
+309,Johannes Lawyer Sr,male
+310,Willem Bauck,male
+311,Johannes Finck,male
+312,Joost Knieskern,male
+313,Hans Jurrie an Indian,male
+314,Maria an Indian (3),female
+315,Louzus an Indian,unknown
+316,Juriie Ekkerson,unknown
+317,Pieter Bratd,male
+318,Diderick Jokkob,unknown
+319,Hannes Bauch,male
+320,Pieter Midler,male
+321,Johan Lips Berg,male
+322,John Peter Vischer,male
+323,Joseph Bestede,male
+324,Hans Jurrie Couterman,male
+325,Andries Waard,male
+326,John Niclaas Beckker,male
+327,Hamran Van der Zee,unknown
+328,Joseph Dance,male
+329,Johannes Bal,male
+330,Jacob Freidrich Lawyer,male
+331,Johannes Knieskern,male
+332,Pellis Warreson,unknown
+333,Hendrick Stuprach,male
+334,Matthes Bowman,unknown
+335,John Lawyer Jr.,male
+336,Jacob Mentes,male
+337,Jacob Zimmer,male
+338,John Philips Bergh,male
+339,Joerge Henderick,unknown
+340,Willem Dietz,male
+341,Michael Francken,male
+342,Hannis Lawyer Jr.,unknown
+343,Gotfried Kniskern,unknown
+344,Elisabeth --gern,female
+345,Peter Kniskern,male
+346,Peter Nicolas Sommer,male
+347,Johannes Freymäuer,male
+348,Christian Bauch Sr.,male
+349,Johan Peter Kniskern,male
+350,Anna Dorothea Bauch,female
+351,Joseph Schneider,male
+352,Johann Jurgen Werner,male
+353,Eva Staring,female
+354,Jost Kniskern,male
+355,Anton Engel,male
+356,Marten Hook,male
+357,Asten Schulkraf,unknown
+358,Gerdraut Friederichs,unknown
+359,Johannes Martin Borst,male
+360,Jost Borst,male
+361,Jacob Egert,male
+362,Christian Bauch Jr.,male
+363,Henrich Bellinger,male
+364,Martinus von Alstein,male
+365,Jacob Friederich Lawyer,male
+366,Johannes Lawyer Jr,male
+367,Johan Henrich Mann,male
+368,Jürgen Werner,male
+369,Niclas Matthes,male
+370,Jurgen Windecker,male
+371,Ludwig Rickert,male
+372,Lorentz Lawyer,male
+373,Jacob Friderich Lawyer,male
+374,Johan Mickel Becker,male
+375,Christian Schäfer,male
+376,Jürgen Seibel,male
+377,Jellis Worris,unknown
+378,Mr Feller,unknown
+379,Johan Jacob Häns,male
+380,Henrich Häns,male
+381,Matthes Werner,unknown
+382,Wilhelm Maters,male
+383,Johannes Wolfgang Berlet,male
+384,Peter Jung,male
+385,Peter Vroman,male
+386,Johann Peter Kniskern,male
+387,Johannes Freymauer,male
+388,Jacob Häns,male
+389,Johan Jost matthes,male
+390,Michel Freymäuer,male
+391,Jürgen Zimmer,male
+392,Niclas York,male
+393,Henrich Schäfer,male
+394,Philip Berg,male
+395,Jacob Schäfer,male
+396,Michel Friemäuer,male
+397,Johan Balthasar Borst,male
+398,Martinus Schäfer,male
+399,Johannes Veeg,male
+400,Margareta Seibel,female
+401,Henrich Conrad,male
+402,Cornelius Vroman,male
+403,Jürgen Henrich Stubrach,male
+404,Christian Zee,male
+405,Johannes Rickert,male
+406,Marx Rickert,unknown
+407,Nickel Matthes,male
+408,Wilhelm Braun,male
+409,Jürgen Ricktmeier Jr.,male
+410,Nickel Sternberg,male
+411,Johannes Borst,male
+412,Salomon Meier,male
+413,Reinhard Häns,male
+414,Henrich Merki,male
+415,Maria Kniskern,female
+416,Adam Kräusler,male
+417,Jacob Krieshauf,male
+418,Jacob Shäfer,male
+419,Mark Rickert,male
+420,Johan Jost Borst,male
+421,Christian Bachmann,male
+422,Christian Schelf,male
+423,Jürgen Henrich Mann,male
+424,Anton Becker,male
+425,Stephen Friederich,male
+426,Johannes Schäfer Jr.,male
+427,Jost Matthes Jr.,male
+428,Henrich Schäfer Jr,male
+429,Jacob Friedrich Lawyer,male
+430,Johan Christoph Ohle,male
+431,Jurgen Michel Happolt,male
+432,Christolph Merckle,unknown
+433,Andres Rantzis,male
+434,Michel Freymauer,male
+435,Gottlieb Kospott,male
+436,Johan Michel König,male
+437,Anthon Widmer,male
+438,Franz Otto,male
+439,Friederich Schupp,male
+440,Johannes Eckert,male
+441,Michel Merckle,male
+442,Henrich Frey,male
+443,Adam Becker,male
+444,Philip Merckel,male
+445,Lorentz Sr. an Indian,male
+446,Henrich Häger,male
+447,Philip Freymäuer,male
+448,Johan Jacob Werth,male
+449,Johannes Ingold,male
+450,Caspar Christolph Rettig,male
+451,Jürgen Huls,male
+452,Johan Nickel Matthes,male
+453,Adam Braun Jr.,male
+454,Leonhard Adam Ramser,male
+455,Henrich Ball,male
+456,Eberhard Bürckle,male
+457,Johannes Stürtz,male
+458,Richard Baxter,male
+459,Maria Ziele,female
+460,Eva Van Aalstein,female
+461,Derkje Van Sleek,unknown
+462,Elisabeth Teller,female
+463,Catherina Van Aalstein,female
+464,Johannes Siever,male
+465,Elisabeth Savooja,female
+466,Maria Engel Hils,female
+467,Annatje Bekker,unknown
+468,Antje Van der Zee,female
+469,Maria Slingerland,female
+470,Magrieta Pellinger,unknown
+471,Catharina Bellinger,female
+472,Helena Van Sleek,female
+473,Corneila Larrowa,unknown
+474,Christina Walraad,female
+475,Cathrina Zenger,unknown
+476,Anna Dorothea,female
+477,Anatche Uzile,unknown
+478,Dina Hagedoorn,female
+479,Lydia Van Slyck,female
+480,Maria Fort,female
+481,Geertje Van Aalstein,female
+482,Elisabeth Slingerland,female
+483,Margrieta Viele,female
+484,Elisabeth Broekkerzon,female
+485,Sophia Layers,female
+486,Maria Catje Snell,female
+487,Maria Dorothea Warner,female
+488,Maria Elisabeth Berg,female
+489,Sofina Mathyse,unknown
+490,Barbara Wanner,female
+491,Marytie Klein,unknown
+492,Sara Van der Volge,female
+493,Elisa Margareth Winner,female
+494,Marytie Larrowa,unknown
+495,Elisabeth Lawyer,female
+496,Engeltie Ziele,unknown
+497,Elisabeth Bellinger,female
+498,Anna Maria Knieskern,female
+499,Anna Appalonia Warner,female
+500,Anatie Siele,unknown
+501,Margarith Bauch,unknown
+502,Anna Maria Bauch,female
+503,Cornelia Van der Berg,female
+504,Dintie Vroman,unknown
+505,Anna Maria Zoller,female
+506,Anna Eva Fux,female
+507,Geertraud Ekkerson,unknown
+508,Elisabeth Sneider,female
+509,Jannitie Van Aalstyn,unknown
+510,Anna Elisabeth Ceonin,female
+511,Anna Margareeth Beckkers,female
+512,Apelonia Livingston,unknown
+513,Lise Berbel Coen,female
+514,Marytie Ziele,unknown
+515,Geertruid Vroman,unknown
+516,Elisa Barbara Coen,female
+517,Elisabeth Sternberg,female
+518,Elisa Chatarin Sneider,female
+519,Ann Elies Berninger,female
+520,Maria Elisabeth Knieskern,female
+521,Maria Eva Hils,female
+522,Marytie Scheffer,unknown
+523,Maria Hagedoorn,female
+524,Elisabeth Vreymeyer,female
+525,Mary Christina Enters,mostly_female
+526,Margaretha Elisabeth Sneider,female
+527,Anna Elisabeth Berg,female
+528,Cornelia Beckker,female
+529,Catharina Elisabeth Ballin,female
+530,Mary Catharin Vreymeyer,mostly_female
+531,Elisa Margaret Knieskern,female
+532,Elisabeth Couterman,female
+533,Catharina Seibel,female
+534,Dorothea Wanner,female
+535,Eva Van der Zee,female
+536,John Jacob Zimmer,male
+537,Angentie Vedder,unknown
+538,Anna Rickert,female
+539,Maria Catherina Ekkerson,female
+540,Elisabeth Berg,female
+541,Maria Magdalena Inkhoold,female
+542,Cornelia Van Aalstyn,female
+543,Anna Maria Beckker,female
+544,Eva Starnberger,female
+545,Maria Barbara Bellinger,female
+546,Catharina Elisabeth,female
+547,Maria Margareth Zimmer,female
+548,Hannes Hagedoorn,male
+549,Anna Margaretha Kniskern,female
+550,Dorothea Hüls,female
+551,Maria Magdalena Ingold,female
+552,Anna Elisabet Berg,female
+553,Margaretha Ballen,female
+554,Catharina Schäfer,female
+555,Elisabeth Barbara Sternberg,female
+556,Margareta Contermann,female
+557,Maria Magdalena Ingoldt,female
+558,Magdalena Peg,female
+559,Catharina Kayser,female
+560,Bartholomaus Osterman,unknown
+561,Catharina Elisabet Ballen,female
+562,Anna Maria Rickert,female
+563,Margareth Bellinger,female
+564,Jost Schäfer,male
+565,Maria Elisabet Schneider,female
+566,Johannes Kniskern,male
+567,Wilhelm Schneider,male
+568,Margareth Freimäuer,female
+569,Margareth Freymäuer,female
+570,Margaretha Braun,female
+571,Catharina Matthes,female
+572,Christina Schäfer,female
+573,Maria Werner,female
+574,Jürgen Rickert,male
+575,Catharina Zimmer,female
+576,Elisabetha Becker,female
+577,Sophia Rickert,female
+578,Elisabet Barbara Sternberg,female
+579,Catharina Ingold,female
+580,Eva Richtmeier,female
+581,Gerdraut Conrad,unknown
+582,Maria Veeg,female
+583,Sophia Ingold,female
+584,Maria Elisabeth Yorck,female
+585,Peter Becker,male
+586,Magdalena Braun,female
+587,Anna Matthes,female
+588,Anna Bellinger,female
+589,Dorothea Seibel,female
+590,Elisabeth Veeg,female
+591,Catherina Ingold,female
+592,Maria Catharina Sommer,female
+593,Elisabeth Kräusler,female
+594,Gerdraut Zimmer,unknown
+595,Catharina Becker,female
+596,Elisabeth Schulkraf,female
+597,Margaretha Kayser,female
+598,Sara Matthes,female
+599,Catharina Rickert,female
+600,Elisabeth Schneider,female
+601,Magrieta Bekker,unknown
+602,Magdalena Bekker,female
+603,Christiaan Bauch,male
+604,Joost Mathees,male
+605,Maria Elisabeth Zimmer,female
+606,Eva Sternburg,female
+607,Christian Ernst Ottman,male
+608,Hendrik Valkenburg,male
+609,Margaretha Bauch,female
+610,Johanna Heuk,female
+611,Isaac an Indian,male
