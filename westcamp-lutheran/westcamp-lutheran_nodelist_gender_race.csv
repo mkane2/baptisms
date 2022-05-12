@@ -1,7 +1,7 @@
 id,name,gender,race
 0,Jacob Weber,male,white
 1,Anna Elisabetha Weber,female,white
-2,Andeas Volck,unknown,white
+2,Andeas Volck,male,white
 3,Anna Catharina Volck,female,white
 4,Johan Michael Schutz,male,white
 5,Maria Schutz,female,white
@@ -15,10 +15,10 @@ id,name,gender,race
 13,Catharina Springstein,female,white
 14,Johan Breuen,male,white
 15,Christina Breuen,female,white
-16,Obadias Winter,unknown,white
+16,Obadias Winter,male,white
 17,Susanna Winter,female,white
 18,Samuel Knackli,male,white
-19,Emicke Knackli,unknown,white
+19,Emicke Knackli,female,white
 20,William Arsen,male,white
 21,Elisabetha Arsen,female,white
 22,Just Henrich Schaster,male,white
@@ -39,7 +39,7 @@ id,name,gender,race
 37,Sibylla Charlotta Kocherthal,female,white
 38,Johan Jacob Schnitt,male,white
 39,Maria Elisabetha Schnitt,female,white
-40,Niclaus Haas,unknown,white
+40,Niclaus Haas,male,white
 41,Sabina Haas,female,white
 42,Johan Georg Klug,male,white
 43,Susanna Klug,female,white
@@ -72,9 +72,9 @@ id,name,gender,race
 70,William Thibaux,male,white
 71,Maria Thibaux,female,white
 72,William Weight,male,white
-73,Goodith Weight,unknown,white
+73,Goodith Weight,male,white
 74,Salomon Schutt,male,white
-75,Janike Schutt,unknown,white
+75,Janike Schutt,female,white
 76,Henrich Chisem,male,white
 77,Anna Chisem,female,white
 78,Jacob Porst,male,white
@@ -82,13 +82,13 @@ id,name,gender,race
 80,Georg Luckstad,male,white
 81,Elisabetha Lookstad,female,white
 82,Benjamin Elswa,male,white
-83,Famige Elswa,unknown,white
+83,Famige Elswa,female,white
 84,Isaac Henrickson,male,white
 85,Judith Henrickson,female,white
 86,Johan Brein,male,white
 87,Elisabetha Brein,female,white
 88,Pieter De Bois,male,white
-89,Janike Bois,unknown,white
+89,Janike Bois,female,white
 90,Ludwig Bertsch,male,white
 91,Catharina Bertsch,female,white
 92,Johan Planck,male,white
@@ -117,7 +117,7 @@ id,name,gender,race
 115,Anna Castelmann,female,white
 116,Johan Henrich Leich,male,white
 117,Elisabetha Leich,female,white
-118,Niclaus Korner,unknown,white
+118,Niclaus Korner,male,white
 119,Anna Magdalena Korner,female,white
 120,Johan Henrich Mann,male,white
 121,Maria Elisabetha Mann,female,white
@@ -129,7 +129,7 @@ id,name,gender,race
 127,Magdalena Werner,female,white
 128,Peter Voshel,male,white
 129,Maria Voshel,female,white
-130,Niclaus Staring Zigler,unknown,white
+130,Niclaus Staring Zigler,male,white
 131,Maria Catharina Zigler,female,white
 132,Christian Meyer,male,white
 133,Anna Gerdraut Meyer,female,white
@@ -171,9 +171,9 @@ id,name,gender,race
 169,Anna Ursula Stahl,female,white
 170,Gerhard Wallrath,male,white
 171,Anna Catharina Wallrath,female,white
-172,Albracht Schreiber,unknown,white
+172,Albracht Schreiber,male,white
 173,Eva Schreiber,female,white
-174,Veltin Kuhn,unknown,white
+174,Veltin Kuhn,male,white
 175,Anna Catharina Kuhn,female,white
 176,Hartman Windecker,male,white
 177,Barbara Elisabetha Windecker,female,white
@@ -216,7 +216,7 @@ id,name,gender,race
 214,Georg Saltmann,male,white
 215,Anna Margretha Saltmann,female,white
 216,Agnes Schast,female,white
-217,Niclaus Ohmich,unknown,white
+217,Niclaus Ohmich,male,white
 218,Anna Catharina Ohmich,female,white
 219,Johann Fridrich Merckel,male,white
 220,Barbara Merckel,female,white
@@ -228,7 +228,7 @@ id,name,gender,race
 226,Maria Catharina Mossig,female,white
 227,Conrad Wust,male,white
 228,Maria Apollonia Wust,female,white
-229,Niclaus Trombour,unknown,white
+229,Niclaus Trombour,male,white
 230,Magdalena Trambauer,female,white
 231,Hieronymus Scheib,male,white
 232,Anna Catharina Scheib,female,white
@@ -262,10 +262,10 @@ id,name,gender,race
 260,Elisabeth Catharina Eckhard,female,white
 261,Peter Janson,male,white
 262,Maria Janson,female,white
-263,Rennier Von Husum,unknown,white
+263,Rennier Von Husum,male,white
 264,Anna Husum,female,white
 265,Johan Bond,male,white
-266,Janike Bond,unknown,white
+266,Janike Bond,female,white
 267,Johan Hess,male,white
 268,Catharina Hess,female,white
 269,Peter Losting,male,white
@@ -286,7 +286,7 @@ id,name,gender,race
 284,Anna Maria Bell,female,white
 285,Jorg Martin Dillenbach,male,white
 286,Sara Catharina Dillenbach,female,white
-287,Niclaus Feller,unknown,white
+287,Niclaus Feller,male,white
 288,Maria Elisabetha Feller,female,white
 289,Jacob Kobel,male,white
 290,Anna Maria Kobel,female,white
@@ -339,7 +339,7 @@ id,name,gender,race
 337,Maria Marten,female,white
 338,Georg Johann Decker,male,white
 339,Maria Decker Decker,female,white
-340,Durck Wenn Reichard,unknown,white
+340,Durck Wenn Reichard,male,white
 341,Anna Reichard,female,white
 342,Johan Henrich Schmid,male,white
 343,Anna Catharina Schmid,female,white
@@ -364,7 +364,7 @@ id,name,gender,race
 362,Johan Peter Becker,male,white
 363,Adam Spohn,male,white
 364,Anna Maria Spohn,female,white
-365,Ananias Dihl,unknown,white
+365,Ananias Dihl,male,white
 366,Elisabetha Dihl,female,white
 367,Peter Aigner,male,white
 368,Anna Margretha Aigner,female,white
@@ -405,18 +405,18 @@ id,name,gender,race
 403,Anna Margretha Wolleben,female,white
 404,Johan Wilhelm Tales,male,white
 405,Anna Margretha Tales,female,white
-406,Ruloph Deteutsher,unknown,white
-407,Janike Deteutsher,unknown,white
+406,Ruloph Deteutsher,male,white
+407,Janike Deteutsher,female,white
 408,Johan Henrich Bruchler,male,white
 409,Magdalena Bruchler,female,white
-410,Niclaus Bohnenstihl,unknown,white
+410,Niclaus Bohnenstihl,male,white
 411,Anna Margretha Bohnenstihl,female,white
-412,Niclaus Michel,unknown,white
+412,Niclaus Michel,male,white
 413,Maria Barbara Michel,female,white
 414,Philip Wilhelm Mohr,male,white
 415,Christina Moor,female,white
 416,Elisabetha Brandau,female,white
-417,Vanentin Wolleben,unknown,white
+417,Vanentin Wolleben,male,white
 418,Susanna Wolleben,female,white
 419,Philip Haupt,male,white
 420,Gerdraut Haupt,male,white
@@ -440,7 +440,7 @@ id,name,gender,race
 438,Georg Schaster,male,white
 439,Michael Bronk,male,white
 440,Anna Maria Bronk,female,white
-441,Lazarus Dorn,unknown,white
+441,Lazarus Dorn,male,white
 442,Anna Margretha Dorn,female,white
 443,Anna Catharina Hess,female,white
 444,Antoni Kraemer,male,white
@@ -454,9 +454,9 @@ id,name,gender,race
 452,Regina Henrich,female,white
 453,Isaac Spoor,male,white
 454,Annika Spoor,female,white
-455,Wandel Jager,unknown,white
+455,Wandel Jager,male,white
 456,Christina Elisabeth Jager,female,white
-457,Niclaus Laux,unknown,white
+457,Niclaus Laux,male,white
 458,Anna Elisabetha Laugs,female,white
 459,Henrich Sixt,male,white
 460,Christina Sixt,female,white
@@ -498,7 +498,7 @@ id,name,gender,race
 496,Anna Maria Seibert,female,white
 497,Johan Peter Kniestkerz,male,white
 498,Elisabetha Barbara Kniestkerz,female,white
-499,Richart Wenn,unknown,white
+499,Richart Wenn,male,white
 500,Anna Wenn,female,white
 501,Johan Wulfen,male,white
 502,Anna Margretha Wulfen,female,white
@@ -508,7 +508,7 @@ id,name,gender,race
 506,Johan Niclaus Michel,male,white
 507,Anna Barbara Michel,female,white
 508,Dorothea Schaster,female,white
-509,Jerg Schaster Schaster,unknown,white
+509,Jerg Schaster Schaster,male,white
 510,Philip Muller,male,white
 511,Anna Catharina Muller,female,white
 512,Carl Naher,male,white
@@ -523,7 +523,7 @@ id,name,gender,race
 521,Andreas Frantz Coutermann,male,white
 522,Sibylla Coutermann,female,white
 523,Peter Becker,male,white
-524,Veltin Frohlich,unknown,white
+524,Veltin Frohlich,male,white
 525,Herman Segendorst,male,white
 526,Maria Catharina Segendorst,female,white
 527,Johan Georg Hohn,male,white
@@ -543,7 +543,7 @@ id,name,gender,race
 541,Ludwig Wanner,male,white
 542,Anna Barbara Wanner,female,white
 543,Johan Schaster,male,white
-544,Niclaus Ruhl,unknown,white
+544,Niclaus Ruhl,male,white
 545,Anna Dorothea Margreth Ruhl,female,white
 546,Henrich Ohrendorst,male,white
 547,Anna Margretha Ohrendorst,female,white
@@ -551,7 +551,7 @@ id,name,gender,race
 549,Margretha Baumann,female,white
 550,Johan Keyser,male,white
 551,Anna Margretha Keyser,female,white
-552,Wiesan Bruschi,unknown,white
+552,Wiesan Bruschi,male,white
 553,Elsgen Bruschi,male,white
 554,Benjamin Rees,male,white
 555,Gerdraut Rees,male,white
@@ -572,11 +572,11 @@ id,name,gender,race
 570,Anna Sophia Ellich,female,white
 571,Jan Wulssen,male,white
 572,Anna Margretha Wulssen,female,white
-573,Veltin Bander,unknown,white
+573,Veltin Bander,male,white
 574,Anna Margretha Bander,female,white
 575,Elisabetha Catharina Brandau,female,white
 576,Johan Jacob Zerb,male,white
-577,Amria Catherine Zerb,unknown,white
+577,Amria Catherine Zerb,female,white
 578,Johan Conrad Ritser,male,white
 579,Anna Ritser,female,white
 580,Peter Burckhard,male,white
@@ -676,10 +676,10 @@ id,name,gender,race
 674,Johan Franck,male,white
 675,Maria Margretha Schast,female,white
 676,Anna Cast,female,white
-677,Omy La Gransche,unknown,white
+677,Omy La Gransche,male,white
 678,Volkart Von Husum,male,white
 679,Mattheus Guss,male,white
-680,Andeas Baggs,unknown,white
+680,Andeas Baggs,male,white
 681,Wilhelm Rees,male,white
 682,Jacob Sternberger,male,white
 683,Johan Henrich Conrad,male,white
@@ -701,7 +701,7 @@ id,name,gender,race
 699,Henrich Stubenrauch,male,white
 700,Wilhelm Kuster,male,white
 701,Sebastian Treber,male,white
-702,Niclaus Jung,unknown,white
+702,Niclaus Jung,male,white
 703,Joris Decker,male,white
 704,Adam Schmid,male,white
 705,Jan Chisem,male,white
@@ -711,32 +711,32 @@ id,name,gender,race
 709,Jacob Best,male,white
 710,Joh Stahl Christian Meyer,male,white
 711,Joh Peter Sutz,male,white
-712,Amilia Kle,unknown,white
+712,Amilia Kle,female,white
 713,Georg Schmid,male,white
 714,Margaretha Scharman,female,white
-715,Veltin Falckenburger,unknown,white
+715,Veltin Falckenburger,male,white
 716,Johan Lamert,male,white
 717,Conrad Mart,male,white
 718,Johan Herman Speickermann,male,white
-719,Balthas Stuber,unknown,white
+719,Balthas Stuber,male,white
 720,Marcus Bellinger,male,white
 721,Georg Maurer,male,white
 722,Johan Wilhelm Lehmann,male,white
 723,Gerhard Horning,male,white
-724,Niclaus Schmid,unknown,white
+724,Niclaus Schmid,male,white
 725,Samuel Muller,male,white
 726,Johan Wendel Pulver,male,white
 727,Georg Demuth,male,white
 728,Johan Fuhrer,male,white
 729,Jacob German,male,white
 730,Peter Dippel,male,white
-731,Veltin Wolleban,unknown,white
+731,Veltin Wolleban,male,white
 732,Johan Niclaus Hess,male,white
 733,Hieronymus Kle,male,white
 734,Catharina Scheib,female,white
 735,Gottfrid Wulsten,male,white
 736,Henrich Heysorn,male,white
-737,Niclaus Rau,unknown,white
+737,Niclaus Rau,male,white
 738,Bernhard Noll,male,white
 739,Johan Jacob Caputzgi,male,white
 740,Johan Georg Brigel,male,white
@@ -753,7 +753,7 @@ id,name,gender,race
 751,Peter Bitzer,male,white
 752,Johan Herman Hartman,male,white
 753,wife of Ulrich Weinger,female,white
-754,Reichart Backus,unknown,white
+754,Reichart Backus,male,white
 755,Susanna Schutz,female,white
 756,Henrich Frey,male,white
 757,Johan Peter Thomas,male,white
@@ -913,15 +913,15 @@ id,name,gender,race
 911,wife of Henrich Lorentz,female,white
 912,Anna Margretha Muller,female,white
 913,Maria Elisabeth Backus,female,white
-914,Niclaus Bason,unknown,white
+914,Niclaus Bason,male,white
 915,wife of Henrich Stubenrauch,female,white
 916,Maria Elizabetha Fritz,female,white
 917,Magdalena Eckhard,female,white
 918,Anna Maria Richter,female,white
 919,Elisabetha Straubin Maria,female,white
-920,Arianicke Decker,unknown,white
+920,Arianicke Decker,female,white
 921,Catharina Elisabeth Schleicher,female,white
-922,Eutike La Gransche,unknown,white
+922,Eutike La Gransche,female,white
 923,Anna Maria Thomas,female,white
 924,Gerdraut Prusie,male,white
 925,Catharina Widerwaxin Maria,female,white
@@ -950,7 +950,7 @@ id,name,gender,race
 948,Sophia Horning,female,white
 949,Anna Catharina Rohrbach,female,white
 950,Anna Muller,female,white
-951,Theobold Scherer,unknown,white
+951,Theobold Scherer,male,white
 952,Anna Margretha Dopf,female,white
 953,Anna Maria Matheus,female,white
 954,Christina Oberbach,female,white
@@ -990,7 +990,7 @@ id,name,gender,race
 988,wife of Christian Bauch,female,white
 989,wife of Johann Schafer,female,white
 990,Anna Gerdraut Petri,female,white
-991,daughter of Niclaus Feller,unknown,white
+991,daughter of Niclaus Feller,female,white
 992,Anna Catharina Groster,female,white
 993,Anna Margaretha Schast,female,white
 994,Anna Margretha Land,female,white
@@ -1051,7 +1051,7 @@ id,name,gender,race
 1049,wife of Dietrich Sutz,female,white
 1050,Catharina Ludwigin Susanna,female,white
 1051,Catharina Mosigin Maria,female,white
-1052,Kuster Veltin Falckenburger,unknown,white
+1052,Kuster Veltin Falckenburger,male,white
 1053,Henrich Vos,male,white
 1054,Jannicke Schutz,female,white
 1055,Jonathan Chamboray,male,white
@@ -1078,7 +1078,7 @@ id,name,gender,race
 1076,Hans Veltin Falckenburger,male,white
 1077,Maria Regina Fridrichs,female,white
 1078,Margaretha Mert,female,white
-1079,Ludolph Curring,unknown,white
+1079,Ludolph Curring,male,white
 1080,Maria Margretha Wagner,female,white
 1081,Anna Eva Thomas,female,white
 1082,Michael Hunshitt,male,white
