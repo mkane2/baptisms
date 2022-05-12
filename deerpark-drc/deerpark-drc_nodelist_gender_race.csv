@@ -4,19 +4,19 @@ id,name,gender,race
 2,Jacob Kuikendal,male,white
 3,Sara Westfael,female,white
 4,Joost Hornbeck,male,white
-5,Eegje Van Vliet,unknown,white
+5,Eegje Van Vliet,female,white
 6,Jacob Cuddebeck,male,white
 7,Margriet Prevost,female,white
 8,Jacob Decker,male,white
 9,Anna Kortrecht,female,white
 10,Teunis Quick,male,white
-11,Claertie de Hooges,unknown,white
+11,Claertie de Hooges,female,white
 12,Cornelius Kuikendal,male,white
 13,Maria Westfael,female,white
 14,Thomas Quick,male,white
-15,Geertie Decker,unknown,white
+15,Geertie Decker,female,white
 16,Jan Middagh,male,white
-17,Geertie Klearwater,unknown,white
+17,Geertie Klearwater,female,white
 18,Jurian Westfael,male,white
 19,Maritie Cuddebeck,female,white
 20,Jacob Westfael,male,white
@@ -26,16 +26,16 @@ id,name,gender,race
 24,Mattheus Kuikendal,male,white
 25,Jannitie Westfael,female,white
 26,Johannes Quick,male,white
-27,Brechie Middagh,unknown,white
+27,Brechie Middagh,female,white
 28,Rachel Hornbeck,female,white
-29,Geertie Brinck,unknown,white
+29,Geertie Brinck,female,white
 30,Sara Ditsoort,female,white
 31,Dirk Westbroeck,male,white
 32,Jannitie Van Keuren,female,white
 33,Hendrick Decker,male,white
 34,Annatie Ditsoort,female,white
 35,Peter Kuikendal,male,white
-36,Emmetie Decker,unknown,white
+36,Emmetie Decker,female,white
 37,Jacob Rosenkranz,male,white
 38,Sara Decker,female,white
 39,Cornelius Westbroeck,male,white
@@ -52,7 +52,7 @@ id,name,gender,race
 50,Margriet Johnson,female,white
 51,Hendrick Haldring,male,white
 52,Annatie Decker,female,white
-53,Hue Pugh,unknown,white
+53,Hue Pugh,male,white
 54,Helena Brinck,female,white
 55,Solomon Davis,male,white
 56,Lea Decker,female,white
@@ -93,14 +93,14 @@ id,name,gender,race
 91,Johannes Brinck,male,white
 92,Helena Kohl,female,white
 93,Aard Middagh,male,white
-94,Ariaantie Van Etten,unknown,white
+94,Ariaantie Van Etten,female,white
 95,Mattheus Brinck,male,white
 96,Abigail Bell,female,white
 97,Antoine Benschoten,male,white
 98,Margriet Wells,female,white
 99,Andries Kohl,male,white
 100,Sara Schoonmaker,female,white
-101,Lieur Kuikendal,unknown,white
+101,Lieur Kuikendal,male,white
 102,Helena Consales Duk,female,white
 103,Broer Decker,male,white
 104,Annatie Van Etten,female,white
@@ -113,7 +113,7 @@ id,name,gender,race
 111,Joachim Schoonmakerr,male,white
 112,Jacob Van Ortten,male,white
 113,Annatie Westbroeck,female,white
-114,Lenert Kohl,unknown,white
+114,Lenert Kohl,male,white
 115,Sara Van Garden,female,white
 116,Alexander Van De Winkle,male,white
 117,Annatie Rosenkranz,female,white
@@ -124,7 +124,7 @@ id,name,gender,race
 122,Evert Hornbeck,male,white
 123,Helena Cuddebeck,female,white
 124,Andries Decker,male,white
-125,Divertie Maul,unknown,white
+125,Divertie Maul,male,white
 126,William Van Garden,male,white
 127,Annatie Vredenburgh,female,white
 128,William Ditsoort,male,white
@@ -134,13 +134,13 @@ id,name,gender,race
 132,Gerardus Van Niuwegen,male,white
 133,Jannitie de Wit,female,white
 134,Barent Mollen,male,white
-135,Glaasje Andriess,unknown,white
+135,Glaasje Andriess,male,white
 136,Terrence Devin,male,white
 137,Maritie Kuikendal,female,white
 138,Jacob Bogaert,male,white
 139,Nellie Kuikendal,female,white
 140,Jan Van Vliet,male,white
-141,Jezyntie Swartwout,unknown,white
+141,Jezyntie Swartwout,female,white
 142,Hendrick Kuikendal,male,white
 143,William Waert,male,white
 144,Maritie Decker,female,white
@@ -164,7 +164,7 @@ id,name,gender,race
 162,Cornelius Kohl,male,white
 163,Dina Brinck,female,white
 164,Peter Gemaer,male,white
-165,Tjatie de Wit,unknown,white
+165,Tjatie de Wit,female,white
 166,Bernhardus Swartwout,male,white
 167,Neeltie Ditsoort,female,white
 168,Johannes Decker,male,white
@@ -174,11 +174,11 @@ id,name,gender,race
 172,John Boman,male,white
 173,Anna Middagh,female,white
 174,Hendrick Kortrecht,male,white
-175,Ebbegken Bell,unknown,white
+175,Ebbegken Bell,male,white
 176,Antoine Van Benschoten,male,white
 177,William Enniss,male,white
 178,Elizabeth Quick,female,white
-179,Plone Van Garden,unknown,white
+179,Plone Van Garden,male,white
 180,Johannes Nethier,male,white
 181,William Ditschious,male,white
 182,Pieternella Kuikendal,female,white
@@ -186,7 +186,7 @@ id,name,gender,race
 184,Lea Van Aken,female,white
 185,Benjamin Westfael,male,white
 186,Annatie Van Aken,female,white
-187,Jurk Westbroeck,unknown,white
+187,Jurk Westbroeck,male,white
 188,Jacob Quick,male,white
 189,Maria Westbroeck,female,white
 190,Abraham Van Kampen,male,white
@@ -196,13 +196,13 @@ id,name,gender,race
 194,Daniel Kortrecht,male,white
 195,Johannes Caspar Fryenmout,male,white
 196,Helena Van Etten,female,white
-197,Julick Borgh,unknown,white
+197,Julick Borgh,female,white
 198,Maria Bowman,female,white
 199,Hannah Middagh,female,white
 200,Abraham Wildfield,male,white
 201,Maria Wesch,female,white
 202,Caspar Kimmel,male,white
-203,Emmetie Willamse,unknown,white
+203,Emmetie Willamse,female,white
 204,Josias Kohl,male,white
 205,Maria Kimmel,female,white
 206,Aaron Vredenburgh,male,white
@@ -218,7 +218,7 @@ id,name,gender,race
 216,Helena Osterhoudt,female,white
 217,Rachel Kortrecht,female,white
 218,Harman Rosenkranz,male,white
-219,Ariaantie Osterhoudt,unknown,white
+219,Ariaantie Osterhoudt,female,white
 220,Maria Wells,female,white
 221,Johannes Kuikendal,male,white
 222,Elizabeth Decker,female,white
@@ -236,22 +236,22 @@ id,name,gender,race
 234,Johanna Margreta Elisabetha Bernhardin,female,white
 235,Helena Westbroeck,female,white
 236,Cornelius Van Etten,male,white
-237,Hilletie Westbroeck,unknown,white
+237,Hilletie Westbroeck,female,white
 238,Abraham Van Tilbrugh,male,white
 239,Sara Calvonsher,female,white
 240,Andries de Wit,male,white
-241,Brechie Nottingham,unknown,white
+241,Brechie Nottingham,female,white
 242,Caspar Sheefer,male,white
 243,Catharina Bernhardin,female,white
 244,Maria Kuikendal,female,white
 245,Anna Van Aken,female,white
-246,Leentie Osterhoudt,unknown,white
+246,Leentie Osterhoudt,female,white
 247,Margriet Westfael,female,white
 248,Johannes Dirkse Westbroeck,male,white
 249,Sara Tack,female,white
-250,Lendert Ditsoort,unknown,white
-251,Geeshi Ritt,unknown,white
-252,Jury Philip Windemuth,unknown,white
+250,Lendert Ditsoort,male,white
+251,Geeshi Ritt,female,white
+252,Jury Philip Windemuth,male,white
 253,Maria Juliana Huber,female,white
 254,Dirk Rosenkranz,male,white
 255,Catharina Van Aken,female,white
@@ -281,7 +281,7 @@ id,name,gender,race
 279,Elizabeth Kuikendal,female,white
 280,Joseph Wallon,male,white
 281,David Devoor,male,white
-282,Geertie Hydt,unknown,white
+282,Geertie Hydt,female,white
 283,William Devoor,male,white
 284,Catharina Schoonmaker,female,white
 285,Mattheus Devoor,male,white
@@ -298,7 +298,7 @@ id,name,gender,race
 296,Dirk Kittel,male,white
 297,Rachel Van Etten,female,white
 298,Martinus Dewit,male,white
-299,Saartie Jons,unknown,white
+299,Saartie Jons,female,white
 300,Andries Reifsnyder,male,white
 301,Susannah Wallon,female,white
 302,Cornelius Westfael,male,white
@@ -326,7 +326,7 @@ id,name,gender,race
 324,Margriet Van Garden,female,white
 325,Antoine Van Etten,male,white
 326,Jan Van Sickel,male,white
-327,Geertie de Wit,unknown,white
+327,Geertie de Wit,female,white
 328,Jannitie Van Aken,female,white
 329,Evert Rosa Westbroeck,male,white
 330,Maria Kortrecht,female,white
@@ -340,7 +340,7 @@ id,name,gender,race
 338,Jannitie Van Garden,female,white
 339,Juliana Huber,female,white
 340,Samuel Van Vliet,male,white
-341,Tjatie Kohl,unknown,white
+341,Tjatie Kohl,female,white
 342,Petrus Kuikendal,male,white
 343,Catharina Kittel,female,white
 344,Thomas Neffi,male,white
@@ -398,11 +398,11 @@ id,name,gender,race
 396,James Everigame,male,white
 397,Anna Quick,female,white
 398,Petrus Brinck,male,white
-399,Hilletie Middagh,unknown,white
+399,Hilletie Middagh,female,white
 400,Petrus Rosenkranz,male,white
 401,Maria Brinck,female,white
 402,Jan Davis,male,white
-403,Willemtie Linden,unknown,white
+403,Willemtie Linden,female,white
 404,Sara Terwilgen,female,white
 405,Margriet Hornbeck,female,white
 406,William Vredenburgh Van Garden,male,white
@@ -422,19 +422,19 @@ id,name,gender,race
 420,Jacob Neerbas,male,white
 421,Anna Maria Rakien,female,white
 422,Johannes Leydi,male,white
-423,Ariaantie Rosenkranz,unknown,white
+423,Ariaantie Rosenkranz,female,white
 424,Eliza Middagh,female,white
 425,Maritie Kimmel,female,white
 426,Bryan Hammen,male,white
-427,Blandientie Van Aken,unknown,white
+427,Blandientie Van Aken,female,white
 428,Benjamin Van Vliet,male,white
 429,Johanna Westfael,female,white
-430,Willemtie Snedkker,unknown,white
+430,Willemtie Snedkker,female,white
 431,Wilhelm Vredenburgh,male,white
 432,Jacob Viegli,male,white
-433,Beletie Davis,unknown,white
+433,Beletie Davis,female,white
 434,Jan Decker,male,white
-435,Geertie Gamaer,unknown,white
+435,Geertie Gamaer,female,white
 436,Debora Krom,female,white
 437,Catharina Middagh,female,white
 438,James Mollen,male,white
@@ -444,8 +444,8 @@ id,name,gender,race
 442,Antoine Westbroeck,male,white
 443,Susannah Kittel,female,white
 444,Dirk Van Etten,male,white
-445,Rusje Westfael,unknown,white
-446,Clea Farletier,unknown,white
+445,Rusje Westfael,male,white
+446,Clea Farletier,female,white
 447,Margriet Ditsoort,female,white
 448,Elizabeth Latier,female,white
 449,Andries Kroeg,male,white
@@ -457,7 +457,7 @@ id,name,gender,race
 455,Margriet Mollen,female,white
 456,William Prevost,male,white
 457,Michael Westfael,male,white
-458,Jurge Westfael,unknown,white
+458,Jurge Westfael,male,white
 459,John de Wit,male,white
 460,Cornelius Kortrecht,male,white
 461,Jacob Van Etten,male,white
@@ -468,8 +468,8 @@ id,name,gender,race
 466,Joseph Gonsales,male,white
 467,Jurian Tappen,male,white
 468,Benjamin Cuddenbeck,male,white
-469,Jury Westfael,unknown,white
-470,Josaphat Du Boys,unknown,white
+469,Jury Westfael,male,white
+470,Josaphat Du Boys,male,white
 471,Harman Decker,male,white
 472,Laurens Kortrecht,male,white
 473,Moses Jons,male,white
@@ -500,7 +500,7 @@ id,name,gender,race
 498,Johannes Krom,male,white
 499,Hendrick J. Kortrecht,male,white
 500,Johannes Merchkel,male,white
-501,Jabobus Van Aken,unknown,white
+501,Jabobus Van Aken,male,white
 502,Isaac Rosa,male,white
 503,Gerardus Swartwout,male,white
 504,Jacob Devoor,male,white
@@ -509,7 +509,7 @@ id,name,gender,race
 507,Isaac Slover,male,white
 508,Michael Helm,male,white
 509,Cornelius Aken,male,white
-510,Jabobus Wynkoop,unknown,white
+510,Jabobus Wynkoop,male,white
 511,Petrus Westfael,male,white
 512,Cornelius de Wit,male,white
 513,Maria Hornbeck,female,white
@@ -524,12 +524,12 @@ id,name,gender,race
 522,John Michael Henry,male,white
 523,Jacob Davis,male,white
 524,John Kortrecht,male,white
-525,Epharim Middagh,unknown,white
+525,Epharim Middagh,male,white
 526,Jan Lady,male,white
 527,William Clinton,male,white
-528,Jurge Moore,unknown,white
+528,Jurge Moore,male,white
 529,William Krom,male,white
-530,Koobes Van Sickel,unknown,white
+530,Koobes Van Sickel,male,white
 531,Elias Middagh,male,white
 532,Cornelius Schoonhoven,male,white
 533,Petrus Middagh,male,white
@@ -548,48 +548,48 @@ id,name,gender,race
 546,Johannes de Wit,male,white
 547,Eva Swartwout,female,white
 548,Annatie Hornbeck,female,white
-549,Malletie Middagh,unknown,white
-550,Rymerick Quick,unknown,white
+549,Malletie Middagh,female,white
+550,Rymerick Quick,male,white
 551,Annatie Quick,female,white
 552,Blandina de Wit,female,white
 553,Helena Van Garden,female,white
 554,Christina Rosenkranz,female,white
-555,Beletie Quick,unknown,white
+555,Beletie Quick,female,white
 556,Anna Ditsoort,female,white
-557,Aelje Van Etten,unknown,white
+557,Aelje Van Etten,female,white
 558,Naomi Cuddebeck,female,white
 559,Maria Cook,female,white
-560,Geertie Benschoten,unknown,white
+560,Geertie Benschoten,female,white
 561,Sara Gonsales,female,white
 562,Annatie Gemaer,female,white
-563,Femmtie Decker,unknown,white
-564,Tjatie Van Keuren,unknown,white
+563,Femmtie Decker,female,white
+564,Tjatie Van Keuren,female,white
 565,Christina Keiser,female,white
 566,Sara Teneik,female,white
 567,Christina Elizabeth Bernhardin,female,white
-568,Geertie Westfael,unknown,white
+568,Geertie Westfael,female,white
 569,Sara Kohl,female,white
 570,Elizabeth Gemaer,female,white
 571,Margriet Kuikendal,female,white
-572,Neelgje Rous,unknown,white
-573,Engelje Heerenmans,unknown,white
+572,Neelgje Rous,female,white
+573,Engelje Heerenmans,female,white
 574,Cornelia Viervan,female,white
 575,Margriet Best,female,white
 576,Lea Westfael,female,white
 577,Johanna Van Aken,female,white
 578,Maria Cuddebeck,female,white
-579,Hilletie Van Etten,unknown,white
-580,Aelje Westbroeck,unknown,white
+579,Hilletie Van Etten,female,white
+580,Aelje Westbroeck,female,white
 581,Helena Decker,female,white
 582,Maritie Depuy,female,white
 583,Catharina Westfael,female,white
 584,Elizabeth Maul,female,white
-585,Hannatie Westfael,unknown,white
-586,Rusje Dami,unknown,white
-587,Tjatie Kortrecht,unknown,white
+585,Hannatie Westfael,female,white
+586,Rusje Dami,male,white
+587,Tjatie Kortrecht,female,white
 588,Anneke Van Etten,female,white
 589,Elizabeth Consales Duke,female,white
-590,Hilletie Dingenman,unknown,white
+590,Hilletie Dingenman,female,white
 591,Anna Elizabeth Windemuth,female,white
 592,Molly Nottingham,female,white
 593,Barbara Behmin,female,white
@@ -597,7 +597,7 @@ id,name,gender,race
 595,Anna Cook,female,white
 596,Neeltie Rosa,female,white
 597,Maria de Wit,female,white
-598,Geertie Van Benschoten,unknown,white
+598,Geertie Van Benschoten,female,white
 599,Anna Elizabeth Snauber,female,white
 600,Hannah Johnson,female,white
 601,Annatie Westfael,female,white
@@ -611,42 +611,42 @@ id,name,gender,race
 609,Helena Kimmel,female,white
 610,Johannes Louw,male,white
 611,Jannitie Bogardus,female,white
-612,Jennek Van Keuren,unknown,white
-613,Hilletie Van Garden,unknown,white
+612,Jennek Van Keuren,female,white
+613,Hilletie Van Garden,female,white
 614,Maria Osterhoudt,female,white
 615,Jannitie Van Etten,female,white
 616,Sara Van Etten,female,white
-617,Aertie Van Etten,unknown,white
+617,Aertie Van Etten,female,white
 618,Maritie Hooghteeling,female,white
 619,Sara Clevins,female,white
-620,Femmerje Decker,unknown,white
+620,Femmerje Decker,female,white
 621,Johanna Van Tilbrugh,female,white
 622,Margriet Kohl,female,white
 623,Margriet Gemaer,female,white
-624,Rymerick Decker,unknown,white
-625,Geertie Quick,unknown,white
-626,Rymerick Gonsales,unknown,white
+624,Rymerick Decker,male,white
+625,Geertie Quick,female,white
+626,Rymerick Gonsales,male,white
 627,Petrus Westbroeck,male,white
 628,Maria Quick,female,white
 629,Debora Westbroeck,female,white
 630,Maria Schoonhoven,female,white
 631,Jannitie Middagh,female,white
 632,Annatie Terweige,female,white
-633,Geertie Kohl,unknown,white
-634,Seitie Terwilgen,unknown,white
+633,Geertie Kohl,female,white
+634,Seitie Terwilgen,female,white
 635,Debora Davis,female,white
 636,Elizabeth Buntshote,female,white
 637,Elizabeth Westbroeck,female,white
 638,Elizabeth Majerin,female,white
-639,Gerrerje Benschoten,unknown,white
+639,Gerrerje Benschoten,female,white
 640,Catharina Kermer,female,white
-641,Hilletie Decker,unknown,white
+641,Hilletie Decker,female,white
 642,Jannitie Swartwout,female,white
-643,Saartie Decker,unknown,white
+643,Saartie Decker,female,white
 644,Sara Van Vliet,female,white
 645,Jacomin Cuddebeck,female,white
-646,Geertie Van Inwegen,unknown,white
-647,Hilletie de Wit,unknown,white
+646,Geertie Van Inwegen,female,white
+647,Hilletie de Wit,female,white
 648,Margriet Kortrecht,female,white
 649,Catharina Van Garden,female,white
 650,Catharina Cole,female,white
@@ -655,14 +655,14 @@ id,name,gender,race
 653,Wilhelmus Devoor,male,white
 654,Lisa Kuykendal,female,white
 655,Elisabeth Dupuy,female,white
-656,Tjartje De Witt,unknown,white
+656,Tjartje De Witt,female,white
 657,Daniel Rosenkranz,male,white
 658,Catharina Hoksen,female,white
 659,Catharina Clark,female,white
-660,Geertie Kortrecht,unknown,white
+660,Geertie Kortrecht,female,white
 661,Elizabeth Van Namen,female,white
 662,Hester McIntosh,female,white
-663,Geertie Wildfield,unknown,white
+663,Geertie Wildfield,female,white
 664,Jannitie Quick,female,white
-665,Jennek Van Nimwegen,unknown,white
-666,Hendricka Kuikendal,unknown,white
+665,Jennek Van Nimwegen,female,white
+666,Hendricka Kuikendal,female,white
