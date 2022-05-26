@@ -1,0 +1,960 @@
+congregation,denomination,betweenness,bridge,degree,end,gender,id,modularity,name,race,start
+detroit-catholic,catholic,0.002322103310839,false,10,1784,male,0,0,Michel Campau,white,1761
+detroit-catholic,catholic,7.66225066064947E-05,false,5,1781,female,1,0,Josephine Buteau,white,1761
+detroit-catholic,catholic,0.027570857537794,false,30,1786,male,2,1,François Le Beau,white,1764
+detroit-catholic,catholic,0.000373315453912,false,5,1784,female,3,1,Josephine Bigra,white,1761
+detroit-catholic,catholic,0.03745164408791,false,42,1786,male,4,0,Réné Cloutier,white,1761
+detroit-catholic,catholic,0.000206959870183,false,7,1785,female,5,0,Josephine Campeau,white,1761
+detroit-catholic,catholic,0.004759759425845,false,10,1786,male,6,2,Simon Bergeron,white,1761
+detroit-catholic,catholic,0.003528015362962,false,8,1786,female,7,2,Catherine Le Beau,white,1761
+detroit-catholic,catholic,0,false,3,1781,male,8,3,GabrieI Le Grand,white,1761
+detroit-catholic,catholic,0,false,3,1781,female,9,3,Marie Magdelène Chapoton,white,1761
+detroit-catholic,catholic,0.001993417207459,false,11,1786,male,10,0,Joseph Pillette,white,1761
+detroit-catholic,catholic,0.001463618862914,false,11,1786,female,11,0,Jeanne Belleperche,white,1761
+detroit-catholic,catholic,0.006595079509475,false,13,1786,male,12,4,Joseph Bordeau,white,1761
+detroit-catholic,catholic,0.003802108966783,false,12,1786,female,13,4,Marie Louise Clairmont,white,1761
+detroit-catholic,catholic,0.018658862634032,false,29,1786,male,14,1,François Rochelot,white,1762
+detroit-catholic,catholic,0.001715076647497,false,8,1784,female,15,1,Josephine Meloche,white,1762
+detroit-catholic,catholic,0.008726718896018,false,21,1786,male,16,5,Pierre Desnoyers,white,1762
+detroit-catholic,catholic,0,false,3,1782,female,17,5,Louise Le Duc,white,1762
+detroit-catholic,catholic,0.028054978401931,male_bridge,35,1786,male,18,6,Simon De Rouillard,white,1762
+detroit-catholic,catholic,0.007911500045997,false,21,1786,female,19,6,Marguerite Saint-Jean,white,1762
+detroit-catholic,catholic,0.027387685122213,false,34,1786,male,20,1,Jean Baptiste De Rouillard,white,1762
+detroit-catholic,catholic,0.017648189650587,false,28,1786,female,21,1,Charlotte Bigra,white,1762
+detroit-catholic,catholic,0.011456473099709,false,23,1786,male,22,0,Charles Campeau,white,1762
+detroit-catholic,catholic,0.001822206208657,false,11,1786,female,23,0,Charlotte Montrey,white,1762
+detroit-catholic,catholic,0.025155316815092,false,22,1786,male,24,13,Jean Louis Révau,white,1762
+detroit-catholic,catholic,0.008835217243785,false,6,1786,female,25,3,Josephine St. Etienne,white,1762
+detroit-catholic,catholic,0.003680962302324,false,11,1784,male,26,4,Louis Clairinont,white,1761
+detroit-catholic,catholic,0.001353636116005,false,8,1784,female,27,4,Louise Bourron,white,1762
+detroit-catholic,catholic,0.013319507483826,false,28,1786,male,28,5,Charles Bouron,white,1762
+detroit-catholic,catholic,0.008295800912158,false,19,1786,female,29,5,Marguerite Reaume,white,1762
+detroit-catholic,catholic,0.01908832300319,male_bridge,28,1786,male,30,6,Louis Villers,white,1762
+detroit-catholic,catholic,0.016084783093781,false,25,1786,female,31,6,Marie Joseph Morin,white,1762
+detroit-catholic,catholic,0,false,3,1782,male,32,4,François Xavier La Coste dit Langedoc,white,1762
+detroit-catholic,catholic,0.004710313075061,false,7,1786,female,33,4,Marie Magdelène Bouron,white,1762
+detroit-catholic,catholic,0.008386586552597,false,20,1786,male,34,8,Louis Joseph Du Sault,white,1762
+detroit-catholic,catholic,0.000559521681649,false,8,1786,female,35,8,Marie Louise Des Butes,white,1762
+detroit-catholic,catholic,0.041361953581716,false,43,1786,male,36,0,Pierre Meloche,white,1762
+detroit-catholic,catholic,0.010160115632566,false,25,1786,female,37,0,Marie Catherine St. Etiene,white,1762
+detroit-catholic,catholic,2.01622245980594E-06,false,4,1782,male,38,4,Jean Baptiste Petit Dit Millehomme,white,1762
+detroit-catholic,catholic,0,false,3,1782,female,39,4,Marie Josephine Poupart,white,1762
+detroit-catholic,catholic,0.003198631757999,false,11,1786,male,40,6,Robert Thibaut,white,1762
+detroit-catholic,catholic,0.003198631757999,false,11,1786,female,41,6,Marguerite Prud'homme,white,1762
+detroit-catholic,catholic,0,false,3,1782,male,42,9,Joseph Derouen,white,1762
+detroit-catholic,catholic,0.011814055235477,false,15,1786,female,43,0,Charlotte Campeau,white,1761
+detroit-catholic,catholic,0,false,3,1782,male,44,2,Auguste Tremblais,white,1762
+detroit-catholic,catholic,0,false,3,1782,female,45,2,Marie Judith La Foret,white,1762
+detroit-catholic,catholic,0,false,3,1783,male,46,10,Joseph Amable Bonvouloir,white,1763
+detroit-catholic,catholic,0.00296505607875,false,12,1786,female,47,10,Véronique Denis,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,48,11,Jean Baptiste Ravalet,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,49,11,Marie Rose Bigra,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,50,12,Jean Baptiste Goyau,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,51,12,Marie Louise Angelique Deslières,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,52,8,Franqois Gaudet,white,1763
+detroit-catholic,catholic,0.000883576780283,false,11,1786,female,53,8,Jeanne Parent,white,1763
+detroit-catholic,catholic,0.01018235687387,male_bridge,9,1784,male,54,3,Louis Jadot,white,1761
+detroit-catholic,catholic,0,false,3,1783,female,55,3,Marguerite Desbutes,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,56,0,Dyonèse La Ronde,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,57,0,Suzanne De Selle,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,58,13,Chrisostome Thiriot,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,59,13,Julie Campeau,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,60,0,Jean Joseph Grenon,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,61,0,Marie Amable Hardouoin,white,1763
+detroit-catholic,catholic,0.002511380594443,false,11,1786,male,62,2,Pierre Bohémie,white,1763
+detroit-catholic,catholic,0.004685882055889,false,14,1786,female,63,2,Marie Joseph Courtois,white,1762
+detroit-catholic,catholic,0.004171002371276,male_bridge,5,1786,male,64,14,François Comparé,white,1763
+detroit-catholic,catholic,0,false,2,1783,female,65,14,Marie Tremblais,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,66,9,Charles Dupuis,white,1763
+detroit-catholic,catholic,0.006249959097126,female_bridge,6,1786,female,67,9,Catherine Saint-Aubin,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,70,5,Ambroise Tremblais,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,71,5,Marguerite Cimar,white,1763
+detroit-catholic,catholic,0.000612122708603,false,6,1786,male,72,8,Pierre Chêne,white,1763
+detroit-catholic,catholic,0.009336117642759,false,16,1786,female,73,3,Marie Anne Cuillerier,white,1763
+detroit-catholic,catholic,0.009217280266302,false,23,1786,male,74,10,Nicolas Langlois,white,1763
+detroit-catholic,catholic,0.005649784921353,false,19,1786,female,75,10,Marie Magdalene Pilette,white,1762
+detroit-catholic,catholic,0.003437393678091,false,15,1786,male,76,8,Jean Baptiste Cuillerier,white,1763
+detroit-catholic,catholic,0.000390656207252,false,6,1786,female,77,8,Marie Anne Barron,white,1763
+detroit-catholic,catholic,0.011518572888111,false,23,1786,male,78,0,Antoine Robert,white,1763
+detroit-catholic,catholic,0.00547218716944,false,14,1786,female,79,0,Marie Louise Béquemont,white,1762
+detroit-catholic,catholic,0,false,3,1783,male,80,5,Joseph La Feuillade,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,81,5,Marie Anne Hamelin,white,1763
+detroit-catholic,catholic,0.006249959097126,male_bridge,6,1785,male,82,1,Charles François Caron,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,83,1,Marie Louise Binau,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,86,13,Jean Baptiste Dubreuil,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,87,13,Catherine De Rouillard,white,1763
+detroit-catholic,catholic,0.000685368121755,false,7,1786,female,88,6,Marguerite St. Jean Dit Martin,white,1764
+detroit-catholic,catholic,0,false,3,1784,male,89,0,François Dubois,white,1764
+detroit-catholic,catholic,0,false,3,1784,female,90,0,Susanne Du Rivage,white,1764
+detroit-catholic,catholic,0,false,2,1784,female,91,6,Marie Josephine Dutau,white,1764
+detroit-catholic,catholic,0,false,3,1784,female,92,15,Marie Louise Morin,white,1764
+detroit-catholic,catholic,0.007431321776284,false,24,1786,male,93,5,François Janis,white,1764
+detroit-catholic,catholic,0.070201623872201,female_bridge,63,1786,female,94,0,Thérése Meloche,white,1763
+detroit-catholic,catholic,0.039535342977322,false,40,1786,male,95,16,Jean Baptiste Tourangeau,white,1765
+detroit-catholic,catholic,0.005850895163581,false,12,1786,female,96,13,Maria Joseph St. Etienne,white,1765
+detroit-catholic,catholic,0,false,3,1785,male,97,13,Jean Baptiste Bigot Dit Patoka,white,1765
+detroit-catholic,catholic,0.018119382101838,false,17,1786,female,98,13,Françoise Mini,white,1763
+detroit-catholic,catholic,0,false,3,1785,female,99,1,Louise Binau,white,1765
+detroit-catholic,catholic,0,false,3,1785,male,100,16,Jacob André,white,1765
+detroit-catholic,catholic,0.000986476249591,false,9,1786,female,101,16,Marie Anne Godefroi,white,1765
+detroit-catholic,catholic,0.002373793867866,false,8,1786,male,102,3,Pierre Chêne Dit La Bute,white,1763
+detroit-catholic,catholic,0.010957473459332,false,28,1786,male,103,8,Charles Bernier,white,1765
+detroit-catholic,catholic,0.05773806376734,female_bridge,49,1786,female,104,8,Marie Louise Godet,white,1761
+detroit-catholic,catholic,0,false,3,1785,male,105,6,Louis Pelichon,white,1765
+detroit-catholic,catholic,0,false,3,1785,female,106,6,Marie Thérése Pinparé,white,1765
+detroit-catholic,catholic,0.001391018933505,false,9,1786,male,107,10,Joseph Deslières Dit Bonvouloir,white,1765
+detroit-catholic,catholic,0,false,3,1785,female,108,5,Marie Louise Le Duc,white,1765
+detroit-catholic,catholic,0.017989465990085,false,31,1786,male,109,5,Joseph Maillon,white,1763
+detroit-catholic,catholic,0.014729022630858,false,29,1786,female,110,5,Thérése Le Duc,white,1766
+detroit-catholic,catholic,0.013162881613306,false,26,1786,male,111,5,Jean Baptiste Goilette,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,112,5,Susanne Paterne,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,113,1,Marie Josephine Meloche,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,114,16,Marie Magdalene St. Jean,white,1766
+detroit-catholic,catholic,0.013722807282519,male_bridge,21,1786,male,115,8,Joseph Du Sault,white,1766
+detroit-catholic,catholic,0.012671039032722,false,28,1786,male,116,11,Claude Reaume,white,1765
+detroit-catholic,catholic,0.023429586525447,false,35,1786,female,117,11,Geneviève Janis,white,1763
+detroit-catholic,catholic,0.019254903446218,false,27,1786,male,118,6,François De Rouillard,white,1763
+detroit-catholic,catholic,0.033214782699896,false,35,1786,female,119,6,Marie Anne Villers,white,1763
+detroit-catholic,catholic,0.000974764223878,false,5,1786,male,120,13,Jean Baptiste Billion,white,1766
+detroit-catholic,catholic,0.010266542935275,false,19,1786,male,121,6,Jean Baptiste Rau,white,1763
+detroit-catholic,catholic,0.001178044973908,false,6,1786,female,122,1,Jeanne Prud'homme,white,1766
+detroit-catholic,catholic,0,false,3,1786,male,123,4,François Morin Dit Valcour,white,1767
+detroit-catholic,catholic,0,false,3,1786,male,124,3,Jean Louis Levreau,white,1767
+detroit-catholic,catholic,0.003466144566444,false,14,1786,female,125,16,Marie Joeseph Pilote,white,1767
+detroit-catholic,catholic,0.004723154442042,false,10,1786,male,126,3,Antoine Rivard,white,1767
+detroit-catholic,catholic,0,false,3,1786,female,127,3,Félicité Ste. Marie,white,1767
+detroit-catholic,catholic,0.049569524545408,false,50,1786,male,128,0,André Pelletier,white,1767
+detroit-catholic,catholic,0.054994810653834,female_bridge,47,1786,female,129,0,Catherine Meloche,white,1762
+detroit-catholic,catholic,0.000735679610262,false,7,1786,female,130,16,Marie Joseph Meloche,white,1767
+detroit-catholic,catholic,0.01470672610499,false,25,1786,male,131,6,Etienne La Violette,white,1762
+detroit-catholic,catholic,0.008130243575797,false,21,1786,female,132,15,Judith Prud'homme,white,1767
+detroit-catholic,catholic,0,false,3,1786,female,133,13,Marie Josephe Amable,white,1768
+detroit-catholic,catholic,0,false,3,1786,male,134,13,Jean Baptiste Billond,white,1769
+detroit-catholic,catholic,0.006249959097126,male_bridge,6,1786,male,135,12,Joseph Amable Deslières,white,1763
+detroit-catholic,catholic,0,false,3,1786,female,136,12,Marie Angélique Saint-Denis,white,1769
+detroit-catholic,catholic,0.010902787280792,false,19,1786,female,137,6,Marie Jeanne Prud'homme,white,1762
+detroit-catholic,catholic,0.030787968802315,false,36,1786,male,138,0,Joseph Bondi,white,1769
+detroit-catholic,catholic,0.003080903419426,false,15,1786,female,139,0,Josette Gamelin,white,1769
+detroit-catholic,catholic,0.021731332343204,false,36,1786,male,140,8,François Godet Marantet,white,1767
+detroit-catholic,catholic,0.001446003645373,false,14,1786,female,141,8,Marie Jeanne Parent,white,1769
+detroit-catholic,catholic,0.012728899194148,false,11,1786,male,142,9,Etienne Langeron Dit Lafontaine,white,1762
+detroit-catholic,catholic,0.00993960329732,false,19,1786,male,143,11,Bonaventure Reaume,white,1769
+detroit-catholic,catholic,0.000867563558675,false,9,1786,female,144,11,Jeanne Deshêtres,white,1769
+detroit-catholic,catholic,0.007169487768727,false,21,1786,female,145,16,Elizabeth Godefroi,white,1769
+detroit-catholic,catholic,0.010759901406547,false,22,1786,male,146,10,Hyacinthe Deshêtres,white,1763
+detroit-catholic,catholic,0.001592343907878,false,11,1786,female,147,10,Marie Anne Pilette,white,1763
+detroit-catholic,catholic,0.002679731898039,false,13,1786,female,148,0,Josette Campeau,white,1770
+detroit-catholic,catholic,0.023230020169899,false,37,1786,male,149,8,Etienne Jacob,white,1761
+detroit-catholic,catholic,0.014401055052644,false,29,1786,female,150,8,Marie Magdalène Godet,white,1770
+detroit-catholic,catholic,0.020714598975074,false,29,1786,male,151,0,Antoine Meloche,white,1770
+detroit-catholic,catholic,0.016039747284493,false,27,1786,female,152,0,Marie Louise Campeau,white,1766
+detroit-catholic,catholic,0.022070671244429,female_bridge,25,1786,female,153,13,Elizabeth De Rouillard,white,1770
+detroit-catholic,catholic,0.000361277612803,false,5,1786,male,154,11,Gabriel Le Grand Ecuyer Chevallier de Saint-Bré,white,1770
+detroit-catholic,catholic,0.000361277612803,false,5,1786,female,155,11,Véronique Reaume,white,1770
+detroit-catholic,catholic,0.016337426609971,false,25,1786,male,156,8,Louis Susor,white,1770
+detroit-catholic,catholic,0.002913226990058,false,11,1786,female,157,8,Marie Joseph Le Beau,white,1770
+detroit-catholic,catholic,0.010023746222079,false,21,1786,male,158,0,Louis Montmeni,white,1770
+detroit-catholic,catholic,0.011401633053268,false,22,1786,female,159,0,Agathe Prud'homme,white,1767
+detroit-catholic,catholic,0.002717546876627,false,10,1786,female,160,3,Félicité Sainte-Marie,white,1763
+detroit-catholic,catholic,0.000813399238863,false,7,1786,male,161,5,Louis Charles Brugière,white,1770
+detroit-catholic,catholic,0.003132883634196,false,13,1786,female,162,5,Marguerite Makons,white,1770
+detroit-catholic,catholic,0,false,3,1786,female,163,1,Josette Meloche,white,1770
+detroit-catholic,catholic,0.016427988152669,female_bridge,22,1786,female,164,5,Susanne Bey,white,1763
+detroit-catholic,catholic,0.001256192013831,false,5,1786,male,165,10,Jaques Amable De Mers,white,1770
+detroit-catholic,catholic,0.003019962446482,false,8,1786,female,166,10,Marie Archange Aubertin,white,1770
+detroit-catholic,catholic,0,false,3,1786,male,167,16,Jaques André,white,1770
+detroit-catholic,catholic,0.022746189150046,false,39,1786,male,168,6,Thomas Pajot,white,1770
+detroit-catholic,catholic,0.009156498344226,false,25,1786,female,169,6,Marie Louise Villers,white,1762
+detroit-catholic,catholic,0.003751853474772,false,10,1786,male,170,17,Charles Dominique Janson dit La Palme,white,1770
+detroit-catholic,catholic,0.013322812700933,female_bridge,11,1786,female,171,1,Marie Anne Binau,white,1763
+detroit-catholic,catholic,0.005361135337921,false,18,1786,male,172,16,Jean Baptiste Dufour,white,1765
+detroit-catholic,catholic,0.001929787498761,false,13,1786,female,173,16,Catherine Durand Dit Montmiree,white,1770
+detroit-catholic,catholic,0,false,3,1786,male,174,8,Stanislas Le Vasseur,white,1770
+detroit-catholic,catholic,0,false,3,1786,male,175,8,François De L'oeil,white,1770
+detroit-catholic,catholic,0.010678033829306,false,27,1786,male,176,5,Philippe Le Duc,white,1771
+detroit-catholic,catholic,0.000743438293485,false,11,1786,female,177,5,Josette Peltier,white,1771
+detroit-catholic,catholic,0.005148569133204,false,14,1786,male,178,6,François L'Anglois,white,1769
+detroit-catholic,catholic,0.011033242511075,false,18,1786,female,179,6,Marie Magdelène Prud'homme,white,1771
+detroit-catholic,catholic,0.000417873331687,false,6,1786,female,180,8,Geneviève Parent,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,181,1,Gabriel Charpentier,white,1771
+detroit-catholic,catholic,0.008723009054574,female_bridge,9,1786,female,182,1,Geneviève Amable Bigra,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,183,2,Laurent Gréfar,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,184,2,Anne Casse,white,1771
+detroit-catholic,catholic,0.01526314997849,false,13,1786,male,185,13,François Choisi,white,1771
+detroit-catholic,catholic,0.000593608187565,false,5,1786,female,186,13,Marie Joseph Reveau,white,1771
+detroit-catholic,catholic,0.003402560484158,false,7,1786,male,187,18,Etienne Buissonnet,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,188,18,Catherine Vibrée,white,1771
+detroit-catholic,catholic,8.50158004912424E-05,false,5,1786,female,189,0,Marie Joseph Campeau,white,1771
+detroit-catholic,catholic,0.010950882766247,male_bridge,21,1786,male,190,16,Charles Fontaine,white,1766
+detroit-catholic,catholic,0,false,3,1786,male,191,13,Paul Guitarre,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,192,13,Marie Angélique La Pointe,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,193,13,Jean Pariau,white,1771
+detroit-catholic,catholic,0.001550519208472,false,6,1786,female,194,13,Marie Catherine Perillard,white,1771
+detroit-catholic,catholic,0.035185046954889,false,28,1786,male,195,13,Jean Baptiste Paré,white,1769
+detroit-catholic,catholic,0.014064784760963,false,22,1786,female,196,13,Marguerite Le Beau,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,197,6,Pierre Caillon,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,198,6,Véronique Guitarre,white,1771
+detroit-catholic,catholic,0.000181279766533,false,5,1786,female,199,9,Catherine Casse,white,1771
+detroit-catholic,catholic,0.009088581118236,false,25,1786,male,200,8,Laurent Parent,white,1764
+detroit-catholic,catholic,0.019880978685851,false,30,1786,female,201,8,Marie Magdelène Janis,white,1764
+detroit-catholic,catholic,0.004059617471339,false,14,1786,female,202,8,Josette Le Beau,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,203,5,Susanna Le Bey,white,1772
+detroit-catholic,catholic,0.00049249823874,false,7,1786,male,204,0,Charles Brugière,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,205,17,Joseph Deschenne,white,1772
+detroit-catholic,catholic,0.006264442196959,false,15,1786,female,206,17,Charlotte Le Duc,white,1772
+detroit-catholic,catholic,0.008243169429248,false,18,1786,male,207,0,Jean Saliot,white,1765
+detroit-catholic,catholic,0.00087298987639,false,8,1786,male,208,15,Joseph Valade,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,209,15,Thérése Binau,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,210,10,Marie Magdalène,white,1772
+detroit-catholic,catholic,0.024863022201056,male_bridge,36,1786,male,211,16,Joseph De Rouillard,white,1764
+detroit-catholic,catholic,0.01785178041383,false,26,1786,female,212,16,Josette Godefroi,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,213,13,Jean Périan,white,1772
+detroit-catholic,catholic,0.001831124243635,false,12,1786,male,214,6,Jean Baptiste Bertrand,white,1773
+detroit-catholic,catholic,0.000985744516551,false,9,1786,female,215,6,Marie Magdalene Martin,white,1773
+detroit-catholic,catholic,0.000359633881661,false,7,1786,male,216,5,Philippe Bélanger,white,1773
+detroit-catholic,catholic,0.000410373280055,false,7,1786,female,217,5,Elizabeth Valet,white,1770
+detroit-catholic,catholic,0.002083319699042,false,5,1786,male,218,13,Pierre Cheule Dit Bélair,white,1773
+detroit-catholic,catholic,0.002083319699042,false,5,1786,female,219,13,Anne Ménard,white,1773
+detroit-catholic,catholic,0.001806786217831,false,9,1786,male,220,10,Louis Bernard Dit La Joye,white,1773
+detroit-catholic,catholic,0.008056745314958,female_bridge,12,1786,female,221,10,Marie Crête,white,1773
+detroit-catholic,catholic,0.001688131565973,false,4,1786,female,222,18,Catherine Saint-Germain,white,1773
+detroit-catholic,catholic,0.027266237861841,male_bridge,27,1786,male,223,10,Antoine L'Anglois,white,1765
+detroit-catholic,catholic,0.007388925826093,false,18,1786,female,224,10,Marie Des Anges Rochelot,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,225,19,Jaques Amalde Du Mêté,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,226,19,Marie Archange Robertin,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,227,10,Geneviéve ??,white,1773
+detroit-catholic,catholic,0.002584864655806,false,11,1786,male,228,5,François Sordillet,white,1773
+detroit-catholic,catholic,0.002584864655806,false,11,1786,female,229,5,Marie Jeanne Gendron,white,1773
+detroit-catholic,catholic,0.010767264942036,false,20,1786,female,230,11,Marie Jeanne Deshêtres,white,1763
+detroit-catholic,catholic,0.003961858934429,false,14,1786,male,231,15,Joseph Mêté,white,1773
+detroit-catholic,catholic,8.30202571658144E-05,false,5,1786,female,232,15,Marie Catherine Dufour,white,1773
+detroit-catholic,catholic,0.000260540156696,false,5,1786,female,233,15,Marie Thérése Binau,white,1774
+detroit-catholic,catholic,0,false,3,1786,male,234,10,Joseph Rouillar,white,1774
+detroit-catholic,catholic,0.010223740354138,male_bridge,13,1786,male,235,9,Jacques Pelletier,white,1774
+detroit-catholic,catholic,0.000753994787438,false,7,1786,female,236,9,Marie Magdelène Le Vasseur,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,237,5,Magdelène ??,white,1774
+detroit-catholic,catholic,0.001756274682282,false,6,1786,female,240,0,Louise Campeau,white,1774
+detroit-catholic,catholic,0.000531883800114,false,7,1786,female,241,1,Josette Binau,white,1774
+detroit-catholic,catholic,0.011846287694412,false,23,1786,male,242,8,Jacques Parent,white,1774
+detroit-catholic,catholic,0.001737903622648,false,12,1786,female,243,8,Catherine Cuillerier,white,1774
+detroit-catholic,catholic,0,false,3,1786,male,244,8,Fraçcois Godet Dit Marantet,white,1774
+detroit-catholic,catholic,0.002832142104238,false,15,1786,male,245,6,Charles Renaud,white,1769
+detroit-catholic,catholic,0.001137055914826,false,13,1786,female,246,6,Marie Magdelène Bertrand,white,1773
+detroit-catholic,catholic,0.002462352278446,false,15,1786,male,247,5,Jean Baptiste Le Duc,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,248,5,Charlotte Bourasa,white,1774
+detroit-catholic,catholic,0.003207188808316,false,11,1786,male,249,16,Jean Baptiste Reaume,white,1774
+detroit-catholic,catholic,0.002341424944954,false,8,1786,female,250,11,Agathe Barrois,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,251,0,Antoine Morrisseau,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,252,0,Geneviève Grenon,white,1774
+detroit-catholic,catholic,0.000462073246371,false,5,1786,male,253,0,Louis Révau,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,254,0,Josette Saint-Etienne,white,1774
+detroit-catholic,catholic,0.009884095911447,false,25,1786,male,255,6,Jean Baptiste L'Antailla,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,256,6,Marie Catherine L'Antailla,white,1774
+detroit-catholic,catholic,0.025436187030407,false,38,1786,male,257,10,Vital Desmouchelle,white,1773
+detroit-catholic,catholic,0.00637386943344,false,18,1786,female,258,10,Marie Louise Goyau,white,1774
+detroit-catholic,catholic,0.005635977994405,false,20,1786,male,259,10,Jean Baptiste La Pointe,white,1769
+detroit-catholic,catholic,0.018297091229524,female_bridge,21,1786,female,260,10,Catherine Goyau,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,261,0,Noel Etienne Chauvin,white,1775
+detroit-catholic,catholic,0.004006279950351,false,15,1786,female,262,0,Jeanne Meloche,white,1775
+detroit-catholic,catholic,0.009833707598024,false,20,1786,male,263,2,Antoine Boufar,white,1771
+detroit-catholic,catholic,0.00087979842512,false,9,1786,female,264,2,Angélique Bohémie,white,1775
+detroit-catholic,catholic,0.00537040930011,false,14,1786,male,265,17,Joseph Deschênes,white,1775
+detroit-catholic,catholic,0.003795824407488,false,13,1786,male,266,5,Joseph Valcour,white,1775
+detroit-catholic,catholic,0.003311723470184,false,13,1786,female,267,5,Josette Makons,white,1772
+detroit-catholic,catholic,0.001361426860367,false,8,1786,male,268,1,Louis Robidou,white,1775
+detroit-catholic,catholic,0,false,3,1786,female,269,1,Elizabeth Chausserau,white,1775
+detroit-catholic,catholic,0.005351726603597,false,14,1786,male,270,0,Zacharie Cloutier,white,1765
+detroit-catholic,catholic,0.019082616119616,false,23,1786,female,271,10,Thérése Campeau,white,1775
+detroit-catholic,catholic,0,false,3,1786,female,272,10,Magdelène Langlois,white,1775
+detroit-catholic,catholic,0.006898280100258,false,19,1786,female,273,5,Catherine Bourasa,white,1773
+detroit-catholic,catholic,0.00114292571539,false,8,1786,female,274,6,Catherine Bergeron,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,275,14,Guillaume Sterlin,white,1775
+detroit-catholic,catholic,0.006249959097126,female_bridge,6,1786,female,276,14,Agatha Chêne,white,1775
+detroit-catholic,catholic,0,false,3,1786,female,277,13,Marie Joseph Levrau,white,1775
+detroit-catholic,catholic,0.002332617228147,false,8,1786,female,278,15,Catherine Dufour,white,1775
+detroit-catholic,catholic,0.001150786433595,false,8,1786,male,279,1,Amable Binau,white,1775
+detroit-catholic,catholic,0.00017904203228,false,6,1786,female,280,10,Marie Rochelot,white,1767
+detroit-catholic,catholic,0.00606091834776,false,21,1786,male,281,8,Joseph Godet,white,1770
+detroit-catholic,catholic,0.007371507211539,false,18,1786,female,282,8,Jannette Pilatte,white,1766
+detroit-catholic,catholic,0.002222316801854,false,9,1786,male,283,0,Claude Saint-Aubin,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,284,0,Marie Catherine,white,1776
+detroit-catholic,catholic,0.002555667060733,false,9,1786,male,285,0,Noël Chauvin,white,1776
+detroit-catholic,catholic,0,false,3,1786,male,286,6,Jean Baptiste Saliot,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,287,6,Marie Magdalene Reaume,white,1776
+detroit-catholic,catholic,0.008528679894844,male_bridge,10,1786,male,288,11,Alexis L'oranger Dit Maisonville,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,289,11,Marguerite Philippe,white,1776
+detroit-catholic,catholic,0.00098094530484,false,8,1786,male,290,15,Jacques Bezer,white,1776
+detroit-catholic,catholic,0.010813256637629,false,19,1786,female,291,15,Catherine Mêté,white,1771
+detroit-catholic,catholic,0.001628047981987,false,9,1786,male,292,0,Pierre Campeau,white,1775
+detroit-catholic,catholic,0.000190030895389,false,5,1786,female,293,0,Marie Magdalene Godefroi,white,1776
+detroit-catholic,catholic,0.001486333705567,false,10,1786,male,294,10,Claude Thomas Reaume,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,295,6,Angélique Prud'homme,white,1776
+detroit-catholic,catholic,0.007992607267376,false,17,1786,female,296,6,Marie Catherine Bergeron,white,1772
+detroit-catholic,catholic,9.16639219611196E-05,false,5,1786,male,297,0,George Gnaggs Nexe,white,1777
+detroit-catholic,catholic,0.001647584899751,false,8,1786,female,298,0,Rachel Sly,white,1777
+detroit-catholic,catholic,0.016968316231904,false,12,1786,female,301,17,Marie Goulet,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,302,10,Michel Catin Dit Baron,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,303,6,Charlotte Riendeau Dit Joachim,white,1777
+detroit-catholic,catholic,0.000912902852099,false,9,1786,male,304,8,Joseph Berthiaume,white,1777
+detroit-catholic,catholic,0.044961640168879,false,36,1786,female,305,8,Catherine Pilet,white,1770
+detroit-catholic,catholic,0.022076664197842,false,25,1786,male,306,13,Jean Baptiste Le Beau,white,1768
+detroit-catholic,catholic,0.00245535251359,false,11,1786,female,307,13,Suzanne Chauvin,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,308,13,Pierie Cheules,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,309,13,Marie Aime Ménard,white,1777
+detroit-catholic,catholic,0.007172658812647,false,15,1786,female,310,8,Marie Jeanne Pilette,white,1770
+detroit-catholic,catholic,0.003062160221445,false,16,1786,male,311,8,François Prat,white,1776
+detroit-catholic,catholic,0.018157366904324,false,26,1786,female,312,8,Elizabeth Parent,white,1763
+detroit-catholic,catholic,0.000467268446995,false,6,1786,female,313,16,Catherine Montmirel,white,1777
+detroit-catholic,catholic,0.000770806050622,false,5,1786,female,314,1,Elizabeth Sousereau,white,1777
+detroit-catholic,catholic,0.006817391138609,false,10,1786,female,315,11,Marie Marguerite Joncaire,white,1777
+detroit-catholic,catholic,0.015150792943276,male_bridge,25,1786,male,316,10,Louis Goyau,white,1777
+detroit-catholic,catholic,0.016303995133968,false,26,1786,female,317,13,Thérése Janis,white,1774
+detroit-catholic,catholic,0.002480428636634,false,6,1786,female,318,13,Marie Josette Revau,white,1777
+detroit-catholic,catholic,0.003499825208073,false,15,1786,male,319,10,Charles Delisle,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,320,0,Noël Cochon Dit Chauvin,white,1777
+detroit-catholic,catholic,0.010182520204351,false,18,1786,male,321,0,Pierre Charron,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,322,5,Marie Charlotte Campeau,white,1777
+detroit-catholic,catholic,0.000289488934298,false,5,1786,female,323,17,Marie Gendron,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,324,10,Bernard La Joie,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,325,13,Jean Baptiste Bonshomme Dit Gascon,white,1778
+detroit-catholic,catholic,0.006636411450465,false,16,1786,female,326,10,Marie Magdalène Goyau,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,327,1,Guillaume La Foret,white,1778
+detroit-catholic,catholic,0.010475448828274,false,10,1786,male,328,14,Alexis Arconet,white,1778
+detroit-catholic,catholic,0.002328543046771,false,7,1786,female,329,14,Marguerite La Foret,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,330,13,Jannette Chauvin,white,1778
+detroit-catholic,catholic,0.001033789666477,false,9,1786,female,331,16,Marie Magdalene Jourdain,white,1771
+detroit-catholic,catholic,0.002921120867665,false,6,1786,male,332,1,Etienne Robidou,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,333,1,Agathe Souterau,white,1778
+detroit-catholic,catholic,0.002291148244134,false,6,1786,female,334,11,Marie Joseph Jourdain,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,335,11,François La Blau,white,1778
+detroit-catholic,catholic,0.000969185430022,false,6,1786,male,336,0,Jean Baptiste Pitre,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,337,0,Marie Magdalene Saint-Come,white,1778
+detroit-catholic,catholic,0.009203378988939,false,24,1786,male,338,6,Jean Baptiste Gignac,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,339,6,Marie Catherine Le Beau,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,340,8,Ignace Tüot Du Val,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,341,10,Michel Pascal Catin,white,1778
+detroit-catholic,catholic,0.001095064214938,false,9,1786,male,342,5,François Bénéteau,white,1778
+detroit-catholic,catholic,0.001095064214938,false,9,1786,female,343,5,Françoise Gagnon,white,1778
+detroit-catholic,catholic,0.001015846004779,false,8,1786,female,344,6,Marie Bergeron,white,1778
+detroit-catholic,catholic,0.008331991987523,false,17,1786,male,345,5,Louis Gaillard,white,1777
+detroit-catholic,catholic,0.000612099776575,false,8,1786,female,346,5,Marie Marguerite St. Ange,white,1778
+detroit-catholic,catholic,0.004066858788445,false,9,1786,female,349,0,Janette Meloche,white,1778
+detroit-catholic,catholic,0.000297420457041,false,9,1786,male,350,5,André Bénéteau,white,1779
+detroit-catholic,catholic,0.000872940861623,false,11,1786,female,351,5,Agathe Le Duc,white,1779
+detroit-catholic,catholic,0.000702788271115,false,10,1786,female,352,6,Charlotte Riendeau,white,1779
+detroit-catholic,catholic,0.006107957589921,false,18,1786,male,353,16,Michel Roy,white,1774
+detroit-catholic,catholic,6.5057318951649E-05,false,5,1786,female,354,16,Marie Jeanne Villers,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,355,17,Pierre La Perle,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,356,17,Marie Prevot,white,1779
+detroit-catholic,catholic,0.000292709407116,false,6,1786,male,357,8,Joseph Cuillerier,white,1779
+detroit-catholic,catholic,0.000527559017449,false,6,1786,female,358,8,Josette Bondi,white,1779
+detroit-catholic,catholic,0.004179954968505,false,9,1786,male,359,3,Guillaume Monforton,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,360,3,Louise Soumande,white,1779
+detroit-catholic,catholic,0.00046890906577,false,8,1786,female,361,8,Marie Catherine Cuillerier,white,1763
+detroit-catholic,catholic,0.002647582217615,false,12,1786,male,362,6,Pierre Pron,white,1767
+detroit-catholic,catholic,0.001860947038054,false,10,1786,female,363,8,Marie Josette Binau,white,1770
+detroit-catholic,catholic,0.000278940256065,false,5,1786,male,364,13,Jean Baptiste Bonl'homme,white,1779
+detroit-catholic,catholic,0.000781838681895,false,6,1786,female,365,13,Josette Révaux,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,366,6,Marie Thérése Bergeron,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,367,10,Marie Des Anges Langlois,white,1780
+detroit-catholic,catholic,0,false,3,1786,male,368,1,Charles Bonaventure Drouillar,white,1780
+detroit-catholic,catholic,0.003735859575245,false,11,1786,female,369,1,Marie Louise Quenel,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,370,15,Marguerite Martin,white,1780
+detroit-catholic,catholic,0.000899845812958,false,8,1786,male,371,16,Théophile La Mai,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,372,5,Marie Peltier,white,1780
+detroit-catholic,catholic,0.008231890281617,false,12,1786,male,373,9,Pierre Le Vasseur,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,374,9,Maria Anne Le Sueur,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,375,8,Marie Josephine Le Beau,white,1780
+detroit-catholic,catholic,0.000172243620331,false,5,1786,male,376,8,Igna Thuot,white,1780
+detroit-catholic,catholic,0.003135736357944,false,8,1786,female,377,1,Marie Louise Le Beau,white,1780
+detroit-catholic,catholic,0.009447390166579,false,13,1786,male,378,19,Nicolas Petit,white,1780
+detroit-catholic,catholic,0.002888337085532,false,7,1786,female,379,19,Elizabeth Charon,white,1780
+detroit-catholic,catholic,0.002767968499179,false,13,1786,female,380,1,Thérése De Rouillard,white,1775
+detroit-catholic,catholic,0.002608143320454,false,9,1786,male,381,0,François La Tour,white,1780
+detroit-catholic,catholic,0.002608143320454,false,9,1786,female,382,0,Marguerite Meloche,white,1780
+detroit-catholic,catholic,0.008653913381264,false,16,1786,female,383,0,Magdelène Jourdain,white,1772
+detroit-catholic,catholic,0.002043334983686,false,11,1786,female,384,6,Magdalène Godefroi,white,1771
+detroit-catholic,catholic,0.020154586189063,false,24,1786,male,385,0,Joseph Pouget,white,1779
+detroit-catholic,catholic,0.012553157501368,false,21,1786,female,386,0,Françoise Belleperche,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,387,8,Marie Marguerite Chamenbar,white,1780
+detroit-catholic,catholic,0.006249959097126,female_bridge,6,1786,female,388,3,Marie Louis Catherine Soumande,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,389,0,Marie Anne Saint-Come,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,390,16,Jannette Viller,white,1781
+detroit-catholic,catholic,0.000795944764174,false,7,1786,male,391,5,Louis Trudel,white,1781
+detroit-catholic,catholic,0.009157828267092,false,27,1786,female,392,5,Suzanne Desnoyers,white,1775
+detroit-catholic,catholic,0.006591437343052,false,13,1786,male,393,6,Joseph De Gannes,white,1781
+detroit-catholic,catholic,0,false,3,1786,female,394,19,Elizabeth Cabana,white,1781
+detroit-catholic,catholic,0,false,3,1786,female,395,0,Marie Joseph Cloutier,white,1781
+detroit-catholic,catholic,0.000597085667953,false,6,1786,male,396,15,Antoine Chasserau,white,1781
+detroit-catholic,catholic,0.000312107214538,false,5,1786,female,397,15,Catherine Parnier,white,1781
+detroit-catholic,catholic,0.002498480067857,false,9,1786,male,398,17,Pierre Proulx,white,1781
+detroit-catholic,catholic,0,false,2,1786,female,399,1,Marie Dronien,white,1781
+detroit-catholic,catholic,0,false,3,1786,female,400,0,Anne Le Sueur,white,1782
+detroit-catholic,catholic,0.002650355585516,false,8,1786,male,401,10,Jean Baptiste Audet Dit La Pointe,white,1782
+detroit-catholic,catholic,0.001144000396498,false,7,1786,female,402,13,Marie Françoise Peltier,white,1782
+detroit-catholic,catholic,0.00034296193503,false,6,1786,male,403,19,François Mouton,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,404,19,Charlotte Duroseau,white,1782
+detroit-catholic,catholic,0.006249959097126,male_bridge,6,1786,male,405,17,Jean Baptiste Sans-Crainte,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,406,1,Pierre Belair,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,407,1,Jeanne Ménard,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,408,6,François Cadoret,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,409,6,Ursule Bigra,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,410,1,Agathe Suzaran,white,1782
+detroit-catholic,catholic,0.002590631910777,false,11,1786,female,411,16,Angilique Pelletier,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,412,11,Josephine Peltier,white,1782
+detroit-catholic,catholic,0.02434685482797,male_bridge,23,1786,male,413,8,Alexis Maisonville,white,1776
+detroit-catholic,catholic,0.002234261630678,false,12,1786,female,414,6,Charlotte Bertrand,white,1775
+detroit-catholic,catholic,0.004492101322969,false,14,1786,female,415,0,Catherine Campeau,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,416,13,Nicola Mignerau,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,417,13,Marguerite Robidou,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,418,5,Louis Brudel,white,1782
+detroit-catholic,catholic,0.000492470270921,false,5,1786,male,423,1,Ignace Thuot,white,1782
+detroit-catholic,catholic,0.000168622900353,false,5,1786,male,424,5,Philippe La Bombarde,white,1782
+detroit-catholic,catholic,0.000168622900353,false,5,1786,female,425,5,Marguerite Briette,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,426,16,Josephine Godfroy,white,1782
+detroit-catholic,catholic,0.000496588880162,false,6,1786,female,427,2,Angélique Boismier,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,428,3,Jh. George Knaggs,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,429,5,Josette Lafontaine,white,1782
+detroit-catholic,catholic,0.002954868241946,false,9,1786,male,430,1,Paul Campau,white,1782
+detroit-catholic,catholic,7.64551797037456E-05,false,5,1786,male,431,16,Joseph Côté,white,1782
+detroit-catholic,catholic,0.000489113998139,false,8,1786,female,432,16,Madeléne St. Jean,white,1782
+detroit-catholic,catholic,0.005433466407102,false,8,1786,male,433,17,Jean Baptiste Chapoton,white,1782
+detroit-catholic,catholic,0.008185427333098,female_bridge,8,1786,female,434,17,Thérése Pelletier,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,435,15,Catherine Pernsen,white,1783
+detroit-catholic,catholic,0.002171552088752,false,6,1786,male,438,13,Pierre Amable Girard,white,1783
+detroit-catholic,catholic,0.00775326385694,false,18,1786,female,439,8,Marguerite Bernier,white,1780
+detroit-catholic,catholic,2.18422036993766E-05,false,5,1786,male,440,0,Louis Bourassa,white,1783
+detroit-catholic,catholic,0.010150688566022,false,15,1786,male,441,15,Antoine Soumande,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,442,15,Angélique Guyet,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,443,17,Charlotte Souligny,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,444,1,Marie Louise Drouen,white,1783
+detroit-catholic,catholic,0.000238882250359,false,5,1786,male,447,10,Pierre Reaume,white,1783
+detroit-catholic,catholic,0.002177727767116,false,7,1786,female,448,10,Jeanne Campau,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,449,3,Jean Baptiste Descomtes Labadie,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,450,3,Cécile La Butte,white,1783
+detroit-catholic,catholic,0.000827686092803,false,6,1786,male,451,8,Joseph Beaubien,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,452,8,Josephtte Bondy,white,1783
+detroit-catholic,catholic,0.001474876277776,false,8,1786,male,453,15,Joseph Vermet,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,454,15,Rose Campau,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,455,17,Augustin Pimparé,white,1783
+detroit-catholic,catholic,8.01071944369522E-05,false,5,1786,female,456,10,Marie Des Anges  L'Espérance,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,457,3,Sieur Guillaume Monforton,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,458,17,Jean Baptiste Bonzour,white,1783
+detroit-catholic,catholic,4.36297319171122E-06,false,5,1786,male,459,7,Louis Basil Cousinau,white,1784
+detroit-catholic,catholic,0.010399146602444,female_bridge,8,1786,female,460,7,Marie D'avignon,white,1784
+detroit-catholic,catholic,0.0041582632727,false,21,1786,female,461,5,Geneviève Bonvouloir,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,462,9,Marianne Levasseur,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,463,8,Pierre Demers,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,464,8,Angélique Ménard,white,1784
+detroit-catholic,catholic,0.001291332061028,false,8,1786,male,465,15,Joseph Parnier,white,1781
+detroit-catholic,catholic,0,false,3,1786,female,466,15,Catherine Larivière,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,467,19,Charles Dumouchelle,white,1784
+detroit-catholic,catholic,0.006893967303534,false,15,1786,female,468,19,Magdelène Goyau,white,1773
+detroit-catholic,catholic,0.006831103085764,false,18,1786,male,469,16,Jacques Belleperche,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,470,16,Cécile Lauzon,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,471,8,Joseph Mini,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,472,8,Archange Dussault,white,1784
+detroit-catholic,catholic,0.001868868104358,false,11,1786,male,473,16,François Rivard,white,1784
+detroit-catholic,catholic,0.002083319699042,false,5,1786,male,475,6,Pierre Dumais,white,1784
+detroit-catholic,catholic,0.01082064360108,female_bridge,9,1786,female,476,6,Angélique Le May,white,1781
+detroit-catholic,catholic,0,false,3,1786,male,477,6,Joseph André Dit L'Italien,white,1784
+detroit-catholic,catholic,0.002083319699042,false,5,1786,female,478,6,Josette Dumais,white,1784
+detroit-catholic,catholic,0.000702400278298,false,5,1786,male,479,1,Charles Drouillard,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,480,10,Michel Catin Baron,white,1784
+detroit-catholic,catholic,0.000412154966629,false,6,1786,male,481,6,François Campeau,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,482,1,Marie Catherine Ro,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,483,15,Antoine Chozeran,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,484,13,Michel Tremblay,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,485,13,Louise Toulouse,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,486,8,Augustin Guérin,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,487,8,Marie Toker,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,488,8,Dame Marguerite Chabert,white,1784
+detroit-catholic,catholic,0.003062310934714,false,13,1786,female,489,8,Catherine Beaubien,white,1784
+detroit-catholic,catholic,0.001118416413649,false,6,1786,female,490,9,Magdelène Prud'homme,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,493,3,Alexis Descomptes Labadie,white,1784
+detroit-catholic,catholic,0.006249959097126,female_bridge,6,1786,female,494,3,Marie Françoise Robert,white,1767
+detroit-catholic,catholic,0.006458906152649,false,15,1786,male,495,8,Jean Baptiste Tourneux,white,1776
+detroit-catholic,catholic,0.003076998430279,false,15,1786,female,496,8,Agathe Parent,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,497,15,Reine Angélique Guiet,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,498,3,Jean Marie La Douceur,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,499,3,Josette Drouin,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,500,7,Louis Cousineau,white,1784
+detroit-catholic,catholic,0.000424487236778,false,5,1786,female,501,15,Marie Rose Campau,white,1784
+detroit-catholic,catholic,0.001926673014099,false,6,1786,male,502,3,Julien Chêne,white,1777
+detroit-catholic,catholic,0.00124472668509,false,6,1786,female,503,3,Catherine L'Espérance,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,504,19,François Blais,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,505,19,Magdelène La Caille,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,506,5,Jean Baptiste Laforet,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,507,5,Marie Louise St Aubin,white,1785
+detroit-catholic,catholic,0.00130590057999,false,9,1786,male,508,8,Jean François Du Sault,white,1782
+detroit-catholic,catholic,0.0012535028393,false,6,1786,female,509,8,Marie Jeanne Ro,white,1785
+detroit-catholic,catholic,7.68368111524871E-05,false,5,1786,male,510,10,Julien Parent,white,1785
+detroit-catholic,catholic,0.008124223731704,false,13,1786,female,511,10,Suzanne Meloche,white,1782
+detroit-catholic,catholic,0,false,3,1786,unknown,512,10,Late Charles Brugière,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,513,10,Catherine Makons,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,514,10,Charles Stanislas Fontenay De Quinte,white,1785
+detroit-catholic,catholic,0.006249959097126,female_bridge,6,1786,female,515,10,Marie Catherine Chêne,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,516,1,Marie Droüin,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,517,10,Pierre Labombarde,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,518,10,Marguerite Brouillet,white,1785
+detroit-catholic,catholic,0.008727954024534,male_bridge,9,1786,male,519,9,Jacques Meloche,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,520,9,Marie Bernard,white,1785
+detroit-catholic,catholic,0.015082287882276,male_bridge,9,1786,male,521,14,Jean Baptiste Labady,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,522,14,Cécile Labady,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,523,10,Andreé Hagmuis,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,524,10,Magdelène St. Aubin,white,1785
+detroit-catholic,catholic,0.000948345477428,false,8,1786,male,525,6,Chrysostome Villers,white,1783
+detroit-catholic,catholic,0.008049888535201,false,11,1786,female,526,6,Josette Suzor,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,527,6,Catherine Reaut,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,528,17,Marguerite Solo,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,529,9,Charles Bénéteau,white,1786
+detroit-catholic,catholic,0.002349351338715,false,6,1786,female,530,10,Jeanne St. Bernard,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,531,16,Baptiste Dufort,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,532,17,Antoine Descomptes,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,533,17,Charlotte Descomptes,white,1786
+detroit-catholic,catholic,0.008421576431445,false,20,1786,male,534,8,Benjamin Chapu,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,535,0,Josette Rocheleau,white,1786
+detroit-catholic,catholic,0.000418667087689,false,5,1786,male,536,10,Julien Labutte,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,537,19,Mary Anne Charon,white,1786
+detroit-catholic,catholic,0.002702665816922,false,9,1786,male,538,15,Joseph Tourangeau,white,1765
+detroit-catholic,catholic,0.005262888978315,false,12,1786,female,539,15,Marguerite De Rouillard,white,1779
+detroit-catholic,catholic,0.003017124106829,false,9,1786,male,540,6,Pierre Villers,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,541,19,Charlotte Mouton,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,542,10,Jean Baptiste Lapointe Dit Hodet,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,543,6,Jean Baptiste Antaya,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,544,0,Jean Louis Lajeunesse,white,1786
+detroit-catholic,catholic,0.000948421619742,false,6,1786,male,545,15,Jean Baptiste Valade,white,1772
+detroit-catholic,catholic,0.006061441746729,false,14,1786,female,546,15,Marie Louise De Rouillard,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,550,8,Louis Tramblé,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,551,8,Josette Rémon,white,1786
+detroit-catholic,catholic,0.015287433231085,false,19,1786,female,552,5,Geneviève Deshêtres,white,1782
+detroit-catholic,catholic,0,false,2,1786,male,553,6,Archange Laforet,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,554,0,Louis Chapoton,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,555,3,Marie Louise Soumande,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,556,5,Marguerite Gaillard,white,1786
+detroit-catholic,catholic,0.000890096493256,false,6,1786,male,557,1,Simon Meloche,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,558,1,Angéliqua Boyer,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,559,0,George Maldraivy,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,560,0,Angélique Chapoton,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,561,9,Magdelène Levasseux,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,566,3,Marie Anne ???,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,569,16,Elizabeth Saint-George,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,570,13,Julien Forton,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,571,13,Thérése Billoux,white,1786
+detroit-catholic,catholic,0.017502296774426,false,13,1786,male,572,0,Charles La Marche,white,1761
+detroit-catholic,catholic,0.005549558028271,false,11,1786,male,573,2,Michel Vaudri,white,1761
+detroit-catholic,catholic,0,false,3,1781,male,574,0,Jean Baptiste Couture,white,1761
+detroit-catholic,catholic,0.002091991805172,false,9,1785,male,575,8,Vital Goyau,white,1762
+detroit-catholic,catholic,0,false,3,1782,male,576,6,Joseph Saint Etienne,white,1762
+detroit-catholic,catholic,0,false,3,1782,male,577,1,Joseph Charlan,white,1762
+detroit-catholic,catholic,0.004103732034279,false,9,1786,male,578,3,Pierre Réaume,white,1762
+detroit-catholic,catholic,0,false,3,1782,male,579,6,Jean Chrysostome Thiriot,white,1762
+detroit-catholic,catholic,0,false,3,1782,male,580,4,Etienne La Coste,white,1762
+detroit-catholic,catholic,4.25425297869863E-05,false,5,1786,male,581,8,Jean Baptiste Du Sault,white,1762
+detroit-catholic,catholic,0,false,3,1783,male,582,2,André Jacob,white,1763
+detroit-catholic,catholic,0.000439441054008,false,6,1786,male,583,1,Joseph Le Beau,white,1763
+detroit-catholic,catholic,0.004919963993631,false,12,1786,male,584,10,Guillaume Goyau,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,585,4,Jean Baptiste Petit,white,1763
+detroit-catholic,catholic,0.002176341273687,false,12,1786,male,586,8,Joseph Pilette,white,1763
+detroit-catholic,catholic,0.006249959097126,male_bridge,6,1786,male,587,13,Jean Baptiste Campeau,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,588,0,Pierre Charles Hardouoin,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,589,2,Simon Courtois,white,1763
+detroit-catholic,catholic,0,false,2,1783,male,590,14,Joseph Saucié,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,591,9,Louis Saint-Aubin,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,593,5,Joseph Hector Hevé,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,594,5,François Charpentier,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,595,1,Jean Bapt Giron,white,1763
+detroit-catholic,catholic,0,false,3,1783,male,597,1,Gabriel Héquet,white,1763
+detroit-catholic,catholic,0,false,3,1784,male,598,4,Pierre Tamizier,white,1764
+detroit-catholic,catholic,0.005860562511095,false,12,1786,male,599,15,François Villers,white,1764
+detroit-catholic,catholic,0.00105979941282,false,9,1786,male,600,0,Joseph Pongée,white,1764
+detroit-catholic,catholic,0,false,3,1784,male,601,1,Charles Dominique Janson,white,1764
+detroit-catholic,catholic,0,false,3,1784,male,602,5,Joseph Le Sueur,white,1764
+detroit-catholic,catholic,0,false,3,1784,male,603,0,Amable Saint-Etienne,white,1764
+detroit-catholic,catholic,0.004516006481106,false,12,1786,female,604,19,Hypolite Janis,white,1764
+detroit-catholic,catholic,0,false,3,1785,male,605,13,Jean Baptiste Lautaine,white,1765
+detroit-catholic,catholic,0,false,3,1785,male,606,0,Pierre Des Lauriers,white,1765
+detroit-catholic,catholic,0,false,3,1785,male,607,1,Jean Baptiste La Haye,white,1765
+detroit-catholic,catholic,0.007563951019528,false,15,1786,male,608,16,Pierre Janerai,white,1765
+detroit-catholic,catholic,0,false,3,1785,male,609,3,Louis Cesar De Quindre,white,1765
+detroit-catholic,catholic,0.004340056726712,false,17,1786,male,610,6,François Prud'homme,white,1766
+detroit-catholic,catholic,0,false,3,1786,male,611,5,Moreau Bonvouloir,white,1766
+detroit-catholic,catholic,0,false,3,1786,male,612,5,Omer Languedoc,white,1766
+detroit-catholic,catholic,0,false,3,1786,male,613,0,Charles Audré Barthe,white,1766
+detroit-catholic,catholic,0,false,3,1786,male,614,6,Joseph St. Etienne,white,1766
+detroit-catholic,catholic,0.003595002392778,false,9,1786,male,615,3,Joseph Ste. Marie,white,1767
+detroit-catholic,catholic,0.000589239296673,false,6,1786,male,616,16,Jean Baptiste Fauvel,white,1767
+detroit-catholic,catholic,0,false,3,1786,male,617,10,François Laframboise,white,1767
+detroit-catholic,catholic,0,false,3,1786,male,618,10,Réné Douliar Dit La Prise,white,1767
+detroit-catholic,catholic,0.011847078755322,false,23,1786,male,619,0,Jaques Charron,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,620,13,Jean Baptist Giron,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,621,12,Jean Baptiste Goyeau,white,1769
+detroit-catholic,catholic,0.007264465572925,male_bridge,12,1786,male,622,6,Pierre Prud'homme,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,623,11,Jaques Babi,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,624,9,François Closier,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,625,11,Jaques Joachim,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,626,10,Jaques La Selles,white,1769
+detroit-catholic,catholic,0.00081508170106,false,7,1786,male,627,6,Louis Blanchette,white,1770
+detroit-catholic,catholic,0.000537960301645,false,6,1786,male,628,16,Antoine Guerin,white,1770
+detroit-catholic,catholic,0.006249959097126,male_bridge,6,1786,male,629,13,Antoine Mini,white,1770
+detroit-catholic,catholic,0,false,3,1786,male,630,3,Etiênne Sainte-Marie,white,1770
+detroit-catholic,catholic,0,false,3,1786,male,631,10,Antoine Girardin,white,1770
+detroit-catholic,catholic,0,false,3,1786,male,632,6,Réné Theodore Duroseau,white,1770
+detroit-catholic,catholic,0.000202360805777,false,6,1786,male,633,10,Joseph Rochelot,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,634,6,François Xavier Godet,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,635,6,Jean Baptiste Prud'homme,white,1771
+detroit-catholic,catholic,0.006050829914242,false,12,1786,male,636,0,Jean Réné Le Beau,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,637,0,Jaques Boulet,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,638,16,Louis Odette,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,639,13,Charles Valade,white,1771
+detroit-catholic,catholic,0,false,3,1786,male,640,8,Nicolas Caron,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,641,3,Claude Thomas Chêne,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,642,3,François Xavier Sainte-Marie,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,643,10,Père Potier,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,644,0,François Jouat,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,645,5,François Renaud,white,1772
+detroit-catholic,catholic,0.003457626817033,false,12,1786,female,646,8,Dominique Godet,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,647,10,Etienne La Côte Dit Languedoc,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,648,16,Pierre Janerai Dit La Deboute,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,649,11,Joseph ???,white,1772
+detroit-catholic,catholic,0,false,3,1786,male,650,13,Pierre Séra Dit Coquillard,white,1773
+detroit-catholic,catholic,0,false,3,1786,male,651,11,Charles Aucher Dit Odienne,white,1773
+detroit-catholic,catholic,0.016053557224604,false,27,1786,male,652,16,Charles Reaume,white,1773
+detroit-catholic,catholic,0,false,3,1786,male,653,18,François Billet,white,1773
+detroit-catholic,catholic,0.002806447420289,false,14,1786,male,654,10,Jean Baptiste Favereau,white,1773
+detroit-catholic,catholic,0,false,3,1786,male,655,5,Philippe Dejean,white,1773
+detroit-catholic,catholic,0.011842331013396,male_bridge,12,1786,male,656,13,Joseph Sera Dit Coquillard,white,1773
+detroit-catholic,catholic,0,false,3,1786,male,657,2,Jean Baptiste Jérome Desrochers,white,1773
+detroit-catholic,catholic,0.000712465873037,false,9,1786,male,658,8,Jean Baptiste Bigra,white,1773
+detroit-catholic,catholic,4.67393950396091E-05,false,5,1786,female,659,8,Dominique La Brosse,white,1774
+detroit-catholic,catholic,0.003018995755822,false,9,1786,male,661,16,Parfait Dufour,white,1774
+detroit-catholic,catholic,0,false,3,1786,male,662,10,Jean Baptiste Langlois,white,1774
+detroit-catholic,catholic,0,false,3,1786,male,663,0,Pierre Coquillar,white,1774
+detroit-catholic,catholic,0,false,3,1786,male,664,10,Michel Catin,white,1774
+detroit-catholic,catholic,0.000741197403667,false,9,1786,male,665,10,Nicolas Goyau,white,1774
+detroit-catholic,catholic,6.74052666207521E-05,false,6,1786,male,666,6,Antoine Rousseau,white,1775
+detroit-catholic,catholic,0,false,3,1786,male,667,14,Antoine Cuillerier,white,1775
+detroit-catholic,catholic,0,false,3,1786,male,668,13,Jean Louis Levrau,white,1775
+detroit-catholic,catholic,0.000142602775185,false,6,1786,male,669,5,Louis Bonrasa,white,1775
+detroit-catholic,catholic,0.000434606227778,false,6,1786,male,670,1,Charles Binau,white,1775
+detroit-catholic,catholic,0,false,3,1786,male,671,1,Ignace Tuote,white,1775
+detroit-catholic,catholic,0,false,3,1786,male,672,16,Pierre Drouillar,white,1776
+detroit-catholic,catholic,0.001323078433653,false,6,1786,male,673,1,Réné Le Beau,white,1776
+detroit-catholic,catholic,0,false,3,1786,male,674,11,Mèdard Gamelin,white,1776
+detroit-catholic,catholic,0,false,3,1786,male,675,6,François Victor Morrisseau,white,1776
+detroit-catholic,catholic,0.000605343573168,false,6,1786,male,677,13,Charles Chauvin,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,678,8,Jaques Chauvin,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,679,13,Noel Chauvin,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,680,8,François Berthelet,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,681,1,Charles Drouillar,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,682,5,Alexandre Hoilette,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,683,11,Jaques Babi Dit Du Perron,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,684,6,Jean Baptiste Buissonnet,white,1777
+detroit-catholic,catholic,0,false,3,1786,male,685,10,Charles Rivière,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,686,0,Victor Morrisseau,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,687,13,Antoine Descombes,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,688,1,Jean Baptiste Laframboise,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,689,5,Francois Sordillet,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,690,1,Alexis L'oranger,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,691,9,Pierre Levaisseur,white,1778
+detroit-catholic,catholic,0.00024883897688,false,6,1786,male,692,5,Réné Bourasa,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,693,11,Louis Jis. Du Sault,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,694,0,Joseph Serré St. Jean,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,695,6,François Montmeni,white,1778
+detroit-catholic,catholic,0.001641949344931,false,9,1786,male,696,6,Jean Chrisostome Villers,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,697,6,Jean Baptiste Faignau,white,1778
+detroit-catholic,catholic,0,false,3,1786,male,699,11,Paul Desruisseaux,white,1779
+detroit-catholic,catholic,0.000697296532813,false,6,1786,male,700,6,Jean Baptiste Montbrian,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,701,17,Louis Côte-Noir,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,702,13,Louis Basile Cousineau,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,703,3,Joseph Soumande,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,704,2,Joseph Canté,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,705,11,Louis Côme Etienne Joncaire,white,1779
+detroit-catholic,catholic,0.000913267530668,false,6,1786,male,706,13,Joseph Révau,white,1769
+detroit-catholic,catholic,0,false,3,1786,male,707,10,Pierre Thomas Reaume,white,1780
+detroit-catholic,catholic,0,false,3,1786,male,708,17,Jaques Gabouri,white,1780
+detroit-catholic,catholic,0,false,3,1786,male,709,15,Jean Baptiste Beaugrand,white,1780
+detroit-catholic,catholic,0,false,3,1786,male,710,16,Charles Pinel,white,1780
+detroit-catholic,catholic,0.006249959097126,male_bridge,6,1786,male,711,0,Benoit Chapoton,white,1780
+detroit-catholic,catholic,0.000136938848948,false,6,1786,male,712,5,Pierre L'Etourneau,white,1780
+detroit-catholic,catholic,0,false,3,1786,male,713,11,Joseph Porlier Benac,white,1781
+detroit-catholic,catholic,0,false,3,1786,male,714,5,Etienne Languedoc,white,1781
+detroit-catholic,catholic,0,false,3,1786,male,715,19,Réné Drouillard,white,1781
+detroit-catholic,catholic,0.000398262194569,false,6,1786,male,716,6,Jacques Prud'homme,white,1781
+detroit-catholic,catholic,0.001278661703215,false,6,1786,male,717,17,Gabriel Bondy,white,1781
+detroit-catholic,catholic,0,false,3,1786,male,718,8,Joseph Berthiume,white,1781
+detroit-catholic,catholic,0,false,3,1786,male,719,17,Michel L'Espéran,white,1781
+detroit-catholic,catholic,0.000232030699989,false,6,1786,male,720,16,Joseph Lajeunesse,white,1781
+detroit-catholic,catholic,0,false,3,1786,male,721,6,Marc Bruton,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,722,13,Jacques Robert,white,1782
+detroit-catholic,catholic,0.001144274200445,false,6,1786,male,723,19,Charles Baubin,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,724,17,Pierre Martin,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,725,1,François Belair,white,1782
+detroit-catholic,catholic,0.000215118108451,false,6,1786,male,726,17,Gervais Godienne,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,727,11,Isidore Chêne,white,1782
+detroit-catholic,catholic,0.000818275913119,false,9,1786,male,728,5,Jean Baptiste Oualet,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,729,6,Jean Baptiste Antaia,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,730,10,Louis Brudal,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,731,13,Amable Mailloux,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,734,16,Sieur Joseph Pouget,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,735,6,André Bergeron,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,736,2,Pierre Boismier,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,737,17,Louis Peltier,white,1782
+detroit-catholic,catholic,0,false,3,1786,male,739,13,Pierre Fouran,white,1783
+detroit-catholic,catholic,0.000272376271432,false,6,1786,male,740,8,Jean Baptiste Pilet,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,741,0,François L'Espérance,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,742,15,Thierry Soumande,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,743,13,Jean Longpré,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,745,10,Réné Campau,white,1783
+detroit-catholic,catholic,0.001798557564432,false,6,1786,male,746,3,Alexis L'Abadie,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,747,8,Jean Baptiste Beaubien,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,748,17,Jean Baptiste Bonsour,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,749,14,Charles Rousseau,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,750,3,Sieur Thierri Soumande,white,1783
+detroit-catholic,catholic,0,false,3,1786,male,751,7,Antoine D'avignon,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,752,8,Joseph Carrier,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,753,5,Alexis Delisle,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,754,8,Joseph Pouget (fils,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,756,6,Jean Baptiste Peltier,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,757,1,Dominique Drouillar,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,758,19,Joseph Charron,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,759,13,Réné Tremblay,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,760,16,Alexis Peltier,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,761,8,Mons. François Pert,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,762,19,Théophile Mêté,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,764,8,Joseph Dufaux,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,765,3,Pierre Lévrier,white,1784
+detroit-catholic,catholic,0.001000078748331,false,6,1786,male,766,10,François Marantet,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,767,15,Jean Baptiste Guiet,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,768,7,Martin Desrochers,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,769,3,Joseph L'Espérance,white,1784
+detroit-catholic,catholic,0,false,3,1786,male,770,19,Séraphim Lauzon,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,771,8,Jacque Gaudet Francheville,white,1785
+detroit-catholic,catholic,0.000612398357068,false,8,1786,male,772,0,Jean Baptiste Meloche,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,773,13,Alexandre Fovel,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,774,8,Sieur Pratte,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,775,10,Jean Baptiste Descomptes,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,776,1,Jean Baptiste Charbonneau,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,777,10,Nicolas Janis,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,778,9,François Meloche,white,1785
+detroit-catholic,catholic,0.000641791214854,false,7,1786,male,779,2,Joseph Bissonnet,white,1781
+detroit-catholic,catholic,0,false,3,1786,male,780,10,Antoine Charron,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,781,14,Charles Dequindre,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,782,10,Charles Lozon,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,783,0,Louis Meloche,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,784,17,Alexis Solo,white,1785
+detroit-catholic,catholic,0,false,3,1786,male,785,19,Louis Bernard Lajoy,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,786,0,Charles Pouget,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,787,5,Vital Dumouchel,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,788,10,Joseph Jobin,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,789,10,Michel Chardonnet,white,1786
+detroit-catholic,catholic,0.000293804196502,false,6,1786,male,790,5,Joseph Beauchamp,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,793,11,Alexis Chêne,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,794,8,Paul Poisson,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,795,3,Gabriel  ???,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,796,13,Michel Bondy,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,797,7,Jean Baptiste Brisbois,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,798,9,Charles François Girardin,white,1786
+detroit-catholic,catholic,0,false,3,1786,male,801,16,Joseph Bérac,white,1786
+detroit-catholic,catholic,0.00069851619812,false,6,1782,female,802,6,Marie Anne Bienvenu,white,1761
+detroit-catholic,catholic,0,false,3,1781,female,803,3,Josephine Chapoton,white,1761
+detroit-catholic,catholic,0.004603251679878,false,15,1786,female,804,0,Catherine St. Etienne,white,1761
+detroit-catholic,catholic,0,false,3,1781,female,805,4,Marie Marguerite  Desbutes,white,1761
+detroit-catholic,catholic,0,false,3,1782,female,806,1,Marie Elizabeth Rapin,white,1762
+detroit-catholic,catholic,0.000267741582638,false,5,1786,female,807,4,Suzanne Begu Dit Patène,white,1762
+detroit-catholic,catholic,0,false,3,1783,female,808,2,Marie Anne Bino,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,809,3,Marie Louise Doyon,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,810,13,Cécile Marsac,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,811,0,Marie Elizabeth De Rouillard,white,1763
+detroit-catholic,catholic,0,false,3,1783,female,812,9,Agnes Tremblais,white,1763
+detroit-catholic,catholic,0.016894850796249,false,19,1786,female,814,10,Marie Anne Chêne,white,1763
+detroit-catholic,catholic,0.00070957548754,false,9,1786,female,816,0,Judith Cuillerier,white,1764
+detroit-catholic,catholic,0.000185094831239,false,6,1784,female,817,5,Susanne Du Bey,white,1764
+detroit-catholic,catholic,0.000245975303834,false,6,1785,female,818,0,Maria Josephine Robert,white,1764
+detroit-catholic,catholic,0.001363224675667,false,9,1786,female,819,8,Geneviève Godet,white,1765
+detroit-catholic,catholic,0,false,3,1785,female,820,13,Marie Josephine Révau,white,1765
+detroit-catholic,catholic,0,false,3,1785,female,821,1,Elizabeth Saint-Aubin,white,1765
+detroit-catholic,catholic,0.000406063158882,false,6,1786,female,822,16,Marie Magdalene Levrai,white,1765
+detroit-catholic,catholic,0.00133932505387,false,6,1786,female,823,3,Marie Louisa Robert,white,1765
+detroit-catholic,catholic,0,false,3,1785,female,824,8,Marie Anna Navarre,white,1765
+detroit-catholic,catholic,0,false,3,1786,female,825,5,Marie Louise Angélique Bonvouloir,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,826,6,Louise Godefroi,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,827,5,Marie Louise Bonvouloir,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,828,1,Louise Tourengeau,white,1766
+detroit-catholic,catholic,0.004345896239502,false,12,1786,female,829,11,Marie Louise Reaume,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,830,13,Jeanne Séguin Dit La Deronte,white,1766
+detroit-catholic,catholic,0.001544232691431,false,6,1786,female,831,15,Marie Josephine Pilote,white,1766
+detroit-catholic,catholic,0,false,3,1786,female,832,8,Marie Elizabeth Parent,white,1767
+detroit-catholic,catholic,0,false,3,1786,female,833,2,Marie Catherine Saint-Côme,white,1767
+detroit-catholic,catholic,0,false,3,1786,female,834,6,Louise Pilète,white,1767
+detroit-catholic,catholic,0,false,3,1786,female,835,13,Marie Magdelaine,white,1768
+detroit-catholic,catholic,0,false,3,1786,female,836,0,Marie Anne Campeau,white,1769
+detroit-catholic,catholic,0,false,3,1786,female,837,12,Anne Chê,white,1769
+detroit-catholic,catholic,0.00064737555525,false,6,1786,female,838,6,Marie Jeanne Viller,white,1769
+detroit-catholic,catholic,0,false,3,1786,female,839,11,Anne Navarre,white,1769
+detroit-catholic,catholic,0,false,3,1786,female,840,6,Marie Josephe Prud'homme,white,1769
+detroit-catholic,catholic,0,false,3,1786,female,841,6,Marie Elizabeth Valet Dit Versailles,white,1770
+detroit-catholic,catholic,0,false,3,1786,female,842,0,Julienne Cuillerier,white,1770
+detroit-catholic,catholic,0,false,2,1786,female,843,3,Marie Josephe Cuillerier,white,1770
+detroit-catholic,catholic,0,false,3,1786,female,844,13,Catherine Briant,white,1770
+detroit-catholic,catholic,0.028913996954741,female_bridge,33,1786,female,845,0,Marie Magdelène Meloche,white,1770
+detroit-catholic,catholic,0,false,3,1786,female,846,10,Marie Anne Le May,white,1770
+detroit-catholic,catholic,0,false,3,1786,female,847,8,Marie Magdelène Dupuis,white,1770
+detroit-catholic,catholic,0,false,3,1786,female,848,8,Charlotte Carmel,white,1770
+detroit-catholic,catholic,0.001577394833225,false,11,1786,female,849,8,Marie Jeanne Cardinal,white,1771
+detroit-catholic,catholic,0.001194287751682,false,9,1786,female,850,5,Marie Josephe Deshètres,white,1771
+detroit-catholic,catholic,0.003746270554478,false,16,1786,female,851,8,Marie Louise Parent,white,1771
+detroit-catholic,catholic,0.000176245962142,false,4,1786,female,852,2,Marie Angélique Boémie,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,853,18,Angélique Buissonnet,white,1771
+detroit-catholic,catholic,0.004469502902397,false,12,1786,female,854,13,Marguerite La Durantaie,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,855,6,Angélique La Pointe,white,1771
+detroit-catholic,catholic,0,false,3,1786,female,856,17,Marie Thérése Brossar,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,857,0,Marie Louise,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,858,5,Maria Louise Desnoyers,white,1772
+detroit-catholic,catholic,0.002594107123527,false,6,1786,female,859,17,Maria Joseph Pelletier,white,1772
+detroit-catholic,catholic,0.003366168104079,false,9,1786,female,860,10,Charlotte Joachim,white,1772
+detroit-catholic,catholic,0.00253678702326,false,9,1786,female,861,6,Elizabeth Rapin,white,1772
+detroit-catholic,catholic,0,false,3,1786,female,862,13,Marie Joseph Poirier,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,863,11,Marie Anne Deshêtres,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,864,18,Marie Angélique Fovel,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,865,10,Hypolite Deslières,white,1773
+detroit-catholic,catholic,0.005415267866456,false,15,1786,female,866,10,Catherine Rochelot,white,1773
+detroit-catholic,catholic,0.006037112810649,false,12,1786,female,867,3,Marie Joseph Gamelin,white,1773
+detroit-catholic,catholic,0.000695400149307,false,6,1786,female,868,5,Marguerite Joncaire,white,1773
+detroit-catholic,catholic,0.002876286243289,false,8,1786,female,869,13,Elizabeth Reveau,white,1773
+detroit-catholic,catholic,0,false,3,1786,female,870,8,Marie Catherine Germain,white,1773
+detroit-catholic,catholic,0.000179815211362,false,6,1786,female,871,8,Angélique Godet,white,1774
+detroit-catholic,catholic,0.014572952094369,false,20,1786,female,873,10,Marie Jeanne Belleperche,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,874,1,Marie Catherine Robart-Jann,white,1774
+detroit-catholic,catholic,0.004095577370381,false,9,1786,female,875,9,Marie Anne Le Sueur,white,1774
+detroit-catholic,catholic,0.024784971503425,female_bridge,33,1786,female,876,1,Catherine Buissonnet,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,877,6,Catherine La Beau,white,1774
+detroit-catholic,catholic,0,false,3,1786,female,878,13,Isabeth Drouillar,white,1774
+detroit-catholic,catholic,0.000216338120847,false,6,1786,female,879,0,Susanne Pepin,white,1775
+detroit-catholic,catholic,0,false,3,1786,female,880,5,Susanne Bey Dit Patêne,white,1775
+detroit-catholic,catholic,0.008587099971088,false,20,1786,female,881,0,Marie Angélique Beauchamp,white,1775
+detroit-catholic,catholic,0.00017584826487,false,5,1786,female,882,10,Josette Dutau,white,1775
+detroit-catholic,catholic,0,false,3,1786,female,883,14,Angélique Girard,white,1775
+detroit-catholic,catholic,0,false,3,1786,female,884,15,Magdelène Meloche,white,1775
+detroit-catholic,catholic,0.000502264219588,false,6,1786,female,885,1,Charlotte Bergeron,white,1775
+detroit-catholic,catholic,0,false,5,1786,female,886,8,Marie Charlotte Goulet,white,1775
+detroit-catholic,catholic,0.000519574143263,false,6,1786,female,887,10,Magdelène Pilette,white,1775
+detroit-catholic,catholic,0.009088309512298,false,19,1786,female,888,6,Josette Pilote,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,889,16,Angélique La Badie,white,1776
+detroit-catholic,catholic,0.001174545570218,false,6,1786,female,890,0,Josette,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,891,0,Marie Catherine Buissonnet,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,892,13,Marie Louise Quenel Dit St. Remi,white,1776
+detroit-catholic,catholic,0.001403648626753,false,6,1786,female,893,6,Anne Viller,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,894,11,Marguerite Paul,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,895,0,Marie Magdalene Le Vasseur,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,896,2,Louise Du Berger,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,897,1,Marie Amable Céras Dit Coquillard,white,1776
+detroit-catholic,catholic,0.019902669255738,false,15,1786,female,898,11,Charlotte Reaume,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,899,6,Marie Joseph Janis,white,1776
+detroit-catholic,catholic,0,false,3,1786,female,901,10,Marie D'ovignon,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,902,10,Marie Mag'd Goïau,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,903,6,Geneviève Cuillerier,white,1777
+detroit-catholic,catholic,0.000620719399629,false,6,1786,female,904,13,Thérése Brassar,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,905,16,Marie Angélique,white,1777
+detroit-catholic,catholic,0.002088037060992,false,6,1786,female,906,19,Jeanne Viller,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,907,8,Françoise Du Saux,white,1777
+detroit-catholic,catholic,0.009420156582135,false,12,1786,female,908,6,Marie Angélique Touranjau,white,1777
+detroit-catholic,catholic,0,false,3,1786,female,909,5,Veronique La Grand,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,910,10,Charlotte Rindeau Dit Joachim,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,911,1,Marie Angélique Cuillerier,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,912,14,Catherine Valet Dit Versailles,white,1778
+detroit-catholic,catholic,0.002184220265924,false,9,1786,female,913,16,Jeanne Campeau,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,914,5,Angélique Le Duc,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,915,11,Marguerite Saint-Ange,white,1778
+detroit-catholic,catholic,0.001196732667653,false,6,1786,female,916,6,Cécile Chêne,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,918,10,Josette Rochelot,white,1778
+detroit-catholic,catholic,0,false,3,1786,female,919,11,Magdelène Jonçaire,white,1779
+detroit-catholic,catholic,0.004298829966745,false,9,1786,female,920,8,Véronique Bondy,white,1779
+detroit-catholic,catholic,0.000587807506188,false,6,1786,female,921,5,Catherine Chêne,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,922,6,Marie Magdelène Villers,white,1779
+detroit-catholic,catholic,0.003126056601488,false,9,1786,male,923,15,Archange Du Sault,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,924,5,Thérése Bourasa,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,925,8,Josette La Chêne,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,926,11,Thérése Goiu,white,1779
+detroit-catholic,catholic,0,false,3,1786,female,927,13,Reine Angélique Tourenjeaun,white,1779
+detroit-catholic,catholic,0,false,3,1786,male,928,9,Archange Fontaine,white,1780
+detroit-catholic,catholic,0.000691042553758,false,6,1786,female,929,0,Marie Louise Meloche,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,930,16,Marie Elizabeth Godafroi,white,1780
+detroit-catholic,catholic,0,false,3,1786,female,931,11,Angélique Godefroi,white,1781
+detroit-catholic,catholic,0,false,3,1786,female,932,5,Catherine Lotman Dit Barrois,white,1781
+detroit-catholic,catholic,0.0001282053135,false,6,1786,female,933,8,Magdalène Janis,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,934,8,osephine Bissonnet,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,935,5,Suzanne Patel,white,1782
+detroit-catholic,catholic,0.006249959097126,female_bridge,6,1786,female,936,13,Geneviève Comparé,white,1782
+detroit-catholic,catholic,0.002292043660736,false,6,1786,female,937,17,Cécile Labutte,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,938,1,Maried Josephine Gamelin,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,939,6,Marie Josephine Lajeunesse,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,940,16,Madame Charlotte Mouton,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,941,16,Dame Marie Louise Gaudette Widow Berthelette,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,942,11,Thérése Le Duc Widdow Maillon,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,943,11,Thérése Béquet,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,944,10,Cécile Campeau,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,945,8,Dame Veuve Berthelet,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,947,11,Marie Catherine L'Espérance,white,1782
+detroit-catholic,catholic,0.002201829457371,false,9,1786,female,948,1,Josette Bissonnet,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,949,16,Dame Louise Catherine Soumande,white,1782
+detroit-catholic,catholic,0.002563990064851,false,12,1786,female,950,16,Marie Josette Pageot,white,1782
+detroit-catholic,catholic,0.002611333963449,false,6,1786,female,951,5,Geneviève Drouillard,white,1782
+detroit-catholic,catholic,0,false,3,1786,female,952,17,Angélique Chapaton,white,1782
+detroit-catholic,catholic,0.016579298128503,female_bridge,6,1786,female,953,7,Josette Cloutier,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,955,0,Charlotte Du Roseau,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,956,17,Marguerite Chabert,white,1783
+detroit-catholic,catholic,0.000233342908949,false,5,1786,female,957,6,Judith La Violette,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,958,1,Marie Thérése Drouillar,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,960,0,Magdelène Gaudet,white,1783
+detroit-catholic,catholic,0.005281522467569,false,6,1786,female,961,14,Marguerite L'Enfant,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,962,10,Marie Louise Thérése Bertrand,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,963,3,Marie Angéique Morand,white,1783
+detroit-catholic,catholic,0,false,3,1786,female,964,7,Louise Bissonnet,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,965,17,Marie Suzor,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,966,8,Louise Parent,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,967,19,Louise Le Clerc,white,1784
+detroit-catholic,catholic,0.000433035914549,false,8,1786,female,968,0,Catherine Bondy,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,969,16,Angélique Chevalier,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,970,1,Catherine St. Germa,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,972,6,Marie Anne Martin,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,973,5,Suzanne Ouallet,white,1784
+detroit-catholic,catholic,0.007383006715488,female_bridge,9,1786,female,974,19,Marie Petit,white,1784
+detroit-catholic,catholic,0.0135870402598,female_bridge,17,1786,female,975,10,Angélique Langlois,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,976,8,Marguerite Levrand,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,978,3,Elizabeth Labadie,white,1784
+detroit-catholic,catholic,0,false,3,1786,female,979,1,Charlotte Fovel,white,1784
+detroit-catholic,catholic,0.006408243685617,male_bridge,9,1786,male,980,8,Archange Godet,white,1785
+detroit-catholic,catholic,0.000366073777352,false,6,1786,female,981,6,Marie Archange Pageot,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,982,0,Marie Catherine Goyau,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,983,13,Marie Jeanne Révau,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,984,10,Françoise Lauzon,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,985,0,Marie Françoise Révau,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,986,10,Marie Louise Bertrand,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,987,10,Marie Des Anges Chêne,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,988,9,Marie Campeau,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,989,0,Marguerite Mêté,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,990,2,Thérése Pouget,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,991,14,Charlotte ???,white,1785
+detroit-catholic,catholic,0.006249959097126,female_bridge,6,1786,female,992,10,Catherine Pelletier,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,993,5,Thérése Mailloux,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,994,17,Thérése Descomtes,white,1785
+detroit-catholic,catholic,0,false,3,1786,female,995,9,Marie Thérése Peltier,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,996,6,Marie Joseph Choisie,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,997,17,Charlotte Godienne,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,998,15,Marguerite St. George,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,999,0,Marie Reaume,white,1786
+detroit-catholic,catholic,0.001228360479582,false,6,1786,female,1000,10,Dame Janis,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1001,5,Marie Josette Pelleti,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1002,13,Marie Jeanne Lajeunes,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1003,15,Marie Thérése Ménard,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1006,6,Marie Louise Bissonne,white,1786
+detroit-catholic,catholic,0,false,2,1786,female,1007,6,Geneviève Amable Bigr,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1008,0,Marie Joseph Chapoton,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1009,1,Thérése Boyer,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1010,0,Elizabeth Chapoton,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1011,13,Marie Thérése Paré,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1012,7,Marie Magdelène Pageot,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1013,9,Dame St. Jeaubert,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1016,16,Josette Drouillard,white,1786
+detroit-catholic,catholic,0,false,3,1786,female,1017,13,Josette Gatignou,white,1786

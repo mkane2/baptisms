@@ -1,0 +1,216 @@
+congregation,denomination,betweenness,bridge,degree,end,gender,id,modularity,name,race,start
+gravesend-drc,dutch reformed,0.221072826669923,false,26,1805,male,0,0,Bernardus Rider,white,1715
+gravesend-drc,dutch reformed,0.004463750310795,false,5,1735,female,1,0,Ariaantie Rider,white,1715
+gravesend-drc,dutch reformed,0,false,3,1735,male,4,1,Daniel Griggs,white,1715
+gravesend-drc,dutch reformed,0,false,3,1735,female,5,1,Catharina Griggs,white,1715
+gravesend-drc,dutch reformed,0.024448935381269,false,7,1737,male,6,2,Jan Rider,white,1715
+gravesend-drc,dutch reformed,0.229333644317799,false,10,1805,female,7,2,Hilletie Rider,white,1715
+gravesend-drc,dutch reformed,0.069003050926062,male_bridge,13,1805,male,14,2,Samuel Gerritse,white,1716
+gravesend-drc,dutch reformed,0.002537921762616,false,5,1770,female,15,2,Ida Gerritse,white,1716
+gravesend-drc,dutch reformed,0,false,3,1736,male,16,3,William Van Nuys,white,1716
+gravesend-drc,dutch reformed,0,false,3,1736,female,17,3,Magdalena Nuys,white,1716
+gravesend-drc,dutch reformed,0.016407061266874,false,8,1788,male,20,1,John Griggs,white,1715
+gravesend-drc,dutch reformed,0.004395009726061,false,5,1739,female,21,1,Annatie Griggs,white,1716
+gravesend-drc,dutch reformed,0.270162747572133,male_bridge,23,1805,male,22,4,Barent Johnson,white,1718
+gravesend-drc,dutch reformed,0.121965658650108,false,13,1805,female,23,4,Maria Johnson,white,1717
+gravesend-drc,dutch reformed,2.92513126526553E-05,false,5,1739,male,24,1,Benjamin Griggs,white,1717
+gravesend-drc,dutch reformed,2.92513126526553E-05,false,5,1739,female,25,1,Margriet Griggs,white,1717
+gravesend-drc,dutch reformed,0,false,3,1737,male,26,5,Jacob Van der bilt,white,1717
+gravesend-drc,dutch reformed,0,false,3,1737,female,27,5,Neeltie Van der bilt,white,1717
+gravesend-drc,dutch reformed,0.06091878373042,male_bridge,6,1805,male,28,1,Peter Williamsen,white,1717
+gravesend-drc,dutch reformed,0.033144662366724,false,5,1738,female,29,1,Cornelia Williamsen,white,1717
+gravesend-drc,dutch reformed,0,false,3,1738,male,30,4,Thomas Stillwell,white,1717
+gravesend-drc,dutch reformed,0.405981047151474,female_bridge,14,1805,female,31,6,Anna Stillwell,white,1717
+gravesend-drc,dutch reformed,0.070577591706771,male_bridge,13,1792,male,34,11,Nicholas Williamsen,white,1718
+gravesend-drc,dutch reformed,0,false,3,1738,female,35,11,Lucretia Willemsz,white,1718
+gravesend-drc,dutch reformed,0.025606599096135,false,9,1788,female,38,1,Maritie Griggs,white,1715
+gravesend-drc,dutch reformed,0,false,3,1738,male,39,8,Jacob Emans,white,1718
+gravesend-drc,dutch reformed,0,false,3,1738,female,40,8,Geertie Emans,white,1718
+gravesend-drc,dutch reformed,0,false,3,1738,male,41,8,Samuel Poling,white,1718
+gravesend-drc,dutch reformed,0,false,3,1738,female,42,8,Geertie Poling,white,1718
+gravesend-drc,dutch reformed,0,false,3,1740,male,43,6,William Goolder,white,1720
+gravesend-drc,dutch reformed,0,false,3,1740,female,44,6,Geesie Goolder,white,1720
+gravesend-drc,dutch reformed,0.068198508784198,false,10,1805,male,47,6,Nicholas Stillwell,white,1766
+gravesend-drc,dutch reformed,0.021637760805116,false,8,1805,female,48,6,Hilletie Stillwell,white,1766
+gravesend-drc,dutch reformed,0.036856653942346,male_bridge,5,1791,male,49,5,James Hubbard,white,1764
+gravesend-drc,dutch reformed,0,false,2,1784,female,50,5,Hilletie Hubbard,white,1764
+gravesend-drc,dutch reformed,0,false,3,1770,male,55,4,Dirk Amerman,white,1750
+gravesend-drc,dutch reformed,0,false,3,1770,female,56,4,Jannitie Amerman,white,1750
+gravesend-drc,dutch reformed,0.009258040454565,false,5,1803,male,57,9,Albert Terhune,white,1750
+gravesend-drc,dutch reformed,0.009258040454565,false,5,1803,female,58,9,Anna Terhune,white,1750
+gravesend-drc,dutch reformed,0.022892746839056,false,8,1785,male,59,11,Johannes Gerritse,white,1750
+gravesend-drc,dutch reformed,0,false,3,1770,female,60,2,Elizabeth Gerritse,white,1750
+gravesend-drc,dutch reformed,0.009345794392523,male_bridge,4,1805,male,61,10,Cornelius Emans,white,1770
+gravesend-drc,dutch reformed,0,false,3,1790,female,62,10,Eva Emans,white,1770
+gravesend-drc,dutch reformed,0.07248475275328,female_bridge,8,1805,female,63,4,Neeltie Johnson,white,1771
+gravesend-drc,dutch reformed,0,false,2,1793,male,66,12,Jeremiah Stillwell,white,1763
+gravesend-drc,dutch reformed,0,false,1,1783,female,67,2,Matie Gerritse,white,1763
+gravesend-drc,dutch reformed,0.038829088756332,false,16,1805,male,68,13,Isaac Denyse,white,1763
+gravesend-drc,dutch reformed,0.038829088756332,false,16,1805,male,69,13,Sytie Denyse,white,1763
+gravesend-drc,dutch reformed,0.096344098098626,male_bridge,10,1805,male,70,11,Jacob Rider,white,1763
+gravesend-drc,dutch reformed,0.003016261497067,false,6,1793,female,71,11,Jannitie Rider,white,1763
+gravesend-drc,dutch reformed,0.027861875301654,female_bridge,3,1805,female,72,11,Geertie Williamsen,white,1767
+gravesend-drc,dutch reformed,0.009345794392523,female_bridge,2,1794,female,73,11,Catharina Williamsen,white,1770
+gravesend-drc,dutch reformed,0.001107893466719,false,5,1805,male,78,4,William Johnson,white,1783
+gravesend-drc,dutch reformed,0,false,3,1784,male,85,0,Dirk Lake,white,1764
+gravesend-drc,dutch reformed,0,false,3,1784,female,86,0,Maria Lake,white,1764
+gravesend-drc,dutch reformed,0,false,3,1785,female,87,11,Jannitie Gerritse,white,1765
+gravesend-drc,dutch reformed,0.092829785021184,male_bridge,16,1805,male,90,6,Richard Stillwell,white,1720
+gravesend-drc,dutch reformed,0,false,1,1788,male,93,12,Jan Boys,white,1768
+gravesend-drc,dutch reformed,0.009389671361502,female_bridge,5,1793,female,94,12,Jannitie Boys,white,1768
+gravesend-drc,dutch reformed,0.051244720139529,false,9,1805,male,95,6,Joost Stillwell,white,1766
+gravesend-drc,dutch reformed,0,false,3,1794,male,99,3,Harman Barculo,white,1770
+gravesend-drc,dutch reformed,0.063577728050546,female_bridge,5,1805,female,100,3,Elizabeth Barculo,white,1770
+gravesend-drc,dutch reformed,0.015170061130298,false,8,1805,male,101,0,Daniel Lake,white,1764
+gravesend-drc,dutch reformed,0.015170061130298,false,8,1805,female,102,0,Neeltie Lake,white,1764
+gravesend-drc,dutch reformed,0,false,1,1787,female,103,11,Catrintie Williamsen,white,1767
+gravesend-drc,dutch reformed,0.007045565802118,false,6,1805,male,104,11,Rem Williamsen,white,1772
+gravesend-drc,dutch reformed,0,false,4,1802,female,105,11,Susannah Williamsen,white,1772
+gravesend-drc,dutch reformed,0,false,3,1788,female,106,11,Maaike Rider,white,1768
+gravesend-drc,dutch reformed,0.018603834847089,male_bridge,3,1788,male,107,5,Bernardus Hubbard,white,1764
+gravesend-drc,dutch reformed,0.009345794392523,female_bridge,2,1805,female,108,5,Neeltie Hubbard,white,1768
+gravesend-drc,dutch reformed,0.118029195790843,false,15,1805,female,109,6,Maria Stillwell,white,1768
+gravesend-drc,dutch reformed,0.000455066849696,false,5,1805,female,112,0,Engeltie Rider,white,1769
+gravesend-drc,dutch reformed,0.054873950523436,false,15,1805,male,113,10,Stephan Voorhees,white,1769
+gravesend-drc,dutch reformed,0.054873950523436,false,15,1805,female,114,10,Phoebe Voorhees,white,1769
+gravesend-drc,dutch reformed,0.008330863174191,false,4,1791,female,123,6,Jannitie Johnson,white,1770
+gravesend-drc,dutch reformed,0,false,1,1790,female,124,11,Geertie Willemsz,white,1770
+gravesend-drc,dutch reformed,0.002144227127365,false,6,1790,male,125,10,Jan Voorhees,white,1769
+gravesend-drc,dutch reformed,0.01450577047984,female_bridge,8,1805,female,126,10,Jannitie Voorhees,white,1770
+gravesend-drc,dutch reformed,0.073011276381028,male_bridge,9,1805,male,129,12,John Boys,white,1763
+gravesend-drc,dutch reformed,0.027774121363696,male_bridge,6,1791,male,130,5,Hendrick Henderiksen,white,1717
+gravesend-drc,dutch reformed,0,false,3,1791,female,131,5,Johanna Henderiksen,white,1771
+gravesend-drc,dutch reformed,0.007737721915145,false,7,1805,female,134,2,Hilletie Gerritse,white,1771
+gravesend-drc,dutch reformed,0,false,3,1792,male,142,4,Jacques Johnson,white,1772
+gravesend-drc,dutch reformed,0,false,3,1792,female,143,4,Catharina Johnson,white,1772
+gravesend-drc,dutch reformed,0.099337457768417,male_bridge,8,1805,male,146,2,Hendrick Wyckoff,white,1717
+gravesend-drc,dutch reformed,0,false,1,1792,female,147,2,Sara Wyckoff,white,1772
+gravesend-drc,dutch reformed,0,false,3,1792,male,150,6,Samuel Kiersted,white,1772
+gravesend-drc,dutch reformed,0,false,3,1792,female,151,6,Jannitie Kiersted,white,1772
+gravesend-drc,dutch reformed,0.005763631500106,false,5,1805,female,152,11,Emmetie Rider,white,1773
+gravesend-drc,dutch reformed,0,false,3,1793,male,153,12,Garret Williamsen,white,1773
+gravesend-drc,dutch reformed,0,false,3,1793,female,154,12,Leentie Williamsen,white,1773
+gravesend-drc,dutch reformed,0.024735509903533,male_bridge,7,1805,male,155,4,Hendrick Van Kleef,white,1773
+gravesend-drc,dutch reformed,0.01538971551101,false,6,1805,female,156,4,Ida Kleef,white,1773
+gravesend-drc,dutch reformed,0,false,3,1793,male,158,7,John Skinner,white,1773
+gravesend-drc,dutch reformed,0.027774121363696,female_bridge,4,1803,female,159,7,Lea Skinner,white,1773
+gravesend-drc,dutch reformed,0,false,3,1794,male,160,4,Peter Johnson,white,1774
+gravesend-drc,dutch reformed,0,false,3,1794,female,161,4,Sally Johnson,white,1774
+gravesend-drc,dutch reformed,0.045851432583037,male_bridge,5,1805,male,164,9,Johannes Wyckoff,white,1783
+gravesend-drc,dutch reformed,0,false,3,1803,female,165,9,Annatie Wyckoff,white,1783
+gravesend-drc,dutch reformed,0.101871998596009,male_bridge,7,1805,male,166,6,Wilhelm Stoothof,white,1781
+gravesend-drc,dutch reformed,0,false,2,1801,female,167,6,Charity Rider,white,1781
+gravesend-drc,dutch reformed,0,false,1,1801,female,170,4,Tryntie Van Kleef,white,1781
+gravesend-drc,dutch reformed,0.018603834847089,female_bridge,3,1805,female,173,1,Hilletie Williamsen,white,1790
+gravesend-drc,dutch reformed,0.017276888644435,male_bridge,9,1805,male,174,10,John Voorhees,white,1769
+gravesend-drc,dutch reformed,0.023538685000953,false,8,1805,male,175,13,William Van Dyck,white,1782
+gravesend-drc,dutch reformed,0.004071880748436,false,4,1805,female,176,13,Jannitie Dyck,white,1782
+gravesend-drc,dutch reformed,0.009345794392523,male_bridge,6,1805,male,177,0,Lourance Rider,white,1782
+gravesend-drc,dutch reformed,0,false,5,1805,female,178,0,Tryntie Rider,white,1782
+gravesend-drc,dutch reformed,0,false,3,1805,male,181,4,Hendrick Johnson,white,1783
+gravesend-drc,dutch reformed,0.051201096178603,false,9,1805,female,182,4,Elizabeth Johnson,white,1783
+gravesend-drc,dutch reformed,0,false,3,1803,male,185,4,Jacques Van Brunt,white,1783
+gravesend-drc,dutch reformed,0.027774121363696,female_bridge,5,1805,female,186,4,Maria Van Brunt,white,1783
+gravesend-drc,dutch reformed,0.045939186520995,male_bridge,6,1803,male,187,6,David Brouwer,white,1771
+gravesend-drc,dutch reformed,0,false,2,1803,male,188,4,Sytie Johnson,white,1783
+gravesend-drc,dutch reformed,0.051384456712796,male_bridge,12,1805,male,189,0,Court Lake,white,1782
+gravesend-drc,dutch reformed,0.032780621865707,false,10,1805,female,190,0,Ida Lake,white,1782
+gravesend-drc,dutch reformed,0.018603834847089,male_bridge,4,1805,male,191,10,Martin Schoomaker,white,1784
+gravesend-drc,dutch reformed,0.01697468916779,false,5,1805,male,192,13,Jacques Denyse,white,1789
+gravesend-drc,dutch reformed,0.02093660021337,false,6,1805,female,193,13,Ida Denyse,white,1789
+gravesend-drc,dutch reformed,0,false,3,1805,male,194,13,William Glyck,white,1785
+gravesend-drc,dutch reformed,0,false,3,1805,female,195,13,Jannitie Glyck,white,1785
+gravesend-drc,dutch reformed,0.009258040454565,false,5,1805,male,198,2,Cornelius Van Brunt,white,1786
+gravesend-drc,dutch reformed,0.009258040454565,false,5,1805,female,199,2,Jannitie Brunt,white,1786
+gravesend-drc,dutch reformed,0.176145579070204,female_bridge,15,1805,female,200,11,Ida Williamsen,white,1765
+gravesend-drc,dutch reformed,0,false,5,1805,female,201,0,Femmitie Rider,white,1786
+gravesend-drc,dutch reformed,0,false,3,1805,female,202,6,Hilletie Stoothof,white,1795
+gravesend-drc,dutch reformed,0.004953308309122,false,6,1805,male,211,4,John Johnson,white,1788
+gravesend-drc,dutch reformed,0,false,3,1805,male,214,12,Daniel Stillwell,white,1788
+gravesend-drc,dutch reformed,0,false,3,1805,female,215,12,Tryntie Stillwell,white,1788
+gravesend-drc,dutch reformed,0.080953007766224,male_bridge,4,1805,male,222,3,Johannes Van Pelt,white,1788
+gravesend-drc,dutch reformed,0,false,2,1805,female,223,3,Sara Pelt,white,1789
+gravesend-drc,dutch reformed,0,false,2,1805,male,226,1,John Schenck,white,1790
+gravesend-drc,dutch reformed,0,false,2,1805,female,227,1,Annatie Schenck,white,1790
+gravesend-drc,dutch reformed,0,false,1,1805,male,228,4,Isaac Van Brunt,white,1790
+gravesend-drc,dutch reformed,0.009345794392523,female_bridge,3,1805,female,229,4,Annatie Brunt,white,1790
+gravesend-drc,dutch reformed,0.004650958711772,false,4,1805,male,232,10,Abraham Emans,white,1790
+gravesend-drc,dutch reformed,0.004650958711772,false,4,1805,male,233,10,Sytie Emans,white,1790
+gravesend-drc,dutch reformed,0,false,1,1805,female,238,0,Catharina Rider,white,1791
+gravesend-drc,dutch reformed,0,false,3,1805,male,239,13,John Denyse,white,1792
+gravesend-drc,dutch reformed,0,false,3,1805,female,240,13,Phoebe Denyse,white,1792
+gravesend-drc,dutch reformed,0,false,1,1805,female,241,4,Ida Van Kleef,white,1792
+gravesend-drc,dutch reformed,0,false,1,1805,female,254,3,Nuyse Van Deryn,white,1794
+gravesend-drc,dutch reformed,0.009345794392523,female_bridge,4,1805,female,255,3,Catharina Durye,white,1770
+gravesend-drc,dutch reformed,0,false,2,1805,male,256,0,Abraham Berry,white,1798
+gravesend-drc,dutch reformed,0,false,2,1805,female,257,0,Eva Berry,white,1798
+gravesend-drc,dutch reformed,0,false,3,1805,male,260,6,Jacques Stillwell,white,1794
+gravesend-drc,dutch reformed,0,false,3,1805,female,261,6,Helena Stillwell,white,1794
+gravesend-drc,dutch reformed,0,false,2,1805,female,264,10,Catharina Schoomaker,white,1794
+gravesend-drc,dutch reformed,0,false,1,1805,male,271,10,Lourance Voorhees,white,1795
+gravesend-drc,dutch reformed,0,false,1,1805,female,274,10,Neeltie Emans,white,1795
+gravesend-drc,dutch reformed,0,false,2,1805,male,280,4,Albert Van Brunt,white,1797
+gravesend-drc,dutch reformed,0,false,3,1805,female,288,0,Maria Dyck,white,1804
+gravesend-drc,dutch reformed,0.089319551214024,false,5,1805,male,293,6,John Rider,white,1781
+gravesend-drc,dutch reformed,0.001658027082537,false,3,1805,male,296,11,Isaac Rider,white,1800
+gravesend-drc,dutch reformed,0.001658027082537,false,3,1805,female,297,11,Annatie Rider,white,1800
+gravesend-drc,dutch reformed,0,false,2,1805,female,298,10,Elizabeth Voorhees,white,1800
+gravesend-drc,dutch reformed,0.004650958711772,false,3,1805,male,301,2,Rem Wyckoff,white,1800
+gravesend-drc,dutch reformed,0.004650958711772,false,3,1805,female,302,2,Sally Wyckoff,white,1800
+gravesend-drc,dutch reformed,0,false,2,1805,male,303,8,Johannes Van Sicklen,white,1804
+gravesend-drc,dutch reformed,0.054758457285771,female_bridge,5,1805,female,304,8,Maria Sicklen,white,1718
+gravesend-drc,dutch reformed,0,false,1,1805,male,305,5,Abraham Hubbard,white,1802
+gravesend-drc,dutch reformed,0.009345794392523,female_bridge,2,1805,female,308,11,Johanna Rider,white,1802
+gravesend-drc,dutch reformed,0,false,3,1805,male,311,10,Jurge Suydam,white,1803
+gravesend-drc,dutch reformed,0,false,3,1805,female,312,10,Jannitie Suydam,white,1803
+gravesend-drc,dutch reformed,0,false,1,1805,male,315,11,Jocobus Rider,white,1804
+gravesend-drc,dutch reformed,0,false,2,1805,female,319,9,Lucretia Wyckoff,white,1804
+gravesend-drc,dutch reformed,0,false,1,1805,female,320,10,Adriantie Voorhees,white,1805
+gravesend-drc,dutch reformed,0,false,3,1735,male,321,0,Jacob Suydam,white,1715
+gravesend-drc,dutch reformed,0.027774121363696,male_bridge,6,1794,male,325,3,Joost Durye,white,1716
+gravesend-drc,dutch reformed,0.051255612595615,false,6,1737,male,327,1,William Willemsz,white,1716
+gravesend-drc,dutch reformed,0,false,3,1737,male,328,1,Samuel Griggs,white,1717
+gravesend-drc,dutch reformed,0,false,3,1738,male,330,11,Stephan Koersten,white,1718
+gravesend-drc,dutch reformed,0.027774121363696,male_bridge,6,1738,male,332,8,Ferdinand Sickel,white,1718
+gravesend-drc,dutch reformed,0,false,3,1770,male,333,9,Roulof Terhune,white,1750
+gravesend-drc,dutch reformed,0,false,3,1783,female,334,13,Geertie Rapelje,white,1763
+gravesend-drc,dutch reformed,0.021025843534729,false,5,1805,male,336,4,Court Johnson,white,1768
+gravesend-drc,dutch reformed,0,false,2,1789,female,338,0,Elizabeth Lake,white,1769
+gravesend-drc,dutch reformed,0,false,3,1789,male,339,0,Jan Meyer,white,1769
+gravesend-drc,dutch reformed,0,false,2,1790,female,342,12,Wyntie Boys,white,1770
+gravesend-drc,dutch reformed,0,false,3,1791,male,344,2,Peter Van der bilt,white,1771
+gravesend-drc,dutch reformed,0,false,3,1793,male,346,4,Rem Van Kleef,white,1773
+gravesend-drc,dutch reformed,0,false,3,1793,male,348,7,Petrus Brouwer,white,1773
+gravesend-drc,dutch reformed,0,false,2,1802,male,349,4,John Van Kleef,white,1782
+gravesend-drc,dutch reformed,0.023701607398191,false,5,1802,female,350,4,Maria Van Kleef,white,1773
+gravesend-drc,dutch reformed,0,false,3,1805,male,351,2,Rem Adriance,white,1786
+gravesend-drc,dutch reformed,0.016462308600272,false,5,1805,female,353,6,Maria Hubbard,white,1795
+gravesend-drc,dutch reformed,0,false,2,1805,female,355,10,Annatie Hubbard,white,1790
+gravesend-drc,dutch reformed,0,false,2,1805,male,356,4,Harman Casper,white,1790
+gravesend-drc,dutch reformed,0,false,2,1805,male,358,10,John Bennem,white,1794
+gravesend-drc,dutch reformed,0.016462308600272,false,5,1805,male,359,6,Stephan Hubbard,white,1795
+gravesend-drc,dutch reformed,0,false,1,1805,male,366,11,Stephan Williamsen,white,1803
+gravesend-drc,dutch reformed,0.000428164213869,false,4,1805,female,367,6,Ida Stillwell,white,1768
+gravesend-drc,dutch reformed,0,false,2,1805,female,368,2,Emmetie Suydam,white,1805
+gravesend-drc,dutch reformed,0,false,3,1735,male,369,0,Sytie Suydam,white,1715
+gravesend-drc,dutch reformed,0,false,3,1736,female,373,3,Helena Derjes,white,1716
+gravesend-drc,dutch reformed,0,false,3,1737,female,375,5,Helena Henderiksen,white,1717
+gravesend-drc,dutch reformed,0,false,3,1737,female,376,2,Helena Wyckoff,white,1717
+gravesend-drc,dutch reformed,0,false,3,1737,female,377,1,Jannitie Hubbard,white,1717
+gravesend-drc,dutch reformed,0,false,3,1738,female,379,11,Egtie Koersten,white,1718
+gravesend-drc,dutch reformed,0,false,3,1738,female,380,8,Eva Sickel,white,1718
+gravesend-drc,dutch reformed,0,false,3,1740,female,381,6,Catharina Stillwell,white,1720
+gravesend-drc,dutch reformed,0,false,3,1770,female,382,9,Maria Terhune,white,1750
+gravesend-drc,dutch reformed,0,false,3,1783,female,383,13,Helena Rapelje,white,1763
+gravesend-drc,dutch reformed,0,false,3,1789,female,385,0,Eva Meyer,white,1769
+gravesend-drc,dutch reformed,0.002158852783691,false,7,1790,male,386,10,Sytie Voorhees,white,1769
+gravesend-drc,dutch reformed,0,false,3,1791,female,388,2,Jannitie Van der bilt,white,1771
+gravesend-drc,dutch reformed,0.009082532578649,false,5,1792,female,389,6,Jannitie Brouwer,white,1771
+gravesend-drc,dutch reformed,0,false,3,1793,female,392,7,Maria Brouwer,white,1773
+gravesend-drc,dutch reformed,0,false,3,1803,female,393,4,Phoebe Johnson,white,1783
+gravesend-drc,dutch reformed,0,false,3,1805,female,394,2,Elizabeth Adriance,white,1786
+gravesend-drc,dutch reformed,0,false,2,1805,female,396,3,Neeltie Stoothof,white,1788
+gravesend-drc,dutch reformed,0,false,3,1805,female,397,12,Geertie Boys,white,1788
+gravesend-drc,dutch reformed,0,false,3,1805,female,398,4,Hitie Johnson,white,1789
+gravesend-drc,dutch reformed,0,false,3,1805,female,399,4,Geertie Johnson,white,1789
+gravesend-drc,dutch reformed,0,false,4,1792,female,403,11,Antje Stillwell,white,1772

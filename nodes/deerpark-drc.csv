@@ -1,0 +1,642 @@
+congregation,denomination,betweenness,bridge,degree,end,gender,id,modularity,name,race,start
+deerpark-drc,dutch reformed,0.003181810817302,false,7,1759,male,0,0,Stephan Ditsoort,white,1737
+deerpark-drc,dutch reformed,0.010081090266491,false,12,1760,female,1,0,Sara Hornbeck,white,1737
+deerpark-drc,dutch reformed,0.000271755239331,false,5,1757,male,2,0,Jacob Kuikendal,white,1737
+deerpark-drc,dutch reformed,0.022070235581394,false,25,1760,female,3,6,Sara Westfael,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,male,4,1,Joost Hornbeck,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,5,1,Eegje Van Vliet,white,1737
+deerpark-drc,dutch reformed,0.002620906055773,false,11,1760,male,6,8,Jacob Cuddebeck,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,7,8,Margriet Prevost,white,1737
+deerpark-drc,dutch reformed,0.010506322560459,false,19,1760,male,8,0,Jacob Decker,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,9,7,Anna Kortrecht,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,male,10,6,Teunis Quick,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,11,6,Claertie de Hooges,white,1737
+deerpark-drc,dutch reformed,0.000151906744308,false,5,1760,male,12,7,Cornelius Kuikendal,white,1737
+deerpark-drc,dutch reformed,0.106890443157232,false,59,1760,female,13,6,Maria Westfael,white,1737
+deerpark-drc,dutch reformed,0.009563032277911,false,16,1760,male,14,5,Thomas Quick,white,1737
+deerpark-drc,dutch reformed,0.020560034103018,female_bridge,17,1760,female,15,6,Geertie Decker,white,1737
+deerpark-drc,dutch reformed,0.004123620358753,false,8,1760,male,16,6,Jan Middagh,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,17,6,Geertie Klearwater,white,1737
+deerpark-drc,dutch reformed,0.015185740399528,false,17,1760,male,18,8,Jurian Westfael,white,1737
+deerpark-drc,dutch reformed,0.013084277137341,false,15,1760,female,19,8,Maritie Cuddebeck,white,1737
+deerpark-drc,dutch reformed,0.038564603713269,false,30,1760,male,20,6,Jacob Westfael,white,1737
+deerpark-drc,dutch reformed,6.40211459694033E-05,false,6,1760,female,21,6,Margriet de Duytser,white,1737
+deerpark-drc,dutch reformed,0.00560038630597,false,12,1760,male,22,0,Abel Westfael,white,1737
+deerpark-drc,dutch reformed,0.002890290074887,false,9,1760,female,23,0,Annatie Bogaert,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,male,24,7,Mattheus Kuikendal,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,25,7,Jannitie Westfael,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,male,26,1,Johannes Quick,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,27,1,Brechie Middagh,white,1737
+deerpark-drc,dutch reformed,0.000384145147007,false,7,1760,female,28,0,Rachel Hornbeck,white,1737
+deerpark-drc,dutch reformed,0.009345657276995,female_bridge,6,1760,female,29,2,Geertie Brinck,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,30,2,Sara Ditsoort,white,1737
+deerpark-drc,dutch reformed,0.007134997726101,false,17,1760,male,31,9,Dirk Westbroeck,white,1739
+deerpark-drc,dutch reformed,0.00344179151114,false,13,1760,female,32,10,Jannitie Van Keuren,white,1737
+deerpark-drc,dutch reformed,0.029630833497608,false,20,1760,male,33,11,Hendrick Decker,white,1737
+deerpark-drc,dutch reformed,0.000355156192564,false,5,1760,female,34,12,Annatie Ditsoort,white,1737
+deerpark-drc,dutch reformed,0.011366949649683,false,19,1760,male,35,2,Peter Kuikendal,white,1739
+deerpark-drc,dutch reformed,0.015811963499337,false,20,1760,female,36,1,Emmetie Decker,white,1737
+deerpark-drc,dutch reformed,0.01606516977666,false,23,1760,male,37,12,Jacob Rosenkranz,white,1737
+deerpark-drc,dutch reformed,0.028096433677781,false,32,1760,female,38,0,Sara Decker,white,1737
+deerpark-drc,dutch reformed,0.018531546704016,false,26,1760,male,39,9,Cornelius Westbroeck,white,1738
+deerpark-drc,dutch reformed,0.019394427961485,false,30,1760,female,40,9,Annatie Rosa,white,1739
+deerpark-drc,dutch reformed,0.001000939987156,false,7,1760,male,41,2,Samuel Schamers,white,1738
+deerpark-drc,dutch reformed,0.003252444678524,false,10,1760,female,42,2,Sara Kortrecht,white,1738
+deerpark-drc,dutch reformed,0.007026197995539,false,17,1760,male,43,12,Arie Vredenburgh,white,1738
+deerpark-drc,dutch reformed,0.011728486503285,false,20,1760,female,44,12,Sara Rosenkranz,white,1738
+deerpark-drc,dutch reformed,0.004894600397294,false,12,1760,male,45,5,Dirk Quick,white,1738
+deerpark-drc,dutch reformed,0.001668774048195,false,9,1760,female,46,5,Apollonia Van Garden,white,1738
+deerpark-drc,dutch reformed,0.003485647562553,false,13,1760,male,47,1,Abraham Kermer,white,1738
+deerpark-drc,dutch reformed,0.004198416891461,false,14,1760,female,48,1,Sara Schamers,white,1738
+deerpark-drc,dutch reformed,0.008205118189037,false,17,1760,male,49,5,William Kortrecht,white,1738
+deerpark-drc,dutch reformed,0.020260023361611,false,25,1760,female,50,5,Margriet Johnson,white,1738
+deerpark-drc,dutch reformed,0.000164336455892,false,5,1760,male,51,1,Hendrick Haldring,white,1738
+deerpark-drc,dutch reformed,0.031131164186064,false,31,1760,female,52,1,Annatie Decker,white,1738
+deerpark-drc,dutch reformed,0.002878608147708,false,6,1760,male,53,6,Hue Pugh,white,1738
+deerpark-drc,dutch reformed,0.001338535905483,false,6,1760,female,54,12,Helena Brinck,white,1738
+deerpark-drc,dutch reformed,0.008573559639142,false,19,1760,male,55,1,Solomon Davis,white,1737
+deerpark-drc,dutch reformed,0.026657496270073,false,28,1760,female,56,1,Lea Decker,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,male,57,1,Henrich Henrickse Kortrecht,white,1738
+deerpark-drc,dutch reformed,0.02082029233915,false,26,1760,female,58,2,Margriet Decker,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,male,59,6,Henrich Kuikendal,white,1738
+deerpark-drc,dutch reformed,0.020121631592457,false,33,1760,female,60,2,Elizabeth Kohl,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,male,61,11,Gysbert Bogaert,white,1738
+deerpark-drc,dutch reformed,0.003295559713671,false,9,1760,female,62,11,Catharina Decker,white,1738
+deerpark-drc,dutch reformed,0.006632388634122,false,15,1760,male,63,1,Petrus Decker,white,1738
+deerpark-drc,dutch reformed,0.000906532312584,false,7,1760,female,64,1,Magdalena Osterhoudt,white,1738
+deerpark-drc,dutch reformed,0.005105774391884,false,12,1760,male,65,6,Jacob Middagh,white,1738
+deerpark-drc,dutch reformed,0.001066745703626,false,5,1760,female,66,6,Sara Kuikendal,white,1738
+deerpark-drc,dutch reformed,0.039248561830771,false,43,1760,male,67,10,Abraham Van Aken,white,1738
+deerpark-drc,dutch reformed,0.000347923325785,false,6,1760,female,68,1,Anna de Wit,white,1738
+deerpark-drc,dutch reformed,0.005739795400485,false,17,1760,male,69,6,David Kohl,white,1738
+deerpark-drc,dutch reformed,0.018287653841584,false,25,1760,female,70,6,Eleonora Westfael,white,1738
+deerpark-drc,dutch reformed,0.010116318628779,false,14,1760,male,71,6,Cornelius Krom,white,1738
+deerpark-drc,dutch reformed,0.015932484265064,false,16,1760,female,72,6,Rebecca Schoonhoven,white,1738
+deerpark-drc,dutch reformed,0.009053697380363,false,23,1760,male,73,6,Thomas Schoonhoven,white,1738
+deerpark-drc,dutch reformed,0.033112370760807,false,37,1760,male,74,9,Johannes Westbroeck,white,1737
+deerpark-drc,dutch reformed,0.003731881150627,false,15,1760,female,75,9,Magdalena Westbroeck,white,1738
+deerpark-drc,dutch reformed,0.005429432058886,false,16,1760,male,76,8,William Cuddebeck,white,1738
+deerpark-drc,dutch reformed,0.002382030675421,false,11,1760,female,77,8,Jacomin Elting,white,1738
+deerpark-drc,dutch reformed,0.0123649767716,false,26,1760,male,78,10,Jan Van Etten,white,1738
+deerpark-drc,dutch reformed,0.004355141067139,false,17,1760,male,79,2,Johannes Van Garden,white,1738
+deerpark-drc,dutch reformed,0.013859822297725,false,24,1760,female,80,2,Margriet Quick,white,1738
+deerpark-drc,dutch reformed,0.011164293363917,false,14,1760,male,81,2,Lambert Brinck,white,1738
+deerpark-drc,dutch reformed,0.012428432438415,false,14,1760,female,82,2,Rachel Van Garden,white,1738
+deerpark-drc,dutch reformed,0.003650459431271,false,17,1760,male,83,2,Arie Kortrecht,white,1738
+deerpark-drc,dutch reformed,0.014535165852701,false,26,1760,male,84,2,Gysbert Van Garden,white,1738
+deerpark-drc,dutch reformed,0.034360686685916,false,35,1760,female,85,2,Maria Kohl,white,1738
+deerpark-drc,dutch reformed,0.006530218507127,false,11,1760,male,86,2,Johannes Kortrecht,white,1738
+deerpark-drc,dutch reformed,0.001050232745367,false,5,1760,female,87,2,Margriet Dennemark,white,1738
+deerpark-drc,dutch reformed,0.009678831649999,false,20,1760,male,88,10,Cornelius Van Aken,white,1738
+deerpark-drc,dutch reformed,0.000445150795747,false,5,1759,female,89,10,Hester Relje,white,1738
+deerpark-drc,dutch reformed,0.009188478637277,false,19,1760,male,90,2,Cornelius Brinck,white,1738
+deerpark-drc,dutch reformed,0.002328322330407,false,12,1760,male,93,9,Aard Middagh,white,1739
+deerpark-drc,dutch reformed,0.002328322330407,false,12,1760,female,94,9,Ariaantie Van Etten,white,1739
+deerpark-drc,dutch reformed,0.014386685456777,false,26,1760,male,95,5,Mattheus Brinck,white,1739
+deerpark-drc,dutch reformed,0.01882137961658,false,27,1760,female,96,5,Abigail Bell,white,1738
+deerpark-drc,dutch reformed,0.001120915506089,false,7,1760,male,97,3,Antoine Benschoten,white,1739
+deerpark-drc,dutch reformed,0.010751597295582,false,12,1760,female,98,3,Margriet Wells,white,1739
+deerpark-drc,dutch reformed,0.005803831478133,false,6,1760,male,99,2,Andries Kohl,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,female,100,11,Sara Schoonmaker,white,1739
+deerpark-drc,dutch reformed,0.009809256716462,false,16,1760,male,103,1,Broer Decker,white,1738
+deerpark-drc,dutch reformed,0.002679363730397,false,10,1760,female,104,1,Annatie Van Etten,white,1738
+deerpark-drc,dutch reformed,0.003241626330751,false,6,1759,male,105,6,Hendrick Van Garden,white,1737
+deerpark-drc,dutch reformed,0,false,3,1759,female,106,6,Eleonora Decker,white,1739
+deerpark-drc,dutch reformed,0.008114759481646,false,10,1760,male,107,11,Cornelius Devoor,white,1739
+deerpark-drc,dutch reformed,0.008114759481646,false,10,1760,female,108,11,Helena Westfael,white,1739
+deerpark-drc,dutch reformed,0.000650458294311,false,7,1760,male,109,2,Johannes Hooghteeling,white,1739
+deerpark-drc,dutch reformed,0.000650458294311,false,7,1760,female,110,2,Maritie Hornbeck,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,111,2,Joachim Schoonmakerr,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,112,10,Jacob Van Ortten,white,1739
+deerpark-drc,dutch reformed,0.035030567975454,false,34,1760,female,113,10,Annatie Westbroeck,white,1738
+deerpark-drc,dutch reformed,0,false,3,1759,male,114,12,Lenert Kohl,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,female,115,12,Sara Van Garden,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,116,9,Alexander Van De Winkle,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,female,117,9,Annatie Rosenkranz,white,1739
+deerpark-drc,dutch reformed,0.005943087848723,false,14,1760,male,118,12,Isaac Van Aken,white,1738
+deerpark-drc,dutch reformed,0.004979666507988,false,13,1760,female,119,12,Rachel de Wit,white,1738
+deerpark-drc,dutch reformed,0.064718938558112,false,48,1760,male,120,2,Johannes Westfael,white,1738
+deerpark-drc,dutch reformed,0.011594036679261,false,25,1760,female,121,2,Apollonia Kortrecht,white,1738
+deerpark-drc,dutch reformed,0.007567181644767,false,13,1760,male,122,8,Evert Hornbeck,white,1739
+deerpark-drc,dutch reformed,0.007567181644767,false,13,1760,female,123,8,Helena Cuddebeck,white,1739
+deerpark-drc,dutch reformed,0.031132084017376,false,30,1760,male,124,0,Andries Decker,white,1739
+deerpark-drc,dutch reformed,0.024219326736731,false,27,1760,male,125,0,Divertie Maul,white,1739
+deerpark-drc,dutch reformed,0.001410033285857,false,8,1760,male,126,12,William Van Garden,white,1739
+deerpark-drc,dutch reformed,0.000314941657617,false,5,1760,female,127,12,Annatie Vredenburgh,white,1739
+deerpark-drc,dutch reformed,0.003988389319535,false,12,1760,male,128,0,William Ditsoort,white,1739
+deerpark-drc,dutch reformed,0,false,3,1760,female,129,2,Maria Ditsoort,white,1739
+deerpark-drc,dutch reformed,0.003355161757316,false,12,1760,male,132,8,Gerardus Van Niuwegen,white,1740
+deerpark-drc,dutch reformed,0.018031645093796,false,28,1760,female,133,8,Jannitie de Wit,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,134,1,Barent Mollen,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,135,1,Glaasje Andriess,white,1739
+deerpark-drc,dutch reformed,0.00583631229908,false,9,1760,male,136,7,Terrence Devin,white,1739
+deerpark-drc,dutch reformed,0.001008258384739,false,6,1760,female,137,7,Maritie Kuikendal,white,1739
+deerpark-drc,dutch reformed,0.003256626928659,false,15,1760,male,138,6,Jacob Bogaert,white,1739
+deerpark-drc,dutch reformed,0.001470646870463,false,11,1760,female,139,6,Nellie Kuikendal,white,1739
+deerpark-drc,dutch reformed,0.022631164313672,false,23,1760,male,140,6,Jan Van Vliet,white,1739
+deerpark-drc,dutch reformed,0.01991833883283,false,21,1760,female,141,6,Jezyntie Swartwout,white,1737
+deerpark-drc,dutch reformed,0.001781322967804,false,14,1760,male,142,2,Hendrick Kuikendal,white,1738
+deerpark-drc,dutch reformed,0.005337409464193,false,10,1760,male,143,1,William Waert,white,1739
+deerpark-drc,dutch reformed,0.002751081167313,false,8,1760,female,144,10,Maritie Decker,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,145,10,Peter Van Garden,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,146,12,Gysbert Van Kampen,white,1739
+deerpark-drc,dutch reformed,0.006083642136083,false,17,1760,male,147,10,Johannes Kohl,white,1739
+deerpark-drc,dutch reformed,0.004102334795995,false,15,1760,female,148,10,Pieternella Van Aken,white,1739
+deerpark-drc,dutch reformed,0.017458923380594,false,26,1760,male,149,6,William Kohl,white,1739
+deerpark-drc,dutch reformed,0,false,3,1760,male,150,2,Hendrick Cornelis Kortrecht,white,1745
+deerpark-drc,dutch reformed,0.000760979110408,false,6,1760,female,151,2,Jannitie Enniss,white,1739
+deerpark-drc,dutch reformed,0.000532807297198,false,7,1760,male,152,2,Benjamin Decker,white,1739
+deerpark-drc,dutch reformed,0.000532807297198,false,7,1760,female,153,2,Helena Kortrecht,white,1739
+deerpark-drc,dutch reformed,0.003307034853545,false,13,1760,male,154,12,Harman Van Garden,white,1737
+deerpark-drc,dutch reformed,0.003307034853545,false,13,1760,female,155,12,Elsie Cuddebeck,white,1737
+deerpark-drc,dutch reformed,0.014636807429087,false,26,1760,male,156,1,Thomas Decker,white,1737
+deerpark-drc,dutch reformed,0.011645192673893,false,23,1760,female,157,1,Jannitie Van Niuwegen,white,1737
+deerpark-drc,dutch reformed,0.002405534852156,false,11,1760,male,158,8,Abraham Louw,white,1740
+deerpark-drc,dutch reformed,0.002405534852156,false,11,1760,female,159,8,Dina Cuddebeck,white,1740
+deerpark-drc,dutch reformed,0.023786764561737,false,26,1760,male,160,2,Sebastian Kortrecht,white,1739
+deerpark-drc,dutch reformed,0.022942823906263,false,26,1760,female,161,2,Rachel Decker,white,1739
+deerpark-drc,dutch reformed,0.013808780867885,false,17,1760,male,162,10,Cornelius Kohl,white,1738
+deerpark-drc,dutch reformed,0,false,3,1760,female,163,6,Dina Brinck,white,1740
+deerpark-drc,dutch reformed,0.003367291282708,false,12,1760,male,164,8,Peter Gemaer,white,1739
+deerpark-drc,dutch reformed,0.000293311764265,false,7,1760,female,165,8,Tjatie de Wit,white,1739
+deerpark-drc,dutch reformed,0.000113086470229,false,5,1760,male,166,2,Bernhardus Swartwout,white,1739
+deerpark-drc,dutch reformed,0.004065514125984,false,11,1760,female,167,0,Neeltie Ditsoort,white,1740
+deerpark-drc,dutch reformed,0.03871804149204,false,37,1760,male,168,1,Johannes Decker,white,1738
+deerpark-drc,dutch reformed,0.011951234561433,false,22,1760,female,169,5,Helena Quick,white,1740
+deerpark-drc,dutch reformed,0.002774844391823,false,9,1760,male,170,11,Andries Dingenman,white,1740
+deerpark-drc,dutch reformed,0.004734245411762,false,11,1760,female,171,11,Cornelia Kermer,white,1740
+deerpark-drc,dutch reformed,0.003772479764527,false,9,1760,male,172,5,John Boman,white,1740
+deerpark-drc,dutch reformed,0,false,3,1760,female,173,7,Anna Middagh,white,1740
+deerpark-drc,dutch reformed,0.034456610189619,false,32,1760,male,174,2,Hendrick Kortrecht,white,1739
+deerpark-drc,dutch reformed,0,false,3,1760,male,175,5,Ebbegken Bell,white,1741
+deerpark-drc,dutch reformed,0.002515956737077,false,5,1760,male,176,3,Antoine Van Benschoten,white,1741
+deerpark-drc,dutch reformed,0.019880686235581,false,28,1760,male,177,2,William Enniss,white,1738
+deerpark-drc,dutch reformed,0.0123727764054,false,25,1760,female,178,2,Elizabeth Quick,white,1738
+deerpark-drc,dutch reformed,0,false,3,1760,male,179,2,Plone Van Garden,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,male,180,6,Johannes Nethier,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,male,181,0,William Ditschious,white,1741
+deerpark-drc,dutch reformed,0.000242850074386,false,5,1760,female,182,2,Pieternella Kuikendal,white,1741
+deerpark-drc,dutch reformed,0.007891356659911,false,20,1760,male,183,10,Abraham Middagh,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,female,184,10,Lea Van Aken,white,1741
+deerpark-drc,dutch reformed,0.011933025067307,false,23,1760,male,185,10,Benjamin Westfael,white,1738
+deerpark-drc,dutch reformed,0.00365616128401,false,15,1760,female,186,10,Annatie Van Aken,white,1742
+deerpark-drc,dutch reformed,0,false,3,1760,male,187,10,Jurk Westbroeck,white,1743
+deerpark-drc,dutch reformed,0.005305443555417,false,17,1760,male,188,10,Jacob Quick,white,1740
+deerpark-drc,dutch reformed,0.039497458552624,false,39,1760,female,189,9,Maria Westbroeck,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,192,10,Hester Denis,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,193,12,Hugh Pugh,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,194,8,Daniel Kortrecht,white,1743
+deerpark-drc,dutch reformed,0.00705661826788,false,14,1760,male,195,10,Johannes Caspar Fryenmout,white,1743
+deerpark-drc,dutch reformed,0.002335218219472,false,10,1760,female,196,3,Helena Van Etten,white,1738
+deerpark-drc,dutch reformed,2.24240308925615E-05,false,4,1760,female,197,5,Julick Borgh,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,198,5,Maria Bowman,white,1743
+deerpark-drc,dutch reformed,0.002069573161815,false,8,1760,female,199,5,Hannah Middagh,white,1743
+deerpark-drc,dutch reformed,0.001137586646272,false,9,1760,male,200,1,Abraham Wildfield,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,201,1,Maria Wesch,white,1743
+deerpark-drc,dutch reformed,0.001774685598074,false,8,1760,male,202,6,Caspar Kimmel,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,203,6,Emmetie Willamse,white,1743
+deerpark-drc,dutch reformed,0.003906438055,false,16,1760,male,204,6,Josias Kohl,white,1739
+deerpark-drc,dutch reformed,0.006094316238333,false,16,1760,female,205,6,Maria Kimmel,white,1740
+deerpark-drc,dutch reformed,0,false,3,1760,male,206,12,Aaron Vredenburgh,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,207,8,Jacomin Etten,white,1747
+deerpark-drc,dutch reformed,0.008770635615758,false,22,1760,male,208,9,Simon Westfael,white,1740
+deerpark-drc,dutch reformed,0.021508006868028,false,30,1760,female,209,9,Jannitie Westbroeck,white,1739
+deerpark-drc,dutch reformed,0.005263097524763,false,15,1760,female,210,0,Neeltie Decker,white,1741
+deerpark-drc,dutch reformed,0.011380422670187,false,24,1760,female,211,10,Helena Van Aken,white,1739
+deerpark-drc,dutch reformed,0.004430408813602,false,16,1760,male,212,6,Joris Davis,white,1740
+deerpark-drc,dutch reformed,0.016525049692169,false,26,1760,female,213,6,Debora Schoonhoven,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,214,6,Johannes Bogaert,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,female,215,6,Sara Hooghteeling,white,1745
+deerpark-drc,dutch reformed,0.000121079791004,false,5,1760,female,216,10,Helena Osterhoudt,white,1738
+deerpark-drc,dutch reformed,0.002449912351786,false,6,1760,female,217,2,Rachel Kortrecht,white,1745
+deerpark-drc,dutch reformed,0.008766185131424,false,18,1760,male,218,12,Harman Rosenkranz,white,1739
+deerpark-drc,dutch reformed,0.007346064621651,false,17,1760,female,219,12,Ariaantie Osterhoudt,white,1739
+deerpark-drc,dutch reformed,0,false,3,1760,female,220,2,Maria Wells,white,1745
+deerpark-drc,dutch reformed,0.001332231568023,false,10,1760,male,221,6,Johannes Kuikendal,white,1743
+deerpark-drc,dutch reformed,0.00033696411884,false,7,1760,female,222,6,Elizabeth Decker,white,1744
+deerpark-drc,dutch reformed,0.000371438357445,false,6,1760,male,223,1,John Willemsz,white,1745
+deerpark-drc,dutch reformed,0.011682739456787,false,23,1760,male,224,1,Solomon Decker,white,1738
+deerpark-drc,dutch reformed,0.003682635283462,false,11,1760,female,225,10,Magdalena Van Etten,white,1745
+deerpark-drc,dutch reformed,0.000346388260865,false,5,1760,female,226,1,Maria Decker,white,1746
+deerpark-drc,dutch reformed,0.006045141514705,false,19,1760,male,227,9,Benjamin Westbroeck,white,1743
+deerpark-drc,dutch reformed,0.002101202234578,false,12,1760,female,228,9,Catharina Westbroeck,white,1746
+deerpark-drc,dutch reformed,0.007257788288798,false,13,1760,male,229,4,James Mccarty,white,1745
+deerpark-drc,dutch reformed,0.005347336202974,false,12,1760,female,230,4,Elizabeth Meyer,white,1744
+deerpark-drc,dutch reformed,0.003473968100905,false,7,1760,male,231,8,John Prys,white,1746
+deerpark-drc,dutch reformed,0.003473968100905,false,7,1760,female,232,8,Lucretia Ramsey,white,1746
+deerpark-drc,dutch reformed,0,false,5,1760,male,233,4,John Jory Windemuth,white,1746
+deerpark-drc,dutch reformed,0,false,5,1760,female,234,4,Johanna Margreta Elisabetha Bernhardin,white,1746
+deerpark-drc,dutch reformed,0.006756555509379,false,19,1760,female,235,9,Helena Westbroeck,white,1746
+deerpark-drc,dutch reformed,0.004575642464819,false,17,1760,male,236,10,Cornelius Van Etten,white,1743
+deerpark-drc,dutch reformed,0.002365667797244,false,15,1760,female,237,10,Hilletie Westbroeck,white,1744
+deerpark-drc,dutch reformed,0.001325510956886,false,6,1760,male,238,1,Abraham Van Tilbrugh,white,1746
+deerpark-drc,dutch reformed,0,false,3,1760,female,239,1,Sara Calvonsher,white,1746
+deerpark-drc,dutch reformed,0,false,3,1760,female,244,7,Maria Kuikendal,white,1747
+deerpark-drc,dutch reformed,4.42144018845712E-05,false,5,1760,female,245,10,Anna Van Aken,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,246,1,Leentie Osterhoudt,white,1747
+deerpark-drc,dutch reformed,0.011588416484326,false,19,1760,female,247,10,Margriet Westfael,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,male,248,1,Johannes Dirkse Westbroeck,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,249,1,Sara Tack,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,male,250,0,Lendert Ditsoort,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,251,0,Geeshi Ritt,white,1747
+deerpark-drc,dutch reformed,0.006813188214243,false,12,1760,male,252,4,Jury Philip Windemuth,white,1746
+deerpark-drc,dutch reformed,0.006534198112152,false,12,1760,female,253,4,Maria Juliana Huber,white,1746
+deerpark-drc,dutch reformed,0.001896962434953,false,14,1760,male,254,12,Dirk Rosenkranz,white,1745
+deerpark-drc,dutch reformed,0.009128549109337,false,19,1760,female,255,12,Catharina Van Aken,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,male,256,6,Cornelius Abraham Westfael,white,1748
+deerpark-drc,dutch reformed,0.01232573195799,false,21,1760,female,257,6,Elizabeth Westfael,white,1738
+deerpark-drc,dutch reformed,0.009520558457551,male_bridge,8,1760,male,258,12,Jacob Osterhoudt,white,1748
+deerpark-drc,dutch reformed,0.000174901180556,false,5,1760,female,259,12,Annatie Terwilgen,white,1748
+deerpark-drc,dutch reformed,0.001430968181901,false,9,1760,male,260,10,Claes Jongbloet,white,1748
+deerpark-drc,dutch reformed,0.012727154601118,false,25,1760,male,261,9,Daniel Westfael,white,1742
+deerpark-drc,dutch reformed,0.002077166413545,false,13,1760,male,262,9,Solomon Westbroeck,white,1745
+deerpark-drc,dutch reformed,0.002077166413545,false,13,1760,female,263,9,Hester Bevier,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,male,264,4,Jan Alderse Rosa,white,1749
+deerpark-drc,dutch reformed,0.010019713331304,female_bridge,10,1760,female,265,4,Catharina Van Etten,white,1749
+deerpark-drc,dutch reformed,0.00562822845645,false,19,1760,female,266,10,Catharina Rosenkranz,white,1742
+deerpark-drc,dutch reformed,0,false,3,1760,male,267,12,Abraham Van Aken Hornbeck,white,1749
+deerpark-drc,dutch reformed,0.002248989414237,false,10,1760,female,268,12,Catharina Terwilgen,white,1749
+deerpark-drc,dutch reformed,0.00083378984334,false,7,1760,male,269,8,Benjamin Depuy,white,1749
+deerpark-drc,dutch reformed,0.010422635360335,false,13,1760,female,270,8,Elizabeth Swartwout,white,1744
+deerpark-drc,dutch reformed,0,false,3,1760,male,271,7,Petrus Quick,white,1749
+deerpark-drc,dutch reformed,0,false,3,1760,female,272,7,Johanna Gonsales,white,1749
+deerpark-drc,dutch reformed,0,false,3,1760,male,273,9,Abraham Schuymer,white,1749
+deerpark-drc,dutch reformed,0.008927778882778,false,19,1760,male,274,5,Benjamin Quick,white,1743
+deerpark-drc,dutch reformed,0.000347583679555,false,5,1760,female,275,5,Hannah Jons,white,1749
+deerpark-drc,dutch reformed,0.006670008889571,false,18,1760,male,276,10,Daniel Kuikendal,white,1740
+deerpark-drc,dutch reformed,0.004117027267393,false,15,1760,female,277,10,Elizabeth Van Aken,white,1740
+deerpark-drc,dutch reformed,0.02263852784296,false,24,1760,male,278,9,Joseph Westbroeck,white,1748
+deerpark-drc,dutch reformed,0.00553510710548,false,15,1760,female,279,2,Elizabeth Kuikendal,white,1746
+deerpark-drc,dutch reformed,0,false,3,1760,male,280,10,Joseph Wallon,white,1750
+deerpark-drc,dutch reformed,0.000275620929537,false,6,1760,male,281,11,David Devoor,white,1739
+deerpark-drc,dutch reformed,0,false,5,1760,female,282,11,Geertie Hydt,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,283,11,William Devoor,white,1750
+deerpark-drc,dutch reformed,0.018435529883957,female_bridge,11,1760,female,284,11,Catharina Schoonmaker,white,1739
+deerpark-drc,dutch reformed,0,false,3,1760,male,285,11,Mattheus Devoor,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,286,11,Neeltie Schemerhorn,white,1750
+deerpark-drc,dutch reformed,0.009431779702968,male_bridge,8,1760,male,287,11,Daniel Devoor,white,1750
+deerpark-drc,dutch reformed,0.069833577231943,false,37,1760,female,288,9,Lydia Westfael,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,289,11,Molly Leed,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,292,11,Lucas Schemerhorn,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,293,11,Sara Tice,white,1750
+deerpark-drc,dutch reformed,0.003582201390187,false,7,1760,male,294,7,John Chandler,white,1750
+deerpark-drc,dutch reformed,0.003582201390187,false,7,1760,female,295,7,Margriet Robert,white,1750
+deerpark-drc,dutch reformed,0.000156491459517,false,5,1760,male,296,9,Dirk Kittel,white,1749
+deerpark-drc,dutch reformed,0.001337588609076,false,10,1760,female,297,9,Rachel Van Etten,white,1749
+deerpark-drc,dutch reformed,0.000794743287506,false,6,1760,male,300,0,Andries Reifsnyder,white,1750
+deerpark-drc,dutch reformed,0.000794743287506,false,6,1760,female,301,0,Susannah Wallon,white,1750
+deerpark-drc,dutch reformed,0.020100699826612,male_bridge,22,1760,male,302,6,Cornelius Westfael,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,male,303,6,Joris Kimble,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,304,10,Jacob Van Sickel,white,1750
+deerpark-drc,dutch reformed,0.020362310244642,false,31,1760,female,305,10,Sara Van Aken,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,306,1,Maria Tilbrugh,white,1752
+deerpark-drc,dutch reformed,0.000514914859926,false,7,1760,male,307,9,Abraham Seymor,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,female,308,6,Nellie Van Aken,white,1752
+deerpark-drc,dutch reformed,0.017454776169484,false,19,1760,male,309,9,Abraham Westbroeck,white,1750
+deerpark-drc,dutch reformed,0.001848636192493,false,9,1760,female,310,9,Maria Helm,white,1752
+deerpark-drc,dutch reformed,0.013608337638299,false,12,1760,male,311,8,Philip Swartwout,white,1744
+deerpark-drc,dutch reformed,0.002029943416612,false,9,1760,female,312,8,Annatie Wynkoop,white,1752
+deerpark-drc,dutch reformed,0.017524367169882,false,19,1760,male,313,6,Joel Quick,white,1743
+deerpark-drc,dutch reformed,0.001762970318376,false,9,1760,female,314,6,Christina Middagh,white,1752
+deerpark-drc,dutch reformed,0.000168860540129,false,5,1760,male,315,2,Thomas Duff,white,1752
+deerpark-drc,dutch reformed,0.000168860540129,false,5,1760,female,316,2,Maria Kane,white,1752
+deerpark-drc,dutch reformed,0.000674056054308,false,7,1760,male,317,12,Jan Rosa,white,1750
+deerpark-drc,dutch reformed,0.000142608829212,false,5,1760,male,318,5,Thomas Murphy,white,1752
+deerpark-drc,dutch reformed,0.000142608829212,false,5,1760,female,319,5,Maria Lundy,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,male,320,9,Abraham Dirkse Westbroeck,white,1752
+deerpark-drc,dutch reformed,0.005397461137356,false,11,1760,female,321,9,Blandina Rosenkranz,white,1752
+deerpark-drc,dutch reformed,8.01547897282694E-05,false,5,1760,female,322,5,Johanna Jons,white,1752
+deerpark-drc,dutch reformed,0.01437906933712,false,24,1760,male,323,12,Jacob Van Aken,white,1748
+deerpark-drc,dutch reformed,0.000781747242472,false,8,1760,female,324,12,Margriet Van Garden,white,1753
+deerpark-drc,dutch reformed,0.0074512127484,false,16,1760,male,325,1,Antoine Van Etten,white,1746
+deerpark-drc,dutch reformed,0.001198511442702,false,5,1760,male,326,1,Jan Van Sickel,white,1753
+deerpark-drc,dutch reformed,0.001198511442702,false,5,1760,female,327,1,Geertie de Wit,white,1753
+deerpark-drc,dutch reformed,0.001534989509764,false,13,1760,female,328,10,Jannitie Van Aken,white,1745
+deerpark-drc,dutch reformed,0.00205023031159,false,11,1760,male,329,2,Evert Rosa Westbroeck,white,1750
+deerpark-drc,dutch reformed,0.000775465546994,false,8,1760,female,330,2,Maria Kortrecht,white,1739
+deerpark-drc,dutch reformed,0.002754699330735,false,11,1760,male,331,9,Benjamin Vernoi,white,1753
+deerpark-drc,dutch reformed,0.004422650106072,false,15,1760,male,332,2,Cornelius Quick,white,1749
+deerpark-drc,dutch reformed,0.000883324609631,false,9,1760,male,333,6,Joris Kimmel,white,1748
+deerpark-drc,dutch reformed,0,false,3,1760,male,334,1,Samuel French,white,1753
+deerpark-drc,dutch reformed,0.005710702430629,false,12,1760,female,335,1,Helena Rosenkranz,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,female,336,11,Hannah Kermer,white,1753
+deerpark-drc,dutch reformed,0,false,3,1760,female,337,9,Christina Keersbi,white,1753
+deerpark-drc,dutch reformed,0.002049241327247,false,9,1760,female,338,9,Jannitie Van Garden,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,339,4,Juliana Huber,white,1753
+deerpark-drc,dutch reformed,0.002146437217025,false,12,1760,male,340,6,Samuel Van Vliet,white,1744
+deerpark-drc,dutch reformed,0.000876092570349,false,6,1760,female,341,6,Tjatie Kohl,white,1752
+deerpark-drc,dutch reformed,0.008007141484587,false,15,1760,male,342,2,Petrus Kuikendal,white,1737
+deerpark-drc,dutch reformed,0.001637019596546,false,9,1760,female,343,2,Catharina Kittel,white,1753
+deerpark-drc,dutch reformed,0,false,3,1760,male,344,9,Thomas Neffi,white,1753
+deerpark-drc,dutch reformed,0.000483937847007,false,5,1760,female,345,9,Rebecca Krom,white,1749
+deerpark-drc,dutch reformed,0,false,5,1760,male,346,9,Abraham Chambers,white,1749
+deerpark-drc,dutch reformed,0.013443024328381,false,18,1760,male,347,8,Abraham Cuddebeck,white,1738
+deerpark-drc,dutch reformed,0.004495669939086,false,10,1760,female,348,1,Hester Swartwout,white,1743
+deerpark-drc,dutch reformed,0.001553871125635,false,6,1760,male,349,7,Daniel Gonsales,white,1749
+deerpark-drc,dutch reformed,0.006181037615416,false,15,1760,female,350,6,Elizabeth Van Vliet,white,1744
+deerpark-drc,dutch reformed,0.00410712582455,false,11,1760,male,351,12,Daniel Van Aken,white,1754
+deerpark-drc,dutch reformed,0.00410712582455,false,11,1760,female,352,12,Lea Kittel,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,male,353,6,James Wales,white,1754
+deerpark-drc,dutch reformed,0.005724172945537,false,15,1760,female,354,9,Elizabeth Kittel,white,1748
+deerpark-drc,dutch reformed,0,false,3,1760,female,355,2,Lisa Quick,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,male,356,7,Jacob Gonsales,white,1754
+deerpark-drc,dutch reformed,0.012767137137604,false,20,1760,female,357,10,Sara Westbroeck,white,1744
+deerpark-drc,dutch reformed,0.001218237347879,false,6,1760,male,358,0,Jacob de Wit,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,female,359,0,Jannitie Van Sicklen,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,male,360,5,Francis Mcgee,white,1754
+deerpark-drc,dutch reformed,0.000436913544562,false,6,1760,female,361,5,Catharina Quick,white,1749
+deerpark-drc,dutch reformed,0.00877873592778,false,16,1760,male,362,9,Jacob Westbroeck,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,male,363,3,Cornelius Middagh,white,1754
+deerpark-drc,dutch reformed,0.00123329100721,false,6,1760,female,364,3,Elizabeth Benschoten,white,1754
+deerpark-drc,dutch reformed,0.005951625331647,false,11,1760,male,365,7,Johannes Van Etten,white,1750
+deerpark-drc,dutch reformed,0.011619981417043,false,14,1760,female,366,7,Maria Gonsales,white,1749
+deerpark-drc,dutch reformed,0.011410872078303,false,19,1760,male,367,10,Johannes Van Aken,white,1745
+deerpark-drc,dutch reformed,0.003068554314707,false,11,1760,female,368,10,Maria Van Garden,white,1753
+deerpark-drc,dutch reformed,0.001340152280727,false,5,1760,male,369,6,James Rusle,white,1754
+deerpark-drc,dutch reformed,0.006855175607927,false,9,1760,female,370,6,Catharina Hooghteeling,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,371,1,Maria Van Tilbrugh,white,1754
+deerpark-drc,dutch reformed,0.000778481105989,false,7,1760,male,372,9,Jeremiah Kittel,white,1754
+deerpark-drc,dutch reformed,0.000778481105989,false,7,1760,female,373,9,Lea Davis,white,1754
+deerpark-drc,dutch reformed,0.000285459646418,false,5,1760,male,374,3,Abraham Kittel,white,1755
+deerpark-drc,dutch reformed,0.000285459646418,false,5,1760,female,375,3,Christina Westfael,white,1755
+deerpark-drc,dutch reformed,0.000466811010208,false,7,1760,male,376,1,Thomas Wells,white,1755
+deerpark-drc,dutch reformed,0.012569174997155,false,22,1760,female,377,1,Elizabeth de Wit,white,1738
+deerpark-drc,dutch reformed,0.00394173307761,false,9,1760,male,378,12,Mattheus Terwilgen,white,1749
+deerpark-drc,dutch reformed,0,false,3,1760,female,379,12,Elizabeth Ratier,white,1755
+deerpark-drc,dutch reformed,1.6301512780386E-06,false,4,1760,male,380,1,Ezechiel Decker,white,1755
+deerpark-drc,dutch reformed,0,false,3,1760,female,381,1,Johanna Tilbrugh,white,1755
+deerpark-drc,dutch reformed,0.00320914508759,false,8,1760,female,382,12,Elizabeth Van Garden,white,1755
+deerpark-drc,dutch reformed,0.006207485207547,false,11,1760,male,383,2,Petrus Kortrecht,white,1753
+deerpark-drc,dutch reformed,0.000301183907773,false,4,1760,male,384,0,Alexander Ivory,white,1756
+deerpark-drc,dutch reformed,0.00080713815523,false,6,1760,female,385,0,Jannitie Decker,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,male,386,12,Andries Grub,white,1756
+deerpark-drc,dutch reformed,0.000723559081122,false,6,1760,female,387,12,Catharina Romfeld,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,male,388,11,Aard Van Weyen,white,1756
+deerpark-drc,dutch reformed,0.000539850625852,false,5,1760,male,389,10,Gideon Westbroeck,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,male,390,5,Johannes Shaubus,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,female,391,5,Catharina Schmidt,white,1756
+deerpark-drc,dutch reformed,0.001113651354548,false,7,1760,male,392,4,Philip Windemuth,white,1754
+deerpark-drc,dutch reformed,0.000605026295478,false,5,1760,female,393,4,Maria Hoever,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,male,396,5,James Everigame,white,1757
+deerpark-drc,dutch reformed,0.003724457737816,false,12,1760,female,397,5,Anna Quick,white,1752
+deerpark-drc,dutch reformed,0.00131294673347,false,10,1760,male,398,5,Petrus Brinck,white,1748
+deerpark-drc,dutch reformed,0.001326121993312,false,7,1760,female,399,5,Hilletie Middagh,white,1754
+deerpark-drc,dutch reformed,0.00080005759191,false,7,1760,male,400,12,Petrus Rosenkranz,white,1753
+deerpark-drc,dutch reformed,0.000422323179786,false,5,1760,female,401,12,Maria Brinck,white,1757
+deerpark-drc,dutch reformed,0.000783788607018,false,10,1760,male,402,6,Jan Davis,white,1757
+deerpark-drc,dutch reformed,0,false,5,1760,female,403,6,Willemtie Linden,white,1757
+deerpark-drc,dutch reformed,0,false,3,1760,female,404,5,Sara Terwilgen,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,405,12,Margriet Hornbeck,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,male,406,12,William Vredenburgh Van Garden,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,407,12,Jannitie Terwilgen,white,1758
+deerpark-drc,dutch reformed,0.000992679625304,false,9,1760,female,408,6,Debora Van Vliet,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,male,409,2,John Breslar,white,1758
+deerpark-drc,dutch reformed,0.006377287955388,false,11,1760,female,410,11,Elizabeth Kermer,white,1739
+deerpark-drc,dutch reformed,0.004057114568013,false,11,1760,female,411,6,Elizabeth Kortrecht,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,male,412,12,Daniel Decker,white,1758
+deerpark-drc,dutch reformed,0.000956577847878,false,6,1760,female,413,12,Blandina Vredenburgh,white,1755
+deerpark-drc,dutch reformed,0.001253619482111,false,8,1760,male,414,2,Solomon Kortrecht,white,1754
+deerpark-drc,dutch reformed,0.000170740160091,false,5,1760,female,415,2,Cornelia Kohl,white,1758
+deerpark-drc,dutch reformed,0.000564248500362,false,5,1760,male,416,8,Robert Seymor,white,1758
+deerpark-drc,dutch reformed,0.000564248500362,false,5,1760,female,417,8,Lea Middagh,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,male,418,6,James Ransen,white,1758
+deerpark-drc,dutch reformed,0.009345657276995,female_bridge,6,1760,female,419,6,Lydia Krom,white,1738
+deerpark-drc,dutch reformed,0,false,3,1760,male,420,12,Jacob Neerbas,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,421,12,Anna Maria Rakien,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,male,422,12,Johannes Leydi,white,1759
+deerpark-drc,dutch reformed,0.008088731608599,false,13,1760,female,423,12,Ariaantie Rosenkranz,white,1753
+deerpark-drc,dutch reformed,0.010076211804907,female_bridge,9,1760,female,424,5,Eliza Middagh,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,female,425,5,Maritie Kimmel,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,426,8,Bryan Hammen,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,427,8,Blandientie Van Aken,white,1759
+deerpark-drc,dutch reformed,0.003260062202794,false,12,1760,male,428,6,Benjamin Van Vliet,white,1750
+deerpark-drc,dutch reformed,0.000750592252273,false,6,1760,female,429,6,Johanna Westfael,white,1753
+deerpark-drc,dutch reformed,0,false,3,1760,female,430,6,Willemtie Snedkker,white,1759
+deerpark-drc,dutch reformed,0.001079267141201,false,6,1760,male,431,12,Wilhelm Vredenburgh,white,1755
+deerpark-drc,dutch reformed,0.007838065228287,false,8,1760,male,432,12,Jacob Viegli,white,1756
+deerpark-drc,dutch reformed,0.000194362322621,false,5,1760,female,433,6,Beletie Davis,white,1759
+deerpark-drc,dutch reformed,0.010020671571661,male_bridge,9,1760,male,434,1,Jan Decker,white,1737
+deerpark-drc,dutch reformed,0.000572426663286,false,5,1760,female,435,1,Geertie Gamaer,white,1759
+deerpark-drc,dutch reformed,0.000415533147007,false,5,1760,female,436,9,Debora Krom,white,1758
+deerpark-drc,dutch reformed,0.00159810745495,false,6,1760,female,437,2,Catharina Middagh,white,1752
+deerpark-drc,dutch reformed,0.001130478878192,false,6,1760,male,438,11,James Mollen,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,female,439,10,Maria Swartwout,white,1759
+deerpark-drc,dutch reformed,0.021082397481639,male_bridge,20,1760,male,440,7,Jacob Swartwout,white,1737
+deerpark-drc,dutch reformed,0,false,3,1760,female,441,7,Lydia Decker,white,1759
+deerpark-drc,dutch reformed,0.015678473996313,false,25,1760,male,442,9,Antoine Westbroeck,white,1738
+deerpark-drc,dutch reformed,0.00022745800502,false,5,1760,female,443,9,Susannah Kittel,white,1757
+deerpark-drc,dutch reformed,0.000148405322122,false,5,1760,male,444,10,Dirk Van Etten,white,1759
+deerpark-drc,dutch reformed,0.000148405322122,false,5,1760,male,445,10,Rusje Westfael,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,446,2,Clea Farletier,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,447,2,Margriet Ditsoort,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,448,12,Elizabeth Latier,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,449,12,Andries Kroeg,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,450,0,Hugh Shellet,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,451,8,Hester Gemaa,white,1759
+deerpark-drc,dutch reformed,0.000451679877146,false,5,1760,male,452,10,Martinus Kuikendal,white,1759
+deerpark-drc,dutch reformed,0.009642009130616,false,13,1760,female,453,10,Catharina Kohl,white,1747
+deerpark-drc,dutch reformed,0.009532894833517,false,9,1760,female,454,0,Lea Kortrecht,white,1754
+deerpark-drc,dutch reformed,0.000688233295035,false,8,1760,female,455,6,Margriet Mollen,white,1757
+deerpark-drc,dutch reformed,0,false,3,1757,male,456,0,William Prevost,white,1737
+deerpark-drc,dutch reformed,0,false,2,1757,male,457,6,Michael Westfael,white,1737
+deerpark-drc,dutch reformed,0.000165084391873,false,5,1758,male,458,0,Jurge Westfael,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,male,459,2,John de Wit,white,1737
+deerpark-drc,dutch reformed,0.00296814639347,false,9,1760,male,460,2,Cornelius Kortrecht,white,1738
+deerpark-drc,dutch reformed,0.0116701690921,false,22,1760,male,461,10,Jacob Van Etten,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,male,462,12,Jacob Ditsoort,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,male,463,6,Adrian Quick,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,male,464,6,Hendrick Krom,white,1738
+deerpark-drc,dutch reformed,0,false,3,1759,male,465,3,Hendrick Janse Kortrecht,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,467,2,Jurian Tappen,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,468,8,Benjamin Cuddenbeck,white,1739
+deerpark-drc,dutch reformed,0.000550398399618,false,7,1760,male,469,0,Jury Westfael,white,1739
+deerpark-drc,dutch reformed,0.00013731904268,false,5,1760,male,470,10,Josaphat Du Boys,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,471,1,Harman Decker,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,male,472,5,Laurens Kortrecht,white,1739
+deerpark-drc,dutch reformed,0,false,2,1759,male,473,5,Moses Jons,white,1739
+deerpark-drc,dutch reformed,0,false,3,1760,male,474,2,John Christoffel Dennemarken,white,1740
+deerpark-drc,dutch reformed,0.001924544980512,false,9,1760,male,475,8,Samuel Swartwout,white,1740
+deerpark-drc,dutch reformed,0,false,3,1760,male,476,11,Charles Van Weyen,white,1740
+deerpark-drc,dutch reformed,0,false,3,1760,male,477,0,Jan Waert,white,1740
+deerpark-drc,dutch reformed,0.006235328638498,male_bridge,6,1760,male,478,2,Abraham Kortrecht,white,1740
+deerpark-drc,dutch reformed,0.000993785323589,false,7,1760,male,479,2,William Decker,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,male,480,3,Cornelius Elmendorf,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,male,481,6,Nicholas Best,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,male,482,2,Gysbert Rous,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,male,483,2,Solomon Wells,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,484,1,Laurens Decker,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,486,6,James Davis,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,487,8,Ludwig Hornbeck,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,488,12,Mattheus Vredenburgh,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,male,489,0,Johannes Maul,white,1744
+deerpark-drc,dutch reformed,0,false,3,1760,male,490,3,Peter Van Aken,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,male,491,2,Alexander Van Garden,white,1745
+deerpark-drc,dutch reformed,0.011830335746085,false,25,1760,male,492,2,Solomon Kuikendal,white,1746
+deerpark-drc,dutch reformed,0,false,3,1760,male,493,5,Abraham Isakse Van Aken,white,1746
+deerpark-drc,dutch reformed,0,false,5,1760,male,494,4,Johannes Snauber,white,1746
+deerpark-drc,dutch reformed,0,false,3,1760,male,496,0,Johannes Cornelius Westbroeck,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,male,498,6,Johannes Krom,white,1747
+deerpark-drc,dutch reformed,0.001301559147112,false,9,1760,male,499,2,Hendrick J. Kortrecht,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,male,500,4,Johannes Merchkel,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,male,501,9,Jabobus Van Aken,white,1749
+deerpark-drc,dutch reformed,0,false,3,1760,male,502,4,Isaac Rosa,white,1749
+deerpark-drc,dutch reformed,0.000164553513302,false,5,1760,male,503,1,Gerardus Swartwout,white,1749
+deerpark-drc,dutch reformed,0.003115219092332,false,5,1760,male,504,11,Jacob Devoor,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,505,11,Johannes Depuy,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,506,11,Paulus Dewit,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,507,7,Isaac Slover,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,508,9,Michael Helm,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,male,509,10,Cornelius Aken,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,male,510,8,Jabobus Wynkoop,white,1752
+deerpark-drc,dutch reformed,0.002848725782841,false,11,1760,male,511,12,Petrus Westfael,white,1752
+deerpark-drc,dutch reformed,0.000232159779372,false,5,1760,male,512,0,Cornelius de Wit,white,1753
+deerpark-drc,dutch reformed,0.000234292354177,false,5,1760,female,513,8,Maria Hornbeck,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,male,514,8,Jacob Hornbeck,white,1754
+deerpark-drc,dutch reformed,0.001172696863757,false,6,1760,male,515,7,Samuel Gonsales,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,male,516,7,Manuel Gonsales,white,1754
+deerpark-drc,dutch reformed,6.70904363523619E-05,false,5,1760,male,517,9,Richard Kittel,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,male,518,8,Abraham Dodebeck,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,male,519,6,Benjamin Thomson,white,1754
+deerpark-drc,dutch reformed,0.000709383492424,false,6,1760,male,520,0,Philip Decker,white,1755
+deerpark-drc,dutch reformed,0.000666273810154,false,6,1760,male,521,3,Jacob Helm,white,1755
+deerpark-drc,dutch reformed,0,false,3,1760,male,522,5,John Michael Henry,white,1756
+deerpark-drc,dutch reformed,0.001220977425403,false,6,1760,male,523,6,Jacob Davis,white,1756
+deerpark-drc,dutch reformed,0.002536018308138,false,9,1760,male,524,5,John Kortrecht,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,male,525,6,Epharim Middagh,white,1757
+deerpark-drc,dutch reformed,6.09578015710974E-05,false,5,1760,male,526,12,Jan Lady,white,1757
+deerpark-drc,dutch reformed,0,false,3,1760,male,527,10,William Clinton,white,1757
+deerpark-drc,dutch reformed,0,false,3,1760,male,528,6,Jurge Moore,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,male,529,6,William Krom,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,male,530,12,Koobes Van Sickel,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,531,5,Elias Middagh,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,532,6,Cornelius Schoonhoven,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,533,6,Petrus Middagh,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,534,9,Leonard Windemuth,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,535,9,Jan Dirikse Westbroeck,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,536,9,Jan Citel,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,537,5,Adam Cheat,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,538,7,Nicholas Brinck,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,539,1,Dirk Van Keuren Westbroeck,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,540,1,Elias Kortrecht,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,541,8,Johannes Osterhoudt,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,542,9,Daniel Van Vliet,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,543,12,James Klerk,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,544,10,Harman Van Inwegen,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,545,6,Hans Decker,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,male,546,0,Johannes de Wit,white,1759
+deerpark-drc,dutch reformed,0,false,3,1757,female,547,0,Eva Swartwout,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,548,0,Annatie Hornbeck,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,549,6,Malletie Middagh,white,1737
+deerpark-drc,dutch reformed,0.005273140024297,false,11,1760,male,550,7,Rymerick Quick,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,551,1,Annatie Quick,white,1737
+deerpark-drc,dutch reformed,0.001817007903681,false,12,1760,female,552,0,Blandina de Wit,white,1737
+deerpark-drc,dutch reformed,0,false,3,1757,female,553,2,Helena Van Garden,white,1737
+deerpark-drc,dutch reformed,0,false,3,1758,female,554,2,Christina Rosenkranz,white,1738
+deerpark-drc,dutch reformed,0,false,2,1758,female,555,1,Beletie Quick,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,female,556,11,Anna Ditsoort,white,1738
+deerpark-drc,dutch reformed,0.000121722731191,false,5,1760,female,557,9,Aelje Van Etten,white,1738
+deerpark-drc,dutch reformed,0.001875384931685,false,11,1760,female,558,8,Naomi Cuddebeck,white,1738
+deerpark-drc,dutch reformed,0,false,3,1758,female,559,2,Maria Cook,white,1738
+deerpark-drc,dutch reformed,0.006708432232096,false,11,1760,female,560,3,Geertie Benschoten,white,1739
+deerpark-drc,dutch reformed,0.000371222440665,false,5,1759,female,562,7,Annatie Gemaer,white,1739
+deerpark-drc,dutch reformed,0.002247124240351,false,10,1760,female,563,2,Femmtie Decker,white,1737
+deerpark-drc,dutch reformed,0.00013731904268,false,5,1760,female,564,10,Tjatie Van Keuren,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,female,565,1,Christina Keiser,white,1739
+deerpark-drc,dutch reformed,0,false,3,1759,female,566,5,Sara Teneik,white,1739
+deerpark-drc,dutch reformed,0,false,3,1760,female,567,2,Christina Elizabeth Bernhardin,white,1740
+deerpark-drc,dutch reformed,0.002386174797554,false,9,1760,female,568,0,Geertie Westfael,white,1740
+deerpark-drc,dutch reformed,0.009011358573185,false,20,1760,female,569,2,Sara Kohl,white,1740
+deerpark-drc,dutch reformed,0.001924544980512,false,9,1760,female,570,8,Elizabeth Gemaer,white,1740
+deerpark-drc,dutch reformed,0.003110328638498,false,5,1760,female,571,2,Margriet Kuikendal,white,1740
+deerpark-drc,dutch reformed,0,false,3,1760,female,572,2,Neelgje Rous,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,female,573,3,Engelje Heerenmans,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,female,574,2,Cornelia Viervan,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,female,575,6,Margriet Best,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,female,576,2,Lea Westfael,white,1741
+deerpark-drc,dutch reformed,0,false,3,1760,female,577,10,Johanna Van Aken,white,1741
+deerpark-drc,dutch reformed,0.00142710636789,false,11,1760,female,578,10,Maria Cuddebeck,white,1742
+deerpark-drc,dutch reformed,0.000628107413746,false,9,1760,female,579,9,Hilletie Van Etten,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,580,2,Aelje Westbroeck,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,581,2,Helena Decker,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,583,10,Catharina Westfael,white,1743
+deerpark-drc,dutch reformed,0,false,3,1760,female,584,0,Elizabeth Maul,white,1744
+deerpark-drc,dutch reformed,0,false,3,1760,female,585,6,Hannatie Westfael,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,male,586,3,Rusje Dami,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,female,587,2,Tjatie Kortrecht,white,1745
+deerpark-drc,dutch reformed,0,false,3,1760,female,588,1,Anneke Van Etten,white,1745
+deerpark-drc,dutch reformed,0,false,2,1760,female,589,6,Elizabeth Consales Duke,white,1746
+deerpark-drc,dutch reformed,0,false,3,1760,female,590,11,Hilletie Dingenman,white,1746
+deerpark-drc,dutch reformed,0.00443988360714,false,8,1760,female,591,4,Anna Elizabeth Windemuth,white,1746
+deerpark-drc,dutch reformed,0.000571963740791,false,8,1760,female,594,10,Margriet Rosenkranz,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,595,6,Anna Cook,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,596,2,Neeltie Rosa,white,1747
+deerpark-drc,dutch reformed,0.003931316271998,false,10,1760,female,597,5,Maria de Wit,white,1747
+deerpark-drc,dutch reformed,0.001301559147112,false,9,1760,female,598,2,Geertie Van Benschoten,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,599,4,Anna Elizabeth Snauber,white,1747
+deerpark-drc,dutch reformed,0,false,3,1760,female,600,5,Hannah Johnson,white,1748
+deerpark-drc,dutch reformed,0,false,3,1760,female,601,6,Annatie Westfael,white,1748
+deerpark-drc,dutch reformed,0,false,3,1760,female,602,4,Maria Rosa,white,1749
+deerpark-drc,dutch reformed,0,false,3,1760,female,603,2,Margriet de Wit,white,1749
+deerpark-drc,dutch reformed,0.003115219092332,false,5,1760,female,604,11,Eva Dingenman,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,605,11,Rachel Devoor,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,606,11,Catharina Depuy,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,607,7,Elizabeth Robert,white,1750
+deerpark-drc,dutch reformed,0.000898954705391,false,9,1760,female,608,5,Elizabeth Brinck,white,1750
+deerpark-drc,dutch reformed,0.000444372989392,false,5,1760,female,609,6,Helena Kimmel,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,male,610,9,Johannes Louw,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,female,611,8,Jannitie Bogardus,white,1752
+deerpark-drc,dutch reformed,0.00125909570212,false,8,1760,female,612,9,Jennek Van Keuren,white,1752
+deerpark-drc,dutch reformed,0,false,3,1760,female,613,9,Hilletie Van Garden,white,1753
+deerpark-drc,dutch reformed,0,false,3,1760,female,614,1,Maria Osterhoudt,white,1753
+deerpark-drc,dutch reformed,0,false,3,1760,female,615,7,Jannitie Van Etten,white,1754
+deerpark-drc,dutch reformed,0.000132234496097,false,6,1760,female,616,10,Sara Van Etten,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,female,617,9,Aertie Van Etten,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,female,618,6,Maritie Hooghteeling,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,female,619,1,Sara Clevins,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,female,620,7,Femmerje Decker,white,1754
+deerpark-drc,dutch reformed,0,false,3,1760,female,621,1,Johanna Van Tilbrugh,white,1755
+deerpark-drc,dutch reformed,0,false,3,1760,female,622,6,Margriet Kohl,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,female,623,1,Margriet Gemaer,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,male,624,12,Rymerick Decker,white,1756
+deerpark-drc,dutch reformed,0.000100702187708,false,5,1760,female,625,5,Geertie Quick,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,male,626,7,Rymerick Gonsales,white,1756
+deerpark-drc,dutch reformed,0,false,3,1760,male,627,9,Petrus Westbroeck,white,1757
+deerpark-drc,dutch reformed,0,false,3,1760,female,628,2,Maria Quick,white,1757
+deerpark-drc,dutch reformed,0,false,3,1760,female,629,9,Debora Westbroeck,white,1757
+deerpark-drc,dutch reformed,0,false,5,1760,female,630,6,Maria Schoonhoven,white,1757
+deerpark-drc,dutch reformed,0.001046810860298,false,7,1760,female,631,5,Jannitie Middagh,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,632,12,Annatie Terweige,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,633,6,Geertie Kohl,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,634,6,Seitie Terwilgen,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,635,6,Debora Davis,white,1758
+deerpark-drc,dutch reformed,0,false,3,1760,female,636,5,Elizabeth Buntshote,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,637,9,Elizabeth Westbroeck,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,638,4,Elizabeth Majerin,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,639,5,Gerrerje Benschoten,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,640,7,Catharina Kermer,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,641,1,Hilletie Decker,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,642,8,Jannitie Swartwout,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,643,0,Saartie Decker,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,644,9,Sara Van Vliet,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,645,8,Jacomin Cuddebeck,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,646,10,Geertie Van Inwegen,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,647,0,Hilletie de Wit,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,648,2,Margriet Kortrecht,white,1759
+deerpark-drc,dutch reformed,0,false,3,1760,female,649,10,Catharina Van Garden,white,1760
+deerpark-drc,dutch reformed,0,false,3,1760,female,650,6,Catharina Cole,white,1744
+deerpark-drc,dutch reformed,0,false,3,1760,female,651,6,Sara Cole,white,1745
+deerpark-drc,dutch reformed,0,false,5,1760,female,652,2,Lisabeth Cole,white,1749
+deerpark-drc,dutch reformed,0,false,5,1760,male,653,11,Wilhelmus Devoor,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,654,9,Lisa Kuykendal,white,1750
+deerpark-drc,dutch reformed,0,false,3,1760,female,655,8,Elisabeth Dupuy,white,1754
+deerpark-drc,dutch reformed,0,false,5,1760,female,656,0,Tjartje De Witt,white,1749
+deerpark-drc,dutch reformed,0,false,5,1760,male,657,6,Daniel Rosenkranz,white,1757
+deerpark-drc,dutch reformed,0,false,2,1757,female,658,7,Catharina Hoksen,white,1737
+deerpark-drc,dutch reformed,0,false,2,1759,female,659,8,Catharina Clark,white,1739
+deerpark-drc,dutch reformed,0,false,2,1760,female,660,6,Geertie Kortrecht,white,1748
+deerpark-drc,dutch reformed,0,false,2,1760,female,661,1,Elizabeth Van Namen,white,1753
+deerpark-drc,dutch reformed,4.88047003398101E-05,false,4,1760,female,662,9,Hester McIntosh,white,1753
+deerpark-drc,dutch reformed,0,false,2,1760,female,663,6,Geertie Wildfield,white,1745
+deerpark-drc,dutch reformed,0,false,2,1760,female,664,0,Jannitie Quick,white,1759
+deerpark-drc,dutch reformed,0,false,4,1760,female,665,6,Jennek Van Nimwegen,white,1750
+deerpark-drc,dutch reformed,0,false,1,1760,female,666,2,Hendricka Kuikendal,white,1743

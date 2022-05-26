@@ -1,0 +1,757 @@
+congregation,denomination,betweenness,bridge,degree,end,gender,id,modularity,name,race,start
+fthunter-anglican,anglican,0.018602172052222,false,20,1745,female,0,0,Cornelia Bowen,white,1734
+fthunter-anglican,anglican,0.002910291945349,false,10,1745,male,1,0,John Bowen,white,1734
+fthunter-anglican,anglican,0.006401674113025,false,13,1745,male,2,0,William Sixbury,white,1734
+fthunter-anglican,anglican,0.005997705251285,false,17,1745,female,3,0,Susan Bowen,white,1734
+fthunter-anglican,anglican,0,false,4,1745,male,4,0,Cornelius Sixbury,white,1734
+fthunter-anglican,anglican,0.002494743436698,false,8,1745,female,5,0,Mary Sixbury,white,1734
+fthunter-anglican,anglican,0,false,4,1745,male,6,0,John Hough,white,1734
+fthunter-anglican,anglican,0.010913400598687,false,13,1745,female,7,0,Mary Phillips,white,1734
+fthunter-anglican,anglican,0.088363298045685,false,25,1745,male,8,11,John Wemp,white,1734
+fthunter-anglican,anglican,0.085559585358424,female_bridge,36,1745,female,9,2,Mary Butler,white,1734
+fthunter-anglican,anglican,0.023427482700992,female_bridge,14,1745,female,10,3,Engeltie Vrooman,white,1734
+fthunter-anglican,anglican,0.007925940239254,female_bridge,8,1745,female,11,3,Mary Connor,white,1734
+fthunter-anglican,anglican,0.001479467940769,false,9,1745,male,12,1,Owen Connor,white,1734
+fthunter-anglican,anglican,0,false,5,1745,female,13,3,Sarah Connor,white,1734
+fthunter-anglican,anglican,0.0007301926667,false,12,1745,male,14,0,William Bowen,white,1734
+fthunter-anglican,anglican,0,false,5,1745,male,20,4,Aaron 2,white,1735
+fthunter-anglican,anglican,0.133790300293354,male_bridge,38,1745,male,21,4,Aron Oseragighte,white,1735
+fthunter-anglican,anglican,0.020928445051356,false,18,1745,female,22,4,Margaret Oseragighte,white,1735
+fthunter-anglican,anglican,0,false,5,1745,unknown,23,4,Aria,white,1735
+fthunter-anglican,anglican,0.316643792508414,male_bridge,29,1745,male,24,6,Esras Sr,white,1735
+fthunter-anglican,anglican,0,false,5,1745,female,25,4,Anna Arons Sister,white,1735
+fthunter-anglican,anglican,0.455377977313271,female_bridge,37,1745,female,28,11,Anna Clement,white,1735
+fthunter-anglican,anglican,0,false,5,1745,female,29,11,Mary Clement,white,1735
+fthunter-anglican,anglican,0,false,4,1745,female,30,7,Anna Henry's wife,white,1735
+fthunter-anglican,anglican,0.0183894765263,male_bridge,12,1745,male,31,7,Thomas Sewatsese,white,1735
+fthunter-anglican,anglican,0,false,4,1745,female,32,7,Mary Conostajee,white,1735
+fthunter-anglican,anglican,0.000130894453799,false,7,1745,female,33,8,Anna Thamghwanege,white,1735
+fthunter-anglican,anglican,0,false,4,1745,male,34,8,Simon Waghnekaragkwa,white,1735
+fthunter-anglican,anglican,0,false,4,1745,female,35,8,Gesina Waghnekaragkwa,white,1735
+fthunter-anglican,anglican,0.006225607443049,false,9,1745,female,36,9,Mary Teonuleri,white,1735
+fthunter-anglican,anglican,0,false,5,1745,female,39,11,Catherine Sadagayeenda,white,1735
+fthunter-anglican,anglican,0.062242214885854,false,23,1745,male,40,11,Joseph Clement,white,1735
+fthunter-anglican,anglican,0,false,4,1745,female,41,6,Christina Ogoghsanogighta,white,1735
+fthunter-anglican,anglican,0.061019165939439,male_bridge,24,1745,male,42,6,Moses Uttijagaroondi,white,1735
+fthunter-anglican,anglican,0,false,4,1745,female,43,6,Hannah Gaunthoha,white,1735
+fthunter-anglican,anglican,0.085285597476391,male_bridge,32,1745,male,44,8,Cornelius Thanighwanege,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,45,8,David2,white,1735
+fthunter-anglican,anglican,0.001930714722642,false,8,1745,female,46,6,Elizabeth Teganderassa,white,1735
+fthunter-anglican,anglican,0,false,4,1745,female,47,6,Mary Esras' wife,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,48,7,Elizabeth1,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,49,7,Henry4,white,1735
+fthunter-anglican,anglican,0.000317319008264,false,7,1745,female,50,11,Esther Montour,white,1735
+fthunter-anglican,anglican,0.007835609292825,false,8,1745,female,51,7,Esther Sewaghaese,white,1735
+fthunter-anglican,anglican,0.359023570265396,false,13,1745,male,52,6,Ezras Teganderasse,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,53,11,Gideon2,white,1735
+fthunter-anglican,anglican,0,false,4,1745,male,54,11,Joseph 9,white,1735
+fthunter-anglican,anglican,0,false,4,1745,female,55,11,Mary Joseph's wife,white,1735
+fthunter-anglican,anglican,0.010553867233475,male_bridge,8,1745,unknown,56,11,Stouiston,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,57,11,Lois,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,58,7,Henry3,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,59,6,Jacob1,white,1735
+fthunter-anglican,anglican,0,false,4,1745,male,60,6,John 12,white,1735
+fthunter-anglican,anglican,0,false,4,1745,male,61,6,Peter Ogoghsanogighta,white,1735
+fthunter-anglican,anglican,0,false,5,1745,male,62,11,Joseph 5,white,1735
+fthunter-anglican,anglican,0.007576316380463,false,15,1745,male,63,11,Primus,white,1735
+fthunter-anglican,anglican,0.014539489917374,false,17,1745,female,64,11,Rachel Speck,white,1735
+fthunter-anglican,anglican,0,false,4,1745,male,65,11,Joseph 6,white,1735
+fthunter-anglican,anglican,0.131655401802249,false,16,1745,male,66,11,Michael Montour,white,1735
+fthunter-anglican,anglican,0,false,5,1745,male,67,11,Joseph Sadagayeenda,white,1735
+fthunter-anglican,anglican,0.004560025560179,false,11,1745,female,68,0,Margaret Phillipse,white,1735
+fthunter-anglican,anglican,0.018850385874831,false,14,1745,male,69,0,Peter Conyn,white,1735
+fthunter-anglican,anglican,0,false,5,1745,female,70,0,Sarah Conyn,white,1735
+fthunter-anglican,anglican,0,false,5,1745,female,71,0,Elizabeth Phillipse,white,1735
+fthunter-anglican,anglican,0,false,5,1745,female,72,0,Mary 14,white,1735
+fthunter-anglican,anglican,0.01839714907148,male_bridge,19,1745,male,73,0,Phillip Phillipse,white,1735
+fthunter-anglican,anglican,0.01044119439715,false,13,1745,male,75,0,Nicholas Hansen,white,1735
+fthunter-anglican,anglican,0,false,5,1745,female,78,11,Sarah 6,white,1735
+fthunter-anglican,anglican,0.00476304191695,false,9,1745,female,79,0,Sarah Prentop,white,1735
+fthunter-anglican,anglican,0,false,1,1745,male,81,10,Son of Petrus,white,1735
+fthunter-anglican,anglican,0.002649006622517,male_bridge,5,1745,male,82,10,Petrus,white,1735
+fthunter-anglican,anglican,0,false,4,1745,male,83,0,William 6,white,1735
+fthunter-anglican,anglican,0,false,4,1745,male,84,0,William Prentop,white,1735
+fthunter-anglican,anglican,0,false,4,1745,unknown,85,6,Abel,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,86,6,Margaret Abel's wife,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,87,6,Neeltie Esras' wife,white,1736
+fthunter-anglican,anglican,0.010553867233475,female_bridge,9,1745,female,88,14,Catharine Tewaghjewasha,white,1736
+fthunter-anglican,anglican,0,false,4,1745,male,89,14,Simon 4,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,90,14,Jaeamine Tagwanagon,white,1736
+fthunter-anglican,anglican,0.014740209702872,male_bridge,10,1745,male,91,9,Daniel Asharego,white,1736
+fthunter-anglican,anglican,0.026349572367508,female_bridge,14,1745,female,92,9,Elizabeth Asharego,white,1736
+fthunter-anglican,anglican,0.01317476768493,male_bridge,9,1745,male,93,9,Paul Tegaghnewadighon,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,94,9,Ester Tehoghwhengeronte,white,1736
+fthunter-anglican,anglican,0,false,4,1745,male,95,14,David Tewaghjewasha,white,1736
+fthunter-anglican,anglican,0,false,2,1745,male,96,9,Abraham of Connajre,white,1736
+fthunter-anglican,anglican,0,false,4,1745,male,97,11,Hendrick 20,white,1736
+fthunter-anglican,anglican,0.056302908990236,false,21,1745,male,98,9,Jacob Owensiowane,white,1736
+fthunter-anglican,anglican,0,false,4,1745,male,99,6,John 18,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,100,6,Mary John's wife,white,1736
+fthunter-anglican,anglican,0,false,4,1745,male,101,6,Simon Kinsigoos,white,1736
+fthunter-anglican,anglican,0.017279451073996,female_bridge,13,1745,female,102,6,Margaret Kinsiago,white,1736
+fthunter-anglican,anglican,0.047117296846364,false,22,1745,male,103,7,Lucas Jughahise,white,1736
+fthunter-anglican,anglican,0.012828808117797,false,22,1745,female,104,7,Margaret Jughahiese,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,105,11,Mary Stouiston,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,106,6,Neeltie 1,white,1736
+fthunter-anglican,anglican,0,false,4,1745,male,107,9,Paul 1,white,1736
+fthunter-anglican,anglican,0,false,2,1745,male,108,7,Peter 9,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,109,6,Rut son,white,1736
+fthunter-anglican,anglican,0,false,4,1745,female,110,11,Sarah 8,white,1736
+fthunter-anglican,anglican,0,false,4,1745,male,111,14,Simon 1,white,1736
+fthunter-anglican,anglican,0,false,2,1745,unknown,112,14,Henry2,white,1737
+fthunter-anglican,anglican,0,false,2,1745,male,113,14,Seth 7,white,1737
+fthunter-anglican,anglican,0.009714466675009,female_bridge,11,1745,female,114,14,Margaret Seth's wife,white,1737
+fthunter-anglican,anglican,0,false,5,1745,male,117,0,Abraham 2,white,1738
+fthunter-anglican,anglican,0.017912888589094,false,8,1745,male,118,0,Abraham Ouderkerk,white,1738
+fthunter-anglican,anglican,0.06539115893832,false,16,1745,female,119,0,Mary Ouderkerk,white,1738
+fthunter-anglican,anglican,0.175316322601867,false,29,1745,male,120,0,William Prentop Jr,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,121,7,Abraham 5,white,1738
+fthunter-anglican,anglican,0.014167530372966,false,11,1745,male,122,7,John Segehowane,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,123,7,Mary Kakeghtaginhase,white,1738
+fthunter-anglican,anglican,0.019744817917821,false,22,1745,male,124,0,Abraham Quackenbus,white,1738
+fthunter-anglican,anglican,0.075144952571556,false,26,1745,female,125,0,Mary Quackenbus,white,1738
+fthunter-anglican,anglican,0.077922594093581,false,32,1745,male,126,0,Cornelius Bowen,white,1738
+fthunter-anglican,anglican,0.093612748369746,false,22,1745,female,127,0,Engeltie Hansen,white,1738
+fthunter-anglican,anglican,0.00499579575338,false,16,1745,female,128,16,Ann Mills,white,1738
+fthunter-anglican,anglican,0.045903645250071,false,20,1745,male,129,16,William Corry Esqr,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,130,16,John Bryant,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,131,16,Elizabeth Mills,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,132,17,Anna Eva,white,1738
+fthunter-anglican,anglican,0.01572591821657,false,19,1745,male,133,17,Hans Clyne,white,1738
+fthunter-anglican,anglican,0.001521646094944,false,9,1745,female,134,17,Mary Christina Cleyn,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,135,17,Nicholaes Hall,white,1738
+fthunter-anglican,anglican,0.00535602332455,false,10,1745,female,136,17,Mary Hall,white,1738
+fthunter-anglican,anglican,0.000318292405251,false,8,1745,female,137,17,Anna Eva Saltser,white,1738
+fthunter-anglican,anglican,0,false,4,1745,female,138,7,Anna Hendrick's wife,white,1738
+fthunter-anglican,anglican,0.002722284439572,male_bridge,8,1745,male,143,4,Isaac Anoghsookte,white,1738
+fthunter-anglican,anglican,0.028237314928451,female_bridge,13,1745,female,144,4,Elizabeth Anoghsookte,white,1738
+fthunter-anglican,anglican,0.035496156546781,male_bridge,22,1745,unknown,145,8,Canasteje,white,1738
+fthunter-anglican,anglican,0,false,4,1745,unknown,146,0,Bastard Child,white,1738
+fthunter-anglican,anglican,0,false,4,1745,female,147,0,Volikie Burk,white,1738
+fthunter-anglican,anglican,0.010157522468565,false,11,1745,male,148,6,Brant Kanadaradunkwa,white,1738
+fthunter-anglican,anglican,0.054226139142132,male_bridge,19,1745,male,149,6,Moses Nowadarika,white,1738
+fthunter-anglican,anglican,0.030710216422882,false,18,1745,female,150,6,Christina Brant's wife,white,1738
+fthunter-anglican,anglican,0,false,5,1745,unknown,151,4,Catharine2,white,1738
+fthunter-anglican,anglican,0,false,4,1745,unknown,152,7,Catharine3,white,1738
+fthunter-anglican,anglican,0,false,4,1745,unknown,153,7,Hendrick5,white,1738
+fthunter-anglican,anglican,0,false,4,1745,unknown,154,0,Catharine7,white,1738
+fthunter-anglican,anglican,0,false,4,1745,male,155,0,Phillip Phillipse Jr,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,156,10,Catherine Thomas' wife,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,157,10,David 12,white,1738
+fthunter-anglican,anglican,0.023588104063098,male_bridge,9,1745,unknown,158,10,Rut,white,1738
+fthunter-anglican,anglican,0.010553867233475,male_bridge,9,1745,unknown,159,10,Susannah,white,1738
+fthunter-anglican,anglican,0,false,3,1745,unknown,160,11,Claes,white,1738
+fthunter-anglican,anglican,0,false,3,1745,male,161,11,William Sixbury's wife,white,1738
+fthunter-anglican,anglican,0,false,4,1745,female,162,8,Mary 26,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,167,6,Esras Kaneraghtaghare,white,1738
+fthunter-anglican,anglican,0.055564727549465,false,10,1745,male,168,6,Seth Karonkyaghkwa,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,169,6,Margaret Karonkyaghkwa,white,1738
+fthunter-anglican,anglican,0.000868535792922,false,9,1745,male,172,1,Hugh Linch,white,1738
+fthunter-anglican,anglican,0.021575371108297,false,14,1745,female,173,1,Mary Linch,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,174,1,Robt Clarke,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,175,1,Elizabeth Clement,white,1738
+fthunter-anglican,anglican,0,false,4,1745,female,176,7,Jacamine,white,1738
+fthunter-anglican,anglican,0,false,4,1745,unknown,177,7,Kayingwerigoo,white,1738
+fthunter-anglican,anglican,0,false,4,1745,unknown,178,7,Kayingwerigoo's wife,white,1738
+fthunter-anglican,anglican,0.010553867233475,male_bridge,8,1745,male,179,7,Joseph Seyoenwese,white,1738
+fthunter-anglican,anglican,0,false,4,1745,female,180,7,Mary Kaheghtginhop,white,1738
+fthunter-anglican,anglican,0.018612213619906,false,20,1745,male,181,0,Jeremiah Quackenbus,white,1738
+fthunter-anglican,anglican,0.005856220924753,false,13,1745,female,182,0,Geertray Quakenbus,white,1738
+fthunter-anglican,anglican,0,false,4,1745,male,183,0,John 2,white,1738
+fthunter-anglican,anglican,0.004981731885318,false,13,1745,male,184,0,John Collier,white,1738
+fthunter-anglican,anglican,0.010328446095066,false,14,1745,female,185,0,Magdalene Collier,white,1738
+fthunter-anglican,anglican,0,false,4,1745,male,186,8,Joseph 2,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,187,1,Mary 9,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,188,6,Peter 12,white,1738
+fthunter-anglican,anglican,0.004864960892893,false,8,1745,male,189,6,Sander Kinsiago,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,190,10,Peter 13,white,1738
+fthunter-anglican,anglican,0,false,5,1745,unknown,191,10,Thomas,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,192,0,Peter 7,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,193,0,Rachel 1,white,1738
+fthunter-anglican,anglican,0,false,5,1745,female,194,6,Sarah 1,white,1738
+fthunter-anglican,anglican,0,false,5,1745,male,197,16,William 5,white,1738
+fthunter-anglican,anglican,0.066831425394288,false,32,1745,male,198,16,William Mills,white,1738
+fthunter-anglican,anglican,0,false,4,1745,male,204,10,Abraham 6,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,205,10,Christina Abraham's wife,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,206,10,Karonkyagera,white,1739
+fthunter-anglican,anglican,0.091803103579667,male_bridge,24,1745,male,207,10,Abraham Canostens Peterse,white,1739
+fthunter-anglican,anglican,0.000282818346303,false,9,1745,female,208,10,Gesina Canostens,white,1739
+fthunter-anglican,anglican,0,false,3,1745,male,209,10,Abraham Oneida,white,1739
+fthunter-anglican,anglican,0,false,3,1745,female,210,10,Christina Oneida,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,218,6,Alida Karonkyatikha,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,219,6,Gideon 3,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,220,6,Mary Gideon's Daughter,white,1739
+fthunter-anglican,anglican,0.001365414485336,false,12,1745,female,221,17,Alida Lenine,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,222,17,Arent Lenine,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,223,17,Margaret Lenine,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,229,1,Andrew Oliver,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,230,1,Anna Dorothea Barclay,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,231,1,Sealy Livingston,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,232,3,Andries Bratt,white,1739
+fthunter-anglican,anglican,0.003957700212553,false,8,1745,female,233,3,Eytie Vrooman,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,234,16,Ann 5,white,1739
+fthunter-anglican,anglican,0.013858972310581,false,16,1745,female,235,16,Elizabeth Corry,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,236,16,Capt Clarke,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,237,16,Mrs Pennyfeather,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,238,11,Ann Eva Yayayer,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,239,11,Mathew Fennin,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,240,11,Brant 8,white,1739
+fthunter-anglican,anglican,0.009834559796192,false,7,1745,female,243,13,Anna Phronica his wife,white,1739
+fthunter-anglican,anglican,0.015962026156185,false,12,1745,male,244,12,Barent Vrooman Jr,white,1739
+fthunter-anglican,anglican,0.003896004135561,false,7,1745,unknown,245,8,Hendrick7,white,1739
+fthunter-anglican,anglican,0.003896004135561,false,7,1745,female,246,8,Christina Hendrick's wife,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,256,1,Ariaentie Wemp,white,1739
+fthunter-anglican,anglican,0.001581664122607,false,9,1745,female,257,1,Rebecca Wemp,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,258,1,Ariyaentie 2,white,1739
+fthunter-anglican,anglican,0.085494536941221,false,32,1745,male,259,1,Isaac Wemp,white,1739
+fthunter-anglican,anglican,0.021095323111442,false,20,1745,female,260,1,Elizabeth Wemp,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,261,1,Ariyaentie 3,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,262,1,Jacob Swits,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,263,1,Eelena Swits,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,264,13,Barent,white,1739
+fthunter-anglican,anglican,0.051375480624622,male_bridge,11,1745,male,265,13,Johan Peter Frederick,white,1739
+fthunter-anglican,anglican,0.003298107799671,false,10,1745,male,266,12,Barent Vrooman,white,1739
+fthunter-anglican,anglican,0.023930601015913,false,23,1745,unknown,267,12,Volkie Vrooman,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,268,3,Bartholomew Vrooman,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,269,3,Catherine Vrooman,white,1739
+fthunter-anglican,anglican,0.003957700212553,false,8,1745,male,270,3,Simon Vrooman,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,271,11,Benjamin2,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,272,11,Elizabeth Perry,white,1739
+fthunter-anglican,anglican,0.015613517054249,false,8,1745,male,273,11,James Elwood,white,1739
+fthunter-anglican,anglican,0.031339984429309,female_bridge,20,1745,female,274,6,Jacamine Kaghtereni,white,1739
+fthunter-anglican,anglican,0.068863468783464,false,8,1745,male,275,6,Brant Karonkyatikha,white,1739
+fthunter-anglican,anglican,0.002064291374515,false,8,1745,male,276,14,Brant Kaweghnoke,white,1739
+fthunter-anglican,anglican,0.002064291374515,false,8,1745,female,277,14,Lydia Kaweghnoke,white,1739
+fthunter-anglican,anglican,0.053747819981225,false,22,1745,male,278,14,Seth Sietstarare Karihoge,white,1739
+fthunter-anglican,anglican,0.000469640500557,false,8,1745,female,279,14,Mary Karihoge,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,280,2,Capt James Ramsey,white,1739
+fthunter-anglican,anglican,0.084382027253103,false,18,1745,female,281,2,Catharine Wysenbergh,white,1739
+fthunter-anglican,anglican,0.000248636439225,false,7,1745,male,282,1,Capt Walter Butler,white,1739
+fthunter-anglican,anglican,0.002081333744307,false,12,1745,male,283,1,Walter Butler Jr,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,284,9,Catharina Dewighnidoge,white,1739
+fthunter-anglican,anglican,0,false,5,1745,unknown,285,12,Catharine4,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,286,12,Jone Hare,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,287,12,Mary Hare,white,1739
+fthunter-anglican,anglican,0.001079091785624,false,9,1745,male,288,12,Peter Mynderse,white,1739
+fthunter-anglican,anglican,0.000491495899215,false,9,1745,female,289,12,Sarah Quakenbus,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,293,10,Chatharina,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,294,9,Christian 2,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,295,9,Margaret Christian's wife,white,1739
+fthunter-anglican,anglican,0.005109140979373,false,9,1745,male,296,9,Gideon Dewignidoge,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,297,8,Christina1,white,1739
+fthunter-anglican,anglican,0.00190510526309,false,11,1745,male,301,0,Isaac Collier,white,1739
+fthunter-anglican,anglican,0.011444656352378,false,15,1745,female,302,0,Annatie Collier,white,1739
+fthunter-anglican,anglican,0.031579666044645,false,19,1745,male,303,17,Cornelius Lenine,white,1739
+fthunter-anglican,anglican,0,false,2,1745,male,304,8,Cornelius Oderagwarrie a Captive Indian,Native,1739
+fthunter-anglican,anglican,0,false,2,1745,male,305,8,Hendrick 21,white,1739
+fthunter-anglican,anglican,0.003957700212553,false,8,1745,unknown,306,6,David11,white,1739
+fthunter-anglican,anglican,0.003957700212553,false,8,1745,female,307,6,Sarah David's wife,white,1739
+fthunter-anglican,anglican,0,false,5,1745,unknown,308,6,Matarina,white,1739
+fthunter-anglican,anglican,0.012679128841833,female_bridge,15,1745,female,309,12,Deborah Wemp,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,310,12,Mynder Symonse Veeder,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,311,12,Elizabeth Veeder,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,312,17,Elizabeth Loos,white,1739
+fthunter-anglican,anglican,0,false,5,1745,unknown,313,1,Elizabeth4,white,1739
+fthunter-anglican,anglican,0.005269907073972,false,9,1745,male,314,1,Robert Maginnins,white,1739
+fthunter-anglican,anglican,0.005269907073972,false,9,1745,female,315,1,Mary Maginnins,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,316,2,Eva Van Alstin,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,317,2,Joseph Dans,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,318,2,Issabella Wilson,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,319,3,Geeshie,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,320,3,Hendrick Vrooman,white,1739
+fthunter-anglican,anglican,0,false,5,1745,unknown,321,14,Jacamin1,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,323,11,Janie,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,324,0,Rachel Quackenbus,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,325,17,Johannis Loos,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,326,17,Johannis2,white,1739
+fthunter-anglican,anglican,0,false,6,1745,male,327,6,John 13,white,1739
+fthunter-anglican,anglican,0.09233591982457,male_bridge,16,1745,unknown,328,6,Reyenier,white,1739
+fthunter-anglican,anglican,5.85545230441326E-07,false,7,1745,unknown,329,6,Reyenier's wife,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,330,6,Joseph 1,white,1739
+fthunter-anglican,anglican,0.119626286754042,male_bridge,32,1745,male,331,2,Leut Burrows,white,1739
+fthunter-anglican,anglican,0.024415348369314,false,18,1745,female,332,2,Mary Burrows,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,333,9,Margaret 2,white,1739
+fthunter-anglican,anglican,0,false,2,1745,female,334,12,Mary 2,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,335,2,Mary 8,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,336,0,Neeltie 2,white,1739
+fthunter-anglican,anglican,0.009887111617822,false,12,1745,male,337,0,Peter Quackenbus Jr,white,1739
+fthunter-anglican,anglican,0.002991286290452,false,8,1745,female,338,0,Sarah Quackenbus Jr,white,1739
+fthunter-anglican,anglican,0,false,5,1745,unknown,339,16,Nicolaus,white,1739
+fthunter-anglican,anglican,0.012735102460733,false,21,1745,male,340,16,William Welch,white,1739
+fthunter-anglican,anglican,0.017124951690037,female_bridge,20,1745,female,341,16,Sarah Welch,white,1739
+fthunter-anglican,anglican,0.010553867233475,male_bridge,9,1745,male,342,16,Roger James,white,1739
+fthunter-anglican,anglican,0,false,4,1745,unknown,343,1,Owen,white,1739
+fthunter-anglican,anglican,0,false,6,1745,female,344,6,Rachel 4,white,1739
+fthunter-anglican,anglican,0,false,4,1745,male,345,12,Ryer Wemp,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,346,6,Seth 1,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,347,3,Simon 2,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,348,17,Sophia 1,white,1739
+fthunter-anglican,anglican,0,false,5,1745,female,349,2,Sophia 2,white,1739
+fthunter-anglican,anglican,0,false,4,1745,female,350,12,Susanna 2,white,1739
+fthunter-anglican,anglican,0,false,5,1745,male,351,0,Victor 2,white,1739
+fthunter-anglican,anglican,0.000640239732279,false,4,1745,female,352,2,Ann 1,white,1740
+fthunter-anglican,anglican,0,false,3,1745,unknown,353,2,Dilling's wife,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,354,10,Abraham 1,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,355,10,Abraham Asharego,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,356,10,Margaret Asharego,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,357,10,Abraham Tiurhadaghriyo,white,1740
+fthunter-anglican,anglican,0.021048008853444,male_bridge,12,1745,male,358,10,Peter Serehowane,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,359,10,Ester Tiurhadaghriyo,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,360,10,Brant Jogawe,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,361,10,Rebecca Jayaweaye,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,362,9,Abraham Kaneghstase,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,363,9,David Kahowa,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,364,9,Susanna Kahowa,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,365,0,Elizabeth Prentop,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,369,0,Alida 2,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,370,0,Alida Bowen,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,371,12,Alida Wemp,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,372,12,Sarah Mynderse,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,373,12,Andreas,white,1740
+fthunter-anglican,anglican,0.007584913195161,false,12,1745,male,374,12,Myndert Wemp,white,1740
+fthunter-anglican,anglican,0,false,2,1745,unknown,375,2,Dilling,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,376,16,Ann 2,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,377,16,Ellenor,white,1740
+fthunter-anglican,anglican,7.66924836347079E-05,false,7,1745,male,378,16,James Ryon,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,379,16,Elizabeth James,white,1740
+fthunter-anglican,anglican,0.009205811062399,false,8,1745,female,380,16,Ester Connor,white,1740
+fthunter-anglican,anglican,0,false,2,1745,female,381,11,Ann 6,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,382,13,Ann Eva Young,white,1740
+fthunter-anglican,anglican,0.029480895061495,false,16,1745,male,383,13,Joseph Walleslous,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,384,13,Margaret Snock,white,1740
+fthunter-anglican,anglican,0.000230997543815,false,9,1745,female,385,13,Barbara Tubendorf,white,1740
+fthunter-anglican,anglican,9.20839582634513E-06,false,5,1745,male,386,16,Walter Welch,white,1740
+fthunter-anglican,anglican,0.002102893098045,false,16,1745,male,387,16,George Philips,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,388,16,Sarah Manes,white,1740
+fthunter-anglican,anglican,0.004681776094425,false,11,1745,female,393,0,Ann Quackenbus,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,394,11,Mary 24,white,1740
+fthunter-anglican,anglican,0.018285406456222,false,12,1745,female,395,13,Anna Huber,white,1740
+fthunter-anglican,anglican,0.01305531645792,false,10,1745,male,396,13,Jacob Naef,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,397,13,Magdalane Runnions,white,1740
+fthunter-anglican,anglican,0.042049803048441,female_bridge,17,1745,female,398,17,Anna Nukerk,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,399,17,Magdalen Walleslous,white,1740
+fthunter-anglican,anglican,0.002140499627704,false,9,1745,unknown,400,14,Anthony,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,401,14,Seth 6,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,402,14,Mary Seth's wife,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,403,14,Cornelius 8,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,404,14,Neeltie Cornelius' wife,white,1740
+fthunter-anglican,anglican,0.013181794227695,male_bridge,10,1745,unknown,410,8,Catharina,white,1740
+fthunter-anglican,anglican,0,false,3,1745,male,411,11,Baltus,white,1740
+fthunter-anglican,anglican,0.004913392161914,false,12,1745,female,412,11,Catharine Speck,white,1740
+fthunter-anglican,anglican,0.001408596656649,false,7,1745,male,413,11,Peter Speck,white,1740
+fthunter-anglican,anglican,0,false,3,1745,unknown,414,11,Volkie Speck,white,1740
+fthunter-anglican,anglican,0.036443679501136,false,17,1745,male,415,13,Peter Young,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,416,13,Matthias Shalamon,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,417,13,Elizabeth Tubendorf,white,1740
+fthunter-anglican,anglican,0.014319978904904,false,16,1745,female,418,14,Catharine Kiliane's wife,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,419,14,Sarah Sietstararede,white,1740
+fthunter-anglican,anglican,0.014319978904904,false,16,1745,male,420,14,Kiliane,white,1740
+fthunter-anglican,anglican,0.000326315485028,false,8,1745,male,421,14,Joseph 14,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,422,7,Catharine6,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,423,7,Abraham Soherionough,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,424,16,Catharine8,white,1740
+fthunter-anglican,anglican,1.93229926045637E-05,false,6,1745,male,425,16,William Manes,white,1740
+fthunter-anglican,anglican,0,false,3,1745,unknown,426,16,Catherine10,white,1740
+fthunter-anglican,anglican,0,false,3,1745,female,427,16,Engeltie Lenine,white,1740
+fthunter-anglican,anglican,0.006561750902925,false,7,1745,unknown,428,16,Mills,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,429,6,Christina Sagoghsenagighte,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,430,6,Sarah 10,white,1740
+fthunter-anglican,anglican,0,false,3,1745,female,431,7,Cornelia,white,1740
+fthunter-anglican,anglican,0.003429840105517,false,8,1745,male,432,8,Cornelius 7,white,1740
+fthunter-anglican,anglican,0.003429840105517,false,8,1745,female,433,8,Neeltie 5,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,434,8,Seth 11,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,438,8,Cornelius3,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,439,8,Joseph Decasonyorea,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,440,8,Margaret Decasonyorea,white,1740
+fthunter-anglican,anglican,0.001634396139259,false,8,1745,male,441,0,David Quackenbus,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,442,14,David10,white,1740
+fthunter-anglican,anglican,0.025596886492783,false,14,1745,female,448,11,Elizabeth Powel,white,1740
+fthunter-anglican,anglican,0.051250327805258,false,10,1745,male,449,2,William Johnson,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,450,16,Elizabeth White,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,451,16,John Henderson,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,452,16,Elizabeth6,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,453,16,William White,white,1740
+fthunter-anglican,anglican,0.021133829945916,false,14,1745,male,454,0,Henry Barclay,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,455,0,Margaret Veeder,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,456,9,Eve Jorane,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,457,9,Lasarus Ajenowiesaks,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,458,2,Frances Holland,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,459,2,Frances1,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,460,17,Frans Saltser,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,461,6,Gedion Sr,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,462,9,Sarah Kahiokgoah,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,463,0,Hannah,white,1740
+fthunter-anglican,anglican,0.010565578138083,male_bridge,11,1745,male,464,13,Hans Huber,white,1740
+fthunter-anglican,anglican,0,false,3,1745,male,465,0,Henderick Snock,white,1740
+fthunter-anglican,anglican,0,false,3,1745,female,466,0,Helena Snock,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,467,6,Jacamin2,white,1740
+fthunter-anglican,anglican,0.002170718608818,false,7,1745,female,468,6,Margaret Nowaderika,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,469,9,Jacob Jorane,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,470,9,Jacob Owensiowane's wife,white,1740
+fthunter-anglican,anglican,0.006415206496775,false,9,1745,male,471,13,Jacob Tubendorf,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,472,13,Jacob2,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,473,9,Jacob5,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,474,13,Jacob6,white,1740
+fthunter-anglican,anglican,0,false,3,1745,unknown,475,0,Jacobus3,white,1740
+fthunter-anglican,anglican,0.007925940239254,female_bridge,7,1745,female,476,0,Mary Snock,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,477,1,James1,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,478,0,Jannitie,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,479,0,John 16,white,1740
+fthunter-anglican,anglican,0.003147915813698,false,13,1745,male,480,0,William Phillips,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,481,14,John 4,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,482,9,Jonathan,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,483,9,Sarah Tegaghnewadighon,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,484,11,Joseph 7,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,485,11,Powel,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,486,10,Joseph Thahowweanoghte,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,487,10,Margaret Thahowweanoghte,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,488,14,Kiliane 1,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,489,14,Seth 8,white,1740
+fthunter-anglican,anglican,0,false,5,1745,unknown,490,10,Lot,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,491,14,Lydia,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,494,13,Maria Catharina,white,1740
+fthunter-anglican,anglican,0,false,4,1745,unknown,495,9,Martha,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,496,11,Mary 11,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,497,17,Mary 18,white,1740
+fthunter-anglican,anglican,0,false,5,1745,female,498,0,Mary 19,white,1740
+fthunter-anglican,anglican,0,false,4,1745,female,499,8,Mary 6,white,1740
+fthunter-anglican,anglican,0,false,4,1745,male,500,6,Moses 2,white,1740
+fthunter-anglican,anglican,0.002649006622517,male_bridge,5,1745,male,501,6,Petrus Sagoghsenagighte,white,1740
+fthunter-anglican,anglican,9.20839582634513E-06,false,5,1745,male,502,16,Robert 1,white,1740
+fthunter-anglican,anglican,0,false,3,1745,unknown,503,7,Zacharias,white,1740
+fthunter-anglican,anglican,0,false,5,1745,male,504,11,Abraham 4,white,1741
+fthunter-anglican,anglican,0.010562898413077,false,16,1745,male,505,0,John Potman,white,1741
+fthunter-anglican,anglican,0.004186794714132,false,8,1745,female,506,17,Antie Pruym,white,1741
+fthunter-anglican,anglican,0,false,3,1745,unknown,507,16,Amia,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,508,13,Ann Magdalene,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,509,13,Joseph Walleslous's wife,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,513,4,Anna 4,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,514,4,Alida Osaragihle,white,1741
+fthunter-anglican,anglican,0.012719625076971,male_bridge,13,1745,male,515,17,Area Gerritse Nukerk,white,1741
+fthunter-anglican,anglican,0.02194986561737,false,9,1745,male,516,15,Arent Brat Esqr,white,1741
+fthunter-anglican,anglican,0.028806014720607,male_bridge,15,1745,male,517,15,John Craig,white,1741
+fthunter-anglican,anglican,0.027174100163367,false,11,1745,male,518,15,Gideon Harper,white,1741
+fthunter-anglican,anglican,0.002607550020201,false,8,1745,male,519,15,Winfred Craig,white,1741
+fthunter-anglican,anglican,6.04282677815448E-05,false,8,1745,female,520,15,Jane Harper,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,521,17,Barbara Kets,white,1741
+fthunter-anglican,anglican,0.010553867233475,male_bridge,7,1745,male,522,17,Johan Ulrich Huber,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,523,17,Elizabeth Pellinger,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,524,12,Maria Vrooman,white,1741
+fthunter-anglican,anglican,0,false,5,1745,female,525,15,Catharine Lagy,white,1741
+fthunter-anglican,anglican,2.45928996785357E-05,false,7,1745,male,526,15,John Cartwright,white,1741
+fthunter-anglican,anglican,0,false,5,1745,female,527,15,Mary Oliver,white,1741
+fthunter-anglican,anglican,0,false,5,1745,male,528,11,William Powel,white,1741
+fthunter-anglican,anglican,0,false,5,1745,unknown,529,6,Christina3,white,1741
+fthunter-anglican,anglican,0.005269907073972,false,8,1745,male,530,6,Peter Tehonwaghkwangeraghkwa,white,1741
+fthunter-anglican,anglican,0.005269907073972,false,8,1745,female,531,6,Margaret Tehonwaghkwangeraghkwa,white,1741
+fthunter-anglican,anglican,0,false,5,1745,female,532,6,Lot Thoroghyonge,white,1741
+fthunter-anglican,anglican,0,false,5,1745,female,533,6,Ester Kawoghserightka,white,1741
+fthunter-anglican,anglican,0,false,5,1745,female,534,6,Maria,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,535,8,David6,white,1741
+fthunter-anglican,anglican,0.034883800488984,false,10,1745,male,536,4,John Syehowane,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,537,4,John Syehowane's wife,white,1741
+fthunter-anglican,anglican,0.000719178156247,false,9,1745,male,538,1,Gerrit Nukerk,white,1741
+fthunter-anglican,anglican,0.000559370854542,false,8,1745,female,539,12,Engeltie Van Driesen,white,1741
+fthunter-anglican,anglican,0,false,5,1745,unknown,544,1,Gerrit,white,1741
+fthunter-anglican,anglican,0,false,5,1745,female,545,1,Rachel Sradit,white,1741
+fthunter-anglican,anglican,0,false,5,1745,unknown,546,15,Gideon1,white,1741
+fthunter-anglican,anglican,0,false,3,1745,unknown,552,9,Henderick4,white,1741
+fthunter-anglican,anglican,0,false,3,1745,unknown,553,9,Kahickgo,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,557,4,Isaac3,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,558,6,Jacob 10,white,1741
+fthunter-anglican,anglican,0,false,5,1745,male,559,7,Jacob Tagaghrorieaethe,white,1741
+fthunter-anglican,anglican,0,false,5,1745,unknown,560,7,Kagoghydon,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,561,4,Jacob3,white,1741
+fthunter-anglican,anglican,0,false,3,1745,unknown,562,7,Jacob7,white,1741
+fthunter-anglican,anglican,0.01782054393065,female_bridge,11,1745,female,563,10,Mary Serehowane,white,1741
+fthunter-anglican,anglican,0.005441252543566,false,7,1745,female,564,7,Mary Seyoenwese,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,568,6,Jacob9,white,1741
+fthunter-anglican,anglican,0,false,5,1745,unknown,569,15,James3,white,1741
+fthunter-anglican,anglican,0.007925940239254,male_bridge,8,1745,male,570,15,John Lagy,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,571,4,Jan,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,572,17,Johan Ulrich,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,573,17,Johan Ulrich Kets,white,1741
+fthunter-anglican,anglican,0,false,5,1745,male,574,0,John 10,white,1741
+fthunter-anglican,anglican,0.002792944353445,false,9,1745,male,575,11,Lewis Davis,white,1741
+fthunter-anglican,anglican,0.027170320559415,false,9,1745,male,576,0,John Quackenbus,white,1741
+fthunter-anglican,anglican,0,false,5,1745,male,577,1,John 14,white,1741
+fthunter-anglican,anglican,0,false,5,1745,male,578,11,John 3,white,1741
+fthunter-anglican,anglican,0,false,3,1745,male,579,17,John 7,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,580,7,Lawrence,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,581,7,Susanna,white,1741
+fthunter-anglican,anglican,0,false,5,1745,unknown,582,7,Lucas,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,583,0,Margaret 7,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,584,12,Maria 1,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,585,12,Petrus Van Driesen,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,586,9,Mary 17,white,1741
+fthunter-anglican,anglican,0,false,5,1745,female,587,17,Mary 7,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,588,10,Rutgert Kenderago,white,1741
+fthunter-anglican,anglican,0.028146528389643,false,8,1745,female,589,10,Ester Kenderago,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,590,7,Moses 1,white,1741
+fthunter-anglican,anglican,0,false,4,1745,female,591,10,Neeltie 3,white,1741
+fthunter-anglican,anglican,0,false,5,1745,male,593,15,Robert 2,white,1741
+fthunter-anglican,anglican,0,false,3,1745,female,594,15,Sarah 5,white,1741
+fthunter-anglican,anglican,0,false,4,1745,male,595,7,Thomas 3,white,1741
+fthunter-anglican,anglican,0,false,4,1745,unknown,596,4,Unknown 1,white,1741
+fthunter-anglican,anglican,0,false,3,1745,male,597,16,William 4,white,1741
+fthunter-anglican,anglican,0,false,3,1745,female,598,16,Catharine Ramsey,white,1741
+fthunter-anglican,anglican,0.003120328248509,false,9,1745,female,599,0,Mary Bowen,white,1742
+fthunter-anglican,anglican,0,false,5,1745,unknown,600,14,Adam,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,601,13,Adam Dakstede,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,602,13,Catharina Daksted,white,1742
+fthunter-anglican,anglican,0,false,3,1745,male,603,3,Alexander Gregory,white,1742
+fthunter-anglican,anglican,0,false,3,1745,female,604,3,Ann Dillon,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,605,2,Alice Mary,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,606,12,Ann 4,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,607,4,Alida Andghsookte,white,1742
+fthunter-anglican,anglican,0,false,5,1745,male,608,12,John Vrooman,white,1742
+fthunter-anglican,anglican,0,false,4,1745,unknown,609,14,Brant1,white,1742
+fthunter-anglican,anglican,0,false,4,1745,unknown,610,14,Brant2,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,611,14,Seth 10,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,612,8,Catharina Thanighwanese,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,613,8,Alida 3,white,1742
+fthunter-anglican,anglican,0,false,4,1745,unknown,614,16,Catharine9,white,1742
+fthunter-anglican,anglican,0.007132557806509,false,10,1745,male,615,16,John Mills,white,1742
+fthunter-anglican,anglican,0.001215119755076,false,7,1745,female,616,0,Catharine Potman,white,1742
+fthunter-anglican,anglican,0,false,3,1745,unknown,617,13,Daughter3,white,1742
+fthunter-anglican,anglican,0.002086886974527,false,6,1745,male,618,0,John Cleyn,white,1742
+fthunter-anglican,anglican,0,false,3,1745,unknown,619,13,Saltser,white,1742
+fthunter-anglican,anglican,0.000681432521743,false,6,1745,male,620,16,Edward Mills,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,625,8,Ester 1,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,626,10,Ester Paul's wife,white,1742
+fthunter-anglican,anglican,0,false,5,1745,female,627,5,Gesina 2,white,1742
+fthunter-anglican,anglican,0,false,5,1745,female,628,5,Sarah 13,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,629,13,Johannis Kets,white,1742
+fthunter-anglican,anglican,0,false,5,1745,unknown,630,12,Henderick1,white,1742
+fthunter-anglican,anglican,0.002712339304443,false,9,1745,male,631,0,Jacob Van Alen,white,1742
+fthunter-anglican,anglican,0,false,5,1745,unknown,632,0,Isaac2,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,633,1,James Dillon,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,634,2,Mary Elwood,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,635,2,John Lindsay,white,1742
+fthunter-anglican,anglican,0,false,4,1745,unknown,636,2,James2,white,1742
+fthunter-anglican,anglican,0,false,3,1745,unknown,637,16,James4,white,1742
+fthunter-anglican,anglican,0,false,3,1745,unknown,638,16,W White,white,1742
+fthunter-anglican,anglican,0,false,4,1745,unknown,639,13,Johannis1,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,640,4,John 1,white,1742
+fthunter-anglican,anglican,0,false,5,1745,female,641,5,Margaret 6,white,1742
+fthunter-anglican,anglican,0.023588104063098,male_bridge,9,1745,male,642,5,Peter 10,white,1742
+fthunter-anglican,anglican,0,false,5,1745,female,643,5,Mary Peter's wife,white,1742
+fthunter-anglican,anglican,0.010553867233475,male_bridge,9,1745,male,644,5,Nicus,white,1742
+fthunter-anglican,anglican,0,false,4,1745,unknown,645,0,Martin,white,1742
+fthunter-anglican,anglican,0,false,3,1745,female,646,3,Mary 1,white,1742
+fthunter-anglican,anglican,0,false,2,1745,female,647,6,Mary 12,white,1742
+fthunter-anglican,anglican,0,false,2,1745,female,648,6,Mary 23,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,649,10,Paul 5,white,1742
+fthunter-anglican,anglican,0,false,3,1745,male,650,0,Peter 4,white,1742
+fthunter-anglican,anglican,0,false,5,1745,female,651,0,Rachel 5,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,652,1,Son 2,white,1742
+fthunter-anglican,anglican,0,false,4,1745,male,653,10,Son 3,white,1742
+fthunter-anglican,anglican,0,false,4,1745,female,654,8,Susanna 1,white,1742
+fthunter-anglican,anglican,0,false,3,1745,male,655,16,Thomas 2,white,1742
+fthunter-anglican,anglican,0,false,5,1745,male,656,8,Abraham 9,white,1743
+fthunter-anglican,anglican,0,false,4,1745,unknown,657,6,Agnes,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,658,12,Alida 1,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,659,12,Rebecca Conyn,white,1743
+fthunter-anglican,anglican,0,false,5,1745,male,660,17,John Nukerk,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,661,6,Angenietie,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,662,6,Margaret 11,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,663,13,Ann 3,white,1743
+fthunter-anglican,anglican,2.10796282958877E-05,false,7,1745,male,664,13,John Kets,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,665,13,Casper Coens,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,666,13,Jacob Naef's wife,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,667,12,Ariyaentie 1,white,1743
+fthunter-anglican,anglican,0.010173626961692,false,14,1745,male,668,12,Barent Wemp,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,669,12,Mary Wemp,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,670,8,Aront,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,671,8,Magdalene Aront's wife,white,1743
+fthunter-anglican,anglican,0,false,5,1745,male,672,8,Thomas 4,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,673,11,Asaph,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,674,11,Cornelia Asaph's wife,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,675,11,Kisiagoe's wife,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,676,17,Benjamin1,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,681,4,Brant 7,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,682,4,Margaret 10,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,683,14,Lydia Seth's daughter,white,1743
+fthunter-anglican,anglican,0,false,4,1745,unknown,684,6,Catharine5,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,685,6,Lazarus,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,686,6,Mary 22,white,1743
+fthunter-anglican,anglican,0,false,8,1745,unknown,687,16,Charles,white,1743
+fthunter-anglican,anglican,0.000479661688079,false,12,1745,male,688,16,Pierce Castillo,white,1743
+fthunter-anglican,anglican,4.39158922830994E-07,false,9,1745,female,689,16,Sarah Castillo,white,1743
+fthunter-anglican,anglican,0,false,3,1745,unknown,690,10,Chatarine,white,1743
+fthunter-anglican,anglican,0,false,3,1745,male,691,10,Joseph 13,white,1743
+fthunter-anglican,anglican,0,false,3,1745,female,692,10,Neeltie 6,white,1743
+fthunter-anglican,anglican,0.007573647759748,false,8,1745,female,693,17,Anna Potman,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,694,8,Cornelius1,white,1743
+fthunter-anglican,anglican,0,false,4,1745,unknown,695,4,Cornelius5,white,1743
+fthunter-anglican,anglican,0,false,3,1745,male,696,15,Daniel Toll,white,1743
+fthunter-anglican,anglican,0,false,3,1745,male,697,15,Daniel Toll's wife,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,698,6,Seth Caronkjeent,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,699,6,Sarah 12,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,700,6,David3,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,701,6,David4,white,1743
+fthunter-anglican,anglican,0,false,4,1745,unknown,702,15,David5,white,1743
+fthunter-anglican,anglican,0,false,4,1745,unknown,708,16,Edward3,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,709,16,Margaret Mills,white,1743
+fthunter-anglican,anglican,0.007925940239254,female_bridge,8,1745,female,715,1,Elizabeth Dunn,white,1743
+fthunter-anglican,anglican,0,false,5,1745,male,716,1,Richard James,white,1743
+fthunter-anglican,anglican,0.001027556003814,false,7,1745,female,721,0,Gerritie Barclay,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,722,13,Hans Jacob,white,1743
+fthunter-anglican,anglican,0,false,2,1745,female,723,2,Helena,white,1743
+fthunter-anglican,anglican,0.009828370005789,false,6,1745,female,724,2,Helena Walleslous,white,1743
+fthunter-anglican,anglican,0,false,5,1745,unknown,725,11,Henry1,white,1743
+fthunter-anglican,anglican,0,false,5,1745,male,730,1,James Dunn,white,1743
+fthunter-anglican,anglican,0,false,5,1745,male,733,1,John 9,white,1743
+fthunter-anglican,anglican,0.001027556003814,false,7,1745,male,734,0,John Barclay,white,1743
+fthunter-anglican,anglican,0,false,3,1745,female,735,15,Margaret 4,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,736,0,Margaret 5,white,1743
+fthunter-anglican,anglican,0,false,5,1745,female,737,11,Mary 15,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,738,0,Mary 16,white,1743
+fthunter-anglican,anglican,0,false,8,1745,male,739,16,Moses 3,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,740,6,Paul 2,white,1743
+fthunter-anglican,anglican,0,false,4,1745,unknown,742,12,Richard,white,1743
+fthunter-anglican,anglican,0,false,3,1745,female,743,0,Sarah 3,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,744,14,Seth 4,white,1743
+fthunter-anglican,anglican,0,false,4,1745,female,745,17,Susannah 1,white,1743
+fthunter-anglican,anglican,0,false,4,1745,male,746,0,William 3,white,1743
+fthunter-anglican,anglican,7.02654276529591E-06,false,5,1745,male,747,8,Abraham 8,white,1744
+fthunter-anglican,anglican,0,false,5,1745,female,748,8,Mary S,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,751,0,Rachel Van Allen,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,759,17,Phillipse,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,760,4,Brant 5,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,761,4,Margaret Brant's wife,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,762,4,Mary Osaragihte,white,1744
+fthunter-anglican,anglican,0,false,3,1745,male,763,12,Ephraim Wemp,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,766,14,Brant Jr,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,767,14,Seth Sietstarare Karihoge Jr,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,768,14,Brant3,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,769,2,James Rogers,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,770,2,Isabella Allen,white,1744
+fthunter-anglican,anglican,0.007925940239254,male_bridge,7,1745,male,771,2,Christian 3,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,772,2,Gesina 4,white,1744
+fthunter-anglican,anglican,0,false,3,1745,male,773,2,Christian Walter,white,1744
+fthunter-anglican,anglican,0,false,3,1745,female,774,2,Mrs Nukerk,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,775,2,Christina 4,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,777,16,Christopher Magraw,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,778,17,Claes Philipse,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,779,0,Susanna Quackenbus,white,1744
+fthunter-anglican,anglican,0,false,3,1745,unknown,780,8,Cornelius4,white,1744
+fthunter-anglican,anglican,0,false,3,1745,male,781,8,Joseph Sonhahtowane,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,782,0,Cornlius Potman,white,1744
+fthunter-anglican,anglican,0,false,3,1745,unknown,785,6,Daughter2,white,1744
+fthunter-anglican,anglican,0,false,3,1745,unknown,786,8,David7,white,1744
+fthunter-anglican,anglican,0,false,3,1745,male,787,8,John Seghnegearat,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,792,0,Dorothy,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,793,0,Marte Van Olinde,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,794,0,Marte Van Olinde's wife,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,795,0,Helena Van Olinde,white,1744
+fthunter-anglican,anglican,0,false,3,1745,unknown,796,15,Downard,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,797,0,Edward1,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,798,17,Elizabeth Huff,white,1744
+fthunter-anglican,anglican,0,false,2,1745,unknown,804,9,Eva1,white,1744
+fthunter-anglican,anglican,0.004568913035369,false,6,1745,unknown,805,9,Rebecca,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,806,17,William Hall,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,807,17,Henry Harris,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,809,4,Henderick6,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,810,4,Leah,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,812,9,Joseph 11,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,813,9,Sarah 11,white,1744
+fthunter-anglican,anglican,0.001209264302772,false,6,1745,male,814,0,Jacob Potman,white,1744
+fthunter-anglican,anglican,0.010553867233475,female_bridge,8,1745,female,815,13,Elizabeth Evans,white,1744
+fthunter-anglican,anglican,0,false,3,1745,male,818,15,John 5,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,819,17,John 6,white,1744
+fthunter-anglican,anglican,0,false,3,1745,male,820,12,John 8,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,821,11,John Clement,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,822,11,Lewis Clement,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,823,5,John Guagua,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,824,5,Seth 13,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,825,5,Joseph 15,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,826,5,Alida 4,white,1744
+fthunter-anglican,anglican,0.010553867233475,male_bridge,8,1745,male,827,13,John Michael Brant,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,828,0,John Quackenbus Jr,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,829,0,Neeltie Quackenbus,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,830,13,Joseph 4,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,831,2,Mrs Gronendick,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,832,10,Magdalene 2,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,833,4,Margaret 3,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,835,10,Mary 13,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,836,10,Nicholaus,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,837,10,Mary Nicholas' wife,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,838,2,Mary 20,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,839,2,Paul Combes,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,840,2,Mary 4,white,1744
+fthunter-anglican,anglican,0,false,3,1745,female,841,2,Mary 5,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,842,0,Neeltie 4,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,844,4,Peter 2,white,1744
+fthunter-anglican,anglican,0,false,5,1745,male,845,8,Peter 3,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,846,0,Peter 5,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,847,0,Rachel 2,white,1744
+fthunter-anglican,anglican,0,false,3,1745,female,848,0,Rachel 6,white,1744
+fthunter-anglican,anglican,0,false,3,1745,male,849,0,William Bowen Jr,white,1744
+fthunter-anglican,anglican,0,false,4,1745,female,850,9,Sarah 2,white,1744
+fthunter-anglican,anglican,0,false,1,1745,male,852,4,Son 1,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,853,2,Thomas 1,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,854,11,Thomas 7,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,855,16,William 1,white,1744
+fthunter-anglican,anglican,0,false,4,1745,male,856,17,William 2,white,1744
+fthunter-anglican,anglican,0,false,4,1745,unknown,857,13,Jourdain,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,858,4,Aaron,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,859,4,David Laroy,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,860,4,Isaack,white,1745
+fthunter-anglican,anglican,0,false,3,1745,female,862,10,Elizabeth Canostens,white,1745
+fthunter-anglican,anglican,0,false,2,1745,female,863,10,Mary Canostens,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,870,17,Andrew Frank,white,1745
+fthunter-anglican,anglican,0,false,3,1745,female,871,17,Anna 1,white,1745
+fthunter-anglican,anglican,0,false,5,1745,male,874,11,Anthony Speck,white,1745
+fthunter-anglican,anglican,0,false,5,1745,female,875,11,Susannah Speck,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,876,12,Ariyaentie4,white,1745
+fthunter-anglican,anglican,0,false,4,1745,female,877,4,Elizabeth 7,white,1745
+fthunter-anglican,anglican,0,false,4,1745,female,878,4,Magdalene 3,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,879,2,Brant 4,white,1745
+fthunter-anglican,anglican,0,false,3,1745,female,880,2,Jannitie 1,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,881,13,Capt Hellens,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,882,13,Capt Hellens Slave,Black,1745
+fthunter-anglican,anglican,0,false,3,1745,unknown,883,15,child,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,884,15,Mr Harper,white,1745
+fthunter-anglican,anglican,0,false,3,1745,unknown,885,15,Unknown 3,white,1745
+fthunter-anglican,anglican,0,false,1,1745,unknown,887,6,Child 2,white,1745
+fthunter-anglican,anglican,0,false,1,1745,unknown,888,6,Child 3,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,889,2,Christian,white,1745
+fthunter-anglican,anglican,0,false,4,1745,female,890,13,Christina Eerhart,white,1745
+fthunter-anglican,anglican,0,false,4,1745,female,891,13,Mary Magraw,white,1745
+fthunter-anglican,anglican,0,false,4,1745,female,894,0,Anna Sixbury,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,895,0,Cornelius6,white,1745
+fthunter-anglican,anglican,0,false,3,1745,female,896,9,Sarah Paulus' wife,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,900,4,David1,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,901,16,Edward2,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,902,16,Luke Casidy,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,903,16,Laghlan Doyla,white,1745
+fthunter-anglican,anglican,0,false,4,1745,female,904,16,Isabel Mathews,white,1745
+fthunter-anglican,anglican,0,false,3,1745,unknown,907,10,Elizabeth2,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,908,4,Elizabeth3,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,909,4,Petrus Aront,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,910,0,Engeltie1,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,914,13,Henderick2,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,915,13,Henry Huber,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,916,9,Seth Anthony's son,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,917,9,Seth Anthony's wife,white,1745
+fthunter-anglican,anglican,0,false,2,1745,male,918,10,Jacob Sayighranoha,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,922,0,Peter Quackenbus,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,926,1,James Wilson,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,927,9,John 17,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,928,1,John Dunbar,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,929,13,John Eerhart,white,1745
+fthunter-anglican,anglican,0,false,5,1745,male,930,8,John Kanadagaye,white,1745
+fthunter-anglican,anglican,0,false,5,1745,female,931,8,Mary Kanadagaye,white,1745
+fthunter-anglican,anglican,0,false,5,1745,male,932,8,Moses 4,white,1745
+fthunter-anglican,anglican,0,false,5,1745,male,933,8,Thomas 5,white,1745
+fthunter-anglican,anglican,0,false,5,1745,male,934,8,Joseph 3,white,1745
+fthunter-anglican,anglican,0,false,3,1745,female,935,0,Magdalene 1,white,1745
+fthunter-anglican,anglican,0,false,4,1745,female,937,13,Mary 10,white,1745
+fthunter-anglican,anglican,0,false,4,1745,unknown,938,13,Negro Child,Black,1745
+fthunter-anglican,anglican,0,false,5,1745,male,941,11,Peter 11,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,942,0,Peter 6,white,1745
+fthunter-anglican,anglican,0,false,3,1745,male,943,1,Peter 8,white,1745
+fthunter-anglican,anglican,0,false,3,1745,female,944,9,Sarah 4,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,945,9,Seth 2,white,1745
+fthunter-anglican,anglican,0,false,4,1745,male,947,0,Victor 1,white,1745
