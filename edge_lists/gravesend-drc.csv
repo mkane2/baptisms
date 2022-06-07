@@ -10,7 +10,7 @@ year,source,target
 1716,William Van Nuys,Magdalena Nuys
 1716,Geertie Lammersen,Eyke Lammersen
 1716,John Griggs,Annatie Griggs
-1717,Barent Johnson,Maria Johnson
+1717,Barent Johnson,Maria Johnson 1
 1717,Benjamin Griggs,Margriet Griggs
 1717,Jacob Van der bilt,Neeltie Van der bilt
 1717,Jan Rider,Hilletie Rider
@@ -45,7 +45,7 @@ year,source,target
 1764,Geertie Williamsen,Catharina Williamsen
 1764,Cornelius Boys,Susannah Boys
 1764,Jacob de Grau,Annatie Grau
-1764,William Johnson,Maria Johnson
+1764,William Johnson,Maria Johnson 2
 1764,Johannes Stimmets,Hilletie Stimmets
 1764,Evert Suydam,Maria Suydam
 1764,Jeremiah Williamsen,Sara Williamsen
@@ -418,7 +418,7 @@ year,source,target
 1783,Bernardus Rider,Isaac Denyse
 1783,Johannes Wyckoff,Albert Terhune
 1783,Jacques Van Brunt,William Johnson
-1783,Barent Johnson,Maria Johnson
+1783,Barent Johnson,Maria Johnson 2
 1783,Court Lake,Daniel Lake
 1784,Martin Schoomaker,Phoebe Voorhees
 1785,Jacques Denyse,Isaac Denyse
@@ -497,17 +497,17 @@ year,source,target
 1717,Jacob Van der bilt,Helena Henderiksen
 1717,Jan Rider,Helena Wyckoff
 1717,Peter Williamsen,Jannitie Hubbard
-1718,Thomas Stillwell,Maria Johnson
+1718,Thomas Stillwell,Maria Johnson 1
 1718,Andries Westervelt,Emmetie Perdon
 1718,Nicholas Williamsen,Egtie Koersten
-1718,Peter Williamsen,Maria Johnson
+1718,Peter Williamsen,Maria Johnson 1
 1718,Jacob Stryker,Cornelius Stryker
 1718,Benjamin Griggs,Annatie Griggs
 1718,Jacob Emans,Eva Sickel
 1718,Samuel Poling,Maria Sicklen
 1719,John Griggs,Margriet Griggs
 1720,William Goolder,Catharina Stillwell
-1750,Dirk Amerman,Maria Johnson
+1750,Dirk Amerman,Maria Johnson 1
 1750,Albert Terhune,Maria Terhune
 1750,Johannes Gerritse,Ida Gerritse
 1763,Isaac Denyse,Helena Rapelje
@@ -552,7 +552,7 @@ year,source,target
 1783,Hendrick Johnson,Phoebe Johnson
 1783,Bernardus Rider,Sytie Denyse
 1783,Johannes Wyckoff,Anna Terhune
-1783,Jacques Van Brunt,Maria Johnson
+1783,Jacques Van Brunt,Maria Johnson 2
 1783,Court Lake,Neeltie Lake
 1785,Jacques Denyse,Sytie Denyse
 1785,William Glyck,Sytie Denyse
@@ -562,7 +562,7 @@ year,source,target
 1787,Johannes Lott,Annatie VanderVoort
 1788,William Van Dyck,Sytie Denyse
 1788,Johannes Van Pelt,Neeltie Stoothof
-1788,John Johnson,Maria Johnson
+1788,John Johnson,Maria Johnson 2
 1788,Daniel Stillwell,Geertie Boys
 1789,Jacques Denyse,Maria Stillwell
 1789,John Johnson,Hitie Johnson
@@ -596,7 +596,7 @@ year,source,target
 1716,Magdalena Nuys,Joost Durye
 1716,Eyke Lammersen,Jacob Lammerse
 1716,Annatie Griggs,William Willemsz
-1717,Maria Johnson,Thomas Stillwell
+1717,Maria Johnson 1,Thomas Stillwell
 1717,Margriet Griggs,Samuel Griggs
 1717,Neeltie Van der bilt,Hendrick Henderiksen
 1717,Hilletie Rider,Hendrick Wyckoff
@@ -673,7 +673,7 @@ year,source,target
 1783,Emmetie Rider,Isaac Denyse
 1783,Annatie Wyckoff,Albert Terhune
 1783,Maria Van Brunt,William Johnson
-1783,Sytie Johnson,Maria Johnson
+1783,Sytie Johnson,Maria Johnson 2
 1783,Ida Lake,Daniel Lake
 1784,Stephan Voorhees,Phoebe Voorhees
 1785,Ida Denyse,Isaac Denyse
@@ -742,22 +742,22 @@ year,source,target
 1716,Magdalena Nuys,Helena Derjes
 1716,Eyke Lammersen,Tryntie Lammerse
 1716,Annatie Griggs,Maritie Griggs
-1717,Maria Johnson,Anna Stillwell
+1717,Maria Johnson 1,Anna Stillwell
 1717,Margriet Griggs,Maritie Griggs
 1717,Neeltie Van der bilt,Helena Henderiksen
 1717,Hilletie Rider,Helena Wyckoff
 1717,Cornelia Williamsen,Jannitie Hubbard
-1718,Anna Stillwell,Maria Johnson
+1718,Anna Stillwell,Maria Johnson 1
 1718,Dirk Westervelt,Emmetie Perdon
 1718,Lucretia Willemsz,Egtie Koersten
-1718,Cornelia Williamsen,Maria Johnson
+1718,Cornelia Williamsen,Maria Johnson 1
 1718,Maria Stryker,Cornelius Stryker
 1718,Maritie Griggs,Annatie Griggs
 1718,Geertie Emans,Eva Sickel
 1718,Geertie Poling,Maria Sicklen
 1719,Annatie Griggs,Margriet Griggs
 1720,Geesie Goolder,Catharina Stillwell
-1750,Jannitie Amerman,Maria Johnson
+1750,Jannitie Amerman,Maria Johnson 1
 1750,Anna Terhune,Maria Terhune
 1750,Elizabeth Gerritse,Ida Gerritse
 1763,Sytie Denyse,Helena Rapelje
@@ -802,7 +802,7 @@ year,source,target
 1783,Elizabeth Johnson,Phoebe Johnson
 1783,Emmetie Rider,Sytie Denyse
 1783,Annatie Wyckoff,Anna Terhune
-1783,Maria Van Brunt,Maria Johnson
+1783,Maria Van Brunt,Maria Johnson 2
 1783,Ida Lake,Neeltie Lake
 1785,Ida Denyse,Sytie Denyse
 1785,Jannitie Glyck,Sytie Denyse
@@ -811,7 +811,7 @@ year,source,target
 1786,Femmitie Rider,Tryntie Rider
 1787,Bekeltie Lott,Annatie VanderVoort
 1788,Jannitie Dyck,Sytie Denyse
-1788,Elizabeth Johnson,Maria Johnson
+1788,Elizabeth Johnson,Maria Johnson 2
 1788,Tryntie Stillwell,Geertie Boys
 1789,Ida Denyse,Maria Stillwell
 1789,Elizabeth Johnson,Hitie Johnson
@@ -849,17 +849,17 @@ year,source,target
 1717,Hendrick Henderiksen,Helena Henderiksen
 1717,Hendrick Wyckoff,Helena Wyckoff
 1717,William Willemsz,Jannitie Hubbard
-1718,Barent Johnson,Maria Johnson
+1718,Barent Johnson,Maria Johnson 1
 1718,Jacob Perdon,Emmetie Perdon
 1718,Stephan Koersten,Egtie Koersten
-1718,Barent Johnson,Maria Johnson
+1718,Barent Johnson,Maria Johnson 1
 1718,Wyntie Stryker,Cornelius Stryker
 1718,John Griggs,Annatie Griggs
 1718,Ferdinand Sickel,Eva Sickel
 1718,Ferdinand Sickel,Maria Sicklen
 1719,Benjamin Griggs,Margriet Griggs
 1720,Richard Stillwell,Catharina Stillwell
-1750,Barent Johnson,Maria Johnson
+1750,Barent Johnson,Maria Johnson 1
 1750,Roulof Terhune,Maria Terhune
 1750,Samuel Gerritse,Ida Gerritse
 1763,Geertie Rapelje,Helena Rapelje
@@ -904,7 +904,7 @@ year,source,target
 1783,Court Johnson,Phoebe Johnson
 1783,Isaac Denyse,Sytie Denyse
 1783,Albert Terhune,Anna Terhune
-1783,William Johnson,Maria Johnson
+1783,William Johnson,Maria Johnson 2
 1783,Daniel Lake,Neeltie Lake
 1785,Isaac Denyse,Sytie Denyse
 1785,Isaac Denyse,Sytie Denyse
@@ -914,7 +914,7 @@ year,source,target
 1787,Peter VanderVoort,Annatie VanderVoort
 1788,Isaac Denyse,Sytie Denyse
 1788,Wilhelm Stoothof,Neeltie Stoothof
-1788,William Johnson,Maria Johnson
+1788,William Johnson,Maria Johnson 2
 1788,John Boys,Geertie Boys
 1789,Richard Stillwell,Maria Stillwell
 1789,Barent Johnson,Hitie Johnson
