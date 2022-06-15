@@ -1,182 +1,182 @@
 [
   {
-    congregation: "flatlands-drc",
-    name: "Flatlands Dutch Reformed",
-    filename:
+    "congregation": "flatlands-drc",
+    "name": "Flatlands Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/flatlands-drc/flatlands-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 40.621,
-    longitude: -73.935
+    "denomination": "dutch reformed",
+    "latitude": 40.621,
+    "longitude": -73.935
   },
   {
-    congregation: "drc-schoharie",
-    name: "Schoharie Dutch Reformed",
-    filename:
+    "congregation": "drc-schoharie",
+    "name": "Schoharie Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/drc-schoharie/drc-schoharie_network.json",
-    denomination: "dutch reformed",
-    latitude: 42.6623856,
-    longitude: -74.3134161
+    "denomination": "dutch reformed",
+    "latitude": 42.6623856,
+    "longitude": -74.3134161
   },
   {
-    congregation: "fthunter-anglican",
-    name: "Fort Hunter Anglican",
-    filename:
+    "congregation": "fthunter-anglican",
+    "name": "Fort Hunter Anglican",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/fthunter-anglican/fthunter-anglican_network.json",
-    denomination: "anglican",
-    latitude: 42.939625,
-    longitude: -74.286283
+    "denomination": "anglican",
+    "latitude": 42.939625,
+    "longitude": -74.286283
   },
   {
-    congregation: "detroit-catholic",
-    name: "Detroit Catholic",
-    filename:
+    "congregation": "detroit-catholic",
+    "name": "Detroit Catholic",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/detroit-catholic/detroit-catholic_network.json",
-    denomination: "catholic",
-    latitude: 42.283333,
-    longitude: -83
+    "denomination": "catholic",
+    "latitude": 42.283333,
+    "longitude": -83
   },
   {
-    congregation: "huguenot-nyc",
-    name: "NYC Huguenot",
-    filename:
+    "congregation": "huguenot-nyc",
+    "name": "NYC Huguenot",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/huguenot-nyc/huguenot-nyc_network.json",
-    denomination: "huguenot",
-    latitude: 40.7634666,
-    longitude: -73.9687545
+    "denomination": "huguenot",
+    "latitude": 40.7634666,
+    "longitude": -73.9687545
   },
   {
-    congregation: "albany-lutheran",
-    name: "Albany Lutheran",
-    filename:
+    "congregation": "albany-lutheran",
+    "name": "Albany Lutheran",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/albany-lutheran/albany-lutheran_network.json",
-    denomination: "lutheran",
-    latitude: 42.6619892,
-    longitude: -73.7776913
+    "denomination": "lutheran",
+    "latitude": 42.6619892,
+    "longitude": -73.7776913
   },
   {
-    congregation: "albany-lutheran-1",
-    name: "Albany Lutheran African subgraph 1",
-    filename:
+    "congregation": "albany-lutheran-1",
+    "name": "Albany Lutheran African subgraph 1",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/albany-lutheran/albany-lutheran_0_network.json",
-    denomination: "lutheran",
-    latitude: 42.6619892,
-    longitude: -73.7776913
+    "denomination": "lutheran",
+    "latitude": 42.6619892,
+    "longitude": -73.7776913
   },
   {
-    congregation: "albany-lutheran-2",
-    name: "Albany Lutheran African subgraph 2",
-    filename:
+    "congregation": "albany-lutheran-2",
+    "name": "Albany Lutheran African subgraph 2",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/albany-lutheran/albany-lutheran_1_network.json",
-    denomination: "lutheran",
-    latitude: 42.6619892,
-    longitude: -73.7776913
+    "denomination": "lutheran",
+    "latitude": 42.6619892,
+    "longitude": -73.7776913
   },
   {
-    congregation: "rensl-lutheran",
-    name: "Rensselaer Lutheran",
-    filename:
+    "congregation": "rensl-lutheran",
+    "name": "Rensselaer Lutheran",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/rensl-lutheran/rensl-lutheran_network.json",
-    denomination: "lutheran",
-    latitude: 42.7612678,
-    longitude: -73.5955521
+    "denomination": "lutheran",
+    "latitude": 42.7612678,
+    "longitude": -73.5955521
   },
   {
-    congregation: "schoharie-lutheran",
-    name: "Schoharie Lutheran",
-    filename:
+    "congregation": "schoharie-lutheran",
+    "name": "Schoharie Lutheran",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/schoharie-lutheran/schoharie-lutheran_network.json",
-    denomination: "lutheran",
-    latitude: 42.664444,
-    longitude: -74.3125
+    "denomination": "lutheran",
+    "latitude": 42.664444,
+    "longitude": -74.3125
   },
   {
-    congregation: "drc-albany",
-    name: "Albany Dutch Reformed",
-    filename:
+    "congregation": "drc-albany",
+    "name": "Albany Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/drc-albany/drc-albany_network.json",
-    denomination: "dutch reformed",
-    latitude: 42.653611,
-    longitude: -73.750556
+    "denomination": "dutch reformed",
+    "latitude": 42.653611,
+    "longitude": -73.750556
   },
   {
-    congregation: "sleepyhollow-drc",
-    name: "Sleepyhollow Dutch Reformed",
-    filename:
+    "congregation": "sleepyhollow-drc",
+    "name": "Sleepyhollow Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/sleepyhollow-drc/sleepyhollow-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 41.090278,
-    longitude: -73.861667
+    "denomination": "dutch reformed",
+    "latitude": 41.090278,
+    "longitude": -73.861667
   },
   {
-    congregation: "flatbush-drc",
-    name: "Flatbush Dutch Reformed",
-    filename:
+    "congregation": "flatbush-drc",
+    "name": "Flatbush Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/flatbush-drc/flatbush-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 40.65,
-    longitude: -73.959167
+    "denomination": "dutch reformed",
+    "latitude": 40.65,
+    "longitude": -73.959167
   },
   {
-    congregation: "bergen-drc",
-    name: "Bergen NJ Dutch Reformed",
-    filename:
+    "congregation": "bergen-drc",
+    "name": "Bergen NJ Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/bergen-drc/bergen-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 40.726944,
-    longitude: -74.069444
+    "denomination": "dutch reformed",
+    "latitude": 40.726944,
+    "longitude": -74.069444
   },
   {
-    congregation: "westcamp-lutheran",
-    name: "West Camp Palatine Lutheran",
-    filename:
+    "congregation": "westcamp-lutheran",
+    "name": "West Camp Palatine Lutheran",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/westcamp-lutheran/westcamp-lutheran_network.json",
-    denomination: "lutheran",
-    latitude: 41.541667,
-    longitude: -74.063056
+    "denomination": "lutheran",
+    "latitude": 41.541667,
+    "longitude": -74.063056
   },
   {
-    congregation: "caughnawaga-drc",
-    name: "Caughnawaga Dutch Reformed",
-    filename:
+    "congregation": "caughnawaga-drc",
+    "name": "Caughnawaga Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/caughnawaga-drc/caughnawaga-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 42.954444,
-    longitude: -74.375556
+    "denomination": "dutch reformed",
+    "latitude": 42.954444,
+    "longitude": -74.375556
   },
   {
-    congregation: "schenectady-drc",
-    name: "Schenectady Dutch Reformed",
-    filename:
+    "congregation": "schenectady-drc",
+    "name": "Schenectady Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/schenectady-drc/schenectady-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 42.814167,
-    longitude: -73.937222
+    "denomination": "dutch reformed",
+    "latitude": 42.814167,
+    "longitude": -73.937222
   },
   {
-    congregation: "deerpark-drc",
-    name: "Deerpark Dutch Reformed",
-    filename:
+    "congregation": "deerpark-drc",
+    "name": "Deerpark Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/deerpark-drc/deerpark-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 41.45,
-    longitude: -74.65
+    "denomination": "dutch reformed",
+    "latitude": 41.45,
+    "longitude": -74.65
   },
   {
-    congregation: "helderburgh-drc",
-    name: "Helderburgh Dutch Reformed",
-    filename:
+    "congregation": "helderburgh-drc",
+    "name": "Helderburgh Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/helderburgh-drc/helderburgh-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 42.701389,
-    longitude: -73.925278
+    "denomination": "dutch reformed",
+    "latitude": 42.701389,
+    "longitude": -73.925278
   },
   {
-    congregation: "gravesend-drc",
-    name: "Graves End Dutch Reformed",
-    filename:
+    "congregation": "gravesend-drc",
+    "name": "Graves End Dutch Reformed",
+    "filename":
       "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/gravesend-drc/gravesend-drc_network.json",
-    denomination: "dutch reformed",
-    latitude: 40.598,
-    longitude: -73.971
+    "denomination": "dutch reformed",
+    "latitude": 40.598,
+    "longitude": -73.971
   }
 ]
