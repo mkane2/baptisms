@@ -178,5 +178,10 @@
     "denomination": "dutch reformed",
     "latitude": 40.598,
     "longitude": -73.971
-  }
+  },
+  {"congregation": "catskill-drc",
+                  "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/edge_lists/catskill-drc.csv",
+                  "denomination": "dutch reformed",
+                  "latitude": 42.221111,
+                  "longitude": -73.866389}
 ]
