@@ -22,5 +22,6 @@
 --
 
 ### Checking network duration
-1. Check for nodes with 50+ years in network: https://colab.research.google.com/drive/1WaXkbZXyKsxGnA5u9FJYI3AJ3k7LbyNC?usp=sharing
-2. Create edge lists: https://colab.research.google.com/drive/166044yxbexBKMnBYImJT8vulwHQ6UdXc?usp=sharing
+- Concat density files to make overtime.csv and get list of all nodes: https://colab.research.google.com/drive/15UnG9PGVVM-hfHTv1NpX4WZE-zdQc7Kj?usp=sharing
+- Check for nodes with 50+ years in network: https://colab.research.google.com/drive/1WaXkbZXyKsxGnA5u9FJYI3AJ3k7LbyNC?usp=sharing
+- Create edge lists: https://colab.research.google.com/drive/166044yxbexBKMnBYImJT8vulwHQ6UdXc?usp=sharing
