@@ -17,7 +17,7 @@ id,name,gender,race
 15,Dirk Cornelis,male,white
 16,Claes Janse,male,white
 17,Annatie Cornelis,female,white
-18,Geertie Gerritse,female,white
+18,Geertie 1 Gerritse,female,white
 19,Anna Hermense,female,white
 20,Laurus Duyts,unknown,white
 21,Geertie Jansz,female,white
@@ -37,11 +37,11 @@ id,name,gender,race
 35,Hermptje Hermens,unknown,white
 36,Arien van Laer,male,white
 37,Abigail Verplanck,female,white
-38,Casper Steynmets,male,white
+38,Casper 1 Steynmets,male,white
 39,Jannitie Gerritse,female,white
 40,Hendrick Reycken,male,white
 41,Eytje Jacobs,female,white
-42,Thomas Fredricksen,male,white
+42,Thomas 1 Fredricksen,male,white
 43,Maritie Ariaens,female,white
 44,Tys Lubberts,male,white
 45,Tryntie Jansz,female,white
@@ -71,10 +71,10 @@ id,name,gender,race
 69,Helmich Roelofse,unknown,white
 70,Jannitie Pieterse,female,white
 71,Peter Hesselse,male,white
-72,Elizabeth Gerritse,female,white
+72,Elizabeth 1 Gerritse,female,white
 73,Arien Pieterse Buys,male,white
 74,Tryntie Hendrickse Oosterum,female,white
-75,Adriaen Post,unknown,white
+75,Adriaen 1 Post,unknown,white
 76,Catharina Gerritse,female,white
 77,Staats de Groot,male,white
 78,Berber Caspers,female,white
@@ -104,9 +104,9 @@ id,name,gender,race
 102,Anna Steynmets,female,white
 103,Nicola De Voe,female,white
 104,Maria Csi,female,white
-105,Hendrick Hoppe,male,white
+105,Hendrick 1 Hoppe,male,white
 106,Maria Jansz,female,white
-107,Johannes Spier,male,white
+107,Johannes 1 Spier,male,white
 108,Maritie Franse,female,white
 109,Samuel de Maree,male,white
 110,Maria Druwen,female,white
@@ -166,14 +166,14 @@ id,name,gender,race
 164,Stintie Jansz,female,white
 165,Francois de Smidt,male,white
 166,Cathalina Coetens,unknown,white
-167,Jacob Jacobse van Winkel,male,white
+167,Jacob 1 Jacobse van Winkel,male,white
 168,Cristoffel Steynmets,male,white
 169,Johannes Michielse Vreelant,male,white
 170,Claes Dirckse Braack,male,white
 171,Cornelius Doremus,male,white
 172,Jannitie Joris van Elslant,female,white
 173,Catharina Poulus,female,white
-174,Cornelis van de Voorst,male,white
+174,Cornelis 1 van de Voorst,male,white
 175,Feytie Gerritse,female,white
 176,Freyntje Pieterse,unknown,white
 177,Simon Jacobse van Winkel,male,white
@@ -215,12 +215,12 @@ id,name,gender,race
 213,Francois Post,male,white
 214,Mayke Kobus,female,white
 215,Jan Cristyn,male,white
-216,Helena Been,female,white
+216,Helena 1 Been,female,white
 217,Thomas Creeven,male,white
 218,Emmetje Eysbrants,female,white
 219,Abraham van Giesen,male,white
 220,Feytie Adrianse,female,white
-221,Robert Sickels,male,white
+221,Robert 1 Sickels,male,white
 222,Geertringt Redde,unknown,white
 223,Elizabeth van Kouwenhoven,female,white
 224,Isaac van Giesen,male,white
@@ -230,15 +230,15 @@ id,name,gender,race
 228,Elsie Pieterse,female,white
 229,Wander Diderick,male,white
 230,Aeltie Gerritse,female,white
-231,Andries Pryer,male,white
+231,Andries 1 Pryer,male,white
 232,Johanna Steynmets,female,white
-233,Geertie Juriansen,female,white
-234,Beletie Dirckse,female,white
+233,Geertie 1 Juriansen,female,white
+234,Beletie 1 Dirckse,female,white
 235,Feytie Andriesze,female,white
 236,Greetruy Riddenhars,unknown,white
 237,Jan Tomasen,male,white
-238,Feytie Vreelant,female,white
-239,Abraham Ackerman,male,white
+238,Feytie 1 Vreelant,female,white
+239,Abraham 1 Ackerman,male,white
 240,Aeltie van Laer,female,white
 241,Jan Bertingh,male,white
 242,Hillegont Jacobs,female,white
@@ -261,8 +261,8 @@ id,name,gender,race
 259,Johannes van der Hoeven,male,white
 260,Dorothea Jansz,female,white
 261,Barent Cristiaense,male,white
-262,Geertie Dirckse,female,white
-263,Johannes Vreelant,male,white
+262,Geertie 2 Dirckse,female,white
+263,Johannes 1 Vreelant,male,white
 264,Jacob Ralemont,male,white
 265,Pietertie Claese,male,white
 266,Abel Riddenhars,male,white
@@ -270,12 +270,12 @@ id,name,gender,race
 268,Claes Hartmansen Vreeland,male,white
 269,Jan Sip,male,white
 270,Johanna van de Voorst,female,white
-271,Ulrick Brouwer,male,white
+271,Ulrick 1 Brouwer,male,white
 272,Hester De Voe,female,white
 273,Rutger van Hoorn,male,white
 274,Neeltie Dirckse,female,white
 275,Abraham Vreelant,male,white
-276,Margriet van Winkel,female,white
+276,Margriet 1 van Winkel,female,white
 277,Jan van der Hoeven,male,white
 278,Jannitie van de Voorst,female,white
 279,Laurens van Galen,male,white
@@ -292,867 +292,935 @@ id,name,gender,race
 290,Barent Spier,male,white
 291,Cathalina Jacobs,unknown,white
 292,Dirk Barends,male,white
-293,Maritie Juriansen,female,white
-294,Enoch Michielse Vreelant,male,white
-295,Achtje van Hoorn,unknown,white
-296,Johannes Gerretsen van Wagening,male,white
-297,Cathalina Helmigs,unknown,white
-298,Mattheus de Mott,male,white
-299,Margriet Hendricks Brinkerhoff,female,white
-300,Neeltie Dirckx van Vechten,female,white
-301,Johannes Thomase,male,white
-302,Maritie van Deusen,female,white
-303,Evert Evertsen,male,white
-304,Catharina Lubberts,female,white
-305,Andries Hoppe,male,white
-306,Abigail Hoppe,female,white
-307,Harpert Gerbrantse,male,white
-308,Hillegont Merselis,female,white
-309,Margriet Blinkerhoff,female,white
-310,Roelof Helmighsen van Houten,male,white
-311,Achtje Vreelant,unknown,white
-312,Eva van Hoorn,female,white
-313,Benjamin Herrisnut,male,white
-314,Annatie Herrisnut,female,white
-315,Jannitie van Vorst,female,white
-316,Cornelius Blinkerhoff,male,white
-317,Adrian Vermeule,male,white
-318,Christina Fredrikse,female,white
-319,Hendrick Claasen Kuyper,male,white
-320,Jannitie Verkerk,female,white
-321,Abigail Ackerman,female,white
-322,Catharina van Blerkom,female,white
-323,Geertie Roos,female,white
-324,Judith Arentsen Toers,female,white
-325,Catlyntie Helmigs,female,white
-326,Daniel van Winkel,male,white
-327,Jannitie Cornelis,female,white
-328,Achtje Harmanssen Vreelant,unknown,white
-329,Tryntie Elyassen Vreelant,female,white
-330,Evert van Naamen,male,white
-331,Wyntie van Naaman,female,white
-332,Judith Toers,female,white
-333,Meyndert Gerbrantse,male,white
-334,Tryntie Jacobsen van Winkel,female,white
-335,Casper Pryer,male,white
-336,Saartje Adrianse,female,white
-337,Cornelius Gerbrantse,male,white
-338,Jannitie Spier,female,white
-339,Hendrick Sickels,male,white
-340,Geertie Fredrikse,female,white
-341,Jacob Gerretsen van Wagening,male,white
-342,Lea Gerritse,female,white
-343,Johannes Helmegsen van Houten,male,white
-344,Greetruy Fredrikse,unknown,white
-345,Marthen Wennem,female,white
-346,Jannetie Vreelant,female,white
-347,Peter Merselis,male,white
-348,Tanneke Pryer,female,white
-349,Johannes Johanisen Vreeland,male,white
-350,Annatie Dirckse,female,white
-351,Catharina Cuyper,female,white
-352,Sara Adrianse,female,white
-353,Ide Sip,unknown,white
-354,Annatie van Wagenen,female,white
-355,Michael Hartmansen Vreeland,male,white
-356,Helena Johanisen Vreeland,female,white
-357,Hendrick van der Hoeven,male,white
-358,Eva Slot,female,white
-359,Zacharias Sickels,male,white
-360,Ariaentie Harmanssen Vreelant,female,white
-361,Paulus Mattheeusen,male,white
-362,Helena Spier,female,white
-363,Cornelius Gerretsen,male,white
-364,Aeltie van Winkel,female,white
-365,Johannes Sickels,male,white
-366,Claes Blinkerhoff,male,white
-367,Jurian Gerretsen,male,white
-368,Margriet Diderix,female,white
-369,Morgen Schmidt,unknown,white
-370,Catharina Tades,female,white
-371,Michael Cornelise Vreland,male,white
-372,Jenneke Helmegsen van Houten,female,white
-373,Jannitie Johanisen Vreeland,female,white
-374,Harman Steynmets,male,white
-375,Elsie Couwenhoven,female,white
-376,Jacob Brouwer,male,white
-377,Lea Slot,female,white
-378,Arend Toers,male,white
-379,Annatie Spier,female,white
-380,Peter Maerle,male,white
-381,Maritie Adrianse,female,white
-382,Johannes Cavelier,male,white
-383,Cathalina Cavelier,unknown,white
-384,Jenneke Pryer,female,white
-385,Jan Hendriksz,male,white
-386,Annatie Pryer,female,white
-387,John Diderix,male,white
-388,Geertie van Winkel,female,white
-389,Abraham Spier,male,white
-390,Paulus van Nieuwkerk,male,white
-391,Joris Enogsen Vreelant,male,white
-392,Annatie van Winkel,female,white
-393,Dirk Fredricksen,male,white
-394,Jannitie van Hoorn,female,white
-395,Peter Stuyvesant,male,white
-396,Pryntie Pryer,unknown,white
-397,Hendrick van Winkel,male,white
-398,Catharina Waldron,female,white
-399,Katie Tades,female,white
-400,Cornelius Diderix,male,white
-401,Annatie Roos,female,white
-402,Annatie Gerritse,female,white
-403,William Sickels,male,white
-404,Elizabeth Kuypers,female,white
-405,Geertie Hennion,female,white
-406,Maritie van Vorst,female,white
-407,Dirk Cadmus,male,white
-408,Jenneke van Houten,female,white
-409,Geertie Nieukerk,female,white
-410,Sara Ackerman,female,white
-411,Helmich van Wagenen,unknown,white
-412,Maritie Blinkerhoff,female,white
-413,Rachel van Winkel,female,white
-414,Benjamin Spier,male,white
-415,Maritie Spier,female,white
-416,Joris Vreelant,male,white
-417,Paulus Nieukerk,male,white
-418,Maria van de Voorst,female,white
-419,Geertie Romme,female,white
-420,Abraham Sickels,male,white
-421,Achtje Blinkerhoff,unknown,white
-422,Joseph Waldron,male,white
-423,Aaftje Heilhaaken,unknown,white
-424,Tryntie van Winkel,female,white
-425,Abraham Diderix,male,white
-426,Geertie Bon,female,white
-427,Geertie van Nieuwkerk,female,white
-428,Johannes Diderix,male,white
-429,Hester Vreelant,female,white
-430,Hendrick van der Hoef,male,white
-431,Cornelius Juriansen,male,white
-432,Peter van Benthuysen,male,white
-433,Margriet Olpherts,female,white
-434,Eva Heilhaaken,female,white
-435,Michael Vreelant Else,male,white
-436,Jan van Hoorn,male,white
-437,Helena Sip,female,white
-438,Jacob van Wagenen,male,white
-439,Jannitie van Houten,female,white
-440,Mattheus Ariens,male,white
-441,Sophia van Vorst,female,white
-442,Abraham van Tuyl,male,white
-443,Mattie Vreelant,female,white
-444,Jacob Diderix,male,white
-445,Jannitie van Winkel,female,white
-446,Albert Spier,male,white
-447,Osseltje Westervelt,female,white
-448,Johannes Everse,male,white
-449,Seytje Spier,unknown,white
-450,Maria Vos,female,white
-451,Seydke Everse,unknown,white
-452,Abraham Pryer,male,white
-453,Maritie Sickels,female,white
-454,Cornelius Boskerk,male,white
-455,Beletie van Wagenen,female,white
-456,Johannes Pryer,male,white
-457,Geertie Sickels,female,white
-458,Harman Veeder,male,white
-459,Annatie Hennion,female,white
-460,Cornelius van Wagenen,male,white
-461,Johannes Juriansen,male,white
-462,Annatie Winne,female,white
-463,Dirk Vreelant,male,white
-464,Niesse Neefje,female,white
-465,Johannes Johannise van Wagenen,male,white
-466,Niesse van Wagenen,female,white
-467,Joris Cadmus,male,white
-468,Annatie van Hoorn,female,white
-469,John York,male,white
-470,Elizabeth Ovenmoef,female,white
-471,Livinas Winne,unknown,white
-472,Annatie Sip,female,white
-473,Merselis Merselis,unknown,white
-474,Elizabeth Vliereboom,female,white
-475,Achtje Sickels,unknown,white
-476,Mattheus Everse,male,white
-477,Hendrick Fielding,male,white
-478,Achtje van Winkel,unknown,white
-479,Helmich van Houten,unknown,white
-480,Cornelius Vreelant,male,white
-481,Catharina Cadmus,female,white
-482,Rachel Kammegaar,female,white
-483,Claes Vreelant,male,white
-484,Cathalina Sip,unknown,white
-485,William Jackson,male,white
-486,Annatie Vreelinghuysen,female,white
-487,Abel de Grau,male,white
-488,Mayke van Idesteyn,female,white
-489,Helmich Vreelant,unknown,white
-490,Neeltie van Hoorn,female,white
-491,Jacobus Schmidt,male,white
-492,Jannitie Buys,female,white
-493,Ide Merselis,unknown,white
-494,Adriaantje Sip,unknown,white
-495,Peter de Groot,male,white
-496,Hester Brouwer,female,white
-497,Johannes Winne,male,white
-498,Aeltie Dirckse,female,white
-499,Aeltie Vreelant,female,white
-500,Gerbrant Gerbrantse,unknown,white
-501,Catharina Spier,female,white
-502,Aeltie Juriansen,female,white
-503,Aegie van Winkel,female,white
-504,Casper Stuyvesant,male,white
-505,Sara Couwenhoven,female,white
-506,William Androw Donen,male,white
-507,Catharina French,female,white
-508,Annatie Vreelant,female,white
-509,Aeltie Diderix,female,white
-510,Nicholas Pryer,male,white
-511,Hester Banta,female,white
-512,Seel Merselis,unknown,white
-513,Annatie Bessed,female,white
-514,Johannes Brouwer,male,white
-515,Daniel Solder,male,white
-516,Jacomin Toers,female,white
-517,Mayke Tades,female,white
-518,Aegie Vreelant,female,white
-519,Daniel van Reype,male,white
-520,Elizabeth Terhuen,female,white
-521,Johannes van Houten,male,white
-522,Aeltie Sickels,female,white
-523,Cornelius Sip,male,white
-524,Beletie Vreelant,female,white
-525,Henry Fielden,male,white
-526,Annatie Diderix,female,white
-527,Geertie Sip,female,white
-528,Jenneke Merselis,female,white
-529,Aeltie van Reype,female,white
-530,Johannes van Hoorn,male,white
-531,Beletie van Reype,female,white
-532,Johannes Post,male,white
-533,Catharina Rutan,female,white
-534,Jacobus Calyer,male,white
-535,Geertie Diderix,female,white
-536,Egbert Post,male,white
-537,Saartje Stuyvesant,female,white
-538,Mattheus Nieukerk,male,white
-539,Catlyntie Toers,female,white
-540,Tammi Ellen,female,white
-541,Elizabeth Poulus,female,white
-542,Geertie Banta,female,white
-543,Neeltie Gerbrantse,female,white
-544,Hermanis Veeder,unknown,white
-545,Barnabas Day,male,white
-546,Maria Berdet,female,white
-547,Christian Cemmel,male,white
-548,Dirk Verveelen,male,white
-549,Daniel Diderix,male,white
-550,Aegie Sickels,female,white
-551,Katie Hoogland,female,white
-552,Barent Nieukerk,male,white
-553,Annatie Toers,female,white
-554,Jacob Vreelant,male,white
-555,Maritie Banta,female,white
-556,Tietye Verveelen,unknown,white
-557,Abraham Toers,male,white
-558,Frenkye Santfort,unknown,white
-559,Daniel Sickels,male,white
-560,Geertie van der Hoef,female,white
-561,Saartje Pryer,female,white
-562,Geertie van Reype,female,white
-563,Jannitie Diderix,female,white
-564,Billi Erle,unknown,white
-565,Catharina Buys,female,white
-566,Polly Berdet,female,white
-567,Nicholas Toers,male,white
-568,Jannitie van Reype,female,white
-569,Saartje Couwenhoven,female,white
-570,Jenneke Stuyvesant,female,white
-571,Mayke Eydestyn,female,white
-572,Jacob Nieukerk,male,white
-573,Feytie Hennion,female,white
-574,Helena de Maree,female,white
-575,Petrus van der Hoef,male,white
-576,Rachel van Blerkom,female,white
-577,Wyntie der Jee,female,white
-578,Jannitie Kip,female,white
-579,Jannitie van Saan,female,white
-580,Daniel Erle,male,white
-581,Maritie Wilyems,female,white
-582,Sara Pryer,female,white
-583,Sara Waldron,female,white
-584,Enoch Vreelant,male,white
-585,Katie Kip,female,white
-586,Sara Stuyvesant,female,white
-587,Cornelius Erle,male,white
-588,Elizabeth Donkim,female,white
-589,Jannitie Brouwer,female,white
-590,Peter Kool,male,white
-591,Susanna Lattoret,female,white
-592,Koobes Makniel,male,white
-593,Annatie Lisk,female,white
-594,Betye Terhuen,unknown,white
-595,Ariaentie Schmidt,female,white
-596,Cornelia Hoogland,female,white
-597,Isaac van Gelder,male,white
-598,Elizabeth Wekken,female,white
-599,Johannes Buys,male,white
-600,Helena Merselis,female,white
-601,Rachel van der Hoef,female,white
-602,Elizabeth Gerbrantse,female,white
-603,John Meyer,male,white
-604,Elizabeth Meyer,female,white
-605,Jacob Gerbrantse,male,white
-606,Katie Erle,female,white
-607,Nettennel Erle,unknown,white
-608,Polly Erle,female,white
-609,Jacob Pryer,male,white
-610,Sally Eiddem,female,white
-611,Nancy Bessed,female,white
-612,Sally Pier,female,white
-613,Johannes Mutsker,male,white
-614,Jannitie Fielden,female,white
-615,Nicholas Lisier,male,white
-616,Maritie Kroesen,female,white
-617,John Buys,male,white
-618,Annatie Merselis,female,white
-619,Isaac Jansen,male,white
-620,Jannitie Boerum,female,white
-621,Catlyntie van Wagenen,female,white
-622,Jacob van Hoorn,male,white
-623,Catharina Stuyvesant,female,white
-624,Jorg Wels,male,white
-625,Loos Gilbert,unknown,white
-626,Gileam Outwater,unknown,white
-627,Johannes Merselis,male,white
-628,Wiert Banta,unknown,white
-629,Lea de Groot,female,white
-630,Peter Cadmus,male,white
-631,Blandina Kip,female,white
-632,Jurrie Collard,male,white
-633,Polly Toeder,female,white
-634,Polly van Waert,female,white
-635,John Vreelant,male,white
-636,Katie de Maree,female,white
-637,Leevey Raeft,unknown,white
-638,Sara Buys,female,white
-639,John Wieller,male,white
-640,Elizabeth Bertolf,female,white
-641,Sara Spier,female,white
-642,Richard Boskerk,male,white
-643,Sara Broeks,female,white
-644,Stintie Eydersteyn,female,white
-645,Barent van Nieuwkerk,male,white
-646,Aegie Blinkerhoff,female,white
-647,Harman Gardenier,male,white
-648,Maria Rutan,female,white
-649,Catharina Klyndinney,female,white
-650,Jan Merselis,male,white
-651,Walter Klyndinney,male,white
-652,John Ackerman,male,white
-653,Annatie Demsei,female,white
-654,Kobes van Gelder,unknown,white
-655,Helena Gerbrantse,female,white
-656,Antibby Erle,unknown,white
-657,Elizabeth Edsall,female,white
-658,Rachel de Maree,female,white
-659,Sally Iddo,female,white
-660,Catharina van Reype,female,white
-661,John Smith,male,white
-662,Nancy de Maree,female,white
-663,Aegie Fielden,female,white
-664,Hendrick Ackerman,male,white
-665,Rebecca Halenbeek,female,white
-666,Thomas Cubberley,male,white
-667,Maria Mersaro,female,white
-668,Hendrick Nieukerk,male,white
-669,Jenneke Vreelant,female,white
-670,Hendrick Blinkerhoff,male,white
-671,Lea van Wagenen,female,white
-672,Geertie Kog,female,white
-673,Geertie Vreelant,female,white
-674,Jannitie Cadmus,female,white
-675,Jannitie Blinkerhoff,female,white
-676,Jacob Everse,male,white
-677,Catharina Smith,female,white
-678,John Gerritse,male,white
-679,Mattie Cadmus,female,white
-680,Polly Misyero,female,white
-681,Barent Everse,male,white
-682,Jeinie MacDaniel,unknown,white
-683,David Hennion,male,white
-684,Catlyntie Everse,female,white
-685,James Dad,male,white
-686,Maritie van Scheyve,female,white
-687,Johannes Collard,male,white
-688,Geertie Pryer,female,white
-689,Jurrie van Winkel,male,white
-690,John van Houten,male,white
-691,Annatie Collard,female,white
-692,Sara Griffins,female,white
-693,Katie Klyndinney,female,white
-694,John Killi,male,white
-695,Lea Diderix,female,white
-696,Joris Shipper,male,white
-697,Catharina van Winkel,female,white
-698,Jannitie MacDaniel,female,white
-699,Sally Griffins,female,white
-700,Abel Smith,male,white
-701,Rachel Douwe,female,white
-702,Casper Sebriskie,male,white
-703,Jannitie Gerbrantse,female,white
-704,John Shipper,male,white
-705,Katie Baelden,female,white
-706,Abraham van Winkel,male,white
-707,Annatie Klyndinney,female,white
-708,Eleanor Toers,female,white
-709,Hendrick Banta,male,white
-710,Benjamin Etli,male,white
-711,Pekkee Brouyer,unknown,white
-712,Arei Banta,unknown,white
-713,Helena Westervelt,female,white
-714,Joris Spier,male,white
-715,Ned de Vael,male,white
-716,Nancy Don,female,white
-717,John Blinkerhoff,male,white
-718,Sally Smith,female,white
-719,Nancy Klyndinney,female,white
-720,Thomas MacDaniel,male,white
-721,Annatie van Scheyve,female,white
-722,Adam Rap,male,white
-723,Ariaentie Pryer,female,white
-724,Michael de Mott,male,white
-725,Maritie Manderviel,female,white
-726,Helena Vreelant,female,white
-727,Jannitie Deryee,female,white
-728,Hartman Pryer,male,white
-729,Santye Post,unknown,white
-730,Rachel Sickels,female,white
-731,Casper Cadmus,male,white
-732,Catlyntie Dad,female,white
-733,Cornelius van Reype,male,white
-734,Elizabeth Vreelant,female,white
-735,Helena van Hoorn,female,white
-736,Jannitie Winne,female,white
-737,John Day,male,white
-738,Femmetye Creen,unknown,white
-739,Polly Ackerman,female,white
-740,Joris Sippe,male,white
-741,Annatie Lukas,female,white
-742,Coenel Klopper,unknown,white
-743,Peter Marse,male,white
-744,Maritie Loockermans,female,white
-745,Anna Stuyvesant,female,white
-746,Peter Jansen,male,white
-747,Harman Eduwaertse,male,white
-748,N Bayard,unknown,white
-749,Paulus Cornelis,male,white
-750,Hans Kierstede,male,white
-751,Peter Janse Steenhalder,male,white
-752,Simon Carelse,male,white
-753,Abraham van Laer,male,white
-754,Hans Diderix,male,white
-755,Jan Loserecht,male,white
-756,Michael Tades,male,white
-757,Cornelius Abramze,male,white
-758,Warnear Wessels,unknown,white
-759,Dirk Claesen Braack,male,white
-760,Englebert Steynmets,unknown,white
-761,Jacob Cornelis,male,white
-762,R van Giesen,unknown,white
-763,Tys Barends,male,white
-764,Guert Koerten,unknown,white
-765,Jan Cornelis Buys,male,white
-766,Dirk Gerritse,male,white
-767,William Hoppe,male,white
-768,Jan Streycker,male,white
-769,Jacob Lubi,male,white
-770,Jan Davids,male,white
-771,Peter Corsen,male,white
-772,Hans Dirckse,male,white
-773,Johannes Steynmets,male,white
-774,Kersten de Schemaker,unknown,white
-775,Cornelius Thomase,male,white
-776,Mattheus Hoppe,male,white
-777,Nicola de Pree,female,white
-778,Josias Marse,male,white
-779,Roelof Lubberts,male,white
-780,Cristoffel Kabasje,male,white
-781,Jacob Jansz van der Bild,male,white
-782,Jan Aerts van de Bilt,male,white
-783,Hessel Wiggertse,male,white
-784,Paulus Turk,male,white
-785,Abraham Cornelis,male,white
-786,Jan Herperingh,male,white
-787,William Jansen,male,white
-788,Jan Arentse Toers,male,white
-789,Elias Michielse Vreelant,male,white
-790,Adam Corle,male,white
-791,Jan Berberno,male,white
-792,Jan Pieter Slot,male,white
-793,Harman Gerritse,male,white
-794,Teunis Jansen,male,white
-795,Marthen Poulus,female,white
-796,??? Hermense,unknown,white
-797,Geertie van Houten,female,white
-798,William Merry,male,white
-799,Jan Willemse van Deventer,male,white
-800,Johannes van Giesen,male,white
-801,Lodewick Ackerman,male,white
-802,Jacob Hendriksz,male,white
-803,Jos Steynmets,male,white
-804,Thomas Louerse,male,white
-805,Mr B Baeyert,male,white
-806,Hartman Vreelant,male,white
-807,Tyme Jansen Valentyn,unknown,white
-808,Gisbert Jansen,male,white
-809,Jacob Elyassen Vreelant,male,white
-810,Wander Dirckse,male,white
-811,David Willemsz,male,white
-812,Cornelius Beling,male,white
-813,William Bogert,male,white
-814,Harman Juriansen,male,white
-815,Jacob Swaan,male,white
-816,Cornelius Helmigs,male,white
-817,Hendrick Bertolf,male,white
-818,Arien Sip,male,white
-819,Carel Jacobs,male,white
-820,David Coesaerdt,male,white
-821,Antoine de Mott,male,white
-822,Rut van Hoorn,female,white
-823,Evert Duyke,male,white
-824,Dirk Hendricksen Brinkerhoff,male,white
-825,Roelof Verkerk,male,white
-826,Cornelis van Vorst,male,white
-827,Claes Harmanssen Vreelant,male,white
-828,Geertie van Gelder,female,white
-829,??? Pieterse,unknown,white
-830,Geertie Claas Kuyper,female,white
-831,Jacobus Blinkerhoff,male,white
-832,Abraham Adrianse,male,white
-833,Abraham Brasen,male,white
-834,Thomas Pier,male,white
-835,Dirk Blinkerhoff,male,white
-836,Dirk van Hoorn,male,white
-837,Johannes Pieterse,male,white
-838,Hendrick Stoothoff,male,white
-839,Cornelius Mattheeusen,male,white
-840,Marthen Winne,female,white
-841,Johannes de Groot,male,white
-842,David Abeel,male,white
-843,Johannes Tades,male,white
-844,Zacharias Ziegelse,male,white
-845,Ide Sip Antje,unknown,white
-846,Paulus Matteusse Judik,male,white
-847,Jacob Tomasen,male,white
-848,Jacob Pier,male,white
-849,Hendrick Cuyper,male,white
-850,Hendrick Spier,male,white
-851,Michael Harmanssen Vreelant,male,white
-852,Daniel Waldron,male,white
-853,Geertie Kroese,female,white
-854,Hendrick de Mott,male,white
-855,Thomas Outwater,male,white
-856,Hessel Pieters van Wagening,male,white
-857,Abraham Brouwer,male,white
-858,Thomas Vos,male,white
-859,Johannes Westervelt,male,white
-860,Johannes Dirckse,male,white
-861,Hartman Blinkerhoff,male,white
-862,Abraham Dirckse,male,white
-863,Michael Hendrickse Vreland,male,white
-864,Hendrick Sabriskie,male,white
-865,Peter Adolf,male,white
-866,Abraham Cadmus,male,white
-867,Teunis Gerbrantse,male,white
-868,Patrick Jackson,male,white
-869,Daniel Salders,male,white
-870,Gorge Fielding,unknown,white
-871,James Kalyer,male,white
-872,Cornelius Dirckse,male,white
-873,Hartman Sickels,male,white
-874,Michael Buys,male,white
-875,Hendrick Kuyser,male,white
-876,Anna Miller,female,white
-877,Johannes Bon,male,white
-878,Martynes Schoonmaker,unknown,white
-879,Joris Stek,male,white
-880,Joost Sabriskie,male,white
-881,Isaac Buys,male,white
-882,Jacob de Mott,male,white
-883,Joseph van Winkel,male,white
-884,Johannes van Waert,male,white
-885,Annatie van der Spiegel,female,white
-886,Abraham Rutan,male,white
-887,Claes de Mott,male,white
-888,James Collard,male,white
-889,Peter Simmensen,male,white
-890,Tewes Nieukerk,unknown,white
-891,Jannitie Banta,female,white
-892,Kobes Brouwer,unknown,white
-893,Cornelius Corsen,male,white
-894,Daniel Verveelen,male,white
-895,Isaac van Saan,male,white
-896,Saartje Ackerman,female,white
-897,Jacobus van der Hoef,male,white
-898,Rut van Bront,female,white
-899,Albert Terhuen,male,white
-900,Johannes de Maree,male,white
-901,Geertie Kogh,female,white
-902,Lucas van Blerkom,male,white
-903,Johannes van Reype,male,white
-904,John Bon,male,white
-905,Daniel Fish,male,white
-906,Maritie van der Hoef,female,white
-907,Gergs Maeds,unknown,white
-908,Claes van Houten,male,white
-909,Nelley Klyndinney,unknown,white
-910,Jacob Merselis,male,white
-911,Samuel Berdet,male,white
-912,Hendrick Erle,male,white
-913,Patrick Reyli,male,white
-914,Peter Sip,male,white
-915,Arend Nieukerk,male,white
-916,Stintie Jacobs,female,white
-917,Maritie Lukas,female,white
-918,Jannitie Steynmets,female,white
-919,wife of Pieter Mercelis,female,white
-920,Maritie Cornelis,female,white
-921,Aeltie van Kouwenhoven,female,white
-922,wife of Casperus Steynmets,female,white
-923,Harman Smee,male,white
-924,Tryntie Simons,female,white
-925,Hendrick Wessels,male,white
-926,Maria Vermeulen,female,white
-927,wife of Pieter Janse Steenhalder,female,white
-928,Carel Carelse,male,white
-929,Maritie Wernaers,female,white
-930,Geertie Cornelis,female,white
-931,Freytje Hertmans,unknown,white
-932,Annatie Hendriksz,female,white
-933,wife of Dirck Gerrits,female,white
-934,Greetruy Gerritse,unknown,white
-935,wife of Gerbrant Claese,female,white
-936,Susanna Corsen,female,white
-937,Cornelius Jansen,male,white
-938,Margriet Krets,female,white
-939,wife of Jacob Jacobse,female,white
-940,wife of Hans Diderickse,female,white
-941,wife of David de Maree,female,white
-942,Barent Hendriksz,male,white
-943,Minouw Poulus,unknown,white
-944,Maria de Maree,female,white
-945,wife of Sibi Epkese,female,white
-946,Annatie Ackerman,female,white
-947,wife of Josias Marse,female,white
-948,Wyntie Cornelis,female,white
-949,wife of Jan Lubbertse,female,white
-950,wife of Nicola de Vouw,female,white
-951,Ariaentie Michielse,female,white
-952,wife of Lubbert Lubbertse,female,white
-953,Geertie Hoppe,female,white
-954,Hester Hanse,female,white
-955,Willempje Tysen,female,white
-956,Annatie van de Voorst,female,white
-957,wife of Hertman Magielse,female,white
-958,Jannitie Barends,female,white
-959,wife of Wilem Jansen,female,white
-960,Mayke Thomase,female,white
-961,Aeltie Bogerts,female,white
-962,wife of Johannes Spier,female,white
-963,Margriet Wernaers,female,white
-964,Maria Dortusee,female,white
-965,Anna Jacobs,female,white
-966,wife of Helmigh Roelofse,female,white
-967,Dirk van Giesen,male,white
-968,Maritie Tonis,female,white
-969,Christina Poulus,female,white
-970,Elizabeth Elysabeth,female,white
-971,Ariaentie Steynmets,female,white
-972,Joanna van Voorst Bertholf,female,white
-973,Joanna Pieterse,female,white
-974,Jannitie Thomase,female,white
-975,Andries Claese,male,white
-976,Hillegont Verplanck,female,white
-977,Margriet Wande,female,white
-978,Annatie Cornelis van de Voorst,female,white
-979,Geertie Wessels,female,white
-980,Mattie Jacobs,female,white
-981,Maria Sichgels,female,white
-982,Tryntie Hanse,female,white
-983,Ursuleena Steynmets,unknown,white
-984,Claes Braack,male,white
-985,Dieuwer Hendriksz,male,white
-986,Maritie Baeyert,female,white
-987,Maritie Rutger,female,white
-988,Geertie Claese,female,white
-989,Susanna De Voe,female,white
-990,Hester Jansz,female,white
-991,Sara Bartolfs,female,white
-992,Hendrick Buys,male,white
-993,Maritie van Neste,female,white
-994,Elizabeth Merselis,female,white
-995,Feytie Cornelise Vreland,female,white
-996,Annatie Walingh,female,white
-997,Hildegond Joris,female,white
-998,Cathalina Helmens,unknown,white
-999,Feytie Cornelis,female,white
-1000,Rachel Vreelant,female,white
-1001,Saartje van Neste,female,white
-1002,wife of Jan Sip,female,white
-1003,Maritie Hoppe,female,white
-1004,Maritie Vreelant,female,white
-1005,Maritie Gerbrantse,female,white
-1006,Annatie Haargjes,female,white
-1007,wife of Cornelis Vreelant,female,white
-1008,Neeltie van Vechten,female,white
-1009,Geertie van Deusen,female,white
-1010,Pryntie Smits,unknown,white
-1011,Annatie Seboy,female,white
-1012,Maritie Harmanssen Vreelant,female,white
-1013,Catharina Simons,female,white
-1014,Geertie Helmigs,female,white
-1015,wife of Cornelis van Vorst,female,white
-1016,wife of Cornelis Blinkerhof,female,white
-1017,wife of Cornelis Machielsen Vreelant,female,white
-1018,Aeltie Blinkerhoff,female,white
-1019,Tanneke Pieterse,female,white
-1020,wife of Johannes Gerretsen van Wagenen,female,white
-1021,Aeltie van Giesen,female,white
-1022,??? Paersel,unknown,white
-1023,wife of Helmig,female,white
-1024,Margriet de Mott,female,white
-1025,Neeltie Juriansen,female,white
-1026,Selytje Pryer,unknown,white
-1027,Margriet Banta,female,white
-1028,Elizabeth Brasen,female,white
-1029,Sophia Sickels,female,white
-1030,wife of Dirk Blinkerhoff,female,white
-1031,wife of Daniel van Winkel,female,white
-1032,wife of Dirk van Hoorn,female,white
-1033,wife of Cornelis Gerrebrantsen,female,white
-1034,wife of Hendrik Sikkels,female,white
-1035,wife of Johannis Pietersen,female,white
-1036,wife of Hendrik Stoothoff,female,white
-1037,Tanneke van de Voorst,female,white
-1038,Jannitie Mattheeusen,female,white
-1039,wife of Marten Winning,female,white
-1040,Helena Steynmets,female,white
-1041,wife of Jacob Garretsen van Wagening,female,white
-1042,wife of Gerret Juriaansen,female,white
-1043,wife of Abraham Vreeland,female,white
-1044,wife of Abraham Pier,female,white
-1045,wife of Rutger van Hoorn,female,white
-1046,wife of Michiel Hartmansen,female,white
-1047,wife of David Abeel,female,white
-1048,wife of Michiel Vreelant Else,female,white
-1049,Annatie Tades,female,white
-1050,wife of Johannes Helmegsen van Houten,female,white
-1051,wife of Ide Sip Antje,female,white
-1052,wife of Poulus Matteusse Judik,female,white
-1053,wife Jenneke,female,white
-1054,wife of Gerrit Roos,female,white
-1055,wife Antje Diederikz,female,white
-1056,wife of Jacob Pier,female,white
-1057,wife Catlyntje,female,white
-1058,wife of Jan van Hoorn,female,white
-1059,wife of Jacob van Wagening,female,white
-1060,wife of Barent Spier,female,white
-1061,wife of Ide Sip,female,white
-1062,wife of Juryan Gerrits,female,white
-1063,Cathalina van Houten,unknown,white
-1064,Sara Cuyper,female,white
-1065,Lea Spier,female,white
-1066,Geesje Spier,female,white
-1067,Cathalina Hafte,unknown,white
-1068,Jannitie Nieukerk,female,white
-1069,Maria Pels,female,white
-1070,Jannitie van Wagenen,female,white
-1071,Sara Slot,female,white
-1072,Elizabeth Juriansen,female,white
-1073,Anna Spier,female,white
-1074,Catharina Bon,female,white
-1075,Elizabeth Ackerman,female,white
-1076,Maria van Vorst,female,white
-1077,Greetruy Romme,unknown,white
-1078,Achtje de Groot,unknown,white
-1079,Geesje Blinkerhoff,female,white
-1080,Lea Juriansen,female,white
-1081,Margriet Dirckse,female,white
-1082,Jannitie Pryer,female,white
-1083,Maria Haring,female,white
-1084,Geertie Bras,female,white
-1085,Feytie van Winkel,female,white
-1086,Claes Winne,male,white
-1087,Elizabeth York,female,white
-1088,Maria Winne,female,white
-1089,Annatie Bos,female,white
-1090,Debora Fielding,female,white
-1091,Elizabeth Buys,female,white
-1092,Catharina Gerbrantse,female,white
-1093,Maritie van Reype,female,white
-1094,Susanna Bessed,female,white
-1095,Jannitie Sip,female,white
-1096,Annatie Terhuen,female,white
-1097,Lea Brouwer,female,white
-1098,Feytie van Houten,female,white
-1099,Annatie Jackson,female,white
-1100,Tryntie Gerbrantse,female,white
-1101,Femmetye van Tuyl,unknown,white
-1102,Catharina Nieukerk,female,white
-1103,Helena Bessed,female,white
-1104,Cornelius Hoogland,male,white
-1105,Jenneke Cadmus,female,white
-1106,Ariaentie van Reype,female,white
-1107,Neeltie Cadmus,female,white
-1108,Jannitie Ackerman,female,white
-1109,Maritie de Maree,female,white
-1110,wife of Johannes De Marre,female,white
-1111,Bekye Erle,unknown,white
-1112,Elizabeth Post,female,white
-1113,Rachel Banker,female,white
-1114,Annatie Bokkenhoven,female,white
-1115,Susanna Westervelt,female,white
-1116,Samalli Richard,unknown,white
-1117,Greetruy Sickels,unknown,white
-1118,Sara Iddo,female,white
-1119,Jannitie Toers,female,white
-1120,wife of Samuel Berdet,female,white
-1121,Elizabeth de Vael,female,white
-1122,Maritie Hennion,female,white
-1123,Jannitie Deryie,female,white
-1124,Jenneke Sip,female,white
-1125,Annatie Kalyer,female,white
-1126,Helena Everse,female,white
-1127,Jacomin Solders,female,white
-1128,Lukas Dirkse,male,white
-1129,Dirckje Meyers,male,white
-1130,Jannetje Magliese,female,white
-1131,Annetie Edsall,female,white
-1132,Swaentje Jans,unknown,white
-1133,his mother,male,white
-1134,Catreyna Crigers,unknown,white
-1135,Lourus Arentse Toers,unknown,white
-1136,Jan Pieterse Bos,male,white
-1137,Tonis Roelofsen,unknown,white
-1138,Lubbert Lubertse,male,white
-1139,Barent Vochst,male,white
-1140,Gerit Gerritse,unknown,white
-1141,Neeltje Dirckx widow of Jan van de Linden,female,white
-1142,David Ackerman,male,white
-1143,Catreyna Bevois,unknown,white
-1144,Jan Didericx,male,white
-1145,Jan Damarees,male,white
-1146,Gerrit Steynmets,male,white
-1147,Pieter Louersen,male,white
-1148,Gerrit Gerritsen,male,white
-1149,Roelof Westervelt,male,white
-1150,Jan Andresen,male,white
-1151,David de Maree,male,white
-1152,Hermanus Gerritse,male,white
-1153,Roelof Helmighsen,male,white
-1154,Ann Matkins,female,white
-1155,Mattewes Niewkerk,unknown,white
-1156,Annatie Josephs,female,white
+293,Elizabeth 2 Gerritse,female,white
+294,Maritie 1 Juriansen,female,white
+295,Enoch Michielse Vreelant,male,white
+296,Achtje van Hoorn,unknown,white
+297,Johannes Gerretsen van Wagening,male,white
+298,Cathalina Helmigs,unknown,white
+299,Mattheus de Mott,male,white
+300,Margriet Hendricks Brinkerhoff,female,white
+301,Neeltie Dirckx van Vechten,female,white
+302,Johannes Thomase,male,white
+303,Maritie van Deusen,female,white
+304,Evert Evertsen,male,white
+305,Catharina Lubberts,female,white
+306,Andries Hoppe,male,white
+307,Abigail Hoppe,female,white
+308,Harpert Gerbrantse,male,white
+309,Hillegont Merselis,female,white
+310,Margriet Blinkerhoff,female,white
+311,Roelof Helmighsen van Houten,male,white
+312,Achtje 1 Vreelant,unknown,white
+313,Eva van Hoorn,female,white
+314,Benjamin Herrisnut,male,white
+315,Annatie Herrisnut,female,white
+316,Jannitie van Vorst,female,white
+317,Cornelius 1 Blinkerhoff,male,white
+318,Adrian Vermeule,male,white
+319,Christina Fredrikse,female,white
+320,Hendrick Claasen Kuyper,male,white
+321,Jannitie Verkerk,female,white
+322,Abigail Ackerman,female,white
+323,Catharina van Blerkom,female,white
+324,Geertie Roos,female,white
+325,Judith Arentsen Toers,female,white
+326,Catlyntie Helmigs,female,white
+327,Daniel 1 van Winkel,male,white
+328,Jannitie Cornelis,female,white
+329,Achtje Harmanssen Vreelant,unknown,white
+330,Tryntie Elyassen Vreelant,female,white
+331,Evert van Naamen,male,white
+332,Wyntie van Naaman,female,white
+333,Judith Toers,female,white
+334,Meyndert 1 Gerbrantse,male,white
+335,Tryntie Jacobsen van Winkel,female,white
+336,Casper 1 Pryer,male,white
+337,Saartje Adrianse,female,white
+338,Cornelius 1 Gerbrantse,male,white
+339,Jannitie 1 Spier,female,white
+340,Hendrick 1 Sickels,male,white
+341,Geertie Fredrikse,female,white
+342,Jacob Gerretsen van Wagening,male,white
+343,Lea Gerritse,female,white
+344,Johannes Helmegsen van Houten,male,white
+345,Greetruy Fredrikse,unknown,white
+346,Marthen Wennem,female,white
+347,Jannetie 1 Vreelant,female,white
+348,Peter 2 Merselis,male,white
+349,Tanneke Pryer,female,white
+350,Johannes Johanisen Vreeland,male,white
+351,Annatie Dirckse,female,white
+352,Geertie 1 Matheus,female,white
+353,Catharina Cuyper,female,white
+354,Sara Adrianse,female,white
+355,Ide Sip,unknown,white
+356,Annatie 1 van Wagenen,female,white
+357,Johannes 2 Vreelant,male,white
+358,Michael Hartmansen Vreeland,male,white
+359,Elizabeth 3 Gerritse,female,white
+360,Helena Johanisen Vreeland,female,white
+361,Hendrick van der Hoeven,male,white
+362,Eva Slot,female,white
+363,Zacharias 1 Sickels,male,white
+364,Ariaentie Harmanssen Vreelant,female,white
+365,Paulus Mattheeusen,male,white
+366,Helena Spier,female,white
+367,Cornelius Gerretsen,male,white
+368,Aeltie van Winkel,female,white
+369,Johannes 1 Sickels,male,white
+370,Claes Blinkerhoff,male,white
+371,Jurian Gerretsen,male,white
+372,Margriet 1 Diderix,female,white
+373,Morgen Schmidt,unknown,white
+374,Catharina Tades,female,white
+375,Michael Cornelise Vreland,male,white
+376,Jenneke Helmegsen van Houten,female,white
+377,Jannitie Johanisen Vreeland,female,white
+378,Harman Steynmets,male,white
+379,Elsie Couwenhoven,female,white
+380,Jacob Brouwer,male,white
+381,Lea Slot,female,white
+382,Arend Toers,male,white
+383,Annatie Spier,female,white
+384,Peter Maerle,male,white
+385,Maritie Adrianse,female,white
+386,Johannes Cavelier,male,white
+387,Cathalina Cavelier,unknown,white
+388,Jenneke Pryer,female,white
+389,Geertie 3 Dirckse,female,white
+390,Jan Hendriksz,male,white
+391,Annatie Pryer,female,white
+392,John Diderix,male,white
+393,Geertie van Winkel,female,white
+394,Abraham 1 Spier,male,white
+395,Paulus van Nieuwkerk,male,white
+396,Joris Enogsen Vreelant,male,white
+397,Annatie van Winkel,female,white
+398,Dirk Fredricksen,male,white
+399,Jannitie van Hoorn,female,white
+400,Peter Stuyvesant,male,white
+401,Pryntie Pryer,unknown,white
+402,Hendrick 1 van Winkel,male,white
+403,Catharina Waldron,female,white
+404,Katie Tades,female,white
+405,Cornelius Diderix,male,white
+406,Annatie Roos,female,white
+407,Annatie Gerritse,female,white
+408,William Sickels,male,white
+409,Elizabeth Kuypers,female,white
+410,Geertie Hennion,female,white
+411,Maritie van Vorst,female,white
+412,Dirk Cadmus,male,white
+413,Jenneke van Houten,female,white
+414,Geertie Nieukerk,female,white
+415,Sara Ackerman,female,white
+416,Helmich van Wagenen,unknown,white
+417,Maritie Blinkerhoff,female,white
+418,Rachel van Winkel,female,white
+419,Benjamin Spier,male,white
+420,Maritie Spier,female,white
+421,Joris Vreelant,male,white
+422,Paulus Nieukerk,male,white
+423,Ulrick 2 Brouwer,male,white
+424,Maria van de Voorst,female,white
+425,Johannes 2 Spier,male,white
+426,Geertie Romme,female,white
+427,Abraham Sickels,male,white
+428,Achtje Blinkerhoff,unknown,white
+429,Joseph Waldron,male,white
+430,Aaftje Heilhaaken,unknown,white
+431,Tryntie van Winkel,female,white
+432,Abraham Diderix,male,white
+433,Geertie Bon,female,white
+434,Geertie van Nieuwkerk,female,white
+435,Johannes Diderix,male,white
+436,Hester Vreelant,female,white
+437,Hendrick van der Hoef,male,white
+438,Cornelius Juriansen,male,white
+439,Peter van Benthuysen,male,white
+440,Margriet Olpherts,female,white
+441,Eva Heilhaaken,female,white
+442,Michael 1 Vreelant Else,male,white
+443,Jan 2 van Hoorn,male,white
+444,Helena Sip,female,white
+445,Jacob van Wagenen,male,white
+446,Jannitie van Houten,female,white
+447,Mattheus Ariens,male,white
+448,Sophia van Vorst,female,white
+449,Abraham van Tuyl,male,white
+450,Mattie Vreelant,female,white
+451,Jacob Diderix,male,white
+452,Jannitie van Winkel,female,white
+453,Albert Spier,male,white
+454,Osseltje Westervelt,female,white
+455,Johannes Everse,male,white
+456,Seytje Spier,unknown,white
+457,Maria Vos,female,white
+458,Seydke Everse,unknown,white
+459,Abraham Pryer,male,white
+460,Maritie Sickels,female,white
+461,Cornelius Boskerk,male,white
+462,Beletie van Wagenen,female,white
+463,Johannes Pryer,male,white
+464,Geertie Sickels,female,white
+465,Harman Veeder,male,white
+466,Annatie Hennion,female,white
+467,Cornelius van Wagenen,male,white
+468,Helena 2 Been,female,white
+469,Johannes Juriansen,male,white
+470,Margriet 2 van Winkel,female,white
+471,Robert 2 Sickels,male,white
+472,Annatie Winne,female,white
+473,Dirk Vreelant,male,white
+474,Niesse Neefje,female,white
+475,Johannes Johannise van Wagenen,male,white
+476,Niesse van Wagenen,female,white
+477,Andries 2 Pryer,male,white
+478,Joris Cadmus,male,white
+479,Cornelis 2 van de Voorst,male,white
+480,Annatie van Hoorn,female,white
+481,John York,male,white
+482,Elizabeth Ovenmoef,female,white
+483,Livinas Winne,unknown,white
+484,Annatie Sip,female,white
+485,Merselis Merselis,unknown,white
+486,Elizabeth Vliereboom,female,white
+487,Abraham 2 Spier,male,white
+488,Achtje Sickels,unknown,white
+489,Mattheus Everse,male,white
+490,Hendrick Fielding,male,white
+491,Achtje van Winkel,unknown,white
+492,Helmich van Houten,unknown,white
+493,Cornelius 2 Vreelant,male,white
+494,Catharina Cadmus,female,white
+495,Cornelius 2 Gerbrantse,male,white
+496,Jannitie 1 van Hoorn,female,white
+497,Jacob 2 Jacobse van Winkel,male,white
+498,Rachel Kammegaar,female,white
+499,Claes Vreelant,male,white
+500,Cathalina Sip,unknown,white
+501,William Jackson,male,white
+502,Annatie Vreelinghuysen,female,white
+503,Abel de Grau,male,white
+504,Mayke van Idesteyn,female,white
+505,Helmich Vreelant,unknown,white
+506,Neeltie 2 van Hoorn,female,white
+507,Jacobus Schmidt,male,white
+508,Jannitie Buys,female,white
+509,Ide Merselis,unknown,white
+510,Adriaantje Sip,unknown,white
+511,Peter de Groot,male,white
+512,Hester Brouwer,female,white
+513,Johannes Winne,male,white
+514,Aeltie Dirckse,female,white
+515,Aeltie Vreelant,female,white
+516,Gerbrant Gerbrantse,unknown,white
+517,Catharina 2 Spier,female,white
+518,Daniel 2 van Winkel,male,white
+519,Aeltie 3 Juriansen,female,white
+520,Aegie van Winkel,female,white
+521,Casper Stuyvesant,male,white
+522,Sara Couwenhoven,female,white
+523,William Androw Donen,male,white
+524,Catharina French,female,white
+525,Annatie Vreelant,female,white
+526,Aeltie Diderix,female,white
+527,Nicholas Pryer,male,white
+528,Hester Banta,female,white
+529,Seel Merselis,unknown,white
+530,Annatie Bessed,female,white
+531,Johannes Brouwer,male,white
+532,Catharina 1 Waldron,female,white
+533,Daniel Solder,male,white
+534,Jacomin 2 Toers,female,white
+535,Mayke Tades,female,white
+536,Aegie 1 Vreelant,female,white
+537,Daniel van Reype,male,white
+538,Elizabeth Terhuen,female,white
+539,Johannes 1 van Houten,male,white
+540,Aeltie Sickels,female,white
+541,Cornelius Sip,male,white
+542,Beletie Vreelant,female,white
+543,Henry Fielden,male,white
+544,Annatie Diderix,female,white
+545,Geertie Sip,female,white
+546,Jenneke Merselis,female,white
+547,Aeltie van Reype,female,white
+548,Johannes van Hoorn,male,white
+549,Beletie van Reype,female,white
+550,Johannes Post,male,white
+551,Catharina Rutan,female,white
+552,Jacobus Calyer,male,white
+553,Geertie Diderix,female,white
+554,Egbert Post,male,white
+555,Saartje Stuyvesant,female,white
+556,Mattheus Nieukerk,male,white
+557,Catlyntie Toers,female,white
+558,Tammi Ellen,female,white
+559,Elizabeth Poulus,female,white
+560,Geertie 2 Banta,female,white
+561,Neeltie 2 Gerbrantse,female,white
+562,Hermanis Veeder,unknown,white
+563,Barnabas Day,male,white
+564,Maria Berdet,female,white
+565,Christian Cemmel,male,white
+566,Dirk Verveelen,male,white
+567,Daniel Diderix,male,white
+568,Aegie Sickels,female,white
+569,Katie Hoogland,female,white
+570,Barent Nieukerk,male,white
+571,Annatie Toers,female,white
+572,Jacob Vreelant,male,white
+573,Maritie Banta,female,white
+574,Tietye Verveelen,unknown,white
+575,Abraham Toers,male,white
+576,Frenkye Santfort,unknown,white
+577,Daniel Sickels,male,white
+578,Geertie van der Hoef,female,white
+579,Saartje Pryer,female,white
+580,Geertie van Reype,female,white
+581,Jannitie Diderix,female,white
+582,Billi Erle,unknown,white
+583,Catharina Buys,female,white
+584,Polly Berdet,female,white
+585,Nicholas Toers,male,white
+586,Jannitie van Reype,female,white
+587,Saartje Couwenhoven,female,white
+588,Hendrick 2 Sickels,male,white
+589,Jenneke Stuyvesant,female,white
+590,Mayke Eydestyn,female,white
+591,Jacob Nieukerk,male,white
+592,Feytie Hennion,female,white
+593,Helena de Maree,female,white
+594,Petrus van der Hoef,male,white
+595,Rachel van Blerkom,female,white
+596,Wyntie der Jee,female,white
+597,Cornelius 2 Blinkerhoff,male,white
+598,Jannitie Kip,female,white
+599,Jannitie van Saan,female,white
+600,Daniel Erle,male,white
+601,Maritie Wilyems,female,white
+602,Sara Pryer,female,white
+603,Johannes 2 Sickels,male,white
+604,Sara Waldron,female,white
+605,Enoch 2 Vreelant,male,white
+606,Katie Kip,female,white
+607,Sara Stuyvesant,female,white
+608,Cornelius Erle,male,white
+609,Elizabeth Donkim,female,white
+610,Hendrick 2 van Winkel,male,white
+611,Jannitie Brouwer,female,white
+612,Peter Kool,male,white
+613,Susanna Lattoret,female,white
+614,Koobes Makniel,male,white
+615,Annatie Lisk,female,white
+616,Betye Terhuen,unknown,white
+617,Ariaentie Schmidt,female,white
+618,Cornelia Hoogland,female,white
+619,Isaac van Gelder,male,white
+620,Elizabeth Wekken,female,white
+621,Johannes Buys,male,white
+622,Helena 2 Merselis,female,white
+623,Rachel van der Hoef,female,white
+624,Meyndert 2 Gerbrantse,male,white
+625,Elizabeth Gerbrantse,female,white
+626,John Meyer,male,white
+627,Elizabeth Meyer,female,white
+628,Jacob Gerbrantse,male,white
+629,Katie Erle,female,white
+630,Nettennel Erle,unknown,white
+631,Polly Erle,female,white
+632,Jacob Pryer,male,white
+633,Sally Eiddem,female,white
+634,Nancy Bessed,female,white
+635,Sally Pier,female,white
+636,Johannes Mutsker,male,white
+637,Jannitie Fielden,female,white
+638,Nicholas Lisier,male,white
+639,Maritie Kroesen,female,white
+640,John Buys,male,white
+641,Annatie Merselis,female,white
+642,Isaac Jansen,male,white
+643,Jannitie Boerum,female,white
+644,Catlyntie van Wagenen,female,white
+645,Jacob van Hoorn,male,white
+646,Catharina Stuyvesant,female,white
+647,Jorg Wels,male,white
+648,Loos Gilbert,unknown,white
+649,Gileam Outwater,unknown,white
+650,Johannes Merselis,male,white
+651,Wiert Banta,unknown,white
+652,Lea de Groot,female,white
+653,Peter Cadmus,male,white
+654,Blandina Kip,female,white
+655,Jurrie Collard,male,white
+656,Polly Toeder,female,white
+657,Polly van Waert,female,white
+658,John Vreelant,male,white
+659,Katie de Maree,female,white
+660,Leevey Raeft,unknown,white
+661,Sara Buys,female,white
+662,John Wieller,male,white
+663,Elizabeth Bertolf,female,white
+664,Sara Spier,female,white
+665,Richard Boskerk,male,white
+666,Sara Broeks,female,white
+667,Stintie Eydersteyn,female,white
+668,Barent van Nieuwkerk,male,white
+669,Aegie Blinkerhoff,female,white
+670,Harman Gardenier,male,white
+671,Maria Rutan,female,white
+672,Casper 2 Pryer,male,white
+673,Catharina Klyndinney,female,white
+674,Jan Merselis,male,white
+675,Walter Klyndinney,male,white
+676,John Ackerman,male,white
+677,Annatie Demsei,female,white
+678,Kobes van Gelder,unknown,white
+679,Sara 1 Ackerman,female,white
+680,Helena Gerbrantse,female,white
+681,Antibby Erle,unknown,white
+682,Elizabeth Edsall,female,white
+683,Rachel de Maree,female,white
+684,Sally Iddo,female,white
+685,Catharina van Reype,female,white
+686,John Smith,male,white
+687,Nancy de Maree,female,white
+688,Aegie Fielden,female,white
+689,Michael 2 Vreelant Else,male,white
+690,Hendrick Ackerman,male,white
+691,Rebecca Halenbeek,female,white
+692,Thomas Cubberley,male,white
+693,Maria Mersaro,female,white
+694,Hendrick Nieukerk,male,white
+695,Jenneke Vreelant,female,white
+696,Hendrick Blinkerhoff,male,white
+697,Lea van Wagenen,female,white
+698,Geertie Kog,female,white
+699,Geertie Vreelant,female,white
+700,Jannitie Cadmus,female,white
+701,Jannitie Blinkerhoff,female,white
+702,Jacob Everse,male,white
+703,Catharina Smith,female,white
+704,John Gerritse,male,white
+705,Mattie Cadmus,female,white
+706,Polly Misyero,female,white
+707,Barent Everse,male,white
+708,Jeinie MacDaniel,unknown,white
+709,David Hennion,male,white
+710,Catlyntie Everse,female,white
+711,James Dad,male,white
+712,Maritie van Scheyve,female,white
+713,Johannes Collard,male,white
+714,Geertie Pryer,female,white
+715,Jurrie van Winkel,male,white
+716,John van Houten,male,white
+717,Annatie Collard,female,white
+718,Sara Griffins,female,white
+719,Katie Klyndinney,female,white
+720,John Killi,male,white
+721,Lea Diderix,female,white
+722,Joris Shipper,male,white
+723,Catharina 2 van Winkel,female,white
+724,Jannitie MacDaniel,female,white
+725,Sally Griffins,female,white
+726,Abel Smith,male,white
+727,Rachel Douwe,female,white
+728,Casper Sebriskie,male,white
+729,Jan 3 van Hoorn,male,white
+730,Jannitie Gerbrantse,female,white
+731,John Shipper,male,white
+732,Katie Baelden,female,white
+733,Abraham van Winkel,male,white
+734,Annatie Klyndinney,female,white
+735,Zacharias 2 Sickels,male,white
+736,Eleanor Toers,female,white
+737,Hendrick Banta,male,white
+738,Margriet 2 Diderix,female,white
+739,Benjamin Etli,male,white
+740,Pekkee Brouyer,unknown,white
+741,Arei Banta,unknown,white
+742,Helena Westervelt,female,white
+743,Joris Spier,male,white
+744,Ned de Vael,male,white
+745,Nancy Don,female,white
+746,John Blinkerhoff,male,white
+747,Sally Smith,female,white
+748,Nancy Klyndinney,female,white
+749,Thomas MacDaniel,male,white
+750,Annatie van Scheyve,female,white
+751,Adam Rap,male,white
+752,Ariaentie Pryer,female,white
+753,Michael de Mott,male,white
+754,Maritie Manderviel,female,white
+755,Helena 1 Vreelant,female,white
+756,Peter 3 Merselis,male,white
+757,Jannitie Deryee,female,white
+758,Hartman Pryer,male,white
+759,Santye Post,unknown,white
+760,Adriaen 2 Post,unknown,white
+761,Rachel Sickels,female,white
+762,Casper Cadmus,male,white
+763,Catlyntie Dad,female,white
+764,Cornelius van Reype,male,white
+765,Elizabeth Vreelant,female,white
+766,Helena 1 van Hoorn,female,white
+767,Jannitie Winne,female,white
+768,John Day,male,white
+769,Femmetye Creen,unknown,white
+770,Polly Ackerman,female,white
+771,Joris Sippe,male,white
+772,Annatie Lukas,female,white
+773,Coenel Klopper,unknown,white
+774,Peter Marse,male,white
+775,Maritie Loockermans,female,white
+776,Anna Stuyvesant,female,white
+777,Peter Jansen,male,white
+778,Peter 1 Merselis,male,white
+779,Harman Eduwaertse,male,white
+780,N Bayard,unknown,white
+781,Paulus Cornelis,male,white
+782,Hans Kierstede,male,white
+783,Peter Janse Steenhalder,male,white
+784,Simon Carelse,male,white
+785,Abraham van Laer,male,white
+786,Hans Diderix,male,white
+787,Jan Loserecht,male,white
+788,Michael Tades,male,white
+789,Cornelius Abramze,male,white
+790,Warnear Wessels,unknown,white
+791,Dirk Claesen Braack,male,white
+792,Englebert Steynmets,unknown,white
+793,Jacob Cornelis,male,white
+794,R van Giesen,unknown,white
+795,Tys Barends,male,white
+796,Guert Koerten,unknown,white
+797,Jan Cornelis Buys,male,white
+798,Dirk Gerritse,male,white
+799,William Hoppe,male,white
+800,Jan Streycker,male,white
+801,Jacob Lubi,male,white
+802,Jan Davids,male,white
+803,Peter Corsen,male,white
+804,Hans Dirckse,male,white
+805,Johannes Steynmets,male,white
+806,Kersten de Schemaker,unknown,white
+807,Cornelius Thomase,male,white
+808,Mattheus Hoppe,male,white
+809,Nicola de Pree,female,white
+810,Josias Marse,male,white
+811,Roelof Lubberts,male,white
+812,Cristoffel Kabasje,male,white
+813,Jacob Jansz van der Bild,male,white
+814,Jan Aerts van de Bilt,male,white
+815,Hessel Wiggertse,male,white
+816,Paulus Turk,male,white
+817,Abraham Cornelis,male,white
+818,Jan Herperingh,male,white
+819,William Jansen,male,white
+820,Jan Arentse Toers,male,white
+821,Elias Michielse Vreelant,male,white
+822,Adam Corle,male,white
+823,Jan Berberno,male,white
+824,Jan Pieter Slot,male,white
+825,Harman Gerritse,male,white
+826,Teunis Jansen,male,white
+827,Marthen Poulus,female,white
+828,??? Hermense,unknown,white
+829,Geertie van Houten,female,white
+830,William Merry,male,white
+831,Jan Willemse van Deventer,male,white
+832,Johannes van Giesen,male,white
+833,Lodewick Ackerman,male,white
+834,Jacob Hendriksz,male,white
+835,Enoch 1 Vreelant,male,white
+836,Jos Steynmets,male,white
+837,Thomas Louerse,male,white
+838,Mr B Baeyert,male,white
+839,Cornelius 1 Vreelant,male,white
+840,Hartman 1 Vreelant,male,white
+841,Tyme Jansen Valentyn,unknown,white
+842,Gisbert Jansen,male,white
+843,Jacob Elyassen Vreelant,male,white
+844,Jan 1 van Hoorn,male,white
+845,Wander Dirckse,male,white
+846,David Willemsz,male,white
+847,Cornelius Beling,male,white
+848,William Bogert,male,white
+849,Harman Juriansen,male,white
+850,Jacob Swaan,male,white
+851,Cornelius Helmigs,male,white
+852,Hendrick Bertolf,male,white
+853,Arien Sip,male,white
+854,Carel Jacobs,male,white
+855,David Coesaerdt,male,white
+856,Antoine de Mott,male,white
+857,Rut van Hoorn,female,white
+858,Evert Duyke,male,white
+859,Dirk Hendricksen Brinkerhoff,male,white
+860,Roelof Verkerk,male,white
+861,Cornelis 1 van Vorst,male,white
+862,Claes Harmanssen Vreelant,male,white
+863,Geertie van Gelder,female,white
+864,??? Pieterse,unknown,white
+865,Geertie Claas Kuyper,female,white
+866,Jacobus Blinkerhoff,male,white
+867,Abraham Adrianse,male,white
+868,Abraham Brasen,male,white
+869,Thomas Pier,male,white
+870,Dirk Blinkerhoff,male,white
+871,Dirk van Hoorn,male,white
+872,Johannes Pieterse,male,white
+873,Hendrick Stoothoff,male,white
+874,Cornelius Mattheeusen,male,white
+875,Marthen 1 Winne,female,white
+876,Casper 2 Steynmets,male,white
+877,Johannes de Groot,male,white
+878,David Abeel,male,white
+879,Johannes Tades,male,white
+880,Zacharias Ziegelse,male,white
+881,Ide Sip Antje,unknown,white
+882,Paulus Matteusse Judik,male,white
+883,Jacob Tomasen,male,white
+884,Jacob Pier,male,white
+885,Johannes van Houten,male,white
+886,Hendrick Cuyper,male,white
+887,Johannes 1 Gerretsen van Wagening,male,white
+888,Hendrick Spier,male,white
+889,Michael Harmanssen Vreelant,male,white
+890,Cornelis 2 van Vorst,male,white
+891,Abraham 2 Ackerman,male,white
+892,Daniel Waldron,male,white
+893,Geertie Kroese,female,white
+894,Hendrick de Mott,male,white
+895,Thomas Outwater,male,white
+896,Hessel Pieters van Wagening,male,white
+897,Abraham Brouwer,male,white
+898,Thomas Vos,male,white
+899,Johannes Westervelt,male,white
+900,Johannes Dirckse,male,white
+901,Hartman Blinkerhoff,male,white
+902,Abraham Dirckse,male,white
+903,Michael Hendrickse Vreland,male,white
+904,Hendrick Sabriskie,male,white
+905,Peter Adolf,male,white
+906,Abraham Cadmus,male,white
+907,Teunis Gerbrantse,male,white
+908,Patrick Jackson,male,white
+909,Daniel Salders,male,white
+910,Gorge Fielding,unknown,white
+911,James Kalyer,male,white
+912,Cornelius Dirckse,male,white
+913,Hartman Sickels,male,white
+914,Michael Buys,male,white
+915,Hendrick Kuyser,male,white
+916,Anna Miller,female,white
+917,Johannes Bon,male,white
+918,Martynes Schoonmaker,unknown,white
+919,Joris Stek,male,white
+920,Joost Sabriskie,male,white
+921,Isaac Buys,male,white
+922,Jacob de Mott,male,white
+923,Joseph van Winkel,male,white
+924,Hartman 2 Vreelant,male,white
+925,Johannes van Waert,male,white
+926,Hendrick 1 Cuyper,male,white
+927,Annatie van der Spiegel,female,white
+928,Abraham Rutan,male,white
+929,Claes de Mott,male,white
+930,James Collard,male,white
+931,Peter Simmensen,male,white
+932,Tewes Nieukerk,unknown,white
+933,Jannitie Banta,female,white
+934,Kobes Brouwer,unknown,white
+935,Cornelius Corsen,male,white
+936,Daniel Verveelen,male,white
+937,Isaac van Saan,male,white
+938,Saartje Ackerman,female,white
+939,Jacobus van der Hoef,male,white
+940,Rut van Bront,female,white
+941,Albert Terhuen,male,white
+942,Johannes de Maree,male,white
+943,Geertie Kogh w Mattewes Niewkerk,female,white
+944,Lucas van Blerkom,male,white
+945,Johannes van Reype,male,white
+946,Casper 3 Steynmets,male,white
+947,John Bon,male,white
+948,Daniel Fish,male,white
+949,Maritie van der Hoef,female,white
+950,Gergs Maeds,unknown,white
+951,Claes van Houten w Hartman Blinkerhof,male,white
+952,Nelley Klyndinney,unknown,white
+953,Jacob Merselis,male,white
+954,Samuel Berdet,male,white
+955,Hendrick Erle,male,white
+956,Patrick Reyli,male,white
+957,Marthen 2 Winne,female,white
+958,Peter Sip,male,white
+959,Arend Nieukerk,male,white
+960,Stintie Jacobs,female,white
+961,Maritie Lukas,female,white
+962,Jannitie 1 Steynmets,female,white
+963,wife of Pieter Mercelis,female,white
+964,Maritie Cornelis,female,white
+965,Aeltie van Kouwenhoven,female,white
+966,wife of Casperus Steynmets,female,white
+967,Harman Smee,male,white
+968,Geertie 1 Dirckse,female,white
+969,Tryntie Simons,female,white
+970,Hendrick Wessels,male,white
+971,Maria Vermeulen,female,white
+972,wife of Pieter Janse Steenhalder,female,white
+973,Carel Carelse,male,white
+974,Maritie Wernaers,female,white
+975,Geertie Cornelis,female,white
+976,Freytje Hertmans,unknown,white
+977,Annatie Hendriksz,female,white
+978,wife of Dirck Gerrits,female,white
+979,Greetruy Gerritse,unknown,white
+980,wife of Gerbrant Claese,female,white
+981,Susanna Corsen,female,white
+982,Cornelius Jansen,male,white
+983,Margriet Krets,female,white
+984,wife of Jacob Jacobse,female,white
+985,wife of Hans Diderickse,female,white
+986,wife of David de Maree,female,white
+987,Barent Hendriksz,male,white
+988,Minouw Poulus,unknown,white
+989,Maria de Maree,female,white
+990,wife of Sibi Epkese,female,white
+991,Annatie Ackerman,female,white
+992,wife of Josias Marse,female,white
+993,Wyntie Cornelis,female,white
+994,wife of Jan Lubbertse,female,white
+995,wife of Nicola de Vouw,female,white
+996,Ariaentie Michielse,female,white
+997,wife of Lubbert Lubbertse,female,white
+998,Geertie Hoppe,female,white
+999,Hester Hanse,female,white
+1000,Willempje Tysen,female,white
+1001,Annatie van de Voorst,female,white
+1002,wife of Hertman Magielse,female,white
+1003,Jannitie Barends,female,white
+1004,Catharina 1 Spier,female,white
+1005,wife of Wilem Jansen,female,white
+1006,Mayke Thomase,female,white
+1007,Aeltie Bogerts,female,white
+1008,wife of Johannes Spier,female,white
+1009,Margriet Wernaers,female,white
+1010,Maria Dortusee,female,white
+1011,Anna Jacobs,female,white
+1012,wife of Helmigh Roelofse,female,white
+1013,Dirk van Giesen,male,white
+1014,Maritie Tonis,female,white
+1015,Christina Poulus,female,white
+1016,Elizabeth Elysabeth,female,white
+1017,Ariaentie Steynmets,female,white
+1018,Joanna van Voorst Bertholf,female,white
+1019,Joanna Pieterse,female,white
+1020,Jannitie Thomase,female,white
+1021,Andries Claese,male,white
+1022,Hillegont Verplanck,female,white
+1023,Margriet Wande,female,white
+1024,Annatie Cornelis van de Voorst,female,white
+1025,Geertie Wessels,female,white
+1026,Mattie Jacobs,female,white
+1027,Maria Sichgels,female,white
+1028,Tryntie Hanse,female,white
+1029,Ursuleena Steynmets,unknown,white
+1030,Claes Braack,male,white
+1031,Dieuwer Hendriksz,male,white
+1032,Maritie Baeyert,female,white
+1033,Maritie Rutger,female,white
+1034,Geertie Claese,female,white
+1035,Susanna De Voe,female,white
+1036,Hester Jansz,female,white
+1037,Sara Bartolfs,female,white
+1038,Hendrick Buys,male,white
+1039,Jannitie 2 Steynmets,female,white
+1040,Maritie van Neste,female,white
+1041,Elizabeth Merselis,female,white
+1042,Feytie Cornelise Vreland,female,white
+1043,Annatie Walingh,female,white
+1044,Hildegond Joris,female,white
+1045,Cathalina Helmens,unknown,white
+1046,Aeltie 1 Juriansen,female,white
+1047,Feytie Cornelis,female,white
+1048,Rachel Vreelant,female,white
+1049,Saartje van Neste,female,white
+1050,wife of Jan Sip,female,white
+1051,Maritie Hoppe,female,white
+1052,Maritie 1 Vreelant,female,white
+1053,Maritie 1 Gerbrantse,female,white
+1054,Annatie Haargjes,female,white
+1055,wife of Cornelis Vreelant,female,white
+1056,Neeltie van Vechten,female,white
+1057,Geertie van Deusen,female,white
+1058,Pryntie Smits,unknown,white
+1059,Annatie Seboy,female,white
+1060,Maritie Harmanssen Vreelant,female,white
+1061,Catharina Simons,female,white
+1062,Geertie Helmigs,female,white
+1063,wife of Cornelis van Vorst,female,white
+1064,wife of Cornelis Blinkerhof,female,white
+1065,wife of Cornelis Machielsen Vreelant,female,white
+1066,Aeltie Blinkerhoff,female,white
+1067,Neeltie 1 van Hoorn,female,white
+1068,Jacomin 1 Toers,female,white
+1069,Tanneke Pieterse,female,white
+1070,wife of Johannes Gerretsen van Wagenen,female,white
+1071,Aeltie van Giesen,female,white
+1072,??? Paersel,unknown,white
+1073,wife of Helmig,female,white
+1074,Freytje 1 Hertmans,unknown,white
+1075,Margriet de Mott,female,white
+1076,Neeltie Juriansen,female,white
+1077,Selytje 1 Pryer,unknown,white
+1078,Margriet Banta,female,white
+1079,Elizabeth Brasen,female,white
+1080,Geertie 1 Banta,female,white
+1081,Neeltie 1 Gerbrantse,female,white
+1082,Sophia Sickels,female,white
+1083,wife of Dirk Blinkerhoff,female,white
+1084,wife of Daniel van Winkel,female,white
+1085,wife of Dirk van Hoorn,female,white
+1086,wife of Cornelis Gerrebrantsen,female,white
+1087,wife of Hendrik Sikkels,female,white
+1088,wife of Johannis Pietersen,female,white
+1089,wife of Hendrik Stoothoff,female,white
+1090,Tanneke van de Voorst,female,white
+1091,Jannitie Mattheeusen,female,white
+1092,wife of Marten Winning,female,white
+1093,Catharina 1 van Winkel,female,white
+1094,Helena Steynmets,female,white
+1095,wife of Jacob Garretsen van Wagening,female,white
+1096,wife of Gerret Juriaansen,female,white
+1097,Helena 1 Merselis,female,white
+1098,wife of Abraham Vreeland,female,white
+1099,wife of Abraham Pier,female,white
+1100,wife of Rutger van Hoorn,female,white
+1101,Aeltie 2 Juriansen,female,white
+1102,wife of Michiel Hartmansen,female,white
+1103,wife of David Abeel,female,white
+1104,wife of Michiel Vreelant Else,female,white
+1105,Annatie Tades,female,white
+1106,wife of Johannes Helmegsen van Houten,female,white
+1107,wife of Ide Sip Antje,female,white
+1108,wife of Poulus Matteusse Judik,female,white
+1109,wife Jenneke,female,white
+1110,wife of Gerrit Roos,female,white
+1111,wife Antje Diederikz,female,white
+1112,wife of Jacob Pier,female,white
+1113,wife Catlyntje,female,white
+1114,Helena van Hoorn,female,white
+1115,wife of Jan van Hoorn,female,white
+1116,wife of Jacob van Wagening,female,white
+1117,Helena Vreelant,female,white
+1118,wife of Barent Spier,female,white
+1119,wife of Ide Sip,female,white
+1120,wife of Juryan Gerrits,female,white
+1121,Cathalina van Houten,unknown,white
+1122,Feytie 2 Vreelant,female,white
+1123,Sara Cuyper,female,white
+1124,Maritie 2 Gerbrantse,female,white
+1125,Aegie Vreelant,female,white
+1126,Lea Spier,female,white
+1127,Geesje Spier,female,white
+1128,Hendrick 2 Hoppe,male,white
+1129,Cathalina Hafte,unknown,white
+1130,Jannitie Nieukerk,female,white
+1131,Maria Pels,female,white
+1132,Jannitie van Wagenen,female,white
+1133,Sara Slot,female,white
+1134,Elizabeth Juriansen,female,white
+1135,Anna Spier,female,white
+1136,Catharina Bon,female,white
+1137,Elizabeth Ackerman,female,white
+1138,Maria van Vorst,female,white
+1139,Greetruy Romme,unknown,white
+1140,Achtje de Groot,unknown,white
+1141,Claes van Houten,male,white
+1142,Geesje Blinkerhoff,female,white
+1143,Lea Juriansen,female,white
+1144,Margriet Dirckse,female,white
+1145,Jannitie Pryer,female,white
+1146,Maria Haring,female,white
+1147,Maritie 2 Juriansen,female,white
+1148,Geertie Bras,female,white
+1149,Selytje 2 Pryer,unknown,white
+1150,Feytie van Winkel,female,white
+1151,Claes Winne,male,white
+1152,Elizabeth York,female,white
+1153,Maria Winne,female,white
+1154,Annatie Bos,female,white
+1155,Maritie 2 Vreelant,female,white
+1156,Debora Fielding,female,white
+1157,Elizabeth Buys,female,white
+1158,Catharina Gerbrantse,female,white
+1159,Jannitie 2 Spier,female,white
+1160,Maritie van Reype,female,white
+1161,Susanna Bessed,female,white
+1162,Annatie 1 Tades,female,white
+1163,Jannitie Sip,female,white
+1164,Annatie Terhuen,female,white
+1165,Lea Brouwer,female,white
+1166,Feytie van Houten,female,white
+1167,Annatie Jackson,female,white
+1168,Tryntie Gerbrantse,female,white
+1169,Maritie 3 Gerbrantse,female,white
+1170,Femmetye van Tuyl,unknown,white
+1171,Catharina Nieukerk,female,white
+1172,Helena Bessed,female,white
+1173,Cornelius Hoogland,male,white
+1174,Jenneke Cadmus,female,white
+1175,Ariaentie van Reype,female,white
+1176,Neeltie Cadmus,female,white
+1177,Jannitie Ackerman,female,white
+1178,Maritie de Maree,female,white
+1179,wife of Johannes De Marre,female,white
+1180,Bekye Erle,unknown,white
+1181,Elizabeth Post,female,white
+1182,Rachel Banker,female,white
+1183,Annatie Bokkenhoven,female,white
+1184,Susanna Westervelt,female,white
+1185,Samalli Richard,unknown,white
+1186,Greetruy Sickels,unknown,white
+1187,Sara Iddo,female,white
+1188,Jannitie Toers,female,white
+1189,wife of Samuel Berdet,female,white
+1190,Elizabeth de Vael,female,white
+1191,Maritie Hennion,female,white
+1192,Jannitie Deryie,female,white
+1193,Jenneke Sip,female,white
+1194,Annatie Kalyer,female,white
+1195,Helena Everse,female,white
+1196,Jacomin Solders,female,white
+1197,Lukas Dirkse,male,white
+1198,Dirckje Meyers yd,male,white
+1199,Jannetje Magliese,female,white
+1200,Annetie Edsall yd,female,white
+1201,Swaentje Jans,unknown,white
+1202,his mother,male,white
+1203,Catreyna Crigers,unknown,white
+1204,Lourus Arentse Toers,unknown,white
+1205,Jan Pieterse Bos,male,white
+1206,Tonis Roelofsen,unknown,white
+1207,Lubbert Lubertse,male,white
+1208,Barent Vochst,male,white
+1209,Gerit Gerritse,unknown,white
+1210,Neeltje Dirckx widow of Jan van de Linden,female,white
+1211,David Ackerman,male,white
+1212,Catreyna Bevois,unknown,white
+1213,Jan Didericx,male,white
+1214,Jan Damarees,male,white
+1215,Gerrit Steynmets,male,white
+1216,Pieter Louersen,male,white
+1217,Gerrit Gerritsen,male,white
+1218,Roelof Westervelt,male,white
+1219,Jan Andresen,male,white
+1220,David de Maree,male,white
+1221,Hermanus Gerritse,male,white
+1222,Roelof Helmighsen,male,white
+1223,Ann Matkins,female,white
+1224,Annatie Josephs,female,white

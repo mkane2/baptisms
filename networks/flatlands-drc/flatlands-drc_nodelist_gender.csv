@@ -1,702 +1,711 @@
 id,name,gender
-0,Jacob Wyckoff,male
-1,Jan Wyckoff,male
-2,Hil Riet,female
-3,Geertie Bloom,unknown
-4,Geertie Noortstrand,unknown
-5,Daniel Noortstrant,male
-6,David Sprong,male
-7,Cornelius Van Duyn,male
-8,Jacob Lott,male
-9,Jannis Remsen,male
-10,Johannes Hardenbergh,male
-11,Dirk Bergen,male
-12,Johannes Rapelje,male
-13,Jacob Lent,male
-14,wife of Gerrit Bloom,unknown
-15,wife of Cornelis Van Duyn,unknown
-16,Geertie Remsen,unknown
-17,Maritie Bergen,unknown
-18,Margriet Lent,mostly_female
-19,Cornelius Suydam,male
-20,Peter Hegeman,male
-21,Adrian Hegeman,male
-22,Petrus Petrus,male
-23,Abraham Emans,male
-24,Hendrick Emans,male
-25,James Hubbard,male
-26,Rebecca Hubbard,female
-27,Sara Amerman,female
-28,Johannes Johnson,male
-29,Johannes Nevens,male
-30,Jan Leffersen,male
-31,Peter Leffersen,male
-32,Sara Van Kerck,female
-33,wife of Pieter Hegeman,unknown
-34,Adriantie Petrus,unknown
-35,Cornelia Emans,female
-36,wife of Cornelis Stryker,unknown
-37,Peter Wyckoff,male
-38,Susannah Schenck,female
-39,Sytie Suydam,unknown
-40,Sytie Sprong,unknown
-41,Drickus Van Dyck,unknown
-42,The parents,mostly_female
-43,Jan Amerman,male
-44,Volkert Sprong,male
-45,Jacob Rider,male
-46,Adrian Voorhees,male
-47,Cornelius Van Sise,male
-48,Hendrick Lott,male
-49,James Berrien,male
-50,Peter Willamsen,male
-51,Geertie Covenhoven,unknown
-52,William Covenhoven,male
-53,Godfrey Heyn,male
-54,Hendrick Elderse,male
-55,William Johnson,male
-56,Maritie Monfoort,unknown
-57,Abraham Voorhees,male
-58,Jan Liuksen,male
-59,Cornelius Wyckoff,male
-60,Sara Wyckoff,female
-61,Sara Schenck,female
-62,Phoebe Rider,female
-63,Geertie Dorland,unknown
-64,Annatie Voorhees,unknown
-65,Geertie Wyckoff,unknown
-66,his wife,unknown
-67,Adriantie Leffersen,unknown
-68,Anna Elisabeth Sweet,female
-69,Jan Schenck,male
-70,Margriet Hegeman,mostly_female
-71,Constyn Golnek,unknown
-72,Jacob Ryerse,male
-73,Douw Suydam,unknown
-74,Jan Van der Veer,male
-75,Joost Van Nuys,male
-76,Elizabeth Emans,female
-77,Cornelia Lott,female
-78,Jan Ryerson,male
-79,Annatie Emans,unknown
-80,Nicholas Stillwell,male
-81,Hilletie Van Bront,unknown
-82,Jacob Cornelis,male
-83,Aard Middagh,male
-84,Evert Suydam,male
-85,Hendrick Suydam,male
-86,Samuel Hiks,male
-87,Jan Middagh,male
-88,James Berry,male
-89,Edderie Berry,unknown
-90,Jan Monfoort,male
-91,Japik Sebering,unknown
-92,Johannes Van Sicklen,male
-93,Cornelius Cornelis,male
-94,wife of Jan Van Kerk,unknown
-95,wife of Niklaas Stillwell,unknown
-96,wife of Aert Middagh,unknown
-97,Geertie Van Wicklen,unknown
-98,Maria Middagh,female
-99,Sytie Van Deventer,unknown
-100,Cornelius Lott,male
-101,Catharina Van Sickel,female
-102,Albert Terhunnen,male
-103,Roelof Terhunnen,male
-104,Wilhelm Van Nuys,male
-105,Michael Stryker,male
-106,Jan Stryker,male
-107,Ulpianus Van Sinderen,unknown
-108,Jan VanderVoort,male
-109,Andries Andriesse,male
-110,Dr Spitser,unknown
-111,Jacob L Sulleman,male
-112,Abraham Lott,male
-113,Johannes Van Kats,male
-114,mother of Catriena Sprong,unknown
-115,Wilhelm Stoothof,male
-116,Charles Doutie,male
-117,Jacob Bevoise,male
-118,Matie Voorhees,unknown
-119,Magdalena Berry,female
-120,Sara Bergen,female
-121,Emmetie Hegeman,unknown
-122,Elizabeth Polon,female
-123,Jannitie Sulleman,unknown
-124,Teuntie,unknown
-125,Sara Stoothof,female
-126,Maria Stillwell,female
-127,Petrus Amerman,male
-128,Daniel Durie,male
-129,Abraham Durie,male
-130,Stephan Schenck,male
-131,Peter Lozier,male
-132,Harman Hoogeland,unknown
-133,Lucas Voorhees,male
-134,Laurens Ditmarse,male
-135,Arie Van Kampen,male
-136,Rem Rem,male
-137,Maria Van der Veer,female
-138,Peter Hagenoud,male
-139,Willempje Wyckoff,female
-140,Elizabeth Polhemius,female
-141,Annatie Wyckoff,unknown
-142,Jannitie Ryerse,unknown
-143,Christina VanderVoort,female
-144,Adriantie Hubbard,unknown
-145,Stintie Ryerse,unknown
-146,Maria Van Kleef,female
-147,Ida Suydam,female
-148,Gertruit Lott,unknown
-149,Cornelius Emans,male
-150,Eva Emans,female
-151,Abraham Luykisse Voorhees,male
-152,Cornelius Van Kleef,male
-153,Jan Van Kleef,male
-154,Annatie Leffersen,unknown
-155,Magdalena Durie,female
-156,wife of Jan Van Kleef,unknown
-157,Catharina Van der Veer,female
-158,Dirk Leek,male
-159,Daniel Leek,male
-160,Rem Van der bilt,male
-161,Elizabeth Sutfen,female
-162,Margriet Stryker,mostly_female
-163,Jacobus Cornel,male
-164,Jan Lott,male
-165,Jacob Jacobus,male
-166,Abraham Van Voorhees,male
-167,Peter Henderiksen,male
-168,Nicholas Niklaas,male
-169,Elsie Suydam,female
-170,Geertie Ryerse,unknown
-171,Maria Deventer,female
-172,wife of Jan Leffersen,unknown
-173,Lammetie Stryker,unknown
-174,wife of Niklaas,unknown
-175,Douw Ditmarse,unknown
-176,Catharina Snederik,female
-177,Cornelius Van Sicklen,male
-178,Emmetie Van der Veer,unknown
-179,William Houwer,male
-180,Emmetie Remsen,unknown
-181,Jan Ouke,male
-182,Joris Rapelje,male
-183,Jeromus Rapelje,unknown
-184,Lammer Kallevil,unknown
-185,The mother,mostly_female
-186,Wilhelm Wilhelmus,male
-187,Joris Ryerse,male
-188,Bernardus Hubbard,male
-189,Sara Leek,female
-190,Johannes Durie,male
-191,Cornelius Rapelje,male
-192,Daniel Rapelje,male
-193,Jeromus Van der Veer,unknown
-194,Christofel Stillwell,unknown
-195,Patience Nedde,female
-196,Wilhelm Rider,male
-197,Fernandus Van Sicklen,unknown
-198,Willempje Schenck,female
-199,wife of Jeromus Rapelje,unknown
-200,Hilletie Rider,unknown
-201,Lammetie Seyker,unknown
-202,Rensje Schenck,female
-203,Matie Remsz,unknown
-204,Maria Van Nuys,female
-205,Johannes Snedeker,male
-206,Adriantie Dorland,unknown
-207,Johannes Lott,male
-208,Jannitie Barrebasco,unknown
-209,Michael DeMod,male
-210,Sara Dorland,female
-211,Lyltie Stryker,unknown
-212,Rem Van Kleef,male
-213,Maria Elderse,female
-214,Andries Emans,male
-215,Nicholas Wyckoff,male
-216,Johannes Ditmarse,male
-217,Engelbert Lott,male
-218,Annatie Schenck,unknown
-219,Gysbert Bogert,male
-220,Margriet Buys,mostly_female
-221,Emmetie Dorland,unknown
-222,Mollie Houwer,female
-223,Maria Ditmarse,female
-224,wife of Jan Suydam,unknown
-225,Jan Suydam,male
-226,Maaike Willamsen,female
-227,William Menniers,male
-228,Betie Mennier,unknown
-229,Rem Hegeman,male
-230,Joseph Hegeman,male
-231,Daniel Danielz,male
-232,Eldert Eldert,unknown
-233,Catlina Van der Veer,unknown
-234,Sara Adriance,female
-235,Jannitie Rapelje,unknown
-236,Jannitie Noordstrom,unknown
-237,Jan Blaau,male
-238,Eva Cozine,female
-239,Jeremiah Van der Bilt,male
-240,Abigail Van der bilt,female
-241,Nicholas Schenck,male
-242,Johannes Voorhees,male
-243,Waldron Blaau,unknown
-244,Neeltie Van derBilt,unknown
-245,Neeltie Durie,unknown
-246,Elizabeth Ditmarse,female
-247,Dirk Amerman,male
-248,Margriet Polhemius,mostly_female
-249,Stephan Lott,male
-250,Annatie Lott,unknown
-251,Martin Ouke,male
-252,Maria Norell,female
-253,Johanna Stryker,female
-254,Johannes Willemse Wyckoff,male
-255,Johanna Bevoise,female
-256,Isaac Selover,male
-257,Maria Johnson,female
-258,Evert Shereman,male
-259,Emmetie Pieterse,unknown
-260,Roelof Durie,male
-261,Jannitie Amerman,unknown
-262,Margriet Elderse,mostly_female
-263,Jacob Van Deventer,male
-264,Dirk Remsen,male
-265,Sara Ouke,female
-266,Cornelius Stryker,male
-267,Johannes Van Leeuwen,male
-268,Reinier Stoffelse,male
-269,Abigail Leffersen,female
-270,Syntie Lott,unknown
-271,Maria Gerritse,female
-272,Johannes Stoothof,male
-273,Catharina Bogert,female
-274,Rutger Van Brunt,male
-275,Hilletie Cortelyou,unknown
-276,Emmetie Van Van der Veer,unknown
-277,Sara Van Kerk,female
-278,Alexander Forbes,male
-279,Lucretia Hegeman,female
-280,Christina Ryerse,female
-281,Cornelius Voorhees,male
-282,Rem Adriaanse,male
-283,Elizabeth Rider,female
-284,Jannitie Bloom,unknown
-285,Garret Cosine,male
-286,Douen Ditmarse,unknown
-287,Sara Hegeman,female
-288,Jannitie Schenck,unknown
-289,Catharina Snedeker,female
-290,Maria Bloom,female
-291,Petrus Leuyster,male
-292,Neeltie Wyckoff,unknown
-293,Karel Boerum,male
-294,Maria Lott,female
-295,Bernardus Voorhees,male
-296,Emmetie Latten,unknown
-297,Roelof Van Houten,male
-298,Hendrika Remsen,female
-299,Maria Durie,female
-300,Jeromus Lott,unknown
-301,Lammetie Rapelje,unknown
-302,Peter Lott,male
-303,Magdalena Van Nuys,female
-304,Catharina Boerum,female
-305,Helena Ouke,female
-306,Catharina Lott,female
-307,Hilletie Voorhees,unknown
-308,Arie Van Pelt,male
-309,Sara Van Brunt,female
-310,Geertie Lott,unknown
-311,Lybetie Ditmarse,unknown
-312,Hendrick Johnson,male
-313,Elizabeth Van Brunt,female
-314,Jurry Brouwer,unknown
-315,Maria Tedeman,female
-316,Lucretia Clendenning,female
-317,Dominicus Van der Veer,unknown
-318,Abraham Brouwer,male
-319,Teuntie DeHart,unknown
-320,wife of Dominicus Van der Veer,unknown
-321,Maria Lozier,female
-322,Jacob Cozine Freelove,male
-323,Freelove Freelove,unknown
-324,Tryntie Van Sicklen,unknown
-325,Cornelius Van der Veer,male
-326,Lea Van Kerk,female
-327,Jacob Van der Veer,male
-328,Neeltie Suydam,unknown
-329,Leonard Van Bomelen,male
-330,Annatie Sprong,unknown
-331,Stephan Rider,male
-332,Sara Leuyster,female
-333,Beletie Suydam,unknown
-334,Geertie Boerum,unknown
-335,Maria Van Dyck,female
-336,Maria Morrel,female
-337,Peter Stryker,male
-338,Emmetie Schenck,unknown
-339,Stephan Willemsz,male
-340,Hilletie Van Wickelen,unknown
-341,Garret Covenhoven,male
-342,Garret Stoothof,male
-343,Maria Voorhees,female
-344,Christopher Stillwell,male
-345,Vincentius Antonides,unknown
-346,Annatie Bennam,unknown
-347,Maria Ouke,female
-348,Jacob Leffersen,male
-349,Sara Cornelis,female
-350,Nicholas Willemsz,male
-351,Thomas Elsworth,male
-352,Peter Antonides Catharina VdVeer,male
-353,Ida Remsen,female
-354,Lammetie Van der bilt,unknown
-355,Cornelia Brouwer,female
-356,Martin Schenck,male
-357,Sara Covenhoven,female
-358,John Smith,male
-359,Geertie Vderbilt,unknown
-360,Isaac Cortelyou,male
-361,Hilletie Rapelje,unknown
-362,Hendrick Wyckoff,male
-363,Sara Emans,female
-364,Catharina Van Sicklen,female
-365,Joost Van Brunt,male
-366,Elizabeth Durie,female
-367,Maria Schenck,female
-368,Johannes Emans,male
-369,Francis Titus,male
-370,Cornelia Schenck,female
-371,Sara Remsen,female
-372,Rebecca Emans,female
-373,Catharina Titus,female
-374,Annatie Rapelje,unknown
-375,Thomas Whitlock,male
-376,Agnetta Otter,unknown
-377,Adriantie Voorhees,unknown
-378,Jan Cornelis,male
-379,Rebecca Wyckoff,female
-380,Aaron Van Pelt,male
-381,Joost Wyckoff,male
-382,Jacob Stellenwerf,male
-383,Johanna Wyckoff,female
-384,Johanna Bogert,female
-385,Geertie Stoothof,unknown
-386,Magdalena Banker,female
-387,Abigail Van der Bilt,female
-388,Emmetie Rapelje,unknown
-389,Jannitie Johnson,unknown
-390,Jacob Snedeker,male
-391,Neeltie Covenhoven,unknown
-392,Neeltie Lott,unknown
-393,Geertie Snedeker,unknown
-394,Anna Bogert,female
-395,Jacob Colyer,male
-396,Eva Covenhoven,female
-397,Petrus Wyckoff,male
-398,Lammetie Lott,unknown
-399,Jannitie Van Nostrand,unknown
-400,Cornelius Cosine,male
-401,Hilletie Murphy,unknown
-402,Cornelius Bennet,male
-403,Dorothea Voorhees,female
-404,Maria Murphy,female
-405,Maria Sewell,female
-406,Nicasie Covenhoven,unknown
-407,Adrian Maertens,male
-408,Neeltie Van Pelt,unknown
-409,Adriantie Rider,unknown
-410,Johannis Couwenhoven,unknown
-411,Itie Amerman,unknown
-412,Sytie Van Nuys,unknown
-413,Elias Hubbard,male
-414,Margriet Lake,mostly_female
-415,Cornelia Van Sinderen,female
-416,Neeltie Blaau,unknown
-417,Jan Willemsz,male
-418,Elizabeth Remsen,female
-419,Adam Searsay,male
-420,Garret Snedeker,male
-421,John Van Duyn,male
-422,Helena Van Nuys,female
-423,Rhyme Denys,unknown
-424,Jan Remsen,male
-425,Geertie Van Duyn,unknown
-426,Jane Ouke,female
-427,Jane Bloom,female
-428,Abraham Stoothof,male
-429,Catharina Pimart,female
-430,Peter Stoothof,male
-431,Lea Van der Bilt,female
-432,Derick Remsen,male
-433,Andrew Van Tuyl,male
-434,Maria Bogert,female
-435,Barent Johnson,unknown
-436,Jetie Van Cleve,unknown
-437,Mattheus Van Dyck,unknown
-438,Sara Van der bilt,female
-439,Hilletie Remsen,unknown
-440,Joost Stillwell,male
-441,Anna Willemsz,female
-442,Peter Van der Voort,male
-443,Annatie Covenhoven,unknown
-444,Nellie Schenck,female
-445,Catharina Stoothof,female
-446,William Douglas,male
-447,Jane Sprong,female
-448,Michael VdVoort,male
-449,Catharina Hubbard,female
-450,Catharina Buskerk,female
-451,Jetie Stockholm,unknown
-452,Samuel Stryker,male
-453,Jan Buys,male
-454,Maria Van Sicklen,female
-455,Elizabeth Lake,female
-456,Richard Stillwell,male
-457,Maria Bevoise,female
-458,Cornelia Lozier,female
-459,Coert Johnson,male
-460,Phoebe Stryker,female
-461,Bernardus Rider,male
-462,Emmetie Denys,unknown
-463,Annatie Bogert,unknown
-464,Jetie Van Nuys,unknown
-465,William Van Dyck,male
-466,Jane Denys,female
-467,Lea Van der bilt,female
-468,Jaques Johnson,unknown
-469,Catharina Beekman,female
-470,Sara Van Nuys,female
-471,Samuel Hubbard,male
-472,Peter Covenhoven,male
-473,Ida Covenhoven,female
-474,Samuel Gerritse,male
-475,Matie Suydam,unknown
-476,Isaac Denys,male
-477,Daniel Leuyster,male
-478,Michael Van Der Voort,male
-479,Elizabeth Banker,female
-480,Phoebe Dyck,female
-481,Annatie Nostrand,unknown
-482,Elizabeth Van Nuys,female
-483,Sytie Stockholm,unknown
-484,John Voorhees,male
-485,Rensje Wyckoff,female
-486,Annatie Willemsz,unknown
-487,Andrew Cropsey,male
-488,Ida Ryerse,female
-489,William Berry,male
-490,Catharina Polhemius,female
-491,Caspar Cropsey,male
-492,Helena Lozier,female
-493,Maria Barkuloo,female
-494,Peter Johnson,male
-495,Sara Creed,female
-496,John Buys,male
-497,Wyntie Buys,unknown
-498,Laurence Rider,female
-499,Catharina Willemsz,female
-500,Stephan Sprong,male
-501,Margriet Lozier,mostly_female
-502,Stephan Voorhees,male
-503,Phoebe Denys,female
-504,Margriet Johnson,mostly_female
-505,Isaac Eldert,male
-506,Maria Wyckoff,female
-507,Jan Emans,male
-508,Martin Van Beuren,male
-509,Johannes Clow,male
-510,Rensje Voorhees,female
-511,Hendrick Plas,male
-512,Margriet Van Nuys,mostly_female
-513,Peter Nevins,male
-514,Sara Stryker,female
-515,Simon Lott,male
-516,Anna Van Nuys,female
-517,John Vroom,male
-518,Jannitie Vroom,unknown
-519,Caspar Haarlenbach,male
-520,Hendrick Ouke,male
-521,Angje Van Bommelen,unknown
-522,Maria Woodruff,female
-523,Johanna Nevius,female
-524,Cornelia Van Sickelen,female
-525,____ Bergen,unknown
-526,Aletta Rider,female
-527,Anna Van der Voort,female
-528,Albert Snedeker,male
-529,Maria Rapelje,female
-530,Benjamin Bennet,male
-531,Abigail Fish,female
-532,Hendrick Van der Veer,male
-533,Peter Voorhees,male
-534,Debora Voorhees,female
-535,Abigail Covenhoven,female
-536,John Schenck,male
-537,Anna Williamsen,female
-538,Margriet Rapelje,mostly_female
-539,Martin Johnson,male
-540,Eyda Gerritse,unknown
-541,Lammetie Covenhoven,unknown
-542,Phoebe Rapelje,female
-543,Jane Ditmarse,female
-544,Jane Nagle,female
-545,William Cropsey,male
-546,Catharina Williamsen,female
-547,John Hegeman,male
-548,Magdela Van Nuys,unknown
-549,Nicholas Donley,male
-550,Sara Sickels,female
-551,Michael Van Kleef,male
-552,Jane Hoogland,female
-553,John Van Beuren,male
-554,Sara Van Duyn,female
-555,Jacob Suydam,male
-556,Gitty Rider,unknown
-557,Peter Van Steenberg,male
-558,Catharina Voorhees,female
-559,Anna Nostrand,female
-560,Balatie Van Kleef,unknown
-561,Jeremiah Elsworth,male
-562,Eva Selover,female
-563,Lea Vderbilt,female
-564,Abraham Bennet,male
-565,Annatie Stillwell,unknown
-566,daughter Phebe,unknown
-567,Rebecca Elsworth,female
-568,Samuel Harris,male
-569,Jurge Bennet,unknown
-570,Neeltie Finn,unknown
-571,John Van Kerk,male
-572,Rebecca Johnson,female
-573,Joseph White,male
-574,Jane Van Houten,female
-575,Wynant Van Pelt,unknown
-576,Helena Van Van der Veer,female
-577,Neeltie VanderHoven,unknown
-578,Stephan Hubbard,male
-579,Maria Rider,female
-580,William Furman,male
-581,Sytie Van Duyn,unknown
-582,Elizabeth Bogert,female
-583,Helena Selover,female
-584,Jane Post,female
-585,Hendrick VdVeer,male
-586,Isaac Remsen,male
-587,Maria Lake,female
-588,Susannah Robert,female
-589,Abraham Van Brunt,male
-590,____ Wilson,unknown
-591,Peter Scott,male
-592,Helena Van Pelt,female
-593,Samuel Selover,male
-594,Francina Brouwer,unknown
-595,Peter Lowe,male
-596,Sara Bennet,female
-597,Roelof Voorhees,male
-598,Grace Childs,female
-599,Cornelius Nagle,male
-600,Johannes Ditman,male
-601,Maria Selover,female
-602,Philip Nagle,male
-603,Peter Durie,male
-604,Sara Schoomaker,female
-605,Lucas Covenhoven,male
-606,Jane Van der bilt,female
-607,Wilhelmina Amerman,female
-608,Peter Van der bilt,male
-609,Anna Van der Bilt,female
-610,Barent Wyckoff,unknown
-611,Peter G. Wyckoff,male
-612,John Baxter,male
-613,Aletta Stoothof,female
-614,Daniel Bennem,male
-615,Nellie Johnson,female
-616,Denys Van Duyn,male
-617,Catlina Stoothof,unknown
-618,Cornelia Bogert,female
-619,John Bennem,male
-620,Anna Covenhoven,female
-621,Catharina Bennem,female
-622,Adriana Voorhees,female
-623,Cornelius Stoothof,male
-624,Aletta Van Duyn,female
-625,Abraham Van Sicklen,male
-626,Cornelia Cornelis,female
-627,JaneVan Houten,unknown
-628,Daniel Selover,male
-629,Abigail Lott,female
-630,Simon Voorhees,male
-631,Hester Petit,female
-632,John Barclay,male
-633,Gitty Lott,unknown
-634,Annatie Williamsen,unknown
-635,Nellie Van der Hoven,female
-636,Sara Van Pelt,female
-637,Maria Childs,female
-638,Adriantie Schenck,unknown
-639,Reuben Decker,male
-640,Maria Bergen,female
-641,Frederick Cleveland,male
-642,Maria Van Beuren,female
-643,Peter Lake,male
-644,Jane Johnson,female
-645,Helena Boerum,female
-646,Helena Elsworth,female
-647,Simon Back,male
-648,Balatie Van der Veer,unknown
-649,Jan Van Houten,male
-650,Michael Sise,male
-651,Helena Johnson,female
-652,John Van Houten,male
-653,Catharina Wooley,female
-654,Israel Woolsey,male
-655,Catharina Van Pelt,female
-656,Jacob Voorhees,male
-657,Maritie Hegeman,unknown
-658,Abraham Wyckoff,male
-659,Debora Stoothof,female
-660,Sara Van Houten,female
-661,Hilletie Stoothof,unknown
-662,Abraham Rapelje,male
-663,Henry Murray,male
-664,Margriet Labagh,mostly_female
-665,Johanna Harris,female
-666,Benjamin Hinkjman,male
-667,Catharina VderVoort,female
-668,Catlina Van Pelt,unknown
-669,Douw Durie,unknown
-670,Anna Boerum,female
-671,Johannes Bergen,male
-672,Rebecca Stryker,female
-673,Elsie Van Brunt,female
-674,Jacob Lane,male
-675,Susannah Van Coort,female
-676,Phoebe Elderse,female
-677,Garret Wyckoff,male
-678,Christopher Lott,male
-679,Eliza Broronjohn,female
-680,John Bergen,male
-681,Maria Hubbard,female
-682,Ida Stillwell,female
-683,Catlina Van Sinderen,unknown
-684,Angometie Rapelje,unknown
-685,Jerrian Lott,unknown
-686,Daniel Voorhees,male
-687,Susannah Havens,female
-688,Anna Stoothof,female
-689,John Durie,male
-690,Margriet Monfoort,mostly_female
-691,Johanna Covenhoven,female
-692,William Livingston,male
-693,Maria Lenington,female
-694,Margriet Ditmans,mostly_female
-695,Aletta Remsen,female
-696,John Van Nuys,male
-697,Rem Wyckoff,male
-698,Sara Suydam,female
-699,Catharina Rapelje,female
-700,Eliza Van Nuys,female
+0,David Sprong,male
+1,Sytie Sprong,unknown
+2,Jan Schenck,male
+3,Margriet Hegeman,mostly_female
+4,Abraham Lott,male
+5,Gertruit Lott,unknown
+6,Cornelius Emans,male
+7,Eva Emans,female
+8,Douw Ditmarse,unknown
+9,Catharina Snederik,female
+10,Cornelius Van Sicklen,male
+11,Emmetie Van der Veer,unknown
+12,William Houwer,male
+13,Emmetie Remsen,unknown
+14,Johannes Snedeker,male
+15,Adriantie Dorland,unknown
+16,Johannes Lott,male
+17,Jannitie Barrebasco,unknown
+18,Michael DeMod,male
+19,Sara Dorland,female
+20,Adrian Hegeman,male
+21,Lyltie Stryker,unknown
+22,Jan Blaau,male
+23,Eva Cozine,female
+24,Abraham Durie,male
+25,Annatie Schenck,unknown
+26,Jeremiah Van der Bilt,male
+27,Abigail Van der bilt,female
+28,Nicholas Schenck,male
+29,Willempje Wyckoff,female
+30,Johannes Voorhees,male
+31,Abraham Voorhees,male
+32,Adriantie Leffersen,unknown
+33,Jeromus Van der Veer,unknown
+34,Elizabeth Ditmarse,female
+35,Dirk Amerman,male
+36,Margriet Polhemius,mostly_female
+37,Stephan Lott,male
+38,Annatie Lott,unknown
+39,Martin Ouke,male
+40,Maria Norell,female
+41,Michael Stryker,male
+42,Johanna Stryker,female
+43,Johannes Willemse Wyckoff,male
+44,Johanna Bevoise,female
+45,Isaac Selover,male
+46,Maria Johnson,female
+47,Evert Shereman,male
+48,Emmetie Pieterse,unknown
+49,Roelof Durie,male
+50,Jannitie Amerman,unknown
+51,Godfrey Heyn,male
+52,Margriet Elderse,mostly_female
+53,Johannes Stoothof,male
+54,Catharina Bogert,female
+55,Rutger Van Brunt,male
+56,Hilletie Cortelyou,unknown
+57,Emmetie Van Van der Veer,unknown
+58,Cornelius Van Duyn,male
+59,Sara Van Kerk,female
+60,Petrus Amerman,male
+61,Willempje Schenck,female
+62,Alexander Forbes,male
+63,Lucretia Hegeman,female
+64,Constyn Golnek,unknown
+65,Christina Ryerse,female
+66,Cornelius Voorhees,male
+67,Maria Ditmarse,female
+68,Rem Adriaanse,male
+69,Elizabeth Rider,female
+70,Geertie Wyckoff,unknown
+71,Jannitie Bloom,unknown
+72,Petrus Leuyster,male
+73,Neeltie Wyckoff,unknown
+74,Karel Boerum,male
+75,Maria Lott,female
+76,Bernardus Voorhees,male
+77,Emmetie Latten,unknown
+78,Roelof Van Houten,male
+79,Sara Ouke,female
+80,Hendrika Remsen,female
+81,Geertie Van Wicklen,unknown
+82,Maria Durie,female
+83,Joost Van Nuys,male
+84,Elizabeth Emans,female
+85,Jeromus Lott,unknown
+86,Lammetie Rapelje,unknown
+87,Wilhelm Stoothof,male
+88,Hilletie Voorhees,unknown
+89,Arie Van Pelt,male
+90,Sara Van Brunt,female
+91,Johannes Van Sicklen,male
+92,Geertie Lott,unknown
+93,Lybetie Ditmarse,unknown
+94,Hendrick Johnson,male
+95,Elizabeth Van Brunt,female
+96,Jurry Brouwer,unknown
+97,Maria Tedeman,female
+98,Christofel Stillwell,unknown
+99,Lucretia Clendenning,female
+100,Jacob Cozine Freelove,male
+101,Freelove Freelove,unknown
+102,Hendrick Lott,male
+103,Tryntie Van Sicklen,unknown
+104,Cornelius Van der Veer,male
+105,Lea Van Kerk,female
+106,Jacob Van der Veer,male
+107,Neeltie Suydam,unknown
+108,Leonard Van Bomelen,male
+109,Annatie Sprong,unknown
+110,Stephan Rider,male
+111,Sara Leuyster,female
+112,Gysbert Bogert,male
+113,Margriet Buys,mostly_female
+114,Maria Morrel,female
+115,Peter Stryker,male
+116,Emmetie Schenck,unknown
+117,Stephan Willemsz,male
+118,Hilletie Van Wickelen,unknown
+119,Garret Covenhoven,male
+120,Annatie Leffersen,unknown
+121,Garret Stoothof,male
+122,Maria Voorhees,female
+123,Christopher Stillwell,male
+124,Vincentius Antonides,unknown
+125,Annatie Bennam,unknown
+126,Martin Schenck,male
+127,Sara Covenhoven,female
+128,John Smith,male
+129,Geertie Vderbilt,unknown
+130,Isaac Cortelyou,male
+131,Hilletie Rapelje,unknown
+132,Hendrick Wyckoff,male
+133,Sara Emans,female
+134,Catharina Van Sicklen,female
+135,Joost Van Brunt,male
+136,Elizabeth Durie,female
+137,Nicholas Wyckoff,male
+138,Annatie Rapelje,unknown
+139,Geertie Covenhoven,unknown
+140,Thomas Whitlock,male
+141,Agnetta Otter,unknown
+142,Jan Cornelis,male
+143,Margriet Stryker,mostly_female
+144,Aaron Van Pelt,male
+145,Joost Wyckoff,male
+146,Jacob Stellenwerf,male
+147,Magdalena Van Nuys,female
+148,Lucas Voorhees,male
+149,Geertie Stoothof,unknown
+150,Ulpianus Van Sinderen,unknown
+151,Magdalena Banker,female
+152,Abigail Van der Bilt,female
+153,Emmetie Rapelje,unknown
+154,Geertie Snedeker,unknown
+155,Anna Bogert,female
+156,Jacob Colyer,male
+157,Eva Covenhoven,female
+158,Petrus Wyckoff,male
+159,Lammetie Lott,unknown
+160,Cornelius Cosine,male
+161,Hilletie Murphy,unknown
+162,Cornelius Bennet,male
+163,Dorothea Voorhees,female
+164,Sytie Van Nuys,unknown
+165,Elias Hubbard,male
+166,Margriet Lake,mostly_female
+167,Jan Willemsz,male
+168,Elizabeth Remsen,female
+169,Adam Searsay,male
+170,Maria Ouke,female
+171,Garret Snedeker,male
+172,John Van Duyn,male
+173,Helena Van Nuys,female
+174,Rhyme Denys,unknown
+175,Abraham Stoothof,male
+176,Catharina Pimart,female
+177,Peter Stoothof,male
+178,Lea Van der Bilt,female
+179,Derick Remsen,male
+180,Andrew Van Tuyl,male
+181,Maria Bogert,female
+182,Barent Johnson,unknown
+183,Jetie Van Cleve,unknown
+184,Mattheus Van Dyck,unknown
+185,Sara Van der bilt,female
+186,Peter Wyckoff,male
+187,Hilletie Remsen,unknown
+188,Joost Stillwell,male
+189,Anna Willemsz,female
+190,Peter Van der Voort,male
+191,Annatie Covenhoven,unknown
+192,Samuel Stryker,male
+193,Maria Schenck,female
+194,Jan Buys,male
+195,Maria Van Sicklen,female
+196,Elizabeth Lake,female
+197,Richard Stillwell,male
+198,Geertie Van Duyn,unknown
+199,Maria Bevoise,female
+200,Fernandus Van Sicklen,unknown
+201,Cornelia Lozier,female
+202,Bernardus Rider,male
+203,Emmetie Denys,unknown
+204,Annatie Bogert,unknown
+205,Jetie Van Nuys,unknown
+206,William Van Dyck,male
+207,Jane Denys,female
+208,Lea Van der bilt,female
+209,Jaques Johnson,unknown
+210,Catharina Beekman,female
+211,Wilhelm Van Nuys,male
+212,Sara Van Nuys,female
+213,Samuel Hubbard,male
+214,Annatie Emans,unknown
+215,Peter Covenhoven,male
+216,Hendrick 1 Suydam,male
+217,Ida Covenhoven,female
+218,Samuel Gerritse,male
+219,Matie Suydam,unknown
+220,John Voorhees,male
+221,Rensje Wyckoff,female
+222,Annatie Willemsz,unknown
+223,Andrew Cropsey,male
+224,Ida Ryerse,female
+225,William Berry,male
+226,Catharina Polhemius,female
+227,Peter Johnson,male
+228,Sara Creed,female
+229,Coert Johnson,male
+230,Phoebe Stryker,female
+231,John Buys,male
+232,Wyntie Buys,unknown
+233,Laurence Rider,female
+234,Catharina Willemsz,female
+235,William 1 Covenhoven,male
+236,Johanna Wyckoff,female
+237,Stephan Sprong,male
+238,Margriet Lozier,mostly_female
+239,Stephan Voorhees,male
+240,Phoebe 1 Rider,female
+241,Phoebe Denys,female
+242,Isaac Eldert,male
+243,Maria Wyckoff,female
+244,Hendrick Plas,male
+245,Sara 1 Wyckoff,female
+246,Margriet Van Nuys,mostly_female
+247,Peter Nevins,male
+248,Sara Stryker,female
+249,Simon Lott,male
+250,Anna Van Nuys,female
+251,John Vroom,male
+252,Jannitie Vroom,unknown
+253,Hendrick 1 Emans,male
+254,____ Bergen,unknown
+255,Rensje Voorhees,female
+256,Aletta Rider,female
+257,Hendrick Ouke,male
+258,Maria Woodruff,female
+259,Adrian 1 Hegeman,male
+260,Albert Snedeker,male
+261,Maria Rapelje,female
+262,Benjamin Bennet,male
+263,Jane Sprong,female
+264,Abigail Fish,female
+265,Hendrick Van der Veer,male
+266,Peter Voorhees,male
+267,Debora Voorhees,female
+268,Abigail Covenhoven,female
+269,John Schenck,male
+270,Anna Williamsen,female
+271,Johannes Ditmarse,male
+272,Margriet Rapelje,mostly_female
+273,Jane Nagle,female
+274,William Cropsey,male
+275,Rem Hegeman,male
+276,Jane Ditmarse,female
+277,Catharina Williamsen,female
+278,John Hegeman,male
+279,Magdela Van Nuys,unknown
+280,Nicholas Donley,male
+281,Sara Sickels,female
+282,Michael Van Kleef,male
+283,Jane Hoogland,female
+284,John Van Beuren,male
+285,Sara Van Duyn,female
+286,Jeremiah Elsworth,male
+287,Eva Selover,female
+288,Lea Vderbilt,female
+289,Abraham Bennet,male
+290,Annatie Stillwell,unknown
+291,Samuel Harris,male
+292,Jurge Bennet,unknown
+293,Neeltie Finn,unknown
+294,Dirk Remsen,male
+295,John Van Kerk,male
+296,Rebecca Johnson,female
+297,Joseph White,male
+298,Jane Van Houten,female
+299,Wynant Van Pelt,unknown
+300,Helena Van Van der Veer,female
+301,Neeltie VanderHoven,unknown
+302,Stephan Hubbard,male
+303,Maria Rider,female
+304,William Furman,male
+305,Sytie Van Duyn,unknown
+306,Elizabeth Bogert,female
+307,Helena Selover,female
+308,Maria Lake,female
+309,Isaac Remsen,male
+310,Susannah Robert,female
+311,Abraham Van Brunt,male
+312,____ Wilson,unknown
+313,Samuel Selover,male
+314,Francina Brouwer,unknown
+315,Peter Lowe,male
+316,Sara Bennet,female
+317,Roelof Voorhees,male
+318,Grace Childs,female
+319,Cornelius Nagle,male
+320,Peter Durie,male
+321,Sara 1 Amerman,female
+322,Johannes Emans,male
+323,Sara Schoomaker,female
+324,Lucas Covenhoven,male
+325,Annatie Wyckoff,unknown
+326,Jane Van der bilt,female
+327,Johannes Ditman,male
+328,Barent Wyckoff,unknown
+329,Peter G. Wyckoff,male
+330,John Baxter,male
+331,Aletta Stoothof,female
+332,Daniel Bennem,male
+333,Nellie Johnson,female
+334,Denys Van Duyn,male
+335,Catlina Stoothof,unknown
+336,Cornelius Stoothof,male
+337,Aletta Van Duyn,female
+338,Abraham Van Sicklen,male
+339,Cornelia Cornelis,female
+340,JaneVan Houten,unknown
+341,Daniel Selover,male
+342,Abigail Lott,female
+343,Cornelius Stryker,male
+344,Helena Van Pelt,female
+345,Annatie Williamsen,unknown
+346,Adriantie Schenck,unknown
+347,Reuben Decker,male
+348,Maria Bergen,female
+349,Frederick Cleveland,male
+350,Maria Van Beuren,female
+351,Peter Lake,male
+352,Jane Johnson,female
+353,Simon Back,male
+354,Balatie Van der Veer,unknown
+355,Jan Van Houten,male
+356,Michael Sise,male
+357,Catharina Hubbard,female
+358,John Barclay,male
+359,Maria Selover,female
+360,Helena Johnson,female
+361,John Van Houten,male
+362,Catharina Wooley,female
+363,Israel Woolsey,male
+364,Catharina Van Pelt,female
+365,Jacob Voorhees,male
+366,Maritie Hegeman,unknown
+367,Abraham Wyckoff,male
+368,Debora Stoothof,female
+369,Simon Voorhees,male
+370,Hester Petit,female
+371,Abraham Rapelje,male
+372,Henry Murray,male
+373,Margriet Labagh,mostly_female
+374,Johanna Harris,female
+375,Benjamin Hinkjman,male
+376,Catharina VderVoort,female
+377,Catlina Van Pelt,unknown
+378,Douw Durie,unknown
+379,Anna Boerum,female
+380,Johannes Bergen,male
+381,Rebecca Stryker,female
+382,Garret Cosine,male
+383,Elsie Van Brunt,female
+384,Jacob Lane,male
+385,Susannah Van Coort,female
+386,Phoebe Elderse,female
+387,Garret Wyckoff,male
+388,Christopher Lott,male
+389,Eliza Broronjohn,female
+390,John Bergen,male
+391,Maria Hubbard,female
+392,Daniel Voorhees,male
+393,Susannah Havens,female
+394,Daniel Rapelje,male
+395,Ida Stillwell,female
+396,John Bennem,male
+397,Anna Stoothof,female
+398,John Durie,male
+399,Margriet Monfoort,mostly_female
+400,Jacob 1 Rider,male
+401,Johanna Covenhoven,female
+402,William Livingston,male
+403,Maria Lenington,female
+404,Margriet Ditmans,mostly_female
+405,Aletta Remsen,female
+406,John Van Nuys,male
+407,Neeltie Lott,unknown
+408,Rem Wyckoff,male
+409,Sara Suydam,female
+410,Jacob Wyckoff,male
+411,Jan Wyckoff,male
+412,Hil Riet,female
+413,Geertie Bloom,unknown
+414,Geertie Noortstrand,unknown
+415,Daniel Noortstrant,male
+416,Jacob Lott,male
+417,Jannis Remsen,male
+418,Nicholas Stillwell,male
+419,Hilletie Van Bront,unknown
+420,Jacob Cornelis,male
+421,Aard Middagh,male
+422,Evert Suydam,male
+423,Hendrick Suydam,male
+424,Samuel Hiks,male
+425,Jan Middagh,male
+426,James Berry,male
+427,Edderie Berry,unknown
+428,Johannes Hardenbergh,male
+429,Dirk Bergen,male
+430,Johannes Rapelje,male
+431,Jacob Lent,male
+432,Cornelius Suydam,male
+433,Peter Hegeman,male
+434,Petrus Petrus,male
+435,Abraham Emans,male
+436,Hendrick Emans,male
+437,James Hubbard,male
+438,Rebecca Hubbard,female
+439,Sara Amerman,female
+440,Johannes Johnson,male
+441,Johannes Nevens,male
+442,Jan Leffersen,male
+443,Peter Leffersen,male
+444,Sara Van Kerck,female
+445,Drickus Van Dyck,unknown
+446,The parents,mostly_female
+447,Jan Amerman,male
+448,Volkert Sprong,male
+449,Jacob Rider,male
+450,Adrian Voorhees,male
+451,Cornelius Van Sise,male
+452,James Berrien,male
+453,Peter Willamsen,male
+454,William Covenhoven,male
+455,Hendrick Elderse,male
+456,William Johnson,male
+457,Maritie Monfoort,unknown
+458,Jan Liuksen,male
+459,Cornelius Wyckoff,male
+460,Jacob Ryerse,male
+461,Douw Suydam,unknown
+462,Jan Van der Veer,male
+463,Jan Monfoort,male
+464,Japik Sebering,unknown
+465,Cornelius Cornelis,male
+466,Albert Terhunnen,male
+467,Roelof Terhunnen,male
+468,Jan Stryker,male
+469,Jan VanderVoort,male
+470,Andries Andriesse,male
+471,Dr Spitser,unknown
+472,Jacob L Sulleman,male
+473,Johannes Van Kats,male
+474,mother of Catriena Sprong,unknown
+475,Charles Doutie,male
+476,Jacob Bevoise,male
+477,Daniel Durie,male
+478,Stephan Schenck,male
+479,Peter Lozier,male
+480,Harman Hoogeland,unknown
+481,Laurens Ditmarse,male
+482,Arie Van Kampen,male
+483,Rem Rem,male
+484,Maria Van der Veer,female
+485,Peter Hagenoud,male
+486,Abraham Luykisse Voorhees,male
+487,Cornelius Van Kleef,male
+488,Jan Van Kleef,male
+489,Dirk Leek,male
+490,Daniel Leek,male
+491,Rem Van der bilt,male
+492,Jan Lott,male
+493,Jacob Jacobus,male
+494,Abraham Van Voorhees,male
+495,Peter Henderiksen,male
+496,Nicholas Niklaas,male
+497,Jan Ouke,male
+498,Joris Rapelje,male
+499,Jeromus Rapelje,unknown
+500,Lammer Kallevil,unknown
+501,The mother,mostly_female
+502,Wilhelm Wilhelmus,male
+503,Joris Ryerse,male
+504,Bernardus Hubbard,male
+505,Sara Leek,female
+506,Johannes Durie,male
+507,Cornelius Rapelje,male
+508,Patience Nedde,female
+509,Wilhelm Rider,male
+510,Rem Van Kleef,male
+511,Maria Elderse,female
+512,Andries Emans,male
+513,Engelbert Lott,male
+514,Maaike Willamsen,female
+515,Stintie Ryerse,unknown
+516,William Menniers,male
+517,Betie Mennier,unknown
+518,Joseph Hegeman,male
+519,Daniel Danielz,male
+520,Eldert Eldert,unknown
+521,Waldron Blaau,unknown
+522,Neeltie Van derBilt,unknown
+523,Jacob Van Deventer,male
+524,Johannes Van Leeuwen,male
+525,Reinier Stoffelse,male
+526,Douen Ditmarse,unknown
+527,Sara Hegeman,female
+528,Annatie Voorhees,unknown
+529,Peter Lott,male
+530,Dominicus Van der Veer,unknown
+531,Abraham Brouwer,male
+532,Beletie Suydam,unknown
+533,Geertie Boerum,unknown
+534,Jacob Leffersen,male
+535,Sara Cornelis,female
+536,Nicholas Willemsz,male
+537,Thomas Elsworth,male
+538,Peter Antonides Catharina VdVeer,male
+539,Francis Titus,male
+540,Johanna Bogert,female
+541,Jannitie Johnson,unknown
+542,Cornelia Schenck,female
+543,Jacob Snedeker,male
+544,Maria Murphy,female
+545,Maria Sewell,female
+546,Nicasie Covenhoven,unknown
+547,Adrian Maertens,male
+548,Cornelia Van Sinderen,female
+549,Neeltie Blaau,unknown
+550,Jan Remsen,male
+551,Nellie Schenck,female
+552,Catharina Stoothof,female
+553,William Douglas,male
+554,Michael VdVoort,male
+555,Isaac Denys,male
+556,Daniel Leuyster,male
+557,Michael Van Der Voort,male
+558,Elizabeth Banker,female
+559,Caspar Cropsey,male
+560,Helena Lozier,female
+561,Margriet Johnson,mostly_female
+562,Jan Emans,male
+563,Martin Van Beuren,male
+564,Johannes Clow,male
+565,Caspar Haarlenbach,male
+566,Angje Van Bommelen,unknown
+567,Anna Van der Voort,female
+568,Martin Johnson,male
+569,Eyda Gerritse,unknown
+570,Lammetie Covenhoven,unknown
+571,Jacob Suydam,male
+572,Gitty Rider,unknown
+573,Peter Van Steenberg,male
+574,Catharina Voorhees,female
+575,Jane Post,female
+576,Sara Stoothof,female
+577,Hendrick VdVeer,male
+578,Maria Stillwell,female
+579,Peter Scott,male
+580,Philip Nagle,male
+581,Wilhelmina Amerman,female
+582,Balatie Van Kleef,unknown
+583,Peter Van der bilt,male
+584,Cornelia Bogert,female
+585,Nellie Van der Hoven,female
+586,Sara Van Pelt,female
+587,Maria Childs,female
+588,Helena Boerum,female
+589,Sara Van Houten,female
+590,Hilletie Stoothof,unknown
+591,Catlina Van Sinderen,unknown
+592,Angometie Rapelje,unknown
+593,Catharina Rapelje,female
+594,Eliza Van Nuys,female
+595,wife of Gerrit Bloom,unknown
+596,wife of Cornelis Van Duyn,unknown
+597,Geertie Remsen,unknown
+598,wife of Jan Van Kerk,unknown
+599,wife of Niklaas Stillwell,unknown
+600,wife of Aert Middagh,unknown
+601,Maria Middagh,female
+602,Maritie Bergen,unknown
+603,Margriet Lent,mostly_female
+604,wife of Pieter Hegeman,unknown
+605,Adriantie Petrus,unknown
+606,Cornelia Emans,female
+607,wife of Cornelis Stryker,unknown
+608,Susannah Schenck,female
+609,Sytie Suydam,unknown
+610,Sara Wyckoff,female
+611,Sara Schenck,female
+612,Phoebe Rider,female
+613,Geertie Dorland,unknown
+614,his wife,unknown
+615,Anna Elisabeth Sweet,female
+616,Cornelia Lott,female
+617,Sytie Van Deventer,unknown
+618,Cornelius Lott,male
+619,Catharina Van Sickel,female
+620,Matie Voorhees,unknown
+621,Magdalena Berry,female
+622,Sara Bergen,female
+623,Emmetie Hegeman,unknown
+624,Elizabeth Polon,female
+625,Jannitie Sulleman,unknown
+626,Teuntie,unknown
+627,Elizabeth Polhemius,female
+628,Jannitie Ryerse,unknown
+629,Christina VanderVoort,female
+630,Adriantie Hubbard,unknown
+631,Maria Van Kleef,female
+632,Ida Suydam,female
+633,Magdalena Durie,female
+634,wife of Jan Van Kleef,unknown
+635,Catharina Van der Veer,female
+636,Elizabeth Sutfen,female
+637,Elsie Suydam,female
+638,Geertie Ryerse,unknown
+639,Maria Deventer,female
+640,wife of Jan Leffersen,unknown
+641,Lammetie Stryker,unknown
+642,wife of Niklaas,unknown
+643,wife of Jeromus Rapelje,unknown
+644,Hilletie Rider,unknown
+645,Lammetie Seyker,unknown
+646,Rensje Schenck,female
+647,Matie Remsz,unknown
+648,Maria Van Nuys,female
+649,Emmetie Dorland,unknown
+650,Mollie Houwer,female
+651,wife of Jan Suydam,unknown
+652,Catlina Van der Veer,unknown
+653,Sara Adriance,female
+654,Jannitie Rapelje,unknown
+655,Jannitie Noordstrom,unknown
+656,Neeltie Durie,unknown
+657,Abigail Leffersen,female
+658,Syntie Lott,unknown
+659,Maria Gerritse,female
+660,Jannitie Schenck,unknown
+661,Catharina Snedeker,female
+662,Maria Bloom,female
+663,Catharina Boerum,female
+664,Helena Ouke,female
+665,Catharina Lott,female
+666,Teuntie DeHart,unknown
+667,wife of Dominicus Van der Veer,unknown
+668,Maria Lozier,female
+669,Maria Van Dyck,female
+670,Ida Remsen,female
+671,Lammetie Van der bilt,unknown
+672,Cornelia Brouwer,female
+673,Sara Remsen,female
+674,Rebecca Emans,female
+675,Catharina Titus,female
+676,Adriantie Voorhees,unknown
+677,Rebecca Wyckoff,female
+678,Neeltie Covenhoven,unknown
+679,Jannitie Van Nostrand,unknown
+680,Neeltie Van Pelt,unknown
+681,Adriantie Rider,unknown
+682,Jane Ouke,female
+683,Jane Bloom,female
+684,Catharina Buskerk,female
+685,Jetie Stockholm,unknown
+686,Phoebe Dyck,female
+687,Annatie Nostrand,unknown
+688,Elizabeth Van Nuys,female
+689,Sytie Stockholm,unknown
+690,Maria Barkuloo,female
+691,Margriet 1 Hegeman,mostly_female
+692,Johanna Nevius,female
+693,Phoebe Rapelje,female
+694,Anna Nostrand,female
+695,daughter Phebe,unknown
+696,Rebecca Elsworth,female
+697,Anna Van der Bilt,female
+698,Anna Covenhoven,female
+699,Catharina Bennem,female
+700,Gitty Lott,unknown
+701,Helena Elsworth,female
+702,Jerrian Lott,unknown
+703,Jan Ryerson,male
+704,Jacobus Cornel,male
+705,Jan Suydam,male
+706,Johannis Couwenhoven,unknown
+707,Cornelia Van Sickelen,female
+708,Adriana Voorhees,female
+709,Itie Amerman,unknown

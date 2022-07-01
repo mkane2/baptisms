@@ -17,7 +17,7 @@ id,name
 15,Dirk Cornelis
 16,Claes Janse
 17,Annatie Cornelis
-18,Geertie Gerritse
+18,Geertie 1 Gerritse
 19,Anna Hermense
 20,Laurus Duyts
 21,Geertie Jansz
@@ -37,11 +37,11 @@ id,name
 35,Hermptje Hermens
 36,Arien van Laer
 37,Abigail Verplanck
-38,Casper Steynmets
+38,Casper 1 Steynmets
 39,Jannitie Gerritse
 40,Hendrick Reycken
 41,Eytje Jacobs
-42,Thomas Fredricksen
+42,Thomas 1 Fredricksen
 43,Maritie Ariaens
 44,Tys Lubberts
 45,Tryntie Jansz
@@ -71,10 +71,10 @@ id,name
 69,Helmich Roelofse
 70,Jannitie Pieterse
 71,Peter Hesselse
-72,Elizabeth Gerritse
+72,Elizabeth 1 Gerritse
 73,Arien Pieterse Buys
 74,Tryntie Hendrickse Oosterum
-75,Adriaen Post
+75,Adriaen 1 Post
 76,Catharina Gerritse
 77,Staats de Groot
 78,Berber Caspers
@@ -104,9 +104,9 @@ id,name
 102,Anna Steynmets
 103,Nicola De Voe
 104,Maria Csi
-105,Hendrick Hoppe
+105,Hendrick 1 Hoppe
 106,Maria Jansz
-107,Johannes Spier
+107,Johannes 1 Spier
 108,Maritie Franse
 109,Samuel de Maree
 110,Maria Druwen
@@ -166,14 +166,14 @@ id,name
 164,Stintie Jansz
 165,Francois de Smidt
 166,Cathalina Coetens
-167,Jacob Jacobse van Winkel
+167,Jacob 1 Jacobse van Winkel
 168,Cristoffel Steynmets
 169,Johannes Michielse Vreelant
 170,Claes Dirckse Braack
 171,Cornelius Doremus
 172,Jannitie Joris van Elslant
 173,Catharina Poulus
-174,Cornelis van de Voorst
+174,Cornelis 1 van de Voorst
 175,Feytie Gerritse
 176,Freyntje Pieterse
 177,Simon Jacobse van Winkel
@@ -215,12 +215,12 @@ id,name
 213,Francois Post
 214,Mayke Kobus
 215,Jan Cristyn
-216,Helena Been
+216,Helena 1 Been
 217,Thomas Creeven
 218,Emmetje Eysbrants
 219,Abraham van Giesen
 220,Feytie Adrianse
-221,Robert Sickels
+221,Robert 1 Sickels
 222,Geertringt Redde
 223,Elizabeth van Kouwenhoven
 224,Isaac van Giesen
@@ -230,15 +230,15 @@ id,name
 228,Elsie Pieterse
 229,Wander Diderick
 230,Aeltie Gerritse
-231,Andries Pryer
+231,Andries 1 Pryer
 232,Johanna Steynmets
-233,Geertie Juriansen
-234,Beletie Dirckse
+233,Geertie 1 Juriansen
+234,Beletie 1 Dirckse
 235,Feytie Andriesze
 236,Greetruy Riddenhars
 237,Jan Tomasen
-238,Feytie Vreelant
-239,Abraham Ackerman
+238,Feytie 1 Vreelant
+239,Abraham 1 Ackerman
 240,Aeltie van Laer
 241,Jan Bertingh
 242,Hillegont Jacobs
@@ -261,8 +261,8 @@ id,name
 259,Johannes van der Hoeven
 260,Dorothea Jansz
 261,Barent Cristiaense
-262,Geertie Dirckse
-263,Johannes Vreelant
+262,Geertie 2 Dirckse
+263,Johannes 1 Vreelant
 264,Jacob Ralemont
 265,Pietertie Claese
 266,Abel Riddenhars
@@ -270,12 +270,12 @@ id,name
 268,Claes Hartmansen Vreeland
 269,Jan Sip
 270,Johanna van de Voorst
-271,Ulrick Brouwer
+271,Ulrick 1 Brouwer
 272,Hester De Voe
 273,Rutger van Hoorn
 274,Neeltie Dirckse
 275,Abraham Vreelant
-276,Margriet van Winkel
+276,Margriet 1 van Winkel
 277,Jan van der Hoeven
 278,Jannitie van de Voorst
 279,Laurens van Galen
@@ -292,867 +292,935 @@ id,name
 290,Barent Spier
 291,Cathalina Jacobs
 292,Dirk Barends
-293,Maritie Juriansen
-294,Enoch Michielse Vreelant
-295,Achtje van Hoorn
-296,Johannes Gerretsen van Wagening
-297,Cathalina Helmigs
-298,Mattheus de Mott
-299,Margriet Hendricks Brinkerhoff
-300,Neeltie Dirckx van Vechten
-301,Johannes Thomase
-302,Maritie van Deusen
-303,Evert Evertsen
-304,Catharina Lubberts
-305,Andries Hoppe
-306,Abigail Hoppe
-307,Harpert Gerbrantse
-308,Hillegont Merselis
-309,Margriet Blinkerhoff
-310,Roelof Helmighsen van Houten
-311,Achtje Vreelant
-312,Eva van Hoorn
-313,Benjamin Herrisnut
-314,Annatie Herrisnut
-315,Jannitie van Vorst
-316,Cornelius Blinkerhoff
-317,Adrian Vermeule
-318,Christina Fredrikse
-319,Hendrick Claasen Kuyper
-320,Jannitie Verkerk
-321,Abigail Ackerman
-322,Catharina van Blerkom
-323,Geertie Roos
-324,Judith Arentsen Toers
-325,Catlyntie Helmigs
-326,Daniel van Winkel
-327,Jannitie Cornelis
-328,Achtje Harmanssen Vreelant
-329,Tryntie Elyassen Vreelant
-330,Evert van Naamen
-331,Wyntie van Naaman
-332,Judith Toers
-333,Meyndert Gerbrantse
-334,Tryntie Jacobsen van Winkel
-335,Casper Pryer
-336,Saartje Adrianse
-337,Cornelius Gerbrantse
-338,Jannitie Spier
-339,Hendrick Sickels
-340,Geertie Fredrikse
-341,Jacob Gerretsen van Wagening
-342,Lea Gerritse
-343,Johannes Helmegsen van Houten
-344,Greetruy Fredrikse
-345,Marthen Wennem
-346,Jannetie Vreelant
-347,Peter Merselis
-348,Tanneke Pryer
-349,Johannes Johanisen Vreeland
-350,Annatie Dirckse
-351,Catharina Cuyper
-352,Sara Adrianse
-353,Ide Sip
-354,Annatie van Wagenen
-355,Michael Hartmansen Vreeland
-356,Helena Johanisen Vreeland
-357,Hendrick van der Hoeven
-358,Eva Slot
-359,Zacharias Sickels
-360,Ariaentie Harmanssen Vreelant
-361,Paulus Mattheeusen
-362,Helena Spier
-363,Cornelius Gerretsen
-364,Aeltie van Winkel
-365,Johannes Sickels
-366,Claes Blinkerhoff
-367,Jurian Gerretsen
-368,Margriet Diderix
-369,Morgen Schmidt
-370,Catharina Tades
-371,Michael Cornelise Vreland
-372,Jenneke Helmegsen van Houten
-373,Jannitie Johanisen Vreeland
-374,Harman Steynmets
-375,Elsie Couwenhoven
-376,Jacob Brouwer
-377,Lea Slot
-378,Arend Toers
-379,Annatie Spier
-380,Peter Maerle
-381,Maritie Adrianse
-382,Johannes Cavelier
-383,Cathalina Cavelier
-384,Jenneke Pryer
-385,Jan Hendriksz
-386,Annatie Pryer
-387,John Diderix
-388,Geertie van Winkel
-389,Abraham Spier
-390,Paulus van Nieuwkerk
-391,Joris Enogsen Vreelant
-392,Annatie van Winkel
-393,Dirk Fredricksen
-394,Jannitie van Hoorn
-395,Peter Stuyvesant
-396,Pryntie Pryer
-397,Hendrick van Winkel
-398,Catharina Waldron
-399,Katie Tades
-400,Cornelius Diderix
-401,Annatie Roos
-402,Annatie Gerritse
-403,William Sickels
-404,Elizabeth Kuypers
-405,Geertie Hennion
-406,Maritie van Vorst
-407,Dirk Cadmus
-408,Jenneke van Houten
-409,Geertie Nieukerk
-410,Sara Ackerman
-411,Helmich van Wagenen
-412,Maritie Blinkerhoff
-413,Rachel van Winkel
-414,Benjamin Spier
-415,Maritie Spier
-416,Joris Vreelant
-417,Paulus Nieukerk
-418,Maria van de Voorst
-419,Geertie Romme
-420,Abraham Sickels
-421,Achtje Blinkerhoff
-422,Joseph Waldron
-423,Aaftje Heilhaaken
-424,Tryntie van Winkel
-425,Abraham Diderix
-426,Geertie Bon
-427,Geertie van Nieuwkerk
-428,Johannes Diderix
-429,Hester Vreelant
-430,Hendrick van der Hoef
-431,Cornelius Juriansen
-432,Peter van Benthuysen
-433,Margriet Olpherts
-434,Eva Heilhaaken
-435,Michael Vreelant Else
-436,Jan van Hoorn
-437,Helena Sip
-438,Jacob van Wagenen
-439,Jannitie van Houten
-440,Mattheus Ariens
-441,Sophia van Vorst
-442,Abraham van Tuyl
-443,Mattie Vreelant
-444,Jacob Diderix
-445,Jannitie van Winkel
-446,Albert Spier
-447,Osseltje Westervelt
-448,Johannes Everse
-449,Seytje Spier
-450,Maria Vos
-451,Seydke Everse
-452,Abraham Pryer
-453,Maritie Sickels
-454,Cornelius Boskerk
-455,Beletie van Wagenen
-456,Johannes Pryer
-457,Geertie Sickels
-458,Harman Veeder
-459,Annatie Hennion
-460,Cornelius van Wagenen
-461,Johannes Juriansen
-462,Annatie Winne
-463,Dirk Vreelant
-464,Niesse Neefje
-465,Johannes Johannise van Wagenen
-466,Niesse van Wagenen
-467,Joris Cadmus
-468,Annatie van Hoorn
-469,John York
-470,Elizabeth Ovenmoef
-471,Livinas Winne
-472,Annatie Sip
-473,Merselis Merselis
-474,Elizabeth Vliereboom
-475,Achtje Sickels
-476,Mattheus Everse
-477,Hendrick Fielding
-478,Achtje van Winkel
-479,Helmich van Houten
-480,Cornelius Vreelant
-481,Catharina Cadmus
-482,Rachel Kammegaar
-483,Claes Vreelant
-484,Cathalina Sip
-485,William Jackson
-486,Annatie Vreelinghuysen
-487,Abel de Grau
-488,Mayke van Idesteyn
-489,Helmich Vreelant
-490,Neeltie van Hoorn
-491,Jacobus Schmidt
-492,Jannitie Buys
-493,Ide Merselis
-494,Adriaantje Sip
-495,Peter de Groot
-496,Hester Brouwer
-497,Johannes Winne
-498,Aeltie Dirckse
-499,Aeltie Vreelant
-500,Gerbrant Gerbrantse
-501,Catharina Spier
-502,Aeltie Juriansen
-503,Aegie van Winkel
-504,Casper Stuyvesant
-505,Sara Couwenhoven
-506,William Androw Donen
-507,Catharina French
-508,Annatie Vreelant
-509,Aeltie Diderix
-510,Nicholas Pryer
-511,Hester Banta
-512,Seel Merselis
-513,Annatie Bessed
-514,Johannes Brouwer
-515,Daniel Solder
-516,Jacomin Toers
-517,Mayke Tades
-518,Aegie Vreelant
-519,Daniel van Reype
-520,Elizabeth Terhuen
-521,Johannes van Houten
-522,Aeltie Sickels
-523,Cornelius Sip
-524,Beletie Vreelant
-525,Henry Fielden
-526,Annatie Diderix
-527,Geertie Sip
-528,Jenneke Merselis
-529,Aeltie van Reype
-530,Johannes van Hoorn
-531,Beletie van Reype
-532,Johannes Post
-533,Catharina Rutan
-534,Jacobus Calyer
-535,Geertie Diderix
-536,Egbert Post
-537,Saartje Stuyvesant
-538,Mattheus Nieukerk
-539,Catlyntie Toers
-540,Tammi Ellen
-541,Elizabeth Poulus
-542,Geertie Banta
-543,Neeltie Gerbrantse
-544,Hermanis Veeder
-545,Barnabas Day
-546,Maria Berdet
-547,Christian Cemmel
-548,Dirk Verveelen
-549,Daniel Diderix
-550,Aegie Sickels
-551,Katie Hoogland
-552,Barent Nieukerk
-553,Annatie Toers
-554,Jacob Vreelant
-555,Maritie Banta
-556,Tietye Verveelen
-557,Abraham Toers
-558,Frenkye Santfort
-559,Daniel Sickels
-560,Geertie van der Hoef
-561,Saartje Pryer
-562,Geertie van Reype
-563,Jannitie Diderix
-564,Billi Erle
-565,Catharina Buys
-566,Polly Berdet
-567,Nicholas Toers
-568,Jannitie van Reype
-569,Saartje Couwenhoven
-570,Jenneke Stuyvesant
-571,Mayke Eydestyn
-572,Jacob Nieukerk
-573,Feytie Hennion
-574,Helena de Maree
-575,Petrus van der Hoef
-576,Rachel van Blerkom
-577,Wyntie der Jee
-578,Jannitie Kip
-579,Jannitie van Saan
-580,Daniel Erle
-581,Maritie Wilyems
-582,Sara Pryer
-583,Sara Waldron
-584,Enoch Vreelant
-585,Katie Kip
-586,Sara Stuyvesant
-587,Cornelius Erle
-588,Elizabeth Donkim
-589,Jannitie Brouwer
-590,Peter Kool
-591,Susanna Lattoret
-592,Koobes Makniel
-593,Annatie Lisk
-594,Betye Terhuen
-595,Ariaentie Schmidt
-596,Cornelia Hoogland
-597,Isaac van Gelder
-598,Elizabeth Wekken
-599,Johannes Buys
-600,Helena Merselis
-601,Rachel van der Hoef
-602,Elizabeth Gerbrantse
-603,John Meyer
-604,Elizabeth Meyer
-605,Jacob Gerbrantse
-606,Katie Erle
-607,Nettennel Erle
-608,Polly Erle
-609,Jacob Pryer
-610,Sally Eiddem
-611,Nancy Bessed
-612,Sally Pier
-613,Johannes Mutsker
-614,Jannitie Fielden
-615,Nicholas Lisier
-616,Maritie Kroesen
-617,John Buys
-618,Annatie Merselis
-619,Isaac Jansen
-620,Jannitie Boerum
-621,Catlyntie van Wagenen
-622,Jacob van Hoorn
-623,Catharina Stuyvesant
-624,Jorg Wels
-625,Loos Gilbert
-626,Gileam Outwater
-627,Johannes Merselis
-628,Wiert Banta
-629,Lea de Groot
-630,Peter Cadmus
-631,Blandina Kip
-632,Jurrie Collard
-633,Polly Toeder
-634,Polly van Waert
-635,John Vreelant
-636,Katie de Maree
-637,Leevey Raeft
-638,Sara Buys
-639,John Wieller
-640,Elizabeth Bertolf
-641,Sara Spier
-642,Richard Boskerk
-643,Sara Broeks
-644,Stintie Eydersteyn
-645,Barent van Nieuwkerk
-646,Aegie Blinkerhoff
-647,Harman Gardenier
-648,Maria Rutan
-649,Catharina Klyndinney
-650,Jan Merselis
-651,Walter Klyndinney
-652,John Ackerman
-653,Annatie Demsei
-654,Kobes van Gelder
-655,Helena Gerbrantse
-656,Antibby Erle
-657,Elizabeth Edsall
-658,Rachel de Maree
-659,Sally Iddo
-660,Catharina van Reype
-661,John Smith
-662,Nancy de Maree
-663,Aegie Fielden
-664,Hendrick Ackerman
-665,Rebecca Halenbeek
-666,Thomas Cubberley
-667,Maria Mersaro
-668,Hendrick Nieukerk
-669,Jenneke Vreelant
-670,Hendrick Blinkerhoff
-671,Lea van Wagenen
-672,Geertie Kog
-673,Geertie Vreelant
-674,Jannitie Cadmus
-675,Jannitie Blinkerhoff
-676,Jacob Everse
-677,Catharina Smith
-678,John Gerritse
-679,Mattie Cadmus
-680,Polly Misyero
-681,Barent Everse
-682,Jeinie MacDaniel
-683,David Hennion
-684,Catlyntie Everse
-685,James Dad
-686,Maritie van Scheyve
-687,Johannes Collard
-688,Geertie Pryer
-689,Jurrie van Winkel
-690,John van Houten
-691,Annatie Collard
-692,Sara Griffins
-693,Katie Klyndinney
-694,John Killi
-695,Lea Diderix
-696,Joris Shipper
-697,Catharina van Winkel
-698,Jannitie MacDaniel
-699,Sally Griffins
-700,Abel Smith
-701,Rachel Douwe
-702,Casper Sebriskie
-703,Jannitie Gerbrantse
-704,John Shipper
-705,Katie Baelden
-706,Abraham van Winkel
-707,Annatie Klyndinney
-708,Eleanor Toers
-709,Hendrick Banta
-710,Benjamin Etli
-711,Pekkee Brouyer
-712,Arei Banta
-713,Helena Westervelt
-714,Joris Spier
-715,Ned de Vael
-716,Nancy Don
-717,John Blinkerhoff
-718,Sally Smith
-719,Nancy Klyndinney
-720,Thomas MacDaniel
-721,Annatie van Scheyve
-722,Adam Rap
-723,Ariaentie Pryer
-724,Michael de Mott
-725,Maritie Manderviel
-726,Helena Vreelant
-727,Jannitie Deryee
-728,Hartman Pryer
-729,Santye Post
-730,Rachel Sickels
-731,Casper Cadmus
-732,Catlyntie Dad
-733,Cornelius van Reype
-734,Elizabeth Vreelant
-735,Helena van Hoorn
-736,Jannitie Winne
-737,John Day
-738,Femmetye Creen
-739,Polly Ackerman
-740,Joris Sippe
-741,Annatie Lukas
-742,Coenel Klopper
-743,Peter Marse
-744,Maritie Loockermans
-745,Anna Stuyvesant
-746,Peter Jansen
-747,Harman Eduwaertse
-748,N Bayard
-749,Paulus Cornelis
-750,Hans Kierstede
-751,Peter Janse Steenhalder
-752,Simon Carelse
-753,Abraham van Laer
-754,Hans Diderix
-755,Jan Loserecht
-756,Michael Tades
-757,Cornelius Abramze
-758,Warnear Wessels
-759,Dirk Claesen Braack
-760,Englebert Steynmets
-761,Jacob Cornelis
-762,R van Giesen
-763,Tys Barends
-764,Guert Koerten
-765,Jan Cornelis Buys
-766,Dirk Gerritse
-767,William Hoppe
-768,Jan Streycker
-769,Jacob Lubi
-770,Jan Davids
-771,Peter Corsen
-772,Hans Dirckse
-773,Johannes Steynmets
-774,Kersten de Schemaker
-775,Cornelius Thomase
-776,Mattheus Hoppe
-777,Nicola de Pree
-778,Josias Marse
-779,Roelof Lubberts
-780,Cristoffel Kabasje
-781,Jacob Jansz van der Bild
-782,Jan Aerts van de Bilt
-783,Hessel Wiggertse
-784,Paulus Turk
-785,Abraham Cornelis
-786,Jan Herperingh
-787,William Jansen
-788,Jan Arentse Toers
-789,Elias Michielse Vreelant
-790,Adam Corle
-791,Jan Berberno
-792,Jan Pieter Slot
-793,Harman Gerritse
-794,Teunis Jansen
-795,Marthen Poulus
-796,??? Hermense
-797,Geertie van Houten
-798,William Merry
-799,Jan Willemse van Deventer
-800,Johannes van Giesen
-801,Lodewick Ackerman
-802,Jacob Hendriksz
-803,Jos Steynmets
-804,Thomas Louerse
-805,Mr B Baeyert
-806,Hartman Vreelant
-807,Tyme Jansen Valentyn
-808,Gisbert Jansen
-809,Jacob Elyassen Vreelant
-810,Wander Dirckse
-811,David Willemsz
-812,Cornelius Beling
-813,William Bogert
-814,Harman Juriansen
-815,Jacob Swaan
-816,Cornelius Helmigs
-817,Hendrick Bertolf
-818,Arien Sip
-819,Carel Jacobs
-820,David Coesaerdt
-821,Antoine de Mott
-822,Rut van Hoorn
-823,Evert Duyke
-824,Dirk Hendricksen Brinkerhoff
-825,Roelof Verkerk
-826,Cornelis van Vorst
-827,Claes Harmanssen Vreelant
-828,Geertie van Gelder
-829,??? Pieterse
-830,Geertie Claas Kuyper
-831,Jacobus Blinkerhoff
-832,Abraham Adrianse
-833,Abraham Brasen
-834,Thomas Pier
-835,Dirk Blinkerhoff
-836,Dirk van Hoorn
-837,Johannes Pieterse
-838,Hendrick Stoothoff
-839,Cornelius Mattheeusen
-840,Marthen Winne
-841,Johannes de Groot
-842,David Abeel
-843,Johannes Tades
-844,Zacharias Ziegelse
-845,Ide Sip Antje
-846,Paulus Matteusse Judik
-847,Jacob Tomasen
-848,Jacob Pier
-849,Hendrick Cuyper
-850,Hendrick Spier
-851,Michael Harmanssen Vreelant
-852,Daniel Waldron
-853,Geertie Kroese
-854,Hendrick de Mott
-855,Thomas Outwater
-856,Hessel Pieters van Wagening
-857,Abraham Brouwer
-858,Thomas Vos
-859,Johannes Westervelt
-860,Johannes Dirckse
-861,Hartman Blinkerhoff
-862,Abraham Dirckse
-863,Michael Hendrickse Vreland
-864,Hendrick Sabriskie
-865,Peter Adolf
-866,Abraham Cadmus
-867,Teunis Gerbrantse
-868,Patrick Jackson
-869,Daniel Salders
-870,Gorge Fielding
-871,James Kalyer
-872,Cornelius Dirckse
-873,Hartman Sickels
-874,Michael Buys
-875,Hendrick Kuyser
-876,Anna Miller
-877,Johannes Bon
-878,Martynes Schoonmaker
-879,Joris Stek
-880,Joost Sabriskie
-881,Isaac Buys
-882,Jacob de Mott
-883,Joseph van Winkel
-884,Johannes van Waert
-885,Annatie van der Spiegel
-886,Abraham Rutan
-887,Claes de Mott
-888,James Collard
-889,Peter Simmensen
-890,Tewes Nieukerk
-891,Jannitie Banta
-892,Kobes Brouwer
-893,Cornelius Corsen
-894,Daniel Verveelen
-895,Isaac van Saan
-896,Saartje Ackerman
-897,Jacobus van der Hoef
-898,Rut van Bront
-899,Albert Terhuen
-900,Johannes de Maree
-901,Geertie Kogh
-902,Lucas van Blerkom
-903,Johannes van Reype
-904,John Bon
-905,Daniel Fish
-906,Maritie van der Hoef
-907,Gergs Maeds
-908,Claes van Houten
-909,Nelley Klyndinney
-910,Jacob Merselis
-911,Samuel Berdet
-912,Hendrick Erle
-913,Patrick Reyli
-914,Peter Sip
-915,Arend Nieukerk
-916,Stintie Jacobs
-917,Maritie Lukas
-918,Jannitie Steynmets
-919,wife of Pieter Mercelis
-920,Maritie Cornelis
-921,Aeltie van Kouwenhoven
-922,wife of Casperus Steynmets
-923,Harman Smee
-924,Tryntie Simons
-925,Hendrick Wessels
-926,Maria Vermeulen
-927,wife of Pieter Janse Steenhalder
-928,Carel Carelse
-929,Maritie Wernaers
-930,Geertie Cornelis
-931,Freytje Hertmans
-932,Annatie Hendriksz
-933,wife of Dirck Gerrits
-934,Greetruy Gerritse
-935,wife of Gerbrant Claese
-936,Susanna Corsen
-937,Cornelius Jansen
-938,Margriet Krets
-939,wife of Jacob Jacobse
-940,wife of Hans Diderickse
-941,wife of David de Maree
-942,Barent Hendriksz
-943,Minouw Poulus
-944,Maria de Maree
-945,wife of Sibi Epkese
-946,Annatie Ackerman
-947,wife of Josias Marse
-948,Wyntie Cornelis
-949,wife of Jan Lubbertse
-950,wife of Nicola de Vouw
-951,Ariaentie Michielse
-952,wife of Lubbert Lubbertse
-953,Geertie Hoppe
-954,Hester Hanse
-955,Willempje Tysen
-956,Annatie van de Voorst
-957,wife of Hertman Magielse
-958,Jannitie Barends
-959,wife of Wilem Jansen
-960,Mayke Thomase
-961,Aeltie Bogerts
-962,wife of Johannes Spier
-963,Margriet Wernaers
-964,Maria Dortusee
-965,Anna Jacobs
-966,wife of Helmigh Roelofse
-967,Dirk van Giesen
-968,Maritie Tonis
-969,Christina Poulus
-970,Elizabeth Elysabeth
-971,Ariaentie Steynmets
-972,Joanna van Voorst Bertholf
-973,Joanna Pieterse
-974,Jannitie Thomase
-975,Andries Claese
-976,Hillegont Verplanck
-977,Margriet Wande
-978,Annatie Cornelis van de Voorst
-979,Geertie Wessels
-980,Mattie Jacobs
-981,Maria Sichgels
-982,Tryntie Hanse
-983,Ursuleena Steynmets
-984,Claes Braack
-985,Dieuwer Hendriksz
-986,Maritie Baeyert
-987,Maritie Rutger
-988,Geertie Claese
-989,Susanna De Voe
-990,Hester Jansz
-991,Sara Bartolfs
-992,Hendrick Buys
-993,Maritie van Neste
-994,Elizabeth Merselis
-995,Feytie Cornelise Vreland
-996,Annatie Walingh
-997,Hildegond Joris
-998,Cathalina Helmens
-999,Feytie Cornelis
-1000,Rachel Vreelant
-1001,Saartje van Neste
-1002,wife of Jan Sip
-1003,Maritie Hoppe
-1004,Maritie Vreelant
-1005,Maritie Gerbrantse
-1006,Annatie Haargjes
-1007,wife of Cornelis Vreelant
-1008,Neeltie van Vechten
-1009,Geertie van Deusen
-1010,Pryntie Smits
-1011,Annatie Seboy
-1012,Maritie Harmanssen Vreelant
-1013,Catharina Simons
-1014,Geertie Helmigs
-1015,wife of Cornelis van Vorst
-1016,wife of Cornelis Blinkerhof
-1017,wife of Cornelis Machielsen Vreelant
-1018,Aeltie Blinkerhoff
-1019,Tanneke Pieterse
-1020,wife of Johannes Gerretsen van Wagenen
-1021,Aeltie van Giesen
-1022,??? Paersel
-1023,wife of Helmig
-1024,Margriet de Mott
-1025,Neeltie Juriansen
-1026,Selytje Pryer
-1027,Margriet Banta
-1028,Elizabeth Brasen
-1029,Sophia Sickels
-1030,wife of Dirk Blinkerhoff
-1031,wife of Daniel van Winkel
-1032,wife of Dirk van Hoorn
-1033,wife of Cornelis Gerrebrantsen
-1034,wife of Hendrik Sikkels
-1035,wife of Johannis Pietersen
-1036,wife of Hendrik Stoothoff
-1037,Tanneke van de Voorst
-1038,Jannitie Mattheeusen
-1039,wife of Marten Winning
-1040,Helena Steynmets
-1041,wife of Jacob Garretsen van Wagening
-1042,wife of Gerret Juriaansen
-1043,wife of Abraham Vreeland
-1044,wife of Abraham Pier
-1045,wife of Rutger van Hoorn
-1046,wife of Michiel Hartmansen
-1047,wife of David Abeel
-1048,wife of Michiel Vreelant Else
-1049,Annatie Tades
-1050,wife of Johannes Helmegsen van Houten
-1051,wife of Ide Sip Antje
-1052,wife of Poulus Matteusse Judik
-1053,wife Jenneke
-1054,wife of Gerrit Roos
-1055,wife Antje Diederikz
-1056,wife of Jacob Pier
-1057,wife Catlyntje
-1058,wife of Jan van Hoorn
-1059,wife of Jacob van Wagening
-1060,wife of Barent Spier
-1061,wife of Ide Sip
-1062,wife of Juryan Gerrits
-1063,Cathalina van Houten
-1064,Sara Cuyper
-1065,Lea Spier
-1066,Geesje Spier
-1067,Cathalina Hafte
-1068,Jannitie Nieukerk
-1069,Maria Pels
-1070,Jannitie van Wagenen
-1071,Sara Slot
-1072,Elizabeth Juriansen
-1073,Anna Spier
-1074,Catharina Bon
-1075,Elizabeth Ackerman
-1076,Maria van Vorst
-1077,Greetruy Romme
-1078,Achtje de Groot
-1079,Geesje Blinkerhoff
-1080,Lea Juriansen
-1081,Margriet Dirckse
-1082,Jannitie Pryer
-1083,Maria Haring
-1084,Geertie Bras
-1085,Feytie van Winkel
-1086,Claes Winne
-1087,Elizabeth York
-1088,Maria Winne
-1089,Annatie Bos
-1090,Debora Fielding
-1091,Elizabeth Buys
-1092,Catharina Gerbrantse
-1093,Maritie van Reype
-1094,Susanna Bessed
-1095,Jannitie Sip
-1096,Annatie Terhuen
-1097,Lea Brouwer
-1098,Feytie van Houten
-1099,Annatie Jackson
-1100,Tryntie Gerbrantse
-1101,Femmetye van Tuyl
-1102,Catharina Nieukerk
-1103,Helena Bessed
-1104,Cornelius Hoogland
-1105,Jenneke Cadmus
-1106,Ariaentie van Reype
-1107,Neeltie Cadmus
-1108,Jannitie Ackerman
-1109,Maritie de Maree
-1110,wife of Johannes De Marre
-1111,Bekye Erle
-1112,Elizabeth Post
-1113,Rachel Banker
-1114,Annatie Bokkenhoven
-1115,Susanna Westervelt
-1116,Samalli Richard
-1117,Greetruy Sickels
-1118,Sara Iddo
-1119,Jannitie Toers
-1120,wife of Samuel Berdet
-1121,Elizabeth de Vael
-1122,Maritie Hennion
-1123,Jannitie Deryie
-1124,Jenneke Sip
-1125,Annatie Kalyer
-1126,Helena Everse
-1127,Jacomin Solders
-1128,Lukas Dirkse
-1129,Dirckje Meyers
-1130,Jannetje Magliese
-1131,Annetie Edsall
-1132,Swaentje Jans
-1133,his mother
-1134,Catreyna Crigers
-1135,Lourus Arentse Toers
-1136,Jan Pieterse Bos
-1137,Tonis Roelofsen
-1138,Lubbert Lubertse 
-1139,Barent Vochst
-1140,Gerit Gerritse
-1141,Neeltje Dirckx widow of Jan van de Linden
-1142,David Ackerman
-1143,Catreyna Bevois
-1144,Jan Didericx
-1145,Jan Damarees
-1146,Gerrit Steynmets
-1147,Pieter Louersen
-1148,Gerrit Gerritsen 
-1149,Roelof Westervelt
-1150,Jan Andresen
-1151,David de Maree 
-1152,Hermanus Gerritse
-1153,Roelof Helmighsen
-1154,Ann Matkins
-1155,Mattewes Niewkerk
-1156,Annatie Josephs
+293,Elizabeth 2 Gerritse
+294,Maritie 1 Juriansen
+295,Enoch Michielse Vreelant
+296,Achtje van Hoorn
+297,Johannes Gerretsen van Wagening
+298,Cathalina Helmigs
+299,Mattheus de Mott
+300,Margriet Hendricks Brinkerhoff
+301,Neeltie Dirckx van Vechten
+302,Johannes Thomase
+303,Maritie van Deusen
+304,Evert Evertsen
+305,Catharina Lubberts
+306,Andries Hoppe
+307,Abigail Hoppe
+308,Harpert Gerbrantse
+309,Hillegont Merselis
+310,Margriet Blinkerhoff
+311,Roelof Helmighsen van Houten
+312,Achtje 1 Vreelant
+313,Eva van Hoorn
+314,Benjamin Herrisnut
+315,Annatie Herrisnut
+316,Jannitie van Vorst
+317,Cornelius 1 Blinkerhoff
+318,Adrian Vermeule
+319,Christina Fredrikse
+320,Hendrick Claasen Kuyper
+321,Jannitie Verkerk
+322,Abigail Ackerman
+323,Catharina van Blerkom
+324,Geertie Roos
+325,Judith Arentsen Toers
+326,Catlyntie Helmigs
+327,Daniel 1 van Winkel
+328,Jannitie Cornelis
+329,Achtje Harmanssen Vreelant
+330,Tryntie Elyassen Vreelant
+331,Evert van Naamen
+332,Wyntie van Naaman
+333,Judith Toers
+334,Meyndert 1 Gerbrantse
+335,Tryntie Jacobsen van Winkel
+336,Casper 1 Pryer
+337,Saartje Adrianse
+338,Cornelius 1 Gerbrantse
+339,Jannitie 1 Spier
+340,Hendrick 1 Sickels
+341,Geertie Fredrikse
+342,Jacob Gerretsen van Wagening
+343,Lea Gerritse
+344,Johannes Helmegsen van Houten
+345,Greetruy Fredrikse
+346,Marthen Wennem
+347,Jannetie 1 Vreelant
+348,Peter 2 Merselis
+349,Tanneke Pryer
+350,Johannes Johanisen Vreeland
+351,Annatie Dirckse
+352,Geertie 1 Matheus
+353,Catharina Cuyper
+354,Sara Adrianse
+355,Ide Sip
+356,Annatie 1 van Wagenen
+357,Johannes 2 Vreelant
+358,Michael Hartmansen Vreeland
+359,Elizabeth 3 Gerritse
+360,Helena Johanisen Vreeland
+361,Hendrick van der Hoeven
+362,Eva Slot
+363,Zacharias 1 Sickels
+364,Ariaentie Harmanssen Vreelant
+365,Paulus Mattheeusen
+366,Helena Spier
+367,Cornelius Gerretsen
+368,Aeltie van Winkel
+369,Johannes 1 Sickels
+370,Claes Blinkerhoff
+371,Jurian Gerretsen
+372,Margriet 1 Diderix
+373,Morgen Schmidt
+374,Catharina Tades
+375,Michael Cornelise Vreland
+376,Jenneke Helmegsen van Houten
+377,Jannitie Johanisen Vreeland
+378,Harman Steynmets
+379,Elsie Couwenhoven
+380,Jacob Brouwer
+381,Lea Slot
+382,Arend Toers
+383,Annatie Spier
+384,Peter Maerle
+385,Maritie Adrianse
+386,Johannes Cavelier
+387,Cathalina Cavelier
+388,Jenneke Pryer
+389,Geertie 3 Dirckse
+390,Jan Hendriksz
+391,Annatie Pryer
+392,John Diderix
+393,Geertie van Winkel
+394,Abraham 1 Spier
+395,Paulus van Nieuwkerk
+396,Joris Enogsen Vreelant
+397,Annatie van Winkel
+398,Dirk Fredricksen
+399,Jannitie van Hoorn
+400,Peter Stuyvesant
+401,Pryntie Pryer
+402,Hendrick 1 van Winkel
+403,Catharina Waldron
+404,Katie Tades
+405,Cornelius Diderix
+406,Annatie Roos
+407,Annatie Gerritse
+408,William Sickels
+409,Elizabeth Kuypers
+410,Geertie Hennion
+411,Maritie van Vorst
+412,Dirk Cadmus
+413,Jenneke van Houten
+414,Geertie Nieukerk
+415,Sara Ackerman
+416,Helmich van Wagenen
+417,Maritie Blinkerhoff
+418,Rachel van Winkel
+419,Benjamin Spier
+420,Maritie Spier
+421,Joris Vreelant
+422,Paulus Nieukerk
+423,Ulrick 2 Brouwer
+424,Maria van de Voorst
+425,Johannes 2 Spier
+426,Geertie Romme
+427,Abraham Sickels
+428,Achtje Blinkerhoff
+429,Joseph Waldron
+430,Aaftje Heilhaaken
+431,Tryntie van Winkel
+432,Abraham Diderix
+433,Geertie Bon
+434,Geertie van Nieuwkerk
+435,Johannes Diderix
+436,Hester Vreelant
+437,Hendrick van der Hoef
+438,Cornelius Juriansen
+439,Peter van Benthuysen
+440,Margriet Olpherts
+441,Eva Heilhaaken
+442,Michael 1 Vreelant Else
+443,Jan 2 van Hoorn
+444,Helena Sip
+445,Jacob van Wagenen
+446,Jannitie van Houten
+447,Mattheus Ariens
+448,Sophia van Vorst
+449,Abraham van Tuyl
+450,Mattie Vreelant
+451,Jacob Diderix
+452,Jannitie van Winkel
+453,Albert Spier
+454,Osseltje Westervelt
+455,Johannes Everse
+456,Seytje Spier
+457,Maria Vos
+458,Seydke Everse
+459,Abraham Pryer
+460,Maritie Sickels
+461,Cornelius Boskerk
+462,Beletie van Wagenen
+463,Johannes Pryer
+464,Geertie Sickels
+465,Harman Veeder
+466,Annatie Hennion
+467,Cornelius van Wagenen
+468,Helena 2 Been
+469,Johannes Juriansen
+470,Margriet 2 van Winkel
+471,Robert 2 Sickels
+472,Annatie Winne
+473,Dirk Vreelant
+474,Niesse Neefje
+475,Johannes Johannise van Wagenen
+476,Niesse van Wagenen
+477,Andries 2 Pryer
+478,Joris Cadmus
+479,Cornelis 2 van de Voorst
+480,Annatie van Hoorn
+481,John York
+482,Elizabeth Ovenmoef
+483,Livinas Winne
+484,Annatie Sip
+485,Merselis Merselis
+486,Elizabeth Vliereboom
+487,Abraham 2 Spier
+488,Achtje Sickels
+489,Mattheus Everse
+490,Hendrick Fielding
+491,Achtje van Winkel
+492,Helmich van Houten
+493,Cornelius 2 Vreelant
+494,Catharina Cadmus
+495,Cornelius 2 Gerbrantse
+496,Jannitie 1 van Hoorn
+497,Jacob 2 Jacobse van Winkel
+498,Rachel Kammegaar
+499,Claes Vreelant
+500,Cathalina Sip
+501,William Jackson
+502,Annatie Vreelinghuysen
+503,Abel de Grau
+504,Mayke van Idesteyn
+505,Helmich Vreelant
+506,Neeltie 2 van Hoorn
+507,Jacobus Schmidt
+508,Jannitie Buys
+509,Ide Merselis
+510,Adriaantje Sip
+511,Peter de Groot
+512,Hester Brouwer
+513,Johannes Winne
+514,Aeltie Dirckse
+515,Aeltie Vreelant
+516,Gerbrant Gerbrantse
+517,Catharina 2 Spier
+518,Daniel 2 van Winkel
+519,Aeltie 3 Juriansen
+520,Aegie van Winkel
+521,Casper Stuyvesant
+522,Sara Couwenhoven
+523,William Androw Donen
+524,Catharina French
+525,Annatie Vreelant
+526,Aeltie Diderix
+527,Nicholas Pryer
+528,Hester Banta
+529,Seel Merselis
+530,Annatie Bessed
+531,Johannes Brouwer
+532,Catharina 1 Waldron
+533,Daniel Solder
+534,Jacomin 2 Toers
+535,Mayke Tades
+536,Aegie 1 Vreelant
+537,Daniel van Reype
+538,Elizabeth Terhuen
+539,Johannes 1 van Houten
+540,Aeltie Sickels
+541,Cornelius Sip
+542,Beletie Vreelant
+543,Henry Fielden
+544,Annatie Diderix
+545,Geertie Sip
+546,Jenneke Merselis
+547,Aeltie van Reype
+548,Johannes van Hoorn
+549,Beletie van Reype
+550,Johannes Post
+551,Catharina Rutan
+552,Jacobus Calyer
+553,Geertie Diderix
+554,Egbert Post
+555,Saartje Stuyvesant
+556,Mattheus Nieukerk
+557,Catlyntie Toers
+558,Tammi Ellen
+559,Elizabeth Poulus
+560,Geertie 2 Banta
+561,Neeltie 2 Gerbrantse
+562,Hermanis Veeder
+563,Barnabas Day
+564,Maria Berdet
+565,Christian Cemmel
+566,Dirk Verveelen
+567,Daniel Diderix
+568,Aegie Sickels
+569,Katie Hoogland
+570,Barent Nieukerk
+571,Annatie Toers
+572,Jacob Vreelant
+573,Maritie Banta
+574,Tietye Verveelen
+575,Abraham Toers
+576,Frenkye Santfort
+577,Daniel Sickels
+578,Geertie van der Hoef
+579,Saartje Pryer
+580,Geertie van Reype
+581,Jannitie Diderix
+582,Billi Erle
+583,Catharina Buys
+584,Polly Berdet
+585,Nicholas Toers
+586,Jannitie van Reype
+587,Saartje Couwenhoven
+588,Hendrick 2 Sickels
+589,Jenneke Stuyvesant
+590,Mayke Eydestyn
+591,Jacob Nieukerk
+592,Feytie Hennion
+593,Helena de Maree
+594,Petrus van der Hoef
+595,Rachel van Blerkom
+596,Wyntie der Jee
+597,Cornelius 2 Blinkerhoff
+598,Jannitie Kip
+599,Jannitie van Saan
+600,Daniel Erle
+601,Maritie Wilyems
+602,Sara Pryer
+603,Johannes 2 Sickels
+604,Sara Waldron
+605,Enoch 2 Vreelant
+606,Katie Kip
+607,Sara Stuyvesant
+608,Cornelius Erle
+609,Elizabeth Donkim
+610,Hendrick 2 van Winkel
+611,Jannitie Brouwer
+612,Peter Kool
+613,Susanna Lattoret
+614,Koobes Makniel
+615,Annatie Lisk
+616,Betye Terhuen
+617,Ariaentie Schmidt
+618,Cornelia Hoogland
+619,Isaac van Gelder
+620,Elizabeth Wekken
+621,Johannes Buys
+622,Helena 2 Merselis
+623,Rachel van der Hoef
+624,Meyndert 2 Gerbrantse
+625,Elizabeth Gerbrantse
+626,John Meyer
+627,Elizabeth Meyer
+628,Jacob Gerbrantse
+629,Katie Erle
+630,Nettennel Erle
+631,Polly Erle
+632,Jacob Pryer
+633,Sally Eiddem
+634,Nancy Bessed
+635,Sally Pier
+636,Johannes Mutsker
+637,Jannitie Fielden
+638,Nicholas Lisier
+639,Maritie Kroesen
+640,John Buys
+641,Annatie Merselis
+642,Isaac Jansen
+643,Jannitie Boerum
+644,Catlyntie van Wagenen
+645,Jacob van Hoorn
+646,Catharina Stuyvesant
+647,Jorg Wels
+648,Loos Gilbert
+649,Gileam Outwater
+650,Johannes Merselis
+651,Wiert Banta
+652,Lea de Groot
+653,Peter Cadmus
+654,Blandina Kip
+655,Jurrie Collard
+656,Polly Toeder
+657,Polly van Waert
+658,John Vreelant
+659,Katie de Maree
+660,Leevey Raeft
+661,Sara Buys
+662,John Wieller
+663,Elizabeth Bertolf
+664,Sara Spier
+665,Richard Boskerk
+666,Sara Broeks
+667,Stintie Eydersteyn
+668,Barent van Nieuwkerk
+669,Aegie Blinkerhoff
+670,Harman Gardenier
+671,Maria Rutan
+672,Casper 2 Pryer
+673,Catharina Klyndinney
+674,Jan Merselis
+675,Walter Klyndinney
+676,John Ackerman
+677,Annatie Demsei
+678,Kobes van Gelder
+679,Sara 1 Ackerman
+680,Helena Gerbrantse
+681,Antibby Erle
+682,Elizabeth Edsall
+683,Rachel de Maree
+684,Sally Iddo
+685,Catharina van Reype
+686,John Smith
+687,Nancy de Maree
+688,Aegie Fielden
+689,Michael 2 Vreelant Else
+690,Hendrick Ackerman
+691,Rebecca Halenbeek
+692,Thomas Cubberley
+693,Maria Mersaro
+694,Hendrick Nieukerk
+695,Jenneke Vreelant
+696,Hendrick Blinkerhoff
+697,Lea van Wagenen
+698,Geertie Kog
+699,Geertie Vreelant
+700,Jannitie Cadmus
+701,Jannitie Blinkerhoff
+702,Jacob Everse
+703,Catharina Smith
+704,John Gerritse
+705,Mattie Cadmus
+706,Polly Misyero
+707,Barent Everse
+708,Jeinie MacDaniel
+709,David Hennion
+710,Catlyntie Everse
+711,James Dad
+712,Maritie van Scheyve
+713,Johannes Collard
+714,Geertie Pryer
+715,Jurrie van Winkel
+716,John van Houten
+717,Annatie Collard
+718,Sara Griffins
+719,Katie Klyndinney
+720,John Killi
+721,Lea Diderix
+722,Joris Shipper
+723,Catharina 2 van Winkel
+724,Jannitie MacDaniel
+725,Sally Griffins
+726,Abel Smith
+727,Rachel Douwe
+728,Casper Sebriskie
+729,Jan 3 van Hoorn
+730,Jannitie Gerbrantse
+731,John Shipper
+732,Katie Baelden
+733,Abraham van Winkel
+734,Annatie Klyndinney
+735,Zacharias 2 Sickels
+736,Eleanor Toers
+737,Hendrick Banta
+738,Margriet 2 Diderix
+739,Benjamin Etli
+740,Pekkee Brouyer
+741,Arei Banta
+742,Helena Westervelt
+743,Joris Spier
+744,Ned de Vael
+745,Nancy Don
+746,John Blinkerhoff
+747,Sally Smith
+748,Nancy Klyndinney
+749,Thomas MacDaniel
+750,Annatie van Scheyve
+751,Adam Rap
+752,Ariaentie Pryer
+753,Michael de Mott
+754,Maritie Manderviel
+755,Helena 1 Vreelant
+756,Peter 3 Merselis
+757,Jannitie Deryee
+758,Hartman Pryer
+759,Santye Post
+760,Adriaen 2 Post
+761,Rachel Sickels
+762,Casper Cadmus
+763,Catlyntie Dad
+764,Cornelius van Reype
+765,Elizabeth Vreelant
+766,Helena 1 van Hoorn
+767,Jannitie Winne
+768,John Day
+769,Femmetye Creen
+770,Polly Ackerman
+771,Joris Sippe
+772,Annatie Lukas
+773,Coenel Klopper
+774,Peter Marse
+775,Maritie Loockermans
+776,Anna Stuyvesant
+777,Peter Jansen
+778,Peter 1 Merselis
+779,Harman Eduwaertse
+780,N Bayard
+781,Paulus Cornelis
+782,Hans Kierstede
+783,Peter Janse Steenhalder
+784,Simon Carelse
+785,Abraham van Laer
+786,Hans Diderix
+787,Jan Loserecht
+788,Michael Tades
+789,Cornelius Abramze
+790,Warnear Wessels
+791,Dirk Claesen Braack
+792,Englebert Steynmets
+793,Jacob Cornelis
+794,R van Giesen
+795,Tys Barends
+796,Guert Koerten
+797,Jan Cornelis Buys
+798,Dirk Gerritse
+799,William Hoppe
+800,Jan Streycker
+801,Jacob Lubi
+802,Jan Davids
+803,Peter Corsen
+804,Hans Dirckse
+805,Johannes Steynmets
+806,Kersten de Schemaker
+807,Cornelius Thomase
+808,Mattheus Hoppe
+809,Nicola de Pree
+810,Josias Marse
+811,Roelof Lubberts
+812,Cristoffel Kabasje
+813,Jacob Jansz van der Bild
+814,Jan Aerts van de Bilt
+815,Hessel Wiggertse
+816,Paulus Turk
+817,Abraham Cornelis
+818,Jan Herperingh
+819,William Jansen
+820,Jan Arentse Toers
+821,Elias Michielse Vreelant
+822,Adam Corle
+823,Jan Berberno
+824,Jan Pieter Slot
+825,Harman Gerritse
+826,Teunis Jansen
+827,Marthen Poulus
+828,??? Hermense
+829,Geertie van Houten
+830,William Merry
+831,Jan Willemse van Deventer
+832,Johannes van Giesen
+833,Lodewick Ackerman
+834,Jacob Hendriksz
+835,Enoch 1 Vreelant
+836,Jos Steynmets
+837,Thomas Louerse
+838,Mr B Baeyert
+839,Cornelius 1 Vreelant
+840,Hartman 1 Vreelant
+841,Tyme Jansen Valentyn
+842,Gisbert Jansen
+843,Jacob Elyassen Vreelant
+844,Jan 1 van Hoorn
+845,Wander Dirckse
+846,David Willemsz
+847,Cornelius Beling
+848,William Bogert
+849,Harman Juriansen
+850,Jacob Swaan
+851,Cornelius Helmigs
+852,Hendrick Bertolf
+853,Arien Sip
+854,Carel Jacobs
+855,David Coesaerdt
+856,Antoine de Mott
+857,Rut van Hoorn
+858,Evert Duyke
+859,Dirk Hendricksen Brinkerhoff
+860,Roelof Verkerk
+861,Cornelis 1 van Vorst
+862,Claes Harmanssen Vreelant
+863,Geertie van Gelder
+864,??? Pieterse
+865,Geertie Claas Kuyper
+866,Jacobus Blinkerhoff
+867,Abraham Adrianse
+868,Abraham Brasen
+869,Thomas Pier
+870,Dirk Blinkerhoff
+871,Dirk van Hoorn
+872,Johannes Pieterse
+873,Hendrick Stoothoff
+874,Cornelius Mattheeusen
+875,Marthen 1 Winne
+876,Casper 2 Steynmets
+877,Johannes de Groot
+878,David Abeel
+879,Johannes Tades
+880,Zacharias Ziegelse
+881,Ide Sip Antje
+882,Paulus Matteusse Judik
+883,Jacob Tomasen
+884,Jacob Pier
+885,Johannes van Houten
+886,Hendrick Cuyper
+887,Johannes 1 Gerretsen van Wagening
+888,Hendrick Spier
+889,Michael Harmanssen Vreelant
+890,Cornelis 2 van Vorst
+891,Abraham 2 Ackerman
+892,Daniel Waldron
+893,Geertie Kroese
+894,Hendrick de Mott
+895,Thomas Outwater
+896,Hessel Pieters van Wagening
+897,Abraham Brouwer
+898,Thomas Vos
+899,Johannes Westervelt
+900,Johannes Dirckse
+901,Hartman Blinkerhoff
+902,Abraham Dirckse
+903,Michael Hendrickse Vreland
+904,Hendrick Sabriskie
+905,Peter Adolf
+906,Abraham Cadmus
+907,Teunis Gerbrantse
+908,Patrick Jackson
+909,Daniel Salders
+910,Gorge Fielding
+911,James Kalyer
+912,Cornelius Dirckse
+913,Hartman Sickels
+914,Michael Buys
+915,Hendrick Kuyser
+916,Anna Miller
+917,Johannes Bon
+918,Martynes Schoonmaker
+919,Joris Stek
+920,Joost Sabriskie
+921,Isaac Buys
+922,Jacob de Mott
+923,Joseph van Winkel
+924,Hartman 2 Vreelant
+925,Johannes van Waert
+926,Hendrick 1 Cuyper
+927,Annatie van der Spiegel
+928,Abraham Rutan
+929,Claes de Mott
+930,James Collard
+931,Peter Simmensen
+932,Tewes Nieukerk
+933,Jannitie Banta
+934,Kobes Brouwer
+935,Cornelius Corsen
+936,Daniel Verveelen
+937,Isaac van Saan
+938,Saartje Ackerman
+939,Jacobus van der Hoef
+940,Rut van Bront
+941,Albert Terhuen
+942,Johannes de Maree
+943,Geertie Kogh w Mattewes Niewkerk
+944,Lucas van Blerkom
+945,Johannes van Reype
+946,Casper 3 Steynmets
+947,John Bon
+948,Daniel Fish
+949,Maritie van der Hoef
+950,Gergs Maeds
+951,Claes van Houten w Hartman Blinkerhof
+952,Nelley Klyndinney
+953,Jacob Merselis
+954,Samuel Berdet
+955,Hendrick Erle
+956,Patrick Reyli
+957,Marthen 2 Winne
+958,Peter Sip
+959,Arend Nieukerk
+960,Stintie Jacobs
+961,Maritie Lukas
+962,Jannitie 1 Steynmets
+963,wife of Pieter Mercelis
+964,Maritie Cornelis
+965,Aeltie van Kouwenhoven
+966,wife of Casperus Steynmets
+967,Harman Smee
+968,Geertie 1 Dirckse
+969,Tryntie Simons
+970,Hendrick Wessels
+971,Maria Vermeulen
+972,wife of Pieter Janse Steenhalder
+973,Carel Carelse
+974,Maritie Wernaers
+975,Geertie Cornelis
+976,Freytje Hertmans
+977,Annatie Hendriksz
+978,wife of Dirck Gerrits
+979,Greetruy Gerritse
+980,wife of Gerbrant Claese
+981,Susanna Corsen
+982,Cornelius Jansen
+983,Margriet Krets
+984,wife of Jacob Jacobse
+985,wife of Hans Diderickse
+986,wife of David de Maree
+987,Barent Hendriksz
+988,Minouw Poulus
+989,Maria de Maree
+990,wife of Sibi Epkese
+991,Annatie Ackerman
+992,wife of Josias Marse
+993,Wyntie Cornelis
+994,wife of Jan Lubbertse
+995,wife of Nicola de Vouw
+996,Ariaentie Michielse
+997,wife of Lubbert Lubbertse
+998,Geertie Hoppe
+999,Hester Hanse
+1000,Willempje Tysen
+1001,Annatie van de Voorst
+1002,wife of Hertman Magielse
+1003,Jannitie Barends
+1004,Catharina 1 Spier
+1005,wife of Wilem Jansen
+1006,Mayke Thomase
+1007,Aeltie Bogerts
+1008,wife of Johannes Spier
+1009,Margriet Wernaers
+1010,Maria Dortusee
+1011,Anna Jacobs
+1012,wife of Helmigh Roelofse
+1013,Dirk van Giesen
+1014,Maritie Tonis
+1015,Christina Poulus
+1016,Elizabeth Elysabeth
+1017,Ariaentie Steynmets
+1018,Joanna van Voorst Bertholf
+1019,Joanna Pieterse
+1020,Jannitie Thomase
+1021,Andries Claese
+1022,Hillegont Verplanck
+1023,Margriet Wande
+1024,Annatie Cornelis van de Voorst
+1025,Geertie Wessels
+1026,Mattie Jacobs
+1027,Maria Sichgels
+1028,Tryntie Hanse
+1029,Ursuleena Steynmets
+1030,Claes Braack
+1031,Dieuwer Hendriksz
+1032,Maritie Baeyert
+1033,Maritie Rutger
+1034,Geertie Claese
+1035,Susanna De Voe
+1036,Hester Jansz
+1037,Sara Bartolfs
+1038,Hendrick Buys
+1039,Jannitie 2 Steynmets
+1040,Maritie van Neste
+1041,Elizabeth Merselis
+1042,Feytie Cornelise Vreland
+1043,Annatie Walingh
+1044,Hildegond Joris
+1045,Cathalina Helmens
+1046,Aeltie 1 Juriansen
+1047,Feytie Cornelis
+1048,Rachel Vreelant
+1049,Saartje van Neste
+1050,wife of Jan Sip
+1051,Maritie Hoppe
+1052,Maritie 1 Vreelant
+1053,Maritie 1 Gerbrantse
+1054,Annatie Haargjes
+1055,wife of Cornelis Vreelant
+1056,Neeltie van Vechten
+1057,Geertie van Deusen
+1058,Pryntie Smits
+1059,Annatie Seboy
+1060,Maritie Harmanssen Vreelant
+1061,Catharina Simons
+1062,Geertie Helmigs
+1063,wife of Cornelis van Vorst
+1064,wife of Cornelis Blinkerhof
+1065,wife of Cornelis Machielsen Vreelant
+1066,Aeltie Blinkerhoff
+1067,Neeltie 1 van Hoorn
+1068,Jacomin 1 Toers
+1069,Tanneke Pieterse
+1070,wife of Johannes Gerretsen van Wagenen
+1071,Aeltie van Giesen
+1072,??? Paersel
+1073,wife of Helmig
+1074,Freytje 1 Hertmans
+1075,Margriet de Mott
+1076,Neeltie Juriansen
+1077,Selytje 1 Pryer
+1078,Margriet Banta
+1079,Elizabeth Brasen
+1080,Geertie 1 Banta
+1081,Neeltie 1 Gerbrantse
+1082,Sophia Sickels
+1083,wife of Dirk Blinkerhoff
+1084,wife of Daniel van Winkel
+1085,wife of Dirk van Hoorn
+1086,wife of Cornelis Gerrebrantsen
+1087,wife of Hendrik Sikkels
+1088,wife of Johannis Pietersen
+1089,wife of Hendrik Stoothoff
+1090,Tanneke van de Voorst
+1091,Jannitie Mattheeusen
+1092,wife of Marten Winning
+1093,Catharina 1 van Winkel
+1094,Helena Steynmets
+1095,wife of Jacob Garretsen van Wagening
+1096,wife of Gerret Juriaansen
+1097,Helena 1 Merselis
+1098,wife of Abraham Vreeland
+1099,wife of Abraham Pier
+1100,wife of Rutger van Hoorn
+1101,Aeltie 2 Juriansen
+1102,wife of Michiel Hartmansen
+1103,wife of David Abeel
+1104,wife of Michiel Vreelant Else
+1105,Annatie Tades
+1106,wife of Johannes Helmegsen van Houten
+1107,wife of Ide Sip Antje
+1108,wife of Poulus Matteusse Judik
+1109,wife Jenneke
+1110,wife of Gerrit Roos
+1111,wife Antje Diederikz
+1112,wife of Jacob Pier
+1113,wife Catlyntje
+1114,Helena van Hoorn
+1115,wife of Jan van Hoorn
+1116,wife of Jacob van Wagening
+1117,Helena Vreelant
+1118,wife of Barent Spier
+1119,wife of Ide Sip
+1120,wife of Juryan Gerrits
+1121,Cathalina van Houten
+1122,Feytie 2 Vreelant
+1123,Sara Cuyper
+1124,Maritie 2 Gerbrantse
+1125,Aegie Vreelant
+1126,Lea Spier
+1127,Geesje Spier
+1128,Hendrick 2 Hoppe
+1129,Cathalina Hafte
+1130,Jannitie Nieukerk
+1131,Maria Pels
+1132,Jannitie van Wagenen
+1133,Sara Slot
+1134,Elizabeth Juriansen
+1135,Anna Spier
+1136,Catharina Bon
+1137,Elizabeth Ackerman
+1138,Maria van Vorst
+1139,Greetruy Romme
+1140,Achtje de Groot
+1141,Claes van Houten
+1142,Geesje Blinkerhoff
+1143,Lea Juriansen
+1144,Margriet Dirckse
+1145,Jannitie Pryer
+1146,Maria Haring
+1147,Maritie 2 Juriansen
+1148,Geertie Bras
+1149,Selytje 2 Pryer
+1150,Feytie van Winkel
+1151,Claes Winne
+1152,Elizabeth York
+1153,Maria Winne
+1154,Annatie Bos
+1155,Maritie 2 Vreelant
+1156,Debora Fielding
+1157,Elizabeth Buys
+1158,Catharina Gerbrantse
+1159,Jannitie 2 Spier
+1160,Maritie van Reype
+1161,Susanna Bessed
+1162,Annatie 1 Tades
+1163,Jannitie Sip
+1164,Annatie Terhuen
+1165,Lea Brouwer
+1166,Feytie van Houten
+1167,Annatie Jackson
+1168,Tryntie Gerbrantse
+1169,Maritie 3 Gerbrantse
+1170,Femmetye van Tuyl
+1171,Catharina Nieukerk
+1172,Helena Bessed
+1173,Cornelius Hoogland
+1174,Jenneke Cadmus
+1175,Ariaentie van Reype
+1176,Neeltie Cadmus
+1177,Jannitie Ackerman
+1178,Maritie de Maree
+1179,wife of Johannes De Marre
+1180,Bekye Erle
+1181,Elizabeth Post
+1182,Rachel Banker
+1183,Annatie Bokkenhoven
+1184,Susanna Westervelt
+1185,Samalli Richard
+1186,Greetruy Sickels
+1187,Sara Iddo
+1188,Jannitie Toers
+1189,wife of Samuel Berdet
+1190,Elizabeth de Vael
+1191,Maritie Hennion
+1192,Jannitie Deryie
+1193,Jenneke Sip
+1194,Annatie Kalyer
+1195,Helena Everse
+1196,Jacomin Solders
+1197,Lukas Dirkse
+1198,Dirckje Meyers yd
+1199,Jannetje Magliese
+1200,Annetie Edsall yd
+1201,Swaentje Jans
+1202,his mother
+1203,Catreyna Crigers
+1204,Lourus Arentse Toers
+1205,Jan Pieterse Bos
+1206,Tonis Roelofsen
+1207,Lubbert Lubertse 
+1208,Barent Vochst
+1209,Gerit Gerritse
+1210,Neeltje Dirckx widow of Jan van de Linden
+1211,David Ackerman
+1212,Catreyna Bevois
+1213,Jan Didericx
+1214,Jan Damarees
+1215,Gerrit Steynmets
+1216,Pieter Louersen
+1217,Gerrit Gerritsen 
+1218,Roelof Westervelt
+1219,Jan Andresen
+1220,David de Maree 
+1221,Hermanus Gerritse
+1222,Roelof Helmighsen
+1223,Ann Matkins
+1224,Annatie Josephs
