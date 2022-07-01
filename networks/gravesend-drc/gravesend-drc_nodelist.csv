@@ -1,405 +1,337 @@
 id,name
-0,Bernardus Rider
-1,Ariaantie Rider
-2,Albert Stoothof
-3,Johanna Stoothof
-4,Daniel Griggs
-5,Catharina Griggs
-6,Jan Rider
-7,Hilletie Rider
-8,Jan Luycusen Van Voorhees
-9,Maaike Voorhees
-10,Ferdinand Van Sicklen
-11,Geertie Sicklen
-12,Cornelius Brigs
-13,Annatie Brigs
-14,Samuel Gerritse
-15,Ida Gerritse
-16,William Van Nuys
-17,Magdalena Nuys
-18,Geertie Lammersen
-19,Eyke Lammersen
-20,John Griggs
-21,Annatie Griggs
-22,Barent Johnson
-23,Maria Johnson
-24,Benjamin Griggs
-25,Margriet Griggs
-26,Jacob Van der bilt
-27,Neeltie Van der bilt
-28,Peter Williamsen
-29,Cornelia Williamsen
-30,Thomas Stillwell
-31,Anna Stillwell
-32,Andries Westervelt
-33,Dirk Westervelt
-34,Nicholas Williamsen
-35,Lucretia Willemsz
-36,Jacob Stryker
-37,Maria Stryker
-38,Maritie Griggs
-39,Jacob Emans
-40,Geertie Emans
-41,Samuel Poling
-42,Geertie Poling
-43,William Goolder
-44,Geesie Goolder
-45,Joris Lott
-46,Maria Lott
-47,Nicholas Stillwell
-48,Hilletie Stillwell
-49,James Hubbard
-50,Hilletie Hubbard
-51,Cornelius Van Kleef
-52,Femmitie Kleef
-53,Jacob Sebrun
-54,Femmitie Sebrun
-55,Dirk Amerman
-56,Jannitie Amerman
-57,Albert Terhune
-58,Anna Terhune
-59,Johannes Gerritse
-60,Elizabeth Gerritse
-61,Cornelius Emans
-62,Eva Emans
-63,Neeltie Johnson
-64,Michael Stryker
-65,Hannah Stryker
-66,Jeremiah Stillwell
-67,Matie Gerritse
-68,Isaac Denyse
-69,Sytie Denyse
-70,Jacob Rider
-71,Jannitie Rider
-72,Geertie Williamsen
-73,Catharina Williamsen
-74,Cornelius Boys
-75,Susannah Boys
-76,Jacob de Grau
-77,Annatie Grau
-78,William Johnson
-79,Johannes Stimmets
-80,Hilletie Stimmets
-81,Evert Suydam
-82,Maria Suydam
-83,Jeremiah Williamsen
-84,Sara Williamsen
-85,Dirk Lake
-86,Maria Lake
-87,Jannitie Gerritse
-88,Richard Prest
-89,Helena Prest
-90,Richard Stillwell
-91,Geertie Stryker
-92,Ida Stryker
-93,Jan Boys
-94,Jannitie Boys
-95,Joost Stillwell
-96,Syche Boys
-97,Adrian Hegeman
-98,Catrintie Hegeman
-99,Harman Barculo
-100,Elizabeth Barculo
-101,Daniel Lake
-102,Neeltie Lake
-103,Catrintie Williamsen
-104,Rem Williamsen
-105,Susannah Williamsen
-106,Maaike Rider
-107,Bernardus Hubbard
-108,Neeltie Hubbard
-109,Maria Stillwell
-110,Jan Bennet
-111,Willempje Bennet
-112,Engeltie Rider
-113,Stephan Voorhees
-114,Phoebe Voorhees
-115,Samuel Stryker
-116,Jan Van Dyck
-117,Matie Dyck
-118,Wilhelm Rider
-119,Geertie Rider
-120,Cornelia Sicklen
-121,Cornelius Van Sicklen
-122,Femmitie Sicklen
-123,Jannitie Johnson
-124,Geertie Willemsz
-125,Jan Voorhees
-126,Jannitie Voorhees
-127,Rutger Van Brunt
-128,Hilletie Brunt
-129,John Boys
-130,Hendrick Henderiksen
-131,Johanna Henderiksen
-132,Jacques Barculo
-133,Catharina Barculo
-134,Hilletie Gerritse
-135,John Garrisen
-136,Susannah Garrisen
-137,Jacob Bennet
-138,Annatie Bennet
-139,Hannah Boys
-140,Abraham Durye
-141,Neeltie Durye
-142,Jacques Johnson
-143,Catharina Johnson
-144,Volkert Sprung
-145,Leentie Sprung
-146,Hendrick Wyckoff
-147,Sara Wyckoff
-148,Mire Kohl
-149,Maaike Kohl
-150,Samuel Kiersted
-151,Jannitie Kiersted
-152,Emmetie Rider
-153,Garret Williamsen
-154,Leentie Williamsen
-155,Hendrick Van Kleef
-156,Ida Kleef
-157,Engeltie Bennet
-158,John Skinner
-159,Lea Skinner
-160,Peter Johnson
-161,Sally Johnson
-162,Samuel Hubbard
-163,Catharina Hubbard
-164,Johannes Wyckoff
-165,Annatie Wyckoff
-166,Wilhelm Stoothof
-167,Charity Rider
-168,Edward Jones
-169,Elizabeth Jones
-170,Tryntie Van Kleef
-171,John Gleen
-172,Tryntie Gleen
-173,Hilletie Williamsen
-174,John Voorhees
-175,William Van Dyck
-176,Jannitie Dyck
-177,Lourance Rider
-178,Tryntie Rider
-179,Albert Voorhees
-180,Anna Voorhees
-181,Hendrick Johnson
-182,Elizabeth Johnson
-183,Daniel Jones
-184,Jannitie Jones
-185,Jacques Van Brunt
-186,Maria Van Brunt
-187,David Brouwer
-188,Sytie Johnson
-189,Court Lake
-190,Ida Lake
-191,Martin Schoomaker
-192,Jacques Denyse
-193,Ida Denyse
-194,William Glyck
-195,Jannitie Glyck
-196,Gilbert Lake
-197,Helena Lake
-198,Cornelius Van Brunt
-199,Jannitie Brunt
-200,Ida Williamsen
-201,Femmitie Rider
-202,Hilletie Stoothof
-203,Stephan Emans
-204,Maria Emans
-205,Johannes Emans
-206,Sally Emans
-207,Johannes Lott
-208,Bekeltie Lott
-209,____ Giffer
-210,Annatie Giffer
-211,John Johnson
-212,Stephan Donly
-213,Neeltie Donly
-214,Daniel Stillwell
-215,Tryntie Stillwell
-216,Petrus Low
-217,Sally Low
-218,John Van Nuys
-219,Rebecca Nuys
-220,Joseph Cunningham
-221,Emmetie Cunningham
-222,Johannes Van Pelt
-223,Sara Pelt
-224,Valentine Casper
-225,Sally Casper
-226,John Schenck
-227,Annatie Schenck
-228,Isaac Van Brunt
-229,Annatie Brunt
-230,John Eldrick
-231,Catharina Eldridge
-232,Abraham Emans
-233,Sytie Emans
-234,William Howard
-235,Moya Howard
-236,Peter Antonides
-237,Ida Antonides
-238,Catharina Rider
-239,John Denyse
-240,Phoebe Denyse
-241,Ida Van Kleef
-242,Crisper Crosper
-243,Jannitie Crosper
-244,Jeanne Eldrick
-245,Peter Waters
-246,Maria Waters
-247,Joost Cunningham
-248,Ruth Cunningham
-249,Cornelius Stryker
-250,Evert Sherman
-251,Maria Sherman
-252,Johannes Bergen
-253,Rebecca Bergen
-254,Nuyse Van Deryn
-255,Catharina Durye
-256,Abraham Berry
-257,Eva Berry
-258,Peter Rapelje
-259,Brachtie Rapelje
-260,Jacques Stillwell
-261,Helena Stillwell
-262,John Van der Veer
-263,Elizabeth Veer
-264,Catharina Schoomaker
-265,Daniel Bennem
-266,Neeltie Bennem
-267,Joost Van Brunt
-268,Aalte Brunt
-269,William Kowenhoven
-270,Annatie Kowenhoven
-271,Lourance Voorhees
-272,Cornelius Van Duyn
-273,Annatie Duyn
-274,Neeltie Emans
-275,John Nagle
-276,Betie Nagle
-277,Cataliena Eldrick
-278,Samuel Tomson
-279,Jemina Tomson
-280,Albert Van Brunt
-281,James Boys
-282,Sally Boys
-283,Abraham Van Emburgh
-284,Elizabeth Emburgh
-285,John Hankins
-286,Hannah Hankins
-287,Polly Rider
-288,Maria Dyck
-289,Cornelius Cornelis
-290,Catharina Catriena
-291,Thomas Turnbull
-292,Anna Turnbull
-293,John Rider
-294,William Denyse
-295,Maria Denyse
-296,Isaac Rider
-297,Annatie Rider
-298,Elizabeth Voorhees
-299,Valentine Crosper
-300,Sally Crosper
-301,Rem Wyckoff
-302,Sally Wyckoff
-303,Johannes Van Sicklen
-304,Maria Sicklen
-305,Abraham Hubbard
-306,John Husse
-307,Jannitie Husse
-308,Johanna Rider
-309,Johannes Stryker
-310,Rebecca Stryker
-311,Jurge Suydam
-312,Jannitie Suydam
-313,Stephan Stryker
-314,Annatie Stryker
-315,Jocobus Rider
-316,Mattheus Jones
-317,Ida Jones
-318,Cornelia Stryker
-319,Lucretia Wyckoff
-320,Adriantie Voorhees
-321,Jacob Suydam
-322,Geertie Stoothof
-323,Isaac Hegman
-324,Minne Van Voorhees
-325,Joost Durye
-326,Jacob Lammerse
-327,William Willemsz
-328,Samuel Griggs
-329,Jacob Perdon
-330,Stephan Koersten
-331,Wyntie Stryker
-332,Ferdinand Sickel
-333,Roulof Terhune
-334,Geertie Rapelje
-335,Sara Stimmets
-336,Court Johnson
-337,Nicholas Van Brunt
-338,Elizabeth Lake
-339,Jan Meyer
-340,Engeltie Van Dyck
-341,Maria Van Sicklen
-342,Wyntie Boys
-343,Caspar Crisper
-344,Peter Van der bilt
-345,Wynant Bennet
-346,Rem Van Kleef
-347,Maritie Benson
-348,Petrus Brouwer
-349,John Van Kleef
-350,Maria Van Kleef
-351,Rem Adriance
-352,Peter VanderVoort
-353,Maria Hubbard
-354,Chrisper Casper
-355,Annatie Hubbard
-356,Harman Casper
-357,Cornelius Van der Veer
-358,John Bennem
-359,Stephan Hubbard
-360,Elsie Johnson
-361,Charity Schoomaker
-362,Rebecca Van Kirk
-363,Thomas Elsworth
-364,June Elsworth
-365,Debora Husse
-366,Stephan Williamsen
-367,Ida Stillwell
-368,Emmetie Suydam
-369,Sytie Suydam
-370,Maritie Hegman
-371,Williamtie Van Voorhees
-372,Miriam Hetlock
-373,Helena Derjes
-374,Tryntie Lammerse
-375,Helena Henderiksen
-376,Helena Wyckoff
-377,Jannitie Hubbard
-378,Emmetie Perdon
-379,Egtie Koersten
-380,Eva Sickel
-381,Catharina Stillwell
-382,Maria Terhune
-383,Helena Rapelje
-384,Maaike Brunt
-385,Eva Meyer
-386,Sytie Voorhees
-387,Maria Crisper
-388,Jannitie Van der bilt
-389,Jannitie Brouwer
-390,Geertie Bennet
-391,Jannitie Sprung
-392,Maria Brouwer
-393,Phoebe Johnson
-394,Elizabeth Adriance
-395,Annatie VanderVoort
-396,Neeltie Stoothof
-397,Geertie Boys
-398,Hitie Johnson
-399,Geertie Johnson
-400,Maria Casper
-401,Lea Van der Veer
-402,Eva Elsworth
-403,Antje Stillwell
+0,Cornelius Emans
+1,Eva Emans
+2,Barent 3 Johnson
+3,Neeltie Johnson
+4,Michael Stryker
+5,Hannah Stryker
+6,Jeremiah Stillwell
+7,Anna 2 Stillwell
+8,Samuel 3 Gerritse
+9,Matie Gerritse
+10,Isaac Denyse
+11,Sytie Denyse
+12,Jacob Rider
+13,Jannitie Rider
+14,James Hubbard
+15,Hilletie Hubbard
+16,Geertie Williamsen
+17,Catharina Williamsen
+18,Cornelius Boys
+19,Susannah Boys
+20,Jacob de Grau
+21,Annatie Grau
+22,William Johnson
+23,Maria 3 Johnson
+24,Johannes Stimmets
+25,Hilletie Stimmets
+26,Evert Suydam
+27,Maria Suydam
+28,Jeremiah Williamsen
+29,Sara Williamsen
+30,Albert Terhune
+31,Anna Terhune
+32,Dirk Lake
+33,Maria Lake
+34,Johannes Gerritse
+35,Jannitie Gerritse
+36,Richard Prest
+37,Helena Prest
+38,Richard 2 Stillwell
+39,Geertie Stryker
+40,Ida Stryker
+41,Jan Boys
+42,Jannitie Boys
+43,Joost Stillwell
+44,Syche Boys
+45,Adrian Hegeman
+46,Catrintie Hegeman
+47,Harman Barculo
+48,Elizabeth Barculo
+49,Daniel Lake
+50,Neeltie Lake
+51,Catrintie Williamsen
+52,Rem Williamsen
+53,Susannah Williamsen
+54,Maaike Rider
+55,Bernardus Hubbard
+56,Neeltie Hubbard
+57,John 2 Griggs
+58,Maritie 2 Griggs
+59,Maria Stillwell
+60,Jan Bennet
+61,Willempje Bennet
+62,Bernardus 2 Rider
+63,Engeltie Rider
+64,Stephan Voorhees
+65,Phoebe Voorhees
+66,Samuel Stryker
+67,Maria Stryker
+68,Jan Van Dyck
+69,Matie Dyck
+70,Wilhelm Rider
+71,Geertie Rider
+72,Ferdinand Van Sicklen
+73,Cornelia Sicklen
+74,Cornelius Van Sicklen
+75,Femmitie Sicklen
+76,Jannitie Johnson
+77,Geertie Willemsz
+78,Jan Voorhees
+79,Jannitie Voorhees
+80,Rutger Van Brunt
+81,Hilletie Brunt
+82,John Boys
+83,Hendrick 2 Henderiksen
+84,Johanna Henderiksen
+85,Jacques Barculo
+86,Catharina Barculo
+87,Hilletie Gerritse
+88,John Garrisen
+89,Susannah Garrisen
+90,Jacob Bennet
+91,Annatie Bennet
+92,Hannah Boys
+93,Abraham Durye
+94,Neeltie Durye
+95,Jacques Johnson
+96,Catharina Johnson
+97,Volkert Sprung
+98,Leentie Sprung
+99,Hendrick 2 Wyckoff
+100,Sara Wyckoff
+101,Mire Kohl
+102,Maaike Kohl
+103,Samuel Kiersted
+104,Jannitie Kiersted
+105,Emmetie Rider
+106,Garret Williamsen
+107,Leentie Williamsen
+108,Hendrick Van Kleef
+109,Ida Kleef
+110,Engeltie Bennet
+111,John Skinner
+112,Lea Skinner
+113,Peter Johnson
+114,Sally Johnson
+115,Samuel Hubbard
+116,Catharina Hubbard
+117,Johannes Wyckoff
+118,Annatie Wyckoff
+119,Wilhelm Stoothof
+120,Charity Rider
+121,Edward Jones
+122,Elizabeth Jones
+123,Tryntie Van Kleef
+124,John Gleen
+125,Tryntie Gleen
+126,Peter 2 Williamsen
+127,Hilletie Williamsen
+128,John Voorhees
+129,William Van Dyck
+130,Jannitie Dyck
+131,Lourance Rider
+132,Tryntie Rider
+133,Albert Voorhees
+134,Anna Voorhees
+135,Hendrick Johnson
+136,Elizabeth Johnson
+137,Daniel Jones
+138,Jannitie Jones
+139,Jacques Van Brunt
+140,Maria Van Brunt
+141,David Brouwer
+142,Sytie Johnson
+143,Court Lake
+144,Ida Lake
+145,Martin Schoomaker
+146,Jacques Denyse
+147,Ida Denyse
+148,William Glyck
+149,Jannitie Glyck
+150,Gilbert Lake
+151,Helena Lake
+152,Cornelius Van Brunt
+153,Jannitie Brunt
+154,Ida Williamsen
+155,Femmitie Rider
+156,Hilletie Stoothof
+157,Stephan Emans
+158,Maria Emans
+159,Johannes Emans
+160,Sally Emans
+161,Johannes Lott
+162,Bekeltie Lott
+163,____ Giffer
+164,Annatie Giffer
+165,John Johnson
+166,Stephan Donly
+167,Neeltie Donly
+168,Daniel Stillwell
+169,Tryntie Stillwell
+170,Petrus Low
+171,Sally Low
+172,John Van Nuys
+173,Rebecca Nuys
+174,Joseph Cunningham
+175,Emmetie Cunningham
+176,Johannes Van Pelt
+177,Sara Pelt
+178,Valentine Casper
+179,Sally Casper
+180,John Schenck
+181,Annatie Schenck
+182,Isaac Van Brunt
+183,Annatie Brunt
+184,John Eldrick
+185,Catharina Eldridge
+186,Abraham Emans
+187,Sytie Emans
+188,William Howard
+189,Moya Howard
+190,Peter Antonides
+191,Ida Antonides
+192,Catharina Rider
+193,John Denyse
+194,Phoebe Denyse
+195,Ida Van Kleef
+196,Crisper Crosper
+197,Jannitie Crosper
+198,Jeanne Eldrick
+199,Peter Waters
+200,Maria Waters
+201,Joost Cunningham
+202,Ruth Cunningham
+203,Cornelius Stryker
+204,Evert Sherman
+205,Maria Sherman
+206,Johannes Bergen
+207,Rebecca Bergen
+208,Nuyse Van Deryn
+209,Catharina Durye
+210,Abraham Berry
+211,Eva Berry
+212,Peter Rapelje
+213,Brachtie Rapelje
+214,Jacques Stillwell
+215,Helena Stillwell
+216,John Van der Veer
+217,Elizabeth Veer
+218,Catharina Schoomaker
+219,Daniel Bennem
+220,Neeltie Bennem
+221,Joost Van Brunt
+222,Aalte Brunt
+223,William Kowenhoven
+224,Annatie Kowenhoven
+225,Lourance Voorhees
+226,Cornelius Van Duyn
+227,Annatie Duyn
+228,Neeltie Emans
+229,John Nagle
+230,Betie Nagle
+231,Cataliena Eldrick
+232,Samuel Tomson
+233,Jemina Tomson
+234,Albert Van Brunt
+235,James Boys
+236,Sally Boys
+237,Abraham Van Emburgh
+238,Elizabeth Emburgh
+239,John Hankins
+240,Hannah Hankins
+241,Polly Rider
+242,Maria Dyck
+243,Cornelius Cornelis
+244,Catharina Catriena
+245,Thomas Turnbull
+246,Anna Turnbull
+247,John Rider
+248,Hilletie 2 Rider
+249,Nicholas Stillwell
+250,Hilletie Stillwell
+251,William Denyse
+252,Maria Denyse
+253,Isaac Rider
+254,Annatie Rider
+255,Elizabeth Voorhees
+256,Valentine Crosper
+257,Sally Crosper
+258,Rem Wyckoff
+259,Sally Wyckoff
+260,Johannes Van Sicklen
+261,Maria 2 Sicklen
+262,Abraham Hubbard
+263,John Husse
+264,Jannitie Husse
+265,Johanna Rider
+266,Johannes Stryker
+267,Rebecca Stryker
+268,Jurge Suydam
+269,Jannitie Suydam
+270,Stephan Stryker
+271,Annatie Stryker
+272,Cornelia Stryker
+273,Jocobus Rider
+274,Mattheus Jones
+275,Ida Jones
+276,Lucretia Wyckoff
+277,Adriantie Voorhees
+278,Geertie Rapelje
+279,Sara Stimmets
+280,Nicholas 2 Williamsen
+281,Joost 2 Durye
+282,Court Johnson
+283,Nicholas Van Brunt
+284,Elizabeth Lake
+285,Jan Meyer
+286,Engeltie Van Dyck
+287,Maria Van Sicklen
+288,Wyntie Boys
+289,Caspar Crisper
+290,Peter Van der bilt
+291,Wynant Bennet
+292,Rem Van Kleef
+293,Maritie Benson
+294,Petrus Brouwer
+295,John Van Kleef
+296,Maria Van Kleef
+297,Rem Adriance
+298,Peter VanderVoort
+299,Maria Hubbard
+300,Chrisper Casper
+301,Annatie Hubbard
+302,Harman Casper
+303,Cornelius Van der Veer
+304,John Bennem
+305,Stephan Hubbard
+306,Elsie Johnson
+307,Charity Schoomaker
+308,Rebecca Van Kirk
+309,Thomas Elsworth
+310,June Elsworth
+311,Debora Husse
+312,Stephan Williamsen
+313,Ida Stillwell
+314,Emmetie Suydam
+315,Helena Rapelje
+316,Maaike Brunt
+317,Eva Meyer
+318,Sytie Voorhees
+319,Maria Crisper
+320,Jannitie Van der bilt
+321,Jannitie Brouwer
+322,Geertie Bennet
+323,Jannitie Sprung
+324,Maria Brouwer
+325,Phoebe Johnson
+326,Elizabeth Adriance
+327,Annatie VanderVoort
+328,Neeltie Stoothof
+329,Geertie Boys
+330,Hitie Johnson
+331,Geertie Johnson
+332,Maria Casper
+333,Lea Van der Veer
+334,Eva Elsworth
+335,Antje Stillwell
