@@ -18,10 +18,3 @@
 17. Extract transformations and save to a new file
 18. Edit "Column 1" to "parents 1" etc and apply transformations to all columns in full OpenRefine project
 19. Export full OpenRefine project as csv, save to transcriptions file, and push to github
-
---
-
-### Checking network duration
-- Concat density files to make overtime.csv and get list of all nodes: https://colab.research.google.com/drive/15UnG9PGVVM-hfHTv1NpX4WZE-zdQc7Kj?usp=sharing
-- Check for nodes with 50+ years in network: https://colab.research.google.com/drive/1WaXkbZXyKsxGnA5u9FJYI3AJ3k7LbyNC?usp=sharing
-- Create edge lists: https://colab.research.google.com/drive/166044yxbexBKMnBYImJT8vulwHQ6UdXc?usp=sharing
