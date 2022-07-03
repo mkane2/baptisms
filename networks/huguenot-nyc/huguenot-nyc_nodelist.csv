@@ -40,7 +40,7 @@ id,name
 38,Joseph Freind
 39,Susanne Brutel
 40,Pierre Bontecour
-41,Margueritte
+41,Margueritte Bontecour
 42,Amant Bounin
 43,Susanne Valleau
 44,George Derier
@@ -70,7 +70,7 @@ id,name
 68,Elie Vanbert
 69,Jeanne Columbeau
 70,Jean Borton
-71,Helgon
+71,Helgon Borton
 72,Salomon de Seure
 73,Anne de Lescluse
 74,Daniel Malson
@@ -84,13 +84,13 @@ id,name
 82,Meletie Gaspar
 83,Guertru Janson
 84,Daniel Marchand
-85,Catherine
+85,Catherine Marchand
 86,Aman Bonnin
 87,Suzanne Valos
 88,Elie Neau
 89,Susanne Pare
 90,Jean VanLoon
-91,Marie
+91,Marie VanLoon
 92,Pierre Newkerk
 93,Anne Hill
 94,Judith Piau
@@ -100,7 +100,7 @@ id,name
 98,Zacarie Anchevin
 99,Marie Naudin
 100,Jacques Maurisse
-101,Rose
+101,Rose Maurisse
 102,Pierre Bertin
 103,Judith Roy
 104,Jean Coulon
@@ -112,9 +112,9 @@ id,name
 110,Jean Andriuet
 111,Toinette Bassier
 112,Jean Dufour
-113,Jeanne
+113,Jeanne Dufour
 114,John Hatton
-115,Susanne
+115,Susanne Hatton
 116,Jean Le Chevallier
 117,Marie de la Pleine
 118,Guillaume Moyon
@@ -125,1434 +125,1532 @@ id,name
 123,Marie Mercereau
 124,Mon d. Sr. Peiret
 125,Francois Le Compte
-126,Andre Joulin
-127,Madeleine Poupain
-128,Peter Laurens
-129,Trintie Hans
-130,Jean David
-131,Ester
-132,Jean Petit
-133,Ester Souseau
-134,Elisabeth
-135,Elie Rambert
-136,Elie 1 Pelletreau
-137,Marie Benoit
-138,Joshue Harton
-139,Sofya
-140,Jean du Puy
-141,Marie Genou
-142,Estienne Valleau
-143,Marie Gallais
-144,Francois Demerciers
-145,Judith Gallais
-146,Anthoinette Buvier
-147,Simeon 1 Soumain
-148,Jeanne Piaud
-149,Joshue Mercereau
-150,Marie Chadaine
-151,Isaac Girard
-152,Marie Roubin
-153,Isabel Dublet
-154,Jean Hain
-155,Elisabeth Damaris
-156,Gousse Bonin
-157,Marie Fitond
-158,Jean 1 Barait
-159,Marthe Maybee
-160,Thomas Lewis
-161,Francoise Leiseler
-162,Cornelia [Roos] Rosze
-163,Andries Laurens
-164,Marie Lucas
-165,Jean 1 Barberie
-166,Francoise Brinkman
-167,Daniel Strain
-168,Charlotte le Mestre
-169,James Spenser
-170,Marie Cariller
-171,Estel Vincens
-172,Constance Lebrun
-173,Isaac Lenoir
-174,Anne
-175,Jean Magny
-176,Jeanne Machet
-177,Thomas Adams
-178,Catharine Lauandier
-179,Jean 1 Blanchard
-180,Jeanne Gautier
-181,Louis 1 Dubois
-182,Ester Grasset
-183,Jacques Lepage
-184,Madeleine David
-185,Pierre Latourette
-186,Isaac Quantain
-187,Jeanne Fume
-188,Jean Canon
-189,Marie Legrand
-190,Jean Magnon
-191,Claude Badaud
-192,William Brown
-193,Marthe Bolton
-194,Elie Badaud
-195,Claude Fume
-196,Jacques Bargeau
-197,Jeanne de Lachenal
-198,Pierre Chagneau
-199,Alkey Smith
-200,Samuel Grasset
-201,Marthe Poupin
-202,Daniel Audard
-203,Marthe Jeffroy
-204,Joseph Horton
-205,Sofie Classen
-206,Francois de Fenne
-207,Anne Marguerite
-208,Madeleine Masse
-209,Andre Lauran
-210,Marc Florentin
-211,Anne Carrillier
-212,Nicolas Ayrault
-213,Marie Anne Berton
-214,Jacques Vallet
-215,Judith
-216,Susanne Rouseau
-217,Madeleine Vincent
-218,Agnes Constance le Brun
-219,Claudine Badaud
-220,Jean Perlier
-221,Anne Rezeau
-222,Jean Coutan
-223,Susanne Gouin
-224,Jacques 1 Parcot
-225,Marie Cousson
-226,Benjamin Faneuil
-227,Anne Beureau
-228,Pierre Machet
-229,Litie Couly
-230,Gabriel Thibou
-231,Mary Couly
-232,Pierre 1 Vergereau
-233,Marie Mahault
-234,Auguste Jay
-235,Anne Marie Bayard
-236,Estienne de Lancey
-237,Anne van Cortland
-238,Pierre Trocheron
-239,Judhy Allard
-240,Pierre Basset
-241,Nicolas Ponsen
-242,Anne Mils
-243,Jean Gansel
-244,Judy Le Roy
-245,Abraham Salle
-246,Ollive Perault
-247,Elisabeth Gautier
-248,Pierre Galeau
-249,Susane Boisson
-250,Marie 1 Catherine Carre Boudinot
-251,Estienne Perdriau
-252,Marguerite Bontecou
-253,Daniel Bernardeau
-254,Marianne Monier
-255,Estienne Mahault
-256,Sara Michel
-257,Jacques Guiou
-258,Anne Vigneau
-259,Marthe Moreau
-260,Jean Lauran
-261,Marie Arneau
-262,Gregoire Gougeon
-263,Renee Graton
-264,Judhy Archambeau
-265,Marie Gamor
-266,Jacob Goselain
-267,Judy Cleuily
-268,Daniel Jandin
-269,Catherine Lamoureux
-270,Henry de Money
-271,Marianne Grasset
-272,Jean Pelletreau
-273,Etienne Giraud
-274,Jane Foucard
-275,Jeanne Bouquet
-276,Jean Pierre Salnaue
-277,Madelaine Genou
-278,Andre Stuckey
-279,Marie Brossard
-280,Elie Chardavoine
-281,Anne Valleau
-282,Judith Allard
-283,Jean Faget
-284,Vincent Tillou
-285,Elisabeth Vigneau
-286,Barthelemy Feurt
-287,Madeleine Peiret
-288,Louise Streing
-289,Benjamin DHariette
-290,Anne Hauteman
-291,Daniel 1 Mainard
-292,Elisabeth Vincent
-293,Noel Delamare
-294,Susanne Lheureux [Lerou?]
-295,Jean Gacherie
-296,Jacob Gernereau
-297,Anne Cook
-298,Marie Carre
-299,Judith Lesueillee
-300,Jacques Spinsar
-301,Jean Jacques Minvielle
-302,Sara
-303,Daniel Beau
-304,Ester Gaillard
-305,Anne Felhet
-306,Denis Riche
-307,Susanne Bridon
-308,Salamon Lataniere
-309,Anne Noel
-310,Pierre Savouret
-311,Ester David
-312,Daniel 1 Robertson
-313,Susanne Nichollas du Cailleau
-314,Jean Garreau
-315,Marie Oderes
-316,Pierre Tiphaine
-317,Susanne Reneh
-318,Jacques Desbrosses
-319,Heleine Godineau
-320,Jean Lafont
-321,Marie Dubois
-322,Jean 1 Vezien
-323,Isaac Frehel
-324,Mercy Blomer
-325,Andre Dupuy
-326,Janne Archambeau
-327,Alexander 1 Allaire
-328,Janne Doens
-329,Jacques Many
-330,Anne 1 Vincent
-331,Josue Soulisse
-332,Marie Valleau
-333,Jacques Rezeau
-334,Marie 1 Conte
-335,David Wilson
-336,Susanne Vincent
-337,Jacques de Laborie
-338,Janne Ressignie
-339,Marie 1 Basset
-340,Thomas Bayeux
-341,Madeleine Boudinot
-342,Marie Bricou
-343,Jean Papin
-344,Charlotte Bounos
-345,Judith 1 Bourdet
-346,Magdelaine Peret
-347,Rene Hett
-348,Blanche
-349,Susan Nicholas
-350,Blanche Dubois
-351,Charles Germon
-352,Francois 1 Gautier
-353,Anne Wikes
-354,Jean Taveau
-355,Marie Doublet
-356,Magdeleine
-357,Lydie
-358,Guillaume Picok
-359,Pierre Barberie
-360,Susanne Lambert
-361,Jacques You
-362,Marie Pouetreau
-363,Jacques Ballereau
-364,Pierre Parcot
-365,Francoise 1 Gendron
-366,Henry Vanderburg
-367,Noe Cazalet
-368,Isaac Leturque
-369,David Minvielle
-370,Andre Fresneau
-371,Marie Morin
-372,Jeremie Many
-373,Margueritte Vincent
-374,Jacques Bergeron
-375,Judith Peltemps
-376,Guillaume Brower
-377,Jacques Flandreau
-378,Elisabeth 1 Beaudry
-379,Jacques 2 Curie
-380,Anne Terrier
-381,Anne Sicar
-382,Joseph Leddel
-383,Marianne Vincent
-384,Anne Naudin
-385,Daniel Masse
-386,Ester Fourret
-387,Louis Rou
-388,Marie le Boyteulx
-389,Daniel 1 Bonnet
-390,Marie Machet
-391,Daniel 1 Ravau
-392,Jeanne Martin
-393,Susanne 2 Boudinot
-394,Marie Aneraux
-395,Benjamin Appleby
-396,Francoise
-397,Judith Peletant
-398,Marie Catherine
-399,David le Tellier
-400,Thomas Oakes
-401,Helene
-402,Elisabeth Ony
-403,Judith Pelletreau
-404,Jeane Odard
-405,Pierre Forestier
-406,Catherine 1 Tier
-407,Renee Marie Gougeon
-408,Charles Crommelin
-409,Ezechiel Boigniot
-410,Ester le Conte
-411,Ester Forrai
-412,Samuel Vincent
-413,Jean Auboyneau
-414,Antoine la Font
-415,Solomon Burton
-416,Daniel Gautier
-417,Marie Gautier
-418,Jacques Ardin
-419,Abigail
-420,Erloy Letelier
-421,Ester Corbeau
-422,Abraham Jouneau
-423,Marianne Canche
-424,Elisabeth Vandry
-425,Joseph Morfil
-426,Marthe Grasset
-427,Guillaume Ruleau
-428,Marthe
-429,Elie Manbrut
-430,Renee
-431,Moyse Morin
-432,Marie Anne Bricou
-433,Andre Mesnard
-434,Jean Rencau
-435,Benjamin Roumage
-436,Pierre Chaperon
-437,Judith Lamoureux
-438,Pierre 1 Vallade
-439,Elisabeth Bonin
-440,J. J. Brumeau Moulinars
-441,Guillaume Bouquet
-442,Neeltie
-443,Philip Riche
-444,Jean Vigneau Tiellou
-445,Marie Anne
-446,Pierre Morgat
-447,Jean Abelin
-448,Daniel la Moureux
-449,Pierre Elisee Galaudet
-450,Robert Ouilliom
-451,Jacob Bouquet
-452,Renee Marie
-453,Jean 2 Hatier
-454,Guillaume Valleau
-455,Andre Giraud
-456,Jean Joseph Moulinars
-457,Judith Marie
-458,Josue Quereau
-459,Guillaume Neville
-460,Guillaume Esgur
-461,Silvie
-462,Estienne Renaud
-463,Jean Ross
-464,Louise
-465,Jean Juounett
-466,Jean Masson
-467,Guillaume la Conte
-468,Alexander de Bonrepos
-469,Pierre 1 Quintard
-470,Marie [Jay]
-471,Jeremie Latouche
-472,Daniel Champenois
-473,Jean Basset
-474,Daniel 1 Targe
-475,Joseph Royden Jamain
-476,Abraham Bertrand
-477,Jean 2 Rey
-478,Susanne Mercier
-479,Francois Beaumier
-480,Nicholas Carter
-481,Jean 2 Pintard
-482,Lydie Bown
-483,Guillaume Heurretin
-484,Peternelle
-485,Jacques Hutchins
-486,Paul 2 Pelletreau
-487,Susanne Heurretin
-488,Jacques Faviere
-489,Charlotte Bouyer
-490,Isaac Van Dam
-491,Isabelle Pintard
-492,Abija Bouquet
-493,Pierre Tillou
-494,Esther Pelletreau
-495,Elisabeth Vischer
-496,Joseph Aineau
-497,Mercy
-498,Jeanne Soumain
-499,Elisabeth le Boyteulx
-500,Jean Tillou
-501,Anne Faneuil
-502,Elie Pipon
-503,Blanche Lafont
-504,Anne Burger
-505,Catherine Carre
-506,Judith Blagg
-507,Samuel Pell
-508,Jean 1 Aymar
-509,Francoise Belon
-510,Alexander Homes
-511,Marianne Masse
-512,Jean Ballereau
-513,Alexander 2 Allaire
-514,Esther Clatworth
-515,Mariane Guyenneau
-516,Philip Perrot
-517,Elisabeth Ailesworth
-518,Susanne Kocherthal
-519,Marie Magdeleine
-520,Vincent Bodin
-521,Helene Smith
-522,Helene van de Water
-523,Roelof Kiersted
-524,Anne [Vincent] Vezien
-525,Matthieu Ridet
-526,Marie van Gelder
-527,Anne 2 Vincent
-528,Sara Butler
-529,Moyse Gombauld
-530,Anne Francoise Pintard
-531,Charles Louchard
-532,Anne Tillou
-533,Salomon Bogles
-534,Susanne Pelletreau
-535,Joseph DeLorme
-536,Marie Rollin
-537,Mercy Casten
-538,Isaac 2 Garnier
-539,Marie Machfieldt
-540,Harter Healms
-541,Jeanne Applebe
-542,Estienne Carter
-543,Francoise Smith
-544,Pierre 2 Vergereau
-545,Marie Magdeleine Pasierin [Parisien?]
-546,Paul Francois Cebe
-547,Marianne Gereau
-548,Pierre Allaire
-549,Marie Garland
-550,Guillaume Nixon
-551,Susanne Manbrut
-552,Marie Manswell
-553,Pierre Moynot
-554,Mariane Angevin
-555,Daniel Hutchison
-556,Judith Eymar
-557,Elisabeth Woodfort
-558,Guillaume Leddle
-559,Louise David
-560,Daniel Ravaux jr
-561,Marie Raven
-562,Marie Maxwell
-563,Antoine Demelt
-564,Jeanne Raven
-565,Pierre Cownhoove
-566,Elisabeth Raven
-567,Jean Langevin
-568,Esther Parmer
-569,Jean Pierre Buvelot
-570,Rachel Sutton
-571,Catharinne 2 Allaire
-572,Mathieu Thomas
-573,Jeanne Pelletreau
-574,Jean 2 Parquot
-575,Jeanne Ravaux
-576,Pierre Joncourt
-577,Jeanne Couillete
-578,Jeremie Baudouin
-579,Anne Devin
-580,Marie [Maxwell] Macswill
-581,Marie Raioin
-582,Anne [Devin] Dwane
-583,Bernard Ayrault
-584,Judith Mesnard
-585,Francois Many
-586,Magdelaine Aymar
-587,Nicolas Francois
-588,Glodine Vales
-589,George Los
-590,Glodine Petremon
-591,Rachel Baal
-592,Pierre Renaud
-593,Catherine Marguerite
-594,Guillaume Richard
-595,Marie Elisabeth Rou
-596,Nicolas Gendre
-597,Marguerite Gogue
-598,Pierre Nicolet
-599,Ssuanne Gindrat
-600,Jean Palme
-601,Ester Chadeayne
-602,Claude Fournier
-603,Madeleine Carle
-604,Francois Conrad
-605,Anne Marie Meteta
-606,Laurent Letelier
-607,Marie Clark
-608,Jacques Erouard
-609,Jeanne Jabouin
-610,Abel Henry Marchand
-611,Marie Madeleine Peyterman
-612,Nicolas Jamar
-613,Catherine Pocha
-614,Jean Silvestre of Nante
-615,Charlotte Cluso of Quebec
-616,Pierre Rougeon
-617,Marie Aymar
-618,Jacob Coutan
-619,Jeanne 1 Renaud
-620,Jacques Sicard
-621,Madelaine Badau
-622,Elisabeth Dobbs
-623,Joseph Fortin
-624,Sarah Manbrut
-625,Anne Pomie
-626,Pierre Frederick Durand
-627,Anne Clemence
-628,Elisee Galaudet
-629,Jeanne Dubois
-630,Benjamin Flandreau
-631,Ester Badeau
-632,Jean Debevernier
-633,Francoise Hits
-634,Jean George Los
-635,Claudine
-636,Jonatan Weman
-637,Elisabeth Dubois
-638,Isaac Coutan
-639,Francoise Badau
-640,Pierre Lagear
-641,Madeleine Garsin
-642,Louis 2 Dubois
-643,Elisabeth Soulice
-644,Guillaume Albrespy
-645,Anne Bourdet
-646,Jacques Stuart
-647,Ester Asiers
-648,Ruben Oliver
-649,Ester Galidet
-650,Jean Pierre Chapelle jr
-651,Catherine Don
-652,Jacques Balme
-653,Pierre 2 Durand
-654,Clemence
-655,Marie Rou
-656,Jean Demilt
-657,Susanne Raven
-658,Andre Grosjean
-659,Jacob Helicom
-660,Marie Badaud
-661,Ulrick Springer
-662,Anne Marie Jeriwerst -of Deux Ponts
-663,Henry Coutan
-664,Elisabeth Chadaine
-665,Pierre 2 Badau
-666,Catherine Coutan
-667,Abel des Veaux
-668,Marie Soulis
-669,Mathieu Morel
-670,Marie Ozias
-671,Jean du Clou
-672,Frederick[?] Silvie Vinnet
-673,Abel Marchand
-674,Leonard Sandoz
-675,Pierre Chapelle
-676,Jean Belair
-677,Francois Dominick
-678,Margueritte Blanchard
-679,Anne Marie
-680,Louis Pintard
-681,Nicolas Toulon
-682,Debora de Saint Croix
-683,John Harrison
-684,Denize Rou
-685,Otto Parisien
-686,Hester Sicard
-687,Pierre Goux of Claverack
-688,Catherine Vaugi
-689,Guillaume Gandel
-690,Marianne Marchand
-691,Marie 2 Chevalier
-692,Charles Erouard
-693,Ester Coutan
-694,Pierre Rochar
-695,Jeanne Badeau
-696,Jeanne Marie Ozias
-697,Reinold Lodz
-698,Elisabeth Martin
-699,Jean de Laurier
-700,George Dominick
-701,Elisabeth Blanchard
-702,Jean Smith
-703,Angelique
-704,Guillaume Hale
-705,Mariane Coutan
-706,Andre Mercine
-707,Susanne Gindra
-708,Marie [Soulis] Soubise
-709,Michel Gauthay
-710,Apellone Greewallden
-711,Otto Daniel Parisien
-712,Anne Marie Valerin
-713,Pierre Trumeau
-714,??? Blanchard
-715,Susanne Stockton
-716,Marie Pauzer
-717,Louis Riviere
-718,Jeanne Erouard
-719,Jean 2 Barait
-720,Elisabeth Axen
-721,Etienne Jordan
-722,Jean Jourdan
-723,Barbara
-724,Pierre Loreillard
-725,Catherine 2 Meir
-726,Samuel Collins
-727,Rilha
-728,Jacques 3 Curie
-729,Jean 1 Basset
-730,Helenne Evout
-731,Jacob Shareman
-732,Jeanne Callo
-733,Jean Cloux
-734,Jean Margueritte Paren
-735,Francois 2 Gautier
-736,Appelone
-737,Jean Pommant
-738,Jacob Hillicourt
-739,Louise Cadet
-740,Daniel Tier
-741,Isaac Noble
-742,Rachel Dejoncourt
-743,Claudinne Valet
-744,Frederick Basset
-745,Jannatje Vredenburgh
-746,Leonard Willmot
-747,Judith Perron
-748,Louis Faugere
-749,Eve
-750,Rene Lodz
-751,Mattheu Tier jr
-752,Margueritte Tier
-753,Francoise Hutcheson
-754,Martin Brard
-755,Madeleine Ci wid Trumeau
-756,Jean 2 Blanchard
-757,Jean George Jaquin
-758,Margueritte Parent
-759,Margueritte Bellone
-760,Mathieu Tiers
-761,Margueritte Chappelle
-762,Jeanne Heroy
-763,Anne Judick Parens
-764,Pierre Graim
-765,Marie Ravo
-766,Madeleine Blanchard
-767,Barthelemy Rossel
-768,Marie Jacque Saint Pierre
-769,Jean Christopher
-770,Margueritte Commeau
-771,Jacques Heroy
-772,Susanne Balme
-773,Charlotte
-774,Andre Souliers
-775,Marie Prignon
-776,Francois Humbert
-777,Elisabeth Melik
-778,Jean Lopey
-779,Susanne Quintar
-780,Anthoine Deroches
-781,Margueritte Denies
-782,Eve Remsen
-783,Francoise 2 Gendron
-784,Marie Forman
-785,Marie Saint Pierre
-786,Guillaume la Croix
-787,Elisabeth Johnston
-788,Charlotte la Vigne
-789,Jean Matthieu Tiers
-790,Sara Casting
-791,Jeanne Jaboin (obyt)
-792,Pierre Quidor
-793,Elsy Trewman
-794,Jean Lampey
-795,Josephe Piquet
-796,Jean 2 Vautie
-797,Catherine Curie
-798,Jean Tier
-799,Margueritte le Rou
-800,George Alizon
-801,Elisabeth Williamise
-802,Matthieu Moste
-803,Marie Vautie
-804,Margueritte Feney
-805,Susanne Buvelot
-806,Marie St. Pierre
-807,Jacques Durand
-808,Eleonore Monnie
-809,Isaac 3 Garnier
-810,Elisabeth Fletcher
-811,Jean Sanders
-812,Jacob Brower
-813,Catherine Jeandur
-814,Jean Pierre Vautier
-815,Jean Bomon
-816,Lewis Fortie
-817,Marie 2 Pineau
-818,Estienne Dousinet Cordonnier
-819,Luy Rezeau
-820,Jean Boibelleau
-821,Pierre Boudet
-822,Pierre Belin
-823,Pierre Godefroy
-824,Guillaume Howard
-825,Oliver Bely
-826,Andre Paillet
-827,Esaie Valleau
-828,Charles Deniseau
-829,Augustin Huble
-830,Pierre Thauuet
-831,Daniel Lambert
-832,Lydie Meterau
-833,Pierre Abrard
-834,Estienne Lavigne
-835,Bartle Clase
-836,Anthony Farmer
-837,Claude Bruyes
-838,Jean Grazillier
-839,Pierre Valos
-840,Pierre Boudinot
-841,Suzanne Gladeau
-842,Liue Vincent
-843,Nicolas Jamain
-844,Jean Chadaine
-845,Andre Naudin
-846,Pierre Filleux
-847,Jean 1 Vautie
-848,Gilles Gaudineau
-849,Daniel Targe
-850,Jean Thomasen
-851,Thomas Boys
-852,Thimotee Archambaud
-853,Marie Le Breton
-854,Abraham Canon
-855,Jean Sevenhoven
-856,Elisabeth Bertran
-857,Madam Jamin
-858,Elie Jamin
-859,Jean Barenne
-860,Andre Auriau
-861,Anna Oustraven
-862,Nicholas Richard
-863,Jean Noe
-864,David Bon Foy
-865,Jean 1 Parquot
-866,Leonard Lewis
-867,Estienne Jamain
-868,Jaques Burtel
-869,Samuel
-870,Francois Cariller
-871,Benjamin Godeffroy
-872,Auguste Grasset
-873,Marguerite Chonvetre
-874,Alexander Maurisset
-875,Nicolas Malherbe
-876,Pierre Dasserx
-877,Francois Benech
-878,Abraham Raizeau
-879,Jean 1 Pintard
-880,Andre Canon
-881,Andre Foucault
-882,Augustin Greham
-883,Barne van Tellebourg
-884,Daniel Giraud
-885,Samuel Archambaud
-886,Pierre Rezeau
-887,??? David
-888,Jean Jironne
-889,Jacques 1 Curie
-890,Claude Baudouin
-891,Willem Couly
-892,Jacob Thibou
-893,Etienne van Cortland
-894,Pierre Legrand
-895,Jacques Coindrieau
-896,Isaac Mercier
-897,Auguste Lucas
-898,William Caldwel
-899,William Fullwood
-900,Daniel Crommelin
-901,Pierre 1 Badau
-902,Jacob Baillargeau
-903,Jacob Ratier
-904,George Durieu
-905,Jacob Bayard
-906,Arnaud Valleau
-907,Jean Doublet
-908,David Papin
-909,Jacques 1 Blanchard
-910,Jacques Arondaux
-911,Adam Carrillier
-912,Francois Bureau
-913,Simon Rame
-914,Daniel Gaillard
-915,Jacques Biebeau
-916,Pierre Thipine
-917,Francois Auboineau
-918,Susanne Peiret
-919,Jeanne Targe
-920,Anne Jay
-921,Oliver van Cortland
-922,Jean Moyse Contes
-923,Judith Jamain
-924,Jacques Riuaux
-925,Pierre 1 Durand
-926,Jean Cazalz
-927,Francois Gourdon
-928,Madeleine Fauconnier
-929,Elie Nezereau
-930,Marie Lafond
-931,Jean Boudinot
-932,Jean Martin
-933,??? Bessonnet
-934,Etienne Guerine
-935,Francois Lucas
-936,Anne Bachan
-937,Thomas la Roche
-938,Bernard Hardenbrouk
-939,Judith Chevallier
-940,Marthe Poutreau
-941,Elisabeth Droilhet
-942,Paul Minvielle la Coze
-943,James Brown
-944,Madeleine Gautier
-945,Jacques Renaudet
-946,Ester Charon
-947,Madeleine Feurt
-948,Charles Forestier
-949,Ester Masse
-950,Michael Stuckey
-951,Henry Mercie
-952,Samuel Bayard
-953,William Owen
-954,Estienne Ruleau
-955,Madeleine Leddel
-956,Anne Chardavoine
-957,Samuel Morin
-958,James du Pre
-959,Philip Thiche [Riche]
-960,Elie Mestayer
-961,Ester Burton
-962,Cornelia van Cortland
-963,Andre Royer [Bogard]
-964,Jacques Dulon
-965,Susanne Bayeux
-966,Isaiah Onery
-967,Louis Allaire
-968,Joseph Bledar
-969,Guillaume Burnet
-970,Paul Collins
-971,Pierre le Conte
-972,Daniel [Beau] Buo
-973,Isaac Quantin
-974,Guillaume Landrin
-975,Helegonde Bogart
-976,Girard Confort
-977,Marquise le Boyteulx
-978,Catherine van Cortland
-979,Jean Bayeux de Londres
-980,Guillaume le Conte
-981,Marie la Mare
-982,Francoise Quantein
-983,Jeremie Chardavoine
-984,Francois 2 Basset
-985,Anne [Jane] van Gelder
-986,Pierre Hibon
-987,Catherine Comfort
-988,Anne Marie Cornifleau
-989,Pierre Prieur
-990,Guillaume Emett [W. E. Mott]
-991,Pierre Jay
-992,George Muirson
-993,Samuel Pintard
-994,Marmaduke Bouteflort
-995,Jacques Bonnet
-996,Marguerite Perdriau
-997,Pierre Burger
-998,Jean Dragaud
-999,Judith Quereau
-1000,Isaac la Touche
-1001,Jacques David
-1002,Louise Kocherthal
-1003,Daniel Burger
-1004,Pregeante Carre
-1005,Rostal Richardson
-1006,Marie Ballereau
-1007,Simon Jansen
-1008,Catherine Mecologh
-1009,Estienne Desbrosses
-1010,Alexander Phenix
-1011,Francoise Bouquet
-1012,Elisabeth Heurretin
-1013,Jean 2 Vincent
-1014,Michel le Breton
-1015,Joseph Haynes
-1016,Jacques Buvelot
-1017,Anne Rezeau Vincent
-1018,Henry de Meyer
-1019,Elisabeth Cockrem
-1020,Elisabeth le Breton
-1021,Sara Leddle
-1022,Jean Bend
-1023,Abraham Kip
-1024,Jean Groesbeek
-1025,Nicolas Rosevelt
-1026,Estienne Bourdet
-1027,Etienne 1 van Cortland
-1028,Paul Parcot
-1029,Isaac Taveau
-1030,Esther Riche Smith
-1031,Benjamin Blagg
-1032,Egbert Egberts
-1033,Elisabeth Garnier
-1034,Oliver de Lancey
-1035,Marie Tavaux
-1036,Daniel Ravaux sr
-1037,Marie Soumain
-1038,Jeanne Beau
-1039,Jean 2 Vezien
-1040,Thauvet Besly
-1041,Marie Ball Langevin
-1042,Suson Demilt
-1043,Robert Cromelin
-1044,Francois Blanchard
-1045,Jean Eymar jr
-1046,Daniel Hugueniot
-1047,Jean Roorback jr
-1048,Elie Desbrosses
-1049,Jean Henry Rou
-1050,Jean George Laureillard
-1051,Henry Chadeayne
-1052,Andre Lucam
-1053,??? Roosevelt
-1054,Madelaine Renaud
-1055,Gerard Jamain
-1056,Francois 3 Basset
-1057,Daniel Jacot
-1058,Jean Eomain
-1059,Jean Badeau
-1060,Jean Louis Maillet
-1061,David Guyon
-1062,Jacques 2 Parcot
-1063,John Richard
-1064,Philip Will
-1065,Ester Langevin
-1066,Ester Erouard
-1067,Jean Henry Tiers
-1068,Jean Lamb
-1069,Denis Wortman
-1070,Jacob van Wagener
-1071,Fredrica Ozy [Ony]
-1072,Jacques 2 Blanchard
-1073,Samuel 2 Bourdet
-1074,Bernard Rynlander
-1075,Moyse de Saint Croix
-1076,Thomas Hamersley
-1077,Matthew Dies
-1078,Pierre Vautie
-1079,Jean Pierre Tetard
-1080,Louis Clarkson
-1081,Jean Loreillard
-1082,Morley Harrison
-1083,Charles Demuy
-1084,Daniel 2 Robertson
-1085,Jean Miller
-1086,Jean Frederick
-1087,William Richard
-1088,Michael Housewel
-1089,Michel Honore
-1090,Roger Richard
-1091,Laurand Hardman
-1092,Ryne Low
-1093,Jean Andre Castor
-1094,Jean Cortright
-1095,Francois Girard
-1096,Jean Guerineau
-1097,Henry Gerbeaux
-1098,Jean Francois Malvisin
-1099,Jean Bte Rieux
-1100,William Vredenburgh
-1101,Jean Plantin
-1102,Corneille Tebaut
-1103,Jacques Aymar
-1104,Jacques Vautie
-1105,Henry Rossel
-1106,Christian Smith
-1107,Francois Willmny
-1108,Daniel Aymar
-1109,Barthelemy Labuzan
-1110,Elisabeth Edward
-1111,Charles Louis Point Clou
-1112,Jean Harbin
-1113,Girard Bekeman
-1114,Jacques la Masney
-1115,Matthieu Poitevan
-1116,Pierre Mery
-1117,Jacob Tier
-1118,Jean 2 Barberie
-1119,Jean Sals
-1120,Germain Chappelle
-1121,Louis Marain
-1122,Jean Girault
-1123,Pierre Conrad
-1124,George Quidor
-1125,Pierre Forgeaut
-1126,J. Nicolas Jeandur
-1127,Guillaume Leonard
-1128,Jacques Pino
-1129,Jeanne Jamain
-1130,wife of Estienne Dousinet Cordonnier
-1131,Jeanne Piaud wife of Soumain
-1132,Susanne DHariette
-1133,Dorothea van Hertsbergen
-1134,Marie le Berton wid Fleuriau
-1135,Susanne Beriman
-1136,Susanne Parin
-1137,Susanne Descart
-1138,Lea Ouilmen
-1139,??? Poupain
-1140,Suzanne Papin Boudinot
-1141,Catherine de Lorier
-1142,Mariane Melot
-1143,Susanne Ratier
-1144,Suzanne Roux
-1145,Elizabeth Pinet
-1146,Christiane Melton
-1147,Judith Pare
-1148,Petterlin Elfen Eik
-1149,Marie Bonein
-1150,Marie Tisseau
-1151,Eltie Prevost
-1152,Catherine Newkerk
-1153,Marie Dorfurer
-1154,Marguerite Levesque
-1155,??? Vincent
-1156,Jeanne Bardewick
-1157,Jeanne Janson
-1158,Marie Schart
-1159,Elisabeth Hooglandt
-1160,Elisabeth Perdriau wife of Hatier
-1161,Matta Pierrot
-1162,Marie Lecuier
-1163,Catherine le Mercier
-1164,Annetie Hans
-1165,Marie Susanne Vergereau
-1166,Marie Moriet
-1167,Elce Alisson
-1168,Ester Finch
-1169,widow Gallais
-1170,Susanne 1 Boudinot
-1171,Marie Traverrier
-1172,Judy Pare
-1173,Marthe Goffre
-1174,Margueritte Dumon
-1175,Elisabeth Jourdain
-1176,Eltie Leiseler
-1177,Judith Pare wid Robineau
-1178,Caterine Jouneau
-1179,Hendrica Kip
-1180,Anne Cromelin
-1181,Marguerite Huge
-1182,Marie Boucherie
-1183,Susanne Dousinet
-1184,Judy Gallay wife of Lasonde
-1185,Susanne Hulin
-1186,Elisabeth Filheut
-1187,Sara Coslas
-1188,Marie Odine
-1189,Ruth David
-1190,Jeanne Fiart
-1191,Marie Lucas wife of Loraut
-1192,Jeanne Archambaud
-1193,Elisabeth 1 Hatier
-1194,Susanne Drouilhet
-1195,Anne Newkerke
-1196,Jeanne Carre
-1197,Marie Raizeau
-1198,Marianne Machet
-1199,Jeanne de Wendell
-1200,Marie Bellemont
-1201,wid Hatier
-1202,Elisabeth Leister
-1203,Judy Demerciers
-1204,Janne Audar
-1205,Jeanne Valleau
-1206,Ester Blan
-1207,Marie Audar
-1208,Marie Carelie1
-1209,Elisabeth Archambaud
-1210,Anne Audeberd
-1211,Marteh Coudret
-1212,Susanne de le Tour
-1213,Susanne 1 Vergerau
-1214,Jeane Pillet
-1215,Catherine Canon
-1216,Marthe Allard
-1217,Anne Marchant
-1218,Esther 1 Vincent
-1219,Marie Fleuriau
-1220,Mary Tudor
-1221,Marie la Plaine
-1222,Madeleine Filleux
-1223,Anne Courtland
-1224,Elisabeth Manigeau
-1225,Jeanne Dugua
-1226,Anne Poupin
-1227,Sara Demarais
-1228,Ester Archambeau
-1229,Magdeleine Lefeure
-1230,Marie 1 Chevalier
-1231,Marguerite Bayard
-1232,Madeleine Pelletreau
-1233,Janne Odarts
-1234,Marie Pinard
-1235,Gertrude van Cortland
-1236,Francoise Stuckey
-1237,Sara Valleau
-1238,Anne Chardon
-1239,Altuer Blom
-1240,Janne Couly
-1241,Sara Bontecou
-1242,Elisabeth Audebert
-1243,Marie Anne Bontecou
-1244,Anne de Lancey
-1245,Francoise Barberie
-1246,Judith Andreau
-1247,Susanne la Moureux
-1248,Lydia Leventhorp
-1249,Madeleine Jaullin
-1250,Marthe Oldfields
-1251,Elisabeth Gaudineau
-1252,Charlotte Streing wife of le Mestre
-1253,Anne David
-1254,Susanne Poincent
-1255,Mother of Andre Lauren
-1256,Judith Archambeau
-1257,Judith Robineau
-1258,Catharinne 1 Allaire
-1259,Catherine Philips
-1260,Jeanne Montel
-1261,Susanne Contes
-1262,Marie Anne Guichard
-1263,Janne Faucout
-1264,Janne Droumos
-1265,Judith Cazals
-1266,Francoise Chentrier
-1267,Marie Boudinot
-1268,Marthe Barreau
-1269,Catherine Boudinot
-1270,Susanne Madeleine Basset
-1271,Francoise Moine
-1272,Susanne Neau
-1273,Anne DHariette
-1274,Debora Felden
-1275,Abija Hardin
-1276,Francoise Lambert
-1277,Marthe Coullon
-1278,Marthe Audart
-1279,Ester Beau
-1280,Ester Darkings
-1281,wife of Jean Calzez
-1282,Madeleine Bayeux
-1283,Elisabeth Mainard
-1284,Elisabeth Cortland
-1285,Susanne Bourdet
-1286,Elisabeth Tillou
-1287,Susanne Coutain
-1288,Susanne Girot
-1289,Marie 1 Garreau
-1290,Anne Bontecou
-1291,Susanne Barberie
-1292,Elisabeth 1 Carre
-1293,Blanche Hett
-1294,Francoise Parcot
-1295,Elisabeth Many
-1296,Anne 1 Many
-1297,Elisabeth 1 Gaillard
-1298,Marie Perot
-1299,Marguerite Morin
-1300,Marie Moyon
-1301,Marianne Bodin
-1302,Marie Stuckey
-1303,Marie 1 Pineau
-1304,Marthe Rambert
-1305,Elisabeth du Pre
-1306,Francoise Moore
-1307,Marie David
-1308,Marie Bouquet
-1309,Elisabeth Hubert
-1310,Marie Garnier
-1311,Anne Belin
-1312,Jeanne Couturier
-1313,Marie Elliston
-1314,Louise Canche
-1315,Marianne Mercier
-1316,Susanne David
-1317,Marianne le Conte
-1318,Marie Quintard
-1319,Catharine Carron
-1320,Ester Chevalier
-1321,Marguerite Roberts
-1322,Jeane Masse
-1323,Ester Morin
-1324,Judith Vincent
-1325,Anne de la Bairte
-1326,Susanne Riche
-1327,Marie Anne Jouneau
-1328,Catherine Forraitier
-1329,Marthe Oldfield
-1330,Susanne Minvielle
-1331,Jeanne Tongrelou
-1332,Abigail Harding
-1333,Judy Morin
-1334,Henriette Allaire
-1335,Silvie Eseres
-1336,Judith Cantin
-1337,Judith Marie Moulinars
-1338,Ester Gougeon
-1339,Marie Mercier
-1340,Marie Rulleau
-1341,Elisabeth 1 Pelletreau
-1342,Jeane Rival
-1343,Helene Bodin
-1344,Marie Anne Morin
-1345,Elisabeth Audebart
-1346,Jeanne Renaud
-1347,Judith Jay
-1348,Marie Landrin
-1349,Jeanne Giraud
-1350,Judith Moulinars
-1351,Magdeleine Parcot
-1352,Ester Bonyot
-1353,Jeane Quintard
-1354,Margueritte Allaire
-1355,Anne Dupuy
-1356,Elisabeth Phenix
-1357,Margueritte Perdriau Buvelot
-1358,Anne Bayeux
-1359,Jeanne Latouch
-1360,Mariane Ablain
-1361,Jeane Filladams
-1362,Jeanne Ballereau
-1363,Susanne Colier
-1364,Ester Bourdet
-1365,Jeanne Gougeon
-1366,Florinde Pintard Spencer
-1367,Marie Ablain
-1368,Elisabeth Parcot
-1369,Catherine Searle
-1370,Susanne Draguad
-1371,Elisabeth Marie Basset
-1372,??? Soumain
-1373,Jeanne Quantin
-1374,Catherine Carre Pintard
-1375,Charlotte Faviere
-1376,Judith Morgat
-1377,Francoise Applebe
-1378,Elisabeth 1 Bertran
-1379,Marie Madeleine
-1380,Anne Jackson
-1381,Susanne Dragaud
-1382,Marie Magdeleine Droilhet
-1383,Catherine Royal
-1384,Anne Signac
-1385,Marthe Perrot
-1386,Susanne Andries
-1387,Catherine van Horne
-1388,Araentje Tappen
-1389,Francoise Eymar
-1390,Jeanne Esther Bourdet
-1391,Madeleine Desbrosses
-1392,Marie Elisabeth Vergereau
-1393,Louise Rou
-1394,Marie Renaud
-1395,Marie Leddle
-1396,Marie Roomen
-1397,Allete Blagg
-1398,Jeanne Haynes
-1399,Susanne 2 Papin
-1400,Adrienne Kiersted
-1401,Susanne Marshall
-1402,Elisabeth van Dam
-1403,Jeanne Garland
-1404,Rebecca Burger
-1405,Jean Latouche
-1406,Marie Linch Egberts
-1407,Marie 2 Catherine Carre Boudinot
-1408,Sara Kiersted
-1409,Mariane Cebe
-1410,Avje Tillou
-1411,Anne le Roux
-1412,Jeanne Moreau
-1413,Magdeleine Eymar Watkins
-1414,Esther 2 Vincent
-1415,Jeanne Demilt
-1416,Mariane Bricou Carter
-1417,Judith Pearse
-1418,Marie Verplank
-1419,Susanne 2 Vergerau
-1420,Anne Vezien
-1421,Judith Hutchison
-1422,Elisabeth 1 Mainard
-1423,Phila de Lancey
-1424,Catherine Grogean
-1425,Blanche Beau
-1426,Marquize Bontecou
-1427,Marguerite Salter
-1428,Anne Mainard
-1429,Renee Elisabeth Rou
-1430,Anne Catherine Rossel
-1431,Jean Chretien Tomelson
-1432,Elisabeth 2 Gaillard
-1433,Susanne Gendrat
-1434,Marie Vallade
-1435,Marie Elisabeth Collon wid Disleau
-1436,Marie Vogie
-1437,Jeanne de Johcourt
-1438,Elisabeth 2 Hatier
-1439,??? wid Aymar
-1440,Madeleine Trumeau
-1441,Ester Parcot
-1442,Marie Elisabeth
-1443,Marie Catherine Rossel
-1444,Margueritte Dunstar
-1445,Marie Desbrosses
-1446,Jeanne Parcot
-1447,Louise Aymar Jamain
-1448,Judith 2 Bourdet
-1449,Lea Galodet
-1450,Madelaine Parcot
-1451,Catherine Hastier
-1452,Denyse Mary Rou
-1453,Anne Ravau
-1454,Marie Wilmet
-1455,Marthe Jandin
-1456,Susanne Bely
-1457,Marie 2 Conte
-1458,Dorcas Dobs
-1459,Elisabeth Vautie
-1460,Jeanne Angevin
-1461,Jeanne Marie
-1462,Catherine Jamar
-1463,Elisabeth 2 Beaudry
-1464,Anne Catherine Resh
-1465,Elisabeth Hail
-1466,Abigail Stockton
-1467,Abigail Baret
-1468,Ester Soulis
-1469,Marie 2 Garreau
-1470,Marie Disleau
-1471,Marie Richard
-1472,Anne Clemence Durand
-1473,Hester Rou
-1474,Madeleine Tiers
-1475,Charlotte Gerome
-1476,Susanne Bourdet wife of Loou
-1477,Susanne Beyly wid
-1478,Marie Gillot
-1479,Marie des Veaux
-1480,Anne Dupuy wife of Jacquery
-1481,Marie Halsop
-1482,Margueritte Blanchard wife of Dominick
-1483,Judith Alexander
-1484,Margueritte Paran
-1485,Borch Raven
-1486,Elisabeth 1 Parcot
-1487,Judith des Veaux
-1488,Catherine Claret Badeau
-1489,Jeanne Marie Morel
-1490,Renee Elisabeth Rou wife of Harrison
-1491,Catherine 2 Tier
-1492,Elisabeth Iselen
-1493,Elisabeth Low
-1494,Elisabeth 2 Carre
-1495,Margueritte Basset
-1496,Alida Vermilie
-1497,Marie Spies
-1498,Elisabeth 2 Pelletreau
-1499,Marie Glover
-1500,Marie Haskell
-1501,Rachelle
-1502,Willemeyntie Nack
-1503,Debora
-1504,Joseph Towers
-1505,Madelaine Lagear
-1506,Jeanne Margueritte Carty
-1507,(wife) Blanchard
-1508,Marie Blanchard
-1509,Treize Piquet
-1510,Madeleine Chappelle
-1511,Treize Girard
-1512,Jeanne Callin
-1513,Marie Pommant
-1514,wife of Jacques Pino
-1515,Anne 2 Many
-1516,Margueritte Matsson
-1517,Anne Forman
-1518,Prudence Labat
-1519,Catherine McKaty
-1520,Marie Sandoz
-1521,Marie Coulbac
-1522,Margueritte Morlot
-1523,Susanne Sabadin
-1524,Catherine Heroy
-1525,Marie Curie
-1526,Elisabeth Sandos
-1527,Marie Crate
-1528,Catherine Schlegel
-1529,Margueritte Christopher
-1530,Catherine Jean Heur
-1531,Jeanne Worthman
-1532,Catherine Banvard
-1533,Marie Magdeleine Tibeaut
-1534,Ellenor Basset
-1535,Margueritte Pino
-1536,??? Doucinet
-1537,Paul 1 Pelletreau
-1538,Pierre Jansson Melot
-1539,Capt. Joulin
-1540,Pierre Odere
-1541,Jacques Smith
-1542,Benjamin Burton
-1543,Luc Kiersted
-1544,Christophle Kiersted
-1545,Pierre Hally
-1546,Marie Paran
-1547,Elisabeth Plantin
-1548,Marie 2 Basset
-1549,Marie de Klyn
-1550,Ruth Burton
-1551,Catherine de Meyer
-1552,Samuel Waldron
-1553,Margueritte Sandoz
-1554,Cornelis Vanderburg
-1555,Catherine 1 Meir
-1556,Francois de Ruine
+126,Catherine Le Compte
+127,Andre Joulin
+128,Madeleine Poupain
+129,Marie Pierre Melot
+130,Peter Laurens
+131,Trintie Hans
+132,Jean David
+133,Ester David
+134,Jean Petit
+135,Ester Souseau
+136,Elisabeth Jourdain
+137,Elie Rambert
+138,Elie 1 Pelletreau
+139,Marie Benoit
+140,Joshue Harton
+141,Sofya Harton
+142,Jean du Puy
+143,Marie Genou
+144,Estienne Valleau
+145,Marie Gallais
+146,Francois Demerciers
+147,Judith Gallais
+148,Anthoinette Buvier
+149,Simeon 1 Soumain
+150,Jeanne Piaud
+151,Marie Le Chevallier
+152,Joshue Mercereau
+153,Marie Chadaine
+154,Isaac Girard
+155,Marie Roubin
+156,Isabel Dublet
+157,Jean Hain
+158,Elisabeth Damaris
+159,Gousse Bonin
+160,Marie Bonin
+161,Marie Fitond
+162,Jean 1 Barait
+163,Marthe Maybee
+164,Thomas Lewis
+165,Francoise Leiseler
+166,Cornelia [Roos] Rosze
+167,Andries Laurens
+168,Marie Lucas
+169,Jean 1 Barberie
+170,Francoise Brinkman
+171,Daniel Strain
+172,Charlotte le Mestre
+173,James Spenser
+174,Marie Cariller
+175,Estel Vincens
+176,Constance Lebrun
+177,Isaac Lenoir
+178,Anne Lenoir
+179,Jean Magny
+180,Jeanne Machet
+181,Thomas Adams
+182,Marie Adams
+183,Catharine Lauandier
+184,Jean 1 Blanchard
+185,Jeanne Gautier
+186,Louis 1 Dubois
+187,Ester Grasset
+188,Jacques Lepage
+189,Madeleine David
+190,Pierre Latourette
+191,Isaac Quantain
+192,Jeanne Fume
+193,Jean Canon
+194,Marie Legrand
+195,Jean Magnon
+196,Claude Badaud
+197,William Brown
+198,Marthe Bolton
+199,Elie Badaud
+200,Claude Fume
+201,Jacques Bargeau
+202,Jeanne de Lachenal
+203,Pierre Chagneau
+204,Alkey Smith
+205,Samuel Grasset
+206,Marthe Poupin
+207,Anne Newkerk
+208,Daniel Audard
+209,Marthe Jeffroy
+210,Joseph Horton
+211,Sofie Classen
+212,Francois de Fenne
+213,Anne Marguerite
+214,Madeleine Masse
+215,Andre Lauran
+216,Marc Florentin
+217,Anne Carrillier
+218,Nicolas Ayrault
+219,Marie Anne Berton
+220,Jacques Vallet
+221,Judith Vallet
+222,Susanne Rouseau
+223,Madeleine Vincent
+224,Agnes Constance le Brun
+225,Claudine Badaud
+226,Jean Perlier
+227,Anne Rezeau
+228,Jean Coutan
+229,Susanne Gouin
+230,Jacques 1 Parcot
+231,Marie Cousson
+232,Benjamin Faneuil
+233,Anne Beureau
+234,Pierre Machet
+235,Litie Couly
+236,Gabriel Thibou
+237,Mary Couly
+238,Pierre 1 Vergereau
+239,Marie Mahault
+240,Auguste Jay
+241,Anne Marie Bayard
+242,Estienne de Lancey
+243,Anne van Cortland
+244,Pierre Trocheron
+245,Judhy Allard
+246,Pierre Basset
+247,Jeanne Basset
+248,Nicolas Ponsen
+249,Anne Mils
+250,Jean Gansel
+251,Judy Le Roy
+252,Abraham Salle
+253,Ollive Perault
+254,Elisabeth Gautier
+255,Pierre Galeau
+256,Susane Boisson
+257,Marie 1 Catherine Carre Boudinot
+258,Estienne Perdriau
+259,Marguerite Bontecou
+260,Daniel Bernardeau
+261,Marianne Monier
+262,Estienne Mahault
+263,Sara Michel
+264,Jacques Guiou
+265,Anne Vigneau
+266,Marthe Moreau
+267,Jean Lauran
+268,Marie Arneau
+269,Gregoire Gougeon
+270,Renee Graton
+271,Judhy Archambeau
+272,Marie Gamor
+273,Jacob Goselain
+274,Judy Cleuily
+275,Daniel Jandin
+276,Catherine Lamoureux
+277,Henry de Money
+278,Marianne Grasset
+279,Jean Pelletreau
+280,Etienne Giraud
+281,Jane Foucard
+282,Jeanne Bouquet
+283,Jean Pierre Salnaue
+284,Madelaine Genou
+285,Andre Stuckey
+286,Marie Brossard
+287,Elie Chardavoine
+288,Anne Valleau
+289,Judith Allard
+290,Jean Faget
+291,Vincent Tillou
+292,Elisabeth Vigneau
+293,Barthelemy Feurt
+294,Madeleine Peiret
+295,Marie Thibou
+296,Louise Streing
+297,Benjamin DHariette
+298,Anne Hauteman
+299,Daniel 1 Mainard
+300,Elisabeth Vincent
+301,Noel Delamare
+302,Susanne Lheureux [Lerou?]
+303,Jean Gacherie
+304,Jacob Gernereau
+305,Anne Cook
+306,Marie Carre
+307,Judith Lesueillee
+308,Jacques Spinsar
+309,Jean Jacques Minvielle
+310,Sara Manbrut
+311,Daniel Beau
+312,Ester Gaillard
+313,Anne Felhet
+314,Denis Riche
+315,Susanne Bridon
+316,Salamon Lataniere
+317,Anne Noel
+318,Pierre Savouret
+319,Daniel 1 Robertson
+320,Susanne Nichollas du Cailleau
+321,Jean Garreau
+322,Marie Oderes
+323,Pierre Tiphaine
+324,Susanne Reneh
+325,Jacques Desbrosses
+326,Heleine Godineau
+327,Jean Lafont
+328,Marie Dubois
+329,Jean 1 Vezien
+330,Isaac Frehel
+331,Mercy Blomer
+332,Andre Dupuy
+333,Janne Archambeau
+334,Alexander 1 Allaire
+335,Janne Doens
+336,Jacques Many
+337,Anne 1 Vincent
+338,Josue Soulisse
+339,Marie Valleau
+340,Jacques Rezeau
+341,Marie 1 Conte
+342,David Wilson
+343,Susanne Vincent
+344,Jacques de Laborie
+345,Janne Ressignie
+346,Marie 1 Basset
+347,Thomas Bayeux
+348,Madeleine Boudinot
+349,Marie Bricou
+350,Jean Papin
+351,Charlotte Bounos
+352,Judith 1 Bourdet
+353,Magdelaine Peret
+354,Judith Gacherie
+355,Anne Faneuil
+356,Rene Hett
+357,Blanche Hett
+358,Susan Nicholas
+359,Blanche Dubois
+360,Charles Germon
+361,Elisabeth Germon
+362,Francois 1 Gautier
+363,Anne Wikes
+364,Jean Taveau
+365,Marie Doublet
+366,Magdeleine Bayeux
+367,Lydie Machet
+368,Guillaume Picok
+369,Marie Picok
+370,Pierre Barberie
+371,Susanne Lambert
+372,Jacques You
+373,Marie Pouetreau
+374,Jacques Ballereau
+375,Jeanne Ballereau
+376,Pierre Parcot
+377,Francoise 1 Gendron
+378,Henry Vanderburg
+379,Magdeleine Vanderburg
+380,Noe Cazalet
+381,Elisabeth Cazalet
+382,Isaac Leturque
+383,Marie Leturque
+384,David Minvielle
+385,Susanne Minvielle
+386,Andre Fresneau
+387,Marie Morin
+388,Jeremie Many
+389,Margueritte Vincent
+390,Jacques Bergeron
+391,Judith Peltemps
+392,Marie Stuckey
+393,Guillaume Brower
+394,Jacques Flandreau
+395,Elisabeth 1 Beaudry
+396,Jacques 2 Curie
+397,Anne Terrier
+398,Anne Sicar
+399,Joseph Leddel
+400,Marianne Vincent
+401,Anne Naudin
+402,Marie Taveau
+403,Daniel Masse
+404,Ester Fourret
+405,Louis Rou
+406,Marie le Boyteulx
+407,Susanne Riche
+408,Marie Fresneau
+409,Daniel 1 Bonnet
+410,Marie Machet
+411,Daniel 1 Ravau
+412,Jeanne Martin
+413,Ester Beau
+414,Susanne 2 Boudinot
+415,Marie Aneraux
+416,Benjamin Appleby
+417,Francoise Appleby
+418,Judith Peletant
+419,Marie Catherine
+420,David le Tellier
+421,Susanne le Tellier
+422,Elisabeth 1 Mainard
+423,Marie You
+424,Thomas Oakes
+425,Marie Oakes
+426,Helene Desbrosses
+427,Elisabeth Ony
+428,Judith Pelletreau
+429,Jeane Odard
+430,Margueritte Vanderburg
+431,Pierre Forestier
+432,Catherine 1 Tier
+433,Renee Marie Gougeon
+434,Charles Crommelin
+435,Anne Crommelin
+436,Ezechiel Boigniot
+437,Ester le Conte
+438,Anne du Puy
+439,Ester Forrai
+440,Samuel Vincent
+441,Marie Vincent
+442,Anne de Lancey
+443,Jean Auboyneau
+444,Francoise Auboyneau
+445,Antoine la Font
+446,Marie la Font
+447,Anne Florentin
+448,Solomon Burton
+449,Ester Burton
+450,Daniel Gautier
+451,Marie Gautier
+452,Jacques Ardin
+453,Abigail Ardin
+454,Erloy Letelier
+455,Ester Corbeau
+456,Abraham Jouneau
+457,Marianne Canche
+458,Elisabeth Vandry
+459,Joseph Morfil
+460,Marthe Grasset
+461,Guillaume Ruleau
+462,Ester Boigniot
+463,Marthe Audard
+464,Elie Manbrut
+465,Susanne Manbrut
+466,Renee Rou
+467,Moyse Morin
+468,Marie Anne Bricou
+469,Andre Mesnard
+470,Margueritte Mesnard
+471,Jean Rencau
+472,Jeanne Rencau
+473,Benjamin Roumage
+474,Margueritte Roumage
+475,Pierre Chaperon
+476,Judith Lamoureux
+477,Pierre 1 Vallade
+478,Magdeleine 1 Vallade
+479,Ester Masse
+480,Susanne Chardavoine
+481,Elisabeth Bonin
+482,J. J. Brumeau Moulinars
+483,Judith J. Brumeau Moulinars
+484,Judith Bergeron
+485,Guillaume Bouquet
+486,Neeltie Bouquet
+487,Marie Ruleau
+488,Philip Riche
+489,Marie Riche
+490,Jean Vigneau Tiellou
+491,Marie Vigneau Tiellou
+492,Marie Anne
+493,Pierre Morgat
+494,Jeanne Morgat
+495,Marie Rou
+496,Jean Abelin
+497,Daniel la Moureux
+498,Jeanne la Moureux
+499,Pierre Elisee Galaudet
+500,Jeanne Elisee Galaudet
+501,Robert Ouilliom
+502,Magdeleine Ouilliom
+503,Elisabeth 1 Pelletreau
+504,Judith Chaperon
+505,Jacob Bouquet
+506,Margueritte Bouquet
+507,Renee Marie
+508,Jean 2 Hatier
+509,Elisabeth 2 Hatier
+510,Guillaume Valleau
+511,Jeanne 1 Ravau
+512,Marie Abelin
+513,Andre Giraud
+514,Anne Giraud
+515,Jean Joseph Moulinars
+516,Judith Marie
+517,Josue Quereau
+518,Judith Quereau
+519,Guillaume Neville
+520,Susanne Neville
+521,Guillaume Esgur
+522,Silvie Esgur
+523,Estienne Renaud
+524,Magdeleine Renaud
+525,Jean Ross
+526,Louise Ross
+527,Jean Juounett
+528,Marie Juounett
+529,Jean Masson
+530,Marie Masson
+531,Guillaume la Conte
+532,Alexander de Bonrepos
+533,Margueritte de Bonrepos
+534,Pierre 1 Quintard
+535,Jeanne 1 Quintard
+536,Marie [Jay]
+537,Jeremie Latouche
+538,Jeanne Latouche
+539,Elisabeth Coutan
+540,Ester Manbrut
+541,Daniel Champenois
+542,Margueritte Champenois
+543,Jean Basset
+544,Elisabeth Basset
+545,Daniel 1 Targe
+546,Jeanne 1 Targe
+547,Joseph Royden Jamain
+548,Sara Royden Jamain
+549,Abraham Bertrand
+550,Elisabeth Bertrand
+551,Jean 2 Rey
+552,Magdeleine 2 Rey
+553,Susanne Mercier
+554,Francois Beaumier
+555,Anne Beaumier
+556,Nicholas Carter
+557,Jean 2 Pintard
+558,Lydie Bown
+559,Guillaume Heurretin
+560,Susanne Heurretin
+561,Peternelle 1 Bonnet
+562,Jacques Hutchins
+563,Magdeleine Hutchins
+564,Paul 2 Pelletreau
+565,Jacques Faviere
+566,Charlotte Bouyer
+567,Isaac Van Dam
+568,Isabelle Pintard
+569,Abija Bouquet
+570,Pierre Tillou
+571,Esther Pelletreau
+572,Elisabeth Vischer
+573,Joseph Aineau
+574,Mercy Aineau
+575,Jeanne Soumain
+576,Elisabeth le Boyteulx
+577,Jean Tillou
+578,Marie Tillou
+579,Susanne 2 Pelletreau
+580,Elie Pipon
+581,Blanche Lafont
+582,Ester Tillou
+583,Anne Burger
+584,Catherine Carre
+585,Judith Blagg
+586,Samuel Pell
+587,Susanne Pell
+588,Jean 1 Aymar
+589,Francoise Belon
+590,Alexander Homes
+591,Marianne Masse
+592,Jean Ballereau
+593,Alexander 2 Allaire
+594,Esther Clatworth
+595,Mariane Guyenneau
+596,Philip Perrot
+597,Elisabeth Ailesworth
+598,Susanne Kocherthal
+599,Marie Magdeleine
+600,Vincent Bodin
+601,Helene Smith
+602,Helene van de Water
+603,Francoise 1 Aymar
+604,Roelof Kiersted
+605,Anne [Vincent] Vezien
+606,Matthieu Ridet
+607,Susanne Ridet
+608,Marie van Gelder
+609,Anne 2 Vincent
+610,Sara Butler
+611,Moyse Gombauld
+612,Anne Francoise Pintard
+613,Charles Louchard
+614,Anne Tillou
+615,Salomon Bogles
+616,Susanne Pelletreau
+617,Joseph DeLorme
+618,Marie Rollin
+619,Mercy Casten
+620,Isaac 2 Garnier
+621,Marie Machfieldt
+622,Harter Healms
+623,Jeanne Applebe
+624,Estienne Carter
+625,Francoise Smith
+626,Pierre 2 Vergereau
+627,Marie Magdeleine Pasierin [Parisien?]
+628,Paul Francois Cebe
+629,Marianne Gereau
+630,Pierre Allaire
+631,Marie Garland
+632,Guillaume Nixon
+633,Marie Manswell
+634,Pierre Moynot
+635,Mariane Angevin
+636,Daniel Hutchison
+637,Judith Eymar
+638,Elisabeth Woodfort
+639,Guillaume Leddle
+640,Louise David
+641,Daniel Ravaux jr
+642,Marie Raven
+643,Marie Maxwell
+644,Antoine Demelt
+645,Jeanne Raven
+646,Pierre Cownhoove
+647,Elisabeth Raven
+648,Jean Langevin
+649,Esther Parmer
+650,Jean Pierre Buvelot
+651,Rachel Sutton
+652,Catharinne 2 Allaire
+653,Mathieu Thomas
+654,Jeanne Pelletreau
+655,Jean 2 Parquot
+656,Jeanne Ravaux
+657,Pierre Joncourt
+658,Jeanne Couillete
+659,Jeremie Baudouin
+660,Anne Devin
+661,Marie [Maxwell] Macswill
+662,Marie Raioin
+663,Anne [Devin] Dwane
+664,Bernard Ayrault
+665,Judith Mesnard
+666,Francois Many
+667,Magdelaine Aymar
+668,Nicolas Francois
+669,Glodine Vales
+670,George Los
+671,Glodine Petremon
+672,Rachel Baal
+673,Pierre Renaud
+674,Catherine Marguerite
+675,Guillaume Richard
+676,Marie Elisabeth Rou
+677,Nicolas Gendre
+678,Marguerite Gogue
+679,Pierre Nicolet
+680,Ssuanne Gindrat
+681,Jean Palme
+682,Ester Chadeayne
+683,Claude Fournier
+684,Madeleine Carle
+685,Francois Conrad
+686,Anne Marie Meteta
+687,Laurent Letelier
+688,Marie Clark
+689,Jacques Erouard
+690,Jeanne Jabouin
+691,Abel Henry Marchand
+692,Marie Madeleine Peyterman
+693,Nicolas Jamar
+694,Catherine Pocha
+695,Jean Silvestre of Nante
+696,Charlotte Cluso of Quebec
+697,Pierre Rougeon
+698,Marie Aymar
+699,Jacob Coutan
+700,Jeanne 1 Renaud
+701,Jacques Sicard
+702,Madelaine Badau
+703,Elisabeth Dobbs
+704,Joseph Fortin
+705,Sarah Manbrut
+706,Anne Pomie
+707,Pierre Frederick Durand
+708,Anne Clemence
+709,Elisee Galaudet
+710,Jeanne Dubois
+711,Benjamin Flandreau
+712,Ester Badeau
+713,Jean Debevernier
+714,Francoise Hits
+715,Jean George Los
+716,Claudine George Los
+717,Jonatan Weman
+718,Elisabeth Dubois
+719,Isaac Coutan
+720,Francoise Badau
+721,Pierre Lagear
+722,Madeleine Garsin
+723,Louis 2 Dubois
+724,Elisabeth Soulice
+725,Guillaume Albrespy
+726,Anne Bourdet
+727,Jacques Stuart
+728,Ester Asiers
+729,Ruben Oliver
+730,Ester Galidet
+731,Jean Pierre Chapelle jr
+732,Catherine Don
+733,Jacques Balme
+734,Susanne Balme
+735,Pierre 2 Durand
+736,Clemence 2 Durand
+737,Jean Demilt
+738,Susanne Raven
+739,Andre Grosjean
+740,Marie Grosjean
+741,Jacob Helicom
+742,Marie Badaud
+743,Ulrick Springer
+744,Anne Marie Jeriwerst -of Deux Ponts
+745,Henry Coutan
+746,Elisabeth Chadaine
+747,Pierre 2 Badau
+748,Catherine Coutan
+749,Abel des Veaux
+750,Marie Soulis
+751,Mathieu Morel
+752,Marie Ozias
+753,Elisabeth 1 Aymar
+754,Jean du Clou
+755,Frederick[?] Silvie Vinnet
+756,Abel Marchand
+757,Leonard Sandoz
+758,Marie Sandoz
+759,Magdeleine Lagear
+760,Pierre Chapelle
+761,Catherine Chapelle
+762,Jean Belair
+763,Claudine Belair
+764,Francois Dominick
+765,Margueritte Blanchard
+766,Anne Marie
+767,Louis Pintard
+768,Susanne Pintard
+769,Nicolas Toulon
+770,Debora de Saint Croix
+771,John Harrison
+772,Denize Rou
+773,Otto Parisien
+774,Hester Sicard
+775,Pierre Goux of Claverack
+776,Catherine Vaugi
+777,Guillaume Gandel
+778,Marianne Marchand
+779,Marie 2 Chevalier
+780,Charles Erouard
+781,Ester Coutan
+782,Pierre Rochar
+783,Jeanne Badeau
+784,Jeanne Marie Ozias
+785,Reinold Lodz
+786,Elisabeth Martin
+787,Jean de Laurier
+788,Marie de Laurier
+789,George Dominick
+790,Elisabeth Blanchard
+791,Jean Smith
+792,Angelique Smith
+793,Guillaume Hale
+794,Mariane Coutan
+795,Andre Mercine
+796,Susanne Gindra
+797,Marie [Soulis] Soubise
+798,Michel Gauthay
+799,Apellone Greewallden
+800,Otto Daniel Parisien
+801,Anne Marie Valerin
+802,Pierre Trumeau
+803,??? Blanchard
+804,Catherine Jamar
+805,Susanne Stockton
+806,Elisabeth Lodz
+807,Marie Pauzer
+808,Louis Riviere
+809,Jeanne Erouard
+810,Jean 2 Barait
+811,Elisabeth Axen
+812,Etienne Jordan
+813,Margueritte Jordan
+814,Jean Jourdan
+815,Barbara Jourdan
+816,Pierre Loreillard
+817,Catherine 2 Meir
+818,Samuel Collins
+819,Rilha Collins
+820,Jacques 3 Curie
+821,Margueritte 3 Curie
+822,Jean 1 Basset
+823,Helenne Evout
+824,Jacob Shareman
+825,Jeanne Callo
+826,Jean Cloux
+827,Jean Margueritte Paren
+828,Francois 2 Gautier
+829,Appelone 2 Gautier
+830,Jean Pommant
+831,Marie Pommant
+832,Ester Parisien
+833,Jacob Hillicourt
+834,Anne Baudouin
+835,Louise Cadet
+836,Daniel Tier
+837,Susanne Tier
+838,Isaac Noble
+839,Rachel Dejoncourt
+840,Claudinne Valet
+841,Frederick Basset
+842,Jannatje Vredenburgh
+843,Leonard Willmot
+844,Judith Perron
+845,Louis Faugere
+846,Eve Faugere
+847,Rene Lodz
+848,Mattheu Tier jr
+849,Margueritte Tier
+850,Francoise Hutcheson
+851,Martin Brard
+852,Madeleine Ci wid Trumeau
+853,Jean 2 Blanchard
+854,Marie 2 Blanchard
+855,Jean George Jaquin
+856,Catherine George Jaquin
+857,Margueritte Parent
+858,Margueritte Bellone
+859,Mathieu Tiers
+860,Margueritte Chappelle
+861,Jeanne Heroy
+862,Anne Judick Parens
+863,Pierre Graim
+864,Marie Ravo
+865,Madeleine Blanchard
+866,Barthelemy Rossel
+867,Marie Jacque Saint Pierre
+868,Jean Christopher
+869,Margueritte Commeau
+870,Jacques Heroy
+871,Charlotte Pommant
+872,Andre Souliers
+873,Marie Prignon
+874,Francois Humbert
+875,Elisabeth Melik
+876,Jean Lopey
+877,Susanne Quintar
+878,Anthoine Deroches
+879,Margueritte Denies
+880,Eve Remsen
+881,Francoise 2 Gendron
+882,Marie Forman
+883,Marie Saint Pierre
+884,Guillaume la Croix
+885,Elisabeth Johnston
+886,Charlotte la Vigne
+887,Jean Matthieu Tiers
+888,Sara Casting
+889,Jeanne Jaboin (obyt)
+890,Pierre Quidor
+891,Elsy Trewman
+892,Elisabeth Humbert
+893,Jean Lampey
+894,Josephe Piquet
+895,Jean 2 Vautie
+896,Catherine Curie
+897,Jean Tier
+898,Margueritte le Rou
+899,George Alizon
+900,Elisabeth Williamise
+901,Matthieu Moste
+902,Marie Vautie
+903,Margueritte Feney
+904,Susanne Buvelot
+905,Marie St. Pierre
+906,Jacques Durand
+907,Eleonore Monnie
+908,Isaac 3 Garnier
+909,Elisabeth Fletcher
+910,Jean Sanders
+911,Jacob Brower
+912,Catherine Jeandur
+913,Jean Pierre Vautier
+914,Jean Bomon
+915,Charlotte Bomon
+916,Lewis Fortie
+917,Marie 2 Pineau
+918,Estienne Dousinet Cordonnier
+919,Luy Rezeau
+920,Jean Boibelleau
+921,Pierre Boudet
+922,Pierre Belin
+923,Pierre Godefroy
+924,Guillaume Howard
+925,Oliver Bely
+926,Andre Paillet
+927,Esaie Valleau
+928,Charles Deniseau
+929,Augustin Huble
+930,Pierre Thauuet
+931,Daniel Lambert
+932,Lydie Meterau
+933,Pierre Abrard
+934,Estienne Lavigne
+935,Bartle Clase
+936,Anthony Farmer
+937,Claude Bruyes
+938,Jean Grazillier
+939,Pierre Valos
+940,Pierre Boudinot
+941,Suzanne Gladeau
+942,Liue Vincent
+943,Nicolas Jamain
+944,Jean Chadaine
+945,Andre Naudin
+946,Pierre Filleux
+947,Jean 1 Vautie
+948,Gilles Gaudineau
+949,Daniel Targe
+950,Jean Thomasen
+951,Thomas Boys
+952,Thimotee Archambaud
+953,Marie Le Breton
+954,Abraham Canon
+955,Jean Sevenhoven
+956,Elisabeth Bertran
+957,Madam Jamin
+958,Elie Jamin
+959,Jean Barenne
+960,Andre Auriau
+961,Anna Oustraven
+962,Nicholas Richard
+963,Jean Noe
+964,David Bon Foy
+965,Jean 1 Parquot
+966,Leonard Lewis
+967,Estienne Jamain
+968,Jaques Burtel
+969,Samuel ?
+970,Francois Cariller
+971,Benjamin Godeffroy
+972,Auguste Grasset
+973,Marguerite Chonvetre
+974,Alexander Maurisset
+975,Nicolas Malherbe
+976,Pierre Dasserx
+977,Francois Benech
+978,Abraham Raizeau
+979,Jean 1 Pintard
+980,Andre Canon
+981,Andre Foucault
+982,Augustin Greham
+983,Barne van Tellebourg
+984,Daniel Giraud
+985,Samuel Archambaud
+986,Pierre Rezeau
+987,??? David
+988,Jean Jironne
+989,Jacques 1 Curie
+990,Claude Baudouin
+991,Willem Couly
+992,Jacob Thibou
+993,Etienne van Cortland
+994,Pierre Legrand
+995,Jacques Coindrieau
+996,Isaac Mercier
+997,Auguste Lucas
+998,William Caldwel
+999,William Fullwood
+1000,Daniel Crommelin
+1001,Pierre 1 Badau
+1002,Jacob Baillargeau
+1003,Jacob Ratier
+1004,George Durieu
+1005,Jacob Bayard
+1006,Arnaud Valleau
+1007,Jean Doublet
+1008,David Papin
+1009,Jacques 1 Blanchard
+1010,Jacques Arondaux
+1011,Adam Carrillier
+1012,Francois Bureau
+1013,Simon Rame
+1014,Daniel Gaillard
+1015,Jacques Biebeau
+1016,Pierre Thipine
+1017,Francois Auboineau
+1018,Susanne Peiret
+1019,Jeanne Targe
+1020,Anne Jay
+1021,Oliver van Cortland
+1022,Jean Moyse Contes
+1023,Judith Jamain
+1024,Jacques Riuaux
+1025,Pierre 1 Durand
+1026,Jean Cazalz
+1027,Francois Gourdon
+1028,Madeleine Fauconnier
+1029,Elie Nezereau
+1030,Marie Lafond
+1031,Jean Boudinot
+1032,Jean Martin
+1033,??? Bessonnet
+1034,Etienne Guerine
+1035,Francois Lucas
+1036,Anne Bachan
+1037,Thomas la Roche
+1038,Bernard Hardenbrouk
+1039,Judith Chevallier
+1040,Marthe Poutreau
+1041,Elisabeth Droilhet
+1042,Paul Minvielle la Coze
+1043,James Brown
+1044,Madeleine Gautier
+1045,Jacques Renaudet
+1046,Ester Charon
+1047,Madeleine Feurt
+1048,Charles Forestier
+1049,Michael Stuckey
+1050,Henry Mercie
+1051,Samuel Bayard
+1052,William Owen
+1053,Estienne Ruleau
+1054,Madeleine Leddel
+1055,Anne Chardavoine
+1056,Samuel Morin
+1057,James du Pre
+1058,Philip Thiche [Riche]
+1059,Elie Mestayer
+1060,Cornelia van Cortland
+1061,Andre Royer [Bogard]
+1062,Jacques Dulon
+1063,Susanne Bayeux
+1064,Isaiah Onery
+1065,Louis Allaire
+1066,Joseph Bledar
+1067,Guillaume Burnet
+1068,Paul Collins
+1069,Pierre le Conte
+1070,Daniel [Beau] Buo
+1071,Isaac Quantin
+1072,Guillaume Landrin
+1073,Helegonde Bogart
+1074,Girard Confort
+1075,Marquise le Boyteulx
+1076,Catherine van Cortland
+1077,Jean Bayeux de Londres
+1078,Guillaume le Conte
+1079,Marie la Mare
+1080,Francoise Quantein
+1081,Jeremie Chardavoine
+1082,Francois 2 Basset
+1083,Anne [Jane] van Gelder
+1084,Pierre Hibon
+1085,Catherine Comfort
+1086,Anne Marie Cornifleau
+1087,Pierre Prieur
+1088,Guillaume Emett [W. E. Mott]
+1089,Pierre Jay
+1090,George Muirson
+1091,Samuel Pintard
+1092,Marmaduke Bouteflort
+1093,Jacques Bonnet
+1094,Marguerite Perdriau
+1095,Pierre Burger
+1096,Jean Dragaud
+1097,Isaac la Touche
+1098,Jacques David
+1099,Louise Kocherthal
+1100,Daniel Burger
+1101,Pregeante Carre
+1102,Rostal Richardson
+1103,Marie Ballereau
+1104,Simon Jansen
+1105,Catherine Mecologh
+1106,Estienne Desbrosses
+1107,Alexander Phenix
+1108,Francoise Bouquet
+1109,Elisabeth Heurretin
+1110,Jean 2 Vincent
+1111,Michel le Breton
+1112,Joseph Haynes
+1113,Jacques Buvelot
+1114,Anne Rezeau Vincent
+1115,Henry de Meyer
+1116,Elisabeth Cockrem
+1117,Elisabeth le Breton
+1118,Sara Leddle
+1119,Jean Bend
+1120,Abraham Kip
+1121,Jean Groesbeek
+1122,Nicolas Rosevelt
+1123,Estienne Bourdet
+1124,Etienne 1 van Cortland
+1125,Paul Parcot
+1126,Isaac Taveau
+1127,Esther Riche Smith
+1128,Benjamin Blagg
+1129,Egbert Egberts
+1130,Elisabeth Garnier
+1131,Oliver de Lancey
+1132,Marie Tavaux
+1133,Daniel Ravaux sr
+1134,Marie Soumain
+1135,Jeanne Beau
+1136,Jean 2 Vezien
+1137,Thauvet Besly
+1138,Marie Ball Langevin
+1139,Suson Demilt
+1140,Robert Cromelin
+1141,Francois Blanchard
+1142,Jean Eymar jr
+1143,Daniel Hugueniot
+1144,Jean Roorback jr
+1145,Elie Desbrosses
+1146,Jean Henry Rou
+1147,Jean George Laureillard
+1148,Henry Chadeayne
+1149,Andre Lucam
+1150,??? Roosevelt
+1151,Madelaine Renaud
+1152,Gerard Jamain
+1153,Francois 3 Basset
+1154,Daniel Jacot
+1155,Jean Eomain
+1156,Jean Badeau
+1157,Jean Louis Maillet
+1158,David Guyon
+1159,Jacques 2 Parcot
+1160,John Richard
+1161,Philip Will
+1162,Ester Langevin
+1163,Ester Erouard
+1164,Jean Henry Tiers
+1165,Jean Lamb
+1166,Denis Wortman
+1167,Jacob van Wagener
+1168,Fredrica Ozy [Ony]
+1169,Jacques 2 Blanchard
+1170,Samuel 2 Bourdet
+1171,Bernard Rynlander
+1172,Moyse de Saint Croix
+1173,Thomas Hamersley
+1174,Matthew Dies
+1175,Pierre Vautie
+1176,Jean Pierre Tetard
+1177,Louis Clarkson
+1178,Jean Loreillard
+1179,Morley Harrison
+1180,Charles Demuy
+1181,Daniel 2 Robertson
+1182,Jean Miller
+1183,Jean Frederick
+1184,William Richard
+1185,Michael Housewel
+1186,Michel Honore
+1187,Roger Richard
+1188,Laurand Hardman
+1189,Ryne Low
+1190,Jean Andre Castor
+1191,Jean Cortright
+1192,Francois Girard
+1193,Jean Guerineau
+1194,Henry Gerbeaux
+1195,Jean Francois Malvisin
+1196,Jean Bte Rieux
+1197,William Vredenburgh
+1198,Jean Plantin
+1199,Corneille Tebaut
+1200,Jacques Aymar
+1201,Jacques Vautie
+1202,Henry Rossel
+1203,Christian Smith
+1204,Francois Willmny
+1205,Daniel Aymar
+1206,Barthelemy Labuzan
+1207,Elisabeth Edward
+1208,Charles Louis Point Clou
+1209,Jean Harbin
+1210,Girard Bekeman
+1211,Jacques la Masney
+1212,Matthieu Poitevan
+1213,Pierre Mery
+1214,Jacob Tier
+1215,Jean 2 Barberie
+1216,Jean Sals
+1217,Germain Chappelle
+1218,Louis Marain
+1219,Jean Girault
+1220,Pierre Conrad
+1221,George Quidor
+1222,Pierre Forgeaut
+1223,J. Nicolas Jeandur
+1224,Guillaume Leonard
+1225,Jacques Pino
+1226,Jeanne Jamain
+1227,wife of Estienne Dousinet Cordonnier
+1228,Jeanne Piaud wife of Soumain
+1229,Susanne DHariette
+1230,Dorothea van Hertsbergen
+1231,Marie le Berton wid Fleuriau
+1232,Susanne Beriman
+1233,Susanne Parin
+1234,Susanne Descart
+1235,Lea Ouilmen
+1236,??? Poupain
+1237,Suzanne Papin Boudinot
+1238,Catherine de Lorier
+1239,Mariane Melot
+1240,Susanne Ratier
+1241,Suzanne Roux
+1242,Elizabeth Pinet
+1243,Christiane Melton
+1244,Judith Pare
+1245,Petterlin Elfen Eik
+1246,Marie Bonein
+1247,Marie Tisseau
+1248,Eltie Prevost
+1249,Catherine Newkerk
+1250,Marie Dorfurer
+1251,Marguerite Levesque
+1252,??? Vincent
+1253,Jeanne Bardewick
+1254,Jeanne Janson
+1255,Marie Schart
+1256,Elisabeth Hooglandt
+1257,Elisabeth Perdriau wife of Hatier
+1258,Matta Pierrot
+1259,Marie Lecuier
+1260,Catherine le Mercier
+1261,Annetie Hans
+1262,Marie Susanne Vergereau
+1263,Marie Moriet
+1264,Elce Alisson
+1265,Ester Finch
+1266,widow Gallais
+1267,Susanne 1 Boudinot
+1268,Marie Traverrier
+1269,Judy Pare
+1270,Marthe Goffre
+1271,Margueritte Dumon
+1272,Eltie Leiseler
+1273,Judith Pare wid Robineau
+1274,Marie Anne ?
+1275,Caterine Jouneau
+1276,Hendrica Kip
+1277,Anne Cromelin
+1278,Marguerite Huge
+1279,Marie Boucherie
+1280,Susanne Dousinet
+1281,Judy Gallay wife of Lasonde
+1282,Susanne Hulin
+1283,Elisabeth Filheut
+1284,Sara Coslas
+1285,Marie Odine
+1286,Ruth David
+1287,Jeanne Fiart
+1288,Marie Lucas wife of Loraut
+1289,Jeanne Archambaud
+1290,Elisabeth 1 Hatier
+1291,Susanne Drouilhet
+1292,Anne Newkerke
+1293,Jeanne Carre
+1294,Marie Raizeau
+1295,Marianne Machet
+1296,Jeanne de Wendell
+1297,Marie Bellemont
+1298,wid Hatier
+1299,Elisabeth Leister
+1300,Judy Demerciers
+1301,Janne Audar
+1302,Jeanne Valleau
+1303,Ester Blan
+1304,Marie Audar
+1305,Marie Carelie1
+1306,Elisabeth Archambaud
+1307,Anne Audeberd
+1308,Marteh Coudret
+1309,Susanne de le Tour
+1310,Susanne 1 Vergerau
+1311,Jeane Pillet
+1312,Catherine Canon
+1313,Marthe Allard
+1314,Anne Marchant
+1315,Esther 1 Vincent
+1316,Marie Fleuriau
+1317,Mary Tudor
+1318,Marie la Plaine
+1319,Madeleine Filleux
+1320,Anne Courtland
+1321,Elisabeth Manigeau
+1322,Jeanne Dugua
+1323,Anne Poupin
+1324,Sara Demarais
+1325,Ester Archambeau
+1326,Magdeleine Lefeure
+1327,Marie 1 Chevalier
+1328,Marguerite Bayard
+1329,Madeleine Pelletreau
+1330,Janne Odarts
+1331,Marie Pinard
+1332,Gertrude van Cortland
+1333,Francoise Stuckey
+1334,Sara Valleau
+1335,Anne Chardon
+1336,Altuer Blom
+1337,Janne Couly
+1338,Sara Bontecou
+1339,Elisabeth Audebert
+1340,Marie Anne Bontecou
+1341,Francoise Barberie
+1342,Judith Andreau
+1343,Susanne la Moureux
+1344,Lydia Leventhorp
+1345,Susanne Thipine
+1346,Madeleine Jaullin
+1347,Marthe Oldfields
+1348,Elisabeth Gaudineau
+1349,Charlotte Streing wife of le Mestre
+1350,Anne David
+1351,Susanne Poincent
+1352,Mother of Andre Lauren
+1353,Judith Archambeau
+1354,Judith Robineau
+1355,Catharinne 1 Allaire
+1356,Catherine Philips
+1357,Jeanne Montel
+1358,Susanne Contes
+1359,Marie Anne Guichard
+1360,Janne Faucout
+1361,Janne Droumos
+1362,Judith Cazals
+1363,Francoise Chentrier
+1364,Marie Boudinot
+1365,Marthe Barreau
+1366,Catherine Boudinot
+1367,Susanne Madeleine Basset
+1368,Francoise Moine
+1369,Susanne Neau
+1370,Anne DHariette
+1371,Debora Felden
+1372,Abija Hardin
+1373,Francoise Lambert
+1374,Marthe Coullon
+1375,Marthe Audart
+1376,Ester Darkings
+1377,wife of Jean Calzez
+1378,Madeleine Bayeux
+1379,Elisabeth Mainard
+1380,Elisabeth Cortland
+1381,Susanne Bourdet
+1382,Elisabeth Tillou
+1383,Susanne Coutain
+1384,Susanne Girot
+1385,Marie 1 Garreau
+1386,Anne Bontecou
+1387,Susanne Barberie
+1388,Elisabeth 1 Carre
+1389,Francoise Parcot
+1390,Elisabeth Many
+1391,Anne 1 Many
+1392,Elisabeth 1 Gaillard
+1393,Marie Perot
+1394,Marguerite Morin
+1395,Marie Moyon
+1396,Marianne Bodin
+1397,Marie 1 Pineau
+1398,Marthe Rambert
+1399,Elisabeth du Pre
+1400,Francoise Moore
+1401,Marie David
+1402,Marie Bouquet
+1403,Elisabeth Hubert
+1404,Marie Garnier
+1405,Anne Belin
+1406,Jeanne Couturier
+1407,Marie Elliston
+1408,Louise Canche
+1409,Marianne Mercier
+1410,Susanne David
+1411,Marianne le Conte
+1412,Marie Quintard
+1413,Catharine Carron
+1414,Ester Chevalier
+1415,Marguerite Roberts
+1416,Jeane Masse
+1417,Ester Morin
+1418,Judith Vincent
+1419,Anne de la Bairte
+1420,Marie Anne Jouneau
+1421,Catherine Forraitier
+1422,Marthe Oldfield
+1423,Jeanne Tongrelou
+1424,Abigail Harding
+1425,Judy Morin
+1426,Henriette Allaire
+1427,Silvie Eseres
+1428,Judith Cantin
+1429,Judith Marie Moulinars
+1430,Ester Gougeon
+1431,Marie Mercier
+1432,Marie Rulleau
+1433,Jeane Rival
+1434,Helene Bodin
+1435,Marie Anne Morin
+1436,Elisabeth Audebart
+1437,Jeanne Renaud
+1438,Judith Jay
+1439,Marie Landrin
+1440,Jeanne Giraud
+1441,Judith Moulinars
+1442,Magdeleine Parcot
+1443,Ester Bonyot
+1444,Jeane Quintard
+1445,Margueritte Allaire
+1446,Anne Dupuy
+1447,Elisabeth Phenix
+1448,Margueritte Perdriau Buvelot
+1449,Anne Bayeux
+1450,Jeanne Latouch
+1451,Mariane Ablain
+1452,Jeane Filladams
+1453,Susanne Colier
+1454,Ester Bourdet
+1455,Jeanne Gougeon
+1456,Florinde Pintard Spencer
+1457,Marie Ablain
+1458,Elisabeth Parcot
+1459,Catherine Searle
+1460,Susanne Draguad
+1461,Elisabeth Marie Basset
+1462,??? Soumain
+1463,Jeanne Quantin
+1464,Catherine Carre Pintard
+1465,Charlotte Faviere
+1466,Judith Morgat
+1467,Francoise Applebe
+1468,Elisabeth 1 Bertran
+1469,Marie Madeleine
+1470,Anne Jackson
+1471,Susanne Dragaud
+1472,Marie Magdeleine Droilhet
+1473,Catherine Royal
+1474,Anne Signac
+1475,Marthe Perrot
+1476,Susanne Andries
+1477,Catherine van Horne
+1478,Araentje Tappen
+1479,Francoise Eymar
+1480,Jeanne Esther Bourdet
+1481,Madeleine Desbrosses
+1482,Marie Elisabeth Vergereau
+1483,Louise Rou
+1484,Marie Renaud
+1485,Marie Leddle
+1486,Elisabeth 2 Garnier
+1487,Marie Roomen
+1488,Allete Blagg
+1489,Jeanne Haynes
+1490,Susanne 2 Papin
+1491,Marthe Parcot
+1492,Adrienne Kiersted
+1493,Susanne Marshall
+1494,Elisabeth van Dam
+1495,Jeanne Garland
+1496,Rebecca Burger
+1497,Jean Latouche
+1498,Marie Linch Egberts
+1499,Marie 2 Catherine Carre Boudinot
+1500,Sara Kiersted
+1501,Mariane Cebe
+1502,Avje Tillou
+1503,Anne le Roux
+1504,Jeanne Moreau
+1505,Magdeleine Eymar Watkins
+1506,Esther 2 Vincent
+1507,Jeanne Demilt
+1508,Mariane Bricou Carter
+1509,Judith Pearse
+1510,Marie Verplank
+1511,Susanne 2 Vergerau
+1512,Anne Vezien
+1513,Judith Hutchison
+1514,Phila de Lancey
+1515,Catherine Grogean
+1516,Blanche Beau
+1517,Marquize Bontecou
+1518,Marguerite Salter
+1519,Anne Mainard
+1520,Renee Elisabeth Rou
+1521,Anne Catherine Rossel
+1522,Jean Chretien Tomelson
+1523,Elisabeth 2 Gaillard
+1524,Susanne Gendrat
+1525,Marie Vallade
+1526,Marie Elisabeth Collon wid Disleau
+1527,Marie Vogie
+1528,Jeanne de Johcourt
+1529,??? wid Aymar
+1530,Madeleine Trumeau
+1531,Ester Parcot
+1532,Marie Elisabeth
+1533,Marie Catherine Rossel
+1534,Elisabeth Jabouin
+1535,Margueritte Dunstar
+1536,Marie Desbrosses
+1537,Jeanne Parcot
+1538,Louise Aymar Jamain
+1539,Judith 2 Bourdet
+1540,Lea Galodet
+1541,Madelaine Parcot
+1542,Catherine Hastier
+1543,Denyse Mary Rou
+1544,Anne Ravau
+1545,Marie Wilmet
+1546,Marthe Jandin
+1547,Susanne Bely
+1548,Marie 2 Conte
+1549,Catherine Henry Tiers
+1550,Dorcas Dobs
+1551,Elisabeth Vautie
+1552,Jeanne Angevin
+1553,Marie 1 Ravau
+1554,Jeanne Marie
+1555,Elisabeth 2 Beaudry
+1556,Anne Catherine Resh
+1557,Elisabeth Hail
+1558,Abigail Stockton
+1559,Abigail Baret
+1560,Ester Soulis
+1561,Marie 2 Garreau
+1562,Marie Disleau
+1563,Marie Richard
+1564,Anne Clemence Durand
+1565,Hester Rou
+1566,Madeleine Tiers
+1567,Charlotte Gerome
+1568,Susanne Bourdet wife of Loou
+1569,Susanne Beyly wid
+1570,Marie Gillot
+1571,Marie des Veaux
+1572,Anne Dupuy wife of Jacquery
+1573,Marie Halsop
+1574,Margueritte Blanchard wife of Dominick
+1575,Judith Alexander
+1576,Margueritte Paran
+1577,Borch Raven
+1578,Elisabeth 1 Parcot
+1579,Judith des Veaux
+1580,Catherine Claret Badeau
+1581,Jeanne Marie Morel
+1582,Renee Elisabeth Rou wife of Harrison
+1583,Catherine 2 Tier
+1584,Elisabeth Iselen
+1585,Sara Hardman
+1586,Elisabeth Low
+1587,Elisabeth 2 Carre
+1588,Marie 1 Quintard
+1589,Margueritte Basset
+1590,Alida Vermilie
+1591,Marie Spies
+1592,Elisabeth 2 Pelletreau
+1593,Marie Glover
+1594,Marie Haskell
+1595,Rachelle Noble
+1596,Willemeyntie Nack
+1597,Catherine Loreillard
+1598,Debora Toulon
+1599,Joseph Towers
+1600,Madelaine Lagear
+1601,Jeanne Margueritte Carty
+1602,(wife) Blanchard
+1603,Marie Blanchard
+1604,Treize Piquet
+1605,Madeleine Chappelle
+1606,Treize Girard
+1607,Elisabeth Smith
+1608,Jeanne Callin
+1609,wife of Jacques Pino
+1610,Anne 2 Many
+1611,Margueritte Matsson
+1612,Anne Forman
+1613,Prudence Labat
+1614,Catherine McKaty
+1615,Marie Coulbac
+1616,Margueritte Morlot
+1617,Susanne Sabadin
+1618,Catherine Heroy
+1619,Marie Curie
+1620,Elisabeth Sandos
+1621,Marie Crate
+1622,Catherine Schlegel
+1623,Margueritte Christopher
+1624,Catherine Jean Heur
+1625,Jeanne Worthman
+1626,Catherine Banvard
+1627,Francoise Pierre Chapelle jr
+1628,Marie 3 Garnier
+1629,Catherine Forgeaut
+1630,Marie Magdeleine Tibeaut
+1631,Ellenor Basset
+1632,Margueritte Pino
+1633,??? Doucinet
+1634,Paul 1 Pelletreau
+1635,Pierre Jansson Melot
+1636,Capt. Joulin
+1637,Pierre Odere
+1638,Jacques Smith
+1639,Benjamin Burton
+1640,Luc Kiersted
+1641,Christophle Kiersted
+1642,Pierre Hally
+1643,Marie Paran
+1644,Elisabeth Plantin
+1645,Marie 2 Basset
+1646,Marie de Klyn
+1647,Ruth Burton
+1648,Catherine de Meyer
+1649,Samuel Waldron
+1650,Margueritte Sandoz
+1651,Cornelis Vanderburg
+1652,Catherine 1 Meir
+1653,Catherine Jandin
+1654,Francois de Ruine

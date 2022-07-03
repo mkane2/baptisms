@@ -40,7 +40,7 @@ id,name,gender,race
 38,Joseph Freind,male,white
 39,Susanne Brutel,female,white
 40,Pierre Bontecour,male,white
-41,Margueritte,female,white
+41,Margueritte Bontecour,female,white
 42,Amant Bounin,male,white
 43,Susanne Valleau,female,white
 44,George Derier,male,white
@@ -70,7 +70,7 @@ id,name,gender,race
 68,Elie Vanbert,male,white
 69,Jeanne Columbeau,female,white
 70,Jean Borton,male,white
-71,Helgon,unknown,white
+71,Helgon Borton,unknown,white
 72,Salomon de Seure,male,white
 73,Anne de Lescluse,female,white
 74,Daniel Malson,male,white
@@ -84,13 +84,13 @@ id,name,gender,race
 82,Meletie Gaspar,female,white
 83,Guertru Janson,female,white
 84,Daniel Marchand,male,white
-85,Catherine,unknown,white
+85,Catherine Marchand,female,white
 86,Aman Bonnin,male,white
 87,Suzanne Valos,female,white
 88,Elie Neau,male,white
 89,Susanne Pare,female,white
 90,Jean VanLoon,male,white
-91,Marie,unknown,white
+91,Marie VanLoon,female,white
 92,Pierre Newkerk,male,white
 93,Anne Hill,female,white
 94,Judith Piau,female,white
@@ -100,7 +100,7 @@ id,name,gender,race
 98,Zacarie Anchevin,male,white
 99,Marie Naudin,female,white
 100,Jacques Maurisse,male,white
-101,Rose,unknown,white
+101,Rose Maurisse,female,white
 102,Pierre Bertin,male,white
 103,Judith Roy,female,white
 104,Jean Coulon,male,white
@@ -112,9 +112,9 @@ id,name,gender,race
 110,Jean Andriuet,male,white
 111,Toinette Bassier,female,white
 112,Jean Dufour,male,white
-113,Jeanne,unknown,white
+113,Jeanne Dufour,female,white
 114,John Hatton,male,white
-115,Susanne,unknown,white
+115,Susanne Hatton,female,white
 116,Jean Le Chevallier,male,white
 117,Marie de la Pleine,female,white
 118,Guillaume Moyon,male,white
@@ -125,1434 +125,1532 @@ id,name,gender,race
 123,Marie Mercereau,female,white
 124,Mon d. Sr. Peiret,female,white
 125,Francois Le Compte,male,white
-126,Andre Joulin,male,white
-127,Madeleine Poupain,female,white
-128,Peter Laurens,male,white
-129,Trintie Hans,female,white
-130,Jean David,male,white
-131,Ester,unknown,white
-132,Jean Petit,male,white
-133,Ester Souseau,female,white
-134,Elisabeth,unknown,white
-135,Elie Rambert,male,white
-136,Elie 1 Pelletreau,male,white
-137,Marie Benoit,female,white
-138,Joshue Harton,male,white
-139,Sofya,unknown,white
-140,Jean du Puy,male,white
-141,Marie Genou,female,white
-142,Estienne Valleau,male,white
-143,Marie Gallais,female,white
-144,Francois Demerciers,male,white
-145,Judith Gallais,female,white
-146,Anthoinette Buvier,female,white
-147,Simeon 1 Soumain,male,white
-148,Jeanne Piaud,female,white
-149,Joshue Mercereau,male,white
-150,Marie Chadaine,female,white
-151,Isaac Girard,male,white
-152,Marie Roubin,female,white
-153,Isabel Dublet,female,white
-154,Jean Hain,male,white
-155,Elisabeth Damaris,female,white
-156,Gousse Bonin,male,white
-157,Marie Fitond,female,white
-158,Jean 1 Barait,male,white
-159,Marthe Maybee,female,white
-160,Thomas Lewis,male,white
-161,Francoise Leiseler,female,white
-162,Cornelia [Roos] Rosze,female,white
-163,Andries Laurens,male,white
-164,Marie Lucas,female,white
-165,Jean 1 Barberie,male,white
-166,Francoise Brinkman,female,white
-167,Daniel Strain,male,white
-168,Charlotte le Mestre,female,white
-169,James Spenser,male,white
-170,Marie Cariller,female,white
-171,Estel Vincens,female,white
-172,Constance Lebrun,female,white
-173,Isaac Lenoir,male,white
-174,Anne,unknown,white
-175,Jean Magny,male,white
-176,Jeanne Machet,female,white
-177,Thomas Adams,male,white
-178,Catharine Lauandier,female,white
-179,Jean 1 Blanchard,male,white
-180,Jeanne Gautier,female,white
-181,Louis 1 Dubois,male,white
-182,Ester Grasset,female,white
-183,Jacques Lepage,male,white
-184,Madeleine David,female,white
-185,Pierre Latourette,male,white
-186,Isaac Quantain,male,white
-187,Jeanne Fume,female,white
-188,Jean Canon,male,white
-189,Marie Legrand,female,white
-190,Jean Magnon,male,white
-191,Claude Badaud,male,white
-192,William Brown,male,white
-193,Marthe Bolton,female,white
-194,Elie Badaud,male,white
-195,Claude Fume,male,white
-196,Jacques Bargeau,male,white
-197,Jeanne de Lachenal,female,white
-198,Pierre Chagneau,male,white
-199,Alkey Smith,male,white
-200,Samuel Grasset,male,white
-201,Marthe Poupin,female,white
-202,Daniel Audard,male,white
-203,Marthe Jeffroy,female,white
-204,Joseph Horton,male,white
-205,Sofie Classen,female,white
-206,Francois de Fenne,male,white
-207,Anne Marguerite,female,white
-208,Madeleine Masse,female,white
-209,Andre Lauran,male,white
-210,Marc Florentin,male,white
-211,Anne Carrillier,female,white
-212,Nicolas Ayrault,male,white
-213,Marie Anne Berton,female,white
-214,Jacques Vallet,male,white
-215,Judith,unknown,white
-216,Susanne Rouseau,female,white
-217,Madeleine Vincent,female,white
-218,Agnes Constance le Brun,female,white
-219,Claudine Badaud,female,white
-220,Jean Perlier,male,white
-221,Anne Rezeau,female,white
-222,Jean Coutan,male,white
-223,Susanne Gouin,female,white
-224,Jacques 1 Parcot,male,white
-225,Marie Cousson,female,white
-226,Benjamin Faneuil,male,white
-227,Anne Beureau,female,white
-228,Pierre Machet,male,white
-229,Litie Couly,female,white
-230,Gabriel Thibou,male,white
-231,Mary Couly,female,white
-232,Pierre 1 Vergereau,male,white
-233,Marie Mahault,female,white
-234,Auguste Jay,male,white
-235,Anne Marie Bayard,female,white
-236,Estienne de Lancey,male,white
-237,Anne van Cortland,female,white
-238,Pierre Trocheron,male,white
-239,Judhy Allard,female,white
-240,Pierre Basset,male,white
-241,Nicolas Ponsen,male,white
-242,Anne Mils,female,white
-243,Jean Gansel,male,white
-244,Judy Le Roy,female,white
-245,Abraham Salle,male,white
-246,Ollive Perault,female,white
-247,Elisabeth Gautier,female,white
-248,Pierre Galeau,male,white
-249,Susane Boisson,female,white
-250,Marie 1 Catherine Carre Boudinot,female,white
-251,Estienne Perdriau,male,white
-252,Marguerite Bontecou,female,white
-253,Daniel Bernardeau,male,white
-254,Marianne Monier,female,white
-255,Estienne Mahault,male,white
-256,Sara Michel,female,white
-257,Jacques Guiou,male,white
-258,Anne Vigneau,female,white
-259,Marthe Moreau,female,white
-260,Jean Lauran,male,white
-261,Marie Arneau,female,white
-262,Gregoire Gougeon,male,white
-263,Renee Graton,female,white
-264,Judhy Archambeau,female,white
-265,Marie Gamor,female,white
-266,Jacob Goselain,male,white
-267,Judy Cleuily,female,white
-268,Daniel Jandin,male,white
-269,Catherine Lamoureux,female,white
-270,Henry de Money,male,white
-271,Marianne Grasset,female,white
-272,Jean Pelletreau,male,white
-273,Etienne Giraud,male,white
-274,Jane Foucard,female,white
-275,Jeanne Bouquet,female,white
-276,Jean Pierre Salnaue,male,white
-277,Madelaine Genou,female,white
-278,Andre Stuckey,male,white
-279,Marie Brossard,female,white
-280,Elie Chardavoine,male,white
-281,Anne Valleau,female,white
-282,Judith Allard,female,white
-283,Jean Faget,male,white
-284,Vincent Tillou,male,white
-285,Elisabeth Vigneau,female,white
-286,Barthelemy Feurt,male,white
-287,Madeleine Peiret,female,white
-288,Louise Streing,female,white
-289,Benjamin DHariette,male,white
-290,Anne Hauteman,female,white
-291,Daniel 1 Mainard,male,white
-292,Elisabeth Vincent,female,white
-293,Noel Delamare,male,white
-294,Susanne Lheureux [Lerou?],female,white
-295,Jean Gacherie,male,white
-296,Jacob Gernereau,male,white
-297,Anne Cook,female,white
-298,Marie Carre,female,white
-299,Judith Lesueillee,female,white
-300,Jacques Spinsar,male,white
-301,Jean Jacques Minvielle,male,white
-302,Sara,unknown,white
-303,Daniel Beau,male,white
-304,Ester Gaillard,female,white
-305,Anne Felhet,female,white
-306,Denis Riche,male,white
-307,Susanne Bridon,female,white
-308,Salamon Lataniere,male,white
-309,Anne Noel,female,white
-310,Pierre Savouret,male,white
-311,Ester David,female,white
-312,Daniel 1 Robertson,male,white
-313,Susanne Nichollas du Cailleau,female,white
-314,Jean Garreau,male,white
-315,Marie Oderes,female,white
-316,Pierre Tiphaine,male,white
-317,Susanne Reneh,female,white
-318,Jacques Desbrosses,male,white
-319,Heleine Godineau,female,white
-320,Jean Lafont,male,white
-321,Marie Dubois,female,white
-322,Jean 1 Vezien,male,white
-323,Isaac Frehel,male,white
-324,Mercy Blomer,female,white
-325,Andre Dupuy,male,white
-326,Janne Archambeau,female,white
-327,Alexander 1 Allaire,male,white
-328,Janne Doens,female,white
-329,Jacques Many,male,white
-330,Anne 1 Vincent,female,white
-331,Josue Soulisse,male,white
-332,Marie Valleau,female,white
-333,Jacques Rezeau,male,white
-334,Marie 1 Conte,female,white
-335,David Wilson,male,white
-336,Susanne Vincent,female,white
-337,Jacques de Laborie,male,white
-338,Janne Ressignie,female,white
-339,Marie 1 Basset,female,white
-340,Thomas Bayeux,male,white
-341,Madeleine Boudinot,female,white
-342,Marie Bricou,female,white
-343,Jean Papin,male,white
-344,Charlotte Bounos,female,white
-345,Judith 1 Bourdet,female,white
-346,Magdelaine Peret,female,white
-347,Rene Hett,male,white
-348,Blanche,unknown,white
-349,Susan Nicholas,female,white
-350,Blanche Dubois,female,white
-351,Charles Germon,male,white
-352,Francois 1 Gautier,male,white
-353,Anne Wikes,female,white
-354,Jean Taveau,male,white
-355,Marie Doublet,female,white
-356,Magdeleine,unknown,white
-357,Lydie,unknown,white
-358,Guillaume Picok,male,white
-359,Pierre Barberie,male,white
-360,Susanne Lambert,female,white
-361,Jacques You,male,white
-362,Marie Pouetreau,female,white
-363,Jacques Ballereau,male,white
-364,Pierre Parcot,male,white
-365,Francoise 1 Gendron,female,white
-366,Henry Vanderburg,male,white
-367,Noe Cazalet,female,white
-368,Isaac Leturque,male,white
-369,David Minvielle,male,white
-370,Andre Fresneau,male,white
-371,Marie Morin,female,white
-372,Jeremie Many,male,white
-373,Margueritte Vincent,female,white
-374,Jacques Bergeron,male,white
-375,Judith Peltemps,female,white
-376,Guillaume Brower,male,white
-377,Jacques Flandreau,male,white
-378,Elisabeth 1 Beaudry,female,white
-379,Jacques 2 Curie,male,white
-380,Anne Terrier,female,white
-381,Anne Sicar,female,white
-382,Joseph Leddel,male,white
-383,Marianne Vincent,female,white
-384,Anne Naudin,female,white
-385,Daniel Masse,male,white
-386,Ester Fourret,female,white
-387,Louis Rou,male,white
-388,Marie le Boyteulx,female,white
-389,Daniel 1 Bonnet,male,white
-390,Marie Machet,female,white
-391,Daniel 1 Ravau,male,white
-392,Jeanne Martin,female,white
-393,Susanne 2 Boudinot,female,white
-394,Marie Aneraux,female,white
-395,Benjamin Appleby,male,white
-396,Francoise,female,white
-397,Judith Peletant,female,white
-398,Marie Catherine,female,white
-399,David le Tellier,male,white
-400,Thomas Oakes,male,white
-401,Helene,unknown,white
-402,Elisabeth Ony,female,white
-403,Judith Pelletreau,female,white
-404,Jeane Odard,female,white
-405,Pierre Forestier,male,white
-406,Catherine 1 Tier,female,white
-407,Renee Marie Gougeon,female,white
-408,Charles Crommelin,male,white
-409,Ezechiel Boigniot,male,white
-410,Ester le Conte,female,white
-411,Ester Forrai,female,white
-412,Samuel Vincent,male,white
-413,Jean Auboyneau,male,white
-414,Antoine la Font,male,white
-415,Solomon Burton,male,white
-416,Daniel Gautier,male,white
-417,Marie Gautier,female,white
-418,Jacques Ardin,male,white
-419,Abigail,unknown,white
-420,Erloy Letelier,male,white
-421,Ester Corbeau,female,white
-422,Abraham Jouneau,male,white
-423,Marianne Canche,female,white
-424,Elisabeth Vandry,female,white
-425,Joseph Morfil,male,white
-426,Marthe Grasset,female,white
-427,Guillaume Ruleau,male,white
-428,Marthe,unknown,white
-429,Elie Manbrut,male,white
-430,Renee,unknown,white
-431,Moyse Morin,male,white
-432,Marie Anne Bricou,female,white
-433,Andre Mesnard,male,white
-434,Jean Rencau,male,white
-435,Benjamin Roumage,male,white
-436,Pierre Chaperon,male,white
-437,Judith Lamoureux,female,white
-438,Pierre 1 Vallade,male,white
-439,Elisabeth Bonin,female,white
-440,J. J. Brumeau Moulinars,male,white
-441,Guillaume Bouquet,male,white
-442,Neeltie,female,white
-443,Philip Riche,male,white
-444,Jean Vigneau Tiellou,male,white
-445,Marie Anne,female,white
-446,Pierre Morgat,male,white
-447,Jean Abelin,male,white
-448,Daniel la Moureux,male,white
-449,Pierre Elisee Galaudet,male,white
-450,Robert Ouilliom,male,white
-451,Jacob Bouquet,male,white
-452,Renee Marie,female,white
-453,Jean 2 Hatier,male,white
-454,Guillaume Valleau,male,white
-455,Andre Giraud,male,white
-456,Jean Joseph Moulinars,male,white
-457,Judith Marie,female,white
-458,Josue Quereau,male,white
-459,Guillaume Neville,male,white
-460,Guillaume Esgur,male,white
-461,Silvie,unknown,white
-462,Estienne Renaud,male,white
-463,Jean Ross,male,white
-464,Louise,unknown,white
-465,Jean Juounett,male,white
-466,Jean Masson,male,white
-467,Guillaume la Conte,male,white
-468,Alexander de Bonrepos,male,white
-469,Pierre 1 Quintard,male,white
-470,Marie [Jay],female,white
-471,Jeremie Latouche,male,white
-472,Daniel Champenois,male,white
-473,Jean Basset,male,white
-474,Daniel 1 Targe,male,white
-475,Joseph Royden Jamain,male,white
-476,Abraham Bertrand,male,white
-477,Jean 2 Rey,male,white
-478,Susanne Mercier,female,white
-479,Francois Beaumier,male,white
-480,Nicholas Carter,male,white
-481,Jean 2 Pintard,male,white
-482,Lydie Bown,female,white
-483,Guillaume Heurretin,male,white
-484,Peternelle,unknown,white
-485,Jacques Hutchins,male,white
-486,Paul 2 Pelletreau,male,white
-487,Susanne Heurretin,female,white
-488,Jacques Faviere,male,white
-489,Charlotte Bouyer,female,white
-490,Isaac Van Dam,male,white
-491,Isabelle Pintard,female,white
-492,Abija Bouquet,female,white
-493,Pierre Tillou,male,white
-494,Esther Pelletreau,female,white
-495,Elisabeth Vischer,female,white
-496,Joseph Aineau,male,white
-497,Mercy,female,white
-498,Jeanne Soumain,female,white
-499,Elisabeth le Boyteulx,female,white
-500,Jean Tillou,male,white
-501,Anne Faneuil,female,white
-502,Elie Pipon,male,white
-503,Blanche Lafont,female,white
-504,Anne Burger,female,white
-505,Catherine Carre,female,white
-506,Judith Blagg,female,white
-507,Samuel Pell,male,white
-508,Jean 1 Aymar,male,white
-509,Francoise Belon,female,white
-510,Alexander Homes,male,white
-511,Marianne Masse,female,white
-512,Jean Ballereau,male,white
-513,Alexander 2 Allaire,male,white
-514,Esther Clatworth,female,white
-515,Mariane Guyenneau,female,white
-516,Philip Perrot,male,white
-517,Elisabeth Ailesworth,female,white
-518,Susanne Kocherthal,female,white
-519,Marie Magdeleine,female,white
-520,Vincent Bodin,male,white
-521,Helene Smith,female,white
-522,Helene van de Water,female,white
-523,Roelof Kiersted,male,white
-524,Anne [Vincent] Vezien,female,white
-525,Matthieu Ridet,male,white
-526,Marie van Gelder,female,white
-527,Anne 2 Vincent,female,white
-528,Sara Butler,female,white
-529,Moyse Gombauld,male,white
-530,Anne Francoise Pintard,female,white
-531,Charles Louchard,male,white
-532,Anne Tillou,female,white
-533,Salomon Bogles,male,white
-534,Susanne Pelletreau,female,white
-535,Joseph DeLorme,male,white
-536,Marie Rollin,female,white
-537,Mercy Casten,female,white
-538,Isaac 2 Garnier,male,white
-539,Marie Machfieldt,female,white
-540,Harter Healms,male,white
-541,Jeanne Applebe,female,white
-542,Estienne Carter,male,white
-543,Francoise Smith,female,white
-544,Pierre 2 Vergereau,male,white
-545,Marie Magdeleine Pasierin [Parisien?],female,white
-546,Paul Francois Cebe,male,white
-547,Marianne Gereau,female,white
-548,Pierre Allaire,male,white
-549,Marie Garland,female,white
-550,Guillaume Nixon,male,white
-551,Susanne Manbrut,female,white
-552,Marie Manswell,female,white
-553,Pierre Moynot,male,white
-554,Mariane Angevin,female,white
-555,Daniel Hutchison,male,white
-556,Judith Eymar,female,white
-557,Elisabeth Woodfort,female,white
-558,Guillaume Leddle,male,white
-559,Louise David,female,white
-560,Daniel Ravaux jr,male,white
-561,Marie Raven,female,white
-562,Marie Maxwell,female,white
-563,Antoine Demelt,male,white
-564,Jeanne Raven,female,white
-565,Pierre Cownhoove,male,white
-566,Elisabeth Raven,female,white
-567,Jean Langevin,male,white
-568,Esther Parmer,female,white
-569,Jean Pierre Buvelot,male,white
-570,Rachel Sutton,female,white
-571,Catharinne 2 Allaire,female,white
-572,Mathieu Thomas,male,white
-573,Jeanne Pelletreau,female,white
-574,Jean 2 Parquot,male,white
-575,Jeanne Ravaux,female,white
-576,Pierre Joncourt,male,white
-577,Jeanne Couillete,female,white
-578,Jeremie Baudouin,male,white
-579,Anne Devin,female,white
-580,Marie [Maxwell] Macswill,female,white
-581,Marie Raioin,female,white
-582,Anne [Devin] Dwane,female,white
-583,Bernard Ayrault,male,white
-584,Judith Mesnard,female,white
-585,Francois Many,male,white
-586,Magdelaine Aymar,female,white
-587,Nicolas Francois,male,white
-588,Glodine Vales,female,white
-589,George Los,male,white
-590,Glodine Petremon,female,white
-591,Rachel Baal,female,white
-592,Pierre Renaud,male,white
-593,Catherine Marguerite,female,white
-594,Guillaume Richard,male,white
-595,Marie Elisabeth Rou,female,white
-596,Nicolas Gendre,male,white
-597,Marguerite Gogue,female,white
-598,Pierre Nicolet,male,white
-599,Ssuanne Gindrat,female,white
-600,Jean Palme,male,white
-601,Ester Chadeayne,female,white
-602,Claude Fournier,male,white
-603,Madeleine Carle,female,white
-604,Francois Conrad,male,white
-605,Anne Marie Meteta,female,white
-606,Laurent Letelier,male,white
-607,Marie Clark,female,white
-608,Jacques Erouard,male,white
-609,Jeanne Jabouin,female,white
-610,Abel Henry Marchand,male,white
-611,Marie Madeleine Peyterman,female,white
-612,Nicolas Jamar,male,white
-613,Catherine Pocha,female,white
-614,Jean Silvestre of Nante,male,white
-615,Charlotte Cluso of Quebec,female,white
-616,Pierre Rougeon,male,white
-617,Marie Aymar,female,white
-618,Jacob Coutan,male,white
-619,Jeanne 1 Renaud,female,white
-620,Jacques Sicard,male,white
-621,Madelaine Badau,female,white
-622,Elisabeth Dobbs,female,white
-623,Joseph Fortin,male,white
-624,Sarah Manbrut,female,white
-625,Anne Pomie,female,white
-626,Pierre Frederick Durand,male,white
-627,Anne Clemence,female,white
-628,Elisee Galaudet,female,white
-629,Jeanne Dubois,female,white
-630,Benjamin Flandreau,male,white
-631,Ester Badeau,female,white
-632,Jean Debevernier,male,white
-633,Francoise Hits,female,white
-634,Jean George Los,male,white
-635,Claudine,unknown,white
-636,Jonatan Weman,male,white
-637,Elisabeth Dubois,female,white
-638,Isaac Coutan,male,white
-639,Francoise Badau,female,white
-640,Pierre Lagear,male,white
-641,Madeleine Garsin,female,white
-642,Louis 2 Dubois,male,white
-643,Elisabeth Soulice,female,white
-644,Guillaume Albrespy,male,white
-645,Anne Bourdet,female,white
-646,Jacques Stuart,male,white
-647,Ester Asiers,female,white
-648,Ruben Oliver,male,white
-649,Ester Galidet,female,white
-650,Jean Pierre Chapelle jr,male,white
-651,Catherine Don,female,white
-652,Jacques Balme,male,white
-653,Pierre 2 Durand,male,white
-654,Clemence,unknown,white
-655,Marie Rou,female,white
-656,Jean Demilt,male,white
-657,Susanne Raven,female,white
-658,Andre Grosjean,male,white
-659,Jacob Helicom,male,white
-660,Marie Badaud,female,white
-661,Ulrick Springer,male,white
-662,Anne Marie Jeriwerst -of Deux Ponts,female,white
-663,Henry Coutan,male,white
-664,Elisabeth Chadaine,female,white
-665,Pierre 2 Badau,male,white
-666,Catherine Coutan,female,white
-667,Abel des Veaux,male,white
-668,Marie Soulis,female,white
-669,Mathieu Morel,male,white
-670,Marie Ozias,female,white
-671,Jean du Clou,male,white
-672,Frederick[?] Silvie Vinnet,male,white
-673,Abel Marchand,male,white
-674,Leonard Sandoz,male,white
-675,Pierre Chapelle,male,white
-676,Jean Belair,male,white
-677,Francois Dominick,male,white
-678,Margueritte Blanchard,female,white
-679,Anne Marie,female,white
-680,Louis Pintard,male,white
-681,Nicolas Toulon,male,white
-682,Debora de Saint Croix,female,white
-683,John Harrison,male,white
-684,Denize Rou,female,white
-685,Otto Parisien,male,white
-686,Hester Sicard,female,white
-687,Pierre Goux of Claverack,male,white
-688,Catherine Vaugi,female,white
-689,Guillaume Gandel,male,white
-690,Marianne Marchand,female,white
-691,Marie 2 Chevalier,female,white
-692,Charles Erouard,male,white
-693,Ester Coutan,female,white
-694,Pierre Rochar,male,white
-695,Jeanne Badeau,female,white
-696,Jeanne Marie Ozias,female,white
-697,Reinold Lodz,male,white
-698,Elisabeth Martin,female,white
-699,Jean de Laurier,male,white
-700,George Dominick,male,white
-701,Elisabeth Blanchard,female,white
-702,Jean Smith,male,white
-703,Angelique,unknown,white
-704,Guillaume Hale,male,white
-705,Mariane Coutan,female,white
-706,Andre Mercine,male,white
-707,Susanne Gindra,female,white
-708,Marie [Soulis] Soubise,female,white
-709,Michel Gauthay,male,white
-710,Apellone Greewallden,female,white
-711,Otto Daniel Parisien,male,white
-712,Anne Marie Valerin,female,white
-713,Pierre Trumeau,male,white
-714,??? Blanchard,unknown,white
-715,Susanne Stockton,female,white
-716,Marie Pauzer,female,white
-717,Louis Riviere,male,white
-718,Jeanne Erouard,female,white
-719,Jean 2 Barait,male,white
-720,Elisabeth Axen,female,white
-721,Etienne Jordan,male,white
-722,Jean Jourdan,male,white
-723,Barbara,unknown,white
-724,Pierre Loreillard,male,white
-725,Catherine 2 Meir,female,white
-726,Samuel Collins,male,white
-727,Rilha,unknown,white
-728,Jacques 3 Curie,male,white
-729,Jean 1 Basset,male,white
-730,Helenne Evout,female,white
-731,Jacob Shareman,male,white
-732,Jeanne Callo,female,white
-733,Jean Cloux,male,white
-734,Jean Margueritte Paren,male,white
-735,Francois 2 Gautier,male,white
-736,Appelone,unknown,white
-737,Jean Pommant,male,white
-738,Jacob Hillicourt,male,white
-739,Louise Cadet,female,white
-740,Daniel Tier,male,white
-741,Isaac Noble,male,white
-742,Rachel Dejoncourt,female,white
-743,Claudinne Valet,female,white
-744,Frederick Basset,male,white
-745,Jannatje Vredenburgh,female,white
-746,Leonard Willmot,male,white
-747,Judith Perron,female,white
-748,Louis Faugere,male,white
-749,Eve,unknown,white
-750,Rene Lodz,male,white
-751,Mattheu Tier jr,male,white
-752,Margueritte Tier,female,white
-753,Francoise Hutcheson,female,white
-754,Martin Brard,male,white
-755,Madeleine Ci wid Trumeau,female,white
-756,Jean 2 Blanchard,male,white
-757,Jean George Jaquin,male,white
-758,Margueritte Parent,female,white
-759,Margueritte Bellone,female,white
-760,Mathieu Tiers,male,white
-761,Margueritte Chappelle,female,white
-762,Jeanne Heroy,female,white
-763,Anne Judick Parens,female,white
-764,Pierre Graim,male,white
-765,Marie Ravo,female,white
-766,Madeleine Blanchard,female,white
-767,Barthelemy Rossel,male,white
-768,Marie Jacque Saint Pierre,female,white
-769,Jean Christopher,male,white
-770,Margueritte Commeau,female,white
-771,Jacques Heroy,male,white
-772,Susanne Balme,female,white
-773,Charlotte,unknown,white
-774,Andre Souliers,male,white
-775,Marie Prignon,female,white
-776,Francois Humbert,male,white
-777,Elisabeth Melik,female,white
-778,Jean Lopey,male,white
-779,Susanne Quintar,female,white
-780,Anthoine Deroches,female,white
-781,Margueritte Denies,female,white
-782,Eve Remsen,female,white
-783,Francoise 2 Gendron,female,white
-784,Marie Forman,female,white
-785,Marie Saint Pierre,female,white
-786,Guillaume la Croix,male,white
-787,Elisabeth Johnston,female,white
-788,Charlotte la Vigne,female,white
-789,Jean Matthieu Tiers,male,white
-790,Sara Casting,female,white
-791,Jeanne Jaboin (obyt),female,white
-792,Pierre Quidor,male,white
-793,Elsy Trewman,female,white
-794,Jean Lampey,male,white
-795,Josephe Piquet,male,white
-796,Jean 2 Vautie,male,white
-797,Catherine Curie,female,white
-798,Jean Tier,male,white
-799,Margueritte le Rou,female,white
-800,George Alizon,male,white
-801,Elisabeth Williamise,female,white
-802,Matthieu Moste,male,white
-803,Marie Vautie,female,white
-804,Margueritte Feney,female,white
-805,Susanne Buvelot,female,white
-806,Marie St. Pierre,female,white
-807,Jacques Durand,male,white
-808,Eleonore Monnie,female,white
-809,Isaac 3 Garnier,male,white
-810,Elisabeth Fletcher,female,white
-811,Jean Sanders,male,white
-812,Jacob Brower,male,white
-813,Catherine Jeandur,female,white
-814,Jean Pierre Vautier,male,white
-815,Jean Bomon,male,white
-816,Lewis Fortie,male,white
-817,Marie 2 Pineau,female,white
-818,Estienne Dousinet Cordonnier,male,white
-819,Luy Rezeau,female,white
-820,Jean Boibelleau,male,white
-821,Pierre Boudet,male,white
-822,Pierre Belin,male,white
-823,Pierre Godefroy,male,white
-824,Guillaume Howard,male,white
-825,Oliver Bely,male,white
-826,Andre Paillet,male,white
-827,Esaie Valleau,female,white
-828,Charles Deniseau,male,white
-829,Augustin Huble,male,white
-830,Pierre Thauuet,male,white
-831,Daniel Lambert,male,white
-832,Lydie Meterau,female,white
-833,Pierre Abrard,male,white
-834,Estienne Lavigne,male,white
-835,Bartle Clase,male,white
-836,Anthony Farmer,male,white
-837,Claude Bruyes,male,white
-838,Jean Grazillier,male,white
-839,Pierre Valos,male,white
-840,Pierre Boudinot,male,white
-841,Suzanne Gladeau,female,white
-842,Liue Vincent,female,white
-843,Nicolas Jamain,male,white
-844,Jean Chadaine,male,white
-845,Andre Naudin,male,white
-846,Pierre Filleux,male,white
-847,Jean 1 Vautie,male,white
-848,Gilles Gaudineau,male,white
-849,Daniel Targe,male,white
-850,Jean Thomasen,male,white
-851,Thomas Boys,male,white
-852,Thimotee Archambaud,male,white
-853,Marie Le Breton,female,white
-854,Abraham Canon,male,white
-855,Jean Sevenhoven,male,white
-856,Elisabeth Bertran,female,white
-857,Madam Jamin,female,white
-858,Elie Jamin,male,white
-859,Jean Barenne,male,white
-860,Andre Auriau,male,white
-861,Anna Oustraven,female,white
-862,Nicholas Richard,male,white
-863,Jean Noe,male,white
-864,David Bon Foy,male,white
-865,Jean 1 Parquot,male,white
-866,Leonard Lewis,male,white
-867,Estienne Jamain,male,white
-868,Jaques Burtel,male,white
-869,Samuel,unknown,white
-870,Francois Cariller,male,white
-871,Benjamin Godeffroy,male,white
-872,Auguste Grasset,male,white
-873,Marguerite Chonvetre,female,white
-874,Alexander Maurisset,male,white
-875,Nicolas Malherbe,male,white
-876,Pierre Dasserx,male,white
-877,Francois Benech,male,white
-878,Abraham Raizeau,male,white
-879,Jean 1 Pintard,male,white
-880,Andre Canon,male,white
-881,Andre Foucault,male,white
-882,Augustin Greham,male,white
-883,Barne van Tellebourg,male,white
-884,Daniel Giraud,male,white
-885,Samuel Archambaud,male,white
-886,Pierre Rezeau,male,white
-887,??? David,unknown,white
-888,Jean Jironne,male,white
-889,Jacques 1 Curie,male,white
-890,Claude Baudouin,male,white
-891,Willem Couly,male,white
-892,Jacob Thibou,male,white
-893,Etienne van Cortland,male,white
-894,Pierre Legrand,male,white
-895,Jacques Coindrieau,male,white
-896,Isaac Mercier,male,white
-897,Auguste Lucas,male,white
-898,William Caldwel,male,white
-899,William Fullwood,male,white
-900,Daniel Crommelin,male,white
-901,Pierre 1 Badau,male,white
-902,Jacob Baillargeau,male,white
-903,Jacob Ratier,male,white
-904,George Durieu,male,white
-905,Jacob Bayard,male,white
-906,Arnaud Valleau,male,white
-907,Jean Doublet,male,white
-908,David Papin,male,white
-909,Jacques 1 Blanchard,male,white
-910,Jacques Arondaux,male,white
-911,Adam Carrillier,male,white
-912,Francois Bureau,male,white
-913,Simon Rame,male,white
-914,Daniel Gaillard,male,white
-915,Jacques Biebeau,male,white
-916,Pierre Thipine,male,white
-917,Francois Auboineau,male,white
-918,Susanne Peiret,female,white
-919,Jeanne Targe,female,white
-920,Anne Jay,female,white
-921,Oliver van Cortland,male,white
-922,Jean Moyse Contes,male,white
-923,Judith Jamain,female,white
-924,Jacques Riuaux,male,white
-925,Pierre 1 Durand,male,white
-926,Jean Cazalz,male,white
-927,Francois Gourdon,male,white
-928,Madeleine Fauconnier,female,white
-929,Elie Nezereau,male,white
-930,Marie Lafond,female,white
-931,Jean Boudinot,male,white
-932,Jean Martin,male,white
-933,??? Bessonnet,unknown,white
-934,Etienne Guerine,male,white
-935,Francois Lucas,male,white
-936,Anne Bachan,female,white
-937,Thomas la Roche,male,white
-938,Bernard Hardenbrouk,male,white
-939,Judith Chevallier,female,white
-940,Marthe Poutreau,female,white
-941,Elisabeth Droilhet,female,white
-942,Paul Minvielle la Coze,male,white
-943,James Brown,male,white
-944,Madeleine Gautier,female,white
-945,Jacques Renaudet,male,white
-946,Ester Charon,female,white
-947,Madeleine Feurt,female,white
-948,Charles Forestier,male,white
-949,Ester Masse,female,white
-950,Michael Stuckey,male,white
-951,Henry Mercie,male,white
-952,Samuel Bayard,male,white
-953,William Owen,male,white
-954,Estienne Ruleau,male,white
-955,Madeleine Leddel,female,white
-956,Anne Chardavoine,female,white
-957,Samuel Morin,male,white
-958,James du Pre,male,white
-959,Philip Thiche [Riche],male,white
-960,Elie Mestayer,male,white
-961,Ester Burton,female,white
-962,Cornelia van Cortland,female,white
-963,Andre Royer [Bogard],male,white
-964,Jacques Dulon,male,white
-965,Susanne Bayeux,female,white
-966,Isaiah Onery,male,white
-967,Louis Allaire,male,white
-968,Joseph Bledar,male,white
-969,Guillaume Burnet,male,white
-970,Paul Collins,male,white
-971,Pierre le Conte,male,white
-972,Daniel [Beau] Buo,male,white
-973,Isaac Quantin,male,white
-974,Guillaume Landrin,male,white
-975,Helegonde Bogart,female,white
-976,Girard Confort,male,white
-977,Marquise le Boyteulx,male,white
-978,Catherine van Cortland,female,white
-979,Jean Bayeux de Londres,male,white
-980,Guillaume le Conte,male,white
-981,Marie la Mare,female,white
-982,Francoise Quantein,female,white
-983,Jeremie Chardavoine,male,white
-984,Francois 2 Basset,male,white
-985,Anne [Jane] van Gelder,female,white
-986,Pierre Hibon,male,white
-987,Catherine Comfort,female,white
-988,Anne Marie Cornifleau,female,white
-989,Pierre Prieur,male,white
-990,Guillaume Emett [W. E. Mott],male,white
-991,Pierre Jay,male,white
-992,George Muirson,male,white
-993,Samuel Pintard,male,white
-994,Marmaduke Bouteflort,male,white
-995,Jacques Bonnet,male,white
-996,Marguerite Perdriau,female,white
-997,Pierre Burger,male,white
-998,Jean Dragaud,male,white
-999,Judith Quereau,female,white
-1000,Isaac la Touche,male,white
-1001,Jacques David,male,white
-1002,Louise Kocherthal,female,white
-1003,Daniel Burger,male,white
-1004,Pregeante Carre,female,white
-1005,Rostal Richardson,male,white
-1006,Marie Ballereau,female,white
-1007,Simon Jansen,male,white
-1008,Catherine Mecologh,female,white
-1009,Estienne Desbrosses,male,white
-1010,Alexander Phenix,male,white
-1011,Francoise Bouquet,female,white
-1012,Elisabeth Heurretin,female,white
-1013,Jean 2 Vincent,male,white
-1014,Michel le Breton,male,white
-1015,Joseph Haynes,male,white
-1016,Jacques Buvelot,male,white
-1017,Anne Rezeau Vincent,female,white
-1018,Henry de Meyer,male,white
-1019,Elisabeth Cockrem,female,white
-1020,Elisabeth le Breton,female,white
-1021,Sara Leddle,female,white
-1022,Jean Bend,male,white
-1023,Abraham Kip,male,white
-1024,Jean Groesbeek,male,white
-1025,Nicolas Rosevelt,male,white
-1026,Estienne Bourdet,male,white
-1027,Etienne 1 van Cortland,male,white
-1028,Paul Parcot,male,white
-1029,Isaac Taveau,male,white
-1030,Esther Riche Smith,female,white
-1031,Benjamin Blagg,male,white
-1032,Egbert Egberts,male,white
-1033,Elisabeth Garnier,female,white
-1034,Oliver de Lancey,male,white
-1035,Marie Tavaux,female,white
-1036,Daniel Ravaux sr,male,white
-1037,Marie Soumain,female,white
-1038,Jeanne Beau,female,white
-1039,Jean 2 Vezien,male,white
-1040,Thauvet Besly,male,white
-1041,Marie Ball Langevin,female,white
-1042,Suson Demilt,female,white
-1043,Robert Cromelin,male,white
-1044,Francois Blanchard,male,white
-1045,Jean Eymar jr,male,white
-1046,Daniel Hugueniot,male,white
-1047,Jean Roorback jr,male,white
-1048,Elie Desbrosses,male,white
-1049,Jean Henry Rou,male,white
-1050,Jean George Laureillard,male,white
-1051,Henry Chadeayne,male,white
-1052,Andre Lucam,male,white
-1053,??? Roosevelt,unknown,white
-1054,Madelaine Renaud,female,white
-1055,Gerard Jamain,male,white
-1056,Francois 3 Basset,male,white
-1057,Daniel Jacot,male,white
-1058,Jean Eomain,male,white
-1059,Jean Badeau,male,white
-1060,Jean Louis Maillet,male,white
-1061,David Guyon,male,white
-1062,Jacques 2 Parcot,male,white
-1063,John Richard,male,white
-1064,Philip Will,male,white
-1065,Ester Langevin,female,white
-1066,Ester Erouard,female,white
-1067,Jean Henry Tiers,male,white
-1068,Jean Lamb,male,white
-1069,Denis Wortman,male,white
-1070,Jacob van Wagener,male,white
-1071,Fredrica Ozy [Ony],female,white
-1072,Jacques 2 Blanchard,male,white
-1073,Samuel 2 Bourdet,male,white
-1074,Bernard Rynlander,male,white
-1075,Moyse de Saint Croix,male,white
-1076,Thomas Hamersley,male,white
-1077,Matthew Dies,male,white
-1078,Pierre Vautie,male,white
-1079,Jean Pierre Tetard,male,white
-1080,Louis Clarkson,male,white
-1081,Jean Loreillard,male,white
-1082,Morley Harrison,male,white
-1083,Charles Demuy,male,white
-1084,Daniel 2 Robertson,male,white
-1085,Jean Miller,male,white
-1086,Jean Frederick,male,white
-1087,William Richard,male,white
-1088,Michael Housewel,male,white
-1089,Michel Honore,male,white
-1090,Roger Richard,male,white
-1091,Laurand Hardman,male,white
-1092,Ryne Low,male,white
-1093,Jean Andre Castor,male,white
-1094,Jean Cortright,male,white
-1095,Francois Girard,male,white
-1096,Jean Guerineau,male,white
-1097,Henry Gerbeaux,male,white
-1098,Jean Francois Malvisin,male,white
-1099,Jean Bte Rieux,male,white
-1100,William Vredenburgh,male,white
-1101,Jean Plantin,male,white
-1102,Corneille Tebaut,male,white
-1103,Jacques Aymar,male,white
-1104,Jacques Vautie,male,white
-1105,Henry Rossel,male,white
-1106,Christian Smith,male,white
-1107,Francois Willmny,male,white
-1108,Daniel Aymar,male,white
-1109,Barthelemy Labuzan,male,white
-1110,Elisabeth Edward,female,white
-1111,Charles Louis Point Clou,male,white
-1112,Jean Harbin,male,white
-1113,Girard Bekeman,male,white
-1114,Jacques la Masney,male,white
-1115,Matthieu Poitevan,male,white
-1116,Pierre Mery,male,white
-1117,Jacob Tier,male,white
-1118,Jean 2 Barberie,male,white
-1119,Jean Sals,male,white
-1120,Germain Chappelle,male,white
-1121,Louis Marain,male,white
-1122,Jean Girault,male,white
-1123,Pierre Conrad,male,white
-1124,George Quidor,male,white
-1125,Pierre Forgeaut,male,white
-1126,J. Nicolas Jeandur,male,white
-1127,Guillaume Leonard,male,white
-1128,Jacques Pino,male,white
-1129,Jeanne Jamain,female,white
-1130,wife of Estienne Dousinet Cordonnier,female,white
-1131,Jeanne Piaud wife of Soumain,female,white
-1132,Susanne DHariette,female,white
-1133,Dorothea van Hertsbergen,female,white
-1134,Marie le Berton wid Fleuriau,female,white
-1135,Susanne Beriman,female,white
-1136,Susanne Parin,female,white
-1137,Susanne Descart,female,white
-1138,Lea Ouilmen,female,white
-1139,??? Poupain,unknown,white
-1140,Suzanne Papin Boudinot,female,white
-1141,Catherine de Lorier,female,white
-1142,Mariane Melot,female,white
-1143,Susanne Ratier,female,white
-1144,Suzanne Roux,female,white
-1145,Elizabeth Pinet,female,white
-1146,Christiane Melton,female,white
-1147,Judith Pare,female,white
-1148,Petterlin Elfen Eik,female,white
-1149,Marie Bonein,female,white
-1150,Marie Tisseau,female,white
-1151,Eltie Prevost,female,white
-1152,Catherine Newkerk,female,white
-1153,Marie Dorfurer,female,white
-1154,Marguerite Levesque,female,white
-1155,??? Vincent,unknown,white
-1156,Jeanne Bardewick,female,white
-1157,Jeanne Janson,female,white
-1158,Marie Schart,female,white
-1159,Elisabeth Hooglandt,female,white
-1160,Elisabeth Perdriau wife of Hatier,female,white
-1161,Matta Pierrot,female,white
-1162,Marie Lecuier,female,white
-1163,Catherine le Mercier,female,white
-1164,Annetie Hans,female,white
-1165,Marie Susanne Vergereau,female,white
-1166,Marie Moriet,female,white
-1167,Elce Alisson,female,white
-1168,Ester Finch,female,white
-1169,widow Gallais,female,white
-1170,Susanne 1 Boudinot,female,white
-1171,Marie Traverrier,female,white
-1172,Judy Pare,female,white
-1173,Marthe Goffre,female,white
-1174,Margueritte Dumon,female,white
-1175,Elisabeth Jourdain,female,white
-1176,Eltie Leiseler,female,white
-1177,Judith Pare wid Robineau,female,white
-1178,Caterine Jouneau,female,white
-1179,Hendrica Kip,female,white
-1180,Anne Cromelin,female,white
-1181,Marguerite Huge,female,white
-1182,Marie Boucherie,female,white
-1183,Susanne Dousinet,female,white
-1184,Judy Gallay wife of Lasonde,female,white
-1185,Susanne Hulin,female,white
-1186,Elisabeth Filheut,female,white
-1187,Sara Coslas,female,white
-1188,Marie Odine,female,white
-1189,Ruth David,female,white
-1190,Jeanne Fiart,female,white
-1191,Marie Lucas wife of Loraut,female,white
-1192,Jeanne Archambaud,female,white
-1193,Elisabeth 1 Hatier,female,white
-1194,Susanne Drouilhet,female,white
-1195,Anne Newkerke,female,white
-1196,Jeanne Carre,female,white
-1197,Marie Raizeau,female,white
-1198,Marianne Machet,female,white
-1199,Jeanne de Wendell,female,white
-1200,Marie Bellemont,female,white
-1201,wid Hatier,female,white
-1202,Elisabeth Leister,female,white
-1203,Judy Demerciers,female,white
-1204,Janne Audar,female,white
-1205,Jeanne Valleau,female,white
-1206,Ester Blan,female,white
-1207,Marie Audar,female,white
-1208,Marie Carelie1,female,white
-1209,Elisabeth Archambaud,female,white
-1210,Anne Audeberd,female,white
-1211,Marteh Coudret,female,white
-1212,Susanne de le Tour,female,white
-1213,Susanne 1 Vergerau,female,white
-1214,Jeane Pillet,female,white
-1215,Catherine Canon,female,white
-1216,Marthe Allard,female,white
-1217,Anne Marchant,female,white
-1218,Esther 1 Vincent,female,white
-1219,Marie Fleuriau,female,white
-1220,Mary Tudor,female,white
-1221,Marie la Plaine,female,white
-1222,Madeleine Filleux,female,white
-1223,Anne Courtland,female,white
-1224,Elisabeth Manigeau,female,white
-1225,Jeanne Dugua,female,white
-1226,Anne Poupin,female,white
-1227,Sara Demarais,female,white
-1228,Ester Archambeau,female,white
-1229,Magdeleine Lefeure,female,white
-1230,Marie 1 Chevalier,female,white
-1231,Marguerite Bayard,female,white
-1232,Madeleine Pelletreau,female,white
-1233,Janne Odarts,female,white
-1234,Marie Pinard,female,white
-1235,Gertrude van Cortland,female,white
-1236,Francoise Stuckey,female,white
-1237,Sara Valleau,female,white
-1238,Anne Chardon,female,white
-1239,Altuer Blom,male,white
-1240,Janne Couly,female,white
-1241,Sara Bontecou,female,white
-1242,Elisabeth Audebert,female,white
-1243,Marie Anne Bontecou,female,white
-1244,Anne de Lancey,female,white
-1245,Francoise Barberie,female,white
-1246,Judith Andreau,female,white
-1247,Susanne la Moureux,female,white
-1248,Lydia Leventhorp,female,white
-1249,Madeleine Jaullin,female,white
-1250,Marthe Oldfields,female,white
-1251,Elisabeth Gaudineau,female,white
-1252,Charlotte Streing wife of le Mestre,female,white
-1253,Anne David,female,white
-1254,Susanne Poincent,female,white
-1255,Mother of Andre Lauren,female,white
-1256,Judith Archambeau,female,white
-1257,Judith Robineau,female,white
-1258,Catharinne 1 Allaire,female,white
-1259,Catherine Philips,female,white
-1260,Jeanne Montel,female,white
-1261,Susanne Contes,female,white
-1262,Marie Anne Guichard,female,white
-1263,Janne Faucout,female,white
-1264,Janne Droumos,female,white
-1265,Judith Cazals,female,white
-1266,Francoise Chentrier,female,white
-1267,Marie Boudinot,female,white
-1268,Marthe Barreau,female,white
-1269,Catherine Boudinot,female,white
-1270,Susanne Madeleine Basset,female,white
-1271,Francoise Moine,female,white
-1272,Susanne Neau,female,white
-1273,Anne DHariette,female,white
-1274,Debora Felden,female,white
-1275,Abija Hardin,female,white
-1276,Francoise Lambert,female,white
-1277,Marthe Coullon,female,white
-1278,Marthe Audart,female,white
-1279,Ester Beau,female,white
-1280,Ester Darkings,female,white
-1281,wife of Jean Calzez,female,white
-1282,Madeleine Bayeux,female,white
-1283,Elisabeth Mainard,female,white
-1284,Elisabeth Cortland,female,white
-1285,Susanne Bourdet,female,white
-1286,Elisabeth Tillou,female,white
-1287,Susanne Coutain,female,white
-1288,Susanne Girot,female,white
-1289,Marie 1 Garreau,female,white
-1290,Anne Bontecou,female,white
-1291,Susanne Barberie,female,white
-1292,Elisabeth 1 Carre,female,white
-1293,Blanche Hett,female,white
-1294,Francoise Parcot,female,white
-1295,Elisabeth Many,female,white
-1296,Anne 1 Many,female,white
-1297,Elisabeth 1 Gaillard,female,white
-1298,Marie Perot,female,white
-1299,Marguerite Morin,female,white
-1300,Marie Moyon,female,white
-1301,Marianne Bodin,female,white
-1302,Marie Stuckey,female,white
-1303,Marie 1 Pineau,female,white
-1304,Marthe Rambert,female,white
-1305,Elisabeth du Pre,female,white
-1306,Francoise Moore,female,white
-1307,Marie David,female,white
-1308,Marie Bouquet,female,white
-1309,Elisabeth Hubert,female,white
-1310,Marie Garnier,female,white
-1311,Anne Belin,female,white
-1312,Jeanne Couturier,female,white
-1313,Marie Elliston,female,white
-1314,Louise Canche,female,white
-1315,Marianne Mercier,female,white
-1316,Susanne David,female,white
-1317,Marianne le Conte,female,white
-1318,Marie Quintard,female,white
-1319,Catharine Carron,female,white
-1320,Ester Chevalier,female,white
-1321,Marguerite Roberts,female,white
-1322,Jeane Masse,female,white
-1323,Ester Morin,female,white
-1324,Judith Vincent,female,white
-1325,Anne de la Bairte,female,white
-1326,Susanne Riche,female,white
-1327,Marie Anne Jouneau,female,white
-1328,Catherine Forraitier,female,white
-1329,Marthe Oldfield,female,white
-1330,Susanne Minvielle,female,white
-1331,Jeanne Tongrelou,female,white
-1332,Abigail Harding,female,white
-1333,Judy Morin,female,white
-1334,Henriette Allaire,female,white
-1335,Silvie Eseres,female,white
-1336,Judith Cantin,female,white
-1337,Judith Marie Moulinars,female,white
-1338,Ester Gougeon,female,white
-1339,Marie Mercier,female,white
-1340,Marie Rulleau,female,white
-1341,Elisabeth 1 Pelletreau,female,white
-1342,Jeane Rival,female,white
-1343,Helene Bodin,female,white
-1344,Marie Anne Morin,female,white
-1345,Elisabeth Audebart,female,white
-1346,Jeanne Renaud,female,white
-1347,Judith Jay,female,white
-1348,Marie Landrin,female,white
-1349,Jeanne Giraud,female,white
-1350,Judith Moulinars,female,white
-1351,Magdeleine Parcot,female,white
-1352,Ester Bonyot,female,white
-1353,Jeane Quintard,female,white
-1354,Margueritte Allaire,female,white
-1355,Anne Dupuy,female,white
-1356,Elisabeth Phenix,female,white
-1357,Margueritte Perdriau Buvelot,female,white
-1358,Anne Bayeux,female,white
-1359,Jeanne Latouch,female,white
-1360,Mariane Ablain,female,white
-1361,Jeane Filladams,female,white
-1362,Jeanne Ballereau,female,white
-1363,Susanne Colier,female,white
-1364,Ester Bourdet,female,white
-1365,Jeanne Gougeon,female,white
-1366,Florinde Pintard Spencer,female,white
-1367,Marie Ablain,female,white
-1368,Elisabeth Parcot,female,white
-1369,Catherine Searle,female,white
-1370,Susanne Draguad,female,white
-1371,Elisabeth Marie Basset,female,white
-1372,??? Soumain,unknown,white
-1373,Jeanne Quantin,female,white
-1374,Catherine Carre Pintard,female,white
-1375,Charlotte Faviere,female,white
-1376,Judith Morgat,female,white
-1377,Francoise Applebe,female,white
-1378,Elisabeth 1 Bertran,female,white
-1379,Marie Madeleine,female,white
-1380,Anne Jackson,female,white
-1381,Susanne Dragaud,female,white
-1382,Marie Magdeleine Droilhet,female,white
-1383,Catherine Royal,female,white
-1384,Anne Signac,female,white
-1385,Marthe Perrot,female,white
-1386,Susanne Andries,female,white
-1387,Catherine van Horne,female,white
-1388,Araentje Tappen,female,white
-1389,Francoise Eymar,female,white
-1390,Jeanne Esther Bourdet,female,white
-1391,Madeleine Desbrosses,female,white
-1392,Marie Elisabeth Vergereau,female,white
-1393,Louise Rou,female,white
-1394,Marie Renaud,female,white
-1395,Marie Leddle,female,white
-1396,Marie Roomen,female,white
-1397,Allete Blagg,female,white
-1398,Jeanne Haynes,female,white
-1399,Susanne 2 Papin,female,white
-1400,Adrienne Kiersted,female,white
-1401,Susanne Marshall,female,white
-1402,Elisabeth van Dam,female,white
-1403,Jeanne Garland,female,white
-1404,Rebecca Burger,female,white
-1405,Jean Latouche,male,white
-1406,Marie Linch Egberts,female,white
-1407,Marie 2 Catherine Carre Boudinot,female,white
-1408,Sara Kiersted,female,white
-1409,Mariane Cebe,female,white
-1410,Avje Tillou,female,white
-1411,Anne le Roux,female,white
-1412,Jeanne Moreau,female,white
-1413,Magdeleine Eymar Watkins,female,white
-1414,Esther 2 Vincent,female,white
-1415,Jeanne Demilt,female,white
-1416,Mariane Bricou Carter,female,white
-1417,Judith Pearse,female,white
-1418,Marie Verplank,female,white
-1419,Susanne 2 Vergerau,female,white
-1420,Anne Vezien,female,white
-1421,Judith Hutchison,female,white
-1422,Elisabeth 1 Mainard,female,white
-1423,Phila de Lancey,female,white
-1424,Catherine Grogean,female,white
-1425,Blanche Beau,female,white
-1426,Marquize Bontecou,male,white
-1427,Marguerite Salter,female,white
-1428,Anne Mainard,female,white
-1429,Renee Elisabeth Rou,female,white
-1430,Anne Catherine Rossel,female,white
-1431,Jean Chretien Tomelson,male,white
-1432,Elisabeth 2 Gaillard,female,white
-1433,Susanne Gendrat,female,white
-1434,Marie Vallade,female,white
-1435,Marie Elisabeth Collon wid Disleau,female,white
-1436,Marie Vogie,female,white
-1437,Jeanne de Johcourt,female,white
-1438,Elisabeth 2 Hatier,female,white
-1439,??? wid Aymar,unknown,white
-1440,Madeleine Trumeau,female,white
-1441,Ester Parcot,female,white
-1442,Marie Elisabeth,female,white
-1443,Marie Catherine Rossel,female,white
-1444,Margueritte Dunstar,female,white
-1445,Marie Desbrosses,female,white
-1446,Jeanne Parcot,female,white
-1447,Louise Aymar Jamain,female,white
-1448,Judith 2 Bourdet,female,white
-1449,Lea Galodet,female,white
-1450,Madelaine Parcot,female,white
-1451,Catherine Hastier,female,white
-1452,Denyse Mary Rou,female,white
-1453,Anne Ravau,female,white
-1454,Marie Wilmet,female,white
-1455,Marthe Jandin,female,white
-1456,Susanne Bely,female,white
-1457,Marie 2 Conte,female,white
-1458,Dorcas Dobs,female,white
-1459,Elisabeth Vautie,female,white
-1460,Jeanne Angevin,female,white
-1461,Jeanne Marie,female,white
-1462,Catherine Jamar,female,white
-1463,Elisabeth 2 Beaudry,female,white
-1464,Anne Catherine Resh,female,white
-1465,Elisabeth Hail,female,white
-1466,Abigail Stockton,female,white
-1467,Abigail Baret,female,white
-1468,Ester Soulis,female,white
-1469,Marie 2 Garreau,female,white
-1470,Marie Disleau,female,white
-1471,Marie Richard,female,white
-1472,Anne Clemence Durand,female,white
-1473,Hester Rou,female,white
-1474,Madeleine Tiers,female,white
-1475,Charlotte Gerome,female,white
-1476,Susanne Bourdet wife of Loou,female,white
-1477,Susanne Beyly wid,female,white
-1478,Marie Gillot,female,white
-1479,Marie des Veaux,female,white
-1480,Anne Dupuy wife of Jacquery,female,white
-1481,Marie Halsop,female,white
-1482,Margueritte Blanchard wife of Dominick,female,white
-1483,Judith Alexander,female,white
-1484,Margueritte Paran,female,white
-1485,Borch Raven,male,white
-1486,Elisabeth 1 Parcot,female,white
-1487,Judith des Veaux,female,white
-1488,Catherine Claret Badeau,female,white
-1489,Jeanne Marie Morel,female,white
-1490,Renee Elisabeth Rou wife of Harrison,female,white
-1491,Catherine 2 Tier,female,white
-1492,Elisabeth Iselen,female,white
-1493,Elisabeth Low,female,white
-1494,Elisabeth 2 Carre,female,white
-1495,Margueritte Basset,female,white
-1496,Alida Vermilie,female,white
-1497,Marie Spies,female,white
-1498,Elisabeth 2 Pelletreau,female,white
-1499,Marie Glover,female,white
-1500,Marie Haskell,female,white
-1501,Rachelle,unknown,white
-1502,Willemeyntie Nack,female,white
-1503,Debora,female,white
-1504,Joseph Towers,male,white
-1505,Madelaine Lagear,female,white
-1506,Jeanne Margueritte Carty,female,white
-1507,(wife) Blanchard,female,white
-1508,Marie Blanchard,female,white
-1509,Treize Piquet,male,white
-1510,Madeleine Chappelle,female,white
-1511,Treize Girard,male,white
-1512,Jeanne Callin,female,white
-1513,Marie Pommant,female,white
-1514,wife of Jacques Pino,female,white
-1515,Anne 2 Many,female,white
-1516,Margueritte Matsson,female,white
-1517,Anne Forman,female,white
-1518,Prudence Labat,female,white
-1519,Catherine McKaty,female,white
-1520,Marie Sandoz,female,white
-1521,Marie Coulbac,female,white
-1522,Margueritte Morlot,female,white
-1523,Susanne Sabadin,female,white
-1524,Catherine Heroy,female,white
-1525,Marie Curie,female,white
-1526,Elisabeth Sandos,female,white
-1527,Marie Crate,female,white
-1528,Catherine Schlegel,female,white
-1529,Margueritte Christopher,female,white
-1530,Catherine Jean Heur,female,white
-1531,Jeanne Worthman,female,white
-1532,Catherine Banvard,female,white
-1533,Marie Magdeleine Tibeaut,female,white
-1534,Ellenor Basset,female,white
-1535,Margueritte Pino,female,white
-1536,??? Doucinet,unknown,white
-1537,Paul 1 Pelletreau,male,white
-1538,Pierre Jansson Melot,male,white
-1539,Capt. Joulin,male,white
-1540,Pierre Odere,male,white
-1541,Jacques Smith,male,white
-1542,Benjamin Burton,male,white
-1543,Luc Kiersted,male,white
-1544,Christophle Kiersted,male,white
-1545,Pierre Hally,male,white
-1546,Marie Paran,female,white
-1547,Elisabeth Plantin,female,white
-1548,Marie 2 Basset,female,white
-1549,Marie de Klyn,female,white
-1550,Ruth Burton,female,white
-1551,Catherine de Meyer,female,white
-1552,Samuel Waldron,male,white
-1553,Margueritte Sandoz,female,white
-1554,Cornelis Vanderburg,male,white
-1555,Catherine 1 Meir,female,white
-1556,Francois de Ruine,male,white
+126,Catherine Le Compte,female,white
+127,Andre Joulin,male,white
+128,Madeleine Poupain,female,white
+129,Marie Pierre Melot,female,white
+130,Peter Laurens,male,white
+131,Trintie Hans,female,white
+132,Jean David,male,white
+133,Ester David,female,white
+134,Jean Petit,male,white
+135,Ester Souseau,female,white
+136,Elisabeth Jourdain,female,white
+137,Elie Rambert,male,white
+138,Elie 1 Pelletreau,male,white
+139,Marie Benoit,female,white
+140,Joshue Harton,male,white
+141,Sofya Harton,female,white
+142,Jean du Puy,male,white
+143,Marie Genou,female,white
+144,Estienne Valleau,male,white
+145,Marie Gallais,female,white
+146,Francois Demerciers,male,white
+147,Judith Gallais,female,white
+148,Anthoinette Buvier,female,white
+149,Simeon 1 Soumain,male,white
+150,Jeanne Piaud,female,white
+151,Marie Le Chevallier,female,white
+152,Joshue Mercereau,male,white
+153,Marie Chadaine,female,white
+154,Isaac Girard,male,white
+155,Marie Roubin,female,white
+156,Isabel Dublet,female,white
+157,Jean Hain,male,white
+158,Elisabeth Damaris,female,white
+159,Gousse Bonin,male,white
+160,Marie Bonin,female,white
+161,Marie Fitond,female,white
+162,Jean 1 Barait,male,white
+163,Marthe Maybee,female,white
+164,Thomas Lewis,male,white
+165,Francoise Leiseler,female,white
+166,Cornelia [Roos] Rosze,female,white
+167,Andries Laurens,male,white
+168,Marie Lucas,female,white
+169,Jean 1 Barberie,male,white
+170,Francoise Brinkman,female,white
+171,Daniel Strain,male,white
+172,Charlotte le Mestre,female,white
+173,James Spenser,male,white
+174,Marie Cariller,female,white
+175,Estel Vincens,female,white
+176,Constance Lebrun,female,white
+177,Isaac Lenoir,male,white
+178,Anne Lenoir,female,white
+179,Jean Magny,male,white
+180,Jeanne Machet,female,white
+181,Thomas Adams,male,white
+182,Marie Adams,female,white
+183,Catharine Lauandier,female,white
+184,Jean 1 Blanchard,male,white
+185,Jeanne Gautier,female,white
+186,Louis 1 Dubois,male,white
+187,Ester Grasset,female,white
+188,Jacques Lepage,male,white
+189,Madeleine David,female,white
+190,Pierre Latourette,male,white
+191,Isaac Quantain,male,white
+192,Jeanne Fume,female,white
+193,Jean Canon,male,white
+194,Marie Legrand,female,white
+195,Jean Magnon,male,white
+196,Claude Badaud,male,white
+197,William Brown,male,white
+198,Marthe Bolton,female,white
+199,Elie Badaud,male,white
+200,Claude Fume,male,white
+201,Jacques Bargeau,male,white
+202,Jeanne de Lachenal,female,white
+203,Pierre Chagneau,male,white
+204,Alkey Smith,male,white
+205,Samuel Grasset,male,white
+206,Marthe Poupin,female,white
+207,Anne Newkerk,female,white
+208,Daniel Audard,male,white
+209,Marthe Jeffroy,female,white
+210,Joseph Horton,male,white
+211,Sofie Classen,female,white
+212,Francois de Fenne,male,white
+213,Anne Marguerite,female,white
+214,Madeleine Masse,female,white
+215,Andre Lauran,male,white
+216,Marc Florentin,male,white
+217,Anne Carrillier,female,white
+218,Nicolas Ayrault,male,white
+219,Marie Anne Berton,female,white
+220,Jacques Vallet,male,white
+221,Judith Vallet,female,white
+222,Susanne Rouseau,female,white
+223,Madeleine Vincent,female,white
+224,Agnes Constance le Brun,female,white
+225,Claudine Badaud,female,white
+226,Jean Perlier,male,white
+227,Anne Rezeau,female,white
+228,Jean Coutan,male,white
+229,Susanne Gouin,female,white
+230,Jacques 1 Parcot,male,white
+231,Marie Cousson,female,white
+232,Benjamin Faneuil,male,white
+233,Anne Beureau,female,white
+234,Pierre Machet,male,white
+235,Litie Couly,female,white
+236,Gabriel Thibou,male,white
+237,Mary Couly,female,white
+238,Pierre 1 Vergereau,male,white
+239,Marie Mahault,female,white
+240,Auguste Jay,male,white
+241,Anne Marie Bayard,female,white
+242,Estienne de Lancey,male,white
+243,Anne van Cortland,female,white
+244,Pierre Trocheron,male,white
+245,Judhy Allard,female,white
+246,Pierre Basset,male,white
+247,Jeanne Basset,female,white
+248,Nicolas Ponsen,male,white
+249,Anne Mils,female,white
+250,Jean Gansel,male,white
+251,Judy Le Roy,female,white
+252,Abraham Salle,male,white
+253,Ollive Perault,female,white
+254,Elisabeth Gautier,female,white
+255,Pierre Galeau,male,white
+256,Susane Boisson,female,white
+257,Marie 1 Catherine Carre Boudinot,female,white
+258,Estienne Perdriau,male,white
+259,Marguerite Bontecou,female,white
+260,Daniel Bernardeau,male,white
+261,Marianne Monier,female,white
+262,Estienne Mahault,male,white
+263,Sara Michel,female,white
+264,Jacques Guiou,male,white
+265,Anne Vigneau,female,white
+266,Marthe Moreau,female,white
+267,Jean Lauran,male,white
+268,Marie Arneau,female,white
+269,Gregoire Gougeon,male,white
+270,Renee Graton,female,white
+271,Judhy Archambeau,female,white
+272,Marie Gamor,female,white
+273,Jacob Goselain,male,white
+274,Judy Cleuily,female,white
+275,Daniel Jandin,male,white
+276,Catherine Lamoureux,female,white
+277,Henry de Money,male,white
+278,Marianne Grasset,female,white
+279,Jean Pelletreau,male,white
+280,Etienne Giraud,male,white
+281,Jane Foucard,female,white
+282,Jeanne Bouquet,female,white
+283,Jean Pierre Salnaue,male,white
+284,Madelaine Genou,female,white
+285,Andre Stuckey,male,white
+286,Marie Brossard,female,white
+287,Elie Chardavoine,male,white
+288,Anne Valleau,female,white
+289,Judith Allard,female,white
+290,Jean Faget,male,white
+291,Vincent Tillou,male,white
+292,Elisabeth Vigneau,female,white
+293,Barthelemy Feurt,male,white
+294,Madeleine Peiret,female,white
+295,Marie Thibou,female,white
+296,Louise Streing,female,white
+297,Benjamin DHariette,male,white
+298,Anne Hauteman,female,white
+299,Daniel 1 Mainard,male,white
+300,Elisabeth Vincent,female,white
+301,Noel Delamare,male,white
+302,Susanne Lheureux [Lerou?],female,white
+303,Jean Gacherie,male,white
+304,Jacob Gernereau,male,white
+305,Anne Cook,female,white
+306,Marie Carre,female,white
+307,Judith Lesueillee,female,white
+308,Jacques Spinsar,male,white
+309,Jean Jacques Minvielle,male,white
+310,Sara Manbrut,female,white
+311,Daniel Beau,male,white
+312,Ester Gaillard,female,white
+313,Anne Felhet,female,white
+314,Denis Riche,male,white
+315,Susanne Bridon,female,white
+316,Salamon Lataniere,male,white
+317,Anne Noel,female,white
+318,Pierre Savouret,male,white
+319,Daniel 1 Robertson,male,white
+320,Susanne Nichollas du Cailleau,female,white
+321,Jean Garreau,male,white
+322,Marie Oderes,female,white
+323,Pierre Tiphaine,male,white
+324,Susanne Reneh,female,white
+325,Jacques Desbrosses,male,white
+326,Heleine Godineau,female,white
+327,Jean Lafont,male,white
+328,Marie Dubois,female,white
+329,Jean 1 Vezien,male,white
+330,Isaac Frehel,male,white
+331,Mercy Blomer,female,white
+332,Andre Dupuy,male,white
+333,Janne Archambeau,female,white
+334,Alexander 1 Allaire,male,white
+335,Janne Doens,female,white
+336,Jacques Many,male,white
+337,Anne 1 Vincent,female,white
+338,Josue Soulisse,male,white
+339,Marie Valleau,female,white
+340,Jacques Rezeau,male,white
+341,Marie 1 Conte,female,white
+342,David Wilson,male,white
+343,Susanne Vincent,female,white
+344,Jacques de Laborie,male,white
+345,Janne Ressignie,female,white
+346,Marie 1 Basset,female,white
+347,Thomas Bayeux,male,white
+348,Madeleine Boudinot,female,white
+349,Marie Bricou,female,white
+350,Jean Papin,male,white
+351,Charlotte Bounos,female,white
+352,Judith 1 Bourdet,female,white
+353,Magdelaine Peret,female,white
+354,Judith Gacherie,female,white
+355,Anne Faneuil,female,white
+356,Rene Hett,male,white
+357,Blanche Hett,female,white
+358,Susan Nicholas,female,white
+359,Blanche Dubois,female,white
+360,Charles Germon,male,white
+361,Elisabeth Germon,female,white
+362,Francois 1 Gautier,male,white
+363,Anne Wikes,female,white
+364,Jean Taveau,male,white
+365,Marie Doublet,female,white
+366,Magdeleine Bayeux,female,white
+367,Lydie Machet,female,white
+368,Guillaume Picok,male,white
+369,Marie Picok,female,white
+370,Pierre Barberie,male,white
+371,Susanne Lambert,female,white
+372,Jacques You,male,white
+373,Marie Pouetreau,female,white
+374,Jacques Ballereau,male,white
+375,Jeanne Ballereau,female,white
+376,Pierre Parcot,male,white
+377,Francoise 1 Gendron,female,white
+378,Henry Vanderburg,male,white
+379,Magdeleine Vanderburg,female,white
+380,Noe Cazalet,female,white
+381,Elisabeth Cazalet,female,white
+382,Isaac Leturque,male,white
+383,Marie Leturque,female,white
+384,David Minvielle,male,white
+385,Susanne Minvielle,female,white
+386,Andre Fresneau,male,white
+387,Marie Morin,female,white
+388,Jeremie Many,male,white
+389,Margueritte Vincent,female,white
+390,Jacques Bergeron,male,white
+391,Judith Peltemps,female,white
+392,Marie Stuckey,female,white
+393,Guillaume Brower,male,white
+394,Jacques Flandreau,male,white
+395,Elisabeth 1 Beaudry,female,white
+396,Jacques 2 Curie,male,white
+397,Anne Terrier,female,white
+398,Anne Sicar,female,white
+399,Joseph Leddel,male,white
+400,Marianne Vincent,female,white
+401,Anne Naudin,female,white
+402,Marie Taveau,female,white
+403,Daniel Masse,male,white
+404,Ester Fourret,female,white
+405,Louis Rou,male,white
+406,Marie le Boyteulx,female,white
+407,Susanne Riche,female,white
+408,Marie Fresneau,female,white
+409,Daniel 1 Bonnet,male,white
+410,Marie Machet,female,white
+411,Daniel 1 Ravau,male,white
+412,Jeanne Martin,female,white
+413,Ester Beau,female,white
+414,Susanne 2 Boudinot,female,white
+415,Marie Aneraux,female,white
+416,Benjamin Appleby,male,white
+417,Francoise Appleby,female,white
+418,Judith Peletant,female,white
+419,Marie Catherine,female,white
+420,David le Tellier,male,white
+421,Susanne le Tellier,female,white
+422,Elisabeth 1 Mainard,female,white
+423,Marie You,female,white
+424,Thomas Oakes,male,white
+425,Marie Oakes,female,white
+426,Helene Desbrosses,female,white
+427,Elisabeth Ony,female,white
+428,Judith Pelletreau,female,white
+429,Jeane Odard,female,white
+430,Margueritte Vanderburg,female,white
+431,Pierre Forestier,male,white
+432,Catherine 1 Tier,female,white
+433,Renee Marie Gougeon,female,white
+434,Charles Crommelin,male,white
+435,Anne Crommelin,female,white
+436,Ezechiel Boigniot,male,white
+437,Ester le Conte,female,white
+438,Anne du Puy,female,white
+439,Ester Forrai,female,white
+440,Samuel Vincent,male,white
+441,Marie Vincent,female,white
+442,Anne de Lancey,female,white
+443,Jean Auboyneau,male,white
+444,Francoise Auboyneau,female,white
+445,Antoine la Font,male,white
+446,Marie la Font,female,white
+447,Anne Florentin,female,white
+448,Solomon Burton,male,white
+449,Ester Burton,female,white
+450,Daniel Gautier,male,white
+451,Marie Gautier,female,white
+452,Jacques Ardin,male,white
+453,Abigail Ardin,female,white
+454,Erloy Letelier,male,white
+455,Ester Corbeau,female,white
+456,Abraham Jouneau,male,white
+457,Marianne Canche,female,white
+458,Elisabeth Vandry,female,white
+459,Joseph Morfil,male,white
+460,Marthe Grasset,female,white
+461,Guillaume Ruleau,male,white
+462,Ester Boigniot,female,white
+463,Marthe Audard,female,white
+464,Elie Manbrut,male,white
+465,Susanne Manbrut,female,white
+466,Renee Rou,female,white
+467,Moyse Morin,male,white
+468,Marie Anne Bricou,female,white
+469,Andre Mesnard,male,white
+470,Margueritte Mesnard,female,white
+471,Jean Rencau,male,white
+472,Jeanne Rencau,female,white
+473,Benjamin Roumage,male,white
+474,Margueritte Roumage,female,white
+475,Pierre Chaperon,male,white
+476,Judith Lamoureux,female,white
+477,Pierre 1 Vallade,male,white
+478,Magdeleine 1 Vallade,female,white
+479,Ester Masse,female,white
+480,Susanne Chardavoine,female,white
+481,Elisabeth Bonin,female,white
+482,J. J. Brumeau Moulinars,male,white
+483,Judith J. Brumeau Moulinars,female,white
+484,Judith Bergeron,female,white
+485,Guillaume Bouquet,male,white
+486,Neeltie Bouquet,female,white
+487,Marie Ruleau,female,white
+488,Philip Riche,male,white
+489,Marie Riche,female,white
+490,Jean Vigneau Tiellou,male,white
+491,Marie Vigneau Tiellou,female,white
+492,Marie Anne,female,white
+493,Pierre Morgat,male,white
+494,Jeanne Morgat,female,white
+495,Marie Rou,female,white
+496,Jean Abelin,male,white
+497,Daniel la Moureux,male,white
+498,Jeanne la Moureux,female,white
+499,Pierre Elisee Galaudet,male,white
+500,Jeanne Elisee Galaudet,female,white
+501,Robert Ouilliom,male,white
+502,Magdeleine Ouilliom,female,white
+503,Elisabeth 1 Pelletreau,female,white
+504,Judith Chaperon,female,white
+505,Jacob Bouquet,male,white
+506,Margueritte Bouquet,female,white
+507,Renee Marie,female,white
+508,Jean 2 Hatier,male,white
+509,Elisabeth 2 Hatier,female,white
+510,Guillaume Valleau,male,white
+511,Jeanne 1 Ravau,female,white
+512,Marie Abelin,female,white
+513,Andre Giraud,male,white
+514,Anne Giraud,female,white
+515,Jean Joseph Moulinars,male,white
+516,Judith Marie,female,white
+517,Josue Quereau,male,white
+518,Judith Quereau,female,white
+519,Guillaume Neville,male,white
+520,Susanne Neville,female,white
+521,Guillaume Esgur,male,white
+522,Silvie Esgur,female,white
+523,Estienne Renaud,male,white
+524,Magdeleine Renaud,female,white
+525,Jean Ross,male,white
+526,Louise Ross,female,white
+527,Jean Juounett,male,white
+528,Marie Juounett,female,white
+529,Jean Masson,male,white
+530,Marie Masson,female,white
+531,Guillaume la Conte,male,white
+532,Alexander de Bonrepos,male,white
+533,Margueritte de Bonrepos,female,white
+534,Pierre 1 Quintard,male,white
+535,Jeanne 1 Quintard,female,white
+536,Marie [Jay],female,white
+537,Jeremie Latouche,male,white
+538,Jeanne Latouche,female,white
+539,Elisabeth Coutan,female,white
+540,Ester Manbrut,female,white
+541,Daniel Champenois,male,white
+542,Margueritte Champenois,female,white
+543,Jean Basset,male,white
+544,Elisabeth Basset,female,white
+545,Daniel 1 Targe,male,white
+546,Jeanne 1 Targe,female,white
+547,Joseph Royden Jamain,male,white
+548,Sara Royden Jamain,female,white
+549,Abraham Bertrand,male,white
+550,Elisabeth Bertrand,female,white
+551,Jean 2 Rey,male,white
+552,Magdeleine 2 Rey,female,white
+553,Susanne Mercier,female,white
+554,Francois Beaumier,male,white
+555,Anne Beaumier,female,white
+556,Nicholas Carter,male,white
+557,Jean 2 Pintard,male,white
+558,Lydie Bown,female,white
+559,Guillaume Heurretin,male,white
+560,Susanne Heurretin,female,white
+561,Peternelle 1 Bonnet,unknown,white
+562,Jacques Hutchins,male,white
+563,Magdeleine Hutchins,female,white
+564,Paul 2 Pelletreau,male,white
+565,Jacques Faviere,male,white
+566,Charlotte Bouyer,female,white
+567,Isaac Van Dam,male,white
+568,Isabelle Pintard,female,white
+569,Abija Bouquet,female,white
+570,Pierre Tillou,male,white
+571,Esther Pelletreau,female,white
+572,Elisabeth Vischer,female,white
+573,Joseph Aineau,male,white
+574,Mercy Aineau,female,white
+575,Jeanne Soumain,female,white
+576,Elisabeth le Boyteulx,female,white
+577,Jean Tillou,male,white
+578,Marie Tillou,female,white
+579,Susanne 2 Pelletreau,female,white
+580,Elie Pipon,male,white
+581,Blanche Lafont,female,white
+582,Ester Tillou,female,white
+583,Anne Burger,female,white
+584,Catherine Carre,female,white
+585,Judith Blagg,female,white
+586,Samuel Pell,male,white
+587,Susanne Pell,female,white
+588,Jean 1 Aymar,male,white
+589,Francoise Belon,female,white
+590,Alexander Homes,male,white
+591,Marianne Masse,female,white
+592,Jean Ballereau,male,white
+593,Alexander 2 Allaire,male,white
+594,Esther Clatworth,female,white
+595,Mariane Guyenneau,female,white
+596,Philip Perrot,male,white
+597,Elisabeth Ailesworth,female,white
+598,Susanne Kocherthal,female,white
+599,Marie Magdeleine,female,white
+600,Vincent Bodin,male,white
+601,Helene Smith,female,white
+602,Helene van de Water,female,white
+603,Francoise 1 Aymar,female,white
+604,Roelof Kiersted,male,white
+605,Anne [Vincent] Vezien,female,white
+606,Matthieu Ridet,male,white
+607,Susanne Ridet,female,white
+608,Marie van Gelder,female,white
+609,Anne 2 Vincent,female,white
+610,Sara Butler,female,white
+611,Moyse Gombauld,male,white
+612,Anne Francoise Pintard,female,white
+613,Charles Louchard,male,white
+614,Anne Tillou,female,white
+615,Salomon Bogles,male,white
+616,Susanne Pelletreau,female,white
+617,Joseph DeLorme,male,white
+618,Marie Rollin,female,white
+619,Mercy Casten,female,white
+620,Isaac 2 Garnier,male,white
+621,Marie Machfieldt,female,white
+622,Harter Healms,male,white
+623,Jeanne Applebe,female,white
+624,Estienne Carter,male,white
+625,Francoise Smith,female,white
+626,Pierre 2 Vergereau,male,white
+627,Marie Magdeleine Pasierin [Parisien?],female,white
+628,Paul Francois Cebe,male,white
+629,Marianne Gereau,female,white
+630,Pierre Allaire,male,white
+631,Marie Garland,female,white
+632,Guillaume Nixon,male,white
+633,Marie Manswell,female,white
+634,Pierre Moynot,male,white
+635,Mariane Angevin,female,white
+636,Daniel Hutchison,male,white
+637,Judith Eymar,female,white
+638,Elisabeth Woodfort,female,white
+639,Guillaume Leddle,male,white
+640,Louise David,female,white
+641,Daniel Ravaux jr,male,white
+642,Marie Raven,female,white
+643,Marie Maxwell,female,white
+644,Antoine Demelt,male,white
+645,Jeanne Raven,female,white
+646,Pierre Cownhoove,male,white
+647,Elisabeth Raven,female,white
+648,Jean Langevin,male,white
+649,Esther Parmer,female,white
+650,Jean Pierre Buvelot,male,white
+651,Rachel Sutton,female,white
+652,Catharinne 2 Allaire,female,white
+653,Mathieu Thomas,male,white
+654,Jeanne Pelletreau,female,white
+655,Jean 2 Parquot,male,white
+656,Jeanne Ravaux,female,white
+657,Pierre Joncourt,male,white
+658,Jeanne Couillete,female,white
+659,Jeremie Baudouin,male,white
+660,Anne Devin,female,white
+661,Marie [Maxwell] Macswill,female,white
+662,Marie Raioin,female,white
+663,Anne [Devin] Dwane,female,white
+664,Bernard Ayrault,male,white
+665,Judith Mesnard,female,white
+666,Francois Many,male,white
+667,Magdelaine Aymar,female,white
+668,Nicolas Francois,male,white
+669,Glodine Vales,female,white
+670,George Los,male,white
+671,Glodine Petremon,female,white
+672,Rachel Baal,female,white
+673,Pierre Renaud,male,white
+674,Catherine Marguerite,female,white
+675,Guillaume Richard,male,white
+676,Marie Elisabeth Rou,female,white
+677,Nicolas Gendre,male,white
+678,Marguerite Gogue,female,white
+679,Pierre Nicolet,male,white
+680,Ssuanne Gindrat,female,white
+681,Jean Palme,male,white
+682,Ester Chadeayne,female,white
+683,Claude Fournier,male,white
+684,Madeleine Carle,female,white
+685,Francois Conrad,male,white
+686,Anne Marie Meteta,female,white
+687,Laurent Letelier,male,white
+688,Marie Clark,female,white
+689,Jacques Erouard,male,white
+690,Jeanne Jabouin,female,white
+691,Abel Henry Marchand,male,white
+692,Marie Madeleine Peyterman,female,white
+693,Nicolas Jamar,male,white
+694,Catherine Pocha,female,white
+695,Jean Silvestre of Nante,male,white
+696,Charlotte Cluso of Quebec,female,white
+697,Pierre Rougeon,male,white
+698,Marie Aymar,female,white
+699,Jacob Coutan,male,white
+700,Jeanne 1 Renaud,female,white
+701,Jacques Sicard,male,white
+702,Madelaine Badau,female,white
+703,Elisabeth Dobbs,female,white
+704,Joseph Fortin,male,white
+705,Sarah Manbrut,female,white
+706,Anne Pomie,female,white
+707,Pierre Frederick Durand,male,white
+708,Anne Clemence,female,white
+709,Elisee Galaudet,female,white
+710,Jeanne Dubois,female,white
+711,Benjamin Flandreau,male,white
+712,Ester Badeau,female,white
+713,Jean Debevernier,male,white
+714,Francoise Hits,female,white
+715,Jean George Los,male,white
+716,Claudine George Los,female,white
+717,Jonatan Weman,male,white
+718,Elisabeth Dubois,female,white
+719,Isaac Coutan,male,white
+720,Francoise Badau,female,white
+721,Pierre Lagear,male,white
+722,Madeleine Garsin,female,white
+723,Louis 2 Dubois,male,white
+724,Elisabeth Soulice,female,white
+725,Guillaume Albrespy,male,white
+726,Anne Bourdet,female,white
+727,Jacques Stuart,male,white
+728,Ester Asiers,female,white
+729,Ruben Oliver,male,white
+730,Ester Galidet,female,white
+731,Jean Pierre Chapelle jr,male,white
+732,Catherine Don,female,white
+733,Jacques Balme,male,white
+734,Susanne Balme,female,white
+735,Pierre 2 Durand,male,white
+736,Clemence 2 Durand,unknown,white
+737,Jean Demilt,male,white
+738,Susanne Raven,female,white
+739,Andre Grosjean,male,white
+740,Marie Grosjean,female,white
+741,Jacob Helicom,male,white
+742,Marie Badaud,female,white
+743,Ulrick Springer,male,white
+744,Anne Marie Jeriwerst -of Deux Ponts,female,white
+745,Henry Coutan,male,white
+746,Elisabeth Chadaine,female,white
+747,Pierre 2 Badau,male,white
+748,Catherine Coutan,female,white
+749,Abel des Veaux,male,white
+750,Marie Soulis,female,white
+751,Mathieu Morel,male,white
+752,Marie Ozias,female,white
+753,Elisabeth 1 Aymar,female,white
+754,Jean du Clou,male,white
+755,Frederick[?] Silvie Vinnet,male,white
+756,Abel Marchand,male,white
+757,Leonard Sandoz,male,white
+758,Marie Sandoz,female,white
+759,Magdeleine Lagear,female,white
+760,Pierre Chapelle,male,white
+761,Catherine Chapelle,female,white
+762,Jean Belair,male,white
+763,Claudine Belair,female,white
+764,Francois Dominick,male,white
+765,Margueritte Blanchard,female,white
+766,Anne Marie,female,white
+767,Louis Pintard,male,white
+768,Susanne Pintard,female,white
+769,Nicolas Toulon,male,white
+770,Debora de Saint Croix,female,white
+771,John Harrison,male,white
+772,Denize Rou,female,white
+773,Otto Parisien,male,white
+774,Hester Sicard,female,white
+775,Pierre Goux of Claverack,male,white
+776,Catherine Vaugi,female,white
+777,Guillaume Gandel,male,white
+778,Marianne Marchand,female,white
+779,Marie 2 Chevalier,female,white
+780,Charles Erouard,male,white
+781,Ester Coutan,female,white
+782,Pierre Rochar,male,white
+783,Jeanne Badeau,female,white
+784,Jeanne Marie Ozias,female,white
+785,Reinold Lodz,male,white
+786,Elisabeth Martin,female,white
+787,Jean de Laurier,male,white
+788,Marie de Laurier,female,white
+789,George Dominick,male,white
+790,Elisabeth Blanchard,female,white
+791,Jean Smith,male,white
+792,Angelique Smith,female,white
+793,Guillaume Hale,male,white
+794,Mariane Coutan,female,white
+795,Andre Mercine,male,white
+796,Susanne Gindra,female,white
+797,Marie [Soulis] Soubise,female,white
+798,Michel Gauthay,male,white
+799,Apellone Greewallden,female,white
+800,Otto Daniel Parisien,male,white
+801,Anne Marie Valerin,female,white
+802,Pierre Trumeau,male,white
+803,??? Blanchard,unknown,white
+804,Catherine Jamar,female,white
+805,Susanne Stockton,female,white
+806,Elisabeth Lodz,female,white
+807,Marie Pauzer,female,white
+808,Louis Riviere,male,white
+809,Jeanne Erouard,female,white
+810,Jean 2 Barait,male,white
+811,Elisabeth Axen,female,white
+812,Etienne Jordan,male,white
+813,Margueritte Jordan,female,white
+814,Jean Jourdan,male,white
+815,Barbara Jourdan,female,white
+816,Pierre Loreillard,male,white
+817,Catherine 2 Meir,female,white
+818,Samuel Collins,male,white
+819,Rilha Collins,unknown,white
+820,Jacques 3 Curie,male,white
+821,Margueritte 3 Curie,female,white
+822,Jean 1 Basset,male,white
+823,Helenne Evout,female,white
+824,Jacob Shareman,male,white
+825,Jeanne Callo,female,white
+826,Jean Cloux,male,white
+827,Jean Margueritte Paren,male,white
+828,Francois 2 Gautier,male,white
+829,Appelone 2 Gautier,unknown,white
+830,Jean Pommant,male,white
+831,Marie Pommant,female,white
+832,Ester Parisien,female,white
+833,Jacob Hillicourt,male,white
+834,Anne Baudouin,female,white
+835,Louise Cadet,female,white
+836,Daniel Tier,male,white
+837,Susanne Tier,female,white
+838,Isaac Noble,male,white
+839,Rachel Dejoncourt,female,white
+840,Claudinne Valet,female,white
+841,Frederick Basset,male,white
+842,Jannatje Vredenburgh,female,white
+843,Leonard Willmot,male,white
+844,Judith Perron,female,white
+845,Louis Faugere,male,white
+846,Eve Faugere,female,white
+847,Rene Lodz,male,white
+848,Mattheu Tier jr,male,white
+849,Margueritte Tier,female,white
+850,Francoise Hutcheson,female,white
+851,Martin Brard,male,white
+852,Madeleine Ci wid Trumeau,female,white
+853,Jean 2 Blanchard,male,white
+854,Marie 2 Blanchard,female,white
+855,Jean George Jaquin,male,white
+856,Catherine George Jaquin,female,white
+857,Margueritte Parent,female,white
+858,Margueritte Bellone,female,white
+859,Mathieu Tiers,male,white
+860,Margueritte Chappelle,female,white
+861,Jeanne Heroy,female,white
+862,Anne Judick Parens,female,white
+863,Pierre Graim,male,white
+864,Marie Ravo,female,white
+865,Madeleine Blanchard,female,white
+866,Barthelemy Rossel,male,white
+867,Marie Jacque Saint Pierre,female,white
+868,Jean Christopher,male,white
+869,Margueritte Commeau,female,white
+870,Jacques Heroy,male,white
+871,Charlotte Pommant,female,white
+872,Andre Souliers,male,white
+873,Marie Prignon,female,white
+874,Francois Humbert,male,white
+875,Elisabeth Melik,female,white
+876,Jean Lopey,male,white
+877,Susanne Quintar,female,white
+878,Anthoine Deroches,female,white
+879,Margueritte Denies,female,white
+880,Eve Remsen,female,white
+881,Francoise 2 Gendron,female,white
+882,Marie Forman,female,white
+883,Marie Saint Pierre,female,white
+884,Guillaume la Croix,male,white
+885,Elisabeth Johnston,female,white
+886,Charlotte la Vigne,female,white
+887,Jean Matthieu Tiers,male,white
+888,Sara Casting,female,white
+889,Jeanne Jaboin (obyt),female,white
+890,Pierre Quidor,male,white
+891,Elsy Trewman,female,white
+892,Elisabeth Humbert,female,white
+893,Jean Lampey,male,white
+894,Josephe Piquet,male,white
+895,Jean 2 Vautie,male,white
+896,Catherine Curie,female,white
+897,Jean Tier,male,white
+898,Margueritte le Rou,female,white
+899,George Alizon,male,white
+900,Elisabeth Williamise,female,white
+901,Matthieu Moste,male,white
+902,Marie Vautie,female,white
+903,Margueritte Feney,female,white
+904,Susanne Buvelot,female,white
+905,Marie St. Pierre,female,white
+906,Jacques Durand,male,white
+907,Eleonore Monnie,female,white
+908,Isaac 3 Garnier,male,white
+909,Elisabeth Fletcher,female,white
+910,Jean Sanders,male,white
+911,Jacob Brower,male,white
+912,Catherine Jeandur,female,white
+913,Jean Pierre Vautier,male,white
+914,Jean Bomon,male,white
+915,Charlotte Bomon,female,white
+916,Lewis Fortie,male,white
+917,Marie 2 Pineau,female,white
+918,Estienne Dousinet Cordonnier,male,white
+919,Luy Rezeau,female,white
+920,Jean Boibelleau,male,white
+921,Pierre Boudet,male,white
+922,Pierre Belin,male,white
+923,Pierre Godefroy,male,white
+924,Guillaume Howard,male,white
+925,Oliver Bely,male,white
+926,Andre Paillet,male,white
+927,Esaie Valleau,female,white
+928,Charles Deniseau,male,white
+929,Augustin Huble,male,white
+930,Pierre Thauuet,male,white
+931,Daniel Lambert,male,white
+932,Lydie Meterau,female,white
+933,Pierre Abrard,male,white
+934,Estienne Lavigne,male,white
+935,Bartle Clase,male,white
+936,Anthony Farmer,male,white
+937,Claude Bruyes,male,white
+938,Jean Grazillier,male,white
+939,Pierre Valos,male,white
+940,Pierre Boudinot,male,white
+941,Suzanne Gladeau,female,white
+942,Liue Vincent,female,white
+943,Nicolas Jamain,male,white
+944,Jean Chadaine,male,white
+945,Andre Naudin,male,white
+946,Pierre Filleux,male,white
+947,Jean 1 Vautie,male,white
+948,Gilles Gaudineau,male,white
+949,Daniel Targe,male,white
+950,Jean Thomasen,male,white
+951,Thomas Boys,male,white
+952,Thimotee Archambaud,male,white
+953,Marie Le Breton,female,white
+954,Abraham Canon,male,white
+955,Jean Sevenhoven,male,white
+956,Elisabeth Bertran,female,white
+957,Madam Jamin,female,white
+958,Elie Jamin,male,white
+959,Jean Barenne,male,white
+960,Andre Auriau,male,white
+961,Anna Oustraven,female,white
+962,Nicholas Richard,male,white
+963,Jean Noe,male,white
+964,David Bon Foy,male,white
+965,Jean 1 Parquot,male,white
+966,Leonard Lewis,male,white
+967,Estienne Jamain,male,white
+968,Jaques Burtel,male,white
+969,Samuel ?,male,white
+970,Francois Cariller,male,white
+971,Benjamin Godeffroy,male,white
+972,Auguste Grasset,male,white
+973,Marguerite Chonvetre,female,white
+974,Alexander Maurisset,male,white
+975,Nicolas Malherbe,male,white
+976,Pierre Dasserx,male,white
+977,Francois Benech,male,white
+978,Abraham Raizeau,male,white
+979,Jean 1 Pintard,male,white
+980,Andre Canon,male,white
+981,Andre Foucault,male,white
+982,Augustin Greham,male,white
+983,Barne van Tellebourg,male,white
+984,Daniel Giraud,male,white
+985,Samuel Archambaud,male,white
+986,Pierre Rezeau,male,white
+987,??? David,unknown,white
+988,Jean Jironne,male,white
+989,Jacques 1 Curie,male,white
+990,Claude Baudouin,male,white
+991,Willem Couly,male,white
+992,Jacob Thibou,male,white
+993,Etienne van Cortland,male,white
+994,Pierre Legrand,male,white
+995,Jacques Coindrieau,male,white
+996,Isaac Mercier,male,white
+997,Auguste Lucas,male,white
+998,William Caldwel,male,white
+999,William Fullwood,male,white
+1000,Daniel Crommelin,male,white
+1001,Pierre 1 Badau,male,white
+1002,Jacob Baillargeau,male,white
+1003,Jacob Ratier,male,white
+1004,George Durieu,male,white
+1005,Jacob Bayard,male,white
+1006,Arnaud Valleau,male,white
+1007,Jean Doublet,male,white
+1008,David Papin,male,white
+1009,Jacques 1 Blanchard,male,white
+1010,Jacques Arondaux,male,white
+1011,Adam Carrillier,male,white
+1012,Francois Bureau,male,white
+1013,Simon Rame,male,white
+1014,Daniel Gaillard,male,white
+1015,Jacques Biebeau,male,white
+1016,Pierre Thipine,male,white
+1017,Francois Auboineau,male,white
+1018,Susanne Peiret,female,white
+1019,Jeanne Targe,female,white
+1020,Anne Jay,female,white
+1021,Oliver van Cortland,male,white
+1022,Jean Moyse Contes,male,white
+1023,Judith Jamain,female,white
+1024,Jacques Riuaux,male,white
+1025,Pierre 1 Durand,male,white
+1026,Jean Cazalz,male,white
+1027,Francois Gourdon,male,white
+1028,Madeleine Fauconnier,female,white
+1029,Elie Nezereau,male,white
+1030,Marie Lafond,female,white
+1031,Jean Boudinot,male,white
+1032,Jean Martin,male,white
+1033,??? Bessonnet,unknown,white
+1034,Etienne Guerine,male,white
+1035,Francois Lucas,male,white
+1036,Anne Bachan,female,white
+1037,Thomas la Roche,male,white
+1038,Bernard Hardenbrouk,male,white
+1039,Judith Chevallier,female,white
+1040,Marthe Poutreau,female,white
+1041,Elisabeth Droilhet,female,white
+1042,Paul Minvielle la Coze,male,white
+1043,James Brown,male,white
+1044,Madeleine Gautier,female,white
+1045,Jacques Renaudet,male,white
+1046,Ester Charon,female,white
+1047,Madeleine Feurt,female,white
+1048,Charles Forestier,male,white
+1049,Michael Stuckey,male,white
+1050,Henry Mercie,male,white
+1051,Samuel Bayard,male,white
+1052,William Owen,male,white
+1053,Estienne Ruleau,male,white
+1054,Madeleine Leddel,female,white
+1055,Anne Chardavoine,female,white
+1056,Samuel Morin,male,white
+1057,James du Pre,male,white
+1058,Philip Thiche [Riche],male,white
+1059,Elie Mestayer,male,white
+1060,Cornelia van Cortland,female,white
+1061,Andre Royer [Bogard],male,white
+1062,Jacques Dulon,male,white
+1063,Susanne Bayeux,female,white
+1064,Isaiah Onery,male,white
+1065,Louis Allaire,male,white
+1066,Joseph Bledar,male,white
+1067,Guillaume Burnet,male,white
+1068,Paul Collins,male,white
+1069,Pierre le Conte,male,white
+1070,Daniel [Beau] Buo,male,white
+1071,Isaac Quantin,male,white
+1072,Guillaume Landrin,male,white
+1073,Helegonde Bogart,female,white
+1074,Girard Confort,male,white
+1075,Marquise le Boyteulx,male,white
+1076,Catherine van Cortland,female,white
+1077,Jean Bayeux de Londres,male,white
+1078,Guillaume le Conte,male,white
+1079,Marie la Mare,female,white
+1080,Francoise Quantein,female,white
+1081,Jeremie Chardavoine,male,white
+1082,Francois 2 Basset,male,white
+1083,Anne [Jane] van Gelder,female,white
+1084,Pierre Hibon,male,white
+1085,Catherine Comfort,female,white
+1086,Anne Marie Cornifleau,female,white
+1087,Pierre Prieur,male,white
+1088,Guillaume Emett [W. E. Mott],male,white
+1089,Pierre Jay,male,white
+1090,George Muirson,male,white
+1091,Samuel Pintard,male,white
+1092,Marmaduke Bouteflort,male,white
+1093,Jacques Bonnet,male,white
+1094,Marguerite Perdriau,female,white
+1095,Pierre Burger,male,white
+1096,Jean Dragaud,male,white
+1097,Isaac la Touche,male,white
+1098,Jacques David,male,white
+1099,Louise Kocherthal,female,white
+1100,Daniel Burger,male,white
+1101,Pregeante Carre,female,white
+1102,Rostal Richardson,male,white
+1103,Marie Ballereau,female,white
+1104,Simon Jansen,male,white
+1105,Catherine Mecologh,female,white
+1106,Estienne Desbrosses,male,white
+1107,Alexander Phenix,male,white
+1108,Francoise Bouquet,female,white
+1109,Elisabeth Heurretin,female,white
+1110,Jean 2 Vincent,male,white
+1111,Michel le Breton,male,white
+1112,Joseph Haynes,male,white
+1113,Jacques Buvelot,male,white
+1114,Anne Rezeau Vincent,female,white
+1115,Henry de Meyer,male,white
+1116,Elisabeth Cockrem,female,white
+1117,Elisabeth le Breton,female,white
+1118,Sara Leddle,female,white
+1119,Jean Bend,male,white
+1120,Abraham Kip,male,white
+1121,Jean Groesbeek,male,white
+1122,Nicolas Rosevelt,male,white
+1123,Estienne Bourdet,male,white
+1124,Etienne 1 van Cortland,male,white
+1125,Paul Parcot,male,white
+1126,Isaac Taveau,male,white
+1127,Esther Riche Smith,female,white
+1128,Benjamin Blagg,male,white
+1129,Egbert Egberts,male,white
+1130,Elisabeth Garnier,female,white
+1131,Oliver de Lancey,male,white
+1132,Marie Tavaux,female,white
+1133,Daniel Ravaux sr,male,white
+1134,Marie Soumain,female,white
+1135,Jeanne Beau,female,white
+1136,Jean 2 Vezien,male,white
+1137,Thauvet Besly,male,white
+1138,Marie Ball Langevin,female,white
+1139,Suson Demilt,female,white
+1140,Robert Cromelin,male,white
+1141,Francois Blanchard,male,white
+1142,Jean Eymar jr,male,white
+1143,Daniel Hugueniot,male,white
+1144,Jean Roorback jr,male,white
+1145,Elie Desbrosses,male,white
+1146,Jean Henry Rou,male,white
+1147,Jean George Laureillard,male,white
+1148,Henry Chadeayne,male,white
+1149,Andre Lucam,male,white
+1150,??? Roosevelt,unknown,white
+1151,Madelaine Renaud,female,white
+1152,Gerard Jamain,male,white
+1153,Francois 3 Basset,male,white
+1154,Daniel Jacot,male,white
+1155,Jean Eomain,male,white
+1156,Jean Badeau,male,white
+1157,Jean Louis Maillet,male,white
+1158,David Guyon,male,white
+1159,Jacques 2 Parcot,male,white
+1160,John Richard,male,white
+1161,Philip Will,male,white
+1162,Ester Langevin,female,white
+1163,Ester Erouard,female,white
+1164,Jean Henry Tiers,male,white
+1165,Jean Lamb,male,white
+1166,Denis Wortman,male,white
+1167,Jacob van Wagener,male,white
+1168,Fredrica Ozy [Ony],female,white
+1169,Jacques 2 Blanchard,male,white
+1170,Samuel 2 Bourdet,male,white
+1171,Bernard Rynlander,male,white
+1172,Moyse de Saint Croix,male,white
+1173,Thomas Hamersley,male,white
+1174,Matthew Dies,male,white
+1175,Pierre Vautie,male,white
+1176,Jean Pierre Tetard,male,white
+1177,Louis Clarkson,male,white
+1178,Jean Loreillard,male,white
+1179,Morley Harrison,male,white
+1180,Charles Demuy,male,white
+1181,Daniel 2 Robertson,male,white
+1182,Jean Miller,male,white
+1183,Jean Frederick,male,white
+1184,William Richard,male,white
+1185,Michael Housewel,male,white
+1186,Michel Honore,male,white
+1187,Roger Richard,male,white
+1188,Laurand Hardman,male,white
+1189,Ryne Low,male,white
+1190,Jean Andre Castor,male,white
+1191,Jean Cortright,male,white
+1192,Francois Girard,male,white
+1193,Jean Guerineau,male,white
+1194,Henry Gerbeaux,male,white
+1195,Jean Francois Malvisin,male,white
+1196,Jean Bte Rieux,male,white
+1197,William Vredenburgh,male,white
+1198,Jean Plantin,male,white
+1199,Corneille Tebaut,male,white
+1200,Jacques Aymar,male,white
+1201,Jacques Vautie,male,white
+1202,Henry Rossel,male,white
+1203,Christian Smith,male,white
+1204,Francois Willmny,male,white
+1205,Daniel Aymar,male,white
+1206,Barthelemy Labuzan,male,white
+1207,Elisabeth Edward,female,white
+1208,Charles Louis Point Clou,male,white
+1209,Jean Harbin,male,white
+1210,Girard Bekeman,male,white
+1211,Jacques la Masney,male,white
+1212,Matthieu Poitevan,male,white
+1213,Pierre Mery,male,white
+1214,Jacob Tier,male,white
+1215,Jean 2 Barberie,male,white
+1216,Jean Sals,male,white
+1217,Germain Chappelle,male,white
+1218,Louis Marain,male,white
+1219,Jean Girault,male,white
+1220,Pierre Conrad,male,white
+1221,George Quidor,male,white
+1222,Pierre Forgeaut,male,white
+1223,J. Nicolas Jeandur,male,white
+1224,Guillaume Leonard,male,white
+1225,Jacques Pino,male,white
+1226,Jeanne Jamain,female,white
+1227,wife of Estienne Dousinet Cordonnier,female,white
+1228,Jeanne Piaud wife of Soumain,female,white
+1229,Susanne DHariette,female,white
+1230,Dorothea van Hertsbergen,female,white
+1231,Marie le Berton wid Fleuriau,female,white
+1232,Susanne Beriman,female,white
+1233,Susanne Parin,female,white
+1234,Susanne Descart,female,white
+1235,Lea Ouilmen,female,white
+1236,??? Poupain,unknown,white
+1237,Suzanne Papin Boudinot,female,white
+1238,Catherine de Lorier,female,white
+1239,Mariane Melot,female,white
+1240,Susanne Ratier,female,white
+1241,Suzanne Roux,female,white
+1242,Elizabeth Pinet,female,white
+1243,Christiane Melton,female,white
+1244,Judith Pare,female,white
+1245,Petterlin Elfen Eik,female,white
+1246,Marie Bonein,female,white
+1247,Marie Tisseau,female,white
+1248,Eltie Prevost,female,white
+1249,Catherine Newkerk,female,white
+1250,Marie Dorfurer,female,white
+1251,Marguerite Levesque,female,white
+1252,??? Vincent,unknown,white
+1253,Jeanne Bardewick,female,white
+1254,Jeanne Janson,female,white
+1255,Marie Schart,female,white
+1256,Elisabeth Hooglandt,female,white
+1257,Elisabeth Perdriau wife of Hatier,female,white
+1258,Matta Pierrot,female,white
+1259,Marie Lecuier,female,white
+1260,Catherine le Mercier,female,white
+1261,Annetie Hans,female,white
+1262,Marie Susanne Vergereau,female,white
+1263,Marie Moriet,female,white
+1264,Elce Alisson,female,white
+1265,Ester Finch,female,white
+1266,widow Gallais,female,white
+1267,Susanne 1 Boudinot,female,white
+1268,Marie Traverrier,female,white
+1269,Judy Pare,female,white
+1270,Marthe Goffre,female,white
+1271,Margueritte Dumon,female,white
+1272,Eltie Leiseler,female,white
+1273,Judith Pare wid Robineau,female,white
+1274,Marie Anne ?,female,white
+1275,Caterine Jouneau,female,white
+1276,Hendrica Kip,female,white
+1277,Anne Cromelin,female,white
+1278,Marguerite Huge,female,white
+1279,Marie Boucherie,female,white
+1280,Susanne Dousinet,female,white
+1281,Judy Gallay wife of Lasonde,female,white
+1282,Susanne Hulin,female,white
+1283,Elisabeth Filheut,female,white
+1284,Sara Coslas,female,white
+1285,Marie Odine,female,white
+1286,Ruth David,female,white
+1287,Jeanne Fiart,female,white
+1288,Marie Lucas wife of Loraut,female,white
+1289,Jeanne Archambaud,female,white
+1290,Elisabeth 1 Hatier,female,white
+1291,Susanne Drouilhet,female,white
+1292,Anne Newkerke,female,white
+1293,Jeanne Carre,female,white
+1294,Marie Raizeau,female,white
+1295,Marianne Machet,female,white
+1296,Jeanne de Wendell,female,white
+1297,Marie Bellemont,female,white
+1298,wid Hatier,female,white
+1299,Elisabeth Leister,female,white
+1300,Judy Demerciers,female,white
+1301,Janne Audar,female,white
+1302,Jeanne Valleau,female,white
+1303,Ester Blan,female,white
+1304,Marie Audar,female,white
+1305,Marie Carelie1,female,white
+1306,Elisabeth Archambaud,female,white
+1307,Anne Audeberd,female,white
+1308,Marteh Coudret,female,white
+1309,Susanne de le Tour,female,white
+1310,Susanne 1 Vergerau,female,white
+1311,Jeane Pillet,female,white
+1312,Catherine Canon,female,white
+1313,Marthe Allard,female,white
+1314,Anne Marchant,female,white
+1315,Esther 1 Vincent,female,white
+1316,Marie Fleuriau,female,white
+1317,Mary Tudor,female,white
+1318,Marie la Plaine,female,white
+1319,Madeleine Filleux,female,white
+1320,Anne Courtland,female,white
+1321,Elisabeth Manigeau,female,white
+1322,Jeanne Dugua,female,white
+1323,Anne Poupin,female,white
+1324,Sara Demarais,female,white
+1325,Ester Archambeau,female,white
+1326,Magdeleine Lefeure,female,white
+1327,Marie 1 Chevalier,female,white
+1328,Marguerite Bayard,female,white
+1329,Madeleine Pelletreau,female,white
+1330,Janne Odarts,female,white
+1331,Marie Pinard,female,white
+1332,Gertrude van Cortland,female,white
+1333,Francoise Stuckey,female,white
+1334,Sara Valleau,female,white
+1335,Anne Chardon,female,white
+1336,Altuer Blom,male,white
+1337,Janne Couly,female,white
+1338,Sara Bontecou,female,white
+1339,Elisabeth Audebert,female,white
+1340,Marie Anne Bontecou,female,white
+1341,Francoise Barberie,female,white
+1342,Judith Andreau,female,white
+1343,Susanne la Moureux,female,white
+1344,Lydia Leventhorp,female,white
+1345,Susanne Thipine,female,white
+1346,Madeleine Jaullin,female,white
+1347,Marthe Oldfields,female,white
+1348,Elisabeth Gaudineau,female,white
+1349,Charlotte Streing wife of le Mestre,female,white
+1350,Anne David,female,white
+1351,Susanne Poincent,female,white
+1352,Mother of Andre Lauren,female,white
+1353,Judith Archambeau,female,white
+1354,Judith Robineau,female,white
+1355,Catharinne 1 Allaire,female,white
+1356,Catherine Philips,female,white
+1357,Jeanne Montel,female,white
+1358,Susanne Contes,female,white
+1359,Marie Anne Guichard,female,white
+1360,Janne Faucout,female,white
+1361,Janne Droumos,female,white
+1362,Judith Cazals,female,white
+1363,Francoise Chentrier,female,white
+1364,Marie Boudinot,female,white
+1365,Marthe Barreau,female,white
+1366,Catherine Boudinot,female,white
+1367,Susanne Madeleine Basset,female,white
+1368,Francoise Moine,female,white
+1369,Susanne Neau,female,white
+1370,Anne DHariette,female,white
+1371,Debora Felden,female,white
+1372,Abija Hardin,female,white
+1373,Francoise Lambert,female,white
+1374,Marthe Coullon,female,white
+1375,Marthe Audart,female,white
+1376,Ester Darkings,female,white
+1377,wife of Jean Calzez,female,white
+1378,Madeleine Bayeux,female,white
+1379,Elisabeth Mainard,female,white
+1380,Elisabeth Cortland,female,white
+1381,Susanne Bourdet,female,white
+1382,Elisabeth Tillou,female,white
+1383,Susanne Coutain,female,white
+1384,Susanne Girot,female,white
+1385,Marie 1 Garreau,female,white
+1386,Anne Bontecou,female,white
+1387,Susanne Barberie,female,white
+1388,Elisabeth 1 Carre,female,white
+1389,Francoise Parcot,female,white
+1390,Elisabeth Many,female,white
+1391,Anne 1 Many,female,white
+1392,Elisabeth 1 Gaillard,female,white
+1393,Marie Perot,female,white
+1394,Marguerite Morin,female,white
+1395,Marie Moyon,female,white
+1396,Marianne Bodin,female,white
+1397,Marie 1 Pineau,female,white
+1398,Marthe Rambert,female,white
+1399,Elisabeth du Pre,female,white
+1400,Francoise Moore,female,white
+1401,Marie David,female,white
+1402,Marie Bouquet,female,white
+1403,Elisabeth Hubert,female,white
+1404,Marie Garnier,female,white
+1405,Anne Belin,female,white
+1406,Jeanne Couturier,female,white
+1407,Marie Elliston,female,white
+1408,Louise Canche,female,white
+1409,Marianne Mercier,female,white
+1410,Susanne David,female,white
+1411,Marianne le Conte,female,white
+1412,Marie Quintard,female,white
+1413,Catharine Carron,female,white
+1414,Ester Chevalier,female,white
+1415,Marguerite Roberts,female,white
+1416,Jeane Masse,female,white
+1417,Ester Morin,female,white
+1418,Judith Vincent,female,white
+1419,Anne de la Bairte,female,white
+1420,Marie Anne Jouneau,female,white
+1421,Catherine Forraitier,female,white
+1422,Marthe Oldfield,female,white
+1423,Jeanne Tongrelou,female,white
+1424,Abigail Harding,female,white
+1425,Judy Morin,female,white
+1426,Henriette Allaire,female,white
+1427,Silvie Eseres,female,white
+1428,Judith Cantin,female,white
+1429,Judith Marie Moulinars,female,white
+1430,Ester Gougeon,female,white
+1431,Marie Mercier,female,white
+1432,Marie Rulleau,female,white
+1433,Jeane Rival,female,white
+1434,Helene Bodin,female,white
+1435,Marie Anne Morin,female,white
+1436,Elisabeth Audebart,female,white
+1437,Jeanne Renaud,female,white
+1438,Judith Jay,female,white
+1439,Marie Landrin,female,white
+1440,Jeanne Giraud,female,white
+1441,Judith Moulinars,female,white
+1442,Magdeleine Parcot,female,white
+1443,Ester Bonyot,female,white
+1444,Jeane Quintard,female,white
+1445,Margueritte Allaire,female,white
+1446,Anne Dupuy,female,white
+1447,Elisabeth Phenix,female,white
+1448,Margueritte Perdriau Buvelot,female,white
+1449,Anne Bayeux,female,white
+1450,Jeanne Latouch,female,white
+1451,Mariane Ablain,female,white
+1452,Jeane Filladams,female,white
+1453,Susanne Colier,female,white
+1454,Ester Bourdet,female,white
+1455,Jeanne Gougeon,female,white
+1456,Florinde Pintard Spencer,female,white
+1457,Marie Ablain,female,white
+1458,Elisabeth Parcot,female,white
+1459,Catherine Searle,female,white
+1460,Susanne Draguad,female,white
+1461,Elisabeth Marie Basset,female,white
+1462,??? Soumain,unknown,white
+1463,Jeanne Quantin,female,white
+1464,Catherine Carre Pintard,female,white
+1465,Charlotte Faviere,female,white
+1466,Judith Morgat,female,white
+1467,Francoise Applebe,female,white
+1468,Elisabeth 1 Bertran,female,white
+1469,Marie Madeleine,female,white
+1470,Anne Jackson,female,white
+1471,Susanne Dragaud,female,white
+1472,Marie Magdeleine Droilhet,female,white
+1473,Catherine Royal,female,white
+1474,Anne Signac,female,white
+1475,Marthe Perrot,female,white
+1476,Susanne Andries,female,white
+1477,Catherine van Horne,female,white
+1478,Araentje Tappen,female,white
+1479,Francoise Eymar,female,white
+1480,Jeanne Esther Bourdet,female,white
+1481,Madeleine Desbrosses,female,white
+1482,Marie Elisabeth Vergereau,female,white
+1483,Louise Rou,female,white
+1484,Marie Renaud,female,white
+1485,Marie Leddle,female,white
+1486,Elisabeth 2 Garnier,female,white
+1487,Marie Roomen,female,white
+1488,Allete Blagg,female,white
+1489,Jeanne Haynes,female,white
+1490,Susanne 2 Papin,female,white
+1491,Marthe Parcot,female,white
+1492,Adrienne Kiersted,female,white
+1493,Susanne Marshall,female,white
+1494,Elisabeth van Dam,female,white
+1495,Jeanne Garland,female,white
+1496,Rebecca Burger,female,white
+1497,Jean Latouche,male,white
+1498,Marie Linch Egberts,female,white
+1499,Marie 2 Catherine Carre Boudinot,female,white
+1500,Sara Kiersted,female,white
+1501,Mariane Cebe,female,white
+1502,Avje Tillou,female,white
+1503,Anne le Roux,female,white
+1504,Jeanne Moreau,female,white
+1505,Magdeleine Eymar Watkins,female,white
+1506,Esther 2 Vincent,female,white
+1507,Jeanne Demilt,female,white
+1508,Mariane Bricou Carter,female,white
+1509,Judith Pearse,female,white
+1510,Marie Verplank,female,white
+1511,Susanne 2 Vergerau,female,white
+1512,Anne Vezien,female,white
+1513,Judith Hutchison,female,white
+1514,Phila de Lancey,female,white
+1515,Catherine Grogean,female,white
+1516,Blanche Beau,female,white
+1517,Marquize Bontecou,male,white
+1518,Marguerite Salter,female,white
+1519,Anne Mainard,female,white
+1520,Renee Elisabeth Rou,female,white
+1521,Anne Catherine Rossel,female,white
+1522,Jean Chretien Tomelson,male,white
+1523,Elisabeth 2 Gaillard,female,white
+1524,Susanne Gendrat,female,white
+1525,Marie Vallade,female,white
+1526,Marie Elisabeth Collon wid Disleau,female,white
+1527,Marie Vogie,female,white
+1528,Jeanne de Johcourt,female,white
+1529,??? wid Aymar,unknown,white
+1530,Madeleine Trumeau,female,white
+1531,Ester Parcot,female,white
+1532,Marie Elisabeth,female,white
+1533,Marie Catherine Rossel,female,white
+1534,Elisabeth Jabouin,female,white
+1535,Margueritte Dunstar,female,white
+1536,Marie Desbrosses,female,white
+1537,Jeanne Parcot,female,white
+1538,Louise Aymar Jamain,female,white
+1539,Judith 2 Bourdet,female,white
+1540,Lea Galodet,female,white
+1541,Madelaine Parcot,female,white
+1542,Catherine Hastier,female,white
+1543,Denyse Mary Rou,female,white
+1544,Anne Ravau,female,white
+1545,Marie Wilmet,female,white
+1546,Marthe Jandin,female,white
+1547,Susanne Bely,female,white
+1548,Marie 2 Conte,female,white
+1549,Catherine Henry Tiers,female,white
+1550,Dorcas Dobs,female,white
+1551,Elisabeth Vautie,female,white
+1552,Jeanne Angevin,female,white
+1553,Marie 1 Ravau,female,white
+1554,Jeanne Marie,female,white
+1555,Elisabeth 2 Beaudry,female,white
+1556,Anne Catherine Resh,female,white
+1557,Elisabeth Hail,female,white
+1558,Abigail Stockton,female,white
+1559,Abigail Baret,female,white
+1560,Ester Soulis,female,white
+1561,Marie 2 Garreau,female,white
+1562,Marie Disleau,female,white
+1563,Marie Richard,female,white
+1564,Anne Clemence Durand,female,white
+1565,Hester Rou,female,white
+1566,Madeleine Tiers,female,white
+1567,Charlotte Gerome,female,white
+1568,Susanne Bourdet wife of Loou,female,white
+1569,Susanne Beyly wid,female,white
+1570,Marie Gillot,female,white
+1571,Marie des Veaux,female,white
+1572,Anne Dupuy wife of Jacquery,female,white
+1573,Marie Halsop,female,white
+1574,Margueritte Blanchard wife of Dominick,female,white
+1575,Judith Alexander,female,white
+1576,Margueritte Paran,female,white
+1577,Borch Raven,male,white
+1578,Elisabeth 1 Parcot,female,white
+1579,Judith des Veaux,female,white
+1580,Catherine Claret Badeau,female,white
+1581,Jeanne Marie Morel,female,white
+1582,Renee Elisabeth Rou wife of Harrison,female,white
+1583,Catherine 2 Tier,female,white
+1584,Elisabeth Iselen,female,white
+1585,Sara Hardman,female,white
+1586,Elisabeth Low,female,white
+1587,Elisabeth 2 Carre,female,white
+1588,Marie 1 Quintard,female,white
+1589,Margueritte Basset,female,white
+1590,Alida Vermilie,female,white
+1591,Marie Spies,female,white
+1592,Elisabeth 2 Pelletreau,female,white
+1593,Marie Glover,female,white
+1594,Marie Haskell,female,white
+1595,Rachelle Noble,female,white
+1596,Willemeyntie Nack,female,white
+1597,Catherine Loreillard,female,white
+1598,Debora Toulon,female,white
+1599,Joseph Towers,male,white
+1600,Madelaine Lagear,female,white
+1601,Jeanne Margueritte Carty,female,white
+1602,(wife) Blanchard,female,white
+1603,Marie Blanchard,female,white
+1604,Treize Piquet,male,white
+1605,Madeleine Chappelle,female,white
+1606,Treize Girard,male,white
+1607,Elisabeth Smith,female,white
+1608,Jeanne Callin,female,white
+1609,wife of Jacques Pino,female,white
+1610,Anne 2 Many,female,white
+1611,Margueritte Matsson,female,white
+1612,Anne Forman,female,white
+1613,Prudence Labat,female,white
+1614,Catherine McKaty,female,white
+1615,Marie Coulbac,female,white
+1616,Margueritte Morlot,female,white
+1617,Susanne Sabadin,female,white
+1618,Catherine Heroy,female,white
+1619,Marie Curie,female,white
+1620,Elisabeth Sandos,female,white
+1621,Marie Crate,female,white
+1622,Catherine Schlegel,female,white
+1623,Margueritte Christopher,female,white
+1624,Catherine Jean Heur,female,white
+1625,Jeanne Worthman,female,white
+1626,Catherine Banvard,female,white
+1627,Francoise Pierre Chapelle jr,female,white
+1628,Marie 3 Garnier,female,white
+1629,Catherine Forgeaut,female,white
+1630,Marie Magdeleine Tibeaut,female,white
+1631,Ellenor Basset,female,white
+1632,Margueritte Pino,female,white
+1633,??? Doucinet,unknown,white
+1634,Paul 1 Pelletreau,male,white
+1635,Pierre Jansson Melot,male,white
+1636,Capt. Joulin,male,white
+1637,Pierre Odere,male,white
+1638,Jacques Smith,male,white
+1639,Benjamin Burton,male,white
+1640,Luc Kiersted,male,white
+1641,Christophle Kiersted,male,white
+1642,Pierre Hally,male,white
+1643,Marie Paran,female,white
+1644,Elisabeth Plantin,female,white
+1645,Marie 2 Basset,female,white
+1646,Marie de Klyn,female,white
+1647,Ruth Burton,female,white
+1648,Catherine de Meyer,female,white
+1649,Samuel Waldron,male,white
+1650,Margueritte Sandoz,female,white
+1651,Cornelis Vanderburg,male,white
+1652,Catherine 1 Meir,female,white
+1653,Catherine Jandin,female,white
+1654,Francois de Ruine,male,white
