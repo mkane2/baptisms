@@ -2,8 +2,8 @@
 1. Open OCR transcription file in OpenRefine
 2. Split columns by separator if possible
 3. Change column names to date, child, parents, sponsors
-4. Split parents and sponsors using make_columns.json (parents 1 and parents 2, sponsors 1, etc)
-5. Fill down year as necessary
+4. Split parents and sponsors (parents 1 and parents 2, sponsors 1, etc)
+5. Check year for outliers or blanks and fill down year as necessary
 6. Remove blank rows or rows with non-relevant textual information (eg, "page XX", notes on a baptism, etc)
 7. Edit parents and sponsors for punctuation as necessary (including [],;'?)
 8. Split columns using split_columns.json
