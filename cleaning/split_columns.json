@@ -154,5 +154,31 @@
     "newColumnName": "sponsors 2 middle",
     "columnInsertIndex": 4,
     "description": "Create column sponsors 2 middle at index 4 based on column sponsors 2 using expression grel:value.replace(cells[\"sponsors 2 first\"].value,\"\").replace(cells[\"sponsors 2 last\"].value,\"\").trim()"
+  },
+  {
+    "op": "core/column-reorder",
+    "columnNames": [
+      "parents 1",
+      "parents 1 first",
+      "parents 1 middle",
+      "parents 1 last",
+      "parents 2",
+      "parents 2 first",
+      "parents 2 middle",
+      "parents 2 last",
+      "sponsors 1",
+      "sponsors 1 first",
+      "sponsors 1 middle",
+      "sponsors 1 last",
+      "sponsors 2",
+      "sponsors 2 first",
+      "sponsors 2 middle",
+      "sponsors 2 last",
+      "child",
+      "birth",
+      "date",
+      "year"
+    ],
+    "description": "Reorder columns"
   }
 ]
