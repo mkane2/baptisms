@@ -1,4 +1,10 @@
 [
+  {"congregation": "ny-schaghticoke-drc",
+    "name": "Schaghticoke Dutch Reformed",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/ny-schaghticoke-drc/ny-schaghticoke-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude":42.880556,
+   "longitude":-73.609722},
   {"congregation": "la-stmartinville-catholic",
     "name": "St. Martinville Catholic",
    "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/la-stmartinville-catholic/la-stmartinville-catholic_network.json",
