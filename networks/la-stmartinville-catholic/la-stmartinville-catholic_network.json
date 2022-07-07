@@ -4258,9 +4258,9 @@
       "degree_1778": 2,
       "degree_1779": 2,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 0,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Leveille negre libre",
       "race": "white",
       "start": 1765
@@ -4302,7 +4302,7 @@
       "end": 1778,
       "gender": "female",
       "id": 1,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Marie Elore negre libre",
       "race": "white",
       "start": 1765
@@ -4386,7 +4386,7 @@
       "end": 1778,
       "gender": "female",
       "id": 3,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Magdalene Broussard",
       "race": "white",
       "start": 1765
@@ -4428,7 +4428,7 @@
       "end": 1778,
       "gender": "male",
       "id": 4,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Pierre Suret",
       "race": "white",
       "start": 1765
@@ -4470,7 +4470,7 @@
       "end": 1778,
       "gender": "female",
       "id": 5,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Marie Thibadeau",
       "race": "white",
       "start": 1765
@@ -4512,7 +4512,7 @@
       "end": 1778,
       "gender": "male",
       "id": 8,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Jean Baptiste Bergeron",
       "race": "white",
       "start": 1765
@@ -4554,7 +4554,7 @@
       "end": 1778,
       "gender": "female",
       "id": 9,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Catherine Guessi",
       "race": "white",
       "start": 1765
@@ -4596,7 +4596,7 @@
       "end": 1778,
       "gender": "male",
       "id": 10,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Paul Thibadeau",
       "race": "white",
       "start": 1770
@@ -4638,7 +4638,7 @@
       "end": 1778,
       "gender": "female",
       "id": 11,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Rosalie Guillebaut",
       "race": "white",
       "start": 1765
@@ -4702,7 +4702,7 @@
       "between_1778": 0,
       "between_1779": 0,
       "betweenness": 0,
-      "bridge": "male_bridge",
+      "bridge": "female_bridge",
       "degree": 6,
       "degree_1765": 0,
       "degree_1766": 3,
@@ -4720,7 +4720,7 @@
       "degree_1778": 6,
       "degree_1779": 6,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 13,
       "modularity": 4,
       "name": "Ysabelle Thibadeau",
@@ -4764,7 +4764,7 @@
       "end": 1778,
       "gender": "male",
       "id": 14,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Francois Broussard",
       "race": "white",
       "start": 1771
@@ -4804,9 +4804,9 @@
       "degree_1778": 14,
       "degree_1779": 14,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 15,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Pelagie Landry",
       "race": "white",
       "start": 1771
@@ -4932,7 +4932,7 @@
       "end": 1778,
       "gender": "male",
       "id": 18,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Silvain Broussard",
       "race": "white",
       "start": 1771
@@ -4954,7 +4954,7 @@
       "between_1778": 0,
       "between_1779": 0,
       "betweenness": 0,
-      "bridge": "male_bridge",
+      "bridge": "female_bridge",
       "degree": 12,
       "degree_1765": 3,
       "degree_1766": 3,
@@ -4972,9 +4972,9 @@
       "degree_1778": 12,
       "degree_1779": 12,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 19,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Felicite Guillebaut",
       "race": "white",
       "start": 1765
@@ -5100,7 +5100,7 @@
       "end": 1778,
       "gender": "male",
       "id": 22,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Simon LeBlanc",
       "race": "white",
       "start": 1766
@@ -5142,7 +5142,7 @@
       "end": 1778,
       "gender": "female",
       "id": 23,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Marguerite Guillebaut",
       "race": "white",
       "start": 1771
@@ -5184,7 +5184,7 @@
       "end": 1778,
       "gender": "male",
       "id": 24,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Claude Martin",
       "race": "white",
       "start": 1771
@@ -5226,7 +5226,7 @@
       "end": 1778,
       "gender": "female",
       "id": 25,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Marie Babin",
       "race": "white",
       "start": 1771
@@ -5310,7 +5310,7 @@
       "end": 1778,
       "gender": "female",
       "id": 27,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Anne Brun",
       "race": "white",
       "start": 1771
@@ -5352,7 +5352,7 @@
       "end": 1778,
       "gender": "male",
       "id": 28,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Michel Bernard",
       "race": "white",
       "start": 1770
@@ -5394,7 +5394,7 @@
       "end": 1778,
       "gender": "female",
       "id": 29,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Marie Guillebaut",
       "race": "white",
       "start": 1770
@@ -5436,7 +5436,7 @@
       "end": 1778,
       "gender": "male",
       "id": 30,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Antoine Borda",
       "race": "white",
       "start": 1770
@@ -5478,7 +5478,7 @@
       "end": 1778,
       "gender": "female",
       "id": 31,
-      "modularity": 2,
+      "modularity": 4,
       "name": "Marguerite Martin",
       "race": "white",
       "start": 1766
@@ -5520,7 +5520,7 @@
       "end": 1778,
       "gender": "male",
       "id": 32,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Jean Berard",
       "race": "white",
       "start": 1771
@@ -5562,7 +5562,7 @@
       "end": 1778,
       "gender": "female",
       "id": 33,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Anne Broussard",
       "race": "white",
       "start": 1771
@@ -5644,7 +5644,7 @@
       "degree_1778": 9,
       "degree_1779": 9,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 35,
       "modularity": 8,
       "name": "Theotiste Thibadeau",
@@ -5772,7 +5772,7 @@
       "end": 1778,
       "gender": "male",
       "id": 38,
-      "modularity": 9,
+      "modularity": 0,
       "name": "Charles Guillebaut",
       "race": "white",
       "start": 1772
@@ -5814,7 +5814,7 @@
       "end": 1778,
       "gender": "female",
       "id": 39,
-      "modularity": 9,
+      "modularity": 0,
       "name": "Anne Trahan",
       "race": "white",
       "start": 1772
@@ -5856,7 +5856,7 @@
       "end": 1778,
       "gender": "male",
       "id": 40,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Charles Babinaud",
       "race": "white",
       "start": 1772
@@ -5898,7 +5898,7 @@
       "end": 1778,
       "gender": "female",
       "id": 41,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Anne Guillebaut",
       "race": "white",
       "start": 1772
@@ -5940,7 +5940,7 @@
       "end": 1778,
       "gender": "male",
       "id": 42,
-      "modularity": 3,
+      "modularity": 9,
       "name": "Nicolas Prevot",
       "race": "white",
       "start": 1772
@@ -5982,7 +5982,7 @@
       "end": 1778,
       "gender": "female",
       "id": 43,
-      "modularity": 3,
+      "modularity": 9,
       "name": "Marie Francoise Quebedau",
       "race": "white",
       "start": 1772
@@ -6024,7 +6024,7 @@
       "end": 1778,
       "gender": "male",
       "id": 44,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Vincent Barra",
       "race": "white",
       "start": 1772
@@ -6066,7 +6066,7 @@
       "end": 1778,
       "gender": "female",
       "id": 45,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Francoise Labbe",
       "race": "white",
       "start": 1772
@@ -6108,7 +6108,7 @@
       "end": 1778,
       "gender": "male",
       "id": 46,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Jean Baptiste Simar",
       "race": "white",
       "start": 1772
@@ -6150,7 +6150,7 @@
       "end": 1778,
       "gender": "male",
       "id": 47,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Amand Thibadeau",
       "race": "white",
       "start": 1772
@@ -6192,7 +6192,7 @@
       "end": 1778,
       "gender": "female",
       "id": 48,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Gertrude Bourque",
       "race": "white",
       "start": 1772
@@ -6276,7 +6276,7 @@
       "end": 1778,
       "gender": "male",
       "id": 50,
-      "modularity": 2,
+      "modularity": 6,
       "name": "Aman Broussard",
       "race": "white",
       "start": 1770
@@ -6402,7 +6402,7 @@
       "end": 1778,
       "gender": "female",
       "id": 53,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Marguerite Savoy",
       "race": "white",
       "start": 1772
@@ -6484,7 +6484,7 @@
       "degree_1778": 8,
       "degree_1779": 8,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 55,
       "modularity": 7,
       "name": "Ysabelle Broussard",
@@ -6528,7 +6528,7 @@
       "end": 1778,
       "gender": "male",
       "id": 56,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Jean Baptiste Hebert",
       "race": "white",
       "start": 1771
@@ -6550,7 +6550,7 @@
       "between_1778": 0,
       "between_1779": 0,
       "betweenness": 0,
-      "bridge": "male_bridge",
+      "bridge": "female_bridge",
       "degree": 9,
       "degree_1765": 0,
       "degree_1766": 0,
@@ -6568,9 +6568,9 @@
       "degree_1778": 9,
       "degree_1779": 9,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 57,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Theotiste Hebert",
       "race": "white",
       "start": 1771
@@ -6738,7 +6738,7 @@
       "end": 1778,
       "gender": "male",
       "id": 61,
-      "modularity": 6,
+      "modularity": 11,
       "name": "Rene Trahan",
       "race": "white",
       "start": 1765
@@ -6780,7 +6780,7 @@
       "end": 1778,
       "gender": "male",
       "id": 62,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Claude Broussard",
       "race": "white",
       "start": 1771
@@ -6822,7 +6822,7 @@
       "end": 1778,
       "gender": "female",
       "id": 63,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Louise Hebert",
       "race": "white",
       "start": 1773
@@ -6864,7 +6864,7 @@
       "end": 1778,
       "gender": "male",
       "id": 64,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Jean Louis Bonin",
       "race": "white",
       "start": 1773
@@ -6906,7 +6906,7 @@
       "end": 1778,
       "gender": "female",
       "id": 65,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Marguerite Prince",
       "race": "white",
       "start": 1771
@@ -6948,7 +6948,7 @@
       "end": 1778,
       "gender": "male",
       "id": 66,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Pierre Borel",
       "race": "white",
       "start": 1773
@@ -6990,7 +6990,7 @@
       "end": 1778,
       "gender": "female",
       "id": 67,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Catherine Toupard",
       "race": "white",
       "start": 1773
@@ -7032,7 +7032,7 @@
       "end": 1778,
       "gender": "male",
       "id": 68,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Paul Thibaudot",
       "race": "white",
       "start": 1773
@@ -7074,7 +7074,7 @@
       "end": 1778,
       "gender": "male",
       "id": 69,
-      "modularity": 3,
+      "modularity": 9,
       "name": "Pierre Nezat",
       "race": "white",
       "start": 1773
@@ -7116,7 +7116,7 @@
       "end": 1778,
       "gender": "female",
       "id": 70,
-      "modularity": 3,
+      "modularity": 9,
       "name": "Magdalene Prevot",
       "race": "white",
       "start": 1772
@@ -7158,7 +7158,7 @@
       "end": 1778,
       "gender": "male",
       "id": 71,
-      "modularity": 9,
+      "modularity": 3,
       "name": "Charles Duga",
       "race": "white",
       "start": 1773
@@ -7200,7 +7200,7 @@
       "end": 1778,
       "gender": "female",
       "id": 72,
-      "modularity": 9,
+      "modularity": 3,
       "name": "Marguerite Broussard",
       "race": "white",
       "start": 1773
@@ -7242,7 +7242,7 @@
       "end": 1778,
       "gender": "male",
       "id": 73,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Martin Soudrie",
       "race": "white",
       "start": 1773
@@ -7282,9 +7282,9 @@
       "degree_1778": 4,
       "degree_1779": 4,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 74,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Perine Barra",
       "race": "white",
       "start": 1773
@@ -7326,7 +7326,7 @@
       "end": 1778,
       "gender": "male",
       "id": 75,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Joseph Decoux",
       "race": "white",
       "start": 1773
@@ -7368,7 +7368,7 @@
       "end": 1778,
       "gender": "female",
       "id": 76,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Charlotte Julie Labbe",
       "race": "white",
       "start": 1773
@@ -7410,7 +7410,7 @@
       "end": 1778,
       "gender": "female",
       "id": 77,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Marie Francoise Labbe",
       "race": "white",
       "start": 1776
@@ -7452,7 +7452,7 @@
       "end": 1778,
       "gender": "male",
       "id": 78,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Jean Baptiste Berard",
       "race": "white",
       "start": 1773
@@ -7494,7 +7494,7 @@
       "end": 1778,
       "gender": "male",
       "id": 79,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Louis Armand Ducrest",
       "race": "white",
       "start": 1773
@@ -7536,7 +7536,7 @@
       "end": 1778,
       "gender": "female",
       "id": 80,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Jeanne Catherine Wils",
       "race": "white",
       "start": 1773
@@ -7578,7 +7578,7 @@
       "end": 1778,
       "gender": "male",
       "id": 81,
-      "modularity": 6,
+      "modularity": 11,
       "name": "Jacques Fostin",
       "race": "white",
       "start": 1774
@@ -7620,7 +7620,7 @@
       "end": 1778,
       "gender": "female",
       "id": 82,
-      "modularity": 6,
+      "modularity": 11,
       "name": "Francoise Trahan",
       "race": "white",
       "start": 1772
@@ -7660,9 +7660,9 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 83,
-      "modularity": 1,
+      "modularity": 3,
       "name": "HIlaire Doucet",
       "race": "white",
       "start": 1774
@@ -7704,7 +7704,7 @@
       "end": 1778,
       "gender": "female",
       "id": 84,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Anne Landry",
       "race": "white",
       "start": 1771
@@ -7872,7 +7872,7 @@
       "end": 1778,
       "gender": "male",
       "id": 88,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Joseph Pepin Hebert",
       "race": "white",
       "start": 1774
@@ -7914,7 +7914,7 @@
       "end": 1778,
       "gender": "female",
       "id": 89,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Magdalene Trahan",
       "race": "white",
       "start": 1771
@@ -7956,7 +7956,7 @@
       "end": 1778,
       "gender": "male",
       "id": 90,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Francois Guillebaut",
       "race": "white",
       "start": 1771
@@ -7998,7 +7998,7 @@
       "end": 1778,
       "gender": "male",
       "id": 91,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Charles Hebert",
       "race": "white",
       "start": 1771
@@ -8040,7 +8040,7 @@
       "end": 1778,
       "gender": "female",
       "id": 92,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Magdalene Cadet",
       "race": "white",
       "start": 1774
@@ -8080,9 +8080,9 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 93,
-      "modularity": 3,
+      "modularity": 0,
       "name": "father Babinaud",
       "race": "white",
       "start": 1774
@@ -8124,7 +8124,7 @@
       "end": 1778,
       "gender": "male",
       "id": 94,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Philippe Wils",
       "race": "white",
       "start": 1774
@@ -8166,7 +8166,7 @@
       "end": 1778,
       "gender": "female",
       "id": 95,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Marie Roze Dorat",
       "race": "white",
       "start": 1774
@@ -8334,7 +8334,7 @@
       "end": 1778,
       "gender": "male",
       "id": 101,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Firmin Brau",
       "race": "white",
       "start": 1776
@@ -8376,7 +8376,7 @@
       "end": 1778,
       "gender": "female",
       "id": 102,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Marguerite Brau",
       "race": "white",
       "start": 1776
@@ -8502,7 +8502,7 @@
       "end": 1778,
       "gender": "female",
       "id": 105,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Marie Bonin",
       "race": "white",
       "start": 1776
@@ -8544,7 +8544,7 @@
       "end": 1778,
       "gender": "male",
       "id": 106,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Joseph Doucet",
       "race": "white",
       "start": 1776
@@ -8586,7 +8586,7 @@
       "end": 1778,
       "gender": "male",
       "id": 107,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Jean Charles Hebert",
       "race": "white",
       "start": 1772
@@ -8628,7 +8628,7 @@
       "end": 1778,
       "gender": "female",
       "id": 108,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Magdalene Robichaud",
       "race": "white",
       "start": 1772
@@ -8712,7 +8712,7 @@
       "end": 1778,
       "gender": "male",
       "id": 110,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Jean Labbe",
       "race": "white",
       "start": 1772
@@ -8754,7 +8754,7 @@
       "end": 1778,
       "gender": "female",
       "id": 111,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Marie Francoise Barra",
       "race": "white",
       "start": 1773
@@ -8794,9 +8794,9 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 112,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Junee Broussard",
       "race": "white",
       "start": 1776
@@ -8838,7 +8838,7 @@
       "end": 1778,
       "gender": "female",
       "id": 113,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Marie Magdalene Landry",
       "race": "white",
       "start": 1776
@@ -8922,7 +8922,7 @@
       "end": 1778,
       "gender": "male",
       "id": 117,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Joseph Hebert",
       "race": "white",
       "start": 1772
@@ -9006,7 +9006,7 @@
       "end": 1778,
       "gender": "female",
       "id": 119,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Marie Melancon",
       "race": "white",
       "start": 1775
@@ -9048,7 +9048,7 @@
       "end": 1778,
       "gender": "male",
       "id": 120,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Rene LeBlanc",
       "race": "white",
       "start": 1771
@@ -9090,7 +9090,7 @@
       "end": 1778,
       "gender": "female",
       "id": 121,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Marguerite Trahan",
       "race": "white",
       "start": 1770
@@ -9132,7 +9132,7 @@
       "end": 1778,
       "gender": "male",
       "id": 122,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Alexandre de Clouet",
       "race": "white",
       "start": 1773
@@ -9174,7 +9174,7 @@
       "end": 1778,
       "gender": "female",
       "id": 123,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Anne Louise Favrot",
       "race": "white",
       "start": 1777
@@ -9216,7 +9216,7 @@
       "end": 1778,
       "gender": "female",
       "id": 124,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Louise Ducrest",
       "race": "white",
       "start": 1777
@@ -9258,7 +9258,7 @@
       "end": 1778,
       "gender": "female",
       "id": 125,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Anne Catherine Wils",
       "race": "white",
       "start": 1774
@@ -9300,7 +9300,7 @@
       "end": 1778,
       "gender": "female",
       "id": 126,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Marie Dausa",
       "race": "white",
       "start": 1777
@@ -9342,7 +9342,7 @@
       "end": 1778,
       "gender": "male",
       "id": 127,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Jean Hebert",
       "race": "white",
       "start": 1777
@@ -9510,7 +9510,7 @@
       "end": 1778,
       "gender": "female",
       "id": 131,
-      "modularity": 9,
+      "modularity": 0,
       "name": "Marguerite Bourque",
       "race": "white",
       "start": 1778
@@ -9678,7 +9678,7 @@
       "end": 1778,
       "gender": "male",
       "id": 137,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Augustin Bigeau",
       "race": "white",
       "start": 1778
@@ -9720,7 +9720,7 @@
       "end": 1778,
       "gender": "male",
       "id": 138,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Francois DeCuir",
       "race": "white",
       "start": 1773
@@ -9804,7 +9804,7 @@
       "end": 1778,
       "gender": "female",
       "id": 140,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Charlotte Labbe",
       "race": "white",
       "start": 1778
@@ -9846,7 +9846,7 @@
       "end": 1778,
       "gender": "female",
       "id": 141,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Louise Favrot",
       "race": "white",
       "start": 1778
@@ -9930,7 +9930,7 @@
       "end": 1778,
       "gender": "male",
       "id": 143,
-      "modularity": 9,
+      "modularity": 3,
       "name": "Athanase Trahan",
       "race": "white",
       "start": 1778
@@ -9972,7 +9972,7 @@
       "end": 1778,
       "gender": "female",
       "id": 144,
-      "modularity": 9,
+      "modularity": 3,
       "name": "Magdalene Thibadeau",
       "race": "white",
       "start": 1771
@@ -10182,7 +10182,7 @@
       "end": 1778,
       "gender": "female",
       "id": 149,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Francoise Hebert",
       "race": "white",
       "start": 1778
@@ -10224,7 +10224,7 @@
       "end": 1778,
       "gender": "male",
       "id": 150,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Jean Henry",
       "race": "white",
       "start": 1778
@@ -10266,7 +10266,7 @@
       "end": 1778,
       "gender": "female",
       "id": 151,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Marguerite Nope",
       "race": "white",
       "start": 1778
@@ -10308,7 +10308,7 @@
       "end": 1778,
       "gender": "male",
       "id": 152,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Andre Masse",
       "race": "white",
       "start": 1765
@@ -10350,7 +10350,7 @@
       "end": 1778,
       "gender": "male",
       "id": 153,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Augustin Grevember",
       "race": "white",
       "start": 1765
@@ -10390,9 +10390,9 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 155,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Crevember Grevember",
       "race": "white",
       "start": 1765
@@ -10434,7 +10434,7 @@
       "end": 1778,
       "gender": "male",
       "id": 156,
-      "modularity": 9,
+      "modularity": 3,
       "name": "Pierre Jean Berard",
       "race": "white",
       "start": 1771
@@ -10476,7 +10476,7 @@
       "end": 1778,
       "gender": "male",
       "id": 157,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Jean Baptiste Grevember",
       "race": "white",
       "start": 1770
@@ -10518,7 +10518,7 @@
       "end": 1778,
       "gender": "male",
       "id": 158,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Pierre Berard",
       "race": "white",
       "start": 1771
@@ -10560,7 +10560,7 @@
       "end": 1778,
       "gender": "male",
       "id": 159,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Jacques Sorel",
       "race": "white",
       "start": 1770
@@ -10602,7 +10602,7 @@
       "end": 1778,
       "gender": "male",
       "id": 160,
-      "modularity": 8,
+      "modularity": 11,
       "name": "Francois Grevember",
       "race": "white",
       "start": 1770
@@ -10644,7 +10644,7 @@
       "end": 1778,
       "gender": "male",
       "id": 161,
-      "modularity": 3,
+      "modularity": 9,
       "name": "Jean Baptiste Monpierre",
       "race": "white",
       "start": 1772
@@ -10686,7 +10686,7 @@
       "end": 1778,
       "gender": "male",
       "id": 162,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Jean Baptiste Barra",
       "race": "white",
       "start": 1772
@@ -10728,7 +10728,7 @@
       "end": 1778,
       "gender": "male",
       "id": 163,
-      "modularity": 2,
+      "modularity": 3,
       "name": "Michel Doucet",
       "race": "white",
       "start": 1771
@@ -10812,7 +10812,7 @@
       "end": 1778,
       "gender": "male",
       "id": 165,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Paul Bonin",
       "race": "white",
       "start": 1772
@@ -10854,7 +10854,7 @@
       "end": 1778,
       "gender": "male",
       "id": 166,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Louis Grevember",
       "race": "white",
       "start": 1772
@@ -10980,7 +10980,7 @@
       "end": 1778,
       "gender": "male",
       "id": 169,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Jean Louis Wils",
       "race": "white",
       "start": 1772
@@ -11106,7 +11106,7 @@
       "end": 1778,
       "gender": "male",
       "id": 172,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Jean Baptiste Brau",
       "race": "white",
       "start": 1773
@@ -11190,7 +11190,7 @@
       "end": 1778,
       "gender": "male",
       "id": 174,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Antoine Bonin",
       "race": "white",
       "start": 1773
@@ -11232,7 +11232,7 @@
       "end": 1778,
       "gender": "male",
       "id": 175,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Jean Guillebaut",
       "race": "white",
       "start": 1773
@@ -11358,7 +11358,7 @@
       "end": 1778,
       "gender": "male",
       "id": 178,
-      "modularity": 9,
+      "modularity": 3,
       "name": "Germain Trahan",
       "race": "white",
       "start": 1773
@@ -11400,7 +11400,7 @@
       "end": 1778,
       "gender": "male",
       "id": 179,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Francois Ozenne",
       "race": "white",
       "start": 1773
@@ -11442,7 +11442,7 @@
       "end": 1778,
       "gender": "male",
       "id": 180,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Joseph Babin",
       "race": "white",
       "start": 1773
@@ -11484,7 +11484,7 @@
       "end": 1778,
       "gender": "male",
       "id": 181,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Theodore Thibadeau",
       "race": "white",
       "start": 1774
@@ -11526,7 +11526,7 @@
       "end": 1778,
       "gender": "male",
       "id": 182,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Jean Doucet",
       "race": "white",
       "start": 1774
@@ -11568,7 +11568,7 @@
       "end": 1778,
       "gender": "male",
       "id": 183,
-      "modularity": 5,
+      "modularity": 6,
       "name": "Michel Trahan",
       "race": "white",
       "start": 1774
@@ -11608,7 +11608,7 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 184,
       "modularity": 6,
       "name": "Frem . Robichaud",
@@ -11650,9 +11650,9 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 185,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Come LeBlanc",
       "race": "white",
       "start": 1774
@@ -11694,7 +11694,7 @@
       "end": 1778,
       "gender": "male",
       "id": 186,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Charles Dominique Babinaud",
       "race": "white",
       "start": 1774
@@ -11736,7 +11736,7 @@
       "end": 1778,
       "gender": "male",
       "id": 187,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Baptiste Colette",
       "race": "white",
       "start": 1774
@@ -11778,7 +11778,7 @@
       "end": 1778,
       "gender": "male",
       "id": 188,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Joseph Wils",
       "race": "white",
       "start": 1774
@@ -11862,7 +11862,7 @@
       "end": 1778,
       "gender": "male",
       "id": 190,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Antoine Blanc",
       "race": "white",
       "start": 1774
@@ -11904,7 +11904,7 @@
       "end": 1778,
       "gender": "male",
       "id": 192,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Armand Brau",
       "race": "white",
       "start": 1776
@@ -11946,7 +11946,7 @@
       "end": 1778,
       "gender": "male",
       "id": 193,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Francois Prevot",
       "race": "white",
       "start": 1776
@@ -11988,7 +11988,7 @@
       "end": 1778,
       "gender": "male",
       "id": 194,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Sieur le Dee",
       "race": "white",
       "start": 1776
@@ -12030,7 +12030,7 @@
       "end": 1778,
       "gender": "male",
       "id": 195,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Bonaventure Martin",
       "race": "white",
       "start": 1776
@@ -12072,7 +12072,7 @@
       "end": 1778,
       "gender": "male",
       "id": 196,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Antoine Cesar Boutet",
       "race": "white",
       "start": 1776
@@ -12114,7 +12114,7 @@
       "end": 1778,
       "gender": "male",
       "id": 197,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Pierre Doucet",
       "race": "white",
       "start": 1776
@@ -12156,7 +12156,7 @@
       "end": 1778,
       "gender": "male",
       "id": 198,
-      "modularity": 6,
+      "modularity": 11,
       "name": "Stanislas Trahan",
       "race": "white",
       "start": 1776
@@ -12198,7 +12198,7 @@
       "end": 1778,
       "gender": "male",
       "id": 199,
-      "modularity": 9,
+      "modularity": 3,
       "name": "Louis Leuron",
       "race": "white",
       "start": 1776
@@ -12238,9 +12238,9 @@
       "degree_1778": 5,
       "degree_1779": 5,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 200,
-      "modularity": 9,
+      "modularity": 5,
       "name": "Junee LeBlanc",
       "race": "white",
       "start": 1774
@@ -12282,7 +12282,7 @@
       "end": 1778,
       "gender": "male",
       "id": 201,
-      "modularity": 9,
+      "modularity": 11,
       "name": "Joseph Landry",
       "race": "white",
       "start": 1776
@@ -12324,7 +12324,7 @@
       "end": 1778,
       "gender": "male",
       "id": 202,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Philippe Boutet",
       "race": "white",
       "start": 1775
@@ -12366,7 +12366,7 @@
       "end": 1778,
       "gender": "male",
       "id": 204,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Jean Boudreaux",
       "race": "white",
       "start": 1776
@@ -12492,7 +12492,7 @@
       "end": 1778,
       "gender": "male",
       "id": 207,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Leon Francois le Dee",
       "race": "white",
       "start": 1777
@@ -12534,7 +12534,7 @@
       "end": 1778,
       "gender": "male",
       "id": 208,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Laurens Ducrest",
       "race": "white",
       "start": 1777
@@ -12576,7 +12576,7 @@
       "end": 1778,
       "gender": "male",
       "id": 209,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Mathurin Hebert",
       "race": "white",
       "start": 1777
@@ -12744,7 +12744,7 @@
       "end": 1778,
       "gender": "male",
       "id": 213,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Joseph Prince",
       "race": "white",
       "start": 1777
@@ -12786,7 +12786,7 @@
       "end": 1778,
       "gender": "male",
       "id": 214,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Ange Bourque",
       "race": "white",
       "start": 1778
@@ -12912,7 +12912,7 @@
       "end": 1778,
       "gender": "male",
       "id": 218,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Martin Por",
       "race": "white",
       "start": 1778
@@ -12954,7 +12954,7 @@
       "end": 1778,
       "gender": "male",
       "id": 221,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Joseph Favrot",
       "race": "white",
       "start": 1778
@@ -13038,7 +13038,7 @@
       "end": 1778,
       "gender": "male",
       "id": 223,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Antoine Barra",
       "race": "white",
       "start": 1778
@@ -13080,7 +13080,7 @@
       "end": 1778,
       "gender": "female",
       "id": 224,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Catherine Thibadeau",
       "race": "white",
       "start": 1765
@@ -13164,7 +13164,7 @@
       "end": 1778,
       "gender": "female",
       "id": 227,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Jeanne Julie Ozenne",
       "race": "white",
       "start": 1772
@@ -13206,7 +13206,7 @@
       "end": 1778,
       "gender": "female",
       "id": 228,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Genevieve Bonin",
       "race": "white",
       "start": 1772
@@ -13288,7 +13288,7 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "female",
       "id": 230,
       "modularity": 7,
       "name": "Marraine Ysabelle Broussard",
@@ -13458,7 +13458,7 @@
       "end": 1778,
       "gender": "female",
       "id": 234,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Genevieve Robichaud",
       "race": "white",
       "start": 1773
@@ -13500,7 +13500,7 @@
       "end": 1778,
       "gender": "female",
       "id": 235,
-      "modularity": 6,
+      "modularity": 10,
       "name": "Magdalene Bonin",
       "race": "white",
       "start": 1773
@@ -13540,9 +13540,9 @@
       "degree_1778": 3,
       "degree_1779": 3,
       "end": 1778,
-      "gender": "unknown",
+      "gender": "male",
       "id": 236,
-      "modularity": 8,
+      "modularity": 2,
       "name": "Silesie Francoise de Vaugine",
       "race": "white",
       "start": 1773
@@ -13584,7 +13584,7 @@
       "end": 1778,
       "gender": "female",
       "id": 237,
-      "modularity": 0,
+      "modularity": 8,
       "name": "Julie Ozenne",
       "race": "white",
       "start": 1773
@@ -13626,7 +13626,7 @@
       "end": 1778,
       "gender": "female",
       "id": 238,
-      "modularity": 3,
+      "modularity": 9,
       "name": "Elizabeth Ozenne",
       "race": "white",
       "start": 1773
@@ -13668,7 +13668,7 @@
       "end": 1778,
       "gender": "female",
       "id": 239,
-      "modularity": 0,
+      "modularity": 1,
       "name": "Marie Phillippe Ducrest",
       "race": "white",
       "start": 1773
@@ -13710,7 +13710,7 @@
       "end": 1778,
       "gender": "female",
       "id": 240,
-      "modularity": 6,
+      "modularity": 11,
       "name": "Anne Vincent",
       "race": "white",
       "start": 1774
@@ -13794,7 +13794,7 @@
       "end": 1778,
       "gender": "female",
       "id": 242,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Marie Ducrest",
       "race": "white",
       "start": 1774
@@ -13878,7 +13878,7 @@
       "end": 1778,
       "gender": "female",
       "id": 244,
-      "modularity": 9,
+      "modularity": 10,
       "name": "Magdalene Bourque",
       "race": "white",
       "start": 1774
@@ -13920,7 +13920,7 @@
       "end": 1778,
       "gender": "female",
       "id": 245,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Magdalene Guillebaut",
       "race": "white",
       "start": 1774
@@ -13962,7 +13962,7 @@
       "end": 1778,
       "gender": "female",
       "id": 247,
-      "modularity": 2,
+      "modularity": 5,
       "name": "Madame de Clouet",
       "race": "white",
       "start": 1776
@@ -14004,7 +14004,7 @@
       "end": 1778,
       "gender": "female",
       "id": 248,
-      "modularity": 1,
+      "modularity": 3,
       "name": "Julie Martin",
       "race": "white",
       "start": 1776
@@ -14130,7 +14130,7 @@
       "end": 1778,
       "gender": "female",
       "id": 251,
-      "modularity": 6,
+      "modularity": 11,
       "name": "Marie Fostin",
       "race": "white",
       "start": 1776
@@ -14214,7 +14214,7 @@
       "end": 1778,
       "gender": "female",
       "id": 254,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Esther LeBlanc",
       "race": "white",
       "start": 1776
@@ -14256,7 +14256,7 @@
       "end": 1778,
       "gender": "female",
       "id": 255,
-      "modularity": 5,
+      "modularity": 0,
       "name": "Anne Michel",
       "race": "white",
       "start": 1770
@@ -14298,7 +14298,7 @@
       "end": 1778,
       "gender": "female",
       "id": 256,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Helene Soileau",
       "race": "white",
       "start": 1772
@@ -14340,7 +14340,7 @@
       "end": 1778,
       "gender": "male",
       "id": 257,
-      "modularity": 3,
+      "modularity": 0,
       "name": "Gabriel Fuselier",
       "race": "white",
       "start": 1772

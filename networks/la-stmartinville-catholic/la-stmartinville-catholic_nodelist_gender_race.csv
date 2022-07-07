@@ -1,5 +1,5 @@
 id,name,gender,race
-0,Leveille negre libre,unknown,white
+0,Leveille negre libre,female,white
 1,Marie Elore negre libre,female,white
 2,Olivier Thibadeau,male,white
 3,Magdalene Broussard,female,white
@@ -12,13 +12,13 @@ id,name,gender,race
 10,Paul Thibadeau,male,white
 11,Rosalie Guillebaut,female,white
 12,Charles Pelerin,male,white
-13,Ysabelle Thibadeau,unknown,white
+13,Ysabelle Thibadeau,female,white
 14,Francois Broussard,male,white
-15,Pelagie Landry,unknown,white
+15,Pelagie Landry,female,white
 16,Simon Broussard,male,white
 17,Marguerite Blanchard,female,white
 18,Silvain Broussard,male,white
-19,Felicite Guillebaut,unknown,white
+19,Felicite Guillebaut,female,white
 20,Jean Duga,male,white
 21,Marguerite Dupuy,female,white
 22,Simon LeBlanc,male,white
@@ -34,7 +34,7 @@ id,name,gender,race
 32,Jean Berard,male,white
 33,Anne Broussard,female,white
 34,Firmin Landry,male,white
-35,Theotiste Thibadeau,unknown,white
+35,Theotiste Thibadeau,female,white
 36,Jean Baptiste Labauve,male,white
 37,Francoise Broussard,female,white
 38,Charles Guillebaut,male,white
@@ -54,9 +54,9 @@ id,name,gender,race
 52,Joseph Broussard,male,white
 53,Marguerite Savoy,female,white
 54,Michel Maux,male,white
-55,Ysabelle Broussard,unknown,white
+55,Ysabelle Broussard,female,white
 56,Jean Baptiste Hebert,male,white
-57,Theotiste Hebert,unknown,white
+57,Theotiste Hebert,female,white
 58,Gregoire Pelerin,male,white
 59,Cecille Prejean,female,white
 60,Joseph Martin,male,white
@@ -73,7 +73,7 @@ id,name,gender,race
 71,Charles Duga,male,white
 72,Marguerite Broussard,female,white
 73,Martin Soudrie,male,white
-74,Perine Barra,unknown,white
+74,Perine Barra,female,white
 75,Joseph Decoux,male,white
 76,Charlotte Julie Labbe,female,white
 77,Marie Francoise Labbe,female,white
@@ -82,7 +82,7 @@ id,name,gender,race
 80,Jeanne Catherine Wils,female,white
 81,Jacques Fostin,male,white
 82,Francoise Trahan,female,white
-83,HIlaire Doucet,unknown,white
+83,HIlaire Doucet,male,white
 84,Anne Landry,female,white
 85,Paul Trahan,male,white
 86,Marie Dugon,female,white
@@ -92,7 +92,7 @@ id,name,gender,race
 90,Francois Guillebaut,male,white
 91,Charles Hebert,male,white
 92,Magdalene Cadet,female,white
-93,father Babinaud,unknown,white
+93,father Babinaud,male,white
 94,Philippe Wils,male,white
 95,Marie Roze Dorat,female,white
 96,Pierre Duga,male,white
@@ -111,7 +111,7 @@ id,name,gender,race
 109,Marie Ruhon,female,white
 110,Jean Labbe,male,white
 111,Marie Francoise Barra,female,white
-112,Junee Broussard,unknown,white
+112,Junee Broussard,male,white
 113,Marie Magdalene Landry,female,white
 114,Joseph De Roan,male,white
 115,Genevieve Hebert,female,white
@@ -154,7 +154,7 @@ id,name,gender,race
 152,Andre Masse,male,white
 153,Augustin Grevember,male,white
 154,Ambroise Martin,male,white
-155,Crevember Grevember,unknown,white
+155,Crevember Grevember,male,white
 156,Pierre Jean Berard,male,white
 157,Jean Baptiste Grevember,male,white
 158,Pierre Berard,male,white
@@ -183,8 +183,8 @@ id,name,gender,race
 181,Theodore Thibadeau,male,white
 182,Jean Doucet,male,white
 183,Michel Trahan,male,white
-184,Frem . Robichaud,unknown,white
-185,Come LeBlanc,unknown,white
+184,Frem . Robichaud,male,white
+185,Come LeBlanc,male,white
 186,Charles Dominique Babinaud,male,white
 187,Baptiste Colette,male,white
 188,Joseph Wils,male,white
@@ -199,7 +199,7 @@ id,name,gender,race
 197,Pierre Doucet,male,white
 198,Stanislas Trahan,male,white
 199,Louis Leuron,male,white
-200,Junee LeBlanc,unknown,white
+200,Junee LeBlanc,male,white
 201,Joseph Landry,male,white
 202,Philippe Boutet,male,white
 203,Baptiste Lalande,male,white
@@ -229,13 +229,13 @@ id,name,gender,race
 227,Jeanne Julie Ozenne,female,white
 228,Genevieve Bonin,female,white
 229,Magdalene Landry,female,white
-230,Marraine Ysabelle Broussard,unknown,white
+230,Marraine Ysabelle Broussard,female,white
 231,Thomas Alkem,male,white
 232,Sieur Ozenne,male,white
 233,Francoise Pelagie de Vaugine,female,white
 234,Genevieve Robichaud,female,white
 235,Magdalene Bonin,female,white
-236,Silesie Francoise de Vaugine,unknown,white
+236,Silesie Francoise de Vaugine,male,white
 237,Julie Ozenne,female,white
 238,Elizabeth Ozenne,female,white
 239,Marie Phillippe Ducrest,female,white
@@ -245,7 +245,7 @@ id,name,gender,race
 243,Magdalene Fuselier,female,white
 244,Magdalene Bourque,female,white
 245,Magdalene Guillebaut,female,white
-246,Perpetue Brau,unknown,white
+246,Perpetue Brau,female,white
 247,Madame de Clouet,female,white
 248,Julie Martin,female,white
 249,Emilie Pelerin,female,white
