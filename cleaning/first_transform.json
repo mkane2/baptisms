@@ -24038,7 +24038,6 @@
                 },
                 {
                   "from": [
-                    "Hendrika",
                     "Henderck"
                   ],
                   "fromBlank": false,
@@ -27935,6 +27934,186 @@
                   "fromBlank": false,
                   "fromError": false,
                   "to": "Johannes"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Hellehontie"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Hellegontie"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Hellena"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Helena"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Hendrickye"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Hendrickie"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Henderikye"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Hendrickie"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Henderickye"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Hendrickie"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Huldah"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Hulda"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Jacobia"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Jacoba"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Maika"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Mayke"
+                }
+              ],
+              "description": "Mass edit cells in column sponsors 2 first"
+            },
+            {
+              "op": "core/mass-edit",
+              "engineConfig": {
+                "facets": [],
+                "mode": "row-based"
+              },
+              "columnName": "sponsors 2 first",
+              "expression": "value",
+              "edits": [
+                {
+                  "from": [
+                    "Salla"
+                  ],
+                  "fromBlank": false,
+                  "fromError": false,
+                  "to": "Sally"
                 }
               ],
               "description": "Mass edit cells in column sponsors 2 first"
