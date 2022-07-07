@@ -8,3 +8,4 @@
 - Concat density files to make overtime.csv and get list of all nodes: https://colab.research.google.com/drive/15UnG9PGVVM-hfHTv1NpX4WZE-zdQc7Kj?usp=sharing
 - Check for nodes with 50+ years in network: https://colab.research.google.com/drive/1WaXkbZXyKsxGnA5u9FJYI3AJ3k7LbyNC?usp=sharing
 - Reprocess transcriptions_clean if necessary
+- Count modularity class members: https://colab.research.google.com/drive/1kCeQvkUkQlOSHxNl53-Xn9yALGC983TX?usp=sharing
