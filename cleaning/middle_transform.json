@@ -2486,5 +2486,7468 @@
       }
     ],
     "description": "Mass edit cells in column sponsors 2 middle"
-  }
-]
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "grel:value.replace(/^sz/,\"\").replace(/^szen/,\"\").trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column sponsors 1 middle using expression grel:value.replace(/^sz/,\"\").replace(/^szen/,\"\").trim()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "de",
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      },
+      {
+        "from": [
+          "Van",
+          "van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Micheal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      },
+      {
+        "from": [
+          "Barentz",
+          "Baretnz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentz"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Samuels",
+          "Samuelz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Samuels"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Michel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "______"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ven"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Vander"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van der"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "’Jeems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van Den",
+          "Van den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Du",
+          "du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Du"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Gerrison van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      },
+      {
+        "from": [
+          "Petist De",
+          "petist de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Baptist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Goerisson Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jurri",
+          "Jurry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurri"
+      },
+      {
+        "from": [
+          "van den",
+          "von den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Batist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hend."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(Garret?) V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "sponsors 1 middle",
+          "expression": "value",
+          "columnName": "sponsors 1 middle",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "V.",
+                "l": "V."
+              }
+            },
+            {
+              "v": {
+                "v": "Du",
+                "l": "Du"
+              }
+            },
+            {
+              "v": {
+                "v": "",
+                "l": "(Garret?) V."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mc"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ten",
+          "Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ten"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Christ:"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Christiaan"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jr G. Jr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jr G."
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Louwrensz s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louwrensz"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lowz s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lowz"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ls"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "se"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "�us"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mc"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ten",
+          "Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ten"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Angola A",
+          "Van Angola a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Angola a"
+      },
+      {
+        "from": [
+          "Portugies A",
+          "Portugies a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Portugies a"
+      },
+      {
+        "from": [
+          "Van Der",
+          "Van der"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Der"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pieterszen",
+          "Pieter szen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterszen"
+      },
+      {
+        "from": [
+          "Uit Den",
+          "Uitden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Uytden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Van De",
+          "Vande"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van De"
+      },
+      {
+        "from": [
+          "van den",
+          "Vanden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Van Gelder",
+          "Vangelder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Gelder"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gerretz",
+          "Gerrtz",
+          "Gertz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretz"
+      },
+      {
+        "from": [
+          "Corneliszen",
+          "Cornelisz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corneliszen"
+      },
+      {
+        "from": [
+          "Janszen Van",
+          "Janszen Van  En"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janszen Van"
+      },
+      {
+        "from": [
+          "Jilleszen",
+          "Jilliszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jilleszen"
+      },
+      {
+        "from": [
+          "Claase",
+          "Clase"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claase"
+      },
+      {
+        "from": [
+          "Jonathansz",
+          "Jonathsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathansz"
+      },
+      {
+        "from": [
+          "Pieterszen Van",
+          "Pietersz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterszen Van"
+      },
+      {
+        "from": [
+          "Janszen De",
+          "Jansz De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janszen De"
+      },
+      {
+        "from": [
+          "Stephenszen Van",
+          "Stephensz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephenszen Van"
+      },
+      {
+        "from": [
+          "Pra",
+          "Praa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Praa"
+      },
+      {
+        "from": [
+          "Andries",
+          "Andreis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andries"
+      },
+      {
+        "from": [
+          "Frederick",
+          "Fredrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick"
+      },
+      {
+        "from": [
+          "Barentszen",
+          "Barentsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentszen"
+      },
+      {
+        "from": [
+          "Adriaenszen",
+          "Andriaenszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adriaenszen"
+      },
+      {
+        "from": [
+          "Wesselszen Ten",
+          "Wesselsz Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wesselszen Ten"
+      },
+      {
+        "from": [
+          "Claes Van",
+          "Clase Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claes Van"
+      },
+      {
+        "from": [
+          "Theunisz De",
+          "Theuniszen De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Theuniszen De"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "szen",
+          "zen",
+          "son",
+          "sen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      },
+      {
+        "from": [
+          "Jansz Van",
+          "Janse Van",
+          "Jans Van",
+          "Janz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz Van"
+      },
+      {
+        "from": [
+          "Arentsz",
+          "Arence",
+          "Arentse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arentsz"
+      },
+      {
+        "from": [
+          "Gerretz",
+          "Gerretse",
+          "Gerritz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretse"
+      },
+      {
+        "from": [
+          "Franse Van",
+          "Fransz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franse Van"
+      },
+      {
+        "from": [
+          "Jurg",
+          "Jurgh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurgh"
+      },
+      {
+        "from": [
+          "Jr De",
+          "Jr Du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jr De"
+      },
+      {
+        "from": [
+          "Bordet",
+          "Bourdet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bourdet"
+      },
+      {
+        "from": [
+          "Dircksz",
+          "Dirkse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dircksz"
+      },
+      {
+        "from": [
+          "Jonathz",
+          "Jonthsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathz"
+      },
+      {
+        "from": [
+          "Coenradus",
+          "Conradus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conradus"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Michielsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      },
+      {
+        "from": [
+          "Isaacsen Van",
+          "Isaacszen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaacsen Van"
+      },
+      {
+        "from": [
+          "Thyssen",
+          "Thyszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thyssen"
+      },
+      {
+        "from": [
+          "Gilbertsz",
+          "Gilbertz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gilbertsz"
+      },
+      {
+        "from": [
+          "Lucasz  A",
+          "Luykasse A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lucasz  A"
+      },
+      {
+        "from": [
+          "Coenraad",
+          "Coenraat"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Hendrik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      },
+      {
+        "from": [
+          "Willemsz",
+          "Willemse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemsz"
+      },
+      {
+        "from": [
+          "Cornelis Van",
+          "Cornelusse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis Van"
+      },
+      {
+        "from": [
+          "Hendrickse",
+          "Henderikse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Frederick",
+          "Fredrik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick"
+      },
+      {
+        "from": [
+          "Marius",
+          "Morris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marius"
+      },
+      {
+        "from": [
+          "Gerretse Van Den",
+          "Gerritse Van Den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretse Van Den"
+      },
+      {
+        "from": [
+          "szen De",
+          "zen De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De"
+      },
+      {
+        "from": [
+          "Gerritszen",
+          "Gerrtszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritszen"
+      },
+      {
+        "from": [
+          "Willem",
+          "William"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "William"
+      },
+      {
+        "from": [
+          "Cornelis",
+          "Cornelusse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis"
+      },
+      {
+        "from": [
+          "Arentsz De",
+          "Arentse De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arentsz De"
+      },
+      {
+        "from": [
+          "Portugies a",
+          "Portuges a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Portugies a"
+      },
+      {
+        "from": [
+          "Sanders",
+          "Saunders"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sanders"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Wit Den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jorisz Van",
+          "Joris Van",
+          "Jorisse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jorisz Van"
+      },
+      {
+        "from": [
+          "Gertz Van",
+          "Gerrits Van",
+          "Gerrz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrits Van"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Uit Uen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Gerritszen",
+          "Geurtszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritszen"
+      },
+      {
+        "from": [
+          "Isaac",
+          "Isaacsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaac"
+      },
+      {
+        "from": [
+          "Dirckszen Van",
+          "Dircxzen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckszen Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jurri",
+          "Jurrich"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurri"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albertszen",
+          "Aldertszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albertszen"
+      },
+      {
+        "from": [
+          "Jacobsz",
+          "Jacobse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobsz"
+      },
+      {
+        "from": [
+          "Pietersz",
+          "Pieterse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "Pieter",
+          "Pieterz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "Huygen De",
+          "Huygens De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huygen De"
+      },
+      {
+        "from": [
+          "Schoute",
+          "Schouten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schoute"
+      },
+      {
+        "from": [
+          "Adriaenszen",
+          "Ariaenszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adriaenszen"
+      },
+      {
+        "from": [
+          "Pietersz",
+          "Pieterz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Evertszen",
+          "Evertsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evertszen"
+      },
+      {
+        "from": [
+          "Dirckszen",
+          "Dircksz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckszen"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Michiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      },
+      {
+        "from": [
+          "Hendrickse",
+          "Hendrickszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Jacobszen De",
+          "Jacobsz De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobszen De"
+      },
+      {
+        "from": [
+          "Glaudisz Van",
+          "Glondisz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glaudisz Van"
+      },
+      {
+        "from": [
+          "Conradus",
+          "Conrad"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Jacobszen",
+          "Jacobsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobszen"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Hendrickse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Willemszen Van",
+          "Willemse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemszen Van"
+      },
+      {
+        "from": [
+          "Adamszen",
+          "Adamsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adamszen"
+      },
+      {
+        "from": [
+          "Albertszen De",
+          "Albertse De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albertszen De"
+      },
+      {
+        "from": [
+          "Jilleszen",
+          "Jillesz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jilleszen"
+      },
+      {
+        "from": [
+          "Philip",
+          "Philipse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philipse"
+      },
+      {
+        "from": [
+          "Jonathansz",
+          "Jonathan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathansz"
+      },
+      {
+        "from": [
+          "Thomasz",
+          "Thomaszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomaszen"
+      },
+      {
+        "from": [
+          "Willemsz",
+          "Willemszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemszen"
+      },
+      {
+        "from": [
+          "Hendrickse Van",
+          "Hendrick Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Barentszen",
+          "Barentz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentszen"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "???"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "????"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "a"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Der",
+          "Van  Der"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Der"
+      },
+      {
+        "from": [
+          "Van",
+          "Van Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Anna",
+          "Ann"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anna"
+      },
+      {
+        "from": [
+          "Andries Van",
+          "Adriaensen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andries Van"
+      },
+      {
+        "from": [
+          "Magdalena",
+          "Magdelane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Magdalena"
+      },
+      {
+        "from": [
+          "Theunis",
+          "Theunisse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Theunis"
+      },
+      {
+        "from": [
+          "Margreta",
+          "Margareta"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Bikker a",
+          "Biker a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Catharina",
+          "Cathrina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      },
+      {
+        "from": [
+          "Gerrets",
+          "Gerretse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrets"
+      },
+      {
+        "from": [
+          "Margrita",
+          "Margarita"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Philippina",
+          "Philebene",
+          "Philepina",
+          "Philibina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philippina"
+      },
+      {
+        "from": [
+          "Catrina",
+          "Catrien",
+          "Katryn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catrina"
+      },
+      {
+        "from": [
+          "Doritha",
+          "Dorithea",
+          "Dorothy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dorothea"
+      },
+      {
+        "from": [
+          "Uyten",
+          "Outen",
+          "Uuitden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt den"
+      },
+      {
+        "from": [
+          "Maria",
+          "Mary",
+          "Marie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Bikker a",
+          "Bicker",
+          "Bicker a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Hendricks",
+          "Hendrix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendricks"
+      },
+      {
+        "from": [
+          "Anna",
+          "Anne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anna"
+      },
+      {
+        "from": [
+          "Elisabet",
+          "Elizabet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Ryt a",
+          "Wryt a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wryt a"
+      },
+      {
+        "from": [
+          "Bickers a",
+          "Bikkers A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Margarita",
+          "Margriet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Der",
+          "Ter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Der"
+      },
+      {
+        "from": [
+          "Jansz Van",
+          "Jans, Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz Van"
+      },
+      {
+        "from": [
+          "Barbara",
+          "Barbera"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barbara"
+      },
+      {
+        "from": [
+          "Maurits",
+          "Mauritz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maurits"
+      },
+      {
+        "from": [
+          "Cornelis",
+          "Cornelus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis"
+      },
+      {
+        "from": [
+          "Elizabeth",
+          "Elisabeth"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Gerrets",
+          "Gerrits"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrets"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Louwerens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      },
+      {
+        "from": [
+          "Thomas",
+          "Thomasse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomas"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Uyt Den",
+          "Uyt den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Frans",
+          "Franse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franse"
+      },
+      {
+        "from": [
+          "Margarita",
+          "Margritha"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Lourense"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Geertruy",
+          "Geertruyd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geertruy"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Willems",
+          "Willemszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willems"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Opten",
+          "Op Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Op Ten"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Margarita",
+          "Margarit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Maria",
+          "Mari"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jacobs Van",
+          "Jacobus Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobus Van"
+      },
+      {
+        "from": [
+          "Jans",
+          "Jansz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Maria",
+          "Marya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Stephenszen Van",
+          "Stephenson Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephenson Van"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Louwerens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Margarita",
+          "Margrietje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Jansz",
+          "Janse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Maritie",
+          "Marytje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maritie"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Catharina",
+          "Catrina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      },
+      {
+        "from": [
+          "Francisco a",
+          "Francoys a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Francisco a"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "D'angola a",
+          "Van Angola a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Angola a"
+      },
+      {
+        "from": [
+          "Sara",
+          "Sarah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sara"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sponsors 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Catharina",
+          "Catharins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      }
+    ],
+    "description": "Mass edit cells in column sponsors 1 middle"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "grel:value.replace(/^sz/,\"\").replace(/^szen/,\"\").trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column parents 1 middle using expression grel:value.replace(/^sz/,\"\").replace(/^szen/,\"\").trim()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "de",
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      },
+      {
+        "from": [
+          "Van",
+          "van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Micheal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      },
+      {
+        "from": [
+          "Barentz",
+          "Baretnz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentz"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Samuels",
+          "Samuelz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Samuels"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Michel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "______"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ven"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Vander"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van der"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "’Jeems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van Den",
+          "Van den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Du",
+          "du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Du"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Gerrison van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      },
+      {
+        "from": [
+          "Petist De",
+          "petist de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Baptist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Goerisson Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jurri",
+          "Jurry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurri"
+      },
+      {
+        "from": [
+          "van den",
+          "von den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Batist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hend."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(Garret?) V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "parents 1 middle",
+          "expression": "value",
+          "columnName": "parents 1 middle",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "V.",
+                "l": "V."
+              }
+            },
+            {
+              "v": {
+                "v": "Du",
+                "l": "Du"
+              }
+            },
+            {
+              "v": {
+                "v": "",
+                "l": "(Garret?) V."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mc"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ten",
+          "Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ten"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Christ:"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Christiaan"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jr G. Jr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jr G."
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Louwrensz s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louwrensz"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lowz s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lowz"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ls"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "se"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "�us"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mc"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ten",
+          "Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ten"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Angola A",
+          "Van Angola a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Angola a"
+      },
+      {
+        "from": [
+          "Portugies A",
+          "Portugies a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Portugies a"
+      },
+      {
+        "from": [
+          "Van Der",
+          "Van der"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Der"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pieterszen",
+          "Pieter szen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterszen"
+      },
+      {
+        "from": [
+          "Uit Den",
+          "Uitden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Uytden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Van De",
+          "Vande"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van De"
+      },
+      {
+        "from": [
+          "van den",
+          "Vanden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Van Gelder",
+          "Vangelder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Gelder"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gerretz",
+          "Gerrtz",
+          "Gertz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretz"
+      },
+      {
+        "from": [
+          "Corneliszen",
+          "Cornelisz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corneliszen"
+      },
+      {
+        "from": [
+          "Janszen Van",
+          "Janszen Van  En"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janszen Van"
+      },
+      {
+        "from": [
+          "Jilleszen",
+          "Jilliszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jilleszen"
+      },
+      {
+        "from": [
+          "Claase",
+          "Clase"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claase"
+      },
+      {
+        "from": [
+          "Jonathansz",
+          "Jonathsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathansz"
+      },
+      {
+        "from": [
+          "Pieterszen Van",
+          "Pietersz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterszen Van"
+      },
+      {
+        "from": [
+          "Janszen De",
+          "Jansz De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janszen De"
+      },
+      {
+        "from": [
+          "Stephenszen Van",
+          "Stephensz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephenszen Van"
+      },
+      {
+        "from": [
+          "Pra",
+          "Praa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Praa"
+      },
+      {
+        "from": [
+          "Andries",
+          "Andreis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andries"
+      },
+      {
+        "from": [
+          "Frederick",
+          "Fredrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick"
+      },
+      {
+        "from": [
+          "Barentszen",
+          "Barentsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentszen"
+      },
+      {
+        "from": [
+          "Adriaenszen",
+          "Andriaenszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adriaenszen"
+      },
+      {
+        "from": [
+          "Wesselszen Ten",
+          "Wesselsz Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wesselszen Ten"
+      },
+      {
+        "from": [
+          "Claes Van",
+          "Clase Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claes Van"
+      },
+      {
+        "from": [
+          "Theunisz De",
+          "Theuniszen De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Theuniszen De"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "szen",
+          "zen",
+          "son",
+          "sen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      },
+      {
+        "from": [
+          "Jansz Van",
+          "Janse Van",
+          "Jans Van",
+          "Janz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz Van"
+      },
+      {
+        "from": [
+          "Arentsz",
+          "Arence",
+          "Arentse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arentsz"
+      },
+      {
+        "from": [
+          "Gerretz",
+          "Gerretse",
+          "Gerritz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretse"
+      },
+      {
+        "from": [
+          "Franse Van",
+          "Fransz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franse Van"
+      },
+      {
+        "from": [
+          "Jurg",
+          "Jurgh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurgh"
+      },
+      {
+        "from": [
+          "Jr De",
+          "Jr Du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jr De"
+      },
+      {
+        "from": [
+          "Bordet",
+          "Bourdet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bourdet"
+      },
+      {
+        "from": [
+          "Dircksz",
+          "Dirkse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dircksz"
+      },
+      {
+        "from": [
+          "Jonathz",
+          "Jonthsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathz"
+      },
+      {
+        "from": [
+          "Coenradus",
+          "Conradus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conradus"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Michielsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      },
+      {
+        "from": [
+          "Isaacsen Van",
+          "Isaacszen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaacsen Van"
+      },
+      {
+        "from": [
+          "Thyssen",
+          "Thyszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thyssen"
+      },
+      {
+        "from": [
+          "Gilbertsz",
+          "Gilbertz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gilbertsz"
+      },
+      {
+        "from": [
+          "Lucasz  A",
+          "Luykasse A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lucasz  A"
+      },
+      {
+        "from": [
+          "Coenraad",
+          "Coenraat"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Hendrik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      },
+      {
+        "from": [
+          "Willemsz",
+          "Willemse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemsz"
+      },
+      {
+        "from": [
+          "Cornelis Van",
+          "Cornelusse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis Van"
+      },
+      {
+        "from": [
+          "Hendrickse",
+          "Henderikse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Frederick",
+          "Fredrik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick"
+      },
+      {
+        "from": [
+          "Marius",
+          "Morris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marius"
+      },
+      {
+        "from": [
+          "Gerretse Van Den",
+          "Gerritse Van Den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretse Van Den"
+      },
+      {
+        "from": [
+          "szen De",
+          "zen De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De"
+      },
+      {
+        "from": [
+          "Gerritszen",
+          "Gerrtszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritszen"
+      },
+      {
+        "from": [
+          "Willem",
+          "William"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "William"
+      },
+      {
+        "from": [
+          "Cornelis",
+          "Cornelusse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis"
+      },
+      {
+        "from": [
+          "Arentsz De",
+          "Arentse De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arentsz De"
+      },
+      {
+        "from": [
+          "Portugies a",
+          "Portuges a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Portugies a"
+      },
+      {
+        "from": [
+          "Sanders",
+          "Saunders"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sanders"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Wit Den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jorisz Van",
+          "Joris Van",
+          "Jorisse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jorisz Van"
+      },
+      {
+        "from": [
+          "Gertz Van",
+          "Gerrits Van",
+          "Gerrz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrits Van"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Uit Uen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Gerritszen",
+          "Geurtszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritszen"
+      },
+      {
+        "from": [
+          "Isaac",
+          "Isaacsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaac"
+      },
+      {
+        "from": [
+          "Dirckszen Van",
+          "Dircxzen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckszen Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jurri",
+          "Jurrich"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurri"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albertszen",
+          "Aldertszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albertszen"
+      },
+      {
+        "from": [
+          "Jacobsz",
+          "Jacobse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobsz"
+      },
+      {
+        "from": [
+          "Pietersz",
+          "Pieterse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "Pieter",
+          "Pieterz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "Huygen De",
+          "Huygens De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huygen De"
+      },
+      {
+        "from": [
+          "Schoute",
+          "Schouten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schoute"
+      },
+      {
+        "from": [
+          "Adriaenszen",
+          "Ariaenszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adriaenszen"
+      },
+      {
+        "from": [
+          "Pietersz",
+          "Pieterz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Evertszen",
+          "Evertsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evertszen"
+      },
+      {
+        "from": [
+          "Dirckszen",
+          "Dircksz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckszen"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Michiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      },
+      {
+        "from": [
+          "Hendrickse",
+          "Hendrickszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Jacobszen De",
+          "Jacobsz De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobszen De"
+      },
+      {
+        "from": [
+          "Glaudisz Van",
+          "Glondisz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glaudisz Van"
+      },
+      {
+        "from": [
+          "Conradus",
+          "Conrad"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Jacobszen",
+          "Jacobsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobszen"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Hendrickse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Willemszen Van",
+          "Willemse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemszen Van"
+      },
+      {
+        "from": [
+          "Adamszen",
+          "Adamsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adamszen"
+      },
+      {
+        "from": [
+          "Albertszen De",
+          "Albertse De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albertszen De"
+      },
+      {
+        "from": [
+          "Jilleszen",
+          "Jillesz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jilleszen"
+      },
+      {
+        "from": [
+          "Philip",
+          "Philipse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philipse"
+      },
+      {
+        "from": [
+          "Jonathansz",
+          "Jonathan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathansz"
+      },
+      {
+        "from": [
+          "Thomasz",
+          "Thomaszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomaszen"
+      },
+      {
+        "from": [
+          "Willemsz",
+          "Willemszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemszen"
+      },
+      {
+        "from": [
+          "Hendrickse Van",
+          "Hendrick Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Barentszen",
+          "Barentz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentszen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "???"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "????"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "a"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Der",
+          "Van  Der"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Der"
+      },
+      {
+        "from": [
+          "Van",
+          "Van Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Anna",
+          "Ann"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anna"
+      },
+      {
+        "from": [
+          "Andries Van",
+          "Adriaensen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andries Van"
+      },
+      {
+        "from": [
+          "Magdalena",
+          "Magdelane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Magdalena"
+      },
+      {
+        "from": [
+          "Theunis",
+          "Theunisse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Theunis"
+      },
+      {
+        "from": [
+          "Margreta",
+          "Margareta"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Bikker a",
+          "Biker a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Catharina",
+          "Cathrina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      },
+      {
+        "from": [
+          "Gerrets",
+          "Gerretse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrets"
+      },
+      {
+        "from": [
+          "Margrita",
+          "Margarita"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Philippina",
+          "Philebene",
+          "Philepina",
+          "Philibina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philippina"
+      },
+      {
+        "from": [
+          "Catrina",
+          "Catrien",
+          "Katryn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catrina"
+      },
+      {
+        "from": [
+          "Doritha",
+          "Dorithea",
+          "Dorothy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dorothea"
+      },
+      {
+        "from": [
+          "Uyten",
+          "Outen",
+          "Uuitden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt den"
+      },
+      {
+        "from": [
+          "Maria",
+          "Mary",
+          "Marie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Bikker a",
+          "Bicker",
+          "Bicker a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Hendricks",
+          "Hendrix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendricks"
+      },
+      {
+        "from": [
+          "Anna",
+          "Anne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anna"
+      },
+      {
+        "from": [
+          "Elisabet",
+          "Elizabet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Ryt a",
+          "Wryt a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wryt a"
+      },
+      {
+        "from": [
+          "Bickers a",
+          "Bikkers A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Margarita",
+          "Margriet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Der",
+          "Ter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Der"
+      },
+      {
+        "from": [
+          "Jansz Van",
+          "Jans, Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz Van"
+      },
+      {
+        "from": [
+          "Barbara",
+          "Barbera"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barbara"
+      },
+      {
+        "from": [
+          "Maurits",
+          "Mauritz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maurits"
+      },
+      {
+        "from": [
+          "Cornelis",
+          "Cornelus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis"
+      },
+      {
+        "from": [
+          "Elizabeth",
+          "Elisabeth"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Gerrets",
+          "Gerrits"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrets"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Louwerens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      },
+      {
+        "from": [
+          "Thomas",
+          "Thomasse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomas"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Uyt Den",
+          "Uyt den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Frans",
+          "Franse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franse"
+      },
+      {
+        "from": [
+          "Margarita",
+          "Margritha"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Lourense"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Geertruy",
+          "Geertruyd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geertruy"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Willems",
+          "Willemszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willems"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Opten",
+          "Op Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Op Ten"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Margarita",
+          "Margarit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Maria",
+          "Mari"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jacobs Van",
+          "Jacobus Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobus Van"
+      },
+      {
+        "from": [
+          "Jans",
+          "Jansz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Maria",
+          "Marya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Stephenszen Van",
+          "Stephenson Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephenson Van"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Louwerens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Margarita",
+          "Margrietje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Jansz",
+          "Janse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Maritie",
+          "Marytje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maritie"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Catharina",
+          "Catrina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      },
+      {
+        "from": [
+          "Francisco a",
+          "Francoys a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Francisco a"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "D'angola a",
+          "Van Angola a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Angola a"
+      },
+      {
+        "from": [
+          "Sara",
+          "Sarah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sara"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 1 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Catharina",
+          "Catharins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      }
+    ],
+    "description": "Mass edit cells in column parents 1 middle"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "grel:value.replace(/^sz/,\"\").replace(/^szen/,\"\").trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column parents 2 middle using expression grel:value.replace(/^sz/,\"\").replace(/^szen/,\"\").trim()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "de",
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      },
+      {
+        "from": [
+          "Van",
+          "van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Micheal"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      },
+      {
+        "from": [
+          "Barentz",
+          "Baretnz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentz"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Samuels",
+          "Samuelz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Samuels"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michael",
+          "Michel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "de"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "______"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ven"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "z"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Vander"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van der"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "’Jeems"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van Den",
+          "Van den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Du",
+          "du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Du"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Gerrison van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      },
+      {
+        "from": [
+          "Petist De",
+          "petist de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Baptist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Gerrison Van",
+          "Goerisson Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrison Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jurri",
+          "Jurry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurri"
+      },
+      {
+        "from": [
+          "van den",
+          "von den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baptist Du",
+          "Batist du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baptist Du"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hend."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(Garret?) V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "parents 2 middle",
+          "expression": "value",
+          "columnName": "parents 2 middle",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "V.",
+                "l": "V."
+              }
+            },
+            {
+              "v": {
+                "v": "Du",
+                "l": "Du"
+              }
+            },
+            {
+              "v": {
+                "v": "",
+                "l": "(Garret?) V."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "V."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mc"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ten",
+          "Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ten"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Christ:"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Christiaan"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jr G. Jr"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jr G."
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Louwrensz s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louwrensz"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lowz s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lowz"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ls"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "s"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "se"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "�us"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ze"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ma"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mc"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "van den",
+          "Van de"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ten",
+          "Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ten"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Angola A",
+          "Van Angola a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Angola a"
+      },
+      {
+        "from": [
+          "Portugies A",
+          "Portugies a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Portugies a"
+      },
+      {
+        "from": [
+          "Van Der",
+          "Van der"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Der"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pieterszen",
+          "Pieter szen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterszen"
+      },
+      {
+        "from": [
+          "Uit Den",
+          "Uitden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Uytden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Van De",
+          "Vande"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van De"
+      },
+      {
+        "from": [
+          "van den",
+          "Vanden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "van den"
+      },
+      {
+        "from": [
+          "Van Gelder",
+          "Vangelder"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Gelder"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gerretz",
+          "Gerrtz",
+          "Gertz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretz"
+      },
+      {
+        "from": [
+          "Corneliszen",
+          "Cornelisz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corneliszen"
+      },
+      {
+        "from": [
+          "Janszen Van",
+          "Janszen Van  En"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janszen Van"
+      },
+      {
+        "from": [
+          "Jilleszen",
+          "Jilliszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jilleszen"
+      },
+      {
+        "from": [
+          "Claase",
+          "Clase"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claase"
+      },
+      {
+        "from": [
+          "Jonathansz",
+          "Jonathsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathansz"
+      },
+      {
+        "from": [
+          "Pieterszen Van",
+          "Pietersz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterszen Van"
+      },
+      {
+        "from": [
+          "Janszen De",
+          "Jansz De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Janszen De"
+      },
+      {
+        "from": [
+          "Stephenszen Van",
+          "Stephensz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephenszen Van"
+      },
+      {
+        "from": [
+          "Pra",
+          "Praa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Praa"
+      },
+      {
+        "from": [
+          "Andries",
+          "Andreis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andries"
+      },
+      {
+        "from": [
+          "Frederick",
+          "Fredrick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick"
+      },
+      {
+        "from": [
+          "Barentszen",
+          "Barentsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentszen"
+      },
+      {
+        "from": [
+          "Adriaenszen",
+          "Andriaenszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adriaenszen"
+      },
+      {
+        "from": [
+          "Wesselszen Ten",
+          "Wesselsz Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wesselszen Ten"
+      },
+      {
+        "from": [
+          "Claes Van",
+          "Clase Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Claes Van"
+      },
+      {
+        "from": [
+          "Theunisz De",
+          "Theuniszen De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Theuniszen De"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "szen",
+          "zen",
+          "son",
+          "sen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      },
+      {
+        "from": [
+          "Jansz Van",
+          "Janse Van",
+          "Jans Van",
+          "Janz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz Van"
+      },
+      {
+        "from": [
+          "Arentsz",
+          "Arence",
+          "Arentse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arentsz"
+      },
+      {
+        "from": [
+          "Gerretz",
+          "Gerretse",
+          "Gerritz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretse"
+      },
+      {
+        "from": [
+          "Franse Van",
+          "Fransz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franse Van"
+      },
+      {
+        "from": [
+          "Jurg",
+          "Jurgh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurgh"
+      },
+      {
+        "from": [
+          "Jr De",
+          "Jr Du"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jr De"
+      },
+      {
+        "from": [
+          "Bordet",
+          "Bourdet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bourdet"
+      },
+      {
+        "from": [
+          "Dircksz",
+          "Dirkse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dircksz"
+      },
+      {
+        "from": [
+          "Jonathz",
+          "Jonthsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathz"
+      },
+      {
+        "from": [
+          "Coenradus",
+          "Conradus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conradus"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Michielsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      },
+      {
+        "from": [
+          "Isaacsen Van",
+          "Isaacszen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaacsen Van"
+      },
+      {
+        "from": [
+          "Thyssen",
+          "Thyszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thyssen"
+      },
+      {
+        "from": [
+          "Gilbertsz",
+          "Gilbertz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gilbertsz"
+      },
+      {
+        "from": [
+          "Lucasz  A",
+          "Luykasse A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lucasz  A"
+      },
+      {
+        "from": [
+          "Coenraad",
+          "Coenraat"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Hendrik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrick"
+      },
+      {
+        "from": [
+          "Willemsz",
+          "Willemse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemsz"
+      },
+      {
+        "from": [
+          "Cornelis Van",
+          "Cornelusse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis Van"
+      },
+      {
+        "from": [
+          "Hendrickse",
+          "Henderikse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Frederick",
+          "Fredrik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick"
+      },
+      {
+        "from": [
+          "Marius",
+          "Morris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marius"
+      },
+      {
+        "from": [
+          "Gerretse Van Den",
+          "Gerritse Van Den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerretse Van Den"
+      },
+      {
+        "from": [
+          "szen De",
+          "zen De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "De"
+      },
+      {
+        "from": [
+          "Gerritszen",
+          "Gerrtszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritszen"
+      },
+      {
+        "from": [
+          "Willem",
+          "William"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "William"
+      },
+      {
+        "from": [
+          "Cornelis",
+          "Cornelusse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis"
+      },
+      {
+        "from": [
+          "Arentsz De",
+          "Arentse De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arentsz De"
+      },
+      {
+        "from": [
+          "Portugies a",
+          "Portuges a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Portugies a"
+      },
+      {
+        "from": [
+          "Sanders",
+          "Saunders"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sanders"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Wit Den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jorisz Van",
+          "Joris Van",
+          "Jorisse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jorisz Van"
+      },
+      {
+        "from": [
+          "Gertz Van",
+          "Gerrits Van",
+          "Gerrz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrits Van"
+      },
+      {
+        "from": [
+          "Uyt Den",
+          "Uit Uen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      },
+      {
+        "from": [
+          "Gerritszen",
+          "Geurtszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerritszen"
+      },
+      {
+        "from": [
+          "Isaac",
+          "Isaacsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaac"
+      },
+      {
+        "from": [
+          "Dirckszen Van",
+          "Dircxzen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckszen Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jurri",
+          "Jurrich"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jurri"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albertszen",
+          "Aldertszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albertszen"
+      },
+      {
+        "from": [
+          "Jacobsz",
+          "Jacobse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobsz"
+      },
+      {
+        "from": [
+          "Pietersz",
+          "Pieterse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "Pieter",
+          "Pieterz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      },
+      {
+        "from": [
+          "Huygen De",
+          "Huygens De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huygen De"
+      },
+      {
+        "from": [
+          "Schoute",
+          "Schouten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schoute"
+      },
+      {
+        "from": [
+          "Adriaenszen",
+          "Ariaenszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adriaenszen"
+      },
+      {
+        "from": [
+          "Pietersz",
+          "Pieterz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pieterse"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Evertszen",
+          "Evertsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evertszen"
+      },
+      {
+        "from": [
+          "Dirckszen",
+          "Dircksz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dirckszen"
+      },
+      {
+        "from": [
+          "Michielse",
+          "Michiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michielse"
+      },
+      {
+        "from": [
+          "Hendrickse",
+          "Hendrickszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Jacobszen De",
+          "Jacobsz De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobszen De"
+      },
+      {
+        "from": [
+          "Glaudisz Van",
+          "Glondisz Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glaudisz Van"
+      },
+      {
+        "from": [
+          "Conradus",
+          "Conrad"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conrad"
+      },
+      {
+        "from": [
+          "Jacobszen",
+          "Jacobsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobszen"
+      },
+      {
+        "from": [
+          "Hendrick",
+          "Hendrickse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse"
+      },
+      {
+        "from": [
+          "Willemszen Van",
+          "Willemse Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemszen Van"
+      },
+      {
+        "from": [
+          "Adamszen",
+          "Adamsz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adamszen"
+      },
+      {
+        "from": [
+          "Albertszen De",
+          "Albertse De"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albertszen De"
+      },
+      {
+        "from": [
+          "Jilleszen",
+          "Jillesz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jilleszen"
+      },
+      {
+        "from": [
+          "Philip",
+          "Philipse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philipse"
+      },
+      {
+        "from": [
+          "Jonathansz",
+          "Jonathan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jonathansz"
+      },
+      {
+        "from": [
+          "Thomasz",
+          "Thomaszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomaszen"
+      },
+      {
+        "from": [
+          "Willemsz",
+          "Willemszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willemszen"
+      },
+      {
+        "from": [
+          "Hendrickse Van",
+          "Hendrick Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendrickse Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Barentszen",
+          "Barentz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barentszen"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "???"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "????"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "a"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Van Der",
+          "Van  Der"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Der"
+      },
+      {
+        "from": [
+          "Van",
+          "Van Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Anna",
+          "Ann"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anna"
+      },
+      {
+        "from": [
+          "Andries Van",
+          "Adriaensen Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andries Van"
+      },
+      {
+        "from": [
+          "Magdalena",
+          "Magdelane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Magdalena"
+      },
+      {
+        "from": [
+          "Theunis",
+          "Theunisse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Theunis"
+      },
+      {
+        "from": [
+          "Margreta",
+          "Margareta"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Bikker a",
+          "Biker a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Catharina",
+          "Cathrina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      },
+      {
+        "from": [
+          "Gerrets",
+          "Gerretse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrets"
+      },
+      {
+        "from": [
+          "Margrita",
+          "Margarita"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Philippina",
+          "Philebene",
+          "Philepina",
+          "Philibina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philippina"
+      },
+      {
+        "from": [
+          "Catrina",
+          "Catrien",
+          "Katryn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catrina"
+      },
+      {
+        "from": [
+          "Doritha",
+          "Dorithea",
+          "Dorothy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dorothea"
+      },
+      {
+        "from": [
+          "Uyten",
+          "Outen",
+          "Uuitden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt den"
+      },
+      {
+        "from": [
+          "Maria",
+          "Mary",
+          "Marie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Bikker a",
+          "Bicker",
+          "Bicker a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Hendricks",
+          "Hendrix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hendricks"
+      },
+      {
+        "from": [
+          "Anna",
+          "Anne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anna"
+      },
+      {
+        "from": [
+          "Elisabet",
+          "Elizabet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Ryt a",
+          "Wryt a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wryt a"
+      },
+      {
+        "from": [
+          "Bickers a",
+          "Bikkers A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bikker a"
+      },
+      {
+        "from": [
+          "Margarita",
+          "Margriet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Der",
+          "Ter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Der"
+      },
+      {
+        "from": [
+          "Jansz Van",
+          "Jans, Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz Van"
+      },
+      {
+        "from": [
+          "Barbara",
+          "Barbera"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barbara"
+      },
+      {
+        "from": [
+          "Maurits",
+          "Mauritz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maurits"
+      },
+      {
+        "from": [
+          "Cornelis",
+          "Cornelus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cornelis"
+      },
+      {
+        "from": [
+          "Elizabeth",
+          "Elisabeth"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elizabeth"
+      },
+      {
+        "from": [
+          "Gerrets",
+          "Gerrits"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gerrets"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Louwerens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      },
+      {
+        "from": [
+          "Thomas",
+          "Thomasse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Thomas"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Uyt Den",
+          "Uyt den"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Uyt Den"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Frans",
+          "Franse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franse"
+      },
+      {
+        "from": [
+          "Margarita",
+          "Margritha"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Lourense"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Geertruy",
+          "Geertruyd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Geertruy"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Willems",
+          "Willemszen"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Willems"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Opten",
+          "Op Ten"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Op Ten"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Margarita",
+          "Margarit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Maria",
+          "Mari"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Jacobs Van",
+          "Jacobus Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jacobus Van"
+      },
+      {
+        "from": [
+          "Jans",
+          "Jansz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Maria",
+          "Marya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria"
+      },
+      {
+        "from": [
+          "Stephenszen Van",
+          "Stephenson Van"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stephenson Van"
+      },
+      {
+        "from": [
+          "Laurens",
+          "Louwerens"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laurens"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Margarita",
+          "Margrietje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Margarita"
+      },
+      {
+        "from": [
+          "Jansz",
+          "Janse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jansz"
+      },
+      {
+        "from": [
+          "Maritie",
+          "Marytje"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maritie"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Catharina",
+          "Catrina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      },
+      {
+        "from": [
+          "Francisco a",
+          "Francoys a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Francisco a"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "D'angola a",
+          "Van Angola a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Van Angola a"
+      },
+      {
+        "from": [
+          "Sara",
+          "Sarah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sara"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "parents 2 middle",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Catharina",
+          "Catharins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catharina"
+      }
+    ],
+    "description": "Mass edit cells in column parents 2 middle"
+  }]
