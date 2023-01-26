@@ -1,0 +1,39 @@
+[{
+  "op": "core/column-addition",
+  "engineConfig": {
+    "facets": [],
+    "mode": "row-based"
+  },
+  "baseColumnName": "canonical",
+  "expression": "grel:value.find(/^[\\p{L}]+/).join(\"\")",
+  "onError": "set-to-blank",
+  "newColumnName": "canonical first",
+  "columnInsertIndex": 4,
+  "description": "Create column canonical first at index 4 based on column canonical using expression grel:value.find(/^[\\p{L}]+/).join(\"\")"
+},
+{
+  "op": "core/column-addition",
+  "engineConfig": {
+    "facets": [],
+    "mode": "row-based"
+  },
+  "baseColumnName": "canonical",
+  "expression": "grel:value.find(/[\\p{L}]+$/).join(\"\")",
+  "onError": "set-to-blank",
+  "newColumnName": "canonical last",
+  "columnInsertIndex": 4,
+  "description": "Create column canonical last at index 4 based on column canonical using expression grel:value.find(/[\\p{L}]+$/).join(\"\")"
+},
+{
+  "op": "core/column-addition",
+  "engineConfig": {
+    "facets": [],
+    "mode": "row-based"
+  },
+  "baseColumnName": "canonical",
+  "expression": "grel:value.replace(cells[\"canonical first\"].value,\"\").replace(cells[\"canonical last\"].value,\"\").trim()",
+  "onError": "set-to-blank",
+  "newColumnName": "canonical middle",
+  "columnInsertIndex": 4,
+  "description": "Create column canonical middle at index 4 based on column canonical using expression grel:value.replace(cells[\"canonical first\"].value,\"\").replace(cells[\"canonical last\"].value,\"\").trim()"
+}]
