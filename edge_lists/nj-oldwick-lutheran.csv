@@ -1,0 +1,773 @@
+,year,source,target
+0,1789.0,Andries,Christina
+1,1781.0,Andries,Christina
+2,1784.0,Andries,Christina
+3,1787.0,Andries,Christina
+4,1779.0,Andries,Christina
+5,1797.0,Andrew,Christina
+6,1792.0,Andrew,Christina
+7,1794.0,Jacob,Anna  Gertroud
+8,1796.0,Jacob,Anna
+9,1798.0,Jacob,Anna
+10,1784.0,Johannes,Sophia
+11,1780.0,Johannes,Sophia
+12,1778.0,John,Sophia
+13,1787.0,John,Sophia
+14,1789.0,John,Sophia
+15,1793.0,John,Sophia
+16,1796.0,John,Sophia
+17,1798.0,Mattheus,Catharina
+18,1782.0,Mattheus,Catharina
+19,1787.0,Mattheus,Catharina
+20,1792.0,Mattheus,Catharina
+21,1790.0,Mattheus,Catharina
+22,1794.0,Mattheus,Catharina
+23,1796.0,Mattheus,Catharina
+24,1785.0,Mattheus,Catharina
+25,1783.0,Mattheus,Catharina
+26,1772.0,Michael,Christina
+27,1772.0,Michael,Tuny
+28,1772.0,Michael,Tuny
+29,1782.0,Wilhelm,Catharina
+30,1782.0,Wilhelm,Catharina
+31,1782.0,Wilhelm,Catharina
+32,1782.0,Wilhelm,Catharina
+33,1773.0,William,Anna
+34,1799.0,Cunrad,Elizabeth
+35,1796.0,Cunrad,Susanna
+36,1798.0,Cunrad,Susanna
+37,1793.0,Cunrad,Sussy
+38,1784.0,David,Catharina
+39,1784.0,Christian,Magdalena
+40,1786.0,John,Anna
+41,1771.0,Johannes,Catharina
+42,1793.0,John,Catharina
+43,1790.0,John,Catharina
+44,1784.0,Thomas,Elizabeth
+45,1796.0,John,Catharina
+46,1790.0,Paulus,Cornelia
+47,1788.0,Paulus,Cornelia
+48,1786.0,Paulus,Cornelia
+49,1784.0,Paulus,Cornelia
+50,1790.0,Philip  Jr,Maria
+51,1788.0,Philip,Maria
+52,1780.0,Philip,Maria
+53,1785.0,Philip,Maria
+54,1794.0,Philip,Maria
+55,1792.0,Isaac,Maria
+56,1779.0,Christoph,Anna
+57,1778.0,Christoph,Anna
+58,1797.0,John,Catharina
+59,1787.0,John,Catharina
+60,1778.0,John,Catharina
+61,1780.0,John,Catharina
+62,1797.0,Gerrit,Sara
+63,1791.0,Andrew,Catharina
+64,1795.0,Andrew,Catharina
+65,1793.0,Andrew,Catharina
+66,1783.0,Frederick,Catharina
+67,1787.0,Frederick,Catharina
+68,1785.0,Frederick,Catharina
+69,1771.0,Frid:,Anna  Catharine
+70,1780.0,Friederich,Catharina
+71,1778.0,Friederich,Catharina
+72,1773.0,Friederich,Catharina
+74,1782.0,Jacob,Catharina
+75,1795.0,Alexander,Elizabeth
+76,1799.0,Alexander,Elizabeth
+77,1784.0,Henry,Catharina
+78,1785.0,Martin,Anna  Maria
+79,1785.0,Martin,Anna  Maria
+82,1782.0,Peter,Rachel
+83,1778.0,Georg,Maria  Barbara
+84,1781.0,Georg,Maria  Barbara
+85,1792.0,Bernard,Hannah
+86,1791.0,Bernard,Hannah
+87,1794.0,Bernardus,Hannah
+88,1785.0,Georg,Maria
+89,1792.0,Georg,Maria
+90,1783.0,Georg,Maria
+91,1798.0,Peter,Margriet
+92,1793.0,Peter,Maria
+93,1794.0,Peter,Maria
+94,1771.0,Georg,Maria
+95,1798.0,John  Philips,Anna  Maria
+96,1782.0,Nicol,Anna
+98,1786.0,Abraham,Beggj
+99,1786.0,Abraham,Beggj
+100,1779.0,Michael,Maria
+101,1788.0,Martin,Esther
+102,1797.0,Martin,Esther
+103,1795.0,Martin,Esther
+104,1793.0,Abraham,Anna
+105,1795.0,Abraham,Anna
+106,1784.0,Peter,Anna  Barbara
+108,1788.0,Thomas  Jr,Abigail
+109,1790.0,Thomas  Jr,Abigail
+110,1792.0,Mauras,Margriet
+111,1797.0,Peter,Betsy
+112,1791.0,Peter,Betsy
+113,1792.0,Peter,Betsy
+114,1794.0,Peter,Elizabeth
+115,1799.0,Peter,Elizabeth
+116,1791.0,Thomas,Abigail
+117,1784.0,Jacob,Beggj
+118,1786.0,Jacob,Beggj
+119,1789.0,Jacob,Beggj
+120,1795.0,Jacob,Margriet
+121,1791.0,Jacob,Peggy
+122,1798.0,Jacob,Peggy
+123,1780.0,Philip,Catharina
+124,1782.0,Henry,Anna  Maria
+125,1780.0,Henry,Eva  Maria
+126,1782.0,Johannes  Teiss,Elizabeth
+127,1789.0,Nicol,Margriet
+128,1779.0,Nicol,Margriet
+129,1794.0,Nicholas,Margriet
+130,1777.0,Nicolus,Margriet
+131,1778.0,Philip,Catharina
+132,1783.0,Philip,Catharina
+133,1785.0,Nicholas,Margriet
+134,1783.0,William,Dorothea
+135,1786.0,William,Dorothea
+136,1790.0,William,Dorothea
+137,1778.0,Cunrad,Catharina
+139,1771.0,Michael,Anna
+140,1785.0,James,Elizabeth
+141,1785.0,James,Elizabeth
+142,1788.0,Christian,Elizabeth
+143,1790.0,Christian,Elizabeth
+144,1788.0,Johannes Jacob Jr,Phoebe
+145,1771.0,William,Elizabeth
+146,1771.0,Peter,Rosina
+147,1793.0,Henry,Helena
+148,1784.0,John,Rosina
+149,1788.0,John,Rosina
+150,1794.0,Nicholas,Anna  Barbara
+151,1785.0,Peter,Hannah
+152,1773.0,James,Maria
+153,1780.0,Thomas,Margriet
+155,1794.0,Richard,Maria  Barbara
+156,1791.0,Richard,Barbara
+157,1796.0,Richard,Barbara
+159,1786.0,Richard,Barbara
+160,1782.0,Richard,Barbara
+161,1780.0,Patrick,Christina
+162,1784.0,Richard,Barbara
+164,1782.0,Jacob,Anna  Maria
+166,1799.0,Henry,Peggy
+167,1791.0,Charles,Maria
+169,1787.0,William,Elizabeth
+170,1792.0,Jacob  Jr,Maria
+171,1790.0,Jacob  Jr,Maria
+173,1784.0,Jacob,Anna
+174,1786.0,Jacob,Anna  Gertroud
+175,1789.0,Jacob,Anna  Margareta
+176,1790.0,Charles,Patience
+177,1788.0,Charles,Patience
+178,1773.0,David,Maria
+182,1780.0,David,Margriet
+183,1771.0,Cunrad,Catharina
+184,1777.0,Cunrad,Catharina
+186,1771.0,Wilhelm,Maria  Elisabeth
+187,1785.0,Paulus,Catharina
+188,1785.0,Paulus,Catharina
+189,1798.0,William,Catharina
+190,1785.0,William,Catharina
+191,1790.0,William,Catharina
+192,1783.0,William,Catharina
+194,1771.0,Jacob,Elizabeth
+195,1779.0,Jacob,Anna  Maria
+196,1780.0,Jacob,Anna  Maria
+197,1787.0,Jacob,Maria
+198,1785.0,Jacob,Maria
+199,1783.0,John,Beggj
+200,1771.0,Carl,Elizabeth
+201,1793.0,John,Catharina
+202,1796.0,John,Catharina
+203,1791.0,John,Catharina
+204,1798.0,John,Catharina
+205,1797.0,George,Maria
+206,1790.0,John,Maria
+207,1781.0,Caleb,Geertruy
+208,1783.0,Caleb,Geertruy
+209,1780.0,Isaac,Anna
+210,1793.0,Isaac,Anna
+211,1777.0,John,Maria
+212,1779.0,John,Maria
+213,1781.0,John,Maria
+214,1794.0,Moses,Maria
+215,1796.0,David,Sophia
+216,1798.0,David,Sophia
+217,1794.0,David,Sophia
+218,1787.0,David,Sophia
+219,1792.0,David,Sophia
+220,1789.0,David,Sophia
+221,1783.0,William,Eva
+222,1787.0,William,Eva
+223,1785.0,Adam,Catharina  Barbara
+224,1785.0,Adam,Catharina  Barbara
+225,1779.0,Adam,Catharina  Barbara
+226,1777.0,Jacob,Maria
+227,1783.0,Georg,Catharina  Barbara
+228,1790.0,Georg,Catharina
+229,1784.0,Georg,Catharina
+230,1795.0,Georg,Catharina
+231,1797.0,Georg,Catharina
+232,1788.0,Georg,Catharina
+233,1793.0,Johannes  Georg,Catharina
+235,1777.0,Philip,Anna  Maria
+236,1780.0,Godfrey,Helena
+237,1783.0,Godfrey,Helena
+238,1794.0,George,Hannah
+239,1797.0,George,Hannah
+240,1792.0,George,Hannah
+241,1799.0,George,Hannah
+242,1790.0,George,Hannah
+243,1784.0,Philip,Catharina
+244,1788.0,Ebeneazar,Maria
+245,1773.0,John,Anna
+246,1783.0,Peter,Catharina
+247,1787.0,Peter,Catharina
+248,1785.0,Peter,Catharina
+249,1771.0,Joseph,Eleanora
+250,1783.0,Richard,Selletje
+251,1782.0,Richard,Selletje
+252,1786.0,Frederick  Jr,Rachel
+253,1786.0,Georg,Anna
+254,1783.0,Frederick,Rachel
+255,1782.0,Frederick  Jr,Rachel
+256,1799.0,Frederick,Rachel
+257,1793.0,Frederick,Rachel
+258,1791.0,Frederick,Rachel
+259,1798.0,Frederick,Rachel
+261,1789.0,Frederick  Jr,Rachel
+262,1798.0,Georg,Anna
+263,1795.0,Georg,Anna
+264,1790.0,Georg,Anna
+265,1792.0,Georg,Anna
+266,1788.0,Georg,Anna
+267,1796.0,Georg,Anna
+268,1796.0,Moritz,Anna
+269,1793.0,Moritz,Anna
+270,1799.0,Moritz,Anna
+271,1791.0,Moritz,Anna
+272,1789.0,William,Maria
+273,1783.0,William,Maria
+274,1798.0,William,Maria
+275,1785.0,William,Maria
+276,1787.0,William,Maria
+277,1795.0,William,Maria
+278,1783.0,Kiliaan,Barbara
+279,1786.0,Leonhard,Eva
+280,1785.0,Leonhard,Eva
+281,1796.0,Samuel,Bolly
+282,1784.0,Christoph,Eva
+283,1779.0,Georg,Dorothea
+284,1777.0,Georg,Dorothea
+285,1790.0,Daniel,Maria
+286,1788.0,Daniel,Maria
+287,1781.0,Daniel,Maria
+288,1777.0,Daniel,Maria
+289,1778.0,Daniel,Maria
+290,1784.0,Daniel,Maria
+291,1786.0,Daniel,Maria
+292,1794.0,Daniel,Maria
+293,1782.0,Daniel,Maria
+294,1795.0,Cornelius,Sally
+295,1790.0,Henry,Christina
+296,1799.0,Jacob,Eva
+305,1785.0,John,Sara
+306,1785.0,John,Sara
+307,1785.0,Henry,Catharina
+308,1789.0,Charles,Maria
+309,1790.0,Charles,Maria
+310,1792.0,Charles,Maria
+311,1794.0,Charles,Maria
+312,1787.0,Charles,Maria
+314,1771.0,Patrick,Anna
+315,1771.0,Patrick,Anna
+316,1771.0,Patrick,Anna
+317,1771.0,Patrick,Anna
+318,1771.0,Patrick,Anna
+319,1782.0,John,Rebecca
+320,1785.0,Cunrad,Catharina
+321,1787.0,Cunrad,Catharina
+322,1787.0,Georg,Catharina
+323,1792.0,George,Catharina
+324,1791.0,George,Catharina
+325,1784.0,Johannes  Georg,Eva
+326,1782.0,Epharim  Drake,Dorothea
+327,1784.0,Epharim  Drake,Maria  Dorothy
+328,1782.0,Thomas,Experience
+329,1771.0,John,Elizabeth
+330,1783.0,John,Elizabeth
+333,1780.0,Georg,Catharina
+334,1777.0,Georg,Catharina
+335,1785.0,Johannes,Barbara
+336,1781.0,Christian,Catharina
+337,1778.0,Christian,Catharina
+338,1799.0,Christian,John
+339,1783.0,Christian,Magdalena
+340,1779.0,Henry,Magdalena
+341,1789.0,Henry,Maria
+342,1784.0,Henry,Mollj
+343,1777.0,Henry,Molly
+344,1791.0,Philip,Magdalena
+345,1790.0,Philip,Magdalena
+346,1771.0,Johannes,Barbara
+347,1779.0,Caspar,Geertie
+348,1777.0,Christian,Christina
+349,1783.0,Abraham,Maria
+350,1783.0,Abraham,Maria
+351,1782.0,Caspar,Geertje
+352,1796.0,Christian,Christina
+353,1798.0,John,Helena
+354,1781.0,Jos,Maria
+355,1780.0,Jos,Maria
+357,1799.0,John,Anna
+358,1784.0,Friederich,Margriet
+359,1799.0,John,Hannah
+360,1778.0,Martin,Susanna
+361,1773.0,Wilhelm,Anna
+363,1794.0,Charles,Charity
+364,1790.0,Charles,Charity
+365,1792.0,Charles,Charity
+366,1781.0,Christoph,Margary
+367,1794.0,Christoph,Margriet
+368,1790.0,Christoph,Margriet
+369,1785.0,Christoph,Margriet
+370,1783.0,Christoph,Margriet
+371,1788.0,Christoph,Margriet
+373,1796.0,Harmen,Hannah
+374,1789.0,Jacob,Hannah
+375,1778.0,Simon,Catharina
+376,1788.0,Thomas,Catharina
+377,1793.0,Thomas,Catharina
+379,1790.0,Frederick,Margriet
+380,1783.0,Samuel,Catharina
+381,1779.0,Samuel,Catharina
+383,1783.0,Henry,Gertroud
+384,1785.0,Henry,Geertruy
+385,1787.0,Jacob,Maria
+386,1790.0,Christoph,Magdalena
+387,1788.0,Valentin,Maria
+388,1779.0,Joseph,Anna  Margaretha
+389,1779.0,Philip,Marethe
+390,1779.0,Philip,Marethe
+391,1779.0,Samuel,Bolly
+392,1784.0,Samuel,Bollj
+393,1794.0,Friederich,Elizabeth
+394,1791.0,Friederich,Elizabeth
+395,1786.0,Friederich,Elizabeth
+396,1789.0,Friederich,Elizabeth
+397,1787.0,Friederich,Elizabeth
+398,1798.0,Friederich,Elizabeth
+399,1796.0,Friederich,Elizabeth
+400,1785.0,Jacob,Catharina
+401,1779.0,Jacob,Catharina
+402,1771.0,William,John
+403,1800.0,John,Helena
+404,1773.0,Johannes,Maria
+405,1784.0,William,Disbeje
+406,1786.0,William,Anna
+407,1794.0,Philip,Helena
+408,1790.0,Johannes,Eva
+409,1790.0,Henry,Catharina
+410,1798.0,Aaron,Catharina
+411,1785.0,Aaron,Catharina
+412,1791.0,Aaron,Catharina
+413,1789.0,Aaron,Catharina
+414,1785.0,Christian,Elizabeth
+415,1793.0,Christian,Elizabeth
+416,1787.0,Christian,Elizabeth
+417,1785.0,Johannes  Jacob,Phoebe
+418,1784.0,Johannes  Wilhelm,Aeltie
+419,1771.0,Jacob,Veronica  Gertroud
+420,1787.0,Jacob,Phoebe
+421,1783.0,Jacob,Phoebe
+422,1781.0,John  Wilhelm,Aeltie
+423,1794.0,Aaron,Catharina
+424,1787.0,Aaron,Catharina
+425,1795.0,Christian,Elizabeth
+426,1797.0,Christian,Elizabeth
+427,1795.0,Jacob,Phoebe
+428,1793.0,Jacob,Phoebe
+429,1799.0,Jacob,Phoebe
+430,1791.0,Jacob,Phoebe
+431,1796.0,Jacob,Phoebe
+432,1785.0,Andries,Catharina
+433,1771.0,Nicholas,Anna  Barbara
+434,1784.0,Jacob,Elizabeth
+435,1782.0,Philip,Hannah
+436,1787.0,Philip,Hannah
+437,1784.0,Philip,Hannah
+438,1773.0,Wilhelm,Catharina
+439,1782.0,Benjamin,Elizabeth
+440,1786.0,Jacob,Elizabeth
+441,1796.0,Daniel,Eva
+442,1799.0,Daniel,Eva
+443,1784.0,Harmen,Elizabeth
+444,1783.0,Peter,Anna
+445,1784.0,Peter,Anna
+446,1782.0,Michael,Margriet
+447,1772.0,Adam,Margretha
+448,1791.0,Solomon,Susanna
+451,1793.0,Abraham,Bolly
+452,1793.0,Abraham,Elizabeth
+453,1791.0,Abraham,Elizabeth
+454,1780.0,Abraham,Elizabeth
+455,1777.0,Abraham,Elizabeth
+456,1790.0,Abraham,Elizabeth
+457,1787.0,Abraham,Elizabeth
+458,1785.0,Abraham,Elizabeth
+459,1797.0,Abraham,Elizabeth
+460,1787.0,Jacob,Juliana
+461,1777.0,Jacob,Juliana
+462,1792.0,Christian,Rachel
+464,1781.0,Christian,Rachel
+465,1781.0,Christian,Rachel
+466,1781.0,Christian,Rachel
+467,1781.0,Christian,Rachel
+470,1794.0,Frederick,Elizabeth
+471,1790.0,Frederick,Elizabeth
+473,1795.0,Jacob,Sara
+474,1785.0,Michael,Margriet
+475,1778.0,Joseph,Phoebe
+477,1789.0,Nathan,Nancy
+478,1778.0,Christian,Anna
+479,1786.0,Cornelius,Catharina
+480,1791.0,Christian,Anna
+481,1794.0,Christian,Anna
+482,1785.0,Christian,Anna
+483,1793.0,Christian,Anna
+484,1783.0,Christian,Anna
+485,1797.0,Christian,Anna
+486,1771.0,Martin,Maria
+487,1789.0,Christian,Anna
+488,1787.0,Christian,Anna
+489,1778.0,Martin,Catharina
+491,1781.0,Chritian,Anna
+492,1783.0,Peter,Anna  Maria
+493,1785.0,James,Jennj
+494,1788.0,Thomas,Jennj
+495,1785.0,James,Jennj
+496,1783.0,James,Jennj
+497,1782.0,John,Elizabeth
+498,1787.0,John,Elizabeth
+499,1785.0,John,Elizabeth
+500,1787.0,Thomas,Sara
+501,1771.0,Michael,Maria
+502,1785.0,Henry,Margriet
+503,1788.0,Henry,Margriet
+504,1779.0,Michael,Marethe
+505,1771.0,Peter,Maria
+506,1783.0,John,Maria
+507,1786.0,Peter,Anna
+508,1782.0,Philip,Maria  Rosina
+509,1780.0,Henry,Anna  Margaretha
+510,1783.0,Henry,Margriet
+511,1790.0,Henry,Margriet
+512,1793.0,Henry,Peggy
+515,1779.0,Frederick,Anna  Barbara
+516,1783.0,Frederick,Barbara
+517,1780.0,Michael,Marethe
+518,1779.0,Peter,Maria
+519,1781.0,William,Baetie
+521,1785.0,Johannes,Anna  Elisabeth
+522,1772.0,Anton,Eleanora
+523,1778.0,Anton,Eleanora
+530,1795.0,David,Margriet
+531,1799.0,David,Peggy
+532,1797.0,David,Peggy
+533,1798.0,Abraham,Maria
+534,1789.0,Andries,Rosina
+535,1790.0,Andries,Rosina
+536,1793.0,Andries,Rosina
+537,1799.0,Andries,Sina
+538,1798.0,Daniel,Eva
+539,1794.0,Georg,Elizabeth
+540,1787.0,Georg,Elizabeth
+541,1792.0,Georg,Elizabeth
+542,1789.0,Georg,Elizabeth
+543,1786.0,Georg,Elizabeth
+544,1790.0,Georg,Elizabeth
+545,1772.0,Georg,Elizabeth
+546,1798.0,Georg,Elizabeth
+547,1772.0,Jacob,Anna
+548,1793.0,John,Neeltie
+549,1790.0,John,Peggy
+550,1793.0,Harmen,Catharina
+551,1788.0,Harmen,Catharina
+552,1791.0,Harmen,Catharina
+553,1788.0,Abraham,Maria
+554,1777.0,Georg,Elizabeth
+555,1788.0,John  Jr,Beggj
+556,1788.0,John,Nellj
+558,1792.0,Godfrey,Elizabeth
+559,1777.0,Henry,Margriet
+560,1791.0,Henry,Peggy
+561,1782.0,Michael,Mauras
+562,1787.0,Jacob  Jr,Facnnj
+563,1789.0,Jacob  Jr,Faennj
+564,1783.0,Jacob  Jr,Fanny
+565,1794.0,Augustus,Sally
+566,1780.0,Cunrad,Susanna
+567,1771.0,James,Margriet
+568,1783.0,Mckactschj,Maria
+570,1798.0,John,Susanna
+571,1799.0,John,Susanna
+573,1794.0,William,Catharina
+574,1799.0,William,Catharina
+575,1797.0,William,Catharina
+576,1786.0,Richard,Sara
+577,1784.0,Abraham,Beggj
+579,1793.0,Balthes,Catharina
+581,1791.0,Henry,Maria
+582,1781.0,Mattheus,Adelyne
+583,1783.0,Nicholas,Anna
+584,1783.0,Nicholas,Anna
+586,1782.0,Abraham,Hannah
+587,1788.0,Abraham,Beggj
+588,1790.0,Baltus,Maria
+589,1789.0,Baltus,Catharina
+590,1794.0,Henry  B,Maria
+591,1785.0,Henry,Maria
+592,1789.0,Henry,Maria
+593,1784.0,Henry,Maria
+594,1798.0,Henry,Maria
+595,1787.0,Mattheus,Adelyne
+596,1795.0,Thomas,Sara
+597,1795.0,Thomas,Sara
+598,1787.0,Jacob,Elizabeth
+599,1798.0,Daniel,Bolly
+600,1791.0,Daniel,Bolly
+601,1795.0,Daniel,Bolly
+602,1788.0,Daniel,Bolly
+604,1789.0,Jacob,Elizabeth
+605,1792.0,Jacob,Elizabeth
+606,1790.0,Jacob,Elizabeth
+609,1779.0,Philip,Maria
+610,1779.0,Philip,Maria
+612,1792.0,Godfrey,Charity
+614,1787.0,Godfrey,Charity
+615,1780.0,Godfrey,Charity
+616,1777.0,Godfrey,Charity
+617,1771.0,Gottfried,Gertroud
+618,1773.0,Gottfried,Gertroud
+619,1793.0,John,Christina
+620,1799.0,Martin,Maria
+621,1789.0,Godfrey  Esp,Charity
+622,1795.0,Honnes,Christina
+623,1799.0,Johannes,Christina
+624,1797.0,Johannes,Christina
+625,1778.0,Samuel,Margriet
+626,1779.0,Adam,Catharina
+627,1787.0,Adam,Catharina
+628,1782.0,Adam,Catharina
+629,1799.0,Frederick,Elizabeth
+630,1772.0,Cunrad,Anna  Maria
+631,1771.0,Cunrad,Anna  Maria
+633,1793.0,Harmen,Susanna
+634,1779.0,Abraham,Catharina
+635,1782.0,Abraham,Catharina
+637,1799.0,Cornelius,John
+638,1789.0,Harmen  Sr,Sukkj
+639,1791.0,Harmen  Sr,Sukkj
+640,1787.0,Harmen,Susanna
+641,1785.0,Harmen,Susanna
+642,1787.0,Jacob,Maria
+643,1782.0,Johannes,Elsie
+644,1771.0,Adam,Catharina
+645,1799.0,Jacob,Elizabeth
+646,1788.0,Philip,Catharina
+647,1780.0,Adam,Anna  Maria
+648,1786.0,Adam,Maria
+649,1789.0,Adam,Maria
+650,1791.0,Adam,Maria
+651,1778.0,David,Anna  Margaretha
+652,1777.0,Baltus,Veronica
+653,1787.0,Adam,Elizabeth
+654,1785.0,Adam,Elizabeth
+655,1793.0,Adam,Elizabeth
+656,1789.0,Adam,Elizabeth
+657,1779.0,Adam,Elizabeth
+658,1791.0,Adam,Elizabeth
+659,1781.0,Adam,Elizabeth
+660,1778.0,Adam,Elizabeth
+661,1783.0,Adam,Elizabeth
+662,1796.0,Frederick,Anna  Maria
+663,1799.0,Frederick,Anna  Maria
+664,1799.0,Frederick,Anna  Maria
+666,1790.0,Andries,Christina
+667,1792.0,Andries,Christina
+668,1783.0,Andries,Elizabeth
+669,1771.0,Johannes,Christina
+670,1784.0,John,Anistina
+671,1787.0,John,Eleanora
+672,1798.0,John,Eleanora
+673,1791.0,John,Eleanora
+674,1793.0,John,Eleanora
+676,1784.0,Martin,Charity
+677,1787.0,Peter,Maria
+679,1786.0,Christian,Hannah
+681,1784.0,Yorek,Anna
+682,1782.0,Peter,Elizabeth
+683,1783.0,Philip,Eva
+684,1779.0,Michael,Maria
+685,1781.0,John,Dolly
+686,1792.0,Peter,Margriet
+687,1782.0,Peter,Margriet
+688,1782.0,John  Wilhelm,Debora
+689,1791.0,Cunrad,Maria
+690,1785.0,Cunrad,Maria
+691,1787.0,Cunrad,Maria
+692,1771.0,Samuel,Elizabeth
+693,1785.0,Cunrad,Maria
+694,1771.0,Johannes,Margretha
+695,1789.0,Johannes,Catharina
+696,1779.0,Gottlieb,Elizabeth
+698,1793.0,Peter,Elizabeth
+699,1796.0,Peter,Elizabeth
+700,1784.0,Henry,Anna
+702,1789.0,Henry,Anna
+703,1794.0,Henry,Anna
+704,1780.0,Henry,Anna
+705,1778.0,Henry,Anna
+706,1787.0,Henry,Anna
+707,1782.0,Henry,Anna
+708,1800.0,Henry,Anna
+709,1792.0,Henry,Anna
+710,1785.0,Philip,Margriet
+711,1792.0,John,Maria
+712,1794.0,John,Maria
+713,1799.0,Josh,Anna
+714,1791.0,Josh,Anna
+715,1793.0,Josh,Anna
+716,1785.0,John,Anna  Margarera
+718,1788.0,Jos,Sara
+719,1786.0,Jos,Sara
+720,1781.0,Jacob,Maria
+721,1781.0,Jacob,Maria
+722,1781.0,Jacob,Maria
+723,1778.0,John,Dellj
+724,1786.0,John,Dellj
+725,1789.0,John,Dellj
+726,1784.0,John,Dellj
+727,1792.0,John,Dolly
+728,1789.0,Mattheus,Susanna
+729,1792.0,Mattheus,Susanna
+730,1789.0,Mattheus,Susanna
+731,1798.0,Michael,Anna
+732,1788.0,Michael,Anna
+733,1795.0,Michael,Annje
+734,1792.0,Michael,Annje
+735,1795.0,Michael,Annje
+736,1786.0,Michael,Annje
+737,1795.0,Michael,Annje
+738,1795.0,Michael,Annje
+739,1790.0,Peter,Margriet
+740,1787.0,Peter,Margriet
+741,1787.0,William,Maria
+742,1782.0,William,Maria
+743,1778.0,Daniel,Elizabeth
+744,1780.0,Daniel,Elizabeth
+745,1773.0,Robert,Hannah
+746,1777.0,Robert,Hannah
+747,1789.0,Robert,Hannah
+748,1786.0,Robert,Hannah
+749,1792.0,Robert,Hannah
+750,1783.0,Robert,Hannah
+751,1785.0,Christian,Charity
+752,1785.0,Christian,Charity
+753,1785.0,Christian,Charity
+754,1785.0,Christian,Charity
+755,1785.0,Christian,Charity
+756,1785.0,Christian,Charity
+757,1785.0,Christian,Charity
+758,1797.0,Joseph,Elsie
+759,1785.0,Paulus,Maria
+761,1785.0,Peter,Maria
+762,1798.0,Henry,Catharina
+763,1796.0,Henry,Catharina
+764,1779.0,Christian,Salome
+765,1799.0,Cunrad,Bolly
+766,1781.0,Robert,Agnes
+767,1784.0,Baltus,Catharina
+768,1785.0,Baltus,Catharina
+769,1787.0,Baltus,Catharina
+770,1779.0,Jacob,Catharina  Schneider
+771,1786.0,John,Elizabeth
+772,1771.0,John,Elizabeth
+773,1781.0,John,Elizabeth
+774,1778.0,John,Elizabeth
+775,1790.0,John,Elizabeth
+776,1779.0,John,Elizabeth
+777,1780.0,Cunrad,Maria
+778,1778.0,Cunrad,Maria
+779,1783.0,Cunrad,Maria
+780,1785.0,John,Margriet
+781,1795.0,Jacob  Sr,Anna  Gertroud
+783,1782.0,Thomas,Bolly
+784,1789.0,Thomas,Bollj
+785,1786.0,Thomas,Bolly
+786,1786.0,Thomas,Bolly
+787,1792.0,Thomas,Bolly
+788,1787.0,John,Catharina
+789,1789.0,John,Catharina
+790,1785.0,John,Catharina
+791,1784.0,Adam,Sophia
+792,1785.0,Adam,Sophia
+793,1797.0,Jacob  Jr,Maria
+794,1795.0,Jacob  Jr,Maria
+795,1785.0,Griffit,Anna  Maria
+796,1785.0,Andries,Anna  Catharine
+797,1788.0,Andries,Anna  Catharine
+798,1788.0,Henry,Elizabeth
+799,1771.0,Benjamin,Judith
+800,1785.0,Michael,Elizabeth
+801,1786.0,Charles,Maria
+802,1788.0,Charles,Maria
+803,1772.0,Thomas,Esther
+804,1794.0,John,Margriet
+805,1789.0,Abraham,Eva
+806,1783.0,Abraham,Eva
+807,1783.0,Abraham,Eva
+808,1777.0,William,Margary
+809,1798.0,George,Maria
+810,1772.0,Abraham,Eva
+811,1789.0,Lucas,Catharina
+812,1779.0,Johannes  Georg,Catharina
+813,1781.0,John  Georg,Catharina
+814,1792.0,John,Anna
+815,1792.0,Daniel,Catharina
+816,1795.0,Lucas,Anna
+817,1799.0,Michael,Maria
+818,1792.0,John,Anna
+819,1790.0,Johannes,Maria
+820,1784.0,T  Wilhelm,Maria
+821,1781.0,Johannes,Anna  Catharine
+822,1785.0,William,Maria
+823,1781.0,William,Bolly
+824,1778.0,William,Bolly
+825,1783.0,William,Maria
+826,1795.0,Ezekiel,Bolly
+827,1797.0,Ezekiel,Bolly
+828,1794.0,Ezekiel,Bolly
+829,1792.0,Ezekiel,Bolly
+830,1778.0,David,Maria
+831,1779.0,David,Maria
+832,1783.0,David,Maria
+833,1783.0,David,Maria
+834,1785.0,Frederick,Sophia
+835,1787.0,Jacob,Elizabeth
+836,1784.0,Jacob,Elizabeth
+154,1782.0,Moritz,Moritz Waldorf 
+158,1785.0,Moritz,Cunrad Bonn 
+234,1784.0,David,Datin 
+313,1787.0,John,Frederick  Martinj
+468,1792.0,Frederick,Michael  Thomase
+476,1778.0,William,Frieder: Fritz 
+578,1788.0,Balthes,Phoebe  Mcclachen
+585,1771.0,Baltus,Henrich  Schweitzer
+557,1799.0,John  Murphy,Peggy  Daub
