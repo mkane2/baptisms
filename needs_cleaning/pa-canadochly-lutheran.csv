@@ -1,0 +1,798 @@
+year,bapt_day,child,surname,parents 1,parents 2,sponsors 1,sponsors 2,sponsors 3,line,page,birth_year,birth_mo,birth_day,bapt_mo
+1755,16,Maria Barbara,Gohn,Adam Gohn,Maria Catharina Gohn,Maria Barbara Schmelzer,Veit Behner,Sophia Behner,1,1,1754,9,17,3
+1756,22,Maria Margaretha,Gohn,Adam Gohn,Maria Catharina Gohn,Maria Sophia Behner,Ludwig Meyer,Margaretha Meyer,2,1,1756,5,24,6
+1757,9,Johann Philipp,Gohn,Adam Gohn,Maria Catharina Gohn,Johann Philipp Gohn,Maria Barbara Dietz,,3,1,1757,8,14,10
+1755,31,Johann Peter,Dritt,Peter Dritt,Maria Barbara Dellinger,Paul Michel,Christina Michel,,4,1,1755,3,5,3
+1757,10,Maria Margaretha,Dritt,Peter Dritt,Maria Barbara Dellinger,Josua Dellinger,Maria Margaretha Michel,,5,1,1757,6,27,7
+1762,8,Josua,Dritt,Peter Dritt,Maria Barbara Dellinger,Josua Dellinger,Anna Barbara Dellinger,,6,1,1762,10,1,10
+1756,18,Maria Elisabetha,Liebharth,Heinrich Liebharth,Maria Catharina Liebharth,Maria Elisabetha Amend,,,7,1,1755,12,26,4
+1755,31,Maria Barbara,Muhlhof,Philipp Muhlhof,Luise Catharina Muhlhof,Johann Adam Gartner,Maria Barbara Amend,,8,1,1755,8,2,8
+1757,9,Anna Margaretha,Muhlhof,Philipp Muhlhof,Luise Catharina Muhlhof,Philipp Lantz,Anna Margaretha Lantz,,9,1,1757,9,6,10
+1755,27,Heinrich,Bentz,Philipp Bentz,Maria Magdalena Bentz,Heinrich Liebharth,Maria Catharina Liebharth,,10,1,1754,10,19,4
+1755,5,Johann Jacob,Imschwiller,Peter Imschwiller,Maria Eva Imschwiller,Christoph Toll,Eva Margaretha Toll,,11,1,1755,8,26,10
+1757,9,Maria Magdalena,Bannix,Heinrich Bannix,wife of Heinrich Bannix,Philipp Gohn,Maria Magdalena Paules,,12,1,1757,11,13,12
+1755,19,Christina,Deh,Johann Nicolaus Deh,Anna Margaretha Abel,Peter Attich,Christina Attich,,13,1,1755,9,30,10
+1758,2,Johann Jacob,Deh,Johann Nicolaus Deh,Anna Margaretha Abel,Johann Jacob Riemann,Christina Riemann,,14,1,1758,3,8,4
+1760,3,Johann Nicolaus,Deh,Johann Nicolaus Deh,Anna Margaretha Abel,Johann Melcher Lorei,Catarina Liesabeta Lorei,,15,1,1760,4,12,5
+1762,31,Anna Margreta,Deh,Johann Nicolaus Deh,Anna Margaretha Abel,Ernst Stoffel Heltzel,Anna Christina Heltzel,,16,1,1762,10,14,10
+1755,26,Julianna,Wallendin,Michael Wallendin,Maria Eliesabetha Dietenhofer,Johann Adam Paules,Juliana Dietenhofer,,17,1,1755,9,27,10
+1757,14,Johan Jacob,Wallendin,Michael Wallendin,Maria Eliesabetha Dietenhofer,Johan Jacob Hauble,Luise Sophia Hauble,,18,1,1757,7,28,8
+1748,4,Johann Michael,Kauffelt,Nicolaus Kauffelt,Barbara Kauffelt,Johann Michael Rausch,Maria Eliesabetha Rausch Rausch,,19,1,1748,4,24,6
+1750,2,Johan Jacob,Kauffelt,Nicolaus Kauffelt,Barbara Kauffelt,Johann Jacob Wolff,Maria Salome Rausch,,20,1,1749,12,25,2
+1756,4,Heinrich,Geipp,Joh Nicolaus Sen Geipp,Anna Scharlotta Geipp,Conrad Dietz,Sussana Catharina Dietz,,22,1,1756,3,30,4
+1756,29,Maria Catharina,Riemann,Jacob Riemann,Christina Riemann,Heinrich Liebharth,Maria Catharina Liebharth,,23,1,1756,5,7,5
+1755,1,Johannes,Stoll,Heinrich Stoll,Sussana Stoll,Johannes Beyer,Anna Margaretha Beyer,,24,2,1755,9,30,12
+1756,19,Johann Nickolaus,Leber,Jacob Leber,Anna Maria Leber,Johann Nicolaus Reisinger,Eva Reisinger,,25,2,1756,7,29,9
+1758,1,Johannes,Leber,Jacob Leber,Anna Maria Leber,Johannes Attich,Maria Magdalena Paulus,,26,2,1757,11,30,1
+1756,4,Johann Jacob,Cron,Johannes Cron,Anna Maria Cron,Johann Jacob Leber,Anna Maria Leber,,29,2,1756,5,21,7
+1757,3,Anna Maria,Cron,Johannes Cron,Anna Maria Cron,Peter Attich,Anna Christina Attich,,30,2,1757,6,12,7
+9,,Imenhauser,Imenhauser,Adam Imenhauser,Anna Margaretha Imenhauser,Michael Wallendin,Maria Eliesabetha Wallendin,,3,,1754,9,1756,26
+1756,26,Anna Maria,Imenhauser,Adam Imenhauser,Anna Margaretha Imenhauser,Heinrich Wolff,Anna Maria Wolff,,40,3,1756,8,3,9
+1755,6,Samuel,Hahn,Johannes Hahn,Eliesabetha Margaretha Hahn,Johann Samuel Schwerdtfeger,Anna Maria Bentz,,41,3,1755,12,1,12
+1756,12,Rebecca,Hahn,Johannes Hahn,Eliesabetha Margaretha Hahn,Maria Barbara Dellinger,Samuel Schwerdtfeger,,42,3,1756,12,12,12
+1758,30,Maria Barbara,Hahn,Johannes Hahn,Agnes Legnier,Peter Dritt,Maria Barbara Dritt,,43,3,1758,4,21,4
+10,,Lorentz,Hirschener,Lorentz Hirschener,Maria Salome Hirschener,Jacob Schultz,Maria Barbara Ament,,,,1757,1757,4,
+1757,11,Catharina,Zimermann,Michael Zimermann,Maria Magdalena Zimermann,Michael Paules,Catharina Paules,,45,3,1757,9,6,9
+1757,10,Heinrich,Bayer,Johannes Bayer,Anna Margaretha Bayer,Heinrich Stohl,Sussanna Stohl,,46,3,1757,3,4,4
+1766,27,Johan Peter,Bayer,Johannes Bayer,Anna Margaretha Bayer,Peter Dritt,Maria Barbara Dritt,,47,3,1766,1,3,4
+1757,25,Jacobus or James,Bord-Jou,William Bord-Jou,Rebecca Bord-Jou,Veit Behner,Maria Sophia Behner,,48,3,1756,10,11,9
+1756,9,Maria Margaretha,Michel,Johann Wilhelm Michel,Anna Barbara Schonberger,Balthaser Schonberger,Maria Margaretha Michel,,49,3,1756,2,17,3
+1757,31,Johannes,Michel,Johann Wilhelm Michel,Anna Barbara Schonberger,Johannes Schonberger,Maria Margaretha Michel,,50,3,1757,7,12,7
+1756,25,Heinrich,Schafer,Christoph Schafer,Sybilla Christina Bard,Heinrich Wolff,Anna Maria Wolff,,51,3,1756,3,12,4
+1765,3,a little son,Schafer,Christoph Schafer,Sybilla Christina Bard,Johannes Philipp Gohn,Maria Sophia Penner,,52,3,1765,1,14,2
+1755,19,Maria Barbara,Schafer,Paulus Schafer,Anna Eliesabetha Bard,Nickolaus Kauffelt,Maria Barbara Kauffelt,,53,3,1755,9,8,10
+1755,16,Maria Eliesabetha,Lantz,Georg Philipp Lantz,Anna Margaretha Muhlhof,Maria Eliesabetha Schmied,Anna Maria Haber,,54,3,1755,10,4,11
+1757,27,Johann Jacob,Demuth,Mathias Demuth,Anna Maria Brehm,Johann Jacob Hester,Johannes Demuth,,55,4,1757,11,30,12
+1758,19,Sophia Christina,Grisch,Georg Ludwig Grisch,Maria Catharina Grisch,Johann Jacob Riemann,Christina Riemann,Maria Sophia Riemann,56,4,1757,12,20,3
+1758,15,Anna Catharina,Bennighof,Philipp Bennighof,Maria Eliesabetha Schwerd,Joshua Dellinger,Anna Catharina Schwerd,,57,4,1757,12,29,1
+1759,13,Regina,Harington,Jacob Harington,Maria Harington,Moses Gooden,Eliesabetha Evan,Maria Sophia Behner,58,4,1759,1,3,4
+1758,29,Anna,Harington,Isaac Harington,Jeanne Harington,Philipp Bennighoff,Maria Barbara Dellinger,,59,4,1756,2,24,1
+1758,29,Johann Georg,Schonberger,Balthaser Schonberger,Anna Margaretha Abel,Johan Georg Abel,Anna Margaretha Abel,,60,4,1757,12,28,1
+1756,30,Johann Peter,Michel,Jacob Michel,Eliesabetha Michel,Peter Bentz,,,61,4,1755,6,8,5
+1758,27,Veronica,Michel,Jacob Michel,Eliesabetha Michel,Antoni Kirchhard,Veronica Kirchhard,,62,4,1757,9,17,2
+1758,12,Johannes,Schon,Jacob Schon,Eliesabetha Catharina Schon,Jacob Stegner,Christina Stegner,,63,4,1758,2,16,3
+12,,Michael,Buttner,Michael Buttner,Eliesabetha Buttner,Jacob Siegrist,Barbara Siegrist,,,,1758,1758,3,
+1758,12,Anna Margaretha,Schwartz,Michael Schwartz,Eva Buschung,Georg Dietz,Anna Margaretha Schmid,,65,4,1758,1,25,2
+1760,3,Johann Michael,Schwartz,Michael Schwartz,Eva Buschung,Michael Konig,Catharina Konig,,66,4,1760,8,3,8
+1763,16,Anna Elisabeta,Schwartz,Michael Schwartz,Eva Buschung,Johann Georg Buschung,,,,,1763,1,9,1
+1758,14,Maria Barbara,Hermann,Melchior Hermann,Agne Schneider,Jacob Dellinger,Maria Barbara Dellinger,,68,4,1757,12,4,5
+1758,20,Johann Melchior,Cron,Simmon Cron,Maria Catharina Gohn,Johann Melchior Loray,Catharina Eliesabetha Loray,,69,4,1758,8,10,8
+1758,2,Cath Eliesabetha,Kirchhard,Antonius Kirchhard,Veronica Allbrecht,Jacob Michel,Magdalena Eliesabetha Michel,,70,4,1758,5,29,7
+1758,,,Bleymeyer,Martin Bleymeyer,Catharina Bleymeyer,Johann Philipp Flindspach,Margaretha Flindspach,,,,1758,2,12,Bleymeyer
+1758,,,Zumwald,Balthasar Zumwald,Maria Clara Zumwald,Gottfried Frey,Anna Siegrist,Gottfried Frey,,,1758,4,12,Zumwald
+1758,,,Schmid,Philipp Schmid,Cathar: Eliesabetha,Johannes Cron,Anna Maria Cron,,,,1758,10,2,Schmid
+1758,25,Joh.Jacob,Schultz,JohnJacob Schultz,Maria Barbara Amend,Johann Jacob Welshofer,Maria Eliesabetha Amend,,74,5,1758,11,12,12
+1759,11,Anna Catharina,Heyger,Valendin Heyger,Anna Catharina Heyger,Anna Catharina Welshoffer,,,75,5,1758,10,27,2
+1758,24,Johannes,Hebeisen,Philipp Hebeisen,Anna Margaretha Hebeisen,Johannes Andreas,Maria Margaretha Andreas,,76,5,1758,10,7,12
+1756,25,Catharina,Attich,Peter Attich,Anna Christina Attich,Catharina Eliesabetha Abel,,,77,5,1756,3,31,4
+1759,11,Johannes,Wachtel,Georg Wachtel,Maria Barbara Breckle,Johannes Hahn,Agnes Hahn,,79,5,1758,12,8,3
+1759,13,Eduard,Euens (Evans?),Samuel Evans,Francisca Evans,Viet Behner,Maria Sophia Behner,,78,5,1759,3,18,4
+1759,15,Catharina,Hirschener,Johannes Hirschener,Christina Hirschener,Philipp Haber,Catharina Haber,,80,5,1759,1,28,4
+1759,,,Schonberger,Balthasar Schonberger,Maria Margaretha Schonberger,Johanes Schonberger,Anna Barbara Abel Schonberger,,,,1759,10,4,Schonberger
+1759,,,Zimerman,Michael Zimerman,Maria Magdalena Zimerman,Michael Konig,Ana Catharina Konig,,,,1759,10,15,Zimerman
+1759,,,Kron,Simon Kron,Maria Catharina Kron,Philipp Schmeltzer,Anna Catharina Schmeltzer,,,,1759,12,10,Kron
+1777,13,Johann Adam,Zimermann,Michael Zimermann,Maria Magdalena Zimermann,Adam Paules,,,84,5,1777,3,18,4
+1777,,,Gohn,Johann Philipp* Gohn,Maria Sophia Gohn,Michael Rausch,Anna Elies Krieger,Michael Krieger,,,1739,10,14,Gohn
+1777,,,Gohn,Johann Philipp Gohn,Maria Sophia Gohn,Adam Gohn,Maria Catharina Gohn,Anna Eliesabeth Rau,,,1744,9,16,Gohn
+1777,,,Behner,Vitus Behner,Maria Sophia Behner,Christoph Kauffelt,Maria Margaretha Kauffelt,Anna Elie,,,1747,10,30,Behner
+1777,,,Behner,Vitus Behner,Maria Sophia Behner,Georg Amend,Maria Catharina Amend,Anna Maria Kalckk,,,1750,1,18,Behner
+1777,,,Behner,Vitus Behner,Maria Sophia Behner,Georg Amend,Maria Catharina Amend,,,,1753,5,5,Behner
+1759,10,Gorg Ludwig,Infeld,Joseph Infeld,Christina Infeld,Ludwig Mayer,Anna Margaretha Wicker,,91,6,1759,1,28,2
+1759,10,Anna Margaretha,Infeld,Joseph Infeld,Christina Infeld,Balthasar Wicker,Anna Margaretha Mayer,,92,6,1759,1,28,2
+1762,15,Thomas,Infeld,Joseph Infeld,Christina Infeld,Thomas Zigler,Margaretha Zigler,,93,6,1762,3,10,4
+1758,11,,,Jacob Schmelzer ,Anna Margaretha Wacker,Anna Margaretha Schmidt,,,,,1758,9,3,9
+1761,29,Maria Elisabeta,Schmelzer,Jacob Schmelzer,Anna Margaretha Wacker,Johannes Kumfort,,,,,1761,1,8,3
+1763,5,Johann Jacob,Schmelzer,Jacob Schmelzer,Anna Margaretha Wacker,David Wacker,,,,,1763,5,30,6
+1762,8,Johann Jacob,Brubacher,Isaac Brubacher,Anna Maria Tiefenddorffer,Conrad Brubacher,Eva Brubacher,,97,6,1762,1,4,8
+1761,20,,,Anna Elisabet Paulis ,Antonius Ament,,,,,,1761,3,20,3
+1765,3,,,,Antonius Ament,Johann Lorenz Paulus,Johan Lorentz,,,,1765,1,6,2
+1763,6,Anna Catharina,Wolff,Heinrich Wolff,Anna Maria Kramer,Philipp Schmelzer,,,101,7,1763,1,20,2
+1763,20,Anna Barbara,Seiler,Ulrich Seiler,Maria Elisabeta Giese,Jacob Sincke,Anna Sincke,,102,7,1763,1,1,3
+1762,3,Anna Elisabeta,Lafeber,Georg Lafeber,Anna Barbara Schleyermacher,Anna Elisabeta Paulis,,,,,1762,1,14,2
+1765,4,Johann Adam,Ament,Johannes Ament,Maria Apollonia Paulis,Johann Adam Paul,Ana Catharina Elisabeta Paul,,104,7,1765,1,29,2
+1765,4,Johann Lorentz,Ament,Johannes Ament,Maria Apollonia Paulis,Johann Lorenz Paul,,,,,1765,1,29,2
+1766,27,Johan Georg,Willd,Johan Henric Willd,Catharina Willd,Johan Georg Deh,Anna Margaretha Deh,,106,7,1766,2,25,3
+1768,16,Anna Catharina,Deh,Johan Georg Deh,Anna Margaret Deh,Anna Margaretha Deh,,,107,7,1768,1,2,1
+1768,,,Maria Catharina,Deh Maria Catharina,Johann Nicolaus,Ulrich Seyler,Maria Elisabetha Seyler,,,,1766,4,25,Maria Catharina
+1768,,,Petter,Deh Petter,Johann Nicolaus,Jacob Schuckman,Maria Elisabetha Schuckman,,,,1766,4,25,Petter
+1768,27,Johannes,Deh,Johannes Nicolaus Deh,Anna Margaret Deh,Johannes Attich,Christina Attich,,110,7,1768,11,12,12
+1772,2,Georg,Deh,Johannes Nicolaus Deh,Anna Margaret Deh,Jorg Adich,Liesabeth Adich,,111,7,1771,12,14,6
+1775,26,Johan Fridrich,Deh,Johannes Nicolaus Deh,Anna Margaret Deh,Fridrich Liebenknecht,Catharina Liebenknecht,,112,7,1774,11,6,3
+1766,10,Christoffel,Lieberknecht,Johann Friederich Lieberknecht,,Ernst Christoffel Heltzel,Anna Christina Heltzel,,7,,1766,1,26,1
+1766,18,Andreas,Strehr,Johann Nicolaus Strehr,Mirick Catrina Strehr,Andreas Gohn,Liesabeta Dellinger,,118,8,1765,12,9,4
+1765,26,Johann Jacob,Meyer,Johann Georg Meyer,Liesabeta Meyer,Paul Traut,Catarina Margret Liesab,Jacob Schuckman,119,8,1765,12,22,12
+1767,3,Johan Nicolaus,Schweytzer,Johan Niclas Schweytzer,Vendelina Gertraude Schafmann,Johan Nicolaus Deh,Anna Margaretha Deh,,120,8,1767,4,28,5
+1767,25,Maria Margaretha,Gering,Jacob Gering,Margareta Gering,Niclas Straer,Maria Catharina Straer,,121,8,1767,5,17,10
+1767,1,Johannes,Gohn,Phiellieb Gohn,Anna Liesbeta Gohn,Johannes Dellinger,Feit Behner,Maria Elizabeth Dellinger,122,8,1767,3,29,4
+1767,,,Gohn,Phiellieb Gohn,Anna Liesbeta Gohn,Johan Jacob Dellinger,Maria Sophia Behner,,,,1769,11,12,Gohn
+1767,,,Gohn,Phiellieb Gohn,Anna Liesbeta Gohn,Gorg Schmitt,Caterina Eliesabetha Schmitt,,,,1772,5,3,Gohn
+1777,8,Johan Gorg,Gohn,Phiellieb Gohn,Anna Liesbeta Gohn,Josua Dellinger,,,125,8,1777,5,25,6
+1780,28,Maria Eliesabetha,Gohn,Phiellieb Gohn,Anna Liesbeta Gohn,Heinrich Schaffer,Ana Elisabetha Dellinger,,127,8,1780,5,14,6
+1780,,,Groff,Hannes Groff,Anna Madlinna Groff,Jacob Stahle,Efa Stahle,,,,1768,5,4,Groff
+1768,21,Maria Sophia,Schmitt,Georg Schmitt,Catharina Schmitt,Henrich Gohn,Sophia Behner,,129,8,1768,10,29,11
+1769,7,Anna Christina,Paulus,Lorentz Paulus,Anna Christina Paulus,Maria Elisabetha Seiler,Cath Paulus,,130,8,1769,1,28,2
+1769,19,Joh. Peter,Tritt,Jacob Tritt,Elizabeth Tritt,Philip Bayer,Anna Elisabeth Tritt,,131,8,1769,1,23,2
+1769,19,Anna Elisabeth,Schonberger,Baltzer Schonberger,Maria Margaret Schonberger,Philip Gohn,,,132,8,1768,11,23,2
+1769,19,Joh. Michael,Cron,Johannes Cron,Anna Maria Cron,Johannes Meyer,,,133,8,1768,11,22,2
+1769,19,Maria Magdalena,Schleifer,Philipp Schleifer,Maria Magdalene Schleifer,Johannes Rugert,Elisabeth Schleifer,,134,8,1769,1,7,2
+1768,19,Anna Catharina,Seiler,Caspar Seiler,Maria Margaret Seiler,Johannes Adam Paulus,,,135,8,1768,12,10,2
+1768,,,Lipphard,Hennrich Lipphard,Anna Barbara Lipphard,Maria Elisabetha Lipphard,Hennrich Lipphard,,,,1769,4,26,Lipphard
+1768,Peter,,137,,,Pfillib Schleiffer,Maria Magdalena Schlieffer,,,,1768,11,24,Imschweiller
+4,,Hederich,Hederich,Jacob Hederich,Barbara Hederich,Pfilib Gohn,Ana Elisabeth Gohn,,9,,1770,3,1770,1
+1770,1,Maria Catharina,Dellinger,Josua Dellinger,Barbara Dellinger,Johan Weinand,Eva Weinand,,139,9,1770,3,26,4
+1770,1,Johan,Beyer,Jacob Beyer,Catharina Beyer,Johan Beyer,Ana Margretha Beyer,,140,9,1770,2,10,4
+1770,Anmarkredta,,141,,,Hannes Tormann,Catherine Margareta Torman,,,,1771,1,26,Hanness
+1803,8,Ester,Becker,Madeis Becker,Ester Becker,The parents themselves,,,142,9,1803,7,12,8
+1803,11,Cadarina,Brubacher,Hanes Brubacher,Ester Brubacher,Sigemond Anstein,Cadarina Anstein,,143,9,1803,11,3,12
+1803,Ludwig,,145,,,Gorg Adich,Caderrina Erford,,,,1771,10,14,Schmit
+1803,Andony,,146,,,Gorg Behner,Annelis Schaffer,,,,1772,5,2,Keller
+1777,16,Johannes,Eller,Georg Ludwig Eller,Barbara Eller,Johannes Muth,,,147,9,1777,1,6,2
+1777,9,Johann Martin,Fuchs,Georg Fuchs,Catharina Fuchs,The father himself,,,148,9,1777,2,5,2
+1820,12,Rebecca,Feg,Georg Feg,Susanna Feg,Gareta Dellinger,,,149,9,1819,9,16,3
+1777,8,Johannes,Williams,Joseph Williams,Elisabetha Williams,Michael Zimermann,Magdalena Zimermann,,150,9,1777,2,20,6
+1772,8,Ana Catharina,Dity,Peter Dity,Anna Maria Dity,Michael Konig,Catharina Konig,,151,9,1772,12,3,12
+1775,28,Ana Maria,Dity,Peter Dity,Anna Maria Dity,The parents themselves,,,152,9,1775,2,23,2
+1777,20,Marie Magdalena,Dity,Peter Dity,Anna Maria Dity,The parents themselves,,,153,9,1777,8,9,8
+1752,25,Christina,Herschner,Lorentz Herschner,wife of Lorentz Herschner,Johannes Schultz,,,154,9,1752,11,30,12
+1757,10,Barbara,Herschner,Lorentz Herschner,wife of Lorentz Herschner,Jacob Schultz,,,155,9,1757,3,7,4
+1757,,,Herschner,Lorentz Herschner,wife of Lorentz Herschner,Johannes Fischer,wife of Johannes Fischer,,,,1767,6,1,Herschner
+1757,,,Herschner,Lorentz Herschner,wife of Lorentz Herschner,Peter Staly,wife of Peter Staly,,,,1769,3,25,Herschner
+1757,,,Herschner,Lorentz Herschner,wife of Lorentz Herschner,Andreas Bausmann,wife of Andreas Bausmann,,,,1771,4,13,Herschner
+1757,,,Herschner,Lorentz Herschner,wife of Lorentz Herschner,Gorg Wambach,wife of Gorg Wambach,,,,1773,11,20,Herschner
+1757,,,Herschner,Lorentz Herschner,wife of Lorentz Herschner,Heinrich Liebhardt,wife of Heinrich Liebhardt,,,,1776,2,12,Herschner
+1778,2,Johannes,Gohn,Andreas Gohn,Euphronica Gohn,Johannes Kuster,Cath Gohn,,161,10,1778,2,14,5
+1778,,Abel,Abel,Georg Abel,Maria Abel,Georg Attig,wife of George Attig,,10,,1778,2,28,4
+1783,30,Johannes,Abel,Georg Abel,,Johannes Schonberger,wife of Johan Schonberger,,10,,1783,2,14,3
+1783,30,Johannes,Gohn,Philip Gohn,,Anton Keller,,,10,,1783,2,12,3
+1795,12,Daniel,Oberdorff,Georg Oberdorff,Elisabeth Oberdorff,Conrad Brubacher,Christina Brubacher,,165,10,1795,2,5,3
+1778,12,Johannes,Oberdorff,Gorg Oberdorff,Elisabetha Oberdorff,Johannes Gohn,,,166,10,1778,6,18,7
+1779,9,Christina,Oberdorff,Georg Oberdorff,wife of Georg Oberdorff,Christopher Schaeffer,Christina Schaeffer,,167,10,1779,8,5,8
+1779,,,Oberdorff,Gorg Oberdorff,Elisabetha Oberdorff,Jacob Negl,wife of Jacob Negl,,,,1781,9,1,Oberdorff
+1783,17,Johannes,Oberdorff,Georg Oberdorff,wife of Georg Oberdorff,Phillip Frey,[noname] Frey,,169,10,1783,7,27,8
+1785,17,Christina,Oberdorff,Georg Oberdorff,Elisabeth Oberdorff,Christina Schafer,,,170,10,1785,3,27,4
+1787,14,Maria Elisabeth,Oberdorff,Georg Oberdorff,Elisabeth Oberdorff,Michel Kauffeld,,,171,10,1787,9,18,10
+1791,26,Cataryna,Oberdorff,Georg Oberdorff,Elisabeth Oberdorff,Cristina Schoffer,,,172,10,1791,11,14,12
+1778,16,Johann Peter,Manges,Cartolus Manges,wife of Cartolus Manges,Friedrich Lieberknecht,,,173,10,1778,7,3,8
+4,,Manges,Manges,Carolus Manges,,Friedrich Lieberknecht,,,10,,1786,24,1786,17
+4,wife,,176,,,Michel Muller,wife of Michael Muller,,,,1783,5,Johan Adam,Carl
+4,,,Jung,Johannes Wilhelm Jung,wife of Johannes Wilhelm Jung,Johannes Schmidt,Elisabetha Schmidt,,,,1781,6,4,Jung
+4,Georg,,178,,,Johann Schaffer,Barbara Hamm,,,,1780,11,5,Behner
+1784,6,Johann Peter,Wolf,Heinrich Wolf,Catharina Wolf,Heinrich Wolf,Anna Maria Wolf,,179,10,1784,5,5,6
+1786,3,Johan Georg,Weinhold,Georg Weinhold,Margaret Weinhold,Michael Stromenger,,,180,10,1786,7,14,9
+1786,1,Daniel,Gohn,Andreas Gohn,Feronica Gohn,Philip Gohn,Elisabet Gohn,,181,10,1786,8,27,10
+1785,30,Salome,Klein,Peter Klein,Elisabetha Klein,Salome Puer then unmarried,,,182,11,1784,12,23,1
+1786,17,Catrana,Strohmenger,Michael Strohmenger,Regina Strohmenger,Catrina Stromenger,,,183,11,1786,8,20,9
+1786,,,Ruby,Johannes Ruby,Salome Ruby,Johannes Schonberger,Margreta Schonberger,,,,1786,8,3,Ruby
+1786,5,Miller,Michael,Michael Miller Michael,Susanna MIller Michael,Tobias Miller,Caherine Miller,,11,,1786,9,30,11
+1785,5,Catharina,Dellinger,Johannes Dellinger,Barbara Dellinger,Catharina Reuter of single state,,,186,11,1785,2,17,5
+1795,5,Johann Heinrich,Dellinger,Johannes Dellinger,Barbara Dellinger,Anton Ament,,,187,11,1793,1,14,5
+1795,5,Josua,Dellinger,Johannes Dellinger,Maria Barbara Dellinger,Josua Dellinger,,,188,11,1794,4,13,5
+1783,30,Johannes,Gohn,Phillip Gohn,Elisabeth Gohn,Anton Keller,Elisabeth Keller,,189,11,1783,2,12,3
+1785,11,Christina,Zimer,Michael Zimer,wife of Michael Zimer,The mother herself,,,194,11,1785,9,3,12
+1786,23,Johannes,Herschner,Johannes Herschner,Catharina Herschner,Heinrich Kaltreuter,,,195,11,1786,5,11,7
+1796,30,Daniel,Gohn,Philipp Gohn,Elisabetha Gohn,The parents themselves,,,196,11,1796,5,23,5
+1796,,,Gohn,Philipp Gohn,Elisabetha Gohn,Gorg Oberdorf,Anna Elisabetha Oberdorf,,,,1798,5,12,Gohn
+1777,,Muller,Muller,Michael Muller,Susanna Muller,Barbara Lantz,,,11,,1777,7,8,8
+1780,26,Catharina,Muller,Michael Muller,Susanna Muller,Catharina Muller of single state,,,199,11,1780,11,23,12
+1784,,Muller,Muller,Michael Muller,Susanna Muller,Friedrich Lieberknecht,wife of Friedrich Lieberknecht,,11,,1784,5,23,8
+1787,4,Johannes,Schaub,Jacob Schaub,Maria Schaub,The parents themselves,,,201,11,1787,1,26,2
+1789,6,Hanss Jacob,Schaub,Jacob Schaub,Maria Schaub,The parents,,,202,11,1789,11,23,12
+1787,30,Anna Margareth,Willis,Wilhelm Willis,wife of Wilhelm Willis,Anna Margreth Dellinger,,,203,11,1787,2,19,5
+1791,25,Henrich,Schaub,Jacob Schaub,Maria Schaub,The parents themselves,,,204,12,1791,4,7,4
+1788,6,Daniel,Wolff,Heinrich Wolff,Catharina Wolff,Peter Geib,Barbara Geib,,208,12,1787,9,21,1
+1784,,Peter,Geib,Peter Geib,Barbara Geib,Appolonia Liephardt,,,,,1784,2,25,
+1786,,Peter,Geib,Peter Geib,Barbara Geib,Henry Geib,Catharina Geib,,,,1786,3,3,
+1788,30,Peter,Geib,Peter Geib,Barbara Geib,Peter Klein,Elisabeth Klein,,211,12,1788,1,31,3
+1788,30,Friedrich,Gartner,Georg Gartner,Elisabeth Gartner,Friedrich Frey,,,212,12,1787,11,18,3
+1788,21,Maria Magdalena,Thomson,Wilhelm Thomson,Elisabeth Thomson,Phillip Bayer,Magdalena Bayer,,213,12,1786,8,3,6
+1788,21,Samuel,Thomson,Wilhelm Thomson,Elisabeth Thomson,Jacob Kron,Margaret Kron,,214,12,1788,3,22,6
+1788,21,Daniel,Voigt,Daniel Voigt,Elisabeth Voigt,Jacob Dellinger,,,215,12,1788,6,7,6
+1788,20,Rosina,Hinds,James Hinds,Susanna Hinds,Michael Ziegler,Anna Maria Ziegler,,216,12,1788,3,5,7
+1788,20,Catharina,Petermann,Heinrich Petermann,Anna Maria Petermann,Elisabeth Strohmenger,,,217,12,1788,5,30,7
+1788,14,Catharina,Volck,Salomon Volck,Catharina Volck,Elisabeth Ulrich,,,218,12,1788,7,31,9
+1788,12,Salome,Kreley,Christian Kreley,Catharina Kreley,Salome Gohn,,,219,12,1788,9,6,10
+1788,12,Anna Maria,Strohmenger,Michael Strohmenger,Regina Strohmenger,Heinrich Petermann,Anna Maria Petermann,,220,12,1788,9,23,10
+1788,,,Klein,Peter Klein,Maria Elisabeth Klein,George Gartner,Elisabeth Gartner,,,,1788,12,7,Klein
+1788,7,Elisabeth,Weinhold,Georg Weinhold,Margaret Weinhold,Elisabeth Strohmenger,,,222,12,1788,11,2,12
+1788,7,Catharina,Brubacher,Conrad Brubacher,Christina Brubacher,Catharina Brubacher,,,223,12,1788,10,20,12
+1788,7,Maria Catharina,Imenhauser,Jacob Imenhauser,Christina Imenhauser,Maria Catharina Druck,,,224,12,1788,8,24,12
+1788,Peter,,225,,,Johannes Schaffer,,,,,1789,12,8,Emschwil
+1788,Heinrich,,226,,,Elisabeth Schaffer,,,,,1789,4,4,Ren
+1788,Christian,,227,,,Peter Emschw,,,,,1789,3,25,Hildebrand
+1785,9,Jacob,Holtzlein,Philip Holtzlein,Ana Maria Holtzlein,Christian Holtzlein,Jacob Holtzlein,,228,13,1785,10,9,11
+1787,12,Johannes,Holtzlein,Philip Holtzlein,Ana Maria Holtzlein,Johannes Will,Catharina Will,,229,13,1787,3,11,4
+1789,13,Nicolaus,Holtzlein,Philip Holtzlein,Ana Maria Holtzlein,Nicolaus Holtzlein,,,230,13,1789,1,12,3
+1791,27,Catharina,Holtzlein,Philip Holtzlein,Ana Maria Holtzlein,Ana Christina Jung,,,231,13,1791,1,11,2
+1789,26,Jacob,Gohn,Andreas Gohn,Froncia Gohn,Phillip Gohn,Elisabet Gohn,,232,13,1789,2,27,4
+1789,26,Johann Michael,Schlott,Adam Schlott,Catharina Schlott,Michael Schlott,Catharina Schlott,,233,13,1789,3,9,4
+1789,26,Christian,Bayer,Phillip Bayer,Magdalena Bayer,Adam Amend,,,234,13,1788,11,22,4
+1789,26,Georg,Schukley,Jacob Schukley,Rosina Schukley,Georg Schukley,Margaret Schukley,,235,13,1788,12,1,4
+1789,24,Christina,Ruber,Phillip Ruber,Christina Ruber,Christoph Heindel,,,236,13,1789,2,4,5
+1789,24,Jacob,Vollweiler,Jacob Vollweiler,Anna Maria Vollweiler,Friedrich Lieberknecht,Catharina Lieberknecht,,237,13,1789,3,28,7
+1789,13,Anna Barbara,Kepler,Mathias Kepler,Maria Lisabeth Kepler,Anna Barbara Fischer,,,238,13,1789,8,15,9
+1789,,,Reissinger,Johannes Reissinger,Magdalena Reissinger,Michael Kron,Catharina Kron,,,,1789,11,8,Reissinger
+1789,8,Susanna,Frey,Friedrich Frey,Dorothea Frey,Georg Oberdorf,Elisabeth Oberdorf,,240,13,1789,9,26,11
+1789,8,Heinrich,Gartner,Georg Gartner,Elisabeth Gartner,Heinrich Kann,Christina Kann,,241,13,1789,9,17,11
+1789,8,Michael,Schenberger,Adam Schenberger,Catharina Schenberger,The parents themselves,,,242,13,1789,9,4,11
+1789,8,Maria Elisabeth,Wolff,Heinrich Wolff,Catharina Wolff,Michael Ziegler,Anna Maria Ziegler,,243,13,1789,9,9,11
+1789,6,Anna Margaret,Schlott,Michael Schlott,Catharina Schlott,Anna Margaret Abel,,,244,13,1789,11,1,12
+1789,6,Elisabeth,Ruby,Johannes Ruby,Salome Ruby,Magdalena Ruby,,,245,13,1789,10,3,12
+1789,6,Elisabeth,Will,Johannes Will,Catharina Will,Elisabeth Reinhard,,,246,13,1789,10,24,12
+1789,6,Anna Maria,Rupp,Johannes Rupp,Anna Maria Rupp,Anna Amend,,,247,13,1789,10,17,11
+1790,3,James,Clary,Dennis Clary,Brigitta Clary,Friedrich Pfaff,,,248,13,1787,7,6,1
+1790,3,Susanna,Immenhauser,Jacob Immenhauser,Christina Immenhauser,Barbara Druck,,,249,13,1789,11,22,1
+1790,31,Phillip,Gohn,Jacob Gohn,Barbara Gohn,Jacob Holzele,Christina Holzele,,250,14,1790,1,3,1
+1790,31,Johannes,Spatz,Friedrich Spatz,Catharina Spatz,Michael Strohmenger,Regina Strohmenger,,251,14,1790,1,5,1
+1790,28,Adam,Pahlus,Adam Pahlus,Elisabeth Pahlus,Adam Amend,,,252,14,1790,1,20,2
+1790,28,Elisabeth,Hammer,Friedrich Hammer,Susanna Hammer,Elisabeth Liebhardt,,,253,14,1789,10,5,2
+1790,28,Heinrich,Abel,Georg Abel,Margaret Abel,Georg Adig,Elisabeth Adig,,254,14,1789,11,26,2
+1790,28,Johannes,Brubache,Conrad Brubache,Christina Brubache,Johannes Brubacher,,,255,14,1790,2,9,3
+1790,28,Elisabeth,Bebersen,Conrad Bebersen,Catharina Bebersen,Georg Adig,Elisabeth Adig,,256,14,1789,12,25,3
+1790,25,Maria Elisabeth,Heindel,Lorentz Heindel,Susanna Heindel,Adam Heindel,Elisabeth Heindel,,257,14,1790,3,6,4
+1790,24,Thomas,Williams,Thomas Williams,Elisabeth Williams,Jacob Mayer,Elisabeth Mayer,,258,14,1790,2,5,5
+1790,19,Friedrich,Geiss,Johannes Geiss,Anna Maria Geiss,Barbara Ohlweiler,,,259,14,1790,2,4,6
+1790,19,Johannes,Becker,Matheus Becker,Hester Becker,Adam Schenberger,Catharina Schenberger,,260,14,1790,5,11,6
+1790,19,Sarah,Dellinger,Johannes Dellinger,Barbara Dellinger,Elisabeth Schaeffer,,,261,14,1789,10,16,6
+1790,19,Elisabeth,Weibel,Jacob Weibel,Ursula Weibel,The mother herself,,,262,14,1790,5,17,6
+1790,15,Johannes,Kohler,Daniel Kohler,Elisabeth Kohler,Bernhard Frey,Magdalena Frey,,263,14,1790,8,3,8
+1790,15,Rebecca,Holzel,Jacob Holzel,Christina Holzel,Elisabeth Reinhardt,,,264,14,1790,6,9,8
+1790,15,Elisabeth,Albrecht,Abraham Albrecht,Magaret Albrecht,Sarah Williams,,,265,14,1790,5,15,8
+1790,21,Elisabeth,Vogt,Daniel Vogt,Elisabeth Vogt,Josua Dellinger,Barbara Dellinger,,266,14,1790,9,26,10
+1790,21,Johannes,Behmuller,Michael Behmuller,Anna Maria Behmuller,Johannes Adam Paulus,,,267,14,1790,8,30,10
+1790,21,Daniel,Kann,Heinrich Kann,Christina Kann,Daniel Kann,,,268,14,1790,9,5,10
+1790,21,Lidia,Neff,Jacob Neff,Magdalena Neff,The parents,,,269,14,1790,7,23,10
+1790,7,Joseph Edward,Smith,Edward Smith,Sarah Smith,Bernhard Frey,Regina Magdalena Frey,,270,14,1790,6,26,11
+1790,7,Barbara,Wollheim,Andreas Wollheim,Margaret Wollheim,Peter Geib,Barbara Geib,,271,14,1790,10,18,11
+1790,5,Margaret,Clary,Dennis Clary,Brigitta Clary,Barbara Pfaff,,,272,14,1790,10,10,12
+1791,30,Johann Georg,Schenberger,Adam Schenberger,Catharina Schenberger,The parents themselves,,,273,15,1790,11,14,1
+1791,25,Johann Jacob,Blaus,Georg Blaus,Magdalena Blaus,Jacob Muller,Juliana Muller,,274,15,1790,12,1,4
+1791,25,Nicholas,Blaus,Georg Blaus,Magdalena Blaus,Kraft Hermann,Elizabeth Hermann,,275,15,1790,12,1,4
+1791,25,Elisabeth,Berckley,Jacob Berckley,Fronica Berckley,Johannes Arnold,Elisabeth Arnold,,276,15,1790,12,20,4
+1791,25,Johann Jacob,Strohmenger,Michael Strohmenger,Regina Strohmenger,The parents themselves,,,277,15,1790,3,19,4
+1791,13,Elisabeth,Schlot,Adam Schlot,Catharina Schlot,Rebecka Holder,,,278,15,1791,3,3,6
+1791,13,Catarina,Dellinger,Jacob Dellinger,Christina Dellinger,Catharina Schlott,,,279,15,1790,11,29,3
+1791,13,Michael,Schlott,Gartner Georg Schlott,Elisabeth Schlott,Michael Schlott,,,280,15,1791,3,28,6
+1791,13,Christina,Rupp,Johannes Rupp,Anna Maria Rupp,Christina Jung,,,281,15,1791,6,1,6
+1791,13,Georg,Abel,Georg Abel,Margaretha Abel,Philip Holtzlein,Ana Maria Holtzlein,,282,15,1791,3,28,6
+1791,,,Imschwiller,Peter Imschwiller,Catharina Imschwiller,Johannes Wyll,Catharina Will,,,,1790,10,8,Imschwiller
+1791,21,Jacob,Guhn,Philip Guhn,Elisabetha Guhn,Jacob Hilze,Christina Hilze,,284,15,1791,7,14,8
+1798,6,Sara,Abel,Gorg Abel,Margaretha Abel,The parents themselves,,,285,15,1798,2,23,5
+1791,14,Michael,Chron,Michael Chron,Catharina Chron,Conradt Chron,,,286,15,1791,7,17,9
+1791,26,Johannes,Bebersen,Conrath Bebersen,Cattrina Bebersen,Johannes Schonberger,Maria Margaretha Schonberger,,287,15,1791,10,24,12
+1791,26,Johannes,Rauffvon,Johannes Rauffvon,wife of Johannes Rauffvon,The parents themselves,,,288,15,1791,10,6,12
+1792,8,Susana,Weinholt,Georg Weinholt,Margaretha Weinholt,Elisabetha Kaffelt,,,289,15,1791,11,14,1
+1792,8,Elisabetha,Cron,Johannes Cron,wife of Johannes Cron,Annamaria Cron,,,290,15,1791,10,16,1
+1794,16,Jacob,Bebersen,Conrath Bebersen,Catharina Bebersen,Jacob Holtly   - Pastor Jacob Goringer,Christyna Goringer,,291,15,1793,12,6,2
+1792,4,Johannes,Paules,Adam Paules,Elisabetha Paules,Conrath Klein,Susanna Klein,,292,15,1792,1,27,3
+1795,1,Adam,Paules,Adam Paules,Elisabetha Paules,Andreas Neuman,,,293,16,1794,11,19,2
+1798,19,Lidia,Paules,Adam Paules,Elisabetha Paules,Jacob Thritt,Elisabetha Thritt,,294,16,1798,6,17,8
+1803,12,Lidia,Hamer,Heinrich Hamer,Magtalena Hamer,Conrath Gron,Cadarina Gron,,295,16,1803,8,14,--
+1811,10,(a daughter),Paulus,Heinrich Paulus,Susanna Paulus,Christina Keller,,,296,16,1810,12,26,2
+1792,23,Daniel,Kauffeld,Michael Kauffeld,Sophia Kauffeld,Georg Lieberknecht,Cath Lieberknecht,,297,16,1792,7,14,9
+1792,23,Christina Helena,Holzel,Philip Holzel,Maria Holzel,Johannes Will,Christina Will,,298,16,1792,8,13,9
+1792,23,Sarah,Williams,Thomas Williams,Maria Elizabeth Williams,Sarah Williams,,,299,16,1792,5,28,9
+1792,17,Johannes,Schlott,Adam Schlott,Catharina Schlott,Georg Abel,Margaret Abel,,300,16,1792,10,3,11
+1792,17,Benjamin,Williams,Benjamin Williams,Rosina Williams,Georg Pfaff,,,301,16,1790,8,8,11
+1793,13,Catrina,Vogt,Daniel Vogt,Elisabeth Vogt,Caterina Delinger,,,302,16,1792,12,15,1
+1793,13,Daniel,Gohn,Philipp Gohn,Eelisabetaha Gohn,Philipp Holtzel,,,303,16,1792,11,27,1
+1793,13,Jonas,Bernats,Carl Bernats,Cristina Bernats,Georg Gertner,,,304,16,1792,7,14,1
+1793,,,Holtzel,Jacob Holtzel,Cristina Holtzel,Hannes Will,Cristina Will,,,,1794,6,17,Holtzel
+1793,26,(a daughter),Lieberknecht,Georg Lieberknecht,Catarina Elisabeth,The parents themselves,,,307,16,1792,10,3,11
+1792,26,(a son),Gehr,David Gehr,Anna Maria Gehr,The parents,,,308,16,1792,9,21,11
+1792,26,Joseph Etwart,Schmitt,Etward Schmitt,wife of Etward Schmitt,Scham Gohn,,,309,16,1792,4,3,11
+1792,16,Wilhelm Heinrich,Rub,Johannes Rub,wife of Johannes Rub,Stoffel Rub,Ruby Rub,,310,16,1792,11,1,12
+1792,16,Susanna,Geiss,Johannes Geiss,Anna Marya Geiss,Susanna Gohn,,,311,16,1792,10,24,12
+1792,16,Barbara,Glary,Denns Glary,Grety Glary,Barbara Pfaff,,,312,16,1792,11,16,12
+1793,10,Catarina,Reuter,Daniel Reuter,Margreth Reuter,Marigret Gohn,,,313,17,1792,11,10,2
+1793,10,Josua,Behmuller,Michael Behmuller,Anna Marrya Behmuller,Adam Schonberger,,,314,17,1792,11,26,3
+1793,10,Johannes,Damsen[?],Wiliem Damsen,Elisabetha Damsen,Ohlweiler,,,315,17,1792,10,15,3
+1793,16,Maria Marigetha,Rub,Marthin Rub,Margretha Rub,Magdalena Schonberger,,,316,17,1793,2,7,2
+1793,7,Christina,Gartner,Georg Gartner,Elisabeth Gartner,Friedrich Frey,Christina Frey,,317,17,1793,2,1,4
+1793,7,Heinrich,Ruby,Johannes Ruby,Salome Ruby,The parents themselves,,,318,17,1793,1,29,4
+1793,8,Daniel,Dellinger,Jacob Dellinger,Christina Dellinger,Jacob Holzel,Christina Holzel,,319,17,1793,1,1,6
+1793,8,Margaret Catharina,Mase,Johannes Mase,Magaret Mase,Margaret Abel,,,320,17,1793,8,23,6
+1793,9,Eelisebetahe,Becker,Mathias Becker,wife of Mathias Becker,The parents,,,321,17,1793,5,5,6
+1793,9,Johannes,Grovall,Antony Grovall,wife of Antony Grovall,Heinrich Wagner,,,322,17,1793,3,30,6
+1790,14,David,Mosy,Johannes Mosy,wife of Johannes Mosy,The parents,,,323,17,1789,6,8,6
+1793,7,Susanna,Hammer,Heinrich Hammer,Magdalena Hammer,Friedrich Hammer,Susanna Hammer,,324,17,1793,5,9,7
+1793,7,Catharina,Abel,Georg Abel,Margaret Abel,Catharina Abel,,,325,17,1793,5,27,7
+1793,9,Christina Elisabeth,Heindel,Adam Heindel,Elisabeth Heindel,Christina Jung,,,326,17,1793,4,5,6
+1793,4,Heinrich,Ziegler,Michael Ziegler,Anna Maria Ziegler,The parents themselves,,,327,17,1793,6,9,8
+1793,4,Ana Marya,Schonberger,Adam Schonberger,Cattarina Schonberger,Michael Dosch,,,328,17,1793,6,15,8
+1793,1,Johannes,Optegraf,Peter Optegraf,Elisabeth Optegraf,Johannes Liebhardt,Anna Maria Liebhardt,,329,17,1793,7,29,9
+1793,29,Conrad,Brubacher,Lorentz Brubacher,Cristina Brubacher,Georg Oberdorf,,,330,17,1793,8,25,9
+1793,29,Heinrich,Urberich,Heinrich Urberich,wife of Heinrich Urberich,Adam Paules,,,331,17,1793,7,29,9
+1793,29,Michael,Urberich,Heinrich Urberich,wife of Heinrich Urberich,Michel Muller,,,332,17,1791,11,4,9
+1793,29,Elisabetha,Cron,Michael Cron,wife of Michael Cron,Elisabetha Mayer,,,333,17,1793,4,10,9
+1793,29,Johannes,Strohmanger,Michael Strohmanger,wife of Michael Strohmanger,The parents themselves,,,334,17,1793,8,12,9
+1794,27,Daniel,Holtzel,Philip Holtzel,An Maria Holtzel,Philip,Elisabeth Gohn,,335,18,1794,3,14,4
+1794,,Georg,Weinhold,Georg Weinhold,Margaret Weinhold,Catharina Attich,,,,,1794,8,25,
+1794,9,Catharina,Pfaff,Friedrich Pfaff,Anna Magaret Pfaff,Maria Catherine Abel,,,337,18,1794,5,8,6
+1794,9,Sarah,Kraft,Jacob Kraft,Anna Maria Kraft,Maria Behmuller,,,338,18,1794,4,21,6
+1794,6,Sophia,Schlott,Michael Schlott,Catharina Schlott,Georg Abel,Margt Abel,,339,18,1794,5,15,7
+1794,6,Elenora,Clary,Dennis Clary,Brigitta Clary,Eva Pfaff,,,340,18,1794,5,13,7
+1794,6,Heinrich,Dellinger,Heinrich Dellinger,Susanna Dellinger,Joseph Dellinger,,,341,18,1794,6,8,7
+1794,5,Helena,Lieberknecht,Georg Lieberknecht,Catherine Elizabeth Lieberknecht,Friedrich Lieberknecht,Catharina Lieberknecht,,342,18,1793,10,8,1
+1794,20,Michael,Rieser[?],Nicklos Rieser,Margretha Rieser,Georg Claus,Maria Machdalena Claus,,343,18,1793,7,25,6
+1794,23,Imanuel,Rapp,Mart: Rapp,Margareteh Schonberg,Georg Oberdorf,Elisabeth Oberdorf,,344,18,1794,4,19,8
+1794,21,Regina,Dellinger,Jacob Dellinger,Regina Dellinger,Phillip Muhlhof,Regina Muhlhof,,345,18,1794,9,1,9
+1794,21,Catharina,Schlott,Adam Schlott,Catharina Schlott,Catharina Holder,,,346,18,1794,7,20,9
+1794,25,Johann Peter,Vogt,Daniel Vogt,Elisabeth Vogt,Heinrich Dellinger,Susanna Dellinger,,347,18,1794,9,16,10
+1794,23,(a son),Ohlweiler,Jacob Ohlweiler,Anna Maria Ohlweiler,Georg Oberdorf,,,348,18,1794,2,18,11
+1795,12,Jacob,Gohn,Phillip Gohn,Elisabeth Gohn,Jacob Holzele,Christina Holzele,,349,18,1795,2,16,3
+1795,12,Johannes,Gehr,David Gehr,Anna Maria Gehr,Peter Wanbach,,,350,18,1795,1,26,3
+1795,,Johannes,Rupp,Johannes Rupp,Anna Maria Rupp,Jacob Holzele,Christina Holzele,,,,1794,12,30,
+1795,10,Anna Maria,Harris,Thomas Harris,Maria Harris,Johannes Rupp,Anna Maria Rupp,,352,18,1795,1,18,5
+1795,10,Johann Georg,Wachtel,Heinrich Wachtel,Catharina Wachtel,Johann Georg Wambach,Magdalena Wambach,,353,18,1795,3,6,5
+1795,6,Elisabeth,Imschwiller,Peter Imschwiller,Catharina Imschwiller,Elisabeth Schaeffer,,,354,18,1793,9,5,5
+1795,7,Heinrich,Becker,Matheys Becker,Ester Becker,The parents themselves,,,355,18,1795,5,7,7
+1795,2,Daniel,Billotz[?],Peter Billotz,Margaret Billotz,Conrad Leber,Margaret Billotz,,356,18,1794,10,13,8
+1795,12,Sarah,Smith,Edward Smith,Sarah Smith,Daniel Kohler,Elisabeth Kohler,,357,19,1794,4,12,7
+1795,25,Johann Georg,Holzel,Phillip Holzel,Maria Holzel,Georg Abel,Anna Margaret Abel,,358,19,1795,9,25,10
+1795,25,Daniel,Ottstatt,Adam Ottstatt,Sophia Ottstatt,Friedrich Ottstatt,,,359,19,1795,8,27,10
+1795,3,Conrad,Brubacher,Johannes Brubacher,Ester Brubacher,Conrad Brubacher,Eva Brubacher,,360,19,1795,11,1,12
+1796,14,Michael,Dellinger,Jacob Dellinger,Rechina Dellinger,Michael Dellinger,,,361,19,1795,11,19,1
+1796,28,Johannes,Peterman,Jacob Peterman,Catharina Peterman,Johannes Petermann,,,362,19,1795,11,5,2
+1796,28,Elisabeth,Walliser,Nicolaus Walliser,Margaret Walliser,Johannes Walliser,,,363,19,1795,11,23,2
+1796,28,Jacob,Walliser,Johannes Walliser,Elisabetha Walliser,Adam Schonberger,,,364,19,1796,1,16,2
+1796,13,Magdalena,Bebersen,Conrad Bebersen,Catharina Bebersen,Jacob Holzel,Christina Holzel,,365,19,1795,12,16,3
+1796,13,Catharina,Allbrecht,Georg Allbrecht,Magdalena Allbrecht,Adam Schenberger,Catharina Schenberger,,366,19,1795,12,18,3
+1796,13,Friedrich,Schenberger,Adam Schenberger,Catharina Schenberger,Matheus Becker,,,367,19,1795,10,10,3
+1796,10,Peter,Lieberknecht,Georg Lieberknecht,Catharina Elisabeth,Peter Keller,,,368,19,1796,1,27,4
+1796,8,Catharina,Strohmenger,Michael Strohmenger,Regina Strohmenger,Jacob Petermann,Catharina Petermann,,369,19,1796,4,4,5
+1796,8,Catharina,Ottstadt,Heinrich Ottstadt,Catharina Ottstadt,Adam Ottstadt,Sophia Ottstadt,,370,19,1796,3,7,5
+1796,4,Catharina,Dellinger,Heinrich Dellinger,Susanna Dellinger,Catharina Gilbert,,,371,19,1796,4,15,6
+1796,4,Johannes,Krafft,Jacob Krafft,Maria Krafft,Jacob Ohlweiler,,,372,19,1796,3,29,6
+1796,5,Anna Maria,Heintel,Adam Heintel,Elisabetha Heintel,Christina Jung,,,373,19,1796,4,12,6
+1796,10,Johann Georg,Jacob,Philip Jacob,Catharina Elisabeth,Johann Georg Jacob,Elisabeth Jacob,,375,19,1796,5,19,7
+1796,10,Helena,Miller,Peter Miller,Susanna Miller,Barbara Gohn,,,376,19,1796,6,5,7
+1796,31,Catharina,Barnes,Charles Barnes,Jane Barnes,Elisabeth Klein,,,377,19,1793,12,13,7
+1796,31,Johannes,Barnes,Charles Barnes,Jane Barnes,Heinrich Klein,,,378,19,1796,1,6,7
+1796,31,Susanna,Schlott,Johannes Schlott,Catharina Schlott,Susanna Schlott,,,379,19,1796,6,11,7
+1796,23,Elisabetha,Pfaff,Friederich Pfaff,Anna Margaretha Pfaff,Barbara Pfaff,,,380,20,1795,12,11,10
+1797,5,Sara,Imschwiller,Peter Imschwiller,Catarina Imschwiller,Johannes Rup,Anna Maria Rup,,381,20,1796,11,23,2
+1797,5,Catarina,Rup,Johannes Rup,Anna Maria Rup,Peter Imschwiller,Catharina Imschwiller,,382,20,1796,9,5,2
+1797,2,Elisabeth,Brubacher,MichaeL Brubacher,Magdalena Brubacher,Elisabeth Gohn,,,383,20,1796,12,24,4
+1797,30,Rebecca,Kauffeld,Johannes Michael Kauffeld,Sophia Kauffeld,Magdalena Keller,,,384,20,1797,6,9,7
+1797,,,Kauffeld,Johannes Michael Kauffeld,Sophia Kauffeld,Phillip Gohn,Elisabeth Gohn,,,,1772,1,9,Kauffeld
+1797,,,Kauffeld,Johannes Michael Kauffeld,Sophia Kauffeld,Phillip Gohn,Elisabeth Gohn,,,,1774,3,7,Kauffeld
+1797,,,Kauffeld,Johannes Michael Kauffeld,Sophia Kauffeld,Elisabeth Gohn,,,,,1776,8,17,Kauffeld
+1797,,,Kauffeld,Johannes Michael Kauffeld,Sophia Kauffeld,Jacob Kauffeld,Eva Catharina Kauffeld,,,,1778,9,25,Kauffeld
+1797,,,Kauffeld,Johannes Michael Kauffeld,Sophia Kauffeld,Heinrich Schaeffer,Anna Maria Schaeffer,,,,1783,5,22,Kauffeld
+1797,,,Kauffeld,Johannes Michael Kauffeld,Sophia Kauffeld,Andreas Billmeyer,Barbara Billmeyer,,,,1795,6,1,Kauffeld
+1797,30,Anna Maria,Gehr,David Gehr,Anna Maria Gehr,Peter Wanbach,Catharina Wanbach,,396,20,1797,3,8,4
+1797,7,Michael,Petermann,Johannes Petermann,Barbara Petermann,Michael Strohmenger,Regina Strohmenger,,397,20,1797,2,16,3
+1797,28,Barbara,Schlott,Adam Schlott,Catharina Schlott,The parents themselves,,,398,20,1797,3,26,5
+1797,28,Georg,Wanbach,Peter Wanbach,Anna Maria Wanbach,Georg Weinhold,Anna Maria Weinhold,,399,20,1797,3,27,5
+1797,24,Johannes,Wenner,Frantz Wenner,Catharina Wenner,Johannes Brubacher,,,400,20,1797,8,7,9
+1797,24,Johann Jacob,Erlenkieser,Johannes Peter Erlenkieser,Anna Maria Erlenkieser,Johannes Jacob Ihmenhauser,,,401,20,1796,11,6,9
+1797,27,Elisabet,Klein,Heinrich Klein,Catharina Klein,Elisabeth Klein,,,402,21,1797,7,25,8
+1797,24,Catharina,Schonberger,Adam Schonberger,Catharina Schonberger,The parents themselves,,,403,21,1797,8,11,9
+1797,24,Leonhard,Barns,Charles Barns,Johanna Barns,Leonhard Rathfon,Johanna Rathfon,,404,21,1797,8,28,9
+1797,17,Anna Maria,Gohn,Philipp Gohn,Elisabetha Gohn,Anna Maria Herschner,,,405,21,1797,3,12,4
+1797,21,Magdalena,Vogt,Daniel Vogt,Elisabeth Vogt,Christina Pfaff,,,406,21,1797,8,25,10
+1797,22,Maria Magdalena,Keller,Johannes Keller,Susanna Keller,Magdalena Keller,,,407,21,1797,8,27,10
+1797,20,Johann Daniel,Rauss,Johann Daniel Rauss,Anna Barbara Rauss,The parents themselves,,,408,21,1797,10,11,10
+1797,17,Johann Georg,Lieberknecht,Johann Georg Lieberknecht,Catharina Elisabetha,Jacob Liberknecht,,,409,21,1797,11,2,12
+1797,25,Catharina,Othstadt,Adam Othstadt,Sovia Othstadt,Elisabetha Othstadt,,,410,21,1797,11,18,12
+1797,17,Johann Adam,Heltzel,Philipp Heltzel,Anna Maria Heltzel,Adam Heintel,Catharina Elisabetha Heintel,,411,21,1797,11,22,12
+1798,14,Johann Georg,Dellinger,Jacob Dellinger,Christin Dellinger,Gorg Abel,Margaretha Abel,,412,21,1797,8,18,1
+1798,4,Anna Maria,Brubacher,Conrad Brubacher,Christina Brubacher,Gorg Oberndorf,Elisabetha Oberndorf,,413,21,1797,12,29,2
+1798,11,Peter,Pfaff,Friederich Pfaff,Margaretha Pfaff,The parents themselves,,,414,21,1797,12,31,2
+1798,11,Rebeca,Becker,Mathias Becker,Esther Becker,Rebeca Holder,,,415,21,1797,11,15,3
+1798,6,Johanes,Ruby,Christof Ruby,Regina Ruby,Johannes Ruby,Anna Maria Rupp,,416,21,1798,2,6,4
+1798,6,Friederich,Amend,Andon Amend,Barbara Amend,Gorg Pfaff,Eva Pfaff,,417,21,1798,2,19,4
+1798,6,Elisabetha,Jacob,Philip Jacob,Catharina Jacob,Elisabetha Attig,,,418,21,1798,3,23,5
+1798,6,Johannes,Schlott,Johannes Schlott,Catharina Schlott,Michael Schlott,Catharina Schlott,,419,21,1798,3,16,5
+1798,31,Heinrich,Bebersen,Conrad Bebersen,Catharina Bebersen,The parents themselves,,,420,21,1798,2,23,6
+1798,31,Maria Catharina,Heibele,Georg Heibele,Maria Elisabeth Heibele,Adam Schonberger,Catharina Schonberger,,421,21,1798,5,9,6
+1798,29,Michael,Schlott,Michael Schlott,Catharina Schlott,Georg Abel,Margaret Abel,,422,21,1798,6,6,7
+1798,29,Peter,Wambach,Peter Wambach,Anna Maria Wambach,Peter Wambach,Catharina Wambach,,423,21,1798,3,29,7
+1798,23,Elisabeth,Schaeffer,Johannes Schaeffer,Anna Margaret Schaeffer,Frantz Wohlleber,Catharina Wohlleber,,424,22,1798,8,17,9
+1799,10,Susanna,Keller,Samuel Keller,Magdalena Keller,Johannes Keller,Susanna Keller,,425,22,1799,1,18,3
+1799,10,Gorg,Klein,Heinrich Klein,Catharina Klein,The parents themselves,,,426,22,1798,12,15,3
+1799,31,Conrad,Werner,Frantz Werner,Catharina Werner,Conrad Brubacher,Eva Brubacher,,427,22,1798,12,13,3
+1799,7,Michael,Garten [Gordon],Joseph Gordon,Catharin Gordon,Michael Schlott,Catharina Schlott,,428,22,1799,1,16,4
+1799,5,Catharina,Gehr,David Gehr,Anna Maria Gehr,Michael Wanbach,Barbara Wanbach,,429,22,1799,3,18,5
+1799,5,Johannes,Pfaff,Friederich Pfaff,Anna Margaretha Pfaff,Gorg Abel,Anna Margaretha Abel,,430,22,1799,4,2,5
+1799,2,Michael,Strohnmenger,Michael Strohnmenger,Regina Strohnmenger,Henrich Lanss,Margaretha Lanss,,431,22,1799,5,5,6
+1799,2,Daniel,Jacob,Philipp Jacob,Catharina Jacob,Jacob Heltzel,Christina Heltzel,,432,22,1799,4,25,6
+1799,30,Rebeca,Schlott,Adam Schlott,Catharina Schlott,The parents themselves,,,433,22,1799,4,29,6
+1799,30,Rebecca,Brubacher,Conrad Brubacher,Christina Brubacher,The parents themselves,,,434,22,1799,5,27,6
+1799,12,Anna Maria,Gohn,Jacob Gohn,Barbara Gohn,Gorg Oberndorf,Elisabetha Oberndorf,,435,22,1798,9,28,8
+1799,24,Johannes,Rub,Johannes Rub,Anna Maria Rub,Gorg Reuthlinger,,,436,22,1798,11,9,8
+1799,24,Anna Maria,Ihmenhausser,Jacob Ihmenhausser,Christina Ihmenhausser,Anna Maria Hermann,,,437,22,1799,6,23,8
+1799,24,Magdalena,Erlenkieser,Peter Erlenkieser,Anna Margaretha Erlenkieser,Magdlena Strang,,,438,22,1798,12,28,8
+1799,19,Daniel,Abel,Peter Abel,Catharina Abel,Dellinger,Catharina Dellinger,,439,22,1799,9,11,10
+1799,19,Catharina,Gilbert,Johannes Gilbert,Anna Maria Gilbert,Johannes Schenberger,Catharin Schenberger,,440,22,1799,8,19,10
+1799,27,Samuel,Becker,Mathias Becker,Esther Becker,Johannes Holder,Barbara Holder,,441,22,1799,7,30,9
+1799,,,----------,,,Georg Papff,wife of Georg Papff,,,,1799,10,30,----------
+1800,6,Catarina,Keller,Hannes Keller,Susanna Keller,The parents themselves,,,443,22,1800,1,17,4
+1800,6,Anna Maria,Neukom,Johan Neukom,Margaret Neukom,Annqa Maria Ziegler,,,444,22,1799,12,5,4
+1800,6,Magdalena,Ament,Anton Ament,Barbara Ament,Daniel Vogt,Elisabet Vogt,,445,22,1799,12,1,4
+1800,4,Elisabet,Ehrlichhauser,Peter Ehrlichhauser,Anna Margareta Ehrlichhauser,Elisabet Herman,,,446,23,1800,3,5,5
+1800,4,Magdalena,Andersen,Robert Andersen,Elisabet Andersen,Magdalena Stranger,,,447,23,1799,11,18,5
+1800,29,Johannes,Klein,Heinrich Klein,Catharina Klein,The parents themselves,,,448,23,1800,1,20,6
+1800,27,Charles,Barnes,Charles Barnes,Johanna Barnes,Joseph Hinckel,,,449,23,1799,9,27,7
+1800,27,Elisabeth,Barnes,Charles Barnes,Johanna Barnes,Johanna Rathfang,,,450,23,1799,9,27,7
+1800,21,Magdalena,Dellinger,Jacob Dellinger,Christina Dellinger,Elisabeth Schaeffer,,,451,23,1800,3,25,9
+1800,21,DanieL,Amend,Friedrich Amend,Rebecca Amend,The parents themselves,,,452,23,1800,6,27,9
+1800,,,Strong,James Strong,Catherine Strong,Johannes Adam Paulus,wife of Joh. Adam Paulus,,,,1800,11,16,Strong
+1800,16,Anna Catharina,Sternberg,Adam Sternberg,Christina Sternberg,The parents themselves,,,454,23,1800,9,2,11
+1800,14,Jacob,Jung,Johannes Nicolaus Jung,Magdalena Jung,Georg Jung,,,455,23,1800,11,16,12
+1801,11,Johannes,Abel,Georg Abel,Margaret Abel,Johannes Abel,,,456,23,1800,9,19,1
+1801,11,Friederich,Pfaff,Friederich Pfaff,Anna Margaret Pfaff,The parents,,,457,23,1800,12,17,1
+1801,11,Joh. Georg,Shenberger,Johannes Shenberger,Catherine Shenberger,Georg Ziegler,,,458,23,1800,10,31,1
+1801,8,Heinrich,Gohn,Phillip Gohn,Elisabeth Gohn,Georg Oberdorff,Anna Elis Oberdorff,,459,23,1801,1,23,2
+1801,8,Jacob,Dellinger,Jacob Dellinger,Regina Dellinger,The parents themselves,,,460,23,1800,10,24,2
+1801,8,Elisabeth,Keller,Samuel Keller,Magdalena Keller,Michael Schlott,Catharina Schlott,,461,23,1800,12,17,3
+1801,3,Joh. Phillip,Jacob,Phillip Jacob,Catharina Elisabeth,Phillip Holzel,Anna Maria Holzel,,462,23,1801,1,17,5
+1801,3,Friederich,Dosch,Georg Dosch,Elisabeth Dosch,The parents themselves,,,463,23,1801,1,13,5
+1801,3,Johannes,Gordon,Joseph Gordon,Catharine Gordon,Johannes Keller,Susanna Keller,,464,23,1800,12,6,5
+1801,3,Catharina,Sculy,Bernhard Sculy,Maria Sculy,Susanna Mahlson,,,465,23,1801,1,25,5
+1799,,Jacob,Lieberknecht,Jacob Lieberknecht,Magdalena Lieberknecht,Anton Keller,Elisabeth Keller,,,,1799,11,6,
+1801,25,Susanna,Lieberknecht,Jacob Lieberknecht,Magdalena Lieberknecht,The parents themselves,,,467,23,1801,4,25,5
+1801,25,Anna Maria,Frey,Georg Frey,Susanna Frey,Georg Oberdorff,Elisabeth Oberdorff,,468,23,1801,3,6,5
+1801,13,Georg,---------,,,Georg Oberdorf,,,471,24,1801,10,13,12
+1801,15,Elisabeta,Rub,Hanes Rub,Anamaria Rub,Georg Abel,Margrata Abel,,472,24,1801,11,4,11
+1801,15,Peter,----*----,,,Peter Keller,Juliana Keller,,473,24,1801,10,1,11
+1802,10,Catarina,Philib,Hanes Philib,Efalisabetha Philib,Henrich Stefe,Anna Maria Stefe,,474,24,1801,11,10,1
+1802,2,Anna Margaret,Pfaff,Friedrich Pfaff,Anna Margaret Pfaff,The parents themselves,,,475,24,1802,3,22,5
+1802,2,Sophia,Schlott,Adam Schlott,Catharina Schlott,The parents themselves,,,476,24,1802,2,24,5
+1802,2,Johann Heinrich,Walck,Christian Walck,Elisabeth Walck,Heinrich Wolleber,,,477,24,1802,3,25,5
+1802,2,Johann Georg,Walck,Johannes Walck,Barbara Walck,Johann Georg Frey,Susanna Frey,,478,24,1802,1,10,5
+1801,27,(a son),Holtzle,Philib Holtzle,wife of Philib Holtzle,The parents themselves,,,479,24,1801,11,19,12
+1802,4,Cadarina,---------,,,The parents themselves,,,480,24,1802,1,26,4
+1802,,,---------,,,Andres Gilbert,Anna Maria Gilbert,,,,1801,12,20,---------
+1801,28,Hester,Amend,Friederich Amend,Rebecca Amend,The parents themselves,,,482,24,1801,10,2,12
+1802,15,Susanna,Gohn,Jacob Gohn,,George Oberdorf,Anna Maria Oberdorf,,24,,1801,11,12,5
+1802,27,Hannas,Kohler,Daniel Kohler,wife of Daniel Kohler,The parents themselves,,,484,24,1802,3,8,5
+1802,27,Lisabada,Wolf,Henrich Wolf,Hana Wolf,Cadarina Wolf,,,485,24,1802,3,16,5
+1802,27,Johanes,Strang,James Strang,Cadarina Strang,Hanes Walck,Barbara Walck,,486,24,1801,9,1,6
+1802,10,Anna Maria,Schonberger,Johannes Schonberger,Catharina Schonberger,Anna Maria Ziegler,,,487,24,1802,10,11,11
+1802,13,Johann Phillip,Schlott,Michael Schlott,Catharina Schlott,Phillip Holzele,Anna Maria Holzele,,488,24,1802,10,11,11
+1802,18,Magtalena,Libhart,Henrich Libhart,Elisabeth Libhart,Magdalena Libhard,,,492,25,1802,2,15,10
+1802,12,Daniel,Jung,Nicklaus Jung,Mackdalena Jung,Fridrich Hamer,Liesabeth Hamer,,493,25,1802,10,21,12
+1803,27,Johann Georg,Lieberknecht,Jacob Lieberknecht,Magdalena Lieberknecht,Georg Lieberknecht,Catharina Lieberknecht,,494,25,1803,1,17,3
+1803,27,Lydia,Hammer,Friedrich Hammer,Elisabeth Hammer,Phillip Gohn,Elisabeth Gohn,,496,25,1803,1,18,3
+1803,27,Anna Maria,Ruby,Daniel Ruby,Elisabeth Ruby,Anna Maria Kron,,,497,25,1802,2,25,3
+1803,27,Elisabeth,Scuhly,Bernhard Scuhly,Maria Scuhly,Elisabeth Mahlsen,,,498,25,1802,12,12,3
+1803,27,Lydia,Holzele,Jacob Holzele,Christina Holzele,Christina Jung,,,499,25,1802,12,12,3
+1803,24,Elisabeth,Gilbert,Andreas Gilbert,Anna Maria Gilbert,Anna Maria Ziegler,,,500,25,1803,1,9,4
+1803,13,Michael,Rim,Davit Rim,Anamaria Rim,Michael Hengst,Juliana Hengst,,501,25,1803,2,25,5
+1803,22,Adam,Sternberger,Adam Sternberger,Cristina Sternberger,Adam Baulus,Elisabet Baulus,,502,25,1803,4,8,5
+1803,26,Elisabeth,Abel,Georg Abel,Margaret Abel,Jacob Holzel,Christina Holzel,,503,25,1803,4,15,6
+1803,26,Jacob,Dellinger,Heinrich Dellinger,Sophia Dellinger,Michael Kauffeld,Sophia Kauffeld,,504,25,1803,5,18,6
+1803,26,Heinrich,Ament,Johannes Ament,Anna Maria Ament,Jacob Lieberknecht,Magdalena Lieberknecht,,505,25,1803,1,23,6
+1803,,,Gordon,Joseph Gordon,Catharina Gordon,Elisabeth Schlott,,,,,1803,7,24,Gordon
+1803,24,Elisabeth,Imenhauser,Jacob Imenhauser,Magdalena Imenhauser,The parents themselves,,,507,25,1802,12,27,7
+1803,24,Josua,Dellinger,Jacob Dellinger,Regina Dellinger,The parents themselves,,,508,25,1803,5,30,7
+1803,24,Johann Georg,Brubacher,Conrad Brubacher,Christina Brubacher,Georg Oberdorff,,,509,25,1803,5,27,7
+1803,18,Salome,Wil,Johannes Wil,Catharina Wil,Elisabeth Adig,,,510,25,1803,7,25,9
+1803,18,Thomas,Norris,James Norris,Barbara Norris,Johannes Brubacher,,,511,25,1802,8,8,9
+1803,9,Johannes,Lieberknecht,Friedrich Lieberknecht,Margaret Lieberknecht,Jacob Neff,Regina Neff,,512,25,1803,9,18,11
+1803,11,Susanna,Keller,Peter Keller,Juliana Keller,Susanna Keller,,,513,25,1803,11,13,12
+1804,30,Elisabeth,Kuntz,George Kuntz,Elisabeth Kuntz,Elisabeth Lehmann,,,514,25,1803,12,30,3
+1804,29,Magdalena,Pfaff,Friedrich Pfaff,Anna Margaret Pfaff,Adam Schonberger,Catharina Schonberger,,515,26,1803,10,26,4
+1804,29,Anna Maria,Amend,Anton Amend,Barbara Amend,The parents themselves,,,516,26,1804,1,3,4
+1804,29,Sarah,Gohn,Georg Gohn,Magdalena Gohn,Sarah Gilespy,,,517,26,1804,3,26,4
+1804,29,Maria Catharina,Ament,Friedrich Ament,Rebecca Ament,The parents themselves,,,518,26,1803,11,17,4
+1804,29,Jacob,Menges,Peter Menges,Elisabeth Menges,Jacob Menges,,,519,26,1804,1,5,4
+1804,29,Anna Maria,Jung,Georg Jung,Elisabeth Jung,Sophia Ottstadt,,,520,26,1804,2,10,4
+1804,24,Michael,Dellinger,Michael Dellinger,Elisabeth Dellinger,The parents themselves,,,521,26,1804,4,13,6
+1804,24,Magdalena,Gilbert,Johannes Gilbert,Anna Maria Gilbert,Magdalena Dosch,,,522,26,1804,4,8,6
+1804,22,Helena,Lieberknecht,Jacob Lieberknecht,Magdalena Lieberknecht,Susanna Keller,,,523,26,1804,6,30,7
+1804,19,Susanna,Kohler,Daniel Kohler,Barbara Kohler,Michael Miller,Susanna Miller,,524,26,1804,5,23,8
+1804,19,Johannes,Jacob,Phillip Jacob,Catharina Jacob,Johannes Adig,,,525,26,1804,7,31,8
+1804,11,Magdalena,Neff,Jacob Neff,Regina Neff,Georg Oberdorff,Maria Oberdorff,,526,26,1804,8,12,11
+1805,3,Anna Maria,Oberdorf,Georg Oberdorf,Anna Maria Oberdorf,Georg Sr Oberdorf,,,527,26,1804,12,13,3
+1805,3,Daniel,Lieberknecht,Friedrich Lieberknecht,Margaret Lieberknecht,Conrad Bebersen,Catharina Bebersen,,528,26,1805,1,15,3
+1805,28,Susanna,Ottstadt,Heinrich Ottstadt,Catharina Ottstadt,Adam Schenberger,Catharina Schenberger,,529,26,1804,9,16,4
+1805,28,Catharina,Gilbert,Andreas Gilbert,Anna Maria Gilbert,Johannes Gilbert,Anna Maria Gilbert,,530,26,1805,2,28,4
+1805,31,Anna Maria,Dellinger,Heinrich Dellinger,Sophia Dellinger,Jacob Lieberknecht,Magdalena Lieberknecht,,531,26,1804,12,31,3
+1805,28,Johannes,Schenberger,Johannes Schenberger,Catharina Schenberger,Baltzer Schenberger,,,532,26,1804,9,23,4
+1805,28,Catharina,Abel,Peter Abel,Catharina Abel,Joseph Dellinger,Catharina Dellinger,,533,26,1805,3,14,4
+1805,28,Johannes,Scooly,Bernhardt Scooly,Mary Scooly,The parents themselves,,,534,26,1804,12,20,4
+1805,28,Magdalena,Schenberger,Adam Schenberger,Catharina Schenberger,Magdalena Dosch,,,535,26,1804,11,15,4
+1805,26,Anna Maria,Evans,Martin Evans,Elisabeth Evans,The mother herself,,,536,26,1803,11,22,5
+1805,23,Anna Maria,Ziegler,Georg Ziegler,Dorothea Ziegler,Anna Maria Geiss,,,537,26,1805,4,20,6
+1805,18,Johann Georg,Abel,Johannes Abel,Catharina Abel,Georg Abel,Margaret Abel,,538,27,1805,6,30,8
+1805,18,Johannes,Ruby,Daniel Ruby,Elisabeth Ruby,Johannes Ruby,Salome Ruby,,539,27,1804,12,27,8
+1805,2,Magdalena,Schlott,Adam Schlott,Catharina Schlott,The parents themselves,,,540,27,1805,8,11,10
+1805,12,Maria Magdalena,Keller,Samuel Keller,Sophia Keller,Catharina Ottstadt,,,541,27,1805,8,28,10
+1805,30,Daniel,Vogt,Daniel Vogt,Anna Eliasabeth Vogt,The parents themselves,,,542,27,1805,9,30,10
+1805,30,,,Rebecca Dosh ,Daniel Wittman,Elisabeth Dosh,,,543,27,1786,3,27,10
+1805,30,,,Friederich Lehmann ,Anna Lehmann ,Maria KAUFFELD,,,27,,1784,5,18,10
+1806,30,Jacob,Klein,Heinrich Klein,Catharina Klein,Adam Schonberger,Catharina Schonberger,,546,27,1805,8,11,3
+1806,30,Elisabeth,Seib,Peter Seib,Maria Seib,Adam Paulus,Elisabeth Paulus,,547,27,1806,2,2,3
+1806,27,Friederich,Dellinger,Jacob Dellinger,Regina Dellinger,The parents themselves,,,548,27,1806,2,2,4
+1806,26,Anna Maria,Geiss,George Geiss,Elisabeth Geiss,Anna Maria Geiss,,,549,27,1805,9,8,5
+1806,22,Johann Georg,Dosch,Friedrich Dosch,Rebecca Dosch,The parents themselves,,,556,27,1806,3,13,6
+1806,20,Johann Heinrich,Jacob,Phillip Jacob,Catharina Jacob,Adam Adig,Elisabeth Adig,,557,27,1806,6,1,7
+1806,20,Samuel,Lieberknecht,Jacob Lieberknecht,Magdalena Lieberknecht,The parents themselves,,,558,27,1806,6,28,7
+1806,17,Daniel,Dellinger,Michael Dellinger,Elisabeth Dellinger,Daniel Vogt,Elisabeth Vogt,,559,27,1806,7,13,8
+1806,17,Magdalena,Heindel,Adam Heindel,Elisabeth Heindel,Elisabeth Will,,,560,27,1806,7,14,8
+1806,13,Georg,Dellinger,Heinrich Dellinger,Sophia Dellinger,Anthony Keller,,,561,28,1806,8,17,9
+1806,12,Anna Maria,Becker,Matheus Becker,Hester Becker,Johannes Gilbert,Anna Maria Gilbert,,562,28,1806,8,14,10
+1806,12,Jacob,Schnell,Christian Schnell,Magdalena Schnell,Jacob Holtzel,Christina Holtzel,,563,28,1806,9,19,10
+1806,9,Elisabeth,Oberdorf,Georg Oberdorf,Maria Oberdorf,Elisabeth Leber,,,564,28,1806,9,30,11
+1806,14,Heinrich,Kauffeld,Johannes Kauffeld,Maria Kauffeld,Peter Ziegler,Susanna Ziegler,,565,28,1806,6,12,9
+1806,12,Henriette,Kauffeld,Jacob Kauffeld,Elisabeth Kauffeld,Elisabeth Herschner,,,566,28,1806,9,20,10
+1807,1,Elisabeth,Einstein,Heinrich Einstein,Christina Einstein,Georg Oberdorff,Elisabeth Oberdorff,,567,28,1806,11,13,2
+1807,30,Anna Maria,Gilbert,Andreas Gilbert,Anna Maria Gilbert,The parents themselves,,,568,28,1806,12,30,3
+1807,30,Lydia,Schonberger,Johannes Schonberger,Catharine Schonberger,Jacob Neff,Regina Neff,,569,28,1806,10,6,3
+1807,26,Johann Georg,Jung,Johannes Georg Jung,Elisabeth Jung,Georg Oberdorff,Elisabeth Oberdorff,,570,28,1807,3,20,4
+1807,26,Catharina Elisabeth,Ottstadt,Friedrich Ottstadt,Elisabeth Ottstadt,Catharina Ottstadt,,,571,28,1807,3,12,4
+1807,26,Samuel,Scooly,Bernhardt Scooly,Maria Scooly,The parents themselves,,,572,28,1806,11,18,4
+1807,7,Jacob,Abel,Georg Abel,Margaret Abel,The parents,,,573,28,1807,2,3,5
+1807,7,Rebecca,Adig,Adam Adig,Elisabeth Adig,Rebecca Holtzel,,,574,28,1807,3,21,5
+1807,7,Anna Maria,Gilbert,Johannes Gilbert,Anna Maria Gilbert,The parents,,,575,28,1806,12,28,5
+1807,7,Elisabeth,Menges,Peter Menges,Elisabeth Menges,Diedrich Walck,Elisabeth Walck,,576,28,1806,12,1,5
+1807,7,Christian,Walck,Christian Walck,Elisabeth Walck,Friedrick Miller,Susanna Miller,,577,28,1807,2,15,5
+1807,7,Joseph,Schonberger,Adam Schonberger,Catharina Schonberger,Balthasar Schonberger,,,578,28,1806,12,10,5
+1807,7,Benjamin,Hengst,Michael Hengst,Juliana Hengst,The parents themselves,,,579,28,____,__,__,5
+1807,21,Sarah,Bibersen,Conrad Bibersen,Catharina Bibersen,Conrad Brubacher,Christina Brubacher,,580,28,1807,4,12,6
+1807,21,Zacharias,Ziegler,Peter Ziegler,Susanna Ziegler,Michael Kauffeld,Sophia Kauffeld,,581,28,1807,3,29,6
+1807,21,Catharina,Schweitzer,Andreas Schweitzer,Catharina Schweitzer,Catharine Wolleber,,,582,28,1807,2,28,6
+1807,21,Michael,Ziegler,Georg Ziegler,Dorothea Ziegler,Michael Ziegler,,,583,28,1807,1,21,6
+1807,16,Johannes,Abel,Johannes Abel,Catherina Abel,Johannes Gilbert,Anna Maria Gilbert,,584,29,1807,7,9,8
+1807,25,Catharina Elisabeth,Borgholthaus,George Christian Borgholthaus,A M Elisabeth Borgholthaus,Henrich Odstadt,Catharina Odstadt,,585,29,1807,9,24,10
+1807,George Christian,,586,,,Helena Lieberknecht,,,,,1809,10,17,Borgholthaus
+1809,29,Georg,Pfaf,Friedrich Pfaf,Anna Margaret Pfaf,Georg Pfaff,,,587,29,1809,11,8,12
+1809,18,Sarah,Oberdorf,Georg Oberdorf,Anna Maria Oberdorf,Elisabeth Oberdorf,,,588,29,1809,2,9,4
+1809,18,Heinrich,Schonberger,Adam Schonberger,Catherine Schonberger,Johannes Gilbert,Anna Maria Maria,,589,29,1808,10,7,4
+1810,25,Elisabeth,Lieberknecht,Georg Lieberknecht,Catherine Lieberknecht,Elizabeth Hersching,,,590,29,1809,11,19,2
+1810,25,Georg,Anstein,Heinrich Anstein,Christine Anstein,Simon Anstein,,,591,29,1809,10,25,2
+1810,20,Catharina,Jacobs,Philip Jacobs,Catherine Jacobs,Heinrich Geib,Cath Geib,,592,29,1810,4,13,5
+1810,20,Catharina,Abel,Johannes Abel,Catherine Abel,Christ Rathfong,Elis Rathfong,,593,29,1810,1,2,5
+1810,,Kohler,Kohler,Daniel Kohler,Barb Kohler,Christian Hausman,Barb Hausman,,29,,1809,12,13,5
+1810,10,Elisa,Kaufeld,Johannes Kaufeld,Maria Kaufeld,Elizabeth Herschin,,,596,29,1810,7,12,9
+1811,4,Elisabeth,Jung,Georg Jung,Elizabeth Jung,Elizabeth Attich,,,598,29,1811,3,22,5
+1811,16,Michael,Gilbert,Andrew Gilbert,Anna Maria Gilbert,Mich Ziegler,Magd Ziegler,,599,29,1811,5,1,6
+1811,16,Maria,Schonberger,Michael Schonberger,Catherine Schonberger,Polly Schonberger,,,600,29,1811,4,1,6
+1811,10,Johannes,Miller,Samuel Miller,Nancy Miller,Johannes Schonberger,,,601,29,1811,2,25,8
+1812,20,Rebecca,Oberdorff,Georg Oberdorff,Anna Maria Oberdorff,The parents,,,602,29,1811,12,3,3
+1812,20,Sarah,Liebhart,Philip Liebhart,Elisasbeth Vogt,"Catherine Vogt ""an illegitimate child""",,,605,29,1811,9,11,3
+1812,19,Zacharias,Jacobs,Philip Jacobs,Catherine Jacobs,Daniel Kaufeld,,,608,30,1812,1,15,4
+1812,30,Elysa,Pfaf,Georg Pfaf,Catharina Pfaf,Christina Paf,,,609,30,1812,1,28,5
+1812,30,Margretha,Abe,Peter Abe,Catharina Abe,The parents,,,610,30,1812,3,8,5
+1812,30,Elisabeth,Abel,Peter Abel,Catharina Abel,Elizabeth Will,,,611,30,1812,3,8,5
+1811,30,Rebeka,Nef,Jacob Nef,Regina Nef,The parents,,,612,30,1810,12,5,5
+1812,31,Georg,Ziegle,Georg Ziegle,Dorathea Ziegle,Christian Rathfang,Elis Rathfang,,613,30,1811,10,1,5
+1812,4,Jacob,Keller,Johannes Keller,Elizabeth Keller,Fried Ottstatt,Elis Ottstatt,,614,30,1812,6,7,8
+1812,4,Rosina,Rupp,Stophel Rupp,Regina Rupp,Georg Abel,Marg Abel,,615,30,1811,10,27,8
+1813,19,Heinrich,Dellinger,Heinrich Dellinger,Sovia Dellinger,Peter Keller,Juliana Keller,,616,30,1812,11,27,3
+1813,12,Josep,Klein,Heinrich Klein,Catherine Klein,Georg Stauzeberger,Elis Stauzeberger,,617,30,1812,2,25,3
+1810,8,Heinrich,Klein,Heinrich Klein,Catherine Klein,Heinrich Geib,Magd Klein,,618,30,1810,1,8,6
+1810,8,Magdalena,Klein,Heinrich Klein,Catherine Klein,Heinrich Geib,Magd Klein,,619,30,1810,1,8,6
+1813,6,Isreal,Jacob,Philip Jacob,Catherine Jacob,Georg Liebeknecht,Cath Liebeknecht,,620,30,1813,4,20,8
+1813,3,Magdalena,Abel,Johannes Abel,Catharina Abel,Magdalena Rathfang,,,621,30,1813,6,29,10
+1813,3,Jacob,Heindel,Christian Heindel,Rebecca Heindel,Jacob Heindel,Susanna Heindel,,622,30,1813,8,18,10
+1813,29,Magdalena,Dellinger,Johannes Dellinger,Catherine Dellinger,Joseph Dellinger,Cath Dellinger,,623,30,1813,8,30,10
+1813,29,Helena,Oberdorf,Georg Oberdorf,Anna Maria Oberdorf,Catherine Leber,,,624,30,1813,8,23,10
+1813,28,Magdalena,Ahl,Georg Ahl,Catharin Ahl,Georg Ahl,Margaretha Ahl,,625,30,1813,9,23,11
+1813,28,Elisabeth,Dellinger,Heinrich Dellinger,Susannah Dellinger,Daniel Vocht,Elisabeth Vocht,,626,30,1813,8,1,11
+1817,23,Heinrich,Schlott,Michael Schlott,Susanna Schlott,The parents,,,627,30,1817,8,9,11
+1814,16,Daniel,Keller,Peter Keller,Juliana Keller,Heinrich Dellinger,Sovia Dellinger,,628,31,1814,3,15,4
+1814,12,Elisabeth,Keller,Peter Keller,Juliana Keller,Georg Weinhold ,Anna Maria Maria,,629,31,1807,1,16,4
+1814,16,Samuel,Liebeknecht,Georg Liebeknecht,Catherine Liebeknecht,The parents,,,630,31,1814,1,21,4
+1814,16,Peter,Feg,Georg Feg,Susanna Feg,Peter Keller,Juliana Keller,,631,31,1813,12,28,4
+1814,16,Georg,Abel,Peter Abel,Catherine Abel,Georg Abel,Cath Abel,,632,31,1814,2,19,4
+1814,15,Salomon,Winter,Samuel Winter,Eva Winter,Georg Abel,Margaretha Abel,,633,31,1814,2,7,5
+1814,27,Sarah,Klein,Heinrich Klein,Catherine Klein,The parents,,,634,31,1814,8,1,10
+1814,27,Georg,Gilbert,Johannes Gilbert,Anna Maria Gilbert,Math Becker,,,635,31,1814,6,2,10
+1814,30,Friederich Wilhelm,Ferleman,John Ferleman,Henriette Ferleman,George C. Borgholthaus,,,636,31,1814,10,4,10
+1817,23,Peter,Dellinger,Daniel Dellinger,Christina Dellinger,The parents,,,637,31,1817,9,11,11
+1817,7,Elias,Dellinger,Jacob Dellinger,Catherine Dellinger,The parents,,,638,31,1817,10,17,12
+1818,4,Samuel,Pfaff,Johanne Pfaff,Elizabeth Pfaff,The parents,,,639,31,1817,11,3,1
+1818,,Bergholdhaus,Bergholdhaus,Frederick Wilhelm Bergholdhaus,Elisabeth Bergholdhaus,Anton Daniel Bergholdthaus,,,31,,1817,11,3,3
+1818,19,Lydia,Attich,Adam Attich,Elisabeth Attich,Jacob Holtzel,Elisabeth Holtzel,,641,31,1818,1,2,4
+1818,19,Cassandra,Dellinger,Johannes Dellinger,Catharina Dellinger,Henry Rupp,Sarah Rupp,,642,31,1817,12,3,4
+1818,19,Cassandra,Attich,Georg Attich,Maria Attich,Juliana Hengst,,,643,31,1818,2,6,4
+1818,19,Samuel,Jung,Georg Jung,Elisabeth Jung,The parents,,,644,31,1818,1,20,4
+1818,25,Johannes,Goohn,Johannes Goohn,Catharina Goohn,The parents,,,645,31,1818,1,14,4
+1818,26,*,Hemstet,Nickolaus Hemstet,Margaretha Hemstet,Samuel KNABSCHILD,Catharina Knabschild,,646,31,1818,3,29,4
+1818,24,Ana Maria,Magdalena,Gartman Magdalena,Heinrich Magdalena,Catharina,,,647,31,1817,9,18,5
+1818,24,Benjamin,Small,Joseph Small,wife of Joseph Small,Jacob Neaf,,,648,31,1818,3,19,5
+6,,Kron,Kron,Lorentz Kron,Elisabeth Kron,Elisabeth Klein,,,31,,1818,2,1818,7
+1818,7,Jacob,Keller,Peter Keller,Juliana Keller,Samuel Keller,Sophia Keller,,650,32,1818,4,2,6
+1818,7,Johannes,Oberdorf,Daniel Oberdorf,Lydia Oberdorf,Georg Oberdorf,Anna Maria Oberdorf,,651,32,1818,4,12,6
+1818,7,Maria,Reiter,Joseph Reiter,Elisabeth Reiter,Philip Jacob,Elisabeth Jacob,,652,32,1818,2,15,6
+1818,7,Maria,Maurer,Christian Maurer,Christiana Maurer,Johannes Rupp,Anna Maria Rupp,,653,32,1818,4,12,6
+1818,17,Joseph,Schonberger,Johannes Schonberger,Catharina Schonberger,The parents,,,654,32,1818,1,25,6
+1818,10,Magdalena,Dellinger,Henrich Dellinger,Sophia Dellinger,The parents,,,655,32,1818,4,30,7
+1818,2,Henrich,Jones,Robert Jones,Catharine Jones,Fred Burgholzhaus,Elisabeth Burgholzhaus,,656,32,1818,5,5,8
+1818,2,Alexander,Steward,John Steward,Cassia Steward,Peter Keller,Juliana Keller,,657,32,1817,11,16,8
+1818,2,Johann,Dallinger,Michael Dallinger,Elisabeth Dallinger,Georg Abel,Margreth Abel,,658,32,1818,6,6,8
+1818,14,Maria,Wohlleber,Henrich Wohlleber,Catharina Wohlleber,Adam Pitts,Maria Pitts,,660,32,1818,2,25,8
+1818,21,Maria Anna Elisabeth,Ruby,Georg Ruby,Anna Ruby,The parents,,,661,32,1818,1,8,8
+1818,21,Jacob,Butscher,Adam Butscher,Maria Butscher,Jacob Gohn,Elisabeth Gohn,,662,32,1818,6,10,8
+1818,27,Georg,Dosch,Christopher Dosch,Magdalena Dosch,The parents,,,663,32,1818,2,22,8
+1818,30,Catharina,Lutz,Johann Lutz,Elisabeth Lutz,Jacob Kleinfelter,Catharina Kleinfelter,,664,32,1818,8,2,8
+1818,25,Susanna,Oberdorf,Georg Oberdorf,Anna Maria Oberdorf,Conrad Leber,Susanna Leber,,665,32,1818,7,23,10
+1818,22,Lidia,Heltzel,Jacob Heltzel,Elisabeth Heltzel,Lidia Heltzel,,,666,32,1818,9,16,11
+1818,20,Wilhelm,Jacobs,Philip Jacobs,Catharina Jacobs,Georg Abel,Margreth Abel,,667,32,1818,11,1,12
+1819,10,Cassandra,Pfaff,Georg Pfaff,Catherine Pfaff,Magdalene Dellinger,,,668,32,1818,11,29,4
+1819,10,Georg,Gohn,Jacob Gohn,Elisabeth Gohn,Georg Oberdorf,Anna Maria Oberdorf,,669,32,1819,1,7,4
+1819,10,Abraham,Peik,Abraham Peik,Catherine Peik,Henrich Scherer,Elisabeth Scherer,,670,32,1819,1,29,4
+1819,14,Cassandra,Lieberknecht,Jacob Lieberknecht,Magdalena Lieberknecht,Christina Brubacher,,,671,32,1818,9,3,5
+1819,14,Lidia,Lieberknecht,Jacob Lieberknecht,Magdalena Lieberknecht,The parents,,,672,32,1818,9,3,5
+1822,1,Lea,Reisinger,Johanes Reisinger,Maria Reisinger,Catherine Meylans,,,673,33,1822,5,20,9
+1806,23,Henriette,Kauffelt,Jacob Kauffelt,Elizabeth Kauffelt,Elisabeth Hershinger,,,674,33,1806,9,20,11
+1821,22,Levy,Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,The parents,,,675,33,1821,5,13,6
+1808,28,Georg,Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,The parents,,,676,33,1808,3,28,5
+1811,15,Michael,Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,Michael Kauffelt,,,677,33,1811,1,11,2
+1812,18,Lea,Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,The parents,,,678,33,1812,4,16,5
+1815,15,Sara,Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,Friederich Willig,Hannah Willig,,679,33,1814,11,25,1
+1817,21,Cassandra,Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,,680,33,1817,10,26,12
+1819,20,Charlotte,Kauffelt,Jacob Kauffelt,Elisabeth Kauffelt,The parents,,,681,33,1819,4,22,6
+1823,14,Joseph,Schenberger,Balser Schenberger,Maria Schenberger,The parents,,,683,33,1821,3,7,5
+1823,14,Michael,Schenberger,Balser Schenberger,Maria Schenberger,The parents,,,684,33,1823,1,28,5
+1823,14,Susanna,Neff,Daniel Neff,Maria Neff,Sarah Silzer,,,685,33,1823,1,21,5
+1823,28,Susanna,Miller,Friederich Miller,Susanna Miller,Susanna Kayler,,,686,33,1823,3,17,5
+1823,6,Hana,Keller,Samuel Keller,Sophia Keller,The parents,,,687,33,1823,4,15,7
+1823,6,Sara,Schlott,Johanes Schlott,Barbara Schlott,Sophia Schlott,,,688,33,1823,5,5,7
+1823,6,Madilta,Kramlich,Adam Kramlich,Magdalena Kramlich,Sara Will,,,689,33,1823,4,15,7
+1823,6,Jacob,Paulus,Adam Paulus,Elisabeth Paulus,The parents themselves,,,690,33,1823,5,17,7
+1824,29,Anna Maria,Gohn,Jacob Gohn,Eliasbeth Gohn,The parents themselves,,,691,33,1823,11,22,2
+1824,,,Oberdorff,George Oberdorff,Maria Oberdorff,Peter Keller,Elisabeth Pales,,,,1824,6,3,Oberdorff
+1824,,,Oberdorff,George Oberdorff,Maria Oberdorff,Nicholas Leber,Elisabed Leber,,,,1825,7,12,Oberdorff
+1824,,,Leber,Peder Leber,wife of Peder Leber,Sara Silzer,,,,,1824,2,28,Leber
+1824,,,Leber,Peder Leber,wife of Peder Leber,The parents,,,,,1825,5,11,Leber
+1804,5,Jacob,Lebhart,Henrich Lebhart,Elisabeth Lebhart,Georg Oberdorf,Elisabeth Oberdorf,,696,34,1804,6,12,8
+1804,17,Jacob,Imenhauser,Jacob Imenhauser,Magdalena Imenhauser,Adam Pahle,Elisabeth Pahle,,697,34,1804,--,23,3
+1804,,,Philip,Johannes Philip,Eva Elisabeth Philip,Adam Pahle,Elisabeth Pahle,,,,1805,3,11,Philip
+1804,,,Otstad,Michael Otstad,Magdalena Otstad,Michael Otstad,Magdalena Otstad,,,,1805,4,24,Otstad
+1804,,,Hamer,Henrich Hamer,Magdalena Hamer,Adam Palus,Elisab Palus,,,,1805,6,20,Hamer
+1804,,,Liebengut,Peter Liebengut,Susana Liebengut,Henrich Klein,Cath Klein,,,,1805,9,28,Liebengut
+1806,6,Lidia,Palus,Henrich Palus,Susana Palus,Georg Lieberknecht,Catharina Lieberknecht,,704,34,1806,5,27,6
+1806,3,Elisabeth,Dritt,Christia Dritt,Frena Dritt,Magdalena Dritt,,,705,34,1806,5,25,8
+1806,3,Elis.,Liebhard,Henrich Liebhard,Elisabeth Liebhard,George Oberdorff,Ana Maria Oberdorff,,706,34,1806,5,29,8
+1806,30,Johanes,Imenhauser,Jacob Imenhauser,Magdalena Imenhauser,Jacob Imenhauser,Magdalena Imenhauser,,707,34,1805,7,21,8
+1806,30,Mag.,Kun,Georg Kun,Magdalena Kun,Peter Keler,Juliana Keler,,708,34,1806,7,11,8
+1806,28,Magd.,Cron,Lorenz Cron,Elis Cron,Elizabeth Ruby,,,709,34,1806,3,31,9
+1806,26,Jacob,Otstad,Michael Otstad,Magdalena Otstad,Adam Otstad,Sophia Otstad,,710,34,1806,7,17,10
+1806,23,Elisab.,Otstat,Henrich Otstat,Elizabeth Otstat,Friederich Otstad,Elisabeth Otstad,,711,34,1806,10,1,11
+1806,,,Geiss,Jacob Geiss,Anamaria Geiss,Maria Geiss,,,,,1806,8,30,Geiss
+1807,27,Cath.,Lieberknecht,Friederich Lieberknecht,Margretha Lieberknecht,Catherine Lieberknecht,,,713,34,1807,8,24,9
+1807,27,Jacob,Guhn,Jacob Guhn,Barbara Guhn,Jacob Lieberknecht,Magdalena Lieberknecht,,714,34,1807,7,28,9
+1807,27,Samuel,Guhn,Jacob Guhn,Barbara Guhn,Georg Guhn,Magdalena Guhn,,715,34,1807,7,28,9
+1823,9,Juliana,Hartman,Francis Hartman,Magdalena Hartman,Maria Gilbert,,,716,34,1822,7,6,4
+1807,22,Magd.,Imenheiser,Jacob Imenheiser,Magdalena Imenheiser,Jacob Imenheiser,Magd Imenheiser,,717,35,1807,1,10,11
+1807,22,Eleysa,Schmid,Jacob Schmid,Rusy Schmid,Jacob Schmid,Rusia Schmid,,718,35,1807,9,6,11
+1807,22,Samuel,Keller,Samuel Keller,Sophia Keller,Samuel Keller,Sophia Keller,,719,35,1807,9,2,11
+1807,,Wohlleber,Wohlleber,Henrich Wohlleber,Catharina Wohlleber,Catherine Wolleber,,,35,,1807,9,29,21
+1808,14,Helena,Krepgaher[?],Conrad Krepgaher,Christina Krepgaher,Con Krep,Christina Krep,,721,35,1807,12,5,1
+1807,10,Cath.,Glein [Klein],Henrich Klein,Catharina Klein,Magdalene Dosch,,,722,35,1807,6,17,4
+1808,10,An. Maria,Paulus,Henrich Paulus,Susana Paulus,Ad Paulus,Elis Paulus,,723,35,1808,1,29,4
+1808,8,Johanes,Miller,Friederich Miller,Susana Miller,Michael Miller,Susana Miller,,724,35,1808,1,26,5
+1808,8,Elis.,Pfaf,Johanes Pfaf,Elizabeth Pfaf,Christina Pfaf,,,725,35,1808,1,30,5
+1808,8,Elis.,Kun,Georg Kun,Magdalene Kun,Henrich Libhart,Elis Libhart,,726,35,1807,10,13,5
+1808,8,Elis.,Attich,Adam Attich,Elizabeth Attich,Elizabeth Attich,,,727,35,1808,4,7,5
+1808,6,Cat.,Oberdorf,Georg Oberdorf,,George Oberdorf,Anna Maria Oberdorf,,35,,1808,2,9,5
+1808,6,Sarah,Otstat,Adolf Otstat,Sophia Otstat,Henrich Lebhard,Elis Lebhard,,729,35,1808,3,4,5
+1808,6,Rebecka,Will,Johanes Will,Catharina Will,Rebecka Heltzel,,,730,35,1808,3,21,5
+1808,6,Cat.,Thomas,Gotfried Thomas,Magdalena Thomas,Jacob Lieberknecht,Magdal Lieberknecht,,731,35,1807,10,18,5
+1808,6,Sam.,Keller,Johannes Keller,Elizabeth Keller,Samuel Keller,Sophia Keller,,732,35,1807,12,22,5
+1808,6,Elis.,Gren,Peter Gren,Magdalene Gren,Nicklas Schafer,Barbara Schafer,,733,35,1808,2,23,5
+1808,6,Anamaria,Kron,Lorentz Kron,Elizabeth Kron,Anna Maria Krohn,,,734,35,1807,10,6,5
+1808,3,Johanes,Wohlleber,Frantz Wohlleber,Margaret Wohlleber,Frantz Wohlleber,Marg Wohlleber,,735,35,1808,4,14,6
+1808,30,Sophia,Dellinger,Jacob Dellinger,Catharina Dellinger,Samuel Keller,Sophia Keller,,736,35,1808,6,22,7
+1808,28,Margretha,Dritt,Christ Dritt,Frena Dritt,An Maria Pens,,,737,35,1807,9,10,8
+1808,28,Jacob,Abel,Peter Abel,Catherine Abel,Jacob Heltzel,Christina Heltzel,,738,35,1808,6,8,8
+1808,28,Jacob Henrich,Busick,Michael Busick,Ana Busick,Jacob Lebenknecht,Georg Oberdorf,,739,35,1808,3,18,8
+1808,28,Cath.,Anstein,Henrich Anstein,Christina Anstein,Elizabeth Oberdorf,,,740,36,1808,7,3,8
+1808,28,Ana M.,Dellinger,Henrich Dellinger,Sophia Dellinger,Georg Liebegut,Catha Liebegut,,741,36,1808,6,28,8
+1808,28,Cat.,Wanbach,Peter Wanbach,Ana Maria Wanbach,Elizabeth Weinhold,,,742,36,1808,6,2,8
+1808,23,Magdalena,Johanes,Catharina Johanes,,Michael Zigler,Magdalena Zigler,,36,,1808,8,11,10
+1808,,Otstad,Otstad,Henrich Otstad,Catharina Otstad,Joseph Dellinger,Catharina Dellinger,,36,,1808,9,22,11
+1808,20,Rebeka,Jacob,Philip Jacob,Catharina Jacob,Rebeka Heltzel,,,745,36,1808,9,10,11
+1809,14,Jacob,Dellinger,Michael Dellinger,Elizabeth Dellinger,Jacob Heltzel,Christina Heltzel,,746,36,1808,11,3,2
+1809,10,Ana,Voth,Georg Voth,Susana Voth,Margretha Heltzel,,,748,36,1808,7,9,3
+1809,12,Anamaria,Liebhart,Henrich Liebhart,Elizabeth Liebhart,Elizabeth Oberdorf,,,749,36,1808,10,3,3
+1809,9,Jacob,Jung,Georg Jung,Elis Jung,Jacob Leber,,,750,36,1809,3,11,4
+1809,9,Magdalena,Gilbert,Andreas Gilbert,Annamaria Gilbert,Johanes Schonberger,Catharina Schonberger,,751,36,1808,10,24,4
+1809,9,Fried.,Imheiser[?],Jacob Imheiser,Magdalena Imheiser,Friederich Miller,Susana Miller,,752,36,1808,10,2,4
+1809,5,Jacob,Gun,George Gun,Magdalena Gun,Jacob Liebhardt,,,753,36,1809,1,24,5
+1809,5,Jacob,Nef,Jacob Nef,Regina Nef,Adam Schonberger,Catharina Schonberger,,754,36,1809,1,28,5
+1809,5,Elisa,Zigler,Michael Zigler,Magdalena Zigler,Michael Zigler,Magdalena Zigler,,755,36,1809,2,28,5
+1809,7,Henrich,Liebenknecht,Jacob Liebenknecht,Magdalena Liebenknecht,Michael Kafeld,Sophia Kafeld,,756,36,1809,1,23,5
+1809,7,Georg,Keller,Peter Keller,Julian Keller,Georg Liebenknecht,Catharina Liebenknecht,,757,36,1809,3,21,5
+1809,7,Sara,Abel,Johanes Abel,Catherine Abel,Henrich Klein,Cath Klein,,758,36,1809,10,31,5
+1809,4,Sarah,Hamer,Henrich Hamer,Magdalena Hamer,Elizabeth Hersche,,,762,36,1809,3,14,6
+1809,4,Martha,Dellinger,Jacob Dellinger,Regina Dellinger,Jacob Dellinger,Regina Dellinger,,763,37,1808,11,21,6
+1809,4,Henrich,Biebersen,Conrad Biebersen,Catharina Biebersen,Georg Oberdorf,Ana Maria Oberdorf,,764,37,1809,4,6,6
+1809,4,Mariana,Schmid,Jacob Schmid,Rusia Schmid,Jacob Schmid,Rusia Schmid,,765,37,1809,2,1,6
+1809,30,Chat.,Attich,Adam Attich,Elizabeth Attich,Peter Abel,Cath Abel,,766,37,1809,6,2,7
+1809,30,Sarah,Rupp,Stophel Rupp,Regina Rupp,Johanes Keller,Elis Keller,,767,37,1809,11,28,7
+1809,13,Johannes,Oberdorf,Daniel Oberdorf,Catherine Oberdorf,Johannes Gilbert,Maria Gilbert,,768,37,1809,7,11,8
+1809,26,Heriotta,Kafeld,Johanes Kafeld,Susana Kafeld,Julliana Weber,,,769,37,1809,4,26,4
+1809,19,Adam,Menges,Peter Menges,Elisabeth Menges,Johanes Schonberger,Catharina Schonberger,,770,37,1809,7,28,11
+1809,15,Michael,Miller,Friederich Miller,Susana Miller,Adam Palle,Elisabeth Palle,,771,37,1809,9,30,12
+1810,25,Elisabeth,Keller,Johannes Keller,Elisabet Keller,Ludwich Lehman,Barb Lehman,,772,37,1809,9,23,3
+1810,25,Elisabeth,Ottstadt,Friedrich Ottstadt,Elizabeth Ottstadt,Rebeca Schlott,,,773,37,1810,2,21,3
+1810,21,Henri,Weber,John Weber,,Henrich Weber,,,37,,1808,8,27,4
+1810,6,Johanes,Ziegler,Georg Ziegler,Doratha Ziegler,Andreas Gilbert,Polly Gilbert,,776,37,1809,10,7,5
+1810,6,Jacob,Hicks,Conrath Hicks,Eva Hicks,The parents,,,777,37,1810,2,4,5
+1810,6,Magdalena,Pfaf,Georg Pfaf,Catharina Pfaf,Henrich Dellinger,,,778,37,1810,1,2,5
+1810,3,Johanes,Keller,Samuel Keller,Sophia Keller,The parents,,,779,37,1810,5,7,5
+1810,1,Elisabeth,Weimer,Georg Weimer,Christina Weimer,Joseph Dellinger,Catharina Dellinger,,780,37,1810,5,17,6
+1810,29,Johanes,Otstad,Henrich Otstad,Catherine Otstad,Jacob Heltzel,,,781,37,1810,4,25,7
+1810,12,Heinrich,Wohleber,Henrich Wohleber,Catherine Wohleber,Conrad Bibersen,,,782,37,1810,5,2,8
+1810,12,Margareth,Wohleber,Franz Wohleber,Margaret Wohleber,Catherine Wohleber,,,783,37,1810,3,18,8
+1810,12,Elisa,Schonberger,Johannes Schonberger,Catherine Schonberger,Andrew Gilbert,,,784,37,1810,6,19,8
+1810,12,Michael,Schmidt,Jacob Schmidt,Elizabeth Schmidt,Heinrich Einstein,,,785,37,1810,2,17,8
+1810,23,Maria,Dosch,Christophel Dosch,Magdalena Dosch,The parents,,,786,38,1810,7,16,9
+1810,23,Cath.,Dritt,Christ Dritt,Frances Dritt,The parents,,,787,38,1809,9,16,9
+1810,18,Henrich,Imenhauser,Jacob Imenhauser,Magdalena Imenhauser,The parents,,,788,38,1810,7,3,11
+1810,18,Elis.,Schnell,Christian Schnell,Magdalena Schnell,Daniel Faust,Elis Faust,,789,38,1810,10,1,11
+1810,2,Johannes,Delinger,Heinrich Delinger,Sovia Delinger,Johannes Gilbert ,Anna Maria Maria,,790,38,1810,11,10,12
+1810,2,A. Maria,Feg,Georg Feg,Susanna Feg,Elizabeth Oberdorf,,,791,38,1810,9,22,12
+1810,2,Heinrich,Pfaf,Johannes Pfaf,Elizabeth Pfaf,Joseph Delinger,Cath Delinger,,792,38,1810,9,1,12
+1810,2,Jacob,Ortig [Attig],Adam Attig,Elizabeth Attig,Jacob Heltzel,,,793,38,1810,9,25,12
+1811,18,Henrich,Liebhart,Henrich Liebhart,Elizabeth Liebhart,Jacob Neff,Regina Neff,,794,38,1810,10,26,2
+1811,18,Maria,Liebhart,Jacob Liebhart,Elizabeth Liebhart,Catharina Leber,,,795,38,1810,10,26,2
+1811,14,Michael,Oberdorff,Daniel Oberdorff,Catherine Oberdorff,Adam Schonberger,Cath Schonberger,,796,38,1810,11,23,3
+1811,7,Eleisa,Dellinger,Jacob Dellinger,Catherine Dellinger,Friedrich Ottstad,Elisabeth Ottstad,,797,38,1810,12,5,4
+1811,17,Lena,Will,Johannes Will,Catherine Will,Georg Oberdorf ,Anna Maria Oberdorf,,798,38,1811,1,24,5
+1811,3,Elisabeth,Wilhelm,Johanes Wilhelm,Juliana Wilhelm,Henrich Weber ,Elizabeth Frey,,799,38,1810,11,7,6
+1811,30,Daniel,Biberson,Conrad Biberson,Catharina Biberson,The parents,,,801,38,1810,11,17,6
+1811,14,Elisabeth,Liebeknecht,Jacob Liebeknecht,Magdalene Liebeknecht,Crist Keller,,,802,38,1811,5,17,7
+1811,28,Helena,Miller,Friederich Miller,Susana Miller,Michael Miller,Elis Miller,,803,38,1811,4,12,7
+1811,28,Georg,Hamer,Henrich Hamer,Magdalena Hamer,Georg Oberdorf,Anamaria Oberdorf,,804,38,1811,6,18,7
+1811,28,Salomon,Herst,Thomas Herst,Catharina Herst,Elizabeth Ruby,,,805,38,1811,5,14,7
+1811,28,Mag.,Ruby,Daniel Ruby,Elizabeth Ruby,Magdalena Rathfang,,,806,38,1811,4,18,7
+1811,28,Johanes,Selzer,Christian Selzer,Hana Selzer,The parents,,,807,38,1811,3,20,7
+1811,28,Heriatta,Schmid,Jacob Schmid,Rus Schmid,The parents,,,808,39,1810,9,7,7
+1811,25,Sara,Kron,Lorentz Kron,Elisabeth Kron,Magdalena Rathfang,,,809,39,1811,1,2,8
+1811,28,Georg,Dellinger,Johann Dellinger,Catherine Dellinger,Georg Abel,,,811,39,1811,9,15,11
+1812,9,Sophia,Otstad,Friederich Otstad,Elisabeth Otstad,Sophia Schlott,,,812,39,1811,10,7,2
+1812,28,Anamaria,Oberdorf,Daniel Oberdorf,Catherine Oberdorf,The parents,,,814,39,1812,1,24,6
+1812,28,Anamaria,Schafer,Philip Schafer,Elizabeth Schafer,Elisabeth Attich,,,815,39,1812,5,26,6
+1812,8,Michael,Dellinger,Michael Dellinger,Elizabeth Dellinger,Jacob Liebeknecht,Magd Liebeknecht,,816,39,1812,5,16,7
+1812,8,Heinrich,Dosch,Christoph Dosch,Magdalene Dosch,Heinrich Tritt,,,818,39,1812,3,24,7
+1812,26,Jacob,Dritt,John Dritt,Maria Dritt,The parents,,,819,39,1812,5,20,7
+1812,26,Johanes,Liebhard,Heinrich Liebhard,Elizabeth Liebhard,The parents,,,820,39,1812,5,8,7
+1812,25,Michael,Weber,Johannes Weber,Anamaria Weber,Conrad Leber,Maria Leber,,821,39,1811,12,12,7
+1812,23,Sarah,Dritt,Christian Dritt,Frene Dritt,The parents,,,822,39,1811,9,3,8
+1812,23,Daniel,Flory,Christian Flory,Elizabeth Flory,William Nicklos,,,823,39,1812,2,16,8
+1812,6,Susanna,Schonberger,Johannes Schonberger,Catherine Schonberger,Susanna Ziegel,,,824,39,1812,6,20,9
+1812,20,Dewald,Wilhelm,Johanes Wilhelm,July Wilhelm,Philip Frey,Juliana Frey,,825,39,1812,8,6,9
+1812,31,Joseph,Ottstatt,Henrich Ottstatt,Catherine Ottstatt,Baltzer Schonberger,Cath Schonberger,,827,39,1812,8,24,10
+1812,31,Rebecca,Biebersen,Conrad Biebersen,Catherine Biebersen,Conrad Biebersen,Cath Biebersen,,828,39,1812,6,3,10
+1812,13,Johanes,Liebhard,Jacob Liebhard,Elis Liebhard,The parents,,,829,39,1812,10,8,12
+1813,31,Anam.,Attig,Adam Attig,Elizabeth Attig,Anamaria Will,,,830,39,1812,11,26,1
+1813,4,Johanes,Pfaff,Johannes Pfaff,Elisabeth Pfaff,Georg Pfaff,Catharina Pfaff,,831,40,1812,10,19,4
+1813,16,Heinrich,Gilbert,And Gilbert,Anna Maria Gilbert,The parents,,,832,40,1813,3,9,4
+1813,16,Elisa,Omig,Johannes Omig,Anna Maria Omig,The,,,833,40,1813,1,23,4
+1813,17,A. Maria,Liebeknecht,Jacob Liebeknecht,Magdalene Liebeknecht,Georg Liebeknecht,Cath Liebeknecht,,834,40,1813,1,30,4
+1813,30,Cath.,Miller,Friederich Miller,Susanna Miller,Georg Kummerle  ,Catherine Kummerle,,835,40,1812,10,18,5
+1813,30,Pally,Gun,Georg Gun,Magdalena Gun,Polly Gun,,,836,40,1813,2,5,5
+1813,30,Adam,Imenhauser,Jacob Imenhauser,Magdalena Imenhauser,The parents,,,837,40,1813,6,7,5
+1813,30,Cath.,Dellinger,Jacob Dellinger,Catherine Dellinger,Catherine Otstad,,,838,40,1813,3,10,5
+1813,27,Eleysa,Palle[Paules?],Michael Paules,Rebecka Paules,Adam Palle,Elizabeth Paulles,,839,40,1813,5,4,6
+1813,27,Anamargr.,Knepfiehl,Johannes Knepfiehl,Catherine Knepfiehl,Friederich Pfaf  ,Anamargretha Pfaf,,840,40,1813,4,30,6
+1813,7,Magdalena,Menges,Peter Menges,Elizabeth Menges,Jacob Liebeknecht,,,841,40,1813,2,28,7
+1813,21,Anamaria,Weber,Johannes Weber,Anamaria Weber,Polly Weber,,,842,40,1813,4,15,8
+1813,22,Samuel,Hamer,Henrich Hamer,Magdalena Hamer,Michael Schandling,,,843,40,1813,5,18,8
+1813,21,Jacob,Leber,Nickolaus Leber,Elizabeth Leber,The parents,,,844,40,1813,7,10,8
+1813,19,Johanes,Jung,Georg Jung,Elisabeth Jung,Conrad Leber,,,845,40,1813,7,22,9
+1814,9,Heinrich,Ziegler,Georg Ziegler,Dorathea Ziegler,Heinrich Klein,Catharina Klein,,846,40,1813,10,21,4
+1814,29,Elis.,Sherer,Henrich Sherer,Elisabeth Sherer,Peter Abel,,,847,40,1814,3,7,5
+1814,12,Friederich W.,Hempstett,Nicholas Hempstett,Margaret Hempstett,Friedrich Wittig,,,848,40,1814,3,24,6
+1814,12,An Maria,Pfaff,Georg Pfaff,Catherine Pfaff,Catherine Otstatt,,,849,40,1814,3,25,6
+1814,12,Johannes,Wohlleben,Heinrich Wohlleben,Catherine Wohlleben,Johannes Shafer,,,850,40,1813,12,27,6
+1814,26,Jacob,Miller,Friederich Miller,Susana Miller,The parents,,,851,40,1814,2,8,6
+1814,24,Georg,Liebhard,Henrich Liebhard,Elizabeth Liebhard,Jacob Liebenknech  ,Magdalena Liebenknech,,852,40,1814,5,21,7
+1814,24,Elisa,Bieberson,Conrad Bieberson,Catharina Bieberson,The parents,,,853,40,1814,9,7,7
+1823,30,David Kimel,Ruby,David Ruby,Rebekeh Ruby,The parents,,,854,41,1823,1,3,4
+1814,7,Henrich,Weimer,Georg Weimer,Christine Weimer,Georg Jung,,,856,41,1814,6,25,8
+1814,10,Johannes,Nief,Jacob Nief,Regina Nief,The parents,,,857,41,1814,5,15,8
+1814,24,Susana,Seltzer,Christian Seltzer,Catherine Seltzer,The parents,,,858,41,1812,--,3,8
+1814,24,Maria Cath.,Fischel,Daniel Fischel,Elizabeth Fischel,The parents,,,859,41,1814,4,2,8
+1814,25,Johanes,Dritt,John Dritt,Maria Dritt,The parents,,,860,41,1814,4,14,5
+1814,,,Kafeld,Johanes Kafeld,Susana Kafeld,Barbara Striebich,,,,,1813,10,26,Kafeld
+1814,4,Sarah,Attig,Adam Attig,Elizabeth Attig,Anna Maria Gohn,,,862,41,1814,6,15,9
+1814,4,Elisabeth,Dellinger,Daniel Dellinger,Christine Dellinger,Heinrich Dellinger,Sovia Dellinger,,863,41,1814,7,24,9
+1814,21,Johannes,Flory,Christian Flory,Elisabeth Flory,Johannes Will,Catharina Will,,864,41,1814,1,9,9
+1815,12,Cassandra,Schmidt,Georg Schmidt,Elisabeth Schmidt,The parents,,,865,41,1814,12,8,3

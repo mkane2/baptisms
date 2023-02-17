@@ -1,12 +1,12 @@
 record,date,bapt 1,year,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1,parents 2,child
-,16 Aug 1782/29 Sep 1782,16 Aug 1782/29 Sep 1782,1782,[no name] Knappenberger,Heinrich Knappenberger,,,Friedrich Loorman,Elisabeth Loorman,Eva Loorman
+,16 Aug 1782/29 Sep 1782,16 Aug 1782/29 Sep 1782,1782,[noname] Knappenberger,Heinrich Knappenberger,,,Friedrich Loorman,Elisabeth Loorman,Eva Loorman
 148,c1761/11 Oct 1761,c1761/11 Oct 1761,1761,Abraham Herb,wife of Abraham Herb,,,Heinrich Cuntz,Catharina Cuntz,Johann George Cuntz
 ,c1796/27 Nov 1796,c1796/27 Nov 1796,1796,Abraham Klein,Anna Maria Klein,,,Abraham Klein,Anna Maria Klein,Johann Jonathan Klein
 ,20 Mar 1782/14 Apr 1782,20 Mar 1782/14 Apr 1782,1782,Abraham Merckel,Gertraut Kigli,,,Johannes Liglietner,Eva Elisabeth Liglietner,Eva Elisabeth Liglietner
 ,19 Oct 1789/15 Nov 1789,19 Oct 1789/15 Nov 1789,1789,Abraham Schwartz,Margaretha Schot,,,Friedrich Fenli,Maria Fenli,Jacob Fenli
 ,11 Jun 1785/31 Jul 1785,11 Jun 1785/31 Jul 1785,1785,Adam Bortz,Anna Witmayer,,,Heinrich Eigner,Susanna Eigner,Christina Eigner
 ,23 Feb 1794/30 Mar 1794,23 Feb 1794/30 Mar 1794,1794,Adam Brauss,Lowisa Schmoyer,,,Christian Heninger,Eva Heninger,Christian Heninger
-,c1762/1 Aug 1762,c1762/1 Aug 1762,1762,Adam Desch,Gertraut Desch,,,[no name] Anhler,,Maria Magdalena Anhler
+,c1762/1 Aug 1762,c1762/1 Aug 1762,1762,Adam Desch,Gertraut Desch,,,[noname] Anhler,,Maria Magdalena Anhler
 230,c1766/11 May 1766,c1766/11 May 1766,1766,Adam Desch,Maria Desch,,,Balthaser Dritt,,Maria Magdalena Dritt
 ,11 Jul 1769/6 Aug 1769,11 Jul 1769/6 Aug 1769,1769,Adam Desch,Maria Desch,,,Jacob Steff,Maria Catharina Steff,Magdalena Steff
 ,28 Jul 1772/11 Oct 1772,28 Jul 1772/11 Oct 1772,1772,Adam Desch,Gertraut Desch,,,Dewald Schot,Christina Schot,Margaretha Schot
@@ -63,7 +63,7 @@ record,date,bapt 1,year,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1,pa
 ,5 Jan 1783/16 Feb 1783,5 Jan 1783/16 Feb 1783,1783,Anthony Moll,Dorothea Moll,,,Jacob Kaiser,Sarah Kaiser,Peter Kaiser
 ,12 Jul 1766/5 Dec 1766,12 Jul 1766/5 Dec 1766,1766,Balthaser Butz,Anna Margaretha Butz,,,George Kraber,,Johan George Kraber
 222,c1765/9 Dec 1765,c1765/9 Dec 1765,1765,Balthaser Schmidt,Maria Barbara Schmidt,,,Conrad Kauffman,,Philip Jacob Kauffman
-239,c1766/27 Jul 1766,c1766/27 Jul 1766,1766,Balthaser Schmidt,Maria Barbara Schmidt,,,Peter Rodler,[no name] Grammes,Anna Catharina Rodler
+239,c1766/27 Jul 1766,c1766/27 Jul 1766,1766,Balthaser Schmidt,Maria Barbara Schmidt,,,Peter Rodler,[noname] Grammes,Anna Catharina Rodler
 ,29 Apr 1770/3 Jun 1770,29 Apr 1770/3 Jun 1770,1770,Balthaser Schmidt,Maria Barbara Schmidt,,,Jacob Wagner,Louisa Huber,Johann George Wagner
 ,7 Nov 1773/31 May 1773,7 Nov 1773/31 May 1773,1773,Balthaser Schmidt,Maria Barbara Schmidt,,,Peter Mattern,Catharina Mattern,Heinrich Mattern
 ,25 May 1783/6 Jul 1783,25 May 1783/6 Jul 1783,1783,Baltzer Fetterman,Catharina Maria Fetterman,,,Michael Schmoyer,Maria M. Schmoyer,Abraham Schmoyer
@@ -493,7 +493,7 @@ record,date,bapt 1,year,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1,pa
 ,30 Jun 1792/1 Jul 1792,30 Jun 1792/1 Jul 1792,1792,Jacob Desch,Elisabeth Desch,,,Christian Reiner,Anna Maria Reiner,Benjamin Reiner
 ,20 Feb 1797/16 Apr 1797,20 Feb 1797/16 Apr 1797,1797,Jacob Desch,Elisabetha Desch,,,Friedrich Fenli,Elisabetha Fenli,Johannes Fenli
 ,19 Aug 1789/18 Oct 1789,19 Aug 1789/18 Oct 1789,1789,Jacob Diefendorfer,Anna Maria Diefendorfer,,,Heinrich Japel,Maria Japel,Lydia Japel
-158,c1762/25 Apr 1762,c1762/25 Apr 1762,1762,Jacob Dormeyer,wife of Jacob Dormeyer,,,[no name] Seibert,,[?] Seibert
+158,c1762/25 Apr 1762,c1762/25 Apr 1762,1762,Jacob Dormeyer,wife of Jacob Dormeyer,,,[noname] Seibert,,[?] Seibert
 ,13 Jun 1796/5 May 1798?,13 Jun 1796/5 May 1798?,1798,Jacob Druckenmiller,Anna Maria Druckenmiller,,,Jacob Gorr,Elisabetha Gorr,Jacob Gorr
 ,27 Apr 1798/24 Jun 1798,27 Apr 1798/24 Jun 1798,1798,Jacob Druckenmiller,Anna Maria Druckenmiller,,,Christian Ruth,Regina Ruth,Johannes Ruth
 ,"5 May 1751/1751, the next Sunday","5 May 1751/1751, the next Sunday",1751,Jacob Eigner,Maria Magdalena Eigner,,,Johann Adam Sezer,Maria Magdalena Sezer,Johann Jacob Sezer
@@ -610,7 +610,7 @@ record,date,bapt 1,year,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1,pa
 249,c1767/24 May 1767,c1767/24 May 1767,1767,Johan Adam Desch,wife of Johan Adam Desch,,,Johan Adam Desch,,Anna Catharina Desch
 ,c1758/1 Oct 1758,c1758/1 Oct 1758,1758,Johan Adam Dietrich,Margaretha Peck,Peck Dewalt,,Michael Schaffner,Catharina Schaffner,Anna Christina Schaffner
 ,c1763/24 Apr 1763,c1763/24 Apr 1763,1763,Johan Adam Jerres,Anna Elisabeth Bieri,Joseph Bieri,,Johann Philip Schmoyer,Maria Magdalena Schmoyer,Catharina Barbara Schmoyer
-220,c1765/25 Oct 1765,c1765/25 Oct 1765,1765,Johan Adam Schmidt,wife of Johan Adam Schmidt,,,George Graber,[no name] Ludwig,Anna Elisabetha Graber
+220,c1765/25 Oct 1765,c1765/25 Oct 1765,1765,Johan Adam Schmidt,wife of Johan Adam Schmidt,,,George Graber,[noname] Ludwig,Anna Elisabetha Graber
 ,20 May 1769/25 Jun 1769,20 May 1769/25 Jun 1769,1769,Johan Daniel Maurer,Margaretha Albrecht,,,Heinrich Knappenberger,Anna Margaretha Knappenberger,Maria Knappenberger
 ,c1766/25 May 1766,c1766/25 May 1766,1766,Johan George Balzer,,,,Samuel Dormeyer,Christina Boppenmeyer,Elisabetha Dormeyer
 ,c1758/20 Aug 1758,c1758/20 Aug 1758,1758,Johan George Koser,Agnes Hainle,,,Matthias Weiss,,Maria Barbara Weiss
@@ -705,7 +705,7 @@ record,date,bapt 1,year,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1,pa
 ,29 Nov 1779/12 Dec 1779,29 Nov 1779/12 Dec 1779,1779,Johannes Kohler,Gertraut Kinli,,,Heinrich Eigner,Susanna Eigner,Salome Eigner
 ,30 Aug 1771/1 Oct 1774,30 Aug 1771/1 Oct 1774,1774,Johannes Leidecker,Maria Gauger,,,Daniel Jus,Catharina Jus,Catharina Jus
 ,29 Jun 1758/9 Jul 1758,29 Jun 1758/9 Jul 1758,1758,Johannes Lichtenwalner,Catharina Elisabeth Lichtenwalner,,,Eichert Kricken,Sarah Kricken,Jacob Freidrich Kricken
-,c1764/c1764,c1764/c1764,1764,Johannes Londauer,Anna Margaretha Londauer,,,[no name] Klein,,Johann Peter Klein
+,c1764/c1764,c1764/c1764,1764,Johannes Londauer,Anna Margaretha Londauer,,,[noname] Klein,,Johann Peter Klein
 ,25 Apr 1797/25 Jun 1797,25 Apr 1797/25 Jun 1797,1797,Johannes Mattern,Margaretha Reis,,,Dietrich Gaumer,Rebecca Gaumer,Rebecca Gaumer
 ,c1762/22 May 1762,c1762/22 May 1762,1762,Johannes Matthias Egner,Elisabeth Egner,,,Jacob Danner,Christina Danner,Jacob Danner
 ,c1756/7 Mar 1756,c1756/7 Mar 1756,1756,Johannes Matthies Sam,Philippina Moser,Adam Moser,,Henrich Cuntz,Catharina Cuntz,Jacob Heinrich Cuntz
@@ -757,7 +757,7 @@ record,date,bapt 1,year,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1,pa
 ,3 Aug 1798/25 Apr 1799,3 Aug 1798/25 Apr 1799,1799,Johann G Schwartz,Elisabetha Schwartz,,,Jacob Kaiser,Anna Maria Kaiser,Daniel Kaiser
 ,7 Apr 1799/12 May 1799,7 Apr 1799/12 May 1799,1799,Johann G Wetzel,Rosina Helt,,,Peter Kaiser,Gertraut Kaiser,Johann George Kaiser
 ,c1757/29 May 1757,c1757/29 May 1757,1757,Johann George,Christina Rohrbach,,,Johann George Rohrbach,,Johann George Rohr [Rohrbach?]
-,c1763/13 Mar 1763,c1763/13 Mar 1763,1763,Johann George Druckenmiller,Catharina Schreiner,,,[no name] Wetzel,,Heinrich Wetzel
+,c1763/13 Mar 1763,c1763/13 Mar 1763,1763,Johann George Druckenmiller,Catharina Schreiner,,,[noname] Wetzel,,Heinrich Wetzel
 ,20 Sep 1796/3 Dec 1796,20 Sep 1796/3 Dec 1796,1796,Johann George Klein,,,,Ferdinand Trexler,Catharina Trexler,Catharina Trexler
 ,27 May 1762/20 Jun 1762,27 May 1762/20 Jun 1762,1762,Johann George Maisch,Dorothea Maisch,Christina Schertlin,,Johann George Maisch,Dorothea Maisch,Johannes Maisch
 ,c1764/3 Jun 1764,c1764/3 Jun 1764,1764,Johann George Marsteller,Anna Margaretha Marsteller,,,Henrich Meinert,,Johann Heinrich Meinert
@@ -1037,7 +1037,7 @@ record,date,bapt 1,year,sponsors 1,sponsors 2,sponsors 3,sponsors 4,parents 1,pa
 ,c1760/30 Mar 1760,c1760/30 Mar 1760,1760,Peter Mechlin,Catharina Wagner,,,Michael Warmkessel,Maria Ursula Warmkessel,Friedrich Warmkessel
 ,18 Nov 1791/19 Dec 1791,18 Nov 1791/19 Dec 1791,1791,Peter Reiner,Catharina Howerter,,,Heinrich Ludwig,Christina Ludwig,Magdalena Ludwig
 ,c1766/12 Nov 1766,c1766/12 Nov 1766,1766,Peter Roth,Luina Kuhn,,,Matthias Saam,,Johan Simon Saam
-,c1767/14 Jun 1767,c1767/14 Jun 1767,1767,Peter Sahl,Margaretha Sahl,,,Philip Hon,[no name] Fedderolf,Johannes Peter Hon
+,c1767/14 Jun 1767,c1767/14 Jun 1767,1767,Peter Sahl,Margaretha Sahl,,,Philip Hon,[noname] Fedderolf,Johannes Peter Hon
 ,18 Aug 1770/9 Dec 1770,18 Aug 1770/9 Dec 1770,1770,Peter Schmidt,Maria Trexler,,,Conrad Strasser,Christina Strasser,Johannes Strasser
 ,4 Nov 1789/13 Dec 1789,4 Nov 1789/13 Dec 1789,1789,Peter Schmidt,Maria Schmidt,,,Dewald Albrecht,Susanna Albrecht,Johannes Albrecht
 ,26 Aug 1794/9 Nov 1794,26 Aug 1794/9 Nov 1794,1794,Peter Schmoyer,Maria Sterner,,,Johannes Goser,Gertraut Goser,Christina Goser

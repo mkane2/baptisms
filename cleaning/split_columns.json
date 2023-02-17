@@ -238,6 +238,7 @@
   {
     "op": "core/column-reorder",
     "columnNames": [
+	"year",
       "parents 1",
       "parents 1 first",
       "parents 1 middle",
@@ -254,10 +255,16 @@
       "sponsors 2 first",
       "sponsors 2 middle",
       "sponsors 2 last",
+	"sponsors 3",
+	"sponsors 4",
       "child",
       "birth",
       "date",
-      "year"
+"parents 1 from",
+"parents 1 note",
+"parents 2 from",
+"parents 2 note",
+"sponsors 1 from"
     ],
     "description": "Reorder columns"
   }
