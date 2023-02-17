@@ -235,7 +235,6 @@ year,source,target
 1755,Jacob Kress,Margaret Paul
 1755,Conrad Schlemer,Catharina Eleonora Swed
 1755,John Bekker,Maria Magdalene Bekker
-1756, ,Anna Margaret Fittel
 1756,Isaac Lefeber,Magdalena Seiffert
 1756,Abraham Sewitz,Elizabeth Sar
 1756,Peter Karg,Anna Barbara Karg
@@ -535,7 +534,6 @@ year,source,target
 1761,Jacob Schreiber,Dorothea Schreiber
 1761,Ludwig Karcher,Mariana Catherine Karcher
 1761,John Jacob Mitschet,Catharina Mitschet
-1761,Anna Maria Kleyn, 
 1761,Joseph Nagle,Maria Barbara Nagle
 1761,Antoine Daeschler,Wife Of Anthony Daeschler
 1761,Antoine Daeschler,Wife Of Anthony Daeschler
@@ -708,7 +706,7 @@ year,source,target
 1762,Henry Schmied,Charlotte Schmied
 1762,John Grieder,Elizabeth Gobeler
 1762,John Grieder,Elizabeth Gobeler
-1762, [noname] Schettel,Wife Of [noname] Schettel
+1762,[noname] Schettel,Wife Of [noname] Schettel
 1763,Henry Brunner,Anna Brunner
 1763,John Mohr,Melinda Zerfass
 1763,Philip Scherer,Elizabeth Scherer
@@ -726,7 +724,7 @@ year,source,target
 1763,John Jacob Faeh,Anna Catherine Faeh
 1763,Carl Chamberlein,Maria Magdalene Steinmetz
 1763,Christopher Feith,Catharina Rosina
-1763, [noname] Getschi,Wife Of [noname] Kutsch
+1763,[noname] Getschi,Wife Of [noname] Kutsch
 1763,Philip Busch,Wife Of Philip Busch
 1763,John Seen,Elizabeth Funk
 1763,Peter Reiss,Sara Elizabeth Reiss
@@ -822,7 +820,7 @@ year,source,target
 1764,John Rudy,Regula Rudy
 1764,Martin Fischer,Hannah Fischer
 1764,Philip Sensfelder,Anna Maria Sensfelder
-1764, [noname] Rumel,Wife Of [noname] Rumel
+1764,[noname] Rumel,Wife Of [noname] Rumel
 1764,John Albert,Margaret Albert
 1764,George Wirth,Salome Wirth
 1764,George Schmied,Margaret Schmied
@@ -947,7 +945,7 @@ year,source,target
 1766,Jacob Enck,Catharina Enck
 1766,Henry Krebs,Veronica Krebs
 1766,Philip Clauser,Elizabeth Clauser
-1766, [noname] Stock,Maria Stucki
+1766,[noname] Stock,Maria Stucki
 1755,Adam Lutz,Maria Rucht
 1766,John Henry Campfer,Anna Maria Campfer
 1766,John Jacob Mitschet,Catharina Mitschet
@@ -1187,7 +1185,7 @@ year,source,target
 1768,Peter Dischung,Maria Dischung
 1768,Andrew Hertzog,Barbara Hertzog
 1768,Albrecht Hilligass,Catharina Hilligass
-1768, [noname] Masi,Wife Of [noname] Maus
+1768,[noname] Masi,Wife Of [noname] Maus
 1768,George Schaaf,Anna Maria Schaaf
 1768,Christian Mintel,Maria Mintel
 1768,Rudolph Naef,Anna Naef
@@ -1234,7 +1232,7 @@ year,source,target
 1769,Jacob Pfister,Maria Anna Pfister
 1769,John Frantz Schafner,Elizabeth Magdalene Schafner
 1768,Peter Haan,Maria Catherine Haan
-1769, [noname] Buchert,Maria Margaret Buchert
+1769,[noname] Buchert,Maria Margaret Buchert
 1769,George Diel,Elizabeth Diel
 1769,Henry Winckeler,Anna Catherine Winckeler
 1769,Julius Korper,Catharina Korper
@@ -1454,7 +1452,7 @@ year,source,target
 1771,John Murphy,Susanna Murphy
 1771,William Strembeck,Anna Juliana Strembeck
 1771,John George Strohauer,Anna Catherine Strohauer
-1771, [noname] Eschelman,Catharina Eschelman
+1771,[noname] Eschelman,Catharina Eschelman
 1771,Jacob Werntz,Catharina Werntz
 1771,John Grieder,Elizabeth Grieder
 1771,John Grieder,Rebecca Grieder
@@ -1568,7 +1566,7 @@ year,source,target
 1771,Jacob Daubendistel,Barbara Daubendistel
 1772,Martin Thoma,Anna Thoma
 1772,Jacob Wollenschleger,Anna Wollenschleger
-1772,George [noname] ,Wife Of George
+1772,George [noname],Wife Of George
 1772,John Jacob Stucki,Maria Catherine Stucki
 1772,Conrad Bekker,Maria Bekker
 1772,Frederick Mielefeld,Margaret Mielefeld
@@ -1737,8 +1735,7 @@ year,source,target
 1773,William Beltz,Catharina Beltz
 1773,Jacob Warden,Christina Roth
 1773,Frederick Seen,Maria Seen
-1773, [noname] Gangewer,Magdalena Gangewer
-1773, ,Catharina Heimer
+1773,[noname] Gangewer,Magdalena Gangewer
 1773,Peter Bart,Magdalena Bart
 1773,Charles Hunter,Catharina Hunter
 1773,John Tauenheimer,Maria Magdalene Tauenheimer
@@ -1813,30 +1810,18 @@ year,source,target
 1774,John Conrad Steinmetz,Magdalena Steinmetz
 1774,Frederick Seen,Anna Maria Seen
 1749,Jacob Maerkli,Antoine Herb
-1755, [noname] Kutsch, 
 1759,Abraham Eschelman,Martin [noname]
 1760,Philip Allberger,Nicholas Hess
-1760,Nicholas Lauterbach, 
-1760,Nicholas Lauterbach, 
-1760,Nicholas Lauterbach, 
-1760,Nicholas Lauterbach, 
-1760,Nicholas Lauterbach, 
-1760,Nicholas Lauterbach, 
 1761,Conrad Schweitzer,Michael Steitz
 1762,John Peter Blum,Michael Dietrich
-1762,Jacob Mohr, 
 1762,Michael Gamber,Philip Jacob Beidenman
 1762,Peter Stein,John Williger
 1763,John Seen,Frederick Wagener
 1765,John Voegle,John Weber
-1765,Oswald Von Der Halt, 
-1765,Henry Grob, 
 1765,Peter Conver,Ludwig Hess
 1765,George Wilki,Henry Schmied
-1766,Mattheus Sisler, 
 1766,Rudolph Mohr,Conrad Pitschen
 1767,Philip Tippo,Abraham Pollebacher
 1768,Peter Bekker,John Fuchs
 1770,John Peter,Henry Steinmetz
-1772,Nicholas Keyser, 
 1773,William Hufnagel,Frederick Schuetz
