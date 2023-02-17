@@ -1,4 +1,4 @@
-record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
+record,1,2,child,dates,year,sponsors 1,sponsors 2
 0,Henrich Kobel ,Catherine Kobel,Johannes,09/16/1774 and Dau. Maria b. 05/28/1759(?) both baptized 06/07/1774  ,1774,,
 2,John Nicolaus Hettrick ,Anna Cath Hettrick,John Peter,"06/09/1774, Bapt. 07/03/1774.  ",1774,Peter Schmidt,Elizabeth Schmidt
 4,Casper Kobel ,Anna Maria Kobel,Anna Christina,07/17/1774; bapt. 08/04/1774. ,1774,George Hendrick Reitz,Anna Maria Reitz
@@ -32,7 +32,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 62,Johannes Hendrick Schreckengast ,Maria Catherine Schreckengast,Johannes,06/29/1776; bapt. 08/01/1776. ,1776,John Ried,Maria Dororthea Ried
 64,Peter Troutman ,Elizabeth Troutman,Eva Elizabeth,0/15/1776; bapt. 09/17/1776. ,1776,Philip Klinger,Eve Elizabeth Klinger
 66,Georg Heym ,Rosina Heym,Johann George,12/11/1776; bapt. 04/20/1777. ,1777,Georg Hendrick Kaufman,Elizabeth Krebs
-69,Philip Lofler ,Catherine Reed,Susanna,12/30/1776; bapt. 04/20/1777. ,1777,Grandparents,
+69,Philip Lofler ,Catherine Reed,Susanna,12/30/1776; bapt. 04/20/1777. ,1777,Grand,
 71,HEYL(?):  Martin ,Catherine,Maria Cath.,02/25/1777; bapt. 04/20/1777. ,1777,Johannes Harter,Wife Of Johannes Harter
 73,Elias Althaus ,Cath Barbara Althaus,Daniel,12/02/1776; bapt. 04/20/1777. ,1777,Nicholas Prosius,Elizabeth Schaefer
 75,Johannes Phillips ,Magdalena Phillips,Eliz.,03/13/1777; bapt. 04/20/1777. ,1777,Andrew Ketterlin,Elizabeth Ketterlin
@@ -62,7 +62,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 124,John (Henry) George Brosius ,Catherine Brosius,John Peter,01/27/1782; bapt. 02/17/1782. ,1782,Peter Hedrick,John Schafer
 126,Andreas Reitz ,Anna Maria Margaret Brosius,Maria Barbara,02/18/1782; bapt. 03/11/1782. ,1782,Peter Furster,Wife Of Peter Furster
 128,John Georg Pfeiffer ,Magdalena Pfeiffer,Maria Barbara,02/21/1782; bapt. 03/11/1782. ,1782,,
-130,John George Jr Heim ,Rosina Heim,John Jacob,03/31/1782; bapt. 04/14/1782. ,1782,Grandparents,
+130,John George Jr Heim ,Rosina Heim,John Jacob,03/31/1782; bapt. 04/14/1782. ,1782,Grand,
 132,Mathias Winkelmann ,Catherine Winkelmann,Georg Fred.,07/05/1782; bapt. 07/14/1782. ,1782,Georg Heim,Marg Heim
 134,Conrad Nicolaus ,Anna Barbara Nicolaus,John Peter,07/05/1782; bapt. 07/14/1782. ,1782,Peter Heim,Elizabeth Brosius
 137,John George Borell ,Regina Schutern,John George,07/03/1782; bapt. 07/15/1782. ,1782,Antonius Boreell,Maria Barbara Boreell
@@ -178,7 +178,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 367,Henrich Reitz ,Barbara Reitz,Anna Maria,04/01/1791; bapt. 05/01/1791. ,1791,Leonhard Reitz,Maria Brosius
 369,John Georg Pfeiffer ,Magdalena Schafer,John Michael,05/20/1791; bapt. 06/05/1791. ,1791,Johannes Michael Schafer Jr,Rosina Jr
 371,Johann Bingman ,Anna Bingman,Johann Georg,09/22/1791; bapt. 10/13/1791. ,1791,Martin Kersterrer,Eliz Kersterrer
-373,Parents (?) Binman ,,Atam,06/15/1791; bapt. 06/31/1791. ,1791,Jacob Brosius,
+373, (?) Binman ,,Atam,06/15/1791; bapt. 06/31/1791. ,1791,Jacob Brosius,
 374,Michael Reitz ,Elizabeth Schnock,Johann Georg,01/30/1791; bapt. 05/01/1791. Nicolaus Hedderick & wife Cath.,1791,,
 376,Nicolaus Hedderick ,Catherine Brosius,Eliz.,05/08/1791; bapt. 06/02/1791. ,1791,George Klinger,Elizabeth Brosius
 378,Valentin Britsch ,Anna Maria Lutz,Johann Fred.,05/18/1790; bapt. 10/1791. ,1791,Frederick Dunkelberger,
@@ -505,7 +505,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1007,Nicholaus Hetterich ,widow Anna Maria Hetterich,Jacob,10/11/1806; bapt. 11/05/1806. ,1806,Benedict Schollenberger,Christina Schollenberger
 1009,Jacob Long ,Esther Long,Eleanora,12/29/1806; bapt. 01/24/1807. ,1807,Daniel Hoch,Marg Hoch
 1011,Gottfried Thomas ,Anna Maria Thomas,Marg.,11/13/1806; bapt. 01/24/0807. ,1806,Leonhart Brosius,Marg Brosius
-1013,Mathias Heym ,Magdalene Heym,Samuel,01/09/1807; bapt. 01/30/1807. ,1807,Parents,
+1013,Mathias Heym ,Magdalene Heym,Samuel,01/09/1807; bapt. 01/30/1807. ,1807,,
 1014,Jacob Heim ,Catherine Heim,Eliz.,03/10/1807; bapt. 03/27/1807. ,1807,George Heim,Elizabeth Heim
 1016,Lorentz Bachman ,Catherine Bachman,Anna Maria,02/05/1807; bapt. 03/27/1807. ,1807,Johannes Knarr,Cath Knarr
 1018,Jacob Harter ,Elizabeth Harter,Samuel,04/22/1807; bapt. 05/15/1807. ,1807,William Heim Jr,Cath Jr
@@ -732,8 +732,8 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1454,Johann Geist ,Elizabeth Geist,Conrad,01/14/1822; bapt. 03/24/1822. ,1822,Isaac Schafer,Christina Schafer
 1456,Daniel Kiefer ,Margaret Kiefer,Samuel,01/31/1822; bapt. 03/24/1822. ,1822,Michael Furst,Lydia Furst
 1458,Johannes Knerr ,Catherine Knerr,Rahel,03/08/1822; bapt. 04/05/1822. ,1822,Andreas Geist,Christina Geist
-1461,Samuel Schmidt ,Sara Schmidt,Henrietta,03/28/1822; bapt. 04/21/1822. ,1822,Grandparents,
-1462,Georg Meier ,Christina Meier,David Daniel,02/20/1822; bapt. 04/21/1822. ,1822,Grandparents,
+1461,Samuel Schmidt ,Sara Schmidt,Henrietta,03/28/1822; bapt. 04/21/1822. ,1822,Grand,
+1462,Georg Meier ,Christina Meier,David Daniel,02/20/1822; bapt. 04/21/1822. ,1822,Grand,
 1464,Benjamin Trion ,Anna Elizabeth Trion,Joseph,03/19/1822; bapt. 04/2481822. ,1822,Michael Reitz,Magd Reitz
 1466,Peter Reitz ,Margaret Reitz,Salome,04/19/1822; bapt. 04/24/1822. ,1822,Michael Reitz,Magd Reitz
 1468,Georg Ried ,Barbara Ried,Jonathon,03/23/1822; bapt. 04/28/1822. ,1822,John Heim,Cath Heim
@@ -759,10 +759,10 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1506,Georg Berkhaus ,Lythia Berkhaus,Cath.,09/22/1823; bapt. 10/13/1823. ,1823,Lehnert Kauffman,Cath Kauffman
 1508,Gottfried Rehbock ,Anna Maria Rehbock,Harrison,09/18/1823; bapt. 10/13/1823. ,1823,Adam Rehbock,Maria Rehbock
 1510,Gottfried Rehbock ,Catherine Rehbock,Daniel,10/01/??; bapt. 10/26/??. ,1823,Georg Reitz,Marg Reitz
-1512,Jacob Berkhaus ,Hanna Berkhaus,Rebecca b.09/10/1823; bapt.10/27/1823.,,1823,Grandparents,
+1512,Jacob Berkhaus ,Hanna Berkhaus,Rebecca b.09/10/1823; bapt.10/27/1823.,,1823,Grand,
 1513,Jonathon Heim ,Catherine Heim,Susanna,10/07/1823; bapt. 11/09/1823. ,1823,Eva Groh,
 1514,Jacob Hensel ,Sara Hensel,Judith,10/07/1823; bapt. 11/09/1823. ,1823,Johannes Ried,Maria Elizabeth Henzel
-1516,Andreas Geist ,Magdalene Geist,Elias,10/07/1823; bapt. 11/23/1823. ,1823,Grandparents,
+1516,Andreas Geist ,Magdalene Geist,Elias,10/07/1823; bapt. 11/23/1823. ,1823,Grand,
 1517,Jacob Schneider ,Sara Schneider,Benneville,11/19/1823; bapt. 01/18/1824. ,1824,George Paul,Maria Paul
 1519,Jacob Schneider ,Sara Schneider,Levi,10/12/1822; bapt. 11/10/1823. ,1823,Jacob Thomas,Cath Thomas
 1521,Johannes Reitz ,Magdalene Reitz,Michael,02/13/1824; bapt. 03/28/1824. ,1824,Michael Hetterich,Christina Hetterich
@@ -869,7 +869,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1716,Mathias Horter ,Hanna Horter,Eliz.,07/04/1828; bapt. 08/10/1828. ,1828,John Eister,Eliz Eister
 1718,Johann Baum ,Elizabeth Baum,Peter,04/17/1828; bapt. 08/10/1828. ,1828,Peter Reitz,Sarah Reitz
 1719,Daniel Gansert ,Maria Eva Reotz,Sara Anna,08/09/1828; bapt. 09/07/1828. ,1828,Johan Hederich,Cath Hederich
-1721,Johann Griems ,Elizabeth Griems,Cath.,05/20/1828; bapt. 09/07/1828. ,1828,Parents,
+1721,Johann Griems ,Elizabeth Griems,Cath.,05/20/1828; bapt. 09/07/1828. ,1828,,
 1722,Daniel Kauffman ,Polly Kauffman,Johann bapt. 11/1828.,,1828,Samuel Ressler,Polly Ressler
 1724,Georg Geist ,Lythia Geist,Caroline,10/13/1828; bapt. 11/09/1828. ,1828,Solomon Falck,Salome Falck
 1726,Jonathon Heim ,Catherine Heim,Martin,09/19/1828; bapt. 11/09/1828. ,1828,Georg Heim,Susanna Heim
@@ -907,7 +907,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1789,Heinrich Maier ,Wife Maier,Johannes,07/30/1830; bapt. 08/04/1830. ,1830,Johannes Maier,Wife Of Johannes Maier
 1791,Jonathon Reitz ,Catherine Reitz,Philip,09/13/1830; bapt. 10/17/1830. ,1830,Daniel Reitz,Susanna Reitz
 1793,Jacob Gantzer ,Sarah Gantzer,Herritha,09/04/1830; bapt. 10/19/1830. ,1830,Johann Thomas,Wife Of Johann Thomas
-1796,Jacob Beissel ,Maria Beissel,Priszilla,06/29/1830; bapt. 08/22/1830. ,1830,Parents,
+1796,Jacob Beissel ,Maria Beissel,Priszilla,06/29/1830; bapt. 08/22/1830. ,1830,,
 1797,Samuel Ressler ,Maria Ressler,Maria,09/15/1830; bapt. 10/23/1830. ,1830,Georg Schafer,Sarah Schafer
 1799,Daniel Kembel ,Catherine Kembel,Angelina,06/28/1830; bapt. 12/12/1830. ,1830,Daniel Eister,Wife Of Daniel Eister
 1801,Daniel Gantzer ,Maria Eva Reitz,Eva,12/22/1830; bapt. 01/26/1831. ,1831,Michael Schmidt,Lidia Schmidt
@@ -964,7 +964,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1898,Jacob Heckman ,Christina Heckman,Johann Georg,10/01/1834; bapt. 12/21/1834. ,1834,Georg Delp,Eliz Delp
 1900,Philip Reitz ,Anna Reitz,Harrison,01/18/1835; bapt. 03/15/1835. ,1835,Daniel Hoch,Marg Hoch
 1903,Bernhard Adam ,Salome Furster,Helena,12/21/1834; bapt. 03/08/1835. ,1835,Niclus Adam,Sarah Adam
-1905,Henrich Hostmann ,Maria Elizabeth Hostmann,Cath.,01/09/1835; bapt. 04/12/1835. ,1835,Parents,
+1905,Henrich Hostmann ,Maria Elizabeth Hostmann,Cath.,01/09/1835; bapt. 04/12/1835. ,1835,,
 1906,Jonathon Schneider ,Susanna Schneider,Maria,03/22/1835; bapt. 04/12/1835. ,1835,Jacob Schneider,Sarah Schneider
 1908,Wende Latschaw ,Susanna Gonser,Sarah Anna,03/05/1835;bapt. 04/12/1835. ,1835,Johann Latscha,Cath Latscha
 1910,Gideon Adam ,Sarah Adam,Joh. Heinrich,08/15/1834; bapt. 09/21/1834. ,1834,Absolon Adam,Eva Adam
@@ -990,7 +990,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1948,Abraham Geist ,Elizabeth Geist,Cath.,05/18/1836; bapt. 06/05/1836. ,1836,Christopher Hepler,Cath Hepler
 1950,Jacob Berkhauser ,Anne Berkhauser,David,03/08/1836; bapt. 06/19/1836. ,1836,Peter Forsch,Wife Of Peter Forsch
 1952,Gideon Adam ,Sarah Adam,Harrietta,04/20/1836; bapt. 07/07/1836. ,1836,Absolon Adam,Eva Adam
-1955,Samuel Kauffman ,Hanna Kauffman,Sarah bapt. 11/28/1837.,,1837,Grandparents Leonhard Kauffman,Leonhard Kauffman
+1955,Samuel Kauffman ,Hanna Kauffman,Sarah bapt. 11/28/1837.,,1837,Grand Leonhard Kauffman,Leonhard Kauffman
 1957,Johann Ulz ,Hanna Ulz,Georg,11/24/1837; bapt. 01/28/1838. ,1838,Bernhard Adams,Sarah Adams
 1959,Peter Brosius ,Catherine Brosius,Eliz.,12/17/1837; bapt. 02/04/1838. ,1838,William Hoffman,Maria Hoffman
 1961,Michael Kiehl ,Elizabeth Beisel,Georg,12/14/1837; bapt. 02/04/1838. ,1838,Samuel Heim,Eva Heim
@@ -1011,7 +1011,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 1990,William Hoffman ,Maria Hoffman,Maria,05/31/1838; bapt. 07/22/1838. ,1838,Peter Brosius,Cath Brosius
 1992,Joseph Schneider ,Catherine Schneider,Manasse,06/29/1838; bapt. 07/22/1838. ,1838,John Hedrich,Cath Hedrich
 1994,Daniel Gansert ,Susanna Gansert,Susanna,05/12/1838; bapt. 07/22/1838. ,1838,Daniel Gansert,Eva Latsha
-1998,Joacob Baisel ,Polly Baisel,Jacob,06/14/1838; bapt. 08/05/1838. ,1838,Parents,
+1998,Joacob Baisel ,Polly Baisel,Jacob,06/14/1838; bapt. 08/05/1838. ,1838,,
 1999,Joseph Feger ,Magdalene Feger,Andreas,07/13/1838; bapt. 08/05/1838. ,1838,Andreas Geist Sr,Christina Schneider
 2001,Paulus Gerhard ,Lydia Gerhard,Christina,08/21/1838; bapt. 08/30/1838. ,1838,Andreas Geist Sr,Christina Schneider
 2003,Johann Latscha ,Elizabeth Latscha,Elias,07/30/1838; bapt. 09/03/1838. ,1838,Johann Georg Reed,Barbara Reed
@@ -1021,7 +1021,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2011,Gottfried Rehbock ,Maria Rehbock,Anna,09/29/1838; bapt. 11/05/1838. ,1838,Philip Reitz,Anna Reitz
 2013,Georg Kooper ,Cath Kooper,Cath.,10/04/1838; bapt.11/25/1838. ,1838,Israel Fenstermacher,Eva Fenstermacher
 2015,Peter Kieffer ,Hannah Kieffer,Herre,10/19/1838; bapt. 11/25/1838. ,1838,William Welker,Susanna Welker
-2017,William Kehres ,Catherine Kehres,Lydia,10/17/1838; bapt. 12/25/1838. ,1838,Parents,
+2017,William Kehres ,Catherine Kehres,Lydia,10/17/1838; bapt. 12/25/1838. ,1838,,
 2018,Daniel Kroh ,Polly Kroh,Maria Anna,10/05/1838; bapt. 01/23/1839. ,1839,Charles Herp,Catherine Carl
 2020,Johann Kiehl ,Catherine Kiehl,Wm. B. 12/23/1838; bapt. 02/17/1839.,,1839,Solomon Schankweiler,Rebecca Schankweiler
 2023,Abraham Schneider ,Susanna Daniel,Heinrich,03/04/1839; bapt. 05/26/1839. ,1839,Abraham Schneider,Susanna Schneider
@@ -1041,7 +1041,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2051,Gottfried Rehbock ,Cath Rehbock,Johannes,09/22/1839; bapt. 10/27/1839. ,1839,Andreas Geist,Marg Geist
 2053,Jonathon Lebo ,Catherine Lebo,Johannes,09/20/1839; bapt. 10/27/1839. ,1839,John  Schreffler,Sarah Schott
 2055,Samuel Ressler ,Polly Ressler,Cath.,10/25/1839; bapt. 11/27/1839. ,1839,Michael Forster,Lydia Forster
-2057,Jonathon Smith ,Sarah Smith,Sarah,10/20/1839; bapt. 12/07/1839. ,1839,Parents,
+2057,Jonathon Smith ,Sarah Smith,Sarah,10/20/1839; bapt. 12/07/1839. ,1839,,
 2058,Peter Ried ,Elizabeth Twins Ried,,10/13/1839; bapt. 11/30/1839. Peter spon. Bernhard Adams & Salome. Cath. spon. Jonathon Reitz & Cath.,1839,,
 2060,Jonathon Schreffler ,Elizabeth Schreffler,Heinrich,11/13/1839; bapt. 01/05/1840. ,1840,Charles Rothermol,Eliz Rothermol
 2062,Johann Schneider ,Maria Schollenberger,Aaron,01/08/1840; bapt. 02/29/1840. ,1840,Michael Diehl,Sally Diehl
@@ -1052,7 +1052,7 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2072,Joseph Schneider ,Catherine Schneider,Kilian Martin,05/13/1840; bapt. 06/21/1840. ,1840,Jonathon Schneider,Susanna Schneider
 2074,Michael Kiehl ,Elizabeth Beisel,Elias,06/10/1840; bapt. 07/06/1840. ,1840,John Baisel,Maria Baisel
 2077,Solomon Rossler ,Polly Rossler,Ruben,05/13/1840; bapt. 07/05/1840. ,1840,Jonas Ressler,Rosine Ressler
-2079,Daniel Kauffman ,Loiuse Kauffman,Sam. B. 06/04/1840; bapt. 07/05/1840.,,1840,Parents,
+2079,Daniel Kauffman ,Loiuse Kauffman,Sam. B. 06/04/1840; bapt. 07/05/1840.,,1840,,
 2080,Samuel Schmidt ,Sarah Schmidt,Louise,06/09/1840; bapt. 07/05/1840. ,1840,John Malik Esq,Eliz Esq
 2082,Gottfried Brosius ,Catherine Klock,Peter,07/03/1840; bapt. 08/16/1840. ,1840,Peter Klock,Eliz Klock
 2084,Samuel Ried ,Anna Elizabeth Ried,Montgomery,06/25/1840; bapt. 08/16/1840. ,1840,John Latscha,Eliz Latscha
@@ -1061,40 +1061,40 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2090,Abraham Geist ,Elizabeth Geist,Johannes,07/24/1840; bapt. 08/06/1840. ,1840,Peter Geist,Maria Geist
 2092,Peter Geist ,Maria Geist,Henry,03/25/1840; bapt. 04/25/1840. ,1840,Abraham Geist,Eliz Geist
 2093,Georg Schneider ,Polly Schneider,Adam,08/25/1840; bapt. 09/13/1840. ,1840,John Schneider,Eliz Schneider
-2095,Heinrich Hoffman ,Susanna Hoffman,Susanna,04/07/1840; bapt. 07/05/1840. ,1840,Parents,
+2095,Heinrich Hoffman ,Susanna Hoffman,Susanna,04/07/1840; bapt. 07/05/1840. ,1840,,
 2096,Nicolaus Drumheller ,Elizabeth Hetrich,Susanna Sarah Anna,07/29/1840; bapt. 10/25/1840. ,1840,Charles Herb,Sally Schmidt
 2098,Jonathon Schneider ,Susanna Schneider,Sarah,10/15/1840; bapt. 11/08/1840. ,1840,Jacob Schneider,Wife Of Jacob Schneider
 2100,William Kroh ,Elizabeth Kroh,Henrietta,07/16/1840; bapt. 11/22/1840. ,1840,John Kiehl,Cath Kiehl
 2101,William Hoffman ,Maria Hoffman,Dina,10/11/1840; bapt. 01/03/1841. ,1841,Andreas Gansert,Cath Gansert
 2103,Daniel Gansert ,Susanna Gansert,Sarah,01/04/1841; bapt. 02/21/1841. ,1841,Peter Brosius,Cath Brosius
-2105,John Daniel ,Catherine Daniel,Sara Anna,10/25/1840; bapt. 03/14/1841. ,1841,Parents,
+2105,John Daniel ,Catherine Daniel,Sara Anna,10/25/1840; bapt. 03/14/1841. ,1841,,
 2106,Charles Rothermol ,Elizabeth Rothermol,Joseph,12/29/1840; bapt. 04/11/1841. ,1841,Conrad Rehbock,Julianna Rehbock
 2109,Jonathon Heim ,Polly Heim,Cath.,03/22/1841; bapt. 04/25/1841. ,1841,Peter Rehbock,Cath Rehbock
 2111,Peter Schmeid ,Elizabeth Twins Schmeid,,03/29/1841; bapt. 04/26/1841. Dau. Eliz. spon. Abraham Geist & Eliz. Dau. Henriette spon. Henry Haas & Henriette.,1841,,
 2113,Jacob Heddich ,Catherine Heddich,Frank,04/27/1841; bapt. 05/23/1841. ,1841,Jacob Schneider,Magd Schneider
-2115,Daniel Holschum ,Horsene Holschum,Eliz.,02/28/1841; bapt. 05/23/1841. ,1841,Parents,
+2115,Daniel Holschum ,Horsene Holschum,Eliz.,02/28/1841; bapt. 05/23/1841. ,1841,,
 2116,Samuel Heim ,Catherine Bartorff,Harriette,01/03/1841; bapt. 05/23/1841.,1841,,
 2117,Samuel Kauffman ,Hannah Kauffman,Susanna,04/29/1841; bapt. 05/31/1841.,1841,,
 2118,Aaron Hose ,Polly Hose,Anna Maria,04/10/1841; bapt. 05/31/1841. ,1841,Jacob Hase,Sally Hase
-2120,Peter Braun ,Lydia Braun,Cath.,04/23/1840; bapt. 03/24/1841. ,1841,Grandparents Michael Braun,Catherine Sherry
+2120,Peter Braun ,Lydia Braun,Cath.,04/23/1840; bapt. 03/24/1841. ,1841,Grand Michael Braun,Catherine Sherry
 2122,Daniel Grow ,Polly Grow,Daniel,02/19/1841; bapt. 06/20/1841. ,1841,Abraham Kuntzelman,Maria Kuntzelman
-2125,Daniel Schneider ,Rebecca Schneider,Peter,04/14/1841; bapt. 07/18/1841. ,1841,Parents,
+2125,Daniel Schneider ,Rebecca Schneider,Peter,04/14/1841; bapt. 07/18/1841. ,1841,,
 2126,Solomon Schankweiler ,Rebecca Schankweiler,Elias,06/30/1841; bapt. 08/01/1841. ,1841,Peter Geist,Polly Geist
 2128,Jacob Kauffman ,Catherine Twins Kauffman,,07/31/1841; bapt. 08/01/1841. ,1841,Maria Anna,Sarah Anna Anna
 2130,Henrich Bohner ,Susanna Bohner,Cath.,06/16/1841; bapt. 08/15/1841. ,1841,Henrich Rehbock,Anna Maria Rehbock
 2132,Philip Reitz ,Anna Reitz,Maria Anna,06/25/1841; bapt. 08/29/1841. ,1841,Margaret Hoch,
 2133,Georg Cooper ,Catherine Oxenreiter,Sarah Anna,08/24/1841; bapt. 09/26/1841. ,1841,Jacob Ochsenreiter,Eliz Ochsenreiter
-2135,Jonathon Schmid ,Sally Schmid,Samuel,09/05/1841; bapt. 09/26/1841. ,1841,Parents,
+2135,Jonathon Schmid ,Sally Schmid,Samuel,09/05/1841; bapt. 09/26/1841. ,1841,,
 2136,Isaac Mortitz ,Lythia Mortitz,Angeline,09/30/1841; bapt. 11/07/1841. ,1841,Joseph Hartman,Eliz Hartman
 2138,Johann Kiehl ,Catherine Kiehl,Jacob,10/09/1841; bapt. 12/05/1841. ,1841,Michael Kiehl,Elizabeth Beisel
 2141,Michael Schmidt ,Sarah Falck,Cath,09/25/1841; bapt. 10/11/1841. ,1841,Solomon Falck,Sally Falck
 2143,Solomon Falck ,Sally Falck,Johann,09/25/1841; bapt. 10/11/1841.,1841,,
-2144,Daniel Kauffman ,Lisette Kauffman,Daniel,11/19/1841; bapt. 01/02/1842. ,1842,Parents,
+2144,Daniel Kauffman ,Lisette Kauffman,Daniel,11/19/1841; bapt. 01/02/1842. ,1842,,
 2145,Daniel Knerr ,Polly Knerr,Sarah Anna,12/28/1841; bapt. 01/02/1842. ,1842,Eli Eister,Susanna Kehler
 2147,Daniel Ried ,Elizabeth Ried,Lythia,11/13/1841; bapt. 01/02/1842. ,1842,Georg Ried,Barbara Ried
-2148,Michael Hoch ,Christine Hoch,Sarah,11/30/1841; bapt. 01/14/1842. ,1842,Parents,
+2148,Michael Hoch ,Christine Hoch,Sarah,11/30/1841; bapt. 01/14/1842. ,1842,,
 2149,Jonathon Lebo ,Catherine Lebo,Peter,01/01/1842; bapt. 02/13/1842. ,1842,Michael Hetterich,Rebecca Hetterich
-2151,William Kehries ,Catherine Kehries,Harriette,02/01/1842; bapt. 03/28/1842. ,1842,Parents,
+2151,William Kehries ,Catherine Kehries,Harriette,02/01/1842; bapt. 03/28/1842. ,1842,,
 2152,Jacob Hoffa ,Sarah Hoffa,Amanda,03/20/1842; bapt. 04/24/1842. ,1842,Jacob Schneider,Magd Schneider
 2154,John Daniel ,Catherine Daniel,Naomi,01/27/1842; bapt. 06/06/1842. ,1842,,
 2156,Jacob Welker ,Julianne Welker,Alaminde,03/30/1842; bapt. 06/06/1842. ,1842,Nicolaus Adam,Maria Adam
@@ -1107,8 +1107,8 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2168,Michael Kiehl ,Elizabeth Beisel,Martin,07/31/1842; bapt. 09/11/1842. ,1842,Peter Kiehl,Christina Yeager
 2170,Jonas Ressler ,Rosine Ressler,Benneville,07/04/1842; bapt. 09/25/1842. ,1842,Peter Oxenreiter,Elisa Oxenreiter
 2173,Peter Geist ,Emelie Geist,Eliz.,07/24/1842; bapt. ??/1842. ,1842,Solomon Schankweiler,Rebecca Schankweiler
-2175,Daniel Schneider ,Rebecca Schneider,Maria,10/09/1842; bapt. 11/06/1842. ,1842,Parents,
-2176,Daniel Holtzchuh ,Eszena Holtzchuh,Emanuel,08/19/1842; bapt. 11/06/1842. ,1842,Parents,
+2175,Daniel Schneider ,Rebecca Schneider,Maria,10/09/1842; bapt. 11/06/1842. ,1842,,
+2176,Daniel Holtzchuh ,Eszena Holtzchuh,Emanuel,08/19/1842; bapt. 11/06/1842. ,1842,,
 2177,Nicolaus Drumheller ,Elizabeth Hetrick,Eliz.,09/1842; bapt. 11/06/1842. ,1842,Georg Ried,Barbara Ried
 2179,Peter Furster ,Salome Furster,Sarah Anna,10/09/1842; bapt. 11/20/1842. ,1842,Conrad Rehbock,Julianna Rehbock
 2181,John Schafer ,Maria Schafer,Sarah Anna,10/09/1842; bapt. 11/20/1842. ,1842,Georg Delp,Anna Maria Delp
@@ -1117,19 +1117,19 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2187,Heinrich Rehbock ,Anna Maria Rehbock,Benjamin,12/19/1842; bapt. 12/31/1842. ,1842,Peter Rehbock,Cath Rehbock
 2189,Anthony Schneider ,Harriette Schneider,Elias,10/22/1842; bapt. 01/01/1843. ,1843,Elias Eister,Judith Wagner
 2191,Henrich Bahner ,Susanna Bahner,Sarah Anna,10/30/1842; bapt. 01/29/1843. ,1843,Magdalene Kieffer,
-2193,Henrich Mehlig ,Maria Mehlig,Sarah Anna,12/15/1842; bapt. 01/29/1843. ,1843,Parents,
+2193,Henrich Mehlig ,Maria Mehlig,Sarah Anna,12/15/1842; bapt. 01/29/1843. ,1843,,
 2194,Abraham Teppy ,Polly Teppy,Wm. (Deppen),11/10/1842; bapt. 02/26/1843. ,1843,Jonathon Smith,Sarah Smith
 2196,William Kroh ,Elizabeth Kroh,Dina,07/19/1842; bapt. 03/12/1843. ,1843,Daniel Kroh,Maria Kroh
-2197,Johann Kehler ,Rachael Kehler,Elias,02/26/1843; bapt. 03/30/1843. ,1843,Parents,
+2197,Johann Kehler ,Rachael Kehler,Elias,02/26/1843; bapt. 03/30/1843. ,1843,,
 2198,Peter Kieffer ,Hannah Kieffer,aaron bapt. 04/13/1843.,,1843,Isaac Kieffer,Angeline Welker
-2199,Samuel Heim ,Catherine Bartorff,Wm. B. 03/14/1843; bapt. 04/21/1843.,,1843,Parents,
+2199,Samuel Heim ,Catherine Bartorff,Wm. B. 03/14/1843; bapt. 04/21/1843.,,1843,,
 2200,Gottfried Brosius ,Catherine Klock child Josema,,01/27/1843; bapt. 04/23/1843. ,1843,Peter Klock,Eliz Klock
 2203,Jacob Ochsenreiter ,Elizabeth Ochsenreiter,Jacob,03/09/1843; bapt. 05/21/1843. ,1843,Peter Ochsenreiter,Elisa Ochsenreiter
-2205,Andreas Geist ,Magdalene Geist,John,04/19/1843; bapt. 04/21/1843. ,1843,Parents,
-2206,DANIEL;  John ,Catherine,Wilhelmine,03/27/1843; bapt. 06/04/1843. ,1843,Parents,
-2207,Daniel Kauffman ,Louise Kauffman,Louise,05/04/1843; bapt. 06/04/1843. ,1843,Parents,
-2208,William Kehres ,Catherine Kehres,Sarah Anna,05/18/1843; bapt. 07/16/1843. ,1843,Parents,
-2209,Johann Gansert ,Hetty Gansert,Cath.,06/27/1843; bapt. 07/16/1843. ,1843,Parents,
+2205,Andreas Geist ,Magdalene Geist,John,04/19/1843; bapt. 04/21/1843. ,1843,,
+2206,DANIEL;  John ,Catherine,Wilhelmine,03/27/1843; bapt. 06/04/1843. ,1843,,
+2207,Daniel Kauffman ,Louise Kauffman,Louise,05/04/1843; bapt. 06/04/1843. ,1843,,
+2208,William Kehres ,Catherine Kehres,Sarah Anna,05/18/1843; bapt. 07/16/1843. ,1843,,
+2209,Johann Gansert ,Hetty Gansert,Cath.,06/27/1843; bapt. 07/16/1843. ,1843,,
 2210,Peter Brosius ,Catherine Brosius,Daniel,03/27/1841; bapt. 04/11/1841. ,1841,Daniel Gansert Jr,Susanna Jr
 2212,Peter Brosius ,Catherine Brosius,Maria Anna,04/26/1843; bapt. 05/13/1843. ,1843,Daniel Dunckelberger,Maria Magd Dunckelberger
 2214,Johann Schneider ,Maria Schollenberger,Maria,06/11/1843; bapt. 07/08/1843 ,1843,Michael Diehl Sr,Sarah Schollenberger
@@ -1137,12 +1137,12 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2217,Jacob Welker ,Julianna Welker,Maria Eva,07/10/1843; bapt. 08/27/1843. ,1843,Daniel Gansert Sr,Eva Sr
 2219,Daniel Kroh ,Polly Kroh,Sarah Anna,03/31/1842; bapt. 08/27/1843. ,1843,Michael Kiehl,Eliz Kiehl
 2221,Jonathon Heim ,Polly Heim,Sophia,07/11/1842; bapt. 08/27/1843. ,1843,Peter Busch,Molly Busch
-2223,Jonathon Schmid ,Sally Schmid,Harriette,08/16/1843; bapt. 09/24/1843. ,1843,Parents,
-2224,Georg Braun ,Lydia Braun,Caraline,08/16/1843; bapt. 09/24/1843. ,1843,Parents,
+2223,Jonathon Schmid ,Sally Schmid,Harriette,08/16/1843; bapt. 09/24/1843. ,1843,,
+2224,Georg Braun ,Lydia Braun,Caraline,08/16/1843; bapt. 09/24/1843. ,1843,,
 2225,John Kiehl ,Catherine Kiehl,Henry,09/25/1843; bapt. 11/19/1843. ,1843,Peter Schmid,Eliz Schmid
 2226,Gottfried Rehbock ,Christina Rehbock,Kath. Anna,09/12/1843; bapt. 10/10/1843. ,1843,Georg Delp,Maria Delp
-2228,Daniel Heim ,Harriette Heim,Martin,09/23/1843; bapt. 11/13/1843. ,1843,Parents,
-2229,Daniel Holzschun ,Hosanna Holzschun,Ebby,01/06/1844; bapt. 03/24/1844. ,1844,Parents,
+2228,Daniel Heim ,Harriette Heim,Martin,09/23/1843; bapt. 11/13/1843. ,1843,,
+2229,Daniel Holzschun ,Hosanna Holzschun,Ebby,01/06/1844; bapt. 03/24/1844. ,1844,,
 2230,Michael Hoch ,Christina Hoch,Michael,10/11/1843; bapt. 12/03/1843. ,1843,Abraham Reitz,Susanna Reitz
 2232,William Hoffman ,Anna Maria Hoffman,Henrich,09/24/1843; bapt. 12/03/1843. ,1843,Michael Forney,Sarah Forney
 2234,Benjamin Knerr ,Maria Knerr,Frank,11/14/1843; bapt. 12/03/1843. ,1843,Jacob Herb,Maria Herb
@@ -1150,40 +1150,40 @@ record,parents 1,parents 2,child,dates,year,sponsors 1,sponsors 2
 2237,Joseph Henninger ,Sarah Henninger,Ephraim,02/23/1844; bapt. 03/24/1844. ,1844,Daniel Ried,Eliz Ried
 2239,Aaron Hoffa ,Polly Hoffa,Sarah Anna,04/11/1844; bapt. 05/13/1844. ,1844,Sarah Sherry,
 2240,Daniel Maurer ,Esther Maurer,Annatha,04/24/1844; bapt. 05/19/1844. ,1844,Lehnert Maurer,Lena Maurer
-2242,Johann Kehler ,Rachel Kehler,Cath.,05/11/1844; bapt. 06/16/1844. ,1844,Parents,
+2242,Johann Kehler ,Rachel Kehler,Cath.,05/11/1844; bapt. 06/16/1844. ,1844,,
 2243,Peter Kobel ,Maria Anna Kobel,Endie (Andy),03/11/1844; bapt. 06/16/1844. ,1844,Mathilda Trion,
 2245,Samuel Reitz ,Catherine Reitz,,05/22/1844; bapt. 07/14/1844. ,1844,Josepk Henninger,Sarah Henninger
 2248,Philip Reitz ,Anna Reitz,Susanna,06/02/1844; bapt. 07/14/1844. ,1844,Daniel Reitz,Susanna Reitz
-2250,Magdalene Dunckelberger ,,Ellamine,06/14/1844; bapt. 08/11/1844. ,1844,Parents,
+2250,Magdalene Dunckelberger ,,Ellamine,06/14/1844; bapt. 08/11/1844. ,1844,,
 2251,Daniel Kieffer ,Sarah Kieffer,Marg.,07/05/1844; bapt. 08/25/1844. ,1844,Daniel Kieffer,Marg Kieffer
-2253,Daniel Faust ,Elizabeth Faust,Maria Eliz.,09/12/1844; bapt. 10/21/1844. ,1844,Parents,
+2253,Daniel Faust ,Elizabeth Faust,Maria Eliz.,09/12/1844; bapt. 10/21/1844. ,1844,,
 2254,Johann Schneider ,Elizabeth child Arlee Schneider,,09/15/1844; bapt. 10/20/1844. ,1844,Jacob Hoffa,Sally Hoffa
 2256,Daniel Zerbe ,Elizabeth Zerbe,Amanda,05/02/1844; bapt. 10/20/1844. ,1844,Abraham Schneider,Susanna Schneider
 2258,Michael Kiehl ,Elizabeth Kiehl,Joel,09/19/1844; bapt. 11/17/1844. ,1844,Daniel Kiehl,Polly Latscha
 2260,Daniel Heim ,Harriette Heim,Adam,10/26/1844; bapt. 12/15/1844. ,1844,Georg Fegely,Maria Trion
-2262,William Kehries ,Catherine Kehries,Cath.,09/30/1844; bapt. 01/1845. ,1845,Parents,
+2262,William Kehries ,Catherine Kehries,Cath.,09/30/1844; bapt. 01/1845. ,1845,,
 2263,Daniel Seiler ,Sarah Geist,Jacob,10/01/1484; bapt. 11/02/1844. ,1844,,
 2265,Andreas Geist ,Magdalene Geist,Maria Magd.,01/24/1845; bapt. 02/22/1845. ,1845,Solomon Schankweiler,Marg Schankweiler
-2267,Nicolaus Drumheller ,Elizabeth Hetrich,Rudolph,01/10/1845; bapt. 03/23/1845. ,1845,Parents,
-2269,Johann Schaffer ,Maria Schaffer,Daniel,02/03/1845; bapt. 03/23/1845. ,1845,Parents,
-2270,Isaak Seiler ,Rachel Seiler,Jacob,02/12/1844; bapt. 03/30/1844. Dau. Maria Ellen b. 02/04/1845; bapt. 03/28/1845. ,1844,Parents,
+2267,Nicolaus Drumheller ,Elizabeth Hetrich,Rudolph,01/10/1845; bapt. 03/23/1845. ,1845,,
+2269,Johann Schaffer ,Maria Schaffer,Daniel,02/03/1845; bapt. 03/23/1845. ,1845,,
+2270,Isaak Seiler ,Rachel Seiler,Jacob,02/12/1844; bapt. 03/30/1844. Dau. Maria Ellen b. 02/04/1845; bapt. 03/28/1845. ,1844,,
 2272,Gottfried Rehbock ,Dina Rehbock,Emanuel,03/13/1845; bapt. 04/06/1845. ,1845,John Rehbock,Amarillie Rehbock
 2274,Jacob Welker ,Julianna Welker,Benneville,04/06/1845; bapt. 05/01/1845. ,1845,Peter Brosius,Cath Brosius
 2276,John Kiehl ,Catherine Kiehl,Sarah,03/09/1845; bapt. 04/06/1845. ,1845,Jacob Hetterich,Cath Hetterich
 2278,Charles Rothermol ,Elizabeth Rothermol,Aaron,01/10/1845; bapt. 05/18/1845. ,1845,Daniel Ried,Eliz Ried
 2280,Peter Kieffer ,Hannah Kieffer,Henry,02/1845; bapt. 06/01/1845. ,1845,Daniel Kieffer,Marg Kieffer
-2283,Henry Schroder ,Hannah Schroder,Louisette,06/06/1845; bapt. 06/29/1845. ,1845,Parents,
-2284,Daniel Kauffman ,Susette Kauffman,Maria,06/11/1845; bapt. 07/13/1845. ,1845,Parents,
+2283,Henry Schroder ,Hannah Schroder,Louisette,06/06/1845; bapt. 06/29/1845. ,1845,,
+2284,Daniel Kauffman ,Susette Kauffman,Maria,06/11/1845; bapt. 07/13/1845. ,1845,,
 2285,Jacob Hoffa ,Salome Hoffa,Salome,05/08/1845; bapt. 07/13/1845. ,1845,Nicolaus Adam,Salome Adam
 2287,Peter Rehbock ,Catherine Rehbock,Samuel,08/03/1845; bapt. 09/07/1845. ,1845,Samuel Mehlig,Hannah Mehlig
 2289,William Hoffman ,Maria Hoffman,Conrad,07/07/1845; bapt. 11/02/1845. ,1845,Conrad Rehbock,Julianna Rehbock
 2291,Benjamin Knerr ,Maria Knerr,Daniel,07/18/1845; bapt. 11/02/1845. ,1845,Daniel Eister,Eliz Eister
 2293,Daniel Ried ,Elizabeth Ried,Hannah,09/21/1845; bapt. 11/27/1845. ,1845,Hannah Reed,
 2294,Daniel Kiehl ,Maria Kiehl,Emanuel,09/26/1845; bapt. 11/30/1845. ,1845,Peter Kiehl,Chris Kiehl
-2296,Daniel Holzchuh ,Susanna child Celasius Holzchuh,,11/18/1845; bapt. 01/25/1846. ,1846,Parents,
+2296,Daniel Holzchuh ,Susanna child Celasius Holzchuh,,11/18/1845; bapt. 01/25/1846. ,1846,,
 2297,Daniel Reitz ,Susanna Reitz,Eliz.,12/29/1845; bapt. 01/25/1846. ,1846,Henrich Rehbock,Anna Maria Rehbock
 2299,Isaak Heim ,Elizabeth Heim,Maria Anna,01/29/1846; bapt. 03/08/1846. ,1846,Georg Heim,Susanna Heim
 2301,Jonathon Ried ,Catherine Ried,Levi,06/10/1846; bapt. 07/02/1846. ,1846,John Latscha,Susanna Latscha
 2303,Gottfried Schreffler ,Justine Schreffler,Emanuel,01/19/1846; bapt. 04/19/1846. ,1846,Gottfried Schreffler,Eva Lebo
 2305,William Kroh ,Elizabeth Kroh,Sarah,10/14/1846; bapt. 11/05/1846. ,1846,Adam Daniel,Elizabeth Rehbock
-2307,Henry Schroder ,Hannah Schroder,Louisette,06/06/1846; bapt. 06/23/1846. ,1846,Parents,
+2307,Henry Schroder ,Hannah Schroder,Louisette,06/06/1846; bapt. 06/23/1846. ,1846,,

@@ -26,12 +26,12 @@ year,bapt_day,child,surname,parents 1,parents 2,sponsors 1,sponsors 2,sponsors 3
 1758,1,Johannes,Leber,Jacob Leber,Anna Maria Leber,Johannes Attich,Maria Magdalena Paulus,,26,2,1757,11,30,1
 1756,4,Johann Jacob,Cron,Johannes Cron,Anna Maria Cron,Johann Jacob Leber,Anna Maria Leber,,29,2,1756,5,21,7
 1757,3,Anna Maria,Cron,Johannes Cron,Anna Maria Cron,Peter Attich,Anna Christina Attich,,30,2,1757,6,12,7
-9,,Imenhauser,Imenhauser,Adam Imenhauser,Anna Margaretha Imenhauser,Michael Wallendin,Maria Eliesabetha Wallendin,,3,,1754,9,1756,26
+1757,,Imenhauser,Imenhauser,Adam Imenhauser,Anna Margaretha Imenhauser,Michael Wallendin,Maria Eliesabetha Wallendin,,3,,1754,9,1756,26
 1756,26,Anna Maria,Imenhauser,Adam Imenhauser,Anna Margaretha Imenhauser,Heinrich Wolff,Anna Maria Wolff,,40,3,1756,8,3,9
 1755,6,Samuel,Hahn,Johannes Hahn,Eliesabetha Margaretha Hahn,Johann Samuel Schwerdtfeger,Anna Maria Bentz,,41,3,1755,12,1,12
 1756,12,Rebecca,Hahn,Johannes Hahn,Eliesabetha Margaretha Hahn,Maria Barbara Dellinger,Samuel Schwerdtfeger,,42,3,1756,12,12,12
 1758,30,Maria Barbara,Hahn,Johannes Hahn,Agnes Legnier,Peter Dritt,Maria Barbara Dritt,,43,3,1758,4,21,4
-10,,Lorentz,Hirschener,Lorentz Hirschener,Maria Salome Hirschener,Jacob Schultz,Maria Barbara Ament,,,,1757,1757,4,
+1758,,Lorentz,Hirschener,Lorentz Hirschener,Maria Salome Hirschener,Jacob Schultz,Maria Barbara Ament,,,,1757,1757,4,
 1757,11,Catharina,Zimermann,Michael Zimermann,Maria Magdalena Zimermann,Michael Paules,Catharina Paules,,45,3,1757,9,6,9
 1757,10,Heinrich,Bayer,Johannes Bayer,Anna Margaretha Bayer,Heinrich Stohl,Sussanna Stohl,,46,3,1757,3,4,4
 1766,27,Johan Peter,Bayer,Johannes Bayer,Anna Margaretha Bayer,Peter Dritt,Maria Barbara Dritt,,47,3,1766,1,3,4
@@ -51,7 +51,7 @@ year,bapt_day,child,surname,parents 1,parents 2,sponsors 1,sponsors 2,sponsors 3
 1756,30,Johann Peter,Michel,Jacob Michel,Eliesabetha Michel,Peter Bentz,,,61,4,1755,6,8,5
 1758,27,Veronica,Michel,Jacob Michel,Eliesabetha Michel,Antoni Kirchhard,Veronica Kirchhard,,62,4,1757,9,17,2
 1758,12,Johannes,Schon,Jacob Schon,Eliesabetha Catharina Schon,Jacob Stegner,Christina Stegner,,63,4,1758,2,16,3
-12,,Michael,Buttner,Michael Buttner,Eliesabetha Buttner,Jacob Siegrist,Barbara Siegrist,,,,1758,1758,3,
+1758,,Michael,Buttner,Michael Buttner,Eliesabetha Buttner,Jacob Siegrist,Barbara Siegrist,,,,1758,1758,3,
 1758,12,Anna Margaretha,Schwartz,Michael Schwartz,Eva Buschung,Georg Dietz,Anna Margaretha Schmid,,65,4,1758,1,25,2
 1760,3,Johann Michael,Schwartz,Michael Schwartz,Eva Buschung,Michael Konig,Catharina Konig,,66,4,1760,8,3,8
 1763,16,Anna Elisabeta,Schwartz,Michael Schwartz,Eva Buschung,Johann Georg Buschung,,,,,1763,1,9,1
@@ -118,7 +118,7 @@ year,bapt_day,child,surname,parents 1,parents 2,sponsors 1,sponsors 2,sponsors 3
 1768,19,Anna Catharina,Seiler,Caspar Seiler,Maria Margaret Seiler,Johannes Adam Paulus,,,135,8,1768,12,10,2
 1768,,,Lipphard,Hennrich Lipphard,Anna Barbara Lipphard,Maria Elisabetha Lipphard,Hennrich Lipphard,,,,1769,4,26,Lipphard
 1768,Peter,,137,,,Pfillib Schleiffer,Maria Magdalena Schlieffer,,,,1768,11,24,Imschweiller
-4,,Hederich,Hederich,Jacob Hederich,Barbara Hederich,Pfilib Gohn,Ana Elisabeth Gohn,,9,,1770,3,1770,1
+1768,,Hederich,Hederich,Jacob Hederich,Barbara Hederich,Pfilib Gohn,Ana Elisabeth Gohn,,9,,1770,3,1770,1
 1770,1,Maria Catharina,Dellinger,Josua Dellinger,Barbara Dellinger,Johan Weinand,Eva Weinand,,139,9,1770,3,26,4
 1770,1,Johan,Beyer,Jacob Beyer,Catharina Beyer,Johan Beyer,Ana Margretha Beyer,,140,9,1770,2,10,4
 1770,Anmarkredta,,141,,,Hannes Tormann,Catherine Margareta Torman,,,,1771,1,26,Hanness
@@ -153,10 +153,10 @@ year,bapt_day,child,surname,parents 1,parents 2,sponsors 1,sponsors 2,sponsors 3
 1787,14,Maria Elisabeth,Oberdorff,Georg Oberdorff,Elisabeth Oberdorff,Michel Kauffeld,,,171,10,1787,9,18,10
 1791,26,Cataryna,Oberdorff,Georg Oberdorff,Elisabeth Oberdorff,Cristina Schoffer,,,172,10,1791,11,14,12
 1778,16,Johann Peter,Manges,Cartolus Manges,wife of Cartolus Manges,Friedrich Lieberknecht,,,173,10,1778,7,3,8
-4,,Manges,Manges,Carolus Manges,,Friedrich Lieberknecht,,,10,,1786,24,1786,17
-4,wife,,176,,,Michel Muller,wife of Michael Muller,,,,1783,5,Johan Adam,Carl
-4,,,Jung,Johannes Wilhelm Jung,wife of Johannes Wilhelm Jung,Johannes Schmidt,Elisabetha Schmidt,,,,1781,6,4,Jung
-4,Georg,,178,,,Johann Schaffer,Barbara Hamm,,,,1780,11,5,Behner
+1778,,Manges,Manges,Carolus Manges,,Friedrich Lieberknecht,,,10,,1786,24,1786,17
+1778,wife,,176,,,Michel Muller,wife of Michael Muller,,,,1783,5,Johan Adam,Carl
+1778,,,Jung,Johannes Wilhelm Jung,wife of Johannes Wilhelm Jung,Johannes Schmidt,Elisabetha Schmidt,,,,1781,6,4,Jung
+1778,Georg,,178,,,Johann Schaffer,Barbara Hamm,,,,1780,11,5,Behner
 1784,6,Johann Peter,Wolf,Heinrich Wolf,Catharina Wolf,Heinrich Wolf,Anna Maria Wolf,,179,10,1784,5,5,6
 1786,3,Johan Georg,Weinhold,Georg Weinhold,Margaret Weinhold,Michael Stromenger,,,180,10,1786,7,14,9
 1786,1,Daniel,Gohn,Andreas Gohn,Feronica Gohn,Philip Gohn,Elisabet Gohn,,181,10,1786,8,27,10
@@ -594,7 +594,7 @@ year,bapt_day,child,surname,parents 1,parents 2,sponsors 1,sponsors 2,sponsors 3
 1818,26,*,Hemstet,Nickolaus Hemstet,Margaretha Hemstet,Samuel KNABSCHILD,Catharina Knabschild,,646,31,1818,3,29,4
 1818,24,Ana Maria,Magdalena,Gartman Magdalena,Heinrich Magdalena,Catharina,,,647,31,1817,9,18,5
 1818,24,Benjamin,Small,Joseph Small,wife of Joseph Small,Jacob Neaf,,,648,31,1818,3,19,5
-6,,Kron,Kron,Lorentz Kron,Elisabeth Kron,Elisabeth Klein,,,31,,1818,2,1818,7
+1818,,Kron,Kron,Lorentz Kron,Elisabeth Kron,Elisabeth Klein,,,31,,1818,2,1818,7
 1818,7,Jacob,Keller,Peter Keller,Juliana Keller,Samuel Keller,Sophia Keller,,650,32,1818,4,2,6
 1818,7,Johannes,Oberdorf,Daniel Oberdorf,Lydia Oberdorf,Georg Oberdorf,Anna Maria Oberdorf,,651,32,1818,4,12,6
 1818,7,Maria,Reiter,Joseph Reiter,Elisabeth Reiter,Philip Jacob,Elisabeth Jacob,,652,32,1818,2,15,6
