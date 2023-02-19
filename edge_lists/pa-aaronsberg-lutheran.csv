@@ -1,118 +1,429 @@
-year,source,target
-1794,Daniel  Mosser,Magdalena Magdalena Mosser
-1794,Wilhelm  Sanerwein,Elizabeth Margaret Daniels
-1794,George  Humelong,Elizabeth Anna Maria Humelong
-1794,Martin  Rishel,Catharina  Jonathan
-1794,David  Weber,Eva George Michnel
-1794,John  Brown,Eva Maria Margaretha Brown
-1794,Henry  Diel,Rebecca  Hennrick
-1794,Adam  Rishel,Elizabeth  Salome
-1794,Frederick  Hennig,Elizabeth  Wilhelm
-1795,Philip  Diel,Anna Maria Fredericksz
-1795,Jeremiah  Trautner,Elizabeth  Trautner
-1795,Johannes  Heple,Elis  Wilhelm
-1795,Johannes  Freyberger,Elizabeth  Freyberger
-1795,Philip  Mosser,Maria Barbara Mosser
-1795,Johannes  Motz,Susanna  Motz
-1795,Peter  Heckman,Salome  Heckman
-1795,Leonhart  Willeman,Margeret Elizabeth Willeman
-1795,Adam  Zlingler,Margriet  13
-1795,Frederick  Stober,Catharina  13
-1795,Adam  Jaerg,Maria  Elizabeth
-1795,Jacob  Miller,Georg  Bayer
-1795,Johannes  Schuck,Barbara  13
-1796,David  Weber,Eva Sara Weber
-1796,Johannes  Spengler,Elizabeth  Spengler
-1796,David  Miller,Susanna  Miller
-1796,Philip  Anman,Nicol  Emmerick
-1796,Fried  Stober,Catharina  13
-1802,Jacob  Mark,Adam  Herper
-1802,Anthonius  Rehrig,Adam  Klingler
-1803,Jacob  Albrecht,Cathe  Jacob
-1803,Michael  Knoll,Susanna Anna Catharine Knoll
-1795,Conrad  Dielman,Catharina  Dielman
-1795,Martin  Troester,Christina  Troester
-1795,Johannes  Criechbaum,Johannes  Herr
-1795,Henry  Werhing,Margriet  13
-1795,Frederick  Stober,Adam  Stober
-1795,Daniel  Kreamer,Georg  Pontius
-1795,Georg  Baursohs,Jacob  Weber
-1796,Daniel  Mosser,Maria  Mosser
-1796,Philip  Gunkel,Elizabeth  Gunkel
-1796,Joh  Miller,Anna Maria Miller
-1796,John  Brown,Eva  Valentine
-1796,Michael  Ried,Henry  Geistweith
-1796,Nicholas  Mokel,Peter  Heckman
-1796,Jeremiah  Trautner,Geo  Trautner
-1796,Elizabeth  Sauerwein,Christian  Espig
-1796,Thomas  Falket,Margriet  13
-1796,Johnannes  Stober,Maria Magdalena Stober
-1796,Henry  Herper,Eva Catherine Herper
-1796,Geo Adam Hans,Maria Margaretha Hans
-1796,Adam  Leidig,Catharina  Leidig
-1796,Adam  Klinger,Catharina  Klinger
-1796,Benjamin  Ried,Catharina  Ried
-1796,Adam  Stober,Christina  Stober
-1796,Jacob  Brown,Eva Joh Philips
-1796,Adam  Stober,Elizabeth  Stober
-1796,John  Weber,Eva  Adam
-1796,John  Mitshel,Salome  Mitshel
-1796,Michael  Weber,John  Weber
-1797,Fried  Stroh,Elizabeth  Stroh
-1802,Georg  Frank,Hendrick  Herb
-1802,Jacob  Schreyer,Geo  Trautner
-1802,Jacob  Weber,David  Strom
-1802,Henry  Krebs,Laria  Krebs
-1802,Philip  Theobold,Eva  Theobold
-1802,Jacob  Kepler,Catharina  Kepler
-1802,Johannes  Stober,Catharina  Stober
-1802,George  Nies,Salome  Nies
-1802,Adam  Ceho,Catharina Geo Michaels
-1802,Johannes  Michel,Rachel  Michel
-1802,Adam  Huber,Eva  Jonathan
-1802,Christian  Krebs,Margriet  Krebs
-1802,Flint  Berner,Elizabeth  Berner
-1802,Georg  Icheler,Elizabeth  Icheler
-1802,Philip  Nies,Barbara  Jacob
-1802,Daniel  Waldenberger,Catharina  Waldenberger
-1802,John  Vandusten,Caspar  Emmerick
-1802,Leonhart  Willeman,Peter  Heckman
-1802,Ludwig  Kreamer,Jacob  Kranter
-1802,David  Miller,David  Strom
-1802,Michael  Gerk,Christina  13
-1802,Christian  Schnieder,Jacob  Miller
-1802,Joh Wm Pontius,John  Willeman
-1802,Johannes  Dunkle,Johannes  Stober
-1802,Michael  Presler,Jacob  Schaefer
-1802,Johannes  Leidig,Adam  Leidig
-1802,George  Hetzler,Balthazar  Hetzler
-1802,Hendrick  Vonoedy,Adam  Bahmer
-1802,Andries  Haerter,Salome  13
-1802,Michael  Kreamer,Daniel  Kreamer
-1803,Georg  Brecht,Sophia  Brecht
-1803,Frederick  Kroh,Susanna  Jacobs
-1803,Georg  Wurtemberger,Elizabeth  13
-1803,Jacob  Schaefer,Geo  Schwartz
-1803,Ludwig  Thornmeier,Margare  13
-1803,Jacob  Herring,Eva  Georg
-1803,Geo  Wolf,Christina Sara Wolf
-1803,Ludwig  Willgen,Anna Barbara Christina Willgen
-1803,Michael  Hess,Cathe  Michaels
-1803,Jacob  Hettinger,Eva Maria Hettinger
-1803,Peter  Nies,Christina  Nies
-1803,Georg  Bayer,Gertrant Christina Bayer
-1803,Georg  Kister,Juliana  Henrich
-1803,James  Schip,Catharina Magdalena Schip
-1803,George  Weis,Susanna Catherine Weis
-1803,Nicholas  Vanlotten,Christina  Vanlotten
-1803,Joh  Stober,Christina  Johannes
-1803,Jacob  Wnest,Catharina  Sarah
-1803,Johannes  Kern,Eliza  Christopher
-1803,Antony  Wolf,Valentyn  Britsch
-1803,Johannes  Weber,Adam  Stober
-1803,Geo  Schwartz,Geo  Pontius
-1803,Balthazar  Hetzel,Christina  13
-1803,Joh Jacob Hosterman,Johannes  Weber
-1803,Abraham  Miller,Geo  Hetzel
-1803,Philip  Gechel,Christopher  Emmerick
-1803,Jacob  Mosser,Mattheus  Beuck
+,year,source,target
+0,1794,Daniel  Mosser,Magdalena Magdalena Mosser
+1,1794,Wilhelm  Sanerwein,Elizabeth Margaret Daniels
+2,1794,George  Humelong,Elizabeth Anna Maria Humelong
+3,1794,Martin  Rishel,Catharina  Jonathan
+4,1794,David  Weber,Eva George Michnel
+5,1794,John  Brown,Eva Maria Margaretha Brown
+6,1794,Henry  Diel,Rebecca  Hennrick
+7,1794,Adam  Rishel,Elizabeth  Salome
+8,1794,Frederick  Hennig,Elizabeth  Wilhelm
+9,1795,Philip  Diel,Anna Maria Fredericksz
+10,1795,Jeremiah  Trautner,Elizabeth  Trautner
+11,1795,Johannes  Heple,Elis  Wilhelm
+13,1795,Johannes  Freyberger,Elizabeth  Freyberger
+14,1795,Philip  Mosser,Maria Barbara Mosser
+17,1795,Johannes  Motz,Susanna  Motz
+19,1795,Peter  Heckman,Salome  Heckman
+21,1795,Conrad  Dielman,Catharina  Dielman
+23,1795,Leonhart  Willeman,Margeret Elizabeth Willeman
+25,1795,Martin  Troester,Christina  Troester
+32,1796,Daniel  Mosser,Maria  Mosser
+34,1796,Johnannes  Stober,Maria Magdalena Stober
+37,1796,Philip  Gunkel,Elizabeth  Gunkel
+38,1796,Henry  Herper,Eva Catherine Herper
+39,1796,Geo Adam Hans,Maria Margaretha Hans
+40,1796,Joh  Miller,Anna Maria Miller
+41,1796,Adam  Leidig,Catharina  Leidig
+42,1796,Adam  Klinger,Catharina  Klinger
+43,1796,Benjamin  Ried,Catharina  Ried
+44,1796,Adam  Stober,Christina  Stober
+45,1796,Jacob  Brown,Eva Joh Philips
+46,1796,John  Brown,Eva  Valentine
+47,1796,Adam  Stober,Elizabeth  Stober
+48,1796,David  Weber,Eva Sara Weber
+49,1796,John  Weber,Eva  Adam
+50,1796,John  Mitshel,Salome  Mitshel
+51,1796,Johannes  Spengler,Elizabeth  Spengler
+53,1796,David  Miller,Susanna  Miller
+55,1797,Fried  Stroh,Elizabeth  Stroh
+57,1802,Henry  Krebs,Laria  Krebs
+58,1802,Philip  Theobold,Eva  Theobold
+69,1802,Jacob  Kepler,Catharina  Kepler
+70,1802,Johannes  Stober,Catharina  Stober
+71,1802,George  Nies,Salome  Nies
+74,1802,Adam  Ceho,Catharina Geo Michaels
+77,1802,Johannes  Michel,Rachel  Michel
+79,1802,Adam  Huber,Eva  Jonathan
+81,1802,Christian  Krebs,Margriet  Krebs
+82,1802,Flint  Berner,Elizabeth  Berner
+84,1802,Georg  Icheler,Elizabeth  Icheler
+86,1802,Philip  Nies,Barbara  Jacob
+87,1802,Daniel  Waldenberger,Catharina  Waldenberger
+90,1802,Georg  Brecht,Sophia  Brecht
+94,1803,Jacob  Herring,Eva  Georg
+95,1803,Jacob  Albrecht,Cathe  Jacob
+96,1803,Geo  Wolf,Christina Sara Wolf
+97,1803,Ludwig  Willgen,Anna Barbara Christina Willgen
+98,1803,Michael  Hess,Cathe  Michaels
+100,1803,Jacob  Hettinger,Eva Maria Hettinger
+101,1803,Peter  Nies,Christina  Nies
+104,1803,Michael  Knoll,Susanna Anna Catharine Knoll
+105,1802,Frederick  Kroh,Susanna  Jacobs
+106,1803,Georg  Bayer,Gertrant Christina Bayer
+107,1803,Georg  Kister,Juliana  Henrich
+108,1803,James  Schip,Catharina Magdalena Schip
+109,1803,George  Weis,Susanna Catherine Weis
+110,1803,Nicholas  Vanlotten,Christina  Vanlotten
+111,1803,Joh  Stober,Christina  Johannes
+112,1803,Jacob  Wnest,Catharina  Sarah
+113,1803,Johannes  Kern,Eliza  Christopher
+0,1794,Daniel  Mosser,Philip  Frank
+6,1794,Henry  Diel,Nicol Susanna Dormeyer
+10,1795,Jeremiah  Trautner,Nicol  Mokel
+12,1795,Johannes  Criechbaum,Johannes  Herr
+13,1795,Johannes  Freyberger,Anna Maria 13
+14,1795,Philip  Mosser,Catharina  13
+15,1795,Adam  Zlingler,Margriet  13
+16,1795,Frederick  Stober,Catharina  13
+17,1795,Johannes  Motz,Anna Maria 13
+18,1795,Adam  Jaerg,Maria  Elizabeth
+19,1795,Peter  Heckman,Salome  13
+20,1795,Henry  Werhing,Margriet  13
+21,1795,Conrad  Dielman,Catharina  13
+22,1796,Thomas  Falket,Margriet  13
+23,1795,Leonhart  Willeman,Georg  13
+24,1795,Frederick  Stober,Adam  Stober
+25,1795,Martin  Troester,Dan  Miller
+26,1795,Daniel  Kreamer,Georg  Pontius
+27,1795,Jacob  Miller,Georg  Bayer
+28,1795,Johannes  Schuck,Barbara  13
+29,1795,Georg  Baursohs,Jacob  Weber
+30,1796,Michael  Ried,Henry  Geistweith
+32,1796,Daniel  Mosser,George  Wolf
+33,1796,Nicholas  Mokel,Peter  Heckman
+34,1796,Johnannes  Stober,Adam  Stober
+35,1796,Philip  Anman,Nicol  Emmerick
+36,1796,Jeremiah  Trautner,Geo  Trautner
+37,1796,Philip  Gunkel,Michael  Mos
+38,1796,Henry  Herper,David  Weber
+39,1796,Geo Adam Hans,Elizabeth Margaretha Georgin
+40,1796,Joh  Miller,Anna Maria 13
+41,1796,Adam  Leidig,Adam  Stober
+42,1796,Adam  Klinger,Geo  Pontius
+43,1796,Benjamin  Ried,Johannes  Stober
+44,1796,Adam  Stober,Fried  Stober
+45,1796,Jacob  Brown,Philip  Gunkel
+46,1796,John  Brown,Georg  Hess
+47,1796,Adam  Stober,Nicol  Weber
+49,1796,John  Weber,Michael  Weber
+50,1796,John  Mitshel,Chris  Henry
+51,1796,Johannes  Spengler,Magdalena  13
+52,1796,Fried  Stober,Catharina  13
+53,1796,David  Miller,Susanna  13
+54,1796,Michael  Weber,John  Weber
+55,1797,Fried  Stroh,Maria Susanna Franks
+56,1802,Georg  Frank,Hendrick  Herb
+57,1802,Henry  Krebs,Christina  Krebs
+58,1802,Philip  Theobold,Adam  Stober
+59,1802,John  Vandusten,Caspar  Emmerick
+60,1802,Leonhart  Willeman,Peter  Heckman
+61,1802,Ludwig  Kreamer,Jacob  Kranter
+62,1802,David  Miller,David  Strom
+63,1802,Michael  Gerk,Christina  13
+64,1802,Jacob  Mark,Adam  Herper
+65,1802,Christian  Schnieder,Jacob  Miller
+66,1802,Joh Wm Pontius,John  Willeman
+67,1802,Jacob  Schreyer,Geo  Trautner
+68,1802,Jacob  Weber,David  Strom
+69,1802,Jacob  Kepler,Jacob  Miller
+70,1802,Johannes  Stober,Catharina Weber Christina
+71,1802,George  Nies,Philip  Nies
+72,1802,Johannes  Dunkle,Johannes  Stober
+73,1802,Michael  Presler,Jacob  Schaefer
+74,1802,Adam  Ceho,Geo Mic Trautner
+75,1802,Johannes  Leidig,Adam  Leidig
+76,1802,George  Hetzler,Balthazar  Hetzler
+77,1802,Johannes  Michel,Geo  Baursohs
+78,1802,Hendrick  Vonoedy,Adam  Bahmer
+79,1802,Adam  Huber,Philip  Frank
+80,1802,Anthonius  Rehrig,Adam  Klingler
+81,1802,Christian  Krebs,Henrich  Krebs
+82,1802,Flint  Berner,Henrich  Gansert
+83,1802,Andries  Haerter,Salome  13
+84,1802,Georg  Icheler,Barbara Boyer Elizabeth
+85,1802,Michael  Kreamer,Daniel  Kreamer
+86,1802,Philip  Nies,Jacob  Stober
+87,1802,Daniel  Waldenberger,Adam  Leidig
+88,1802,Georg  Wurtemberger,Elizabeth  13
+89,1802,Jacob  Schaefer,Geo  Schwartz
+90,1802,Georg  Brecht,Jacob  Hennig
+91,1802,Ludwig  Thornmeier,Margare  13
+92,1803,Antony  Wolf,Valentyn  Britsch
+93,1803,Johannes  Weber,Adam  Stober
+94,1803,Jacob  Herring,Philip  Danner
+96,1803,Geo  Wolf,Andries  Feller
+97,1803,Ludwig  Willgen,Jacob  Weber
+98,1803,Michael  Hess,John  Weis
+99,1803,Geo  Schwartz,Geo  Pontius
+100,1803,Jacob  Hettinger,Geo  Trautner
+101,1803,Peter  Nies,Joh Mic Mogel
+102,1803,Balthazar  Hetzel,Christina  13
+103,1803,Joh Jacob Hosterman,Johannes  Weber
+104,1803,Michael  Knoll,Adam  Kliger
+105,1802,Frederick  Kroh,Georg  Bayer
+106,1803,Georg  Bayer,Catharina  Schoefein
+107,1803,Georg  Kister,Henrich  13
+108,1803,James  Schip,Magdalena  Hellmanin
+109,1803,George  Weis,Joh  Herper
+110,1803,Nicholas  Vanlotten,Joh  Leidig
+111,1803,Joh  Stober,Johannes  Weber
+112,1803,Jacob  Wnest,Jacob  Weber
+113,1803,Johannes  Kern,Joh  Criechbaum
+114,1803,Abraham  Miller,Geo  Hetzel
+115,1803,Philip  Gechel,Christopher  Emmerick
+116,1803,Jacob  Mosser,Mattheus  Beuck
+12,1795,Johannes  Criechbaum,Maria Elizabeth Barbara Herr
+23,1795,Leonhart  Willeman,Margriet Elizabeth Barbara
+24,1795,Frederick  Stober,Anna Magdalena Stober
+25,1795,Martin  Troester,Susanna Catherine Miller
+26,1795,Daniel  Kreamer,Margriet Catherine Pontius
+27,1795,Jacob  Miller,Catharina  Huber
+29,1795,Georg  Baursohs,Rosina Christina Bayer
+30,1796,Michael  Ried,Elizabeth Margaretha Geistweith
+32,1796,Daniel  Mosser,Magdalena Christina Wolf
+33,1796,Nicholas  Mokel,Elizabeth Salome Heckman
+34,1796,Johnannes  Stober,Barbara Maria Magdalena Stober
+35,1796,Philip  Anman,Elizabeth Barbara Emmerick
+36,1796,Jeremiah  Trautner,Elizabeth Margaretha Trautner
+37,1796,Philip  Gunkel,Catharina Barbara Mos
+38,1796,Henry  Herper,Eva Agatha Weber
+41,1796,Adam  Leidig,Christina Julianna Stober
+42,1796,Adam  Klinger,Maria Julianna Pontius
+43,1796,Benjamin  Ried,Maria Christina Barbara Stober
+44,1796,Adam  Stober,Maria Magdalena Anna Stober
+45,1796,Jacob  Brown,Catharina  Gunkel
+46,1796,John  Brown,Maria  Gronigee
+47,1796,Adam  Stober,Juliana Barbara Weber
+49,1796,John  Weber,Catharina Elizabeth Weber
+50,1796,John  Mitshel,Judith Barbara Henry
+54,1796,Michael  Weber,Elizabeth Catherine Weber
+56,1802,Georg  Frank,Christina Eva Franklin Herb
+57,1802,Henry  Krebs,Laria  Krebs
+58,1802,Philip  Theobold,Laria  Stober
+59,1802,John  Vandusten,Elizabeth Barbara Christina Emmerick
+60,1802,Leonhart  Willeman,Elis Salome Heckman
+61,1802,Ludwig  Kreamer,Elizabeth Magdalena Kranter
+62,1802,David  Miller,Susanna  Strom
+64,1802,Jacob  Mark,Magdalena Philillina Herper
+65,1802,Christian  Schnieder,Catharina  Miller
+66,1802,Joh Wm Pontius,Margriet Magd Schuck
+67,1802,Jacob  Schreyer,Barbara Anna Margaretha Trautner
+68,1802,Jacob  Weber,Elizabeth  Strom
+69,1802,Jacob  Kepler,Magdalena Catherine Miller
+71,1802,George  Nies,Elizabeth Barbara Nies
+72,1802,Johannes  Dunkle,Magdalena Maria Dunkelberger
+73,1802,Michael  Presler,Margriet Susanna Schaefer
+74,1802,Adam  Ceho,Margriet  Trautner
+75,1802,Johannes  Leidig,Christina Catha Leidig
+76,1802,George  Hetzler,Cathe Christina Hetzler
+77,1802,Johannes  Michel,Judith Rosina Baursohs
+78,1802,Hendrick  Vonoedy,Catharina Elizabeth Waldenberger
+79,1802,Adam  Huber,Catharina  Frank
+80,1802,Anthonius  Rehrig,Barbara Margaretha Klingler
+81,1802,Christian  Krebs,Anna Maria Margaretha Krebs
+82,1802,Flint  Berner,Barbara Elizabeth Gansert
+85,1802,Michael  Kreamer,Christina Margaretha Kreamer
+86,1802,Philip  Nies,Catharina  Stober
+87,1802,Daniel  Waldenberger,Christina Salome Leidig
+89,1802,Jacob  Schaefer,Eva Susanna Schwartz
+90,1802,Georg  Brecht,Eva Elizabeth Hennig
+92,1803,Antony  Wolf,Maria Catherine Britsch
+93,1803,Johannes  Weber,Juliana Margaretha Stober
+94,1803,Jacob  Herring,Maria  Danner
+96,1803,Geo  Wolf,Caroline Lotz Feller
+97,1803,Ludwig  Willgen,Christina  Bayer
+98,1803,Michael  Hess,Eva  Weis
+99,1803,Geo  Schwartz,Eva Rosina Catherine Pontius
+100,1803,Jacob  Hettinger,Margriet  Trautner
+101,1803,Peter  Nies,Elizabeth  Mogel
+103,1803,Joh Jacob Hosterman,Christina Eva Margaretha Weber
+104,1803,Michael  Knoll,Margriet Eliza Kliger
+105,1802,Frederick  Kroh,Gertrant  Bayer
+107,1803,Georg  Kister,Eva  13
+109,1803,George  Weis,Catharina  Herper
+110,1803,Nicholas  Vanlotten,Catharina Anna Maria Leidig
+111,1803,Joh  Stober,Eva  Weber
+112,1803,Jacob  Wnest,Maria Magdalena Bayer
+113,1803,Johannes  Kern,Maria Eliza Criechbaum
+114,1803,Abraham  Miller,Catharina  Hetzel
+115,1803,Philip  Gechel,Catharina  Emmerick
+116,1803,Jacob  Mosser,Margriet Christina Beuck
+0,1794,Magdalena Magdalena Mosser,Philip  Frank
+6,1794,Rebecca  Hennrick,Nicol Susanna Dormeyer
+10,1795,Elizabeth  Trautner,Nicol  Mokel
+13,1795,Elizabeth  Freyberger,Anna Maria 13
+14,1795,Maria Barbara Mosser,Catharina  13
+17,1795,Susanna  Motz,Anna Maria 13
+19,1795,Salome  Heckman,Salome  13
+21,1795,Catharina  Dielman,Catharina  13
+23,1795,Margeret Elizabeth Willeman,Georg  13
+25,1795,Christina  Troester,Dan  Miller
+31,1796,Elizabeth  Sauerwein,Christian  Espig
+32,1796,Maria  Mosser,George  Wolf
+34,1796,Maria Magdalena Stober,Adam  Stober
+37,1796,Elizabeth  Gunkel,Michael  Mos
+38,1796,Eva Catherine Herper,David  Weber
+39,1796,Maria Margaretha Hans,Elizabeth Margaretha Georgin
+40,1796,Anna Maria Miller,Anna Maria 13
+41,1796,Catharina  Leidig,Adam  Stober
+42,1796,Catharina  Klinger,Geo  Pontius
+43,1796,Catharina  Ried,Johannes  Stober
+44,1796,Christina  Stober,Fried  Stober
+45,1796,Eva Joh Philips,Philip  Gunkel
+46,1796,Eva  Valentine,Georg  Hess
+47,1796,Elizabeth  Stober,Nicol  Weber
+49,1796,Eva  Adam,Michael  Weber
+50,1796,Salome  Mitshel,Chris  Henry
+51,1796,Elizabeth  Spengler,Magdalena  13
+53,1796,Susanna  Miller,Susanna  13
+55,1797,Elizabeth  Stroh,Maria Susanna Franks
+57,1802,Laria  Krebs,Christina  Krebs
+58,1802,Eva  Theobold,Adam  Stober
+69,1802,Catharina  Kepler,Jacob  Miller
+70,1802,Catharina  Stober,Catharina Weber Christina
+71,1802,Salome  Nies,Philip  Nies
+74,1802,Catharina Geo Michaels,Geo Mic Trautner
+77,1802,Rachel  Michel,Geo  Baursohs
+79,1802,Eva  Jonathan,Philip  Frank
+81,1802,Margriet  Krebs,Henrich  Krebs
+82,1802,Elizabeth  Berner,Henrich  Gansert
+84,1802,Elizabeth  Icheler,Barbara Boyer Elizabeth
+86,1802,Barbara  Jacob,Jacob  Stober
+87,1802,Catharina  Waldenberger,Adam  Leidig
+90,1802,Sophia  Brecht,Jacob  Hennig
+94,1803,Eva  Georg,Philip  Danner
+96,1803,Christina Sara Wolf,Andries  Feller
+97,1803,Anna Barbara Christina Willgen,Jacob  Weber
+98,1803,Cathe  Michaels,John  Weis
+100,1803,Eva Maria Hettinger,Geo  Trautner
+101,1803,Christina  Nies,Joh Mic Mogel
+104,1803,Susanna Anna Catharine Knoll,Adam  Kliger
+105,1802,Susanna  Jacobs,Georg  Bayer
+106,1803,Gertrant Christina Bayer,Catharina  Schoefein
+107,1803,Juliana  Henrich,Henrich  13
+108,1803,Catharina Magdalena Schip,Magdalena  Hellmanin
+109,1803,Susanna Catherine Weis,Joh  Herper
+110,1803,Christina  Vanlotten,Joh  Leidig
+111,1803,Christina  Johannes,Johannes  Weber
+112,1803,Catharina  Sarah,Jacob  Weber
+113,1803,Eliza  Christopher,Joh  Criechbaum
+23,1795,Margeret Elizabeth Willeman,Margriet Elizabeth Barbara
+25,1795,Christina  Troester,Susanna Catherine Miller
+31,1796,Elizabeth  Sauerwein,Margriet Elizabeth Espig
+32,1796,Maria  Mosser,Magdalena Christina Wolf
+34,1796,Maria Magdalena Stober,Barbara Maria Magdalena Stober
+37,1796,Elizabeth  Gunkel,Catharina Barbara Mos
+38,1796,Eva Catherine Herper,Eva Agatha Weber
+41,1796,Catharina  Leidig,Christina Julianna Stober
+42,1796,Catharina  Klinger,Maria Julianna Pontius
+43,1796,Catharina  Ried,Maria Christina Barbara Stober
+44,1796,Christina  Stober,Maria Magdalena Anna Stober
+45,1796,Eva Joh Philips,Catharina  Gunkel
+46,1796,Eva  Valentine,Maria  Gronigee
+47,1796,Elizabeth  Stober,Juliana Barbara Weber
+49,1796,Eva  Adam,Catharina Elizabeth Weber
+50,1796,Salome  Mitshel,Judith Barbara Henry
+57,1802,Laria  Krebs,Laria  Krebs
+58,1802,Eva  Theobold,Laria  Stober
+69,1802,Catharina  Kepler,Magdalena Catherine Miller
+71,1802,Salome  Nies,Elizabeth Barbara Nies
+74,1802,Catharina Geo Michaels,Margriet  Trautner
+77,1802,Rachel  Michel,Judith Rosina Baursohs
+79,1802,Eva  Jonathan,Catharina  Frank
+81,1802,Margriet  Krebs,Anna Maria Margaretha Krebs
+82,1802,Elizabeth  Berner,Barbara Elizabeth Gansert
+86,1802,Barbara  Jacob,Catharina  Stober
+87,1802,Catharina  Waldenberger,Christina Salome Leidig
+90,1802,Sophia  Brecht,Eva Elizabeth Hennig
+94,1803,Eva  Georg,Maria  Danner
+96,1803,Christina Sara Wolf,Caroline Lotz Feller
+97,1803,Anna Barbara Christina Willgen,Christina  Bayer
+98,1803,Cathe  Michaels,Eva  Weis
+100,1803,Eva Maria Hettinger,Margriet  Trautner
+101,1803,Christina  Nies,Elizabeth  Mogel
+104,1803,Susanna Anna Catharine Knoll,Margriet Eliza Kliger
+105,1802,Susanna  Jacobs,Gertrant  Bayer
+107,1803,Juliana  Henrich,Eva  13
+109,1803,Susanna Catherine Weis,Catharina  Herper
+110,1803,Christina  Vanlotten,Catharina Anna Maria Leidig
+111,1803,Christina  Johannes,Eva  Weber
+112,1803,Catharina  Sarah,Maria Magdalena Bayer
+113,1803,Eliza  Christopher,Maria Eliza Criechbaum
+12,1795,Johannes  Herr,Maria Elizabeth Barbara Herr
+23,1795,Georg  13,Margriet Elizabeth Barbara
+24,1795,Adam  Stober,Anna Magdalena Stober
+25,1795,Dan  Miller,Susanna Catherine Miller
+26,1795,Georg  Pontius,Margriet Catherine Pontius
+27,1795,Georg  Bayer,Catharina  Huber
+29,1795,Jacob  Weber,Rosina Christina Bayer
+30,1796,Henry  Geistweith,Elizabeth Margaretha Geistweith
+31,1796,Christian  Espig,Margriet Elizabeth Espig
+32,1796,George  Wolf,Magdalena Christina Wolf
+33,1796,Peter  Heckman,Elizabeth Salome Heckman
+34,1796,Adam  Stober,Barbara Maria Magdalena Stober
+35,1796,Nicol  Emmerick,Elizabeth Barbara Emmerick
+36,1796,Geo  Trautner,Elizabeth Margaretha Trautner
+37,1796,Michael  Mos,Catharina Barbara Mos
+38,1796,David  Weber,Eva Agatha Weber
+41,1796,Adam  Stober,Christina Julianna Stober
+42,1796,Geo  Pontius,Maria Julianna Pontius
+43,1796,Johannes  Stober,Maria Christina Barbara Stober
+44,1796,Fried  Stober,Maria Magdalena Anna Stober
+45,1796,Philip  Gunkel,Catharina  Gunkel
+46,1796,Georg  Hess,Maria  Gronigee
+47,1796,Nicol  Weber,Juliana Barbara Weber
+49,1796,Michael  Weber,Catharina Elizabeth Weber
+50,1796,Chris  Henry,Judith Barbara Henry
+54,1796,John  Weber,Elizabeth Catherine Weber
+56,1802,Hendrick  Herb,Christina Eva Franklin Herb
+57,1802,Christina  Krebs,Laria  Krebs
+58,1802,Adam  Stober,Laria  Stober
+59,1802,Caspar  Emmerick,Elizabeth Barbara Christina Emmerick
+60,1802,Peter  Heckman,Elis Salome Heckman
+61,1802,Jacob  Kranter,Elizabeth Magdalena Kranter
+62,1802,David  Strom,Susanna  Strom
+64,1802,Adam  Herper,Magdalena Philillina Herper
+65,1802,Jacob  Miller,Catharina  Miller
+66,1802,John  Willeman,Margriet Magd Schuck
+67,1802,Geo  Trautner,Barbara Anna Margaretha Trautner
+68,1802,David  Strom,Elizabeth  Strom
+69,1802,Jacob  Miller,Magdalena Catherine Miller
+71,1802,Philip  Nies,Elizabeth Barbara Nies
+72,1802,Johannes  Stober,Magdalena Maria Dunkelberger
+73,1802,Jacob  Schaefer,Margriet Susanna Schaefer
+74,1802,Geo Mic Trautner,Margriet  Trautner
+75,1802,Adam  Leidig,Christina Catha Leidig
+76,1802,Balthazar  Hetzler,Cathe Christina Hetzler
+77,1802,Geo  Baursohs,Judith Rosina Baursohs
+78,1802,Adam  Bahmer,Catharina Elizabeth Waldenberger
+79,1802,Philip  Frank,Catharina  Frank
+80,1802,Adam  Klingler,Barbara Margaretha Klingler
+81,1802,Henrich  Krebs,Anna Maria Margaretha Krebs
+82,1802,Henrich  Gansert,Barbara Elizabeth Gansert
+85,1802,Daniel  Kreamer,Christina Margaretha Kreamer
+86,1802,Jacob  Stober,Catharina  Stober
+87,1802,Adam  Leidig,Christina Salome Leidig
+89,1802,Geo  Schwartz,Eva Susanna Schwartz
+90,1802,Jacob  Hennig,Eva Elizabeth Hennig
+92,1803,Valentyn  Britsch,Maria Catherine Britsch
+93,1803,Adam  Stober,Juliana Margaretha Stober
+94,1803,Philip  Danner,Maria  Danner
+96,1803,Andries  Feller,Caroline Lotz Feller
+97,1803,Jacob  Weber,Christina  Bayer
+98,1803,John  Weis,Eva  Weis
+99,1803,Geo  Pontius,Eva Rosina Catherine Pontius
+100,1803,Geo  Trautner,Margriet  Trautner
+101,1803,Joh Mic Mogel,Elizabeth  Mogel
+103,1803,Johannes  Weber,Christina Eva Margaretha Weber
+104,1803,Adam  Kliger,Margriet Eliza Kliger
+105,1802,Georg  Bayer,Gertrant  Bayer
+107,1803,Henrich  13,Eva  13
+109,1803,Joh  Herper,Catharina  Herper
+110,1803,Joh  Leidig,Catharina Anna Maria Leidig
+111,1803,Johannes  Weber,Eva  Weber
+112,1803,Jacob  Weber,Maria Magdalena Bayer
+113,1803,Joh  Criechbaum,Maria Eliza Criechbaum
+114,1803,Geo  Hetzel,Catharina  Hetzel
+115,1803,Christopher  Emmerick,Catharina  Emmerick
+116,1803,Mattheus  Beuck,Margriet Christina Beuck

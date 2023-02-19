@@ -1,182 +1,644 @@
-year,source,target
-1752,Jacob  Zeiter,Jacob  Albrecht
-1752,Gottlieb David Ettle,Michael  Kessinger
-1755,Gottlieb David Ettle,Ulrich  Hubscher
-1756,Frederick  Hummel,Simon  Bauer
-1756,Jacob  Albrecht,Franz  Newcome
-1757,John Conrad Wolfley,Jacob  Lenz
-1757,John  Armbruster,George  Slener
-1757,Johannes  Deiss,George  Brumbach
-1757,Daniel  Braun,George  Schuz
-1757,Gottlieb David Ettle,Conrad  Wolffie
-1757,John  Wunderich,J Dietrich Morrell
-1757,Johannes  Leruh,John  Newcomer
-1757,Michael Huber Jr,Mattheus  Wenner
-1758,Jacob  Lenz,Jacob  Schutz
-1758,Peter  Spengler,George  Bombach
-1758,John Henry Retzel,Philip  Fishburn
-1758,John  Braun,Michael  Fensel
-1758,William  Denn,Christofel  Mauz
-1758,John  Braun,Vincent  Kieffer
-1758,Philip  Genter,Philip  Fishburn
-1758,Christian  Alleman,George  Fry
-1758,Jacob  Albrecht,Philip  Parthemer
-1758,John  Boresch,Philip  Gunther
-1758,Michael  Gansle,Adam  Delker
-1758,Melchior  Flerspach,Christofel  Shupp
-1758,Frederick  Hummel,John Adam Keller
-1758,Michael  Cassel,Frederick  Cassel
-1758,Jacob  Baumann,Geo  Gross
-1758,Michael  Bolty,Andrew  Viele
-1759,Gottlieb David Ettle,Philip  Fishburn
-1759,Chrisitan  Alleman,George  Fry
-1759,Conrad  Wolfley,J  Cassel
-1759,John  Deiss,J  Newcomer
-1759,Frederick  Forster,Witness Phillip Fisher
-1759,Mattheus  Stoll,Maxim Hian Speidel
-1759,Joseph  Kernanne,Frederick  Morrell
-1759,Ludwig  Trabler,Witness John Phillip Gunter
-1759,Antoine  Blessle,Frederick  Hummel
-1759,John  Kristler,Frederick  Hummel
-1759,Frederick  Hummel,Wife Of Frederick Hummel
-1760,Philip  Genter,Peter  Gunther
-1760,Jacob  Albrecht,Christofel  Shupp
-1760,John  Boresch,Philip  Fishburn
-1760,Christopher  Jesupp,Philip  Parthemer
-1760,Michael  Bolty,Geo Jacob Bolty
-1760,Conrad  Wolfley,Jacob  Lenz
-1760,Michael  Dauckmann,John  Cassel
-1760,Philip  Fishburn,Philip  Bolty
-1760,Philip  Fishburn,Philip  Fishburn
-1760,Philip  Fishburn,John Peitrich Morrell
-1760,Henry  Mayer,Frederick  Cassel
-1760,Henry  Mayer,Nicholas  Cassel
-1760,Antoine  Kermanne,Philip  Fishburn
-1760,Antoine  Kermanne,Witness John Kermanne
-1760,Jacob  Zeiter,Wm  Stricker
-1760,Ludwig  Beel,Ludwig  Beel
-1761,Christian  Alleman,George  Fry
-1761,Jacob  Albrecht,John Peter Gunter
-1761,Frederick  Hummel,Antoine  Blessing
-1761,Michael  Cassel,Jacob  Leny
-1761,Frederick  Forster,Philip  Fisher
-1761,Joseph  Gennanne,John  Corbin
-1761,John  Kristler,Frederick  Hummel
-1761,Mckallens,Ludwig  Traber
-1761,Rudolph  Baab,Adam  Waler
-1761,John  Unschild,Jacob  Speidel
-1761,Nicholas  Staud,Frederick  Hummel
-1761,George John Weeber,John  Huber
-1761,Charles  Williams,John  Albrecht
-1761,Charles  Williams,Jacob  Burkhard
-1761,Philip  Fishburn,Wife Of Philip Fishburn
-1762,Antoine  Blessle,Antoine  Hemperly
-1762,Philip  Fishburn,Peter  Uehler
-1762,Philip  Fishburn,Antoine  Ochler
-1762,Jacob  Speidel,John Adam Schneider
-1762,John  Unschild,Jacob  Speidel
-1762,Jacob  Zeiter,Philip  Genter
-1762,Jacob  Zeiter,John  Boretsch
-1762,Frederick  Cassel,Jacob  Koenig
-1762,Frederick  Cassel,Michael  Cassel
-1762,Adam  Mayer,Frederick  Foster
-1762,Ludwig  Beel,Dietrich  Morrell
-1762,Antoine  Uehler,Philip  Fishburn
-1762,Jacob  Mater,John  Mater
-1763,Frederick,Henry  Scheffer
-1763,Peter  Bucks,George  Bauer
-1763,Peter  Bucks,John  Deiss
-1763,George  Bauer,Frederick  Hummel
-1763,George  Bauer,Caspar
-1763,George  Bauer,John  Cassel
-1763,Joseph  Yoder,Peter  Pfannenkuchen
-1763,Henry  Ditzel,Philip  Fishburn
-1763,John  Kermanne,Henry  Ditzel
-1764,Antoine  Blessie,Wife Of Anthony Blessie
-1765,Joseph  Kermanne,Henry  Ditzel
-1765,Antoine  Blessle,Antoine  Corbin
-1765,Philip  Fishburn,Peter  Gunther
-1765,John  Kermanne,Michael  Kermanne
-1766,Antoine  Kermanne,Antoine  Blessing
-1766,Antoine  Kermanne,John Martin Collmer
-1766,John  Unschild,John  Goez
-1766,Henry  Ditzel,Philip  Fishburn
-1766,John Henry Lampert,John Eberhard Kettering Catharine D
-1767,Jacob  Albrecht,Mattheus  Stoll
-1767,Philip  Fishburn,Henry  Ditzel
-1767,Jacob  Speidel,Frederick  Stoll
-1767,John  Kermanne,Antoine  Blessing
-1767,John  Kermanne,Antoine  Kermanne
-1767,Nicholas  Bass,Michael  Deebler
-1768,Henry  Ditzel,Philip  Fishburn
-1770,Jacob  Speidel,Maximilian  Speidel
-1771,Maximilian Speidel Jr,Frederick  Eberhard
-1772,Henry  Ditzel,John  Kermanne
-1772,Maximilian Speidel Sr,Margriet  Speidel
-1773,Frederick  Stoll,Margriet Elizabeth Stoll
-1773,Frederick  Stoll,Margriet Elizabeth Stoll
-1773,Henry  Ditzel,Jacob  Kettering
-1773,Maximilian Speidel Jr,Jacob Bettering
-1773,Henry  Krieger,Maria  Ditzel
-1773,Margriet  Fishburn,Henry
-1774,Frederick  Stoll,Margriet Elizabeth Stoll
-1775,George  Shupp,Louisa  Shupp
-1775,Augustine  Stoll,Anna Elizabeth Stoll
-1776,David  Fromin,Rosina  Fromin
-1776,William  Crabb,Catharina  Crabb
-1776,Jacob  Speidel,Peter  Bucks
-1776,Maximilian Speidel Jr,Peter  Bucks
-1777,John George Bucks,Elizabeth  Bucks
-1777,John George Bucks,Elizabeth  Bucks
-1777,Jacob  Speidel,Max  Speidel
-1778,Maximilian Speidel Jr,Jacob
-1779,George  Shupp,Louisa  Shupp
-1779,William  Crabb,Catharina  Crabb
-1779,John  Bucks,Margriet  Bucks
-1779,Jacob  Speidel,Frederick  Stoll
-1779,Maximilian Speidel Jr,George  Fry
-1781,William  Crabb,Catharina  Crabb
-1781,John  Bucks,Margriet  Bucks
-1781,Maximilian Speidel Jr,Peter
-1782,George  Shupp,Louisa  Shupp
-1782,John  Blessing,Catharina  Blessing
-1782,Maximilian  Speidel,Barbara  Speidel
-1783,John  Bucks,Margriet  Bucks
-1783,Philip  Blessing,Magdalena  Blessing
-1787,John Peter Bucks,Wife Of John Peter Bucks
-1788,Maximilian  Speidel,Barbara  Speidel
-1810,Robert  Carnicken,Maria  Carnicken
-1811,John  Schneider,Maria Magdalena Schneider
-1811,Mattheus  Sesseman,Esther  Sesseman
-1811,James M Christel,Catharina  Christel
-1812,John  Fromin,Magdalena  Fromin
-1812,John  Smith,Susannah  Smith
-1813,William  Hamilton,Margriet  Hamilton
-1813,William  Thompson,Hannah  Thompson
-1813,William  Thompson,Hannah  Thompson
-1813,William  Thompson,Hannah  Thompson
-1813,William  Thompson,Hannah  Thompson
-1813,William  Thompson,Hannah  Thompson
-1813,Henry  Haack,Magdalena  Haack
-1813,John  Fromin,Molly  Fromin
-1813,Jonathan  Miller,Maria  Miller
-1813,Jacob  Miller,Catharina  Miller
-1815,Adam  Carper,Catharina  Carper
-1815,George  Ellinger,Barbara  Ellinger
-1815,George  Ellinger,Barbara  Ellinger
-1815,Ludwig  Clopper,Barbara  Clopper
-1815,George  Grun,Nancy  Grun
-1815,George  Grun,Nancy  Grun
-1815,John  Schneider,Maria  Schneider
-1816,John  Fromin,Magdalena  Fromin
-1816,Michael  Wolz,Maria  Wolz
-1816,Jacob  Miller,Witness Catharine Wolz
-1817,Christian  Blessing,Catharina  Blessing
-1817,Ludwig  Koppa,Barbara  Koppa
-1819,Robert  Cunningham,Maria  Cunningham
-1819,Charles  Grunden,Magdalena  Grunden
-1819,Adam  Koph,Nancy  Koph
-1819,Frederick  Blessing,Elizabeth  Blessing
-1819,Jacob  Camp,Margriet  Camp
-1819,John  Finney,Sara  Wolz
-1822,David  Camp,Barbara  Woltz
+,year,source,target
+129,1773.0,Frederick  Stoll,Margriet Elizabeth Stoll
+130,1773.0,Frederick  Stoll,Margriet Elizabeth Stoll
+131,1774.0,Frederick  Stoll,Margriet Elizabeth Stoll
+135,1775.0,George  Shupp,Louisa  Shupp
+136,1779.0,George  Shupp,Louisa  Shupp
+138,1782.0,George  Shupp,Louisa  Shupp
+139,1775.0,Augustine  Stoll,Anna Elizabeth Stoll
+140,1776.0,David  Fromin,Rosina  Fromin
+141,1777.0,John George Bucks,Elizabeth  Bucks
+142,1777.0,John George Bucks,Elizabeth  Bucks
+143,1776.0,William  Crabb,Catharina  Crabb
+144,1779.0,William  Crabb,Catharina  Crabb
+145,1781.0,William  Crabb,Catharina  Crabb
+146,1779.0,John  Bucks,Margriet  Bucks
+147,1781.0,John  Bucks,Margriet  Bucks
+148,1783.0,John  Bucks,Margriet  Bucks
+149,1783.0,Philip  Blessing,Magdalena  Blessing
+150,1782.0,John  Blessing,Catharina  Blessing
+159,1788.0,Maximilian  Speidel,Barbara  Speidel
+167,1810.0,Robert  Carnicken,Maria  Carnicken
+169,1811.0,John  Schneider,Maria Magdalena Schneider
+171,1811.0,Mattheus  Sesseman,Esther  Sesseman
+172,1811.0,James M Christel,Catharina  Christel
+174,1812.0,John  Fromin,Magdalena  Fromin
+175,1812.0,John  Smith,Susannah  Smith
+177,1813.0,William  Hamilton,Margriet  Hamilton
+178,1813.0,William  Thompson,Hannah  Thompson
+179,1813.0,William  Thompson,Hannah  Thompson
+180,1813.0,William  Thompson,Hannah  Thompson
+181,1813.0,William  Thompson,Hannah  Thompson
+182,1813.0,William  Thompson,Hannah  Thompson
+183,1813.0,Henry  Haack,Magdalena  Haack
+184,1813.0,John  Fromin,Molly  Fromin
+185,1813.0,Jonathan  Miller,Maria  Miller
+186,1813.0,Jacob  Miller,Catharina  Miller
+187,1815.0,Adam  Carper,Catharina  Carper
+188,1815.0,George  Ellinger,Barbara  Ellinger
+189,1815.0,George  Ellinger,Barbara  Ellinger
+191,1815.0,Ludwig  Clopper,Barbara  Clopper
+195,1815.0,George  Grun,Nancy  Grun
+196,1815.0,George  Grun,Nancy  Grun
+197,1815.0,John  Schneider,Maria  Schneider
+207,1816.0,John  Fromin,Magdalena  Fromin
+209,1816.0,Michael  Wolz,Maria  Wolz
+214,1817.0,Christian  Blessing,Catharina  Blessing
+215,1817.0,Ludwig  Koppa,Barbara  Koppa
+217,1819.0,Robert  Cunningham,Maria  Cunningham
+218,1819.0,Charles  Grunden,Magdalena  Grunden
+221,1819.0,Adam  Koph,Nancy  Koph
+222,1819.0,Frederick  Blessing,Elizabeth  Blessing
+223,1819.0,Jacob  Camp,Margriet  Camp
+224,1819.0,John  Finney,Sara  Wolz
+226,1822.0,David  Camp,Barbara  Woltz
+0,1757.0,John Conrad Wolfley,Jacob  Lenz
+1,1757.0,John  Armbruster,George  Slener
+2,1757.0,Johannes  Deiss,George  Brumbach
+3,1757.0,Daniel  Braun,George  Schuz
+4,1758.0,Jacob  Lenz,Jacob  Schutz
+5,1758.0,Peter  Spengler,George  Bombach
+6,1758.0,John Henry Retzel,Philip  Fishburn
+7,1758.0,John  Braun,Michael  Fensel
+8,1758.0,William  Denn,Christofel  Mauz
+9,1758.0,John  Braun,Vincent  Kieffer
+10,1758.0,Philip  Genter,Philip  Fishburn
+11,1760.0,Philip  Genter,Peter  Gunther
+12,1752.0,Gottlieb David Ettle,Michael  Kessinger
+13,1755.0,Gottlieb David Ettle,Ulrich  Hubscher
+14,1757.0,Gottlieb David Ettle,Conrad  Wolffie
+15,1759.0,Gottlieb David Ettle,Philip  Fishburn
+17,1757.0,John  Wunderich,J Dietrich Morrell
+18,1757.0,Johannes  Leruh,John  Newcomer
+19,1757.0,Michael Huber Jr,Mattheus  Wenner
+20,1756.0,Frederick  Hummel,Simon  Bauer
+21,1758.0,Christian  Alleman,George  Fry
+22,1759.0,Chrisitan  Alleman,George  Fry
+23,1761.0,Christian  Alleman,George  Fry
+24,1756.0,Jacob  Albrecht,Franz  Newcome
+25,1758.0,Jacob  Albrecht,Philip  Parthemer
+26,1760.0,Jacob  Albrecht,Christofel  Shupp
+27,1761.0,Jacob  Albrecht,John Peter Gunter
+29,1767.0,Jacob  Albrecht,Mattheus  Stoll
+30,1758.0,John  Boresch,Philip  Gunther
+31,1760.0,John  Boresch,Philip  Fishburn
+33,1758.0,Michael  Gansle,Adam  Delker
+34,1758.0,Melchior  Flerspach,Christofel  Shupp
+35,1758.0,Frederick  Hummel,John Adam Keller
+36,17611761.0,Frederick  Hummel,Antoine  Blessing
+37,1758.0,Michael  Cassel,Frederick  Cassel
+39,1761.0,Michael  Cassel,Jacob  Leny
+40,1758.0,Jacob  Baumann,Geo  Gross
+41,1759.0,Conrad  Wolfley,J  Cassel
+42,1759.0,John  Deiss,J  Newcomer
+43,1759.0,Frederick  Forster,Witness Phillip Fisher
+44,1761.0,Frederick  Forster,Philip  Fisher
+45,1763.0,Frederick,Henry  Scheffer
+46,1759.0,Mattheus  Stoll,Maxim Hian Speidel
+47,1759.0,Joseph  Kernanne,Frederick  Morrell
+48,1761.0,Joseph  Gennanne,John  Corbin
+49,1765.0,Joseph  Kermanne,Henry  Ditzel
+50,1759.0,Ludwig  Trabler,Witness John Phillip Gunter
+52,1760.0,Christopher  Jesupp,Philip  Parthemer
+53,1759.0,Antoine  Blessle,Frederick  Hummel
+54,1762.0,Antoine  Blessle,Antoine  Hemperly
+55,1765.0,Antoine  Blessle,Antoine  Corbin
+56,1758.0,Michael  Bolty,Andrew  Viele
+57,1760.0,Michael  Bolty,Geo Jacob Bolty
+58,1759.0,John  Kristler,Frederick  Hummel
+59,1761.0,John  Kristler,Frederick  Hummel
+60,1760.0,Conrad  Wolfley,Jacob  Lenz
+61,1760.0,Michael  Dauckmann,John  Cassel
+62,1760.0,Philip  Fishburn,Philip  Bolty
+63,1760.0,Philip  Fishburn,Philip  Fishburn
+66,1760.0,Philip  Fishburn,John Peitrich Morrell
+67,1762.0,Philip  Fishburn,Peter  Uehler
+68,1762.0,Philip  Fishburn,Antoine  Ochler
+69,1765.0,Philip  Fishburn,Peter  Gunther
+70,1767.0,Philip  Fishburn,Henry  Ditzel
+71,1760.0,Henry  Mayer,Frederick  Cassel
+72,1760.0,Henry  Mayer,Nicholas  Cassel
+73,1760.0,Antoine  Kermanne,Philip  Fishburn
+74,1760.0,Antoine  Kermanne,Witness John Kermanne
+75,1766.0,Antoine  Kermanne,Antoine  Blessing
+76,1766.0,Antoine  Kermanne,John Martin Collmer
+78,1761.0,Mckallens,Ludwig  Traber
+79,1762.0,Jacob  Speidel,John Adam Schneider
+80,1767.0,Jacob  Speidel,Frederick  Stoll
+81,1770.0,Jacob  Speidel,Maximilian  Speidel
+82,1776.0,Jacob  Speidel,Peter  Bucks
+83,1777.0,Jacob  Speidel,Max  Speidel
+84,1779.0,Jacob  Speidel,Frederick  Stoll
+86,1761.0,Rudolph  Baab,Adam  Waler
+87,1761.0,John  Unschild,Jacob  Speidel
+88,1762.0,John  Unschild,Jacob  Speidel
+89,1766.0,John  Unschild,John  Goez
+90,1761.0,Nicholas  Staud,Frederick  Hummel
+91,1761.0,George John Weeber,John  Huber
+92,1761.0,Charles  Williams,John  Albrecht
+93,1761.0,Charles  Williams,Jacob  Burkhard
+94,1762.0,Jacob  Zeiter,Philip  Genter
+95,1727.0,Jacob  Zeiter,Jacob  Albrecht
+96,1760.0,Jacob  Zeiter,Wm  Stricker
+97,1762.0,Jacob  Zeiter,John  Boretsch
+98,1762.0,Frederick  Cassel,Jacob  Koenig
+99,1762.0,Frederick  Cassel,Michael  Cassel
+100,1762.0,Adam  Mayer,Frederick  Foster
+101,1762.0,Ludwig  Beel,Dietrich  Morrell
+102,1760.0,Ludwig  Beel,Ludwig  Beel
+103,1762.0,Antoine  Uehler,Philip  Fishburn
+104,1762.0,Jacob  Mater,John  Mater
+105,1763.0,Peter  Bucks,George  Bauer
+106,1763.0,Peter  Bucks,John  Deiss
+107,1763.0,George  Bauer,Frederick  Hummel
+108,1763.0,George  Bauer,Caspar
+109,1763.0,George  Bauer,John  Cassel
+110,1763.0,Joseph  Yoder,Peter  Pfannenkuchen
+111,1763.0,Henry  Ditzel,Philip  Fishburn
+112,1766.0,Henry  Ditzel,Philip  Fishburn
+113,1772.0,Henry  Ditzel,John  Kermanne
+114,1768.0,Henry  Ditzel,Philip  Fishburn
+115,1773.0,Henry  Ditzel,Jacob  Kettering
+116,1763.0,John  Kermanne,Henry  Ditzel
+117,1765.0,John  Kermanne,Michael  Kermanne
+118,1767.0,John  Kermanne,Antoine  Blessing
+119,1767.0,John  Kermanne,Antoine  Kermanne
+120,1766.0,John Henry Lampert,John Eberhard Kettering Catharine D
+121,1767.0,Nicholas  Bass,Michael  Deebler
+122,1771.0,Maximilian Speidel Jr,Frederick  Eberhard
+124,1773.0,Maximilian Speidel Jr,Jacob Bettering
+125,1776.0,Maximilian Speidel Jr,Peter  Bucks
+126,1778.0,Maximilian Speidel Jr,Jacob
+127,1779.0,Maximilian Speidel Jr,George  Fry
+128,1781.0,Maximilian Speidel Jr,Peter
+129,1773.0,Frederick  Stoll,Henry
+130,1773.0,Frederick  Stoll,Grandparents
+131,1774.0,Frederick  Stoll,Jacob
+133,1773.0,Henry  Krieger,Maria  Ditzel
+134,1773.0,Margriet  Fishburn,Henry
+135,1775.0,George  Shupp,John
+136,1779.0,George  Shupp,Christopher
+138,1782.0,George  Shupp,Christopher
+139,1775.0,Augustine  Stoll,William  Gross
+140,1776.0,David  Fromin,Maximilian  Jr
+141,1777.0,John George Bucks,Peter  Sr
+142,1777.0,John George Bucks,John
+143,1776.0,William  Crabb,Augustus
+144,1779.0,William  Crabb,Jacob
+145,1781.0,William  Crabb,Frederick
+146,1779.0,John  Bucks,Peter  Bucks
+147,1781.0,John  Bucks,Jacob  Book
+148,1783.0,John  Bucks,Peter  Bucks
+149,1783.0,Philip  Blessing,Antoine  Blessing
+150,1782.0,John  Blessing,Antoine  Blessing
+159,1788.0,Maximilian  Speidel,Augustus
+167,1810.0,Robert  Carnicken,Jacob
+169,1811.0,John  Schneider,John  Conrad
+171,1811.0,Mattheus  Sesseman,Witness Anna Maria Sesseman
+172,1811.0,James M Christel,Witness Christina Spring
+174,1812.0,John  Fromin,Witness Anna Bender
+175,1812.0,John  Smith,Michael  Woltz
+177,1813.0,William  Hamilton,Witness Anna Bender
+178,1813.0,William  Thompson,Witness Jacob Bucks
+179,1813.0,William  Thompson,Witness Dorothea James
+180,1813.0,William  Thompson,Witness Maria Bucks
+181,1813.0,William  Thompson,Witness Christina Spring
+182,1813.0,William  Thompson,Witness Christina Spring
+183,1813.0,Henry  Haack,Jacob  Bucks
+184,1813.0,John  Fromin,Witness Anna Bender
+185,1813.0,Jonathan  Miller,John
+186,1813.0,Jacob  Miller,Witness Anna Bender
+187,1815.0,Adam  Carper,Witness Sara Blessing
+188,1815.0,George  Ellinger,Witness Anna Maria Bucks
+189,1815.0,George  Ellinger,John  Bucks
+191,1815.0,Ludwig  Clopper,Witness Philipse Blessing
+195,1815.0,George  Grun,Witness Susan Speidel
+196,1815.0,George  Grun,Thomas
+197,1815.0,John  Schneider,Witness Elizabeth Conrad
+206,1816.0,Jacob  Miller,Witness Catharine Wolz
+207,1816.0,John  Fromin,John  Wals
+209,1816.0,Michael  Wolz,Michael
+214,1817.0,Christian  Blessing,Philip  Blessing
+215,1817.0,Ludwig  Koppa,Witness Christian Blessing
+217,1819.0,Robert  Cunningham,Witness Barbara Wolz
+218,1819.0,Charles  Grunden,Witness Barbara Wolz
+221,1819.0,Adam  Koph,Witness John Fromin
+222,1819.0,Frederick  Blessing,Witness Sara Wolz
+223,1819.0,Jacob  Camp,Witness Barbara Wolz
+224,1819.0,John  Finney,Witness Catharine Wolz
+226,1822.0,David  Camp,Witness Sara Wolz
+0,1757.0,John Conrad Wolfley,Wife Of Jacob Lenz
+1,1757.0,John  Armbruster,Wife Of George Slener
+2,1757.0,Johannes  Deiss,Wife Of George Brumbach
+4,1758.0,Jacob  Lenz,Wife Of Jacob Schutz
+5,1758.0,Peter  Spengler,Wife Of George Bombach
+6,1758.0,John Henry Retzel,Wife Of Philip Fishburn
+7,1758.0,John  Braun,Wife Of Michael Fensel
+8,1758.0,William  Denn,Wife Of Stoffel Mauz
+9,1758.0,John  Braun,Wife Of Vincent Kieffer
+10,1758.0,Philip  Genter,Wife Of Philip Fishburn
+11,1760.0,Philip  Genter,Wife Of Peter Gunther
+12,1752.0,Gottlieb David Ettle,Catharina Margaret Shaul
+13,1755.0,Gottlieb David Ettle,Wife Of Ulrich Hubscher
+14,1757.0,Gottlieb David Ettle,Wife Of Conrad Wolffie
+15,1759.0,Gottlieb David Ettle,Wife Of Philip Fishburn
+17,1757.0,John  Wunderich,Wife Of Johannes Dietrich Morrell
+18,1757.0,Johannes  Leruh,Wife Of John Newcomer
+19,1757.0,Michael Huber Jr,Wife Of Matthew Wenner
+20,1756.0,Frederick  Hummel,Eva  Oberline
+21,1758.0,Christian  Alleman,Wife Of George Fry
+22,1759.0,Chrisitan  Alleman,Wife Of George Fry
+23,1761.0,Christian  Alleman,Wife Of George Fry
+24,1756.0,Jacob  Albrecht,Wife Of Franz Newcome
+25,1758.0,Jacob  Albrecht,Anna Maria Uehler
+26,1760.0,Jacob  Albrecht,Wife Of Stoffel Shupp
+27,1761.0,Jacob  Albrecht,Wife Of John Peter Gunter
+29,1767.0,Jacob  Albrecht,Wife Of Matthew Stoll
+30,1758.0,John  Boresch,Wife Of Philip Gunther
+31,1760.0,John  Boresch,Wife Of Philip Fishburn
+33,1758.0,Michael  Gansle,Wife Of Adam Delker
+34,1758.0,Melchior  Flerspach,Wife Of Stoffel Shupp
+35,1758.0,Frederick  Hummel,Wife Of John Adam Keller
+36,17611761.0,Frederick  Hummel,Wife Of Anthony Blessing
+37,1758.0,Michael  Cassel,Anna  Weimer
+39,1761.0,Michael  Cassel,Wife Of Jacob Leny
+40,1758.0,Jacob  Baumann,Wife Of Geo Gross
+41,1759.0,Conrad  Wolfley,Wife Of Johannes Cassel
+42,1759.0,John  Deiss,Wife Of Johannes Newcomer
+44,1761.0,Frederick  Forster,Wife Of Philip Fisher
+45,1763.0,Frederick,Wife Of Henry Scheffer
+46,1759.0,Mattheus  Stoll,Wife Of Maxim Hian Speidel
+47,1759.0,Joseph  Kernanne,Wife Of Frederick Morrell
+48,1761.0,Joseph  Gennanne,Wife Of John Corbin
+49,1765.0,Joseph  Kermanne,Wife Of Henry Ditzel
+52,1760.0,Christopher  Jesupp,Wife Of Philip Parthemer
+53,1759.0,Antoine  Blessle,Wife Of Frederick Hummel
+54,1762.0,Antoine  Blessle,Wife Of Anthony Hemperly
+55,1765.0,Antoine  Blessle,Wife Of Anthony Corbin
+56,1758.0,Michael  Bolty,Wife Of Andrew Viele
+57,1760.0,Michael  Bolty,Catharina  Mayer
+58,1759.0,John  Kristler,Wife Of Frederick Hummel
+59,1761.0,John  Kristler,Wife Of Frederick Hummel
+60,1760.0,Conrad  Wolfley,Wife Of Jacob Lenz
+61,1760.0,Michael  Dauckmann,Wife Of John Cassel
+62,1760.0,Philip  Fishburn,Wife Of Philip Bolty
+63,1760.0,Philip  Fishburn,Wife Of Philip Fishburn
+66,1760.0,Philip  Fishburn,Wife Of John Peitrich Morrell
+67,1762.0,Philip  Fishburn,Maria  Hoffman
+68,1762.0,Philip  Fishburn,Wife Of Anthony Ochler
+69,1765.0,Philip  Fishburn,Wife Of Peter Gunther
+70,1767.0,Philip  Fishburn,Wife Of Henry Ditzel
+71,1760.0,Henry  Mayer,Magdalena  Kristler
+72,1760.0,Henry  Mayer,Anna Maria Scheffer
+73,1760.0,Antoine  Kermanne,Wife Of Philip Fishburn
+75,1766.0,Antoine  Kermanne,Wife Of Anthony Blessing
+76,1766.0,Antoine  Kermanne,Wife Of John Martin Collmer
+78,1761.0,Mckallens,Wife Of Ludwig Traber
+79,1762.0,Jacob  Speidel,Wife Of John Adam Schneider
+80,1767.0,Jacob  Speidel,Margriet  Speidel
+81,1770.0,Jacob  Speidel,Margriet  Speidel
+82,1776.0,Jacob  Speidel,Margriet  Bucks
+83,1777.0,Jacob  Speidel,Caroline  Speidel
+84,1779.0,Jacob  Speidel,Elizabeth  Stoll
+86,1761.0,Rudolph  Baab,Wife Of Adam Waler
+87,1761.0,John  Unschild,Elizabeth  Crabb
+88,1762.0,John  Unschild,Wife Of Jacob Speidel
+89,1766.0,John  Unschild,Chrisitan  Schumacher
+90,1761.0,Nicholas  Staud,Wife Of Frederick Hummel
+91,1761.0,George John Weeber,Susannah  Schey
+92,1761.0,Charles  Williams,Wife Of John Albrecht
+93,1761.0,Charles  Williams,Salome  Huber
+94,1762.0,Jacob  Zeiter,Wife Of Philip Ginter
+95,1727.0,Jacob  Zeiter,Wife Of Jacob Albrecht
+96,1760.0,Jacob  Zeiter,Wife Of William Stricker
+97,1762.0,Jacob  Zeiter,Wife Of John Boretsch
+98,1762.0,Frederick  Cassel,Anna Maria Kessinger
+99,1762.0,Frederick  Cassel,Wife Of Michael Cassel
+100,1762.0,Adam  Mayer,Wife Of Frederick Foster
+101,1762.0,Ludwig  Beel,Wife Of Dietrich Morrell
+102,1760.0,Ludwig  Beel,Wife Of Ludwig Beel
+103,1762.0,Antoine  Uehler,Wife Of Philip Fishburn
+104,1762.0,Jacob  Mater,Wife Of John Mater
+105,1763.0,Peter  Bucks,Wife Of George Weeber
+106,1763.0,Peter  Bucks,Wife Of John Deiss
+107,1763.0,George  Bauer,Wife Of Frederick Hummel
+108,1763.0,George  Bauer,Catharina  Earnest
+109,1763.0,George  Bauer,Wife Of John Cassel
+110,1763.0,Joseph  Yoder,Wife Of Peter Pfannenkuchen
+111,1763.0,Henry  Ditzel,Wife Of Philip Fishburn
+112,1766.0,Henry  Ditzel,Wife Of Philip Fishburn
+113,1772.0,Henry  Ditzel,Wife Of John Kermanne
+114,1768.0,Henry  Ditzel,Wife Of Philip Fishburn
+115,1773.0,Henry  Ditzel,Catharina  Weeber
+116,1763.0,John  Kermanne,Wife Of Henry Ditzel
+117,1765.0,John  Kermanne,Rebecca  Genther
+118,1767.0,John  Kermanne,Wife Of Anthony Blessing
+119,1767.0,John  Kermanne,Wife Of Anthony Kermanne
+120,1766.0,John Henry Lampert,Louisa  Ginther
+121,1767.0,Nicholas  Bass,Wife Of Michael Deebler
+122,1771.0,Maximilian Speidel Jr,Elizabeth  Eberhard
+124,1773.0,Maximilian Speidel Jr,Margriet  Speidel
+125,1776.0,Maximilian Speidel Jr,Margriet  Bucks
+126,1778.0,Maximilian Speidel Jr,Elizabeth  Speidel
+127,1779.0,Maximilian Speidel Jr,Catharina  Fry
+128,1781.0,Maximilian Speidel Jr,Margriet  Bucks
+129,1773.0,Frederick  Stoll,Maria  Fritz
+131,1774.0,Frederick  Stoll,Margriet  Bethring
+133,1773.0,Henry  Krieger,Wife Of Mr Ditzel
+134,1773.0,Margriet  Fishburn,Catharina  Ditzel
+135,1775.0,George  Shupp,Catharina  Parthemer
+136,1779.0,George  Shupp,Anna Margaret Shupp
+138,1782.0,George  Shupp,Rosina  Shupp
+139,1775.0,Augustine  Stoll,Catharina  Gross
+140,1776.0,David  Fromin,Catharina Barbara Speidel
+141,1777.0,John George Bucks,Margriet  Bucks
+142,1777.0,John George Bucks,Agnes  Daniels
+143,1776.0,William  Crabb,Anna  Stoll
+144,1779.0,William  Crabb,Elizabeth  Speidel
+145,1781.0,William  Crabb,Elizabeth  Stoll
+146,1779.0,John  Bucks,Wife Of Peter Bucks
+147,1781.0,John  Bucks,Elizabeth  Bauer
+148,1783.0,John  Bucks,Wife Of Peter Bucks
+149,1783.0,Philip  Blessing,Salome  Blessing
+150,1782.0,John  Blessing,Margriet  Kruger
+159,1788.0,Maximilian  Speidel,Anna  Stoll
+167,1810.0,Robert  Carnicken,Catharina  Miller
+169,1811.0,John  Schneider,Rosina  Conrad
+175,1812.0,John  Smith,Wife Of Michael Woltz
+183,1813.0,Henry  Haack,Wife Of Jacob Bucks
+185,1813.0,Jonathan  Miller,Elizabeth  Miller
+189,1815.0,George  Ellinger,Wife Of John Bucks
+196,1815.0,George  Grun,Susannah  Schmidt
+207,1816.0,John  Fromin,Wife Of John Wals
+209,1816.0,Michael  Wolz,Elizabeth  Wals
+214,1817.0,Christian  Blessing,Wife Of Philip Blessing
+4,1758.0,Jacob  Lenz,Anna Maria Lenz
+7,1758.0,John  Braun,George  Fry
+21,1758.0,Christian  Alleman,Nicholas  Stauch
+52,1760.0,Christopher  Jesupp,Frederick  Hummel
+117,1765.0,John  Kermanne,Peter  Genther
+7,1758.0,John  Braun,Wife Of George Fry
+21,1758.0,Christian  Alleman,Wife Of Nicholas Stauch
+52,1760.0,Christopher  Jesupp,Wife Of Frederick Hummel
+129,1773.0,Margriet Elizabeth Stoll,Henry
+130,1773.0,Margriet Elizabeth Stoll,Grandparents
+131,1774.0,Margriet Elizabeth Stoll,Jacob
+135,1775.0,Louisa  Shupp,John
+136,1779.0,Louisa  Shupp,Christopher
+138,1782.0,Louisa  Shupp,Christopher
+139,1775.0,Anna Elizabeth Stoll,William  Gross
+140,1776.0,Rosina  Fromin,Maximilian  Jr
+141,1777.0,Elizabeth  Bucks,Peter  Sr
+142,1777.0,Elizabeth  Bucks,John
+143,1776.0,Catharina  Crabb,Augustus
+144,1779.0,Catharina  Crabb,Jacob
+145,1781.0,Catharina  Crabb,Frederick
+146,1779.0,Margriet  Bucks,Peter  Bucks
+147,1781.0,Margriet  Bucks,Jacob  Book
+148,1783.0,Margriet  Bucks,Peter  Bucks
+149,1783.0,Magdalena  Blessing,Antoine  Blessing
+150,1782.0,Catharina  Blessing,Antoine  Blessing
+159,1788.0,Barbara  Speidel,Augustus
+167,1810.0,Maria  Carnicken,Jacob
+169,1811.0,Maria Magdalena Schneider,John  Conrad
+171,1811.0,Esther  Sesseman,Witness Anna Maria Sesseman
+172,1811.0,Catharina  Christel,Witness Christina Spring
+174,1812.0,Magdalena  Fromin,Witness Anna Bender
+175,1812.0,Susannah  Smith,Michael  Woltz
+177,1813.0,Margriet  Hamilton,Witness Anna Bender
+178,1813.0,Hannah  Thompson,Witness Jacob Bucks
+179,1813.0,Hannah  Thompson,Witness Dorothea James
+180,1813.0,Hannah  Thompson,Witness Maria Bucks
+181,1813.0,Hannah  Thompson,Witness Christina Spring
+182,1813.0,Hannah  Thompson,Witness Christina Spring
+183,1813.0,Magdalena  Haack,Jacob  Bucks
+184,1813.0,Molly  Fromin,Witness Anna Bender
+185,1813.0,Maria  Miller,John
+186,1813.0,Catharina  Miller,Witness Anna Bender
+187,1815.0,Catharina  Carper,Witness Sara Blessing
+188,1815.0,Barbara  Ellinger,Witness Anna Maria Bucks
+189,1815.0,Barbara  Ellinger,John  Bucks
+191,1815.0,Barbara  Clopper,Witness Philipse Blessing
+195,1815.0,Nancy  Grun,Witness Susan Speidel
+196,1815.0,Nancy  Grun,Thomas
+197,1815.0,Maria  Schneider,Witness Elizabeth Conrad
+207,1816.0,Magdalena  Fromin,John  Wals
+209,1816.0,Maria  Wolz,Michael
+214,1817.0,Catharina  Blessing,Philip  Blessing
+215,1817.0,Barbara  Koppa,Witness Christian Blessing
+217,1819.0,Maria  Cunningham,Witness Barbara Wolz
+218,1819.0,Magdalena  Grunden,Witness Barbara Wolz
+221,1819.0,Nancy  Koph,Witness John Fromin
+222,1819.0,Elizabeth  Blessing,Witness Sara Wolz
+223,1819.0,Margriet  Camp,Witness Barbara Wolz
+224,1819.0,Sara  Wolz,Witness Catharine Wolz
+226,1822.0,Barbara  Woltz,Witness Sara Wolz
+129,1773.0,Margriet Elizabeth Stoll,Maria  Fritz
+131,1774.0,Margriet Elizabeth Stoll,Margriet  Bethring
+135,1775.0,Louisa  Shupp,Catharina  Parthemer
+136,1779.0,Louisa  Shupp,Anna Margaret Shupp
+138,1782.0,Louisa  Shupp,Rosina  Shupp
+139,1775.0,Anna Elizabeth Stoll,Catharina  Gross
+140,1776.0,Rosina  Fromin,Catharina Barbara Speidel
+141,1777.0,Elizabeth  Bucks,Margriet  Bucks
+142,1777.0,Elizabeth  Bucks,Agnes  Daniels
+143,1776.0,Catharina  Crabb,Anna  Stoll
+144,1779.0,Catharina  Crabb,Elizabeth  Speidel
+145,1781.0,Catharina  Crabb,Elizabeth  Stoll
+146,1779.0,Margriet  Bucks,Wife Of Peter Bucks
+147,1781.0,Margriet  Bucks,Elizabeth  Bauer
+148,1783.0,Margriet  Bucks,Wife Of Peter Bucks
+149,1783.0,Magdalena  Blessing,Salome  Blessing
+150,1782.0,Catharina  Blessing,Margriet  Kruger
+159,1788.0,Barbara  Speidel,Anna  Stoll
+167,1810.0,Maria  Carnicken,Catharina  Miller
+169,1811.0,Maria Magdalena Schneider,Rosina  Conrad
+175,1812.0,Susannah  Smith,Wife Of Michael Woltz
+183,1813.0,Magdalena  Haack,Wife Of Jacob Bucks
+185,1813.0,Maria  Miller,Elizabeth  Miller
+189,1815.0,Barbara  Ellinger,Wife Of John Bucks
+196,1815.0,Nancy  Grun,Susannah  Schmidt
+207,1816.0,Magdalena  Fromin,Wife Of John Wals
+209,1816.0,Maria  Wolz,Elizabeth  Wals
+214,1817.0,Catharina  Blessing,Wife Of Philip Blessing
+0,1757.0,Jacob  Lenz,Wife Of Jacob Lenz
+1,1757.0,George  Slener,Wife Of George Slener
+2,1757.0,George  Brumbach,Wife Of George Brumbach
+4,1758.0,Jacob  Schutz,Wife Of Jacob Schutz
+5,1758.0,George  Bombach,Wife Of George Bombach
+6,1758.0,Philip  Fishburn,Wife Of Philip Fishburn
+7,1758.0,Michael  Fensel,Wife Of Michael Fensel
+8,1758.0,Christofel  Mauz,Wife Of Stoffel Mauz
+9,1758.0,Vincent  Kieffer,Wife Of Vincent Kieffer
+10,1758.0,Philip  Fishburn,Wife Of Philip Fishburn
+11,1760.0,Peter  Gunther,Wife Of Peter Gunther
+12,1752.0,Michael  Kessinger,Catharina Margaret Shaul
+13,1755.0,Ulrich  Hubscher,Wife Of Ulrich Hubscher
+14,1757.0,Conrad  Wolffie,Wife Of Conrad Wolffie
+15,1759.0,Philip  Fishburn,Wife Of Philip Fishburn
+17,1757.0,J Dietrich Morrell,Wife Of Johannes Dietrich Morrell
+18,1757.0,John  Newcomer,Wife Of John Newcomer
+19,1757.0,Mattheus  Wenner,Wife Of Matthew Wenner
+20,1756.0,Simon  Bauer,Eva  Oberline
+21,1758.0,George  Fry,Wife Of George Fry
+22,1759.0,George  Fry,Wife Of George Fry
+23,1761.0,George  Fry,Wife Of George Fry
+24,1756.0,Franz  Newcome,Wife Of Franz Newcome
+25,1758.0,Philip  Parthemer,Anna Maria Uehler
+26,1760.0,Christofel  Shupp,Wife Of Stoffel Shupp
+27,1761.0,John Peter Gunter,Wife Of John Peter Gunter
+28,1764.0,Antoine  Blessie,Wife Of Anthony Blessie
+29,1767.0,Mattheus  Stoll,Wife Of Matthew Stoll
+30,1758.0,Philip  Gunther,Wife Of Philip Gunther
+31,1760.0,Philip  Fishburn,Wife Of Philip Fishburn
+33,1758.0,Adam  Delker,Wife Of Adam Delker
+34,1758.0,Christofel  Shupp,Wife Of Stoffel Shupp
+35,1758.0,John Adam Keller,Wife Of John Adam Keller
+36,17611761.0,Antoine  Blessing,Wife Of Anthony Blessing
+37,1758.0,Frederick  Cassel,Anna  Weimer
+39,1761.0,Jacob  Leny,Wife Of Jacob Leny
+40,1758.0,Geo  Gross,Wife Of Geo Gross
+41,1759.0,J  Cassel,Wife Of Johannes Cassel
+42,1759.0,J  Newcomer,Wife Of Johannes Newcomer
+44,1761.0,Philip  Fisher,Wife Of Philip Fisher
+45,1763.0,Henry  Scheffer,Wife Of Henry Scheffer
+46,1759.0,Maxim Hian Speidel,Wife Of Maxim Hian Speidel
+47,1759.0,Frederick  Morrell,Wife Of Frederick Morrell
+48,1761.0,John  Corbin,Wife Of John Corbin
+49,1765.0,Henry  Ditzel,Wife Of Henry Ditzel
+51,1759.0,Frederick  Hummel,Wife Of Frederick Hummel
+52,1760.0,Philip  Parthemer,Wife Of Philip Parthemer
+53,1759.0,Frederick  Hummel,Wife Of Frederick Hummel
+54,1762.0,Antoine  Hemperly,Wife Of Anthony Hemperly
+55,1765.0,Antoine  Corbin,Wife Of Anthony Corbin
+56,1758.0,Andrew  Viele,Wife Of Andrew Viele
+57,1760.0,Geo Jacob Bolty,Catharina  Mayer
+58,1759.0,Frederick  Hummel,Wife Of Frederick Hummel
+59,1761.0,Frederick  Hummel,Wife Of Frederick Hummel
+60,1760.0,Jacob  Lenz,Wife Of Jacob Lenz
+61,1760.0,John  Cassel,Wife Of John Cassel
+62,1760.0,Philip  Bolty,Wife Of Philip Bolty
+63,1760.0,Philip  Fishburn,Wife Of Philip Fishburn
+65,1760.0,Ludovicus  Bolty,Wife Of Ludovicus Bolty
+66,1760.0,John Peitrich Morrell,Wife Of John Peitrich Morrell
+67,1762.0,Peter  Uehler,Maria  Hoffman
+68,1762.0,Antoine  Ochler,Wife Of Anthony Ochler
+69,1765.0,Peter  Gunther,Wife Of Peter Gunther
+70,1767.0,Henry  Ditzel,Wife Of Henry Ditzel
+71,1760.0,Frederick  Cassel,Magdalena  Kristler
+72,1760.0,Nicholas  Cassel,Anna Maria Scheffer
+73,1760.0,Philip  Fishburn,Wife Of Philip Fishburn
+75,1766.0,Antoine  Blessing,Wife Of Anthony Blessing
+76,1766.0,John Martin Collmer,Wife Of John Martin Collmer
+77,1761.0,Philip  Fishburn,Wife Of Philip Fishburn
+78,1761.0,Ludwig  Traber,Wife Of Ludwig Traber
+79,1762.0,John Adam Schneider,Wife Of John Adam Schneider
+80,1767.0,Frederick  Stoll,Margriet  Speidel
+81,1770.0,Maximilian  Speidel,Margriet  Speidel
+82,1776.0,Peter  Bucks,Margriet  Bucks
+83,1777.0,Max  Speidel,Caroline  Speidel
+84,1779.0,Frederick  Stoll,Elizabeth  Stoll
+85,1782.0,Maximilian  Speidel,Barbara  Speidel
+86,1761.0,Adam  Waler,Wife Of Adam Waler
+87,1761.0,Jacob  Speidel,Elizabeth  Crabb
+88,1762.0,Jacob  Speidel,Wife Of Jacob Speidel
+89,1766.0,John  Goez,Chrisitan  Schumacher
+90,1761.0,Frederick  Hummel,Wife Of Frederick Hummel
+91,1761.0,John  Huber,Susannah  Schey
+92,1761.0,John  Albrecht,Wife Of John Albrecht
+93,1761.0,Jacob  Burkhard,Salome  Huber
+94,1762.0,Philip  Genter,Wife Of Philip Ginter
+95,1727.0,Jacob  Albrecht,Wife Of Jacob Albrecht
+96,1760.0,Wm  Stricker,Wife Of William Stricker
+97,1762.0,John  Boretsch,Wife Of John Boretsch
+98,1762.0,Jacob  Koenig,Anna Maria Kessinger
+99,1762.0,Michael  Cassel,Wife Of Michael Cassel
+100,1762.0,Frederick  Foster,Wife Of Frederick Foster
+101,1762.0,Dietrich  Morrell,Wife Of Dietrich Morrell
+102,1760.0,Ludwig  Beel,Wife Of Ludwig Beel
+103,1762.0,Philip  Fishburn,Wife Of Philip Fishburn
+104,1762.0,John  Mater,Wife Of John Mater
+105,1763.0,George  Bauer,Wife Of George Weeber
+106,1763.0,John  Deiss,Wife Of John Deiss
+107,1763.0,Frederick  Hummel,Wife Of Frederick Hummel
+108,1763.0,Caspar,Catharina  Earnest
+109,1763.0,John  Cassel,Wife Of John Cassel
+110,1763.0,Peter  Pfannenkuchen,Wife Of Peter Pfannenkuchen
+111,1763.0,Philip  Fishburn,Wife Of Philip Fishburn
+112,1766.0,Philip  Fishburn,Wife Of Philip Fishburn
+113,1772.0,John  Kermanne,Wife Of John Kermanne
+114,1768.0,Philip  Fishburn,Wife Of Philip Fishburn
+115,1773.0,Jacob  Kettering,Catharina  Weeber
+116,1763.0,Henry  Ditzel,Wife Of Henry Ditzel
+117,1765.0,Michael  Kermanne,Rebecca  Genther
+118,1767.0,Antoine  Blessing,Wife Of Anthony Blessing
+119,1767.0,Antoine  Kermanne,Wife Of Anthony Kermanne
+120,1766.0,John Eberhard Kettering Catharine D,Louisa  Ginther
+121,1767.0,Michael  Deebler,Wife Of Michael Deebler
+122,1771.0,Frederick  Eberhard,Elizabeth  Eberhard
+123,1772.0,Maximilian Speidel Sr,Margriet  Speidel
+124,1773.0,Jacob Bettering,Margriet  Speidel
+125,1776.0,Peter  Bucks,Margriet  Bucks
+126,1778.0,Jacob,Elizabeth  Speidel
+127,1779.0,George  Fry,Catharina  Fry
+128,1781.0,Peter,Margriet  Bucks
+129,1773.0,Henry,Maria  Fritz
+131,1774.0,Jacob,Margriet  Bethring
+133,1773.0,Maria  Ditzel,Wife Of Mr Ditzel
+134,1773.0,Henry,Catharina  Ditzel
+135,1775.0,John,Catharina  Parthemer
+136,1779.0,Christopher,Anna Margaret Shupp
+138,1782.0,Christopher,Rosina  Shupp
+139,1775.0,William  Gross,Catharina  Gross
+140,1776.0,Maximilian  Jr,Catharina Barbara Speidel
+141,1777.0,Peter  Sr,Margriet  Bucks
+142,1777.0,John,Agnes  Daniels
+143,1776.0,Augustus,Anna  Stoll
+144,1779.0,Jacob,Elizabeth  Speidel
+145,1781.0,Frederick,Elizabeth  Stoll
+146,1779.0,Peter  Bucks,Wife Of Peter Bucks
+147,1781.0,Jacob  Book,Elizabeth  Bauer
+148,1783.0,Peter  Bucks,Wife Of Peter Bucks
+149,1783.0,Antoine  Blessing,Salome  Blessing
+150,1782.0,Antoine  Blessing,Margriet  Kruger
+152,1787.0,John Peter Bucks,Wife Of John Peter Bucks
+159,1788.0,Augustus,Anna  Stoll
+167,1810.0,Jacob,Catharina  Miller
+169,1811.0,John  Conrad,Rosina  Conrad
+175,1812.0,Michael  Woltz,Wife Of Michael Woltz
+183,1813.0,Jacob  Bucks,Wife Of Jacob Bucks
+185,1813.0,John,Elizabeth  Miller
+189,1815.0,John  Bucks,Wife Of John Bucks
+196,1815.0,Thomas,Susannah  Schmidt
+207,1816.0,John  Wals,Wife Of John Wals
+209,1816.0,Michael,Elizabeth  Wals
+214,1817.0,Philip  Blessing,Wife Of Philip Blessing
+4,1758.0,Jacob  Schutz,Anna Maria Lenz
+7,1758.0,Michael  Fensel,George  Fry
+21,1758.0,George  Fry,Nicholas  Stauch
+51,1759.0,Frederick  Hummel,Philip  Parthemer
+52,1760.0,Philip  Parthemer,Frederick  Hummel
+85,1782.0,Maximilian  Speidel,Philip  Blessing
+117,1765.0,Michael  Kermanne,Peter  Genther
+7,1758.0,Michael  Fensel,Wife Of George Fry
+21,1758.0,George  Fry,Wife Of Nicholas Stauch
+51,1759.0,Frederick  Hummel,Wife Of Philip Parthemer
+52,1760.0,Philip  Parthemer,Wife Of Frederick Hummel
+85,1782.0,Maximilian  Speidel,Magdalena  Speidel
+4,1758.0,Wife Of Jacob Schutz,Anna Maria Lenz
+7,1758.0,Wife Of Michael Fensel,George  Fry
+21,1758.0,Wife Of George Fry,Nicholas  Stauch
+51,1759.0,Wife Of Frederick Hummel,Philip  Parthemer
+52,1760.0,Wife Of Philip Parthemer,Frederick  Hummel
+85,1782.0,Barbara  Speidel,Philip  Blessing
+117,1765.0,Rebecca  Genther,Peter  Genther
+7,1758.0,Wife Of Michael Fensel,Wife Of George Fry
+21,1758.0,Wife Of George Fry,Wife Of Nicholas Stauch
+51,1759.0,Wife Of Frederick Hummel,Wife Of Philip Parthemer
+52,1760.0,Wife Of Philip Parthemer,Wife Of Frederick Hummel
+85,1782.0,Barbara  Speidel,Magdalena  Speidel
+7,1758.0,George  Fry,Wife Of George Fry
+21,1758.0,Nicholas  Stauch,Wife Of Nicholas Stauch
+51,1759.0,Philip  Parthemer,Wife Of Philip Parthemer
+52,1760.0,Frederick  Hummel,Wife Of Frederick Hummel
+85,1782.0,Philip  Blessing,Magdalena  Speidel
