@@ -1,0 +1,82 @@
+[
+ {
+   "congregation": "pa-aaronsberg-lutheran",
+   "name": "Aaronsberg PA Lutheran",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-aaronsberg-lutheran/pa-aaronsberg-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.89869,
+   "longitude": -77.456184
+ },
+ {
+   "congregation": "pa-canadochly-lutheran",
+   "name": "Canadochly PA Lutheran",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-canadochly-lutheran/pa-canadochly-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.902496,
+   "longitude": -77.833451
+ },
+ {
+   "congregation": "pa-derry-lutheran",
+   "name": "Derry PA Lutheran",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-derry-lutheran/pa-derry-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.334,
+   "longitude": -79.2998
+ },
+ {
+   "congregation": "pa-egypt-grc",
+   "name": "Egypt PA German Reformed",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-egypt-grc/pa-egypt-grc_network.json",
+   "denomination": "german reformed",
+   "latitude": 40.680096,
+   "longitude": -75.529907
+ },
+ {
+   "congregation": "pa-himmel-lutheran",
+   "name": "Himmel PA Lutheran",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-himmel-lutheran/pa-himmel-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.7231,
+   "longitude": -76.737
+ },
+ {
+   "congregation": "pa-howerters-grc",
+   "name": "Howerters PA German Reformed",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-howerters-grc/pa-howerters-grc_network.json",
+   "denomination": "german reformed",
+   "latitude": 39.78969,
+   "longitude": -76.977984
+ },
+ {
+   "congregation": "pa-macungie-lutheran",
+   "name": "Macungie PA Lutheran",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-macungie-lutheran/pa-macungie-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.517851,
+   "longitude": -75.565028
+ },
+ {
+   "congregation": "pa-philadelphia-grc",
+   "name": "Philadelphia German Reformed",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-philadelphia-grc/pa-philadelphia-grc_network.json",
+   "denomination": "german reformed",
+   "latitude": 39.9526,
+   "longitude": -75.1652
+ },
+ {
+   "congregation": "pa-schuykill-dunkels-lutheran",
+   "name": "Schuykill PA Lutheran",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-schuykill-dunkels-lutheran/pa-schuykill-dunkels-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.902496,
+   "longitude": -77.833451
+ },
+ {
+   "congregation": "va-peakedmountain-union",
+   "name": "Peaked Mountain VA Union",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/va-peakedmountain-union/va-peakedmountain-union_network.json",
+   "denomination": "union",
+   "latitude": 36.577931,
+   "longitude": -76.035763
+ }
+]
