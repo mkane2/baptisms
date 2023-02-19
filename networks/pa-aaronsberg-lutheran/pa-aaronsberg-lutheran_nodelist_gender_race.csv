@@ -1,0 +1,316 @@
+id,name,gender,race
+0,Daniel  Mosser,male,white
+1,Magdalena Magdalena Mosser,female,white
+2,Wilhelm  Sanerwein,male,white
+3,Elizabeth Margaret Daniels,female,white
+4,George  Humelong,male,white
+5,Elizabeth Anna Maria Humelong,female,white
+6,Martin  Rishel,male,white
+7,Catharina  Jonathan,female,white
+8,David  Weber,male,white
+9,Eva George Michnel,female,white
+10,John  Brown,male,white
+11,Eva Maria Margaretha Brown,female,white
+12,Henry  Diel,male,white
+13,Rebecca  Hennrick,female,white
+14,Adam  Rishel,male,white
+15,Elizabeth  Salome,female,white
+16,Frederick  Hennig,male,white
+17,Elizabeth  Wilhelm,female,white
+18,Philip  Frank,male,white
+19,Nicol Susanna Dormeyer,female,white
+20,Philip  Diel,male,white
+21,Anna Maria Fredericksz,female,white
+22,Jeremiah  Trautner,male,white
+23,Elizabeth  Trautner,female,white
+24,Johannes  Heple,male,white
+25,Elis  Wilhelm,male,white
+26,Johannes  Freyberger,male,white
+27,Elizabeth  Freyberger,female,white
+28,Philip  Mosser,male,white
+29,Maria Barbara Mosser,female,white
+30,Johannes  Motz,male,white
+31,Susanna  Motz,female,white
+32,Peter  Heckman,male,white
+33,Salome  Heckman,female,white
+34,Conrad  Dielman,male,white
+35,Catharina  Dielman,female,white
+36,Leonhart  Willeman,male,white
+37,Margeret Elizabeth Willeman,unknown,white
+38,Martin  Troester,male,white
+39,Christina  Troester,female,white
+40,Nicol  Mokel,female,white
+41,Johannes  Criechbaum,male,white
+42,Johannes  Herr,male,white
+43,Anna Maria 13,female,white
+44,Catharina  13,female,white
+45,Adam  Zlingler,male,white
+46,Margriet  13,female,white
+47,Frederick  Stober,male,white
+48,Adam  Jaerg,male,white
+49,Maria  Elizabeth,female,white
+50,Salome  13,female,white
+51,Henry  Werhing,male,white
+52,Georg  13,male,white
+53,Adam  Stober,male,white
+54,Dan  Miller,male,white
+55,Daniel  Kreamer,male,white
+56,Georg  Pontius,male,white
+57,Jacob  Miller,male,white
+58,Georg  Bayer,male,white
+59,Johannes  Schuck,male,white
+60,Barbara  13,female,white
+61,Georg  Baursohs,male,white
+62,Jacob  Weber,male,white
+63,Maria Elizabeth Barbara Herr,female,white
+64,Margriet Elizabeth Barbara,female,white
+65,Anna Magdalena Stober,female,white
+66,Susanna Catherine Miller,female,white
+67,Margriet Catherine Pontius,female,white
+68,Catharina  Huber,female,white
+69,Rosina Christina Bayer,female,white
+70,Maria  Mosser,female,white
+71,Johnannes  Stober,unknown,white
+72,Maria Magdalena Stober,female,white
+73,Philip  Gunkel,male,white
+74,Elizabeth  Gunkel,female,white
+75,Henry  Herper,male,white
+76,Eva Catherine Herper,female,white
+77,Geo Adam Hans,male,white
+78,Maria Margaretha Hans,female,white
+79,Joh  Miller,male,white
+80,Anna Maria Miller,female,white
+81,Adam  Leidig,male,white
+82,Catharina  Leidig,female,white
+83,Adam  Klinger,male,white
+84,Catharina  Klinger,female,white
+85,Benjamin  Ried,male,white
+86,Catharina  Ried,female,white
+87,Christina  Stober,female,white
+88,Jacob  Brown,male,white
+89,Eva Joh Philips,female,white
+90,Eva  Valentine,female,white
+91,Elizabeth  Stober,female,white
+92,Eva Sara Weber,female,white
+93,John  Weber,male,white
+94,Eva  Adam,female,white
+95,John  Mitshel,male,white
+96,Salome  Mitshel,female,white
+97,Johannes  Spengler,male,white
+98,Elizabeth  Spengler,female,white
+99,David  Miller,male,white
+100,Susanna  Miller,female,white
+101,Thomas  Falket,male,white
+102,Michael  Ried,male,white
+103,Henry  Geistweith,male,white
+104,George  Wolf,male,white
+105,Nicholas  Mokel,male,white
+106,Philip  Anman,male,white
+107,Nicol  Emmerick,female,white
+108,Geo  Trautner,male,white
+109,Michael  Mos,male,white
+110,Elizabeth Margaretha Georgin,female,white
+111,Geo  Pontius,male,white
+112,Johannes  Stober,male,white
+113,Fried  Stober,male,white
+114,Georg  Hess,male,white
+115,Nicol  Weber,female,white
+116,Michael  Weber,male,white
+117,Chris  Henry,male,white
+118,Magdalena  13,female,white
+119,Susanna  13,female,white
+120,Elizabeth Margaretha Geistweith,female,white
+121,Magdalena Christina Wolf,female,white
+122,Elizabeth Salome Heckman,female,white
+123,Barbara Maria Magdalena Stober,female,white
+124,Elizabeth Barbara Emmerick,female,white
+125,Elizabeth Margaretha Trautner,female,white
+126,Catharina Barbara Mos,female,white
+127,Eva Agatha Weber,female,white
+128,Christina Julianna Stober,female,white
+129,Maria Julianna Pontius,female,white
+130,Maria Christina Barbara Stober,female,white
+131,Maria Magdalena Anna Stober,female,white
+132,Catharina  Gunkel,female,white
+133,Maria  Gronigee,female,white
+134,Juliana Barbara Weber,female,white
+135,Catharina Elizabeth Weber,female,white
+136,Judith Barbara Henry,female,white
+137,Elizabeth Catherine Weber,female,white
+138,Elizabeth  Sauerwein,female,white
+139,Christian  Espig,male,white
+140,Margriet Elizabeth Espig,female,white
+141,Fried  Stroh,male,white
+142,Elizabeth  Stroh,female,white
+143,Maria Susanna Franks,female,white
+144,Henry  Krebs,male,white
+145,Laria  Krebs,unknown,white
+146,Philip  Theobold,male,white
+147,Eva  Theobold,female,white
+148,Jacob  Kepler,male,white
+149,Catharina  Kepler,female,white
+150,Catharina  Stober,female,white
+151,George  Nies,male,white
+152,Salome  Nies,female,white
+153,Adam  Ceho,male,white
+154,Catharina Geo Michaels,female,white
+155,Johannes  Michel,male,white
+156,Rachel  Michel,female,white
+157,Adam  Huber,male,white
+158,Eva  Jonathan,female,white
+159,Christian  Krebs,male,white
+160,Margriet  Krebs,female,white
+161,Flint  Berner,unknown,white
+162,Elizabeth  Berner,female,white
+163,Georg  Icheler,male,white
+164,Elizabeth  Icheler,female,white
+165,Philip  Nies,male,white
+166,Barbara  Jacob,female,white
+167,Daniel  Waldenberger,male,white
+168,Catharina  Waldenberger,female,white
+169,Georg  Brecht,male,white
+170,Sophia  Brecht,female,white
+171,Frederick  Kroh,male,white
+172,Susanna  Jacobs,female,white
+173,Georg  Frank,male,white
+174,Hendrick  Herb,male,white
+175,Christina  Krebs,female,white
+176,John  Vandusten,male,white
+177,Caspar  Emmerick,male,white
+178,Ludwig  Kreamer,male,white
+179,Jacob  Kranter,male,white
+180,David  Strom,male,white
+181,Michael  Gerk,male,white
+182,Christina  13,female,white
+183,Jacob  Mark,male,white
+184,Adam  Herper,male,white
+185,Christian  Schnieder,male,white
+186,Joh Wm Pontius,male,white
+187,John  Willeman,male,white
+188,Jacob  Schreyer,male,white
+189,Catharina Weber Christina,female,white
+190,Johannes  Dunkle,male,white
+191,Michael  Presler,male,white
+192,Jacob  Schaefer,male,white
+193,Geo Mic Trautner,male,white
+194,Johannes  Leidig,male,white
+195,George  Hetzler,male,white
+196,Balthazar  Hetzler,unknown,white
+197,Geo  Baursohs,male,white
+198,Hendrick  Vonoedy,male,white
+199,Adam  Bahmer,male,white
+200,Anthonius  Rehrig,male,white
+201,Adam  Klingler,male,white
+202,Henrich  Krebs,male,white
+203,Henrich  Gansert,male,white
+204,Andries  Haerter,male,white
+205,Barbara Boyer Elizabeth,female,white
+206,Michael  Kreamer,male,white
+207,Jacob  Stober,male,white
+208,Georg  Wurtemberger,male,white
+209,Elizabeth  13,female,white
+210,Geo  Schwartz,male,white
+211,Jacob  Hennig,male,white
+212,Ludwig  Thornmeier,male,white
+213,Margare  13,unknown,white
+214,Christina Eva Franklin Herb,female,white
+215,Laria  Stober,unknown,white
+216,Elizabeth Barbara Christina Emmerick,female,white
+217,Elis Salome Heckman,male,white
+218,Elizabeth Magdalena Kranter,female,white
+219,Susanna  Strom,female,white
+220,Magdalena Philillina Herper,female,white
+221,Catharina  Miller,female,white
+222,Margriet Magd Schuck,female,white
+223,Barbara Anna Margaretha Trautner,female,white
+224,Elizabeth  Strom,female,white
+225,Magdalena Catherine Miller,female,white
+226,Elizabeth Barbara Nies,female,white
+227,Magdalena Maria Dunkelberger,female,white
+228,Margriet Susanna Schaefer,female,white
+229,Margriet  Trautner,female,white
+230,Christina Catha Leidig,female,white
+231,Cathe Christina Hetzler,unknown,white
+232,Judith Rosina Baursohs,female,white
+233,Catharina Elizabeth Waldenberger,female,white
+234,Catharina  Frank,female,white
+235,Barbara Margaretha Klingler,female,white
+236,Anna Maria Margaretha Krebs,female,white
+237,Barbara Elizabeth Gansert,female,white
+238,Christina Margaretha Kreamer,female,white
+239,Christina Salome Leidig,female,white
+240,Eva Susanna Schwartz,female,white
+241,Eva Elizabeth Hennig,female,white
+242,Gertrant  Bayer,unknown,white
+243,Jacob  Herring,male,white
+244,Eva  Georg,female,white
+245,Jacob  Albrecht,male,white
+246,Cathe  Jacob,unknown,white
+247,Geo  Wolf,male,white
+248,Christina Sara Wolf,female,white
+249,Ludwig  Willgen,male,white
+250,Anna Barbara Christina Willgen,female,white
+251,Michael  Hess,male,white
+252,Cathe  Michaels,unknown,white
+253,Jacob  Hettinger,male,white
+254,Eva Maria Hettinger,female,white
+255,Peter  Nies,male,white
+256,Christina  Nies,female,white
+257,Michael  Knoll,male,white
+258,Susanna Anna Catharine Knoll,female,white
+259,Gertrant Christina Bayer,unknown,white
+260,Georg  Kister,male,white
+261,Juliana  Henrich,female,white
+262,James  Schip,male,white
+263,Catharina Magdalena Schip,female,white
+264,George  Weis,male,white
+265,Susanna Catherine Weis,female,white
+266,Nicholas  Vanlotten,male,white
+267,Christina  Vanlotten,female,white
+268,Joh  Stober,male,white
+269,Christina  Johannes,female,white
+270,Jacob  Wnest,male,white
+271,Catharina  Sarah,female,white
+272,Johannes  Kern,male,white
+273,Eliza  Christopher,female,white
+274,Antony  Wolf,male,white
+275,Valentyn  Britsch,male,white
+276,Johannes  Weber,male,white
+277,Philip  Danner,male,white
+278,Andries  Feller,male,white
+279,John  Weis,male,white
+280,Joh Mic Mogel,male,white
+281,Balthazar  Hetzel,unknown,white
+282,Joh Jacob Hosterman,male,white
+283,Adam  Kliger,male,white
+284,Catharina  Schoefein,female,white
+285,Henrich  13,male,white
+286,Magdalena  Hellmanin,female,white
+287,Joh  Herper,male,white
+288,Joh  Leidig,male,white
+289,Joh  Criechbaum,male,white
+290,Abraham  Miller,male,white
+291,Geo  Hetzel,male,white
+292,Philip  Gechel,male,white
+293,Christopher  Emmerick,male,white
+294,Jacob  Mosser,male,white
+295,Mattheus  Beuck,male,white
+296,Maria Catherine Britsch,female,white
+297,Juliana Margaretha Stober,female,white
+298,Maria  Danner,female,white
+299,Caroline Lotz Feller,female,white
+300,Christina  Bayer,female,white
+301,Eva  Weis,female,white
+302,Eva Rosina Catherine Pontius,female,white
+303,Elizabeth  Mogel,female,white
+304,Christina Eva Margaretha Weber,female,white
+305,Margriet Eliza Kliger,female,white
+306,Eva  13,female,white
+307,Catharina  Herper,female,white
+308,Catharina Anna Maria Leidig,female,white
+309,Eva  Weber,female,white
+310,Maria Magdalena Bayer,female,white
+311,Maria Eliza Criechbaum,female,white
+312,Catharina  Hetzel,female,white
+313,Catharina  Emmerick,female,white
+314,Margriet Christina Beuck,female,white
