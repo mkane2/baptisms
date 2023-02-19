@@ -1,0 +1,362 @@
+id,name,gender,race
+0,Jacob  Zeiter,male,white
+1,Jacob  Albrecht,male,white
+2,Wife Of Jacob Albrecht,female,white
+3,Gottlieb David Ettle,male,white
+4,Michael  Kessinger,male,white
+5,Catharina Margaret Shaul,female,white
+6,Ulrich  Hubscher,male,white
+7,Wife Of Ulrich Hubscher,female,white
+8,Frederick  Hummel,male,white
+9,Simon  Bauer,male,white
+10,Franz  Newcome,male,white
+11,Eva  Oberline,female,white
+12,Wife Of Franz Newcome,female,white
+13,John Conrad Wolfley,male,white
+14,Jacob  Lenz,male,white
+15,John  Armbruster,male,white
+16,George  Slener,male,white
+17,Johannes  Deiss,male,white
+18,George  Brumbach,male,white
+19,Daniel  Braun,male,white
+20,George  Schuz,male,white
+21,Conrad  Wolffie,male,white
+22,John  Wunderich,male,white
+23,J Dietrich Morrell,unknown,white
+24,Johannes  Leruh,male,white
+25,John  Newcomer,male,white
+26,Michael Huber Jr,male,white
+27,Mattheus  Wenner,male,white
+28,Wife Of Jacob Lenz,female,white
+29,Wife Of George Slener,female,white
+30,Wife Of George Brumbach,female,white
+31,Wife Of Conrad Wolffie,female,white
+32,Wife Of Johannes Dietrich Morrell,female,white
+33,Wife Of John Newcomer,female,white
+34,Wife Of Matthew Wenner,female,white
+35,Jacob  Schutz,male,white
+36,Peter  Spengler,male,white
+37,George  Bombach,male,white
+38,John Henry Retzel,male,white
+39,Philip  Fishburn,male,white
+40,John  Braun,male,white
+41,Michael  Fensel,male,white
+42,William  Denn,male,white
+43,Christofel  Mauz,male,white
+44,Vincent  Kieffer,male,white
+45,Philip  Genter,male,white
+46,Christian  Alleman,male,white
+47,George  Fry,male,white
+48,Philip  Parthemer,male,white
+49,John  Boresch,male,white
+50,Philip  Gunther,male,white
+51,Michael  Gansle,male,white
+52,Adam  Delker,male,white
+53,Melchior  Flerspach,male,white
+54,Christofel  Shupp,male,white
+55,John Adam Keller,male,white
+56,Michael  Cassel,male,white
+57,Frederick  Cassel,male,white
+58,Jacob  Baumann,male,white
+59,Geo  Gross,male,white
+60,Michael  Bolty,male,white
+61,Andrew  Viele,male,white
+62,Wife Of Jacob Schutz,female,white
+63,Wife Of George Bombach,female,white
+64,Wife Of Philip Fishburn,female,white
+65,Wife Of Michael Fensel,female,white
+66,Wife Of Stoffel Mauz,female,white
+67,Wife Of Vincent Kieffer,female,white
+68,Wife Of George Fry,female,white
+69,Anna Maria Uehler,female,white
+70,Wife Of Philip Gunther,female,white
+71,Wife Of Adam Delker,female,white
+72,Wife Of Stoffel Shupp,female,white
+73,Wife Of John Adam Keller,female,white
+74,Anna  Weimer,female,white
+75,Wife Of Geo Gross,female,white
+76,Wife Of Andrew Viele,female,white
+77,Anna Maria Lenz,female,white
+78,Nicholas  Stauch,male,white
+79,Wife Of Nicholas Stauch,female,white
+80,Chrisitan  Alleman,unknown,white
+81,Conrad  Wolfley,male,white
+82,J  Cassel,unknown,white
+83,John  Deiss,male,white
+84,J  Newcomer,unknown,white
+85,Frederick  Forster,male,white
+86,Witness Phillip Fisher,unknown,white
+87,Mattheus  Stoll,male,white
+88,Maxim Hian Speidel,male,white
+89,Joseph  Kernanne,male,white
+90,Frederick  Morrell,male,white
+91,Ludwig  Trabler,male,white
+92,Witness John Phillip Gunter,unknown,white
+93,Antoine  Blessle,male,white
+94,John  Kristler,male,white
+95,Wife Of Johannes Cassel,female,white
+96,Wife Of Johannes Newcomer,female,white
+97,Wife Of Maxim Hian Speidel,female,white
+98,Wife Of Frederick Morrell,female,white
+99,Wife Of Frederick Hummel,female,white
+100,Wife Of Philip Parthemer,female,white
+101,Peter  Gunther,male,white
+102,Christopher  Jesupp,male,white
+103,Geo Jacob Bolty,male,white
+104,Michael  Dauckmann,male,white
+105,John  Cassel,male,white
+106,Philip  Bolty,male,white
+107,John Peitrich Morrell,male,white
+108,Henry  Mayer,male,white
+109,Nicholas  Cassel,male,white
+110,Antoine  Kermanne,male,white
+111,Witness John Kermanne,unknown,white
+112,Wm  Stricker,unknown,white
+113,Ludwig  Beel,male,white
+114,Wife Of Peter Gunther,female,white
+115,Catharina  Mayer,female,white
+116,Wife Of John Cassel,female,white
+117,Wife Of Philip Bolty,female,white
+118,Wife Of John Peitrich Morrell,female,white
+119,Magdalena  Kristler,female,white
+120,Anna Maria Scheffer,female,white
+121,Wife Of William Stricker,female,white
+122,Wife Of Ludwig Beel,female,white
+123,Ludovicus  Bolty,male,white
+124,Wife Of Ludovicus Bolty,female,white
+125,John Peter Gunter,male,white
+126,Jacob  Leny,male,white
+127,Philip  Fisher,male,white
+128,Joseph  Gennanne,male,white
+129,John  Corbin,male,white
+130,Mckallens,unknown,white
+131,Ludwig  Traber,male,white
+132,Rudolph  Baab,male,white
+133,Adam  Waler,male,white
+134,John  Unschild,male,white
+135,Jacob  Speidel,male,white
+136,Nicholas  Staud,male,white
+137,George John Weeber,male,white
+138,John  Huber,male,white
+139,Charles  Williams,male,white
+140,John  Albrecht,male,white
+141,Jacob  Burkhard,male,white
+142,Wife Of John Peter Gunter,female,white
+143,Wife Of Jacob Leny,female,white
+144,Wife Of Philip Fisher,female,white
+145,Wife Of John Corbin,female,white
+146,Wife Of Ludwig Traber,female,white
+147,Wife Of Adam Waler,female,white
+148,Elizabeth  Crabb,female,white
+149,Susannah  Schey,female,white
+150,Wife Of John Albrecht,female,white
+151,Salome  Huber,female,white
+152,Antoine  Hemperly,male,white
+153,Peter  Uehler,male,white
+154,Antoine  Ochler,male,white
+155,John Adam Schneider,male,white
+156,John  Boretsch,male,white
+157,Jacob  Koenig,male,white
+158,Adam  Mayer,male,white
+159,Frederick  Foster,male,white
+160,Dietrich  Morrell,male,white
+161,Antoine  Uehler,male,white
+162,Jacob  Mater,male,white
+163,John  Mater,male,white
+164,Wife Of Anthony Hemperly,female,white
+165,Maria  Hoffman,female,white
+166,Wife Of Anthony Ochler,female,white
+167,Wife Of John Adam Schneider,female,white
+168,Wife Of Jacob Speidel,female,white
+169,Wife Of Philip Ginter,female,white
+170,Wife Of John Boretsch,female,white
+171,Anna Maria Kessinger,female,white
+172,Wife Of Michael Cassel,female,white
+173,Wife Of Frederick Foster,female,white
+174,Wife Of Dietrich Morrell,female,white
+175,Wife Of John Mater,female,white
+176,Frederick,unknown,white
+177,Henry  Scheffer,male,white
+178,Peter  Bucks,male,white
+179,George  Bauer,male,white
+180,Caspar,unknown,white
+181,Joseph  Yoder,male,white
+182,Peter  Pfannenkuchen,male,white
+183,Henry  Ditzel,male,white
+184,John  Kermanne,male,white
+185,Wife Of Henry Scheffer,female,white
+186,Wife Of George Weeber,female,white
+187,Wife Of John Deiss,female,white
+188,Catharina  Earnest,female,white
+189,Wife Of Peter Pfannenkuchen,female,white
+190,Wife Of Henry Ditzel,female,white
+191,Antoine  Blessie,male,white
+192,Wife Of Anthony Blessie,female,white
+193,Joseph  Kermanne,male,white
+194,Antoine  Corbin,male,white
+195,Michael  Kermanne,male,white
+196,Wife Of Anthony Corbin,female,white
+197,Rebecca  Genther,female,white
+198,Peter  Genther,male,white
+199,Antoine  Blessing,male,white
+200,John Martin Collmer,male,white
+201,John  Goez,male,white
+202,John Henry Lampert,male,white
+203,John Eberhard Kettering Catharine D,male,white
+204,Wife Of Anthony Blessing,female,white
+205,Wife Of John Martin Collmer,female,white
+206,Chrisitan  Schumacher,unknown,white
+207,Louisa  Ginther,female,white
+208,Frederick  Stoll,male,white
+209,Nicholas  Bass,male,white
+210,Michael  Deebler,male,white
+211,Wife Of Matthew Stoll,female,white
+212,Margriet  Speidel,female,white
+213,Wife Of Anthony Kermanne,female,white
+214,Wife Of Michael Deebler,female,white
+215,Maximilian  Speidel,male,white
+216,Maximilian Speidel Jr,male,white
+217,Frederick  Eberhard,male,white
+218,Elizabeth  Eberhard,female,white
+219,Wife Of John Kermanne,female,white
+220,Maximilian Speidel Sr,male,white
+221,Margriet Elizabeth Stoll,female,white
+222,Jacob  Kettering,male,white
+223,Jacob Bettering,male,white
+224,Henry,unknown,white
+225,Grandparents,unknown,white
+226,Henry  Krieger,male,white
+227,Maria  Ditzel,female,white
+228,Margriet  Fishburn,female,white
+229,Catharina  Weeber,female,white
+230,Maria  Fritz,female,white
+231,Wife Of Mr Ditzel,female,white
+232,Catharina  Ditzel,female,white
+233,Jacob,unknown,white
+234,Margriet  Bethring,female,white
+235,George  Shupp,male,white
+236,Louisa  Shupp,female,white
+237,Augustine  Stoll,female,white
+238,Anna Elizabeth Stoll,female,white
+239,John,unknown,white
+240,William  Gross,male,white
+241,Catharina  Parthemer,female,white
+242,Catharina  Gross,female,white
+243,David  Fromin,male,white
+244,Rosina  Fromin,female,white
+245,William  Crabb,male,white
+246,Catharina  Crabb,female,white
+247,Maximilian  Jr,male,white
+248,Augustus,unknown,white
+249,Margriet  Bucks,female,white
+250,Catharina Barbara Speidel,female,white
+251,Anna  Stoll,female,white
+252,John George Bucks,male,white
+253,Elizabeth  Bucks,female,white
+254,Max  Speidel,male,white
+255,Peter  Sr,male,white
+256,Caroline  Speidel,female,white
+257,Agnes  Daniels,female,white
+258,Elizabeth  Speidel,female,white
+259,John  Bucks,male,white
+260,Christopher,unknown,white
+261,Elizabeth  Stoll,female,white
+262,Catharina  Fry,female,white
+263,Anna Margaret Shupp,female,white
+264,Wife Of Peter Bucks,female,white
+265,Peter,unknown,white
+266,Jacob  Book,male,white
+267,Elizabeth  Bauer,female,white
+268,John  Blessing,male,white
+269,Catharina  Blessing,female,white
+270,Rosina  Shupp,female,white
+271,Margriet  Kruger,female,white
+272,Barbara  Speidel,female,white
+273,Philip  Blessing,male,white
+274,Magdalena  Speidel,female,white
+275,Magdalena  Blessing,female,white
+276,Salome  Blessing,female,white
+277,John Peter Bucks,male,white
+278,Wife Of John Peter Bucks,female,white
+279,Robert  Carnicken,male,white
+280,Maria  Carnicken,female,white
+281,Catharina  Miller,female,white
+282,John  Schneider,male,white
+283,Maria Magdalena Schneider,female,white
+284,Mattheus  Sesseman,male,white
+285,Esther  Sesseman,female,white
+286,James M Christel,male,white
+287,Catharina  Christel,female,white
+288,John  Conrad,male,white
+289,Witness Anna Maria Sesseman,unknown,white
+290,Witness Christina Spring,unknown,white
+291,Rosina  Conrad,female,white
+292,John  Fromin,male,white
+293,Magdalena  Fromin,female,white
+294,John  Smith,male,white
+295,Susannah  Smith,female,white
+296,Witness Anna Bender,unknown,white
+297,Michael  Woltz,male,white
+298,Wife Of Michael Woltz,female,white
+299,William  Hamilton,male,white
+300,Margriet  Hamilton,female,white
+301,William  Thompson,male,white
+302,Hannah  Thompson,female,white
+303,Henry  Haack,male,white
+304,Magdalena  Haack,female,white
+305,Molly  Fromin,female,white
+306,Jonathan  Miller,male,white
+307,Maria  Miller,female,white
+308,Jacob  Miller,male,white
+309,Witness Jacob Bucks,unknown,white
+310,Witness Dorothea James,unknown,white
+311,Witness Maria Bucks,unknown,white
+312,Jacob  Bucks,male,white
+313,Wife Of Jacob Bucks,female,white
+314,Elizabeth  Miller,female,white
+315,Adam  Carper,male,white
+316,Catharina  Carper,female,white
+317,George  Ellinger,male,white
+318,Barbara  Ellinger,female,white
+319,Ludwig  Clopper,male,white
+320,Barbara  Clopper,female,white
+321,George  Grun,male,white
+322,Nancy  Grun,female,white
+323,Maria  Schneider,female,white
+324,Witness Sara Blessing,unknown,white
+325,Witness Anna Maria Bucks,unknown,white
+326,Witness Philipse Blessing,unknown,white
+327,Witness Susan Speidel,unknown,white
+328,Thomas,unknown,white
+329,Witness Elizabeth Conrad,unknown,white
+330,Wife Of John Bucks,female,white
+331,Susannah  Schmidt,female,white
+332,Michael  Wolz,male,white
+333,Maria  Wolz,female,white
+334,Witness Catharine Wolz,unknown,white
+335,John  Wals,male,white
+336,Michael,unknown,white
+337,Wife Of John Wals,female,white
+338,Elizabeth  Wals,female,white
+339,Christian  Blessing,male,white
+340,Ludwig  Koppa,male,white
+341,Barbara  Koppa,female,white
+342,Witness Christian Blessing,unknown,white
+343,Wife Of Philip Blessing,female,white
+344,Robert  Cunningham,male,white
+345,Maria  Cunningham,female,white
+346,Charles  Grunden,male,white
+347,Magdalena  Grunden,female,white
+348,Adam  Koph,male,white
+349,Nancy  Koph,female,white
+350,Frederick  Blessing,male,white
+351,Elizabeth  Blessing,female,white
+352,Jacob  Camp,male,white
+353,Margriet  Camp,female,white
+354,John  Finney,male,white
+355,Sara  Wolz,female,white
+356,Witness Barbara Wolz,unknown,white
+357,Witness John Fromin,unknown,white
+358,Witness Sara Wolz,unknown,white
+359,David  Camp,male,white
+360,Barbara  Woltz,female,white

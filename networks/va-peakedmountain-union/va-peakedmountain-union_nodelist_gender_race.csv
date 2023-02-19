@@ -1,0 +1,445 @@
+id,name,gender,race
+0,Henry  Wilhelm,male,white
+1,Anna Elizabeth Wilhelm,female,white
+2,Catharina  Weber,female,white
+3,Michael  Beyer,male,white
+4,John George Scharp,male,white
+5,Maria  Scharp,female,white
+6,Jacob  Nicholaus,male,white
+7,Barbara  Nicholaus,female,white
+8,Anna Maria Zeller,female,white
+9,Henry  Zeller,male,white
+10,Jacob  Herrmann,male,white
+11,Anna Christina Herrmann,female,white
+12,Anna Herrmann Mann,female,white
+13,George  Mann,male,white
+14,Anton  Oehler,male,white
+15,Anna Margaret Bitner,female,white
+16,Michael  Bitner,male,white
+17,John  Zeller,male,white
+18,George  Mallo,male,white
+19,Anna Barbara Mallo,female,white
+20,Anna Maria Herrmann,female,white
+21,John Henry Zeller,male,white
+22,Barbara  Ebermann,female,white
+23,Michael  Mallo,male,white
+24,Eliza  Schmidt,female,white
+25,John  Bretz,male,white
+26,Catharina  Foltz,female,white
+27,George  Foltz,male,white
+28,Anna Barbara Schmidt,female,white
+29,Henry  Preiss,male,white
+30,Henry  Ermentraut,male,white
+31,Magdalena  Preiss,female,white
+32,Magdalena  Ermentraut,female,white
+33,Sara  Herrmann,female,white
+34,Theobald  Herrmann,male,white
+35,Anna Catherine Preiss,female,white
+36,Daniel  Preiss,male,white
+37,George Adam Mann,male,white
+38,Herrmann,unknown,white
+39,Elizabeth,unknown,white
+40,Augustin  Preiss,male,white
+41,Christopher  Ermentraut,male,white
+42,Elizabeth  Ermentraut,female,white
+43,Susanna  Ermentraut,female,white
+44,John Caspar Vogt,male,white
+45,Elizabeth  Vogt,female,white
+46,Margriet  Funck,female,white
+47,Peter  Funck,male,white
+48,Wife Of Augustine Preiss,female,white
+49,Catharina,unknown,white
+50,Anna  Fischborn,female,white
+51,Philip  Fischborn,male,white
+52,Valentyn  Metzger,male,white
+53,Anna Elizabeth Metzger,female,white
+54,Anna Maria Gallet,female,white
+55,Anna Maria Mueller,female,white
+56,Peter  Mueller,male,white
+57,Ludwig  Friedal,male,white
+58,Barbara,unknown,white
+59,Margriet  Friedal,female,white
+60,Charles  Risch,male,white
+61,Maria Elizabeth Risch,female,white
+62,Anna Catherine Herrmann,female,white
+63,George  Ermentraut,male,white
+64,Anna Elizabeth,female,white
+65,Barbara  Ermentraut,female,white
+66,Anna Maria Argenbrecht,female,white
+67,Daniel  Cropp,male,white
+68,Jacob  Bentz,male,white
+69,Anna Maria Niclas,female,white
+70,Catharina  Bentz,female,white
+71,Jacob  Niclas,male,white
+72,Jacob  Argebrecht,male,white
+73,Barbara  Niclas,female,white
+74,Susanna  Argebrecht,female,white
+75,Frederick  Ermentraut,male,white
+76,Catharina  Ermentraut,female,white
+77,Charles  Hederich,male,white
+78,Ic Van Gemuenden,unknown,white
+79,Jacob  Perschinger,male,white
+80,Ma Van Germuenden,unknown,white
+81,Maria Catherine Perschinger,female,white
+82,Anna Margaret Amet,female,white
+83,John George Schmidt,male,white
+84,Elizabeth  Witmann,female,white
+85,Caspar  Vogt,male,white
+86,George  Bentz,male,white
+87,Jacob  Argebrech,male,white
+88,Maria Elizabeth Metzger,female,white
+89,John Frederick Ermentraut,male,white
+90,Sara  Bentz,female,white
+91,Wife Of Caspar Vogt,female,white
+92,Jacob  Cropp,male,white
+93,Anna Barbara Cropp,female,white
+94,Anna Margaret Preisch,female,white
+95,Augustin  Preisch,male,white
+96,Barbara  Cropp,female,white
+97,Margriet  Mueller,female,white
+98,Barbara  Hederich,female,white
+99,Barbara  Mallo,female,white
+100,Jacob  Mueller,male,white
+101,Catharina  Fotsch,female,white
+102,Elizabeth  Mueller,female,white
+103,John  Fotsch,male,white
+104,William  Manger,male,white
+105,Susanna  Manger,female,white
+106,Elizabeth  Risch,female,white
+107,Jacob  Conrad,male,white
+108,John  Argebrecht,male,white
+109,Maria Elizabeth Mann,female,white
+110,Philip  Williams,male,white
+111,Christina  Armbrister,female,white
+112,Philip  Armbrister,male,white
+113,Wife Of John Zeller,female,white
+114,John Peter Mueller,male,white
+115,Barbara  Mueller,female,white
+116,John  Ermentraut,male,white
+117,Frederick  Stoll,male,white
+118,Christina  Pesor,female,white
+119,Wife Of Frederick Stoll,female,white
+120,John  Clemens,male,white
+121,Abraham  Ruh,male,white
+122,Margriet  Ruh,female,white
+123,Martin  Schneider,male,white
+124,Catharina  Lingel,female,white
+125,Maria  Schneider,female,white
+126,Jacob  Lingel,male,white
+127,Adam  Pence,male,white
+128,Elizabeth  Argebrecht,female,white
+129,Margriet  Pence,female,white
+130,Anna Elizabeth Risch,female,white
+131,Henry  Mallo,male,white
+132,Adam  Herrmann,male,white
+133,Margriet  Mallo,female,white
+134,Elizabeth  Cropp,female,white
+135,Catharina  Malvina,female,white
+136,George  Schaeffer,male,white
+137,Maria Elizabeth Schaeffer,female,white
+138,John  Beyer,male,white
+139,Eva  Beyer,female,white
+140,John  Manger,male,white
+141,Anna  Manger,female,white
+142,Theobald  Schramm,male,white
+143,Anna  Schramm,female,white
+144,Adam  Heller,male,white
+145,Anna Barbara Heller,female,white
+146,David  Magert,male,white
+147,Anna Catherine Lingel,female,white
+148,John  Hartman,male,white
+149,Susanna  Magert,female,white
+150,Christina  Hartman,female,white
+151,Paulus  Lingel,male,white
+152,John  Risch,male,white
+153,Anna Maria Risch,female,white
+154,August  Preisch,male,white
+155,Maria  Preisch,female,white
+156,Martin  Finder,male,white
+157,Barbara  Finder,female,white
+158,John  Heller,male,white
+159,Barbara  Heller,female,white
+160,Elizabeth  Heller,female,white
+161,John Adam Heller,male,white
+162,Philip  Lingel,male,white
+163,Barbara  Lingel,female,white
+164,George  Conrad,male,white
+165,Catharina  Brummer,female,white
+166,Catharina  Conrad,female,white
+167,Peter  Brummer,male,white
+168,Philip  Ermentraut,male,white
+169,Eva  Ermentraut,female,white
+170,Catharina  Koehler,female,white
+171,Michael  Traut,male,white
+172,John  Tenner,male,white
+173,Catharina  Mueller,female,white
+174,George  Lehmann,male,white
+175,Christian  Geiger,male,white
+176,Catharina  Tenner,female,white
+177,Elizabeth  Lehmann,female,white
+178,Margriet  Geiger,female,white
+179,Leonard  Mueller,male,white
+180,Catharina  Oehler,female,white
+181,Catharina  Preiss,female,white
+182,Louis  Koehler,male,white
+183,Gertrud  Koehler,female,white
+184,Catharina  Winkhaus,female,white
+185,Peter  Ermentraut,male,white
+186,Catharina Susanna Ermentraut,female,white
+187,Ludwig  Reinhardt,male,white
+188,Charles  Fey,male,white
+189,Elizabeth  Reinhardt,female,white
+190,Sebastian  Nadler,male,white
+191,Conrad  Peterfish,male,white
+192,Sophia Catherine Nadler,female,white
+193,Conrad  Fotsch,male,white
+194,David  Fotsch,male,white
+195,Maria Magdalene Fotsch,female,white
+196,Dorothea  Fey,female,white
+197,Elizabeth  Frank,female,white
+198,Michael  Koehler,male,white
+199,Elizabeth  Koehler,female,white
+200,Elizabeth  Mann,female,white
+201,Elizabeth  Schuler,female,white
+202,Mattheus  Schuler,male,white
+203,Henry  Demuth,male,white
+204,Jacob  Julius,male,white
+205,Margriet  Demuth,female,white
+206,Peter  Runckel,male,white
+207,Margriet  Kersch,female,white
+208,Margriet  Runckel,female,white
+209,Mattheus  Kersch,male,white
+210,Heinrich  Noll,male,white
+211,Margriet  Noll,female,white
+212,Susanna,unknown,white
+213,William  Heine,male,white
+214,Margriet  Heine,female,white
+215,Anna Margaret Kersch,female,white
+216,Louis  Bekker,male,white
+217,Anna Maria Bekker,female,white
+218,Frederick  Preisch,male,white
+219,Anna Maria Preisch,female,white
+220,Catharina  Preisch,female,white
+221,Garret  Beyer,male,white
+222,Augustin Prisch Jr,male,white
+223,Maria  Beyer,female,white
+224,Jacob  Kissling,male,white
+225,Barbara  Kissling,female,white
+226,Margriet  Preisch,female,white
+227,Peter  Stein,male,white
+228,Elizabeth  Stein,female,white
+229,Charles  Schmidt,male,white
+230,Louis  Runckel,male,white
+231,Catharina  Heine,female,white
+232,Catharina  Runckel,female,white
+233,Frederick  Heine,male,white
+234,George  Weber,male,white
+235,Christina  Beyer,female,white
+236,Elizabeth  Herrmann,female,white
+237,George  Argebrecht,male,white
+238,Conrad  Preisch,male,white
+239,Elizabeth  Preisch,female,white
+240,Wife Of Augustin Prisch Jr,female,white
+241,Henry  Pence,male,white
+242,Susanna  Pence,female,white
+243,George Zimmermann Sr,male,white
+244,Anna  Zimmermann,female,white
+245,John  Birke,male,white
+246,Catharina  Pence,female,white
+247,Sara  Birke,female,white
+248,George  Pence,male,white
+249,Peter Nicolas Jr,male,white
+250,Widow  Reiss,unknown,white
+251,John  Mildeberger,male,white
+252,Anna  Mildeberger,female,white
+253,Peter  Niclas,male,white
+254,Anna Barbara Niclas,female,white
+255,Anna Elizabeth Niclas,female,white
+256,Anna Maria Schmidt,female,white
+257,John  Brett,male,white
+258,Catharina  Brett,female,white
+259,George Mallo Jr,male,white
+260,Catharina  Mallo,female,white
+261,Margriet  Ermentraut,female,white
+262,John Jacob Ergebrecht Jr,male,white
+263,Frederick  Mueller,male,white
+264,Elizabeth  Mallo,female,white
+265,Peter  Preiss,male,white
+266,Henry  Venus,male,white
+267,Margriet  Venus,female,white
+268,Henry  Cook,male,white
+269,Magdalena  Cook,female,white
+270,George  Risch,male,white
+271,Maria  Risch,female,white
+272,Wife Of Jacob Herrmann,female,white
+273,Wife Of William Trarbach,female,white
+274,William  Trarbach,male,white
+275,Anna Barbara Mueller,female,white
+276,Anna Catherine Argebrecht,female,white
+277,Anna Catherine Mallo,female,white
+278,Anna Catherine Preisch,female,white
+279,Anna Maria Abraham,female,white
+280,John  Weinberg,male,white
+281,James  Frazor,male,white
+282,Elizabeth  Frazor,female,white
+283,William  Michel,male,white
+284,Elizabeth Elizabeth Michel,female,white
+285,Eva  Mallo,female,white
+286,John Frederick Michel,male,white
+287,John George Koehler,male,white
+288,Margriet  Hoffman,female,white
+289,Maria Elizabeth Koehler,female,white
+290,George  Kugler,male,white
+291,Anna  Kissling,female,white
+292,Elizabeth Barbara Kugler,female,white
+293,Jacob  Kilssling,male,white
+294,Barbara  Kilssling,female,white
+295,Christina  Mallo,female,white
+296,Jacob Baer Jr,male,white
+297,John  Bentz,male,white
+298,Maria Catherine Preiss,female,white
+299,William  Kaul,male,white
+300,Anna Barbara Kaul,female,white
+301,Christopher  Hau,male,white
+302,William  Jackson,male,white
+303,Margriet  Jackson,female,white
+304,Peter  Nicholaus,male,white
+305,Juliana  Nicholaus,female,white
+306,Henry  Mueller,male,white
+307,Anna Maria Schneider,female,white
+308,Elizabeth  Nicholaus,female,white
+309,George  Kersch,male,white
+310,George Pens Jr,male,white
+311,Grandmother  Mueller,unknown,white
+312,Henry  Nicholaus,male,white
+313,Grandmother  Nicholaus,unknown,white
+314,Magdalena  Nicholaus,female,white
+315,Margriet  Lingel,female,white
+316,George Mallo Sr,male,white
+317,Johannes  Heine,male,white
+318,Christina  Heine,female,white
+319,William  Michaels,male,white
+320,Elizabeth  Michaels,female,white
+321,Jacob  Mann,male,white
+322,Wife Of Henry Mueller,female,white
+323,Christopher  Menner,male,white
+324,Frederick  Preiss,male,white
+325,Jacob  Argenbrecht,male,white
+326,John  Mann,male,white
+327,John George Ermentraut,male,white
+328,Adam  Schillinger,male,white
+329,John George Mann,male,white
+330,Christopher  Wessels,male,white
+331,Wife Of Christopher Wessels,female,white
+332,Wife Of John Risch,female,white
+333,Wife Of Peter Mueller,female,white
+334,Peter  Ahl,male,white
+335,George  Wagener,male,white
+336,Jacob  Helmenthal,male,white
+337,Catharina  Herrmann,female,white
+338,Henry  Kissling,male,white
+339,Christian  Hartman,male,white
+340,Conrad  Preiss,male,white
+341,George  Heine,male,white
+342,Wife Of George Mallo,female,white
+343,Francis  Reiner,male,white
+344,Christian  Luecke,male,white
+345,William  Hederich,male,white
+346,Anna Maria Hartman,female,white
+347,Augustin  Ermentraut,male,white
+348,John Jacob Kersch,male,white
+349,Peter  Neu,male,white
+350,Juliana  Neu,female,white
+351,Maria  Kissling,female,white
+352,John  Fey,male,white
+353,Susanna  Fey,female,white
+354,Eva Catherine Heyl,female,white
+355,Jacob  Heyl,male,white
+356,Catharina  Sprenckelsen,female,white
+357,Frederick  Geiger,male,white
+358,Christopher  Werbel,male,white
+359,Ditto,unknown,white
+360,Elizabeth  Luecke,female,white
+361,Philip  Reyer,male,white
+362,Elizabeth  Reyer,female,white
+363,John  Reyer,male,white
+364,Edward  Hatfield,male,white
+365,Wife Of Christopher Ermentraut,female,white
+366,Henry  Koenig,male,white
+367,Anna Maria Argebrecht,female,white
+368,James  Smith,male,white
+369,David  Manger,male,white
+370,John  Oche,male,white
+371,Henry  Manger,male,white
+372,Julis  Bertram,unknown,white
+373,John  Megert,male,white
+374,John Jacob Risch,male,white
+375,Margriet  Manger,female,white
+376,Daniel  Nunnemacher,male,white
+377,Wife Of Christopher Werbel,female,white
+378,Catharina  Hederich,female,white
+379,Magdalena  Zeller,female,white
+380,Christopher  Kirchhoff,male,white
+381,John  Busch,male,white
+382,Gottfried  Spilky,male,white
+383,George  Koehler,male,white
+384,Jacob  Algebrecht,male,white
+385,Henry  Bentz,male,white
+386,John  Pence,male,white
+387,Maria Catherine Ermentraut,female,white
+388,Peter  Reyer,male,white
+389,Peter  Risch,male,white
+390,Barbara  Risch,female,white
+391,Catharina  Laugs,female,white
+392,John  Michaels,male,white
+393,Catharina  Reb,female,white
+394,Jacob  Reb,male,white
+395,Peter  Oehler,male,white
+396,Elizabeth  Niclas,female,white
+397,Adam  Flauers,male,white
+398,Eva  Schuh,female,white
+399,Maria  Flauers,female,white
+400,Thomas  Brill,male,white
+401,John  Heine,male,white
+402,Jacob  Schaeffer,male,white
+403,Maria  Schaeffer,female,white
+404,Philip  Lung,male,white
+405,Eva  Bertram,female,white
+406,Catharina  Reyer,female,white
+407,Philip  Ruh,male,white
+408,Catharina  Ruh,female,white
+409,Daniel  Nummemacher,male,white
+410,Maria  Nummemacher,female,white
+411,John  Koehler,male,white
+412,Peter  Zeller,male,white
+413,Anna Maria Brill,female,white
+414,Eva  Zeller,female,white
+415,Fr  Geiger,unknown,white
+416,Barbara  Geiger,female,white
+417,Jacog  Elichelbrech,unknown,white
+418,Maria  Elichelbrech,female,white
+419,Catharina  Geiger,female,white
+420,Elizabeth  Schneider,female,white
+421,Maria  Argebrecht,female,white
+422,Barbara  Koehler,female,white
+423,Henry  Christ,male,white
+424,Catharina  Christ,female,white
+425,John  Zhrfass,male,white
+426,Elizabeth  Zhrfass,female,white
+427,Dorothea  Heine,female,white
+428,Anton  Saurbier,male,white
+429,Catharina Sophia Saurbier,female,white
+430,August  Ermentraut,male,white
+431,George  Panther,male,white
+432,John  Niclas,male,white
+433,Margriet  Seich,female,white
+434,Peter  Seich,male,white
+435,Wife Of George Panther,female,white
+436,Christian  Bekker,male,white
+437,Samuel  Geret,male,white
+438,Sara  Geret,female,white
+439,George  Mueller,male,white
+440,Henry  Hoerner,male,white
+441,Elizabeth  Hoerner,female,white
+442,Ursula  Wessels,female,white
+443,Wife Of John Koehler,female,white

@@ -1,0 +1,2055 @@
+id,name,gender
+0,John Nicolaus Hettrick,male
+1,Anna Cath Hettrick,female
+2,Casper Kobel,male
+3,Anna Maria Kobel,female
+4,Anna Maria Reitz,female
+5,George Hendrick Reitz,male
+6,Valentine Rebock,female
+7,Barbara  Rebock,female
+8,Henrich Kobel,male
+9,Catharina  Kobel,female
+10,Daniel Kobel,male
+11,Elizabeth  Lofler,female
+12,Maria Barbara Kobel,female
+13,Max  Hahn,male
+14,Peter Schmidt,male
+15,Elizabeth  Schmidt,female
+16,Peter  Schmidt,male
+17,Henrich  Reitz,male
+18,Henrich Baumgardener,male
+19,Johannes Nicholas Hettrick,male
+20,Maria Magdalena Baumgardener,female
+21,John Nicolaus Hettrick,male
+22,Johannes Phillips,male
+23,Magdalena  Forster,female
+24,Magdalena  Philips,female
+25,Wilhelm  Forster,male
+26,Wife Of Johannes Nicholas Hettrick,unknown
+27,Wife Of John Nicolaus Hettrick,unknown
+28,Wilhelm Thompson,male
+29,[Noname]  Thompson,unknown
+30,Christoph Hetterich,male
+31,Anna Barbara Hetterich,female
+32,Nicol Hetterick,female
+33,Anna Catherine Hettrick,female
+34,Jacob Ochsenreiter,male
+35,Anna Marg Baumgardener,female
+36,Barbara  Ochsenreiter,female
+37,Henrich  Baumgardener,male
+38,Hendrick  Baumgardener,male
+39,Jacob Minniam,male
+40,Anna Maria Minniam,female
+41,Anna Maria Schmidt,female
+42,Johannes Ried,male
+43,Anna Martha Reitz,female
+44,Maria Dorothea Ried,female
+45,George  Reitz,male
+46,Barbara  Brosius,female
+47,Nicholas  Brosius,male
+48,Carl Hendrick Kaufman,male
+49,Johannes Fisher,male
+50,Catharina  Schaefer,female
+51,Wilhelm Forster,male
+52,Dorothea  Brosius,female
+53,Peter Fisher,male
+54,Elizabeth  Fisher,female
+55,Elizabeth  Klinger,female
+56,John  Harter,male
+57,Henrich Kohler,male
+58,Elizabeth  Kohler,female
+59,George Hendrick Kaufman,male
+60,Ludwig Schreyer,male
+61,Hann  Schreyer,unknown
+62,John  Schaefer,male
+63,John Adan Schaefer,male
+64,Georg Heim,male
+65,Rosina  Heim,female
+66,Maria  Kaufman,female
+67,Maria Elizabeth Brosius,female
+68,Maria Margaret Brosius,female
+69,Susannah  Sophia,female
+70,George Furster,male
+71,Agnes  Forster,female
+72,Johannes Miller,male
+73,Anna Maria Miller,female
+74,Morte Burgart,unknown
+75,Barbara  Althaus,female
+76,Elizabeth  Burgart,female
+77,Esaia  Althaus,unknown
+78,Daniel Kable,male
+79,Philip Kunselman,male
+80,Barbara  Kunselman,female
+81,Catharina  Fisher,female
+82,Johannes Lips,male
+83,Catharina  Lips,female
+84,Catharina Eliz Kenis,female
+85,John  Kenis,male
+86,Peter Troutman,male
+87,Elizabeth  Troutman,female
+88,Eva Elizabeth Klinger,female
+89,Philip  Klinger,male
+90,Georg  Heim,male
+91,John  Kohlmann,male
+92,Johannes Hendrick Schreckengast,male
+93,John  Ried,male
+94,Maria Catherine Schreckengast,female
+95,John Hendrick Groninger,male
+96,Maria Elizabeth Groninger,female
+97,Margriet  Heim,mostly_female
+98,Maria Dororthea Ried,female
+99,Maria Elizabeth Forster,female
+100,Peter  Forster,male
+101,Susannah  Krebs,female
+102,Wife Of John Kohlmann,unknown
+103,Peter Furster,male
+104,Elizabeth Maria Forster,female
+105,George  Forster,male
+106,John George Furst,male
+107,Agnes  Furst,female
+108,Andrew  Ketterlin,male
+109,Caspar Kobel,male
+110,Anna Elizabeth Ried,female
+111,Caspar  Ried,male
+112,William Thomson,male
+113,Helena Child Grivy Thomassen,female
+114,Maria Barbara Minniam,female
+115,Barbara  Pfeiffer,female
+116,HEYL(?):  Martin,unknown
+117,Catharina  154,female
+118,Philip Lofler,male
+119,Catharina  Ried,female
+120,Elias Althaus,male
+121,Catharina Barbara Althaus,female
+122,Christ Dunkelberger,male
+123,Elizabeth  Dunkelberger,female
+124,Elizabeth  Ketterlin,female
+125,Georg Heym,male
+126,Elizabeth  Krebs,female
+127,Georg Hendrick Kaufman,male
+128,Elizabeth  Schaefer,female
+129,George  Pfeiffer,male
+130,Johannes  Harter,male
+131,Johannes  Pfeiffer,male
+132,Peter Albert,male
+133,Regina  Albert,female
+134,Margriet  Schutan,mostly_female
+135,Maria Barbara Pfeiffer,female
+136,Maria Magdalena Schneider,female
+137,Wife Of Johannes Harter,unknown
+138,Johan Bingeman,male
+139,Anna  Bingeman,female
+140,Johann Phillips,male
+141,Wilhelm Forst,male
+142,Andries  Daniels,male
+143,Magdalena  Furst,female
+144,Heinrich Kohler,male
+145,Martin Zartman,male
+146,Elizabeth  Zartman,female
+147,Susannah  Zartman,female
+148,Henderich  Zartman,unknown
+149,Henrich  Minniam,male
+150,John Maria Schaefer,male
+151,BROSIUS;  John Georg,unknown
+152,John Nicolaus Brosius,male
+153,Maria  Catherine,female
+154,John Nicolaus Brosius,male
+155,Maria  Brosius,female
+156,Nicol  Brosius,female
+157,Andries  Ried,male
+158,Elizabeth Twins Schmidt,female
+159,Henrich Reitz,male
+160,Eleanore  Reitz,female
+161,Henry  Zartman,male
+162,Henry Groninger,male
+163,John Michael Groninger,male
+164,Maria  Groninger,female
+165,Margriet  Ried,mostly_female
+166,Michael Rohd,male
+167,Susannah  Ried,female
+168,Wife Of John Michael Groninger,unknown
+169,Wife Of Peter Schmidt,unknown
+170,Michael Schaefer,male
+171,[Noname]  Schaefer,unknown
+172,Maria Catherine Hedtrick,female
+173,Adam  Hettrick,male
+174,Caspar Schneider,male
+175,Agnes  Schneider,female
+176,Elizabeth  Schneider,female
+177,John Georg Furst,male
+178,Johannes Bingmann,male
+179,Anna  Bingmann,female
+180,Anna  Magher,female
+181,Catharina  Lofler,female
+182,Philip Klinger,male
+183,Conrad Nicolaus,male
+184,Anna Barbara Nicolaus,female
+185,Anna Maria Klinger,female
+186,Andreas Reitz,male
+187,Anna Maria Margaret Brosius,female
+188,John George Borell,male
+189,Anton  Borell,male
+190,Regina  Schutern,female
+191,John (Henry) George Brosius,male
+192,Catharina  Brosius,female
+193,John Heim,male
+194,Catharina  Heim,female
+195,Mathias Winkelmann,male
+196,Catharina  Winkelmann,female
+197,Elizabeth  Brosius,female
+198,Peter  Heim,male
+199,Peter Forster,male
+200,Elizabeth  Forster,female
+201,Elizabeth  Hahn,female
+202,Elizabeth  Heim,female
+203,Leonhardt Kerstetter,male
+204,Elizabeth  Kerstetter,female
+205,Henrich  Lofler,male
+206,Henrich Groninger,male
+207,Henrich  Zartman,male
+208,Peter  Hettrick,male
+209,John Georg Pfeiffer,male
+210,John Georg Pfeiffer,male
+211,Magdalena  Pfeiffer,female
+212,Maria Barbara Borell,female
+213,John George Jr Heim,male
+214,Wife Of Nicolaus Brosius,unknown
+215,Wife Of Peter Forster,unknown
+216,John Nicholas Hederich,male
+217,Andries  Reitz,male
+218,Anna Catherine Hetterich,female
+219,Henrich Lofler,male
+220,Elizabeth Child Jannes Lofler,female
+221,John  Bingmann,male
+222,Anna Maria Enderlein,female
+223,Rosina  Albert,female
+224,Daniel  Schaefer,male
+225,Caspar  Schneider,male
+226,Henrich Minniam,male
+227,Catharina  Minniam,female
+228,Johan Leonhardt Kaufman,male
+229,Elizabeth  Kaufman,female
+230,Martin Zartmann,male
+231,Leonard  Kaufman,male
+232,Hann  Schaefer,unknown
+233,Heirich  Kaufman,unknown
+234,John Andreas Hederick,male
+235,Johannes George Brosius,male
+236,Maria Margaret Hettrick,female
+237,John George Pfeiffer,male
+238,John George Schaefer,male
+239,John Nicholas Brosius,male
+240,Magdalena  Kohl,female
+241,Margriet  Reitz,mostly_female
+242,Maria Cath Brosius,female
+243,Johannes Harter,male
+244,Maria Elizabeth Harter,female
+245,Peter  Albert,male
+246,Susannah  Pfeiffer,female
+247,Michael Roth,male
+248,Andries  Ketterle,male
+249,Susannah  Roth,female
+250,Catharina  Barbara,female
+251,Hann  Kunselin,unknown
+252,Johannes Lofler Kuntz,male
+253,George Krebs,male
+254,Salome  Krebs,female
+255,Johannes Schafer,male
+256,Magdalena  Schaefer,female
+257,George (Adam) Klinger,male
+258,Alexander  Klinger,male
+259,Maria Elizabeth Klinger,female
+260,Johannes Heim,male
+261,Andries  Harter,male
+262,Anna Catherine Heim,female
+263,Michael Reitz,male
+264,Elizabeth  Schnock,female
+265,Johannes Bingamen,male
+266,John Nicolaus Prosius,male
+267,Anna Maria Brosius,female
+268,Nicholas  Hettrick,male
+269,Hendrick Groninger,male
+270,Anna Maria Groninger,female
+271,Christoph Wenzel,male
+272,Anna Maria Twins Wenzel,female
+273,Nicolaus Hederick,male
+274,Henrich Zartman,male
+275,Jacob Stauch,male
+276,Michel Emerich,male
+277,Catharina  Emmerich,female
+278,Johannes Lofler,male
+279,Hendrick Minniam,male
+280,Peter Zartman,male
+281,Catharina  Zartman,female
+282,Peter  Zartman,male
+283,Christian  Kobel,male
+284,Philip Auman,male
+285,Elizabeth  Auman,female
+286,Christopf Dunkelberger,unknown
+287,Elizabeth  Halm,female
+288,Johannes Hartter,male
+289,Elizabeth  Harter,female
+290,Johannes Kreiss,male
+291,Elizabeth  Kreiss,female
+292,Elizabeth  Reitz,female
+293,Michael  Reitz,male
+294,Georg  Schaefer,male
+295,Hann  Hetterich,unknown
+296,Peter  Hetterich,male
+297,Henrich  Hahn,male
+298,Jacob  Groninger,male
+299,George Pfeiffer,male
+300,Johannes  Schaefer,male
+301,Justine  Ried,female
+302,Michael  Ried,male
+303,Magdalena  Bopp,female
+304,Nicholas  Bopp,male
+305,Magdalena  Kobel,female
+306,Maria Eva Schaefer,female
+307,Adam Hederick,male
+308,Maria Marg Hettrick,female
+309,Maria Margaret Ried,female
+310,Maria Margaret Schaefer,female
+311,Martin  Zartman,male
+312,Michael  Schaefer,male
+313,Sara  Hahn,female
+314,Abraham  Brosius,male
+315,John Jacob Prosius,male
+316,Anna  Kerstetter,female
+317,Margriet  Kerstetter,mostly_female
+318,Johannes  Bingeman,male
+319,Christoph Dunkelberger,male
+320,Anna Maria Dunkelberger,female
+321,Michael Derck,male
+322,Magdalena  Derck,female
+323,Johannes  Dunkelberger,male
+324,Leonard  Reitz,male
+325,Peter Maurer,male
+326,Catharina  Gerhard,female
+327,Catharina  Maurer,female
+328,Philip  Gerhard,male
+329,Henrich Schreckengast,male
+330,Catharina  Schreckengast,female
+331,Thomas Dapson,male
+332,Catharina Eliz Zartman,female
+333,Margriet  Dapson,mostly_female
+334,John George Furster,male
+335,Conrath  Forster,unknown
+336,Hann  Forster,unknown
+337,Jacob Hartter,male
+338,James Ostman,male
+339,Margriet  Ostman,mostly_female
+340,Johannes Jr Harter,male
+341,John George Klinger,male
+342,Maria Eliz Harter,female
+343,Conrath Schreckengast,unknown
+344,Susannah  Schreckengast,female
+345,Andries  Hatter,male
+346,Johann Heim,male
+347,Anna Cath Stauch,female
+348,Heim  154,unknown
+349,Jacob  Stauch,male
+350,Hendrick  Groninger,male
+351,Barbara  Schnock,female
+352,Georg Leonhardt Reitz,male
+353,Henerich Miniam,unknown
+354,Miniam  154,unknown
+355,Hann Georg Brosius,unknown
+356,John Nicolaus Hederich,male
+357,Catharina  Hetterich,female
+358,Gottfried Kremer,male
+359,Kremer  154,unknown
+360,Peter  Maurer,male
+361,Leonhart Kaufman,male
+362,Catharina  Roth,female
+363,Kaufman  154,unknown
+364,Catharina  Stauch,female
+365,Christina  Zartman,female
+366,Johan Adam Rebock,male
+367,Elizabeth  Alberts,female
+368,Rebock  154,unknown
+369,Michael  Rebock,male
+370,Peter Heim,male
+371,Wilhelm  Heim,male
+372,Christian Stutzman,male
+373,Stutzman  154,unknown
+374,Georg Schreckengast,male
+375,Elizabeth  Schreckengast,female
+376,Elizabeth  Stutzman,female
+377,Heinrich Daniel,male
+378,Frederick  Kobel,male
+379,Magdalena  Miller,female
+380,Nicholas  154,male
+381,Georg  Pfeiffer,male
+382,Kerstetter  154,unknown
+383,John Georg Schafer,male
+384,George  Peiffer,male
+385,Susannah  Schaefer,female
+386,Jacob Harter,male
+387,Harter  154,unknown
+388,Christoph Henderich,male
+389,Henderich  154,unknown
+390,Johannes  Schreckengast,male
+391,Johannes Georg Kerstetter,male
+392,Johannes Georg Pfeiffer,male
+393,John Adam Hetterich,male
+394,Magdalena  Ried,female
+395,Mattheus  Heim,unknown
+396,Magdalena Sophia Daniels,female
+397,Hann Georg Pfeiffer,unknown
+398,Maria Elizabeth Furst,female
+399,Pfeiffer  154,unknown
+400,Peter  Furst,male
+401,Maria Magdalena Pfeiffer,female
+402,Wife Of Georg Heim,unknown
+403,Wife Of George Peiffer,unknown
+404,Wife Of George Pfeiffer,unknown
+405,Wife Of Jacob Stauch,unknown
+406,Wife Of John Adam Hetterich,unknown
+407,Wilhelm Heim,male
+408,Andries  Emmerich,male
+409,Valentin Britsch,male
+410,Anna Maria Lutz,female
+411,Maria Magdalena Brosius,female
+412,Reitz  154,unknown
+413,Hann Nicholas Brosius,unknown
+414,Anna Maria Hetterich,female
+415,Kohler  154,unknown
+416,Gerit  Ochsenreiter,andy
+417,Frederick Kobel,male
+418,Catharina Juliananna Daniels,female
+419,Johannes  Lodschar,male
+420,Bill Rosen,male
+421,Christian  Stutzman,male
+422,Rosina  154,female
+423,Christina  Magher,female
+424,Dunkelberger  154,unknown
+425,Johannes  Schweinhart,male
+426,Hannes Adam Rebock,male
+427,John Conrad Haupt,male
+428,Magdalena  Repruous,female
+429,Magdalena  Schweinhart,female
+430,Maria Eliz Furst,female
+431,Maria Magdalena Emmerich,female
+432,Johannes Nicolaus Fredericks,male
+433,Anna Catherine Fredericksz,female
+434,Johannes George Pfeiffer,male
+435,Child  Minniam,unknown
+436,Child  Schaefer,unknown
+437,Lan  Manneckes,andy
+438,Leonard  Keratadter,male
+439,Susannah  Kerstetter,female
+440,Henrich Daniels,male
+441,Marien  Rauschkolb,mostly_male
+442,Rauschkolb  154,unknown
+443,Nicholas  Schneider,male
+444,Adam Rebock,male
+445,Philip  Haupt,male
+446,Wife Of Nicolaus Schneider,unknown
+447,Wife Of Philip Haupt,unknown
+448,Johann Bingman,male
+449,Georg Karl,male
+450,Anna Barbara Ochsenreiter,female
+451,Child  Karl,unknown
+452,Jacob  Ochsenreiter,male
+453,Henrich Miniam,male
+454,Anna Maria Schneider,female
+455,Johannes Nicholas Schneider,male
+456,Barbara  Reitz,female
+457,Nicolaus Hedderick,male
+458,Michael Bauers,male
+459,George  Klinger,male
+460,Elizabeth  Kersterrer,female
+461,Martin  Kersterrer,male
+462,Frederick  Dunkelberger,male
+463,Mathias Heim,male
+464,Georg  154,male
+465,Parents (?) Binman,unknown
+466,Jacob  Brosius,male
+467,Georg Schafer,male
+468,Johannes Michael Schaefer,male
+469,Johannes Michael Schafer Jr,male
+470,Maria Magdalena Rebock,female
+471,Rosina  Jr,female
+472,Rosina  Schaefer,female
+473,Wife Of Georg [Noname],unknown
+474,Johann Nicolaus Brosius,male
+475,[Noname]  Brosius,unknown
+476,Nicolaus Schneider,male
+477,Anna Cath Hetterich,female
+478,Anna Maria Bortner,female
+479,Nicholas  Hetterich,male
+480,Johannes Jacob Brosius,male
+481,Brosius  154,unknown
+482,Johannes Adam Schleich,male
+483,Magdalena  Schleich,female
+484,George  Brosius,male
+485,Dorothea  Forster,female
+486,Dorothea  Ried,female
+487,Martin  Kerstetter,male
+488,Georg Brosius,male
+489,Maria Catherine Hetterich,female
+490,Michael Rehbock,male
+491,Johannes Adam Rebock,male
+492,Maria Margaret Rebock,female
+493,Philip Haupts,male
+494,John Philipse Haupt,male
+495,Maria Magdalena Rittman,female
+496,Julianna  Hetterich,female
+497,Johannes Adam Rehbock,male
+498,Margriet  Rebock,mostly_female
+499,Maria  Rebock,female
+500,Maria  Furst,female
+501,Maria  Haupt,female
+502,Philip Rauschkolb  Schuck,male
+503,Adam Hetterick,male
+504,Adam  Brosius,male
+505,Margriet  Hettrick,mostly_female
+506,Henrich Kehler,male
+507,Adam  Schleich,male
+508,Jacob Heddericks,male
+509,Andries  Schaefer,male
+510,Margriet  Heddericks,mostly_female
+511,Jacob Bingeman,male
+512,Johannes Schneckengast,male
+513,Anna Maria Harter,female
+514,Michael Rebock,male
+515,Catharina  Schneckengast,female
+516,Apollonia  Hilderbrandt,female
+517,Catharina  Dunkelberger,female
+518,Philip  Dunkelberger,male
+519,Samuel Clark,male
+520,Christina  Clark,female
+521,Jacob Herter,male
+522,Daniel Rothermel,male
+523,Rothermel  154,unknown
+524,William  Heim,male
+525,John William Heim,male
+526,Bernert Kaufman,unknown
+527,Eva Maria Thomase,female
+528,Friederick Muller,unknown
+529,Muller  154,unknown
+530,Jacob Bauman,male
+531,Hann  Bingeman,unknown
+532,Susannah  Bauman,female
+533,Hann  Hettrick,unknown
+534,Michael Durck,male
+535,Jacob  Dunkelberger,male
+536,Johannes Koppenheffer,male
+537,Koppenheffer  154,unknown
+538,Magdalena  Maurer,female
+539,Hannes Brosius,male
+540,Maria Christina Schneider,female
+541,Marien Magdalena Ried,mostly_male
+542,Georg Pfeiffer,male
+543,Philip  Rauschkolb,male
+544,Sophia  Kobel,female
+545,Wife Of William Heim,unknown
+546,Adam Schleich,male
+547, Peter Furst,unknown
+548,Maria Magdalena Schleich,female
+549,John  Bingeman,male
+550,Johannes Brosius,male
+551,Johannes Nicholas Hetterich,male
+552,Georg  Brosius,male
+553,Maria Magdalena Heim,female
+554,Vallentin Britsch,male
+555,Anna Maria Britsch,female
+556,Margriet  Schaefer,mostly_female
+557,Christian Leitner,male
+558,Anna Maria Schuurman,female
+559,Eva  Leitner,female
+560,Simon  Scherman,male
+561,Peter Ressler,male
+562,Susannah  Ressler,female
+563,Johannes Weixhen,male
+564,Barbara  Ried,female
+565,Catharina  Borell,female
+566,Samuel  Ried,male
+567,Solomon  Ried,male
+568,Michael Billman,male
+569,Marilis Gerhard Maria Catherine,unknown
+570,Catharina  Lebo,female
+571,Philip  154,male
+572,Henrich Klock,male
+573,Catharina  Klock,female
+574,Eva  Klock,female
+575,Philip Krick,male
+576,Catharina  Steiner,female
+577,Eva Maria Krick,female
+578,Henrich  Steiner,male
+579,Michael Wolfgang,male
+580,Christina  Wolfgang,female
+581,Jacob Rauninger,male
+582,Conrad  Haupt,male
+583,Margriet  Rauninger,mostly_female
+584,Jacob  Harter,male
+585,Johannes Roth,male
+586,Elizabeth Anna Hetterich,female
+587,Maria Elizabeth Roth,female
+588,Paul Bien,male
+589,Eva Marien Ried,female
+590,Magdalena  Bien,female
+591,Georg Leonhardt Emrich,male
+592,Julianna  Emmerich,female
+593,Georg  Schmidt,male
+594,Johannes Schreckengast,male
+595,Greta  Schreckengast,female
+596,John  Strohschnitter,male
+597,Magdalena  Haupt,female
+598,Magdalena  Schmidt,female
+599,Johannes Strohschnitter,male
+600,Maria Eliz Paul,female
+601,Maria Elizabeth Strohschnitter,female
+602,Peter  Paul,male
+603,Maria Eliz Strohschnitter,female
+604,Maria Magd Pfeiffer,female
+605,Conrath Haupt,unknown
+606,Adam  Rebock,male
+607,Jacob Phillips,male
+608,Sara  Philips,female
+609,Andeas  Reitz,unknown
+610,Nicolaus Brosius,male
+611,Adam Hetterich,male
+612,Maria Greta Hetterich,female
+613,Johannes  Brosius,male
+614,Jacob Hetterich,male
+615,Apollonia  Schaefer,female
+616,Maria Margaret Hetterich,female
+617,Michael Kopenhaffer,male
+618,Barbara  Schneider,female
+619,Michael  Koppenheffer,male
+620,Michael Thill,male
+621,Bernert  Kerchstetter,unknown
+622,Magdalena  Thill,female
+623,Jacob Eister,male
+624,Catharina  Eister,female
+625,Jacob Klock,male
+626,Anton Werrn,male
+627,Catharina  Werrn,female
+628,Christina  Thomase,female
+629,Johannes Maurer,male
+630,Elizabeth  Maurer,female
+631,Georg Greib,male
+632,Friederich  Kleyn,male
+633,Sara  Greib,female
+634,Georg  Cump,male
+635,Philipiana  Eister,unknown
+636,Philip Dhill,male
+637,Henrich  Dhill,male
+638,Magdalena  Dhill,female
+639,Johannes  Werrn,male
+640,Catarina Schreckengast,female
+641,Johannes Henrich Schreckengast,male
+642,Magdalena  Heim,female
+643,Margriet  Klock,mostly_female
+644,Peter  Klock,male
+645,Maria  Dresher,female
+646,Samuel  Dresher,male
+647,Maria  Elizabeth,female
+648,Adam Rehbock,male
+649,Mattheus  Harter,unknown
+650,Christian Roth,male
+651,Michael  Roth,male
+652,Peter  Rebock,male
+653,Susannah  Kerchstetter,female
+654,Susannah  Rauschkolb,female
+655,Anna Maria Haupt,female
+656,Mateias Kobenhaffer,unknown
+657,Anna Maria Koppenheffer,female
+658,Susannah  Koppenheffer,female
+659,Johannes  Koppenheffer,male
+660,Gottfried Thomas,male
+661,Anna Maria Thomase,female
+662,Johann Schafer,male
+663,Margretha  Schaefer,female
+664,Barbara  Furst,female
+665,Georg  Furst,male
+666,Lenhart Kerstetter,unknown
+667,Susannah  Gehart,female
+668,Abraham Brosius,male
+669,Bennert  Emmerich,unknown
+670,Maria Catherine Brosius,female
+671,Jacob Austerly,male
+672,Catharina  Austerly,female
+673,Johannes Hase,male
+674,Catharina  Hase,female
+675,Catharina  Hettrick,female
+676,Christofel  Dunkelberger,unknown
+677,Lenert Kaufmann,unknown
+678,Johann Orendorff,male
+679,Elizabeth  Ochsenreiter,female
+680,Jacob  Schmidt,male
+681,Christoph Burkhart,male
+682,Gerthrute  Burgart,unknown
+683,Johannes Lahr Jr,male
+684,Simon Scherman,male
+685,Eva  Deitern,female
+686,Greta  Scherman,female
+687,Peter Hetrich,male
+688,Johannes Philipse Roth,male
+689,Bennert Emrich,unknown
+690,Philip  Dhill,male
+691,Magdalena  Rebock,female
+692,Nicholas  Rebock,male
+693,Maria  Gret,female
+694,Maria Elizabeth Hetterich,female
+695,Friederich Rausch,male
+696,Maria Elizabeth Twins Rausch,female
+697,Peter  Ried,male
+698,William Heim,male
+699,Adam  Hetterich,male
+700,Anna Cath Brosius,female
+701,Anna Elizabeth Peter,female
+702,Michael  Henninger,male
+703,Philip Borrell,male
+704,Anna Maria Borell,female
+705,Johannes Conrad Haupt,male
+706,Maria Magdalena Haupt,female
+707,Johannes Philipse Borell,male
+708,Nicolaus  Schneider,male
+709,Peter Schmitt,male
+710,Anna Maria Forster,female
+711,Maria Elizabeth Hetterich Child,female
+712,Johannes Hebler,male
+713,Anna Maria Hebler,female
+714,Catharina  Hebler,female
+715,Caspar  Hebler,male
+716,Georg Kehler,male
+717,Catharina  Kohler,female
+718,Jacob Traub,male
+719,Christina  Traub,female
+720,Gottfried  Thomase,male
+721,Barbara  Heim,female
+722,John Philip Haupt,male
+723,Barbara Son Haupt,female
+724,Paulus Bien,male
+725,Bien  154,mostly_male
+726,Catharina  Bortner,female
+727,Peter  Bortner,male
+728,George Tolp,male
+729,Elizabeth  Tolp,female
+730,Johannes Georg Brosius,male
+731,Christian Kohl,male
+732,Catharina  Kohl,female
+733,Andreas Jr Geist,male
+734,Christina  Schneider,female
+735,Conrath  Haupt,unknown
+736,Daniel  Rothermel,male
+737,Dorothea  Reitz,female
+738,Dorothea  Rothermel,female
+739,Adam Hederich,male
+740,Elizabeth  Ried,female
+741,Maria Margaret Heim,female
+742,Georg Kehler 7 Wife Catherine,male
+743,Susannah  Kohler,female
+744,Hann  Stein,unknown
+745,Peter  Stein,male
+746,Jacob  Bauman,male
+747,Magdalena  Wahry,female
+748,Peter  Harter,male
+749,Margriet  Stein,mostly_female
+750,Maria Barbara Heyl,female
+751,Maria Magd Haupt,female
+752,Nicol  Schneider,female
+753,Philip Diehl 7 Mother,male
+754,Susannah  Schmidt,female
+755,Wife Of Nicol Schneider,unknown
+756,[Noname]  Dunkelberger,unknown
+757,[Noname]  Roth,unknown
+758,Jacob Schmidt,male
+759,[Noname]  Schmidt,unknown
+760,Jacob Hederich,male
+761,Adam  Harter,male
+762,Johannes Wagner,male
+763,Anna Margaret Wagener,female
+764,Jacob Reininger,male
+765,Johannes Strohschneider,male
+766,Strohschneider  154,unknown
+767,Philip  Borell,male
+768,Johannes Kehler,male
+769,Susannah  Hebler,female
+770,Anna Maria Kolb,female
+771,Peter  Kolb,male
+772,Johannes Schaffer,male
+773,Greth Son Schaefer,female
+774,Barbara  Toffy,female
+775,Andreas Sr Geist,male
+776,Barbara  Wagener,female
+777,Michael  Wagener,male
+778,Michael  Wagner,male
+779,Benedick  Schollenberger,unknown
+780,Georg Delb,male
+781,Jacob  Schneider,male
+782,Catharina  Harter,female
+783,Jacob Thomas,male
+784,Catharina  Thomase,female
+785,Christian  Leitner,male
+786,Margriet Elizabeth Scherman,mostly_female
+787,Christian  Thomase,male
+788,Christina  Hetterich,female
+789,Christina  Schollenberger,female
+790,Jacob Reinard,male
+791,Daniel  Maurer,male
+792,Elizabeth  Reinard,female
+793,Elizabeth  Bossler,female
+794,Johannes  Bossler,male
+795,Elizabeth  Hettrick,female
+796,Peter Klock,male
+797,Elizabeth  Klock,female
+798,Elizabeth  Thomase,female
+799,Christoph Roth,male
+800,Eva  Roth,female
+801,Eva Maria Leitner,female
+802,Christian Thomas,male
+803,Maria Elizabeth Thomase,female
+804,Christian Furster,male
+805,Furster  154,unknown
+806,Christoph Berkhaus,male
+807,Gertrud  154,female
+808,Peter Hederich,male
+809,Henrich  Miniams,male
+810,Leonhard Emerich,male
+811,Lehnhart Kerstetter,unknown
+812,Maria  Schaefer,female
+813,Michael  Truckemiller,male
+814,Maria  Thomase,female
+815,Maria Cath Miniams,female
+816,Maria Elizabeth Reitz,female
+817,Regina  Maurer,female
+818,Roth  154,unknown
+819,William  Roth,male
+820,Johannes Derr,male
+821,Matlehna  Derr,unknown
+822,Anna Elizabeth Roth,female
+823,Eva Maria Roth,female
+824,Philip Borrel,male
+825,Michael Kederman,male
+826,Anna Maria Hettrick,female
+827,Catharina  Kederman,female
+828,Christoph Hebler,male
+829,Catharina Son Hebler,female
+830,DOFFY (?):  Baniel,unknown
+831,Maria  Barbara,female
+832,Johannes Orendorff,male
+833,Elizabeth  Orendorff,female
+834,Johannes $ wife Rieth,male
+835,Barbara  Roth,female
+836,Solomon  Roth,male
+837,Michael Broun,male
+838,Catharina  Sherry,female
+839,Catharina  Drendels,female
+840,Christian Kobel,male
+841,Catharina  Henssell,female
+842,Johannes Haas,male
+843,Catharina  Hoppe,female
+844,Son  Hase,mostly_male
+845,Henrich  Hoppe,male
+846,Catharina  Schleich,female
+847,Jacob Esterlein,male
+848,Catherinetrendels  154,unknown
+849,Esterlein  154,unknown
+850,Johannes Koppenhaffer,male
+851,Christina  Geist,female
+852,Johannes  Geist,male
+853,Nicolaus Hetterich,male
+854,Johannes Hepler,male
+855,Hepler  154,unknown
+856,Adam Heim,male
+857,Elizabeth  Dhill,female
+858,Margriet Son Heim,mostly_female
+859,George Kehler,male
+860,George  Heim,male
+861,Georg Furster,male
+862,Jacob  Heim,male
+863,Georg Miller,male
+864,Schmidt  154,unknown
+865,Michael Wagner,male
+866,Jacob  Wagener,male
+867,Wagner  154,male
+868,Loiuse  Wagener,unknown
+869,Philip Diehl,male
+870,Maria  Wessels,female
+871,Regina  Wagener,female
+872,Jacob Philip,male
+873,Sablena  Truckemiller,unknown
+874,Valentyn  Truckemiller,male
+875,Wife Of Peter Hettrick,unknown
+876,Wife Of Peter Paul,unknown
+877,Leonhardt Kaufman,male
+878,Abigail  Borell,female
+879,Stephan  Borell,male
+880,Michael Paul,male
+881,Christian Rieth,male
+882,Paulus  154,male
+883,Jacob Leitner,male
+884,Andries  Erdman,male
+885,Anna  Leitner,female
+886,Nicolaus Hetrich,male
+887,Andries  Geist,male
+888,Hetrich  154,unknown
+889,Georg Schmidt,male
+890,Daniel Toffy,male
+891,Maria Barbara Toffy,female
+892,Jacob  Reitz,male
+893,Conrath Bopp,unknown
+894,Anna Maria Schlegel,female
+895,Maria Magdalena Bopp,female
+896,Christian  Schlegel,male
+897,Peter Magher,male
+898,Barbara  Druckenmiller,female
+899,Maria  154,female
+900,Michael  Druckenmiller,male
+901,Christoph Burchaus,male
+902,Burchaus  154,unknown
+903,Johannes Stehr,male
+904,Catharina  Erdman,female
+905,Thomas  154,male
+906,Catharina  Furst,female
+907,Jacob  Derck,male
+908,Michael Kaderman,male
+909,Jacob Billman,male
+910,Magdalena  Billman,female
+911,Johann Derr,male
+912,Magdalena  Derr,female
+913,Christian  Forster,male
+914,Henrich Haupt,male
+915,Haupt  154,unknown
+916,Leonhardt Emrich,male
+917,Dorothea  Erdman,female
+918,Emrich  154,unknown
+919,Georg  Erdman,male
+920,Daniel Maurer,male
+921,Johann Stalman,male
+922,Neli Lena Stalman,female
+923,Christian Furst,male
+924,Furst  154,unknown
+925,Nicolaus &b wife Brosius,male
+926,Johannes  Wagener,male
+927,Leonhart Kerstetter,male
+928,Marethe  Schmidt,unknown
+929,Margriet  Wagener,mostly_female
+930,Maria  Roth,female
+931,Sally  Roth,female
+932,Maria Barbara Forster,female
+933,Maria Cath Gerhard,female
+934,Maria Eliz Thomase,female
+935,Maria Elizabeth Son Traub,female
+936,Mariahen  Hebler,unknown
+937,Peter  Hebler,male
+938,Conrad Schreckengast,male
+939,Marichen  Paul,female
+940,Regina  Erdman,female
+941,Jacob Hendricks,male
+942,Ursula  Henderickse,female
+943,Henrich Troutman,male
+944,Regina  Troutman,female
+945,Johann Wagner,male
+946,Jacob Schneider,male
+947,Magdalena  Schneider,female
+948,Johannes Nicolaus Bely,male
+949,Susannah  Paul,female
+950,Michael Druckenmiller,male
+951,Catharina  Dhill,female
+952,Johannes  Dhill,male
+953,Nicolaus Hetrick,male
+954,Maria  Hettrick,female
+955,Catharina  Reitz,female
+956,Maria Elizabeth Henssell,female
+957,Jacob  Minniam,male
+958,Johannes Georg Dunckelberger,male
+959,Christopher  Dunkelberger,male
+960,Klock  154,unknown
+961,Jacob  Klock,male
+962,Elizabeth  Leitner,female
+963,Jacob Philips,male
+964,Johannes Jacob Ochsenreiter,male
+965,Eva  Faust,female
+966,Johannas Maurer,unknown
+967,Georg  Campbell,male
+968,Maurer  154,unknown
+969,Andreas Erdman,male
+970,Petrus Hetterich,male
+971,Maria Elizabeth Gerhard,female
+972,Loiuse  Reiss,unknown
+973,Johannes Wahry,male
+974,Susannah  Wahry,female
+975,Daniel Dopfi,male
+976,Maria  Reitz,female
+977,Maria Barbara Dopfi,female
+978,Peter  Brosius,male
+979,Matlehna  Campbell,unknown
+980,Peter Brosius Catherine Reitz,male
+981,Philip  Hetterich,male
+982,Salome  Druckenmiller,female
+983,Valentyn  Druckenmiller,male
+984,(?) Weische,unknown
+985,Catharina  Weische,female
+986,Benjamin Eister,male
+987,Barbara  Eister,female
+988,Barbara  Forster,female
+989,Maria Elizabeth Miller,female
+990,Leonard  Forster,male
+991,Johannes Knerr,male
+992,Catharina  Dormoyer,female
+993,Catharina  Knerr,female
+994,John  Dormoyer,male
+995,Catharina  Ochsenreiter,female
+996,Margriet  Koppenheffer,mostly_female
+997,Michael  Ochsenreiter,male
+998,Son  Brosius,mostly_male
+999,Jacob  Thomase,male
+1000,Catharina Child Kederman,female
+1001,Mathias Herder,male
+1002,Susannah Sophia Heim,female
+1003,Johannes Eisenhart,male
+1004,Elizabeth  Paul,female
+1005,Maria  Eisenhart,female
+1006,Michael  Paul,male
+1007,Adam Ochlinger,male
+1008,Georg  Ohlinger,male
+1009,Maria  Ochlinger,female
+1010,Leonard  Brosius,male
+1011,Johannes Peter,male
+1012,Margriet  Paul,mostly_female
+1013,Margriet Eva Peter,mostly_female
+1014,Wife Of Georg Ohlinger,unknown
+1015,Peter Brosius,male
+1016,<Aria Elizabeth Brosius,unknown
+1017,Philip Rauschkolb,male
+1018,Andries  Schmidt,male
+1019,Maria  Rauschkolb,female
+1020,Nicolaus Hederich,male
+1021,Anna Marg Brosius,female
+1022,Johann Knarr,male
+1023,Andreas Harter,male
+1024,Georg Schweinhart,male
+1025,Barbara  Schweinhart,female
+1026,Johannes Kohler,male
+1027,Catharina  Forster,female
+1028,Javob Grow,unknown
+1029,Catharina  Grow,female
+1030,Abraham Wenzel,male
+1031,Catharina Elizabeth Wenzel,female
+1032,Andreas Geist,male
+1033,Daniel  Ressler,male
+1034,Johannes Georg Dunkelberger,male
+1035,Johannes  Orendorff,male
+1036,Eva  Wentzel,female
+1037,William  Schlegel,male
+1038,Henrich Stein,male
+1039,Frederick  Rausch,male
+1040,Rosina  Stein,female
+1041,Michael Katerman,male
+1042,Katarina  Kederman,female
+1043,Magdalena  Esterlein,female
+1044,Samuel  Bauman,male
+1045,Maria Eliz Brosius,female
+1046,Maria Eliz Rausch,female
+1047,Johannes Rieth,male
+1048,Michael Reitz Jr,male
+1049,Peter  Schneider,male
+1050,Philipiana Twins Eister,unknown
+1051,Sally  Schweinhart,female
+1052,Salome  Roth,female
+1053,Michael Braun,male
+1054,Anna Margaret Hebler,female
+1055,Johannes Nicholas Brosius,male
+1056,Philip Hetterich,male
+1057,Maria Elizabeth Schmidt,female
+1058,Cath  Hetterich,female
+1059,Daniel Hoch,male
+1060,Margriet  Hoch,mostly_female
+1061,Michael Jr Roth,male
+1062,Michael Ochsenreiter,male
+1063,Chris  Reitz,mostly_male
+1064,Daniel  Hoch,male
+1065,Mathias Harter,male
+1066,Georg Muller,male
+1067,Georg  Kremer,male
+1068,Henrich  Troutman,male
+1069,Johannes  Bauman,male
+1070,Johannes Adam Rebock,male
+1071,Johannes  Wolfgang,male
+1072,Madgdalene  Faust,unknown
+1073,Margriet  Bauman,mostly_female
+1074,Peter Schneider,male
+1075,Gertrud  Schneider,female
+1076,Nicholaus Hetterich,unknown
+1077,Benedict  Schollenberger,male
+1078,Widow Anna Maria Hetterich,unknown
+1079,Johannes Knarr,male
+1080,Jacob Yoder,male
+1081,Catharina  Yoder,female
+1082,Christina  Snyder,female
+1083,Daniel  Schneider,male
+1084,Maria Marg Schaefer,female
+1085,Hann  Geist,unknown
+1086,Henrich  Geist,male
+1087,Johannes  Eisenhart,male
+1088,Jonathon Ried,male
+1089,John Georg Ried,male
+1090,Conrad Henssell,male
+1091,Judith  Henssell,female
+1092,Magdalena  Eisenhart,female
+1093,Margriet  Brosius,mostly_female
+1094,Apollonia  Kremer,female
+1095,Gottfried  Kremer,male
+1096,Lorentz Bachman,male
+1097,Catharina  Bachman,female
+1098,Jacob Falk,male
+1099,Catharina  Falk,female
+1100,Johannes Gantzert,male
+1101,Catharina  Gantzert,female
+1102,Jacob Heim,male
+1103,Catharina  Jr,female
+1104,William Heim Jr,male
+1105,Johannes  Knerr,male
+1106,John  Knerr,male
+1107,Daniel  Gantzert,male
+1108,Jacob Long,male
+1109,Esther  Long,female
+1110,Georg  Tolp,male
+1111,Johannes  Kohler,male
+1112,Mathias Heym,male
+1113,Magdalena  Reiss,female
+1114,Maria  [Noname],female
+1115,Parents  154,unknown
+1116,Wife Of Johannes Kohler,unknown
+1117,Conrad Haupt,male
+1118,Abraham  Eister,male
+1119,Anna Margaret Hepler Child,female
+1120,Jacob Reitz,male
+1121,Frederick Kehler,male
+1122,Catharina Geist Child,female
+1123,Adam Diffenbach,male
+1124,Barbara  Henssell,female
+1125,Catharina Elizabeth Child Diffenbach,female
+1126,Michael Oxenrider,male
+1127,Abraham Hoch,male
+1128,Margriet Child Hoch,mostly_female
+1129,Isaac  Knerr,male
+1130,Elizabeth  Bohner,female
+1131,Henrich  Bohner,male
+1132,Georg Braun,male
+1133,Elizabeth  Mehlig,female
+1134,Lydia  Brown,female
+1135,Johannes  Mehlig,male
+1136,Michael Sr Reitz,male
+1137,Daniel Gentzert,male
+1138,Maria Eva Reitz,female
+1139,Johannes  Bright,male
+1140,Nicolaus Reitz,male
+1141,Julianna  Reitz,female
+1142,Margriet Child Reitz,mostly_female
+1143,Nicholas  Reitz,male
+1144,Margriet  Schneider,mostly_female
+1145,Maria  Heim,female
+1146,Adam Rehbock Sr,male
+1147,Daniel Gantzert,male
+1148,Peter Kiehl,male
+1149,Christina  Kohl,female
+1150,Jacob Druckenmiller,male
+1151,Maria  Druckenmiller,female
+1152,Nichalaus Reitz,unknown
+1153,Georg  Reitz,male
+1154,Johannes Eckman,male
+1155,Hann  Eckman,unknown
+1156,Magdalena  Hoch,female
+1157,Magdalena  Reitz,female
+1158,Maria  Schneider,female
+1159,Maria  Sr,female
+1160,Barbara  Paul,female
+1161,Barbara  Schlegel,female
+1162,Daniel  Schlegel,male
+1163,Daniel Kuster,male
+1164,Margriet  Kuster,mostly_female
+1165,Peter  Reitz,male
+1166,Chris  Snyder,mostly_male
+1167,Nicolaus Rehbock,male
+1168,Magdalena  Wolfgang,female
+1169,Michael Jr Reitz,male
+1170,Elizabeth  Sr,female
+1171,Michael Reitz Sr,male
+1172,Michael Hoch,male
+1173,Eva Maria Hoch,female
+1174,Johannes  Maurer,male
+1175,Maria  Maurer,female
+1176,Julianna  Brosius,female
+1177,Abraham  Schneider,male
+1178,Conrath Rehbock,unknown
+1179,Julianna  Rebock,female
+1180,Valentyn  Schaefer,male
+1181,Peter Reitz,male
+1182,Christian  Reitz,male
+1183,Elizabeth  Geist,female
+1184,Jacob  Eister,male
+1185,Maria Marg Reitz,female
+1186,Susannah  Schneider,female
+1187,Wife Of Adam Rebock,unknown
+1188,Abraham Schneider,male
+1189,Michael Brosius,male
+1190,Daniel Genzert,male
+1191,Philip  Hettrick,male
+1192,Elizabeth  Roth,female
+1193,Georg Brosius 7 Catherine,male
+1194,Maria  Miller,female
+1195,Frederick  Kohler,male
+1196,Absalon Adams,unknown
+1197,Elizabeth  Campbell,female
+1198,Eva  Adams,female
+1199,Johannes  Adam,male
+1200,Georg  Schneider,male
+1201,Johannes Nicolaus Reitz,male
+1202,Maria Margaret Reitz,female
+1203,Susannah  Reitz,female
+1204,Wife Of Georg Schneider,unknown
+1205,Margriet Elizabeth Reitz,mostly_female
+1206,Jonathon Herbst,male
+1207,John Hannes Roth,male
+1208,Susannah  Herbst,female
+1209,Wife Of John Hannes Roth,unknown
+1210,Leonhardt Kauffman,male
+1211,Abraham  Hoch,male
+1212,Catharina  Kaufman,female
+1213,Heinrich Rehbock,male
+1214,Anna Maria Rebock,female
+1215,Abraham Adam,male
+1216,Eva  Adam,female
+1217,Georg Reitz,male
+1218,Magdalena  Jr,female
+1219,Molly  Schneider,female
+1220,Nicholas  Adam,male
+1221,Wife Of Nicolaus Adam,unknown
+1222,Conrad Rehbock,male
+1223,Michael Furst,male
+1224,Lythia  Furst,unknown
+1225,Michael Ried,male
+1226,Johannes Geist,male
+1227,Catharina  Brown,female
+1228,Michael  Brown,male
+1229,David Gros,male
+1230,Catharina  Kreiss,female
+1231,Charlotte  Kreiss,female
+1232,Jacob  Kreiss,male
+1233,Friederick Ressler,unknown
+1234,Catharina  Ressler,female
+1235,Daniel  Gansert,male
+1236,Adam Schmidt,male
+1237,Daniel Kiefer,male
+1238,Margriet  Kiefer,mostly_female
+1239,Eva  Gansert,female
+1240,Georg  Trion,male
+1241,Bertold Adam,male
+1242,Gideon  Adam,male
+1243,Salome  Kurster,female
+1244,Magdalena  Adam,female
+1245,Rebock  Geist,unknown
+1246,Samuel  Ressler,male
+1247,Susannah  Trion,female
+1248,Johann Delp,male
+1249,Anna Maria Tolp,female
+1250,Georg Trion,male
+1251,Andy  Reitz,male
+1252,Anna Margaret Hoch,female
+1253,Henrick Rehbock,male
+1254,Georg Jr Delp,male
+1255,Georg Rieth,male
+1256,Philip Hedrick,male
+1257,Abraham Rothermol,male
+1258,Catharina  Jager,female
+1259,Leonhart Kauffman,male
+1260,Hannes Knerr,male
+1261,Catharina  Schneider,female
+1262,Georg Paul,male
+1263,Maria  Paul,female
+1264,Daniel Gansert,male
+1265,Conrath  Rebock,unknown
+1266,Maria Eva Gansert,female
+1267,Martin Drumheller,male
+1268,Elizabeth  Drumheller,female
+1269,George Klinger,male
+1270,Michael Neiswender,male
+1271,Elizabeth S Tolp,female
+1272,George Miller,male
+1273,Frederick  Fetter,male
+1274,George  Berkhaus,male
+1275,George  Smith,male
+1276,Michael Reith,male
+1277,Hann  Eister,unknown
+1278,Magdalena  Roth,female
+1279,Frederick Haupt,male
+1280,Hann  Haupt,unknown
+1281,Johannes  Berkhaus,male
+1282,Johannes  Roth,male
+1283,Johannes Nicolaus Brosius,male
+1284,John  Reitz,male
+1285,Julianna  Kaufman,female
+1286,Gideon Adam,male
+1287,Lydia  Furst,female
+1288,Michael  Furst,male
+1289,Lydia  Reitz,female
+1290,Magdalena  Smith,female
+1291,Margriet  Schmidt,mostly_female
+1292,Maria  Tolp,female
+1293,Maria Eliz Roth,female
+1294,Johannes Baum,male
+1295,Abraham  Rothermel,male
+1296,Elizabeth  Baum,female
+1297,Jacob Groh,male
+1298,Adam  Karl,male
+1299,Philip Haupt,male
+1300,Anna Maria Karl,female
+1301,Georg Schneider,male
+1302,Michael Thomas,male
+1303,Lydia  Thomase,female
+1304,Berhard Adam,unknown
+1305,Bill  Adams,male
+1306,Lydia Salome Forster,female
+1307,John Geist,male
+1308,Jacob  Falk,male
+1309,Christopher  Hebler,male
+1310,Johann Knerr,male
+1311,Catharina  Rothermel,female
+1312,Solomon Schankweiler,male
+1313,Catharina  Schankweiler,female
+1314,Elizabeth  Schankweiler,female
+1315,Jacob  Schankweiler,male
+1316,Christina  Rebock,female
+1317,Daniel Beisel,male
+1318,Elizabeth  Beisel,female
+1319,Elizabeth  Rebock,female
+1320,Georg  Berkhaus,male
+1321,John  Kiefer,male
+1322,Michael Furster,male
+1323,Lydia  Forster,female
+1324,Lydia  Miller,female
+1325,Michael  Trion,male
+1326,Magdalena  Kiefer,female
+1327,Daniel Gantzer,male
+1328,Andries  Gantzer,male
+1329,Anleiss  Roth,unknown
+1330,John  Yerger,male
+1331,Adam Kreiligh,male
+1332,Henrich  Rebock,male
+1333,Michael Hetterich,male
+1334,Georg  Roth,male
+1335,Michael  Brosius,male
+1336,Samuel Ressler,male
+1337,Maria  Ressler,female
+1338,Catharina  Gantzer,female
+1339,Christina  Brosius,female
+1340,John  Thomase,male
+1341,Johannes  Thomase,male
+1342,Conrad Feger,male
+1343,Daniel  Eister,male
+1344,Rosina  Feger,female
+1345,Daniel  Gantzer,male
+1346,Elizabeth  Eister,female
+1347,Michael Neuschwender,male
+1348,Eva  Gantzer,female
+1349,Georg  Wagt,male
+1350,George Berkhaus,male
+1351,George  Miller,male
+1352,Lydia  Berkhaus,female
+1353,Maria Eliz Miller,female
+1354,Johannes Kiefer,male
+1355,Abraham  Kiefer,male
+1356,Jacob Kroh,male
+1357,Benjamin Trion,male
+1358,Anna Elizabeth Trion,female
+1359,Phillip Rehbock,male
+1360,Bernhardt Adam,male
+1361,Anna Maria Adam,female
+1362,Salome  Forster,female
+1363,Eva Catherine Adam,female
+1364,Georg Jr Delb,male
+1365,Johannes Thomas,male
+1366,John Reitz,male
+1367,Samuel Schafer,male
+1368,Catharina  Haupt,female
+1369,Ludwig Beierle,male
+1370,Susannah  Borell,female
+1371,Jacob Falck,male
+1372,Abraham Rothermal,male
+1373,Johannes Haupt,male
+1374,Catharina  Long,female
+1375,Elizabeth  Haupt,female
+1376,Solomon  Haupt,male
+1377,Peter Herb,male
+1378,Catharina  Miller,female
+1379,Magdalena  Herb,female
+1380,Johonn  Berckhauser,unknown
+1381,Samuel  Schmidt,male
+1382,Fred Ressler,male
+1383,Catharina  Stein,female
+1384,Georg  Stein,male
+1385,Peter Furst,male
+1386,Christina  Furst,female
+1387,Godfried Jerger,male
+1388,Christina  Jerger,female
+1389,Jacob Meyer,male
+1390,Conrad  Boyer,male
+1391,Daniel Eister,male
+1392,Johannes  Stehr,male
+1393,Peter Schafer,male
+1394,Sophia  Kaufman,female
+1395,Elizabeth Child Jette Baum,female
+1396,Michael  Neuschwender,male
+1397,Georg  Geist,male
+1398,Johannes  Brown,male
+1399,Magdalena  Eister,female
+1400,Johannes Reitz,male
+1401,Magdalena  Tolp,female
+1402,Maria  Adam,female
+1403,Jonas Ressler,male
+1404,Maria  Dersch,female
+1405,Rosina  Ressler,female
+1406,Solomon  Ressler,male
+1407,Martin  Drumheller,male
+1408,Rosina  Boyer,female
+1409,Sara  Tolp,female
+1410,Wife Of Abraham Kiefer,unknown
+1411,Wife Of Georg Schmidt,unknown
+1412,Wife Of Martin Drumheller,unknown
+1413,Wife Of Peter Brosius,unknown
+1414,Wife Of Samuel Ressler,unknown
+1415,Georg Jr Depp,male
+1416,Anna Maria Depp,female
+1417,Gottfried Rehbock,male
+1418,Catharina  Rebock,female
+1419,Gottfried  Rebock,male
+1420,Solomon Ressler,male
+1421,Anna Maria Ressler,female
+1422,Georg  Ried,male
+1423,Jacob Beisel,male
+1424,Bill  Beisel,male
+1425,Eva  Reitz,female
+1426,Samuel  Gantzer,male
+1427,Cutulius Beryle,unknown
+1428,Georg Berkhaus,male
+1429,Lythia  Berkhaus,unknown
+1430,Friederich  Kohler,male
+1431,Lythia  Thomase,unknown
+1432,Friederich  154,male
+1433,Michael  Hetterich,male
+1434,Julia  Reiss,female
+1435,David Hess,male
+1436,Maria  Hase,female
+1437,Salome  Adam,female
+1438,Georg Ried,male
+1439,John  Heim,male
+1440,Georg Thomas,male
+1441,Georg Meier,male
+1442,Johann Geist,male
+1443,Christina  Schaefer,female
+1444,Isaac  Schaefer,male
+1445,Conrad  Rebock,male
+1446,Jones Ressler,male
+1447,Daniel  Beisel,male
+1448,Absolom Adams,unknown
+1449,Frederick  Trion,male
+1450,Bernhadt Adams,unknown
+1451,Georg  Miller,male
+1452,Johannes  Reitz,male
+1453,Lea  Tolp,female
+1454,Johann Reitz,male
+1455,Salome  Reitz,female
+1456,Sara  Reitz,female
+1457,Samuel Schmidt,male
+1458,Sara  Schmidt,female
+1459,Sara  Trion,female
+1460,Wife Of Daniel Beisel,unknown
+1461,Heinrich Hartman Knobel,male
+1462,Jonathon Heim,male
+1463,Johannes  Rebock,male
+1464,Sara  Schneider,female
+1465,Jukianna  Rebock,unknown
+1466,John Baum,male
+1467,Elizabeth  Hoffman,female
+1468,Eva  Groh,female
+1469,Jacob Berkhaus,male
+1470,Hann  Berkhaus,unknown
+1471,Johannes Schneider,male
+1472,Maria  Schollenberger,female
+1473,Jacob Hensel,male
+1474,Johannes  Ried,male
+1475,Sara  Henssell,female
+1476,Magdalena  Geist,female
+1477,Michael Trion,male
+1478,Salome  Trion,female
+1479,Peter  Trion,male
+1480,Samuel  Borell,male
+1481,Daniel Kieffer,male
+1482,Samuel Reitz,male
+1483,Anna Maria Hoch,female
+1484,Rebock  Reitz,unknown
+1485,Jonathon  Reitz,male
+1486,Heinrich Hartman  Knobel,male
+1487,Catharina  Schmidt,female
+1488,Daniel  Reitz,male
+1489,Jacob Seitz,male
+1490,Salome  Seitz,female
+1491,Johannes Eister,male
+1492,Elizabeth  Schlegel,female
+1493,Peter  Schlegel,male
+1494,Johannes  Busch,male
+1495,Samuel  Herb,male
+1496,George  Paul,male
+1497,Johannes  Kiefer,male
+1498,John  Stehr,male
+1499,Joseph Hoch,male
+1500,Sara  Hoch,female
+1501,Maria  Kirchbaum,female
+1502,The  Father,mostly_female
+1503,Samuel  Reitz,male
+1504,Philip Hetterick,male
+1505,Anna Maria Schollenberger,female
+1506,Susannah  Heim,female
+1507,Benjamin  Mertz,male
+1508,Bernert  Adams,unknown
+1509,Wilhelm Heckert,male
+1510,Bill  Haupt,male
+1511,Magdalena  Heckert,female
+1512,Bill  Lees,male
+1513,Philip  Reitz,male
+1514,Michael Enderlein,male
+1515,Elizabeth  Enderlein,female
+1516,David Druckenmiller,male
+1517,Catharina  Druckenmiller,female
+1518,Samuel  Gantzert,male
+1519,Michael Schmidt,male
+1520,Chris  Schollenberger,mostly_male
+1521,Hann  Thomase,unknown
+1522,Elizabeth  Roker,female
+1523,Frederick  Roker,male
+1524,Heinrich Hauenstein,male
+1525,Gideon  Adams,male
+1526,Susannah  Hauenstein,female
+1527,Georg Berckhaus,male
+1528,Joseph  Hoch,male
+1529,Berhart Adams,unknown
+1530,Lydia  Geist,female
+1531,Lydia  Mertz,female
+1532,Magdalena  Adams,female
+1533,Salome  Adams,female
+1534,Eisenhart  154,unknown
+1535,Anna Maria Hase,female
+1536,David  Hase,male
+1537,Anna Maria Smith,female
+1538,John  Hetterich,male
+1539,Georg Delp,male
+1540,Bill  Ried,male
+1541,Elizabeth  Trion,female
+1542,Henrich Hartman  Knobel,male
+1543,Christofel  Hebler,unknown
+1544,Johann Baum,male
+1545,Jonathon  Heim,male
+1546,Christina  Tolp,female
+1547,Nicolaus Drumheller,male
+1548,Johannes Kieffer,male
+1549,Elizabeth  Herb,female
+1550,Bernhardt Rehbock,male
+1551,Mathias Horter,male
+1552,Esther  Eister,female
+1553,Hann  Harter,unknown
+1554,Father; Jacob Beisel,unknown
+1555,Henrich Noll,male
+1556,Neli  154,female
+1557,Samuel  Noll,male
+1558,Gertrud  Wagener,female
+1559,Jacob Heckman,male
+1560,Heckman  154,unknown
+1561,Jacob  Erdman,male
+1562,Michael  Thomase,male
+1563,Johann Schneider,male
+1564,Michael  Dhill,male
+1565,Mrs  Heckman,unknown
+1566,Sara  Dhill,female
+1567,Wife Of Andreas Geist,unknown
+1568,Wife Of Peter Schneider,unknown
+1569,Anna  Berkhaus,female
+1570,Anna  Wagener,female
+1571,Jacob Erdman,male
+1572,Anna Maria Gottfried,female
+1573,Maria Elizabeth Erdman,female
+1574,Gottfried  154,male
+1575,Johannes Busch,male
+1576,Catharina  Busch,female
+1577,Daniel Kaufman,male
+1578,Anna Maria Trion,female
+1579,Peter  Kaufman,male
+1580,Johann Kiefer,male
+1581,Christian Heinrich,male
+1582,Catharina  Heinrich,female
+1583,Philip Hederick,male
+1584,Christina  Forster,female
+1585,Michael Hedrich,male
+1586,Peter  Kohl,male
+1587,Nicholas  Drumheller,male
+1588,Solomon Schanckweiler,male
+1589,Hann  Bercjhaus,unknown
+1590,Jacob  Bercjhaus,male
+1591,Georg Maier,male
+1592,Gideon Adams,male
+1593,Berhard Adams,unknown
+1594,Peter Geist,male
+1595,Maria  Geist,female
+1596,Maria  Lees,female
+1597,William  Reitz,male
+1598,Rebock  Schambel,unknown
+1599,William  Schambel,male
+1600,Sara  Geist,female
+1601,Solomon  Falk,male
+1602,Wife Of Jacob Ochsenreiter,unknown
+1603,Wife Of Johann Reitz,unknown
+1604,Wife Of Michael Hetterich,unknown
+1605,Lehnert Rehbock,unknown
+1606,Daniel Kauffman,male
+1607,Bill  Kaufman,male
+1608,Bill  Ressler,male
+1609,Nickolaus Drumheller,unknown
+1610,Gottfried  Brosius,male
+1611,Gottfried Brosius,male
+1612,Johann Griems,male
+1613,Elizabeth  Griems,female
+1614,Jacob Herb 7 Eva Groh,male
+1615,Johann Kiehl,male
+1616,Georg Geist,male
+1617,Lythia  Geist,unknown
+1618,Daniel Reitz,male
+1619,Peter  Geist,male
+1620,Salome  Falk,female
+1621,Anna  Reitz,female
+1622,Philip Reitz,male
+1623,Anna Child Leyse Reitz,female
+1624,Johann Berckhauser,male
+1625,Anna Maria Kaufman,female
+1626,Lythia  Berckhauser,unknown
+1627,Daniel  Kaufman,male
+1628,David Uptman,male
+1629,Catharina  Uptman,female
+1630,Bill  Geist,male
+1631,Christina  Heckman,female
+1632,William Groh,male
+1633,Catharina  Latschaw,female
+1634,Elizabeth  Groh,female
+1635,Johannes  Latscha,male
+1636,Jonathon Reitz,male
+1637,Johann Rehbock,male
+1638,Maria Elizabeth Rebock,female
+1639,Leonard  Rebock,male
+1640,Jacob Hofman,male
+1641,Rebock  Hoffman,unknown
+1642,Andries  Kessler,male
+1643,Bernardus  Adams,male
+1644,Daniel Kembel,male
+1645,Catharina  Campbell,female
+1646,Solomon Falck,male
+1647,Peter Hedrich,male
+1648,Judith  Hetterich,female
+1649,Christina  Eister,female
+1650,Elizabeth  Miller,female
+1651,Samuel  Geist,male
+1652,Samuel Hetmann,male
+1653,Jacob  Hetmann,male
+1654,Magdalena  Hetmann,female
+1655,Jonathon Schneider,male
+1656,Heinrich Maier,male
+1657,Johannes  Magher,male
+1658,Wife  Magher,unknown
+1659,Johannes  Schneider,male
+1660,Jacob Gantzer,male
+1661,Sara  Gantzer,female
+1662,Margd  Schneider,unknown
+1663,Jacob Beissel,male
+1664,Maria  Beisel,female
+1665,Georg Eister,male
+1666,Sara  Eister,female
+1667,Sara  Adams,female
+1668,Sara  Schaefer,female
+1669,Susannah Child Heim,female
+1670,Wife Of Daniel Eister,unknown
+1671,Wife Of Jacob Hetmann,unknown
+1672,Wife Of Johann Thomase,unknown
+1673,Wife Of Johannes Magher,unknown
+1674,Abraham  Geist,male
+1675,Johannes  Hettrick,male
+1676,Wilhelm Groh,male
+1677,David  Schneider,male
+1678,Dinah  Thomase,female
+1679,Georg Berckhauser,male
+1680,Lydia  Berckhauser,female
+1681,Peter Hedreich,male
+1682,Lydia  Schmidt,female
+1683,Michael  Schmidt,male
+1684,Philip Hersch,male
+1685,Margriet  Hersch,mostly_female
+1686,Sara  Wentzel,female
+1687,Sara  Zartman,female
+1688,Thomas  Zartman,male
+1689,Samuel Kiehl,male
+1690,Esther  Kohl,female
+1691,Johann Keifer,male
+1692,Nicolaus Adams,male
+1693,Bernhard Adams,male
+1694,Joseph Schneider,male
+1695,Georg Stein,male
+1696,William Hoffman,male
+1697,Elizabeth  Gantzer,female
+1698,Maria  Hoffman,female
+1699,Samuel Geist,male
+1700,Solomon Kempel,male
+1701,Lea  Campbell,female
+1702,David Schneider,male
+1703,Schneider  154,unknown
+1704,Absalon  Adam,unknown
+1705,Sara  Adam,female
+1706,Michael Tryon,male
+1707,Barbara  Trion,female
+1708,Johann Berckenhauser,male
+1709,Hann  Berckenhauser,unknown
+1710,Charles  Rothermel,male
+1711,Georg Broun,male
+1712,Lythia  Brown,unknown
+1713,Peter Thomas,male
+1714,Judith  Thomase,female
+1715,Christina  Hebler,female
+1716,Michael  Hebler,male
+1717,Israel Fenstermacher,male
+1718,Eva  Fenstermacher,female
+1719,Jonathon Hauck,male
+1720,Eva  Hauck,female
+1721,Johann Bopp,male
+1722,Jacob Wolfgang,male
+1723,Maria  Bopp,female
+1724,Rebock  Wolfgang,unknown
+1725,Georg  Brown,male
+1726,Heinrich Dressler,male
+1727,Lythia  Dressler,unknown
+1728,Maria  Trion,female
+1729,Maria Cath Ochsenreiter,female
+1730,Peter  Dressler,male
+1731,Rebock  Schneider,unknown
+1732,Samuel  Thomase,male
+1733,Sara  Hepner,female
+1734,Susannah  Hoch,female
+1735,Wife Of Abraham Schneider,unknown
+1736,Anna Margaret Schankweiler,female
+1737,Wende Latschaw,unknown
+1738,Susannah  Gonser,female
+1739,Andreas Broun,male
+1740,Elizabeth  Brown,female
+1741,Johann Otto,male
+1742,Eva  Rebock,female
+1743,Peggy  Otto,female
+1744,Aaron Beeli,male
+1745,Henrich Hostmann,male
+1746,Maria Elizabeth Hostmann,female
+1747,Bernhard Adam,male
+1748,Nickolaus  Adam,unknown
+1749,Jacob Berkhauser,male
+1750,Anna  Berckhauser,female
+1751,John Schmick,male
+1752,Bernardus  Adam,male
+1753,Magdalena  Schmick,female
+1754,Bill  Eisenhart,male
+1755,Georg Cooper,male
+1756,Catharina  Cooper,female
+1757,William Grow,male
+1758,Abraham Geist,male
+1759,Johann Hedrich,male
+1760,Daniel  Kiefer,male
+1761,Heinrich Reitz,male
+1762,Elizabeth  Hetterich,female
+1763,Elizabeth  Latscha,female
+1764,Elizabeth  Schott,female
+1765,Susannah  Gansert,female
+1766,Peter  Schott,male
+1767,Elizabeth Child Salomine Schmidt,female
+1768,Samuel Heckman,male
+1769,John  Fassler,male
+1770,Peter  Forsch,male
+1771,Daniel Schneider,male
+1772,Rebock  Herb,unknown
+1773,Wife Of John Fassler,unknown
+1774,Wife Of Peter Forsch,unknown
+1775,Samuel Kauffman,male
+1776,Grandparents Leonhardt Kaufman,unknown
+1777,Hann  Kaufman,unknown
+1778,Andries Geist Jr,male
+1779,Joseph Feger,male
+1780,Andries Geist Sr,male
+1781,Paulus Gerhard,male
+1782,Magdalena  Feger,female
+1783,Lydia  Gerhard,female
+1784,Johann Latscha,male
+1785,Johannes Georg Ried,male
+1786,Johann Ulz,male
+1787,Hann  Ulz,unknown
+1788,Joacob Baisel,unknown
+1789,Bill  Jr,male
+1790,Frederick Trion Jr,male
+1791,Georg Kooper,male
+1792,Daniel Erdman,male
+1793,Maria  Erdman,female
+1794,Benjamin Knerr,male
+1795,Maria  Knerr,female
+1796,William Kehres,male
+1797,Henrich Zerbe,male
+1798,Christina  Zerbe,female
+1799,Michael Bopp,male
+1800,Elizabeth  Bopp,female
+1801,Michael Kiehl,male
+1802,Christian Horner,male
+1803,Elizabeth  Horner,female
+1804,Israel  Fenstermacher,male
+1805,Eva  Heim,female
+1806,Samuel  Heim,male
+1807,Eva  Latscha,female
+1808,Friederich  Latscha,male
+1809,Johann Cares,male
+1810,Lydia  Kreiss,female
+1811,Peter Kieffer,male
+1812,Hann  Kiefer,unknown
+1813,Samuel Rehbock,male
+1814,Georg Brown,male
+1815,Lydia  Dhill,female
+1816,Margriet  Montelius,mostly_female
+1817,Georg Snyder,male
+1818,Maria  Snyder,female
+1819,Peter  Montelius,male
+1820,Margriet Magd Latscha,mostly_female
+1821,William  Hoffman,male
+1822,Michael  Forney,male
+1823,Mivhael  Brown,unknown
+1824,Sara  Forney,female
+1825,Susannah  Welker,female
+1826,William  Welker,male
+1827,Susannah  Daniels,female
+1828,Abraham Schneider Sr,male
+1829,Abraham Deppen,male
+1830,Andy  Schneider,male
+1831,Maria  Deppen,female
+1832,Daniel Kroh,male
+1833,Bill  Groh,male
+1834,Jacob Berckhauser,male
+1835,Catharina  Herb,female
+1836,Hann  Berckhauser,unknown
+1837,Jacob  Herb,male
+1838,Catharina  Karl,female
+1839,Charles  Herb,male
+1840,Jonathon Lebo,male
+1841,Joseph  Schneider,male
+1842,Catharina  Sr,female
+1843,Daniel Herp Sr,male
+1844,David Maurer,male
+1845,Elizabeth  Kiefer,female
+1846,Sara  Maurer,female
+1847,Georg Krebs,male
+1848,Peter Ried,male
+1849,Elizabeth Twins Ried,female
+1850,Georg  Feger,male
+1851,Johannes  Ressler,male
+1852,Johannes  Schmidt,male
+1853,John  Schreffler,male
+1854,John  Sherry,male
+1855,Judith  Daniels,female
+1856,Michael  Forster,male
+1857,Magdalena  Sherry,female
+1858,Margriet  Geist,mostly_female
+1859,Jonathon Smith,male
+1860,Sara  Smith,female
+1861,Rahel  Schmidt,female
+1862,Rebock  Schankweiler,unknown
+1863,Solomon  Schankweiler,male
+1864,Sara  Schott,female
+1865,Susannah  Sr,female
+1866,Samuel Ried,male
+1867,Solomon Rossler,male
+1868,Bill  Schneider,male
+1869,John Kiehl,male
+1870,William Kroh,male
+1871,John  Kohl,male
+1872,Jonathon Schreffler,male
+1873,Elizabeth  Schreffler,female
+1874,Jacob Welker,male
+1875,Julianna  Welker,female
+1876,Elizabeth  Esq,female
+1877,John Malik Esq,male
+1878,John  Latscha,male
+1879,Benjamon Knerr,unknown
+1880,Elizabeth  Rothermel,female
+1881,John Schneider,male
+1882,John  Schneider,male
+1883,Heinrich Bohner,male
+1884,Esther  Sr,female
+1885,Susannah  Bohner,female
+1886,Hendrick Bohner Sr,male
+1887,John  Beisel,male
+1888,Jonathon  Schneider,male
+1889,Loiuse  Kaufman,unknown
+1890,Heinrich Hoffman,male
+1891,Susannah  Hoffman,female
+1892,Sally  Dhill,female
+1893,Sally  Schmidt,female
+1894,Wife Of Jacob Schneider,unknown
+1895,Daniel Grow,male
+1896,Abraham  Kuntzelman,male
+1897,Andries  Gansert,male
+1898,Henrich Bohner,male
+1899,Aaron Hose,male
+1900,Bill  Hase,male
+1901,Bill  Heim,male
+1902,Samuel Heim,male
+1903,Catharina  Bartorff,female
+1904,John Daniel,male
+1905,Catharina  Daniels,female
+1906,Catharina  Gansert,female
+1907,Jacob Heddich,male
+1908,Catharina  Heddich,female
+1909,Peter Braun,male
+1910,Grandparents Michael Brown,unknown
+1911,Jacob Kauffman,male
+1912,Catharina Twins Kaufman,female
+1913,Charles Rothermol,male
+1914,Daniel Gansert Jr,male
+1915,Michael  Kohl,male
+1916,Isaac Mortitz,male
+1917,Elizabeth  Hartman,female
+1918,Lythia  Mortitz,unknown
+1919,Joseph  Hartman,male
+1920,Peter Schmeid,male
+1921,Daniel Holschum,male
+1922,Horsene  Holschum,unknown
+1923,Jacob  Hase,male
+1924,Maria  Anna,female
+1925,Maria  Kuntzelman,female
+1926,Jonathon Schmid,male
+1927,Sally  Smith,female
+1928,Sally  Falk,female
+1929,Sara  Falk,female
+1930,Sally  Hase,female
+1931,Susannah  Jr,female
+1932,Solomon Falk,male
+1933,John Schafer,male
+1934,Daniel Ried,male
+1935,Daniel Knerr,male
+1936,Bill  Knerr,male
+1937,John Latscha,male
+1938,Bill  Trion,male
+1939,Jacob Herb,male
+1940,William Kehries,male
+1941,Christina  Hoch,female
+1942,Christina  Yeager,female
+1943,Daniel  Fetter,male
+1944,Eli  Eister,female
+1945,Elias  Ochsenreiter,male
+1946,Peter  Ochsenreiter,male
+1947,Emelie  Geist,female
+1948,Daniel Holtzchuh,male
+1949,Eszena  Holtzchuh,unknown
+1950,Jacob  Hoffman,male
+1951,Jacob Hoffa,male
+1952,Sara  Hoffa,female
+1953,Lisette  Kaufman,female
+1954,Rahel  Kohler,female
+1955,Rebock  Hetterich,unknown
+1956,Sara  Fetter,female
+1957,Sara  Hoffman,female
+1958,Abraham  Reitz,male
+1959,Angeline  Welker,female
+1960,Isaac  Kiefer,male
+1961,Anna Maria Hoffman,female
+1962,John Ulz,male
+1963,Bernert  Adam,unknown
+1964,Abraham Teppy,male
+1965,Bill  Depp,male
+1966,DANIEL;  John,unknown
+1967,Catharina Klock Child Josema,female
+1968,Daniel  Dunkelberger,male
+1969,Daniel  Groh,male
+1970,Daniel Gansert Sr,male
+1971,Anthony Schneider,male
+1972,Elias  Eister,male
+1973,Harriette  Schneider,female
+1974,Elizabeth  Kohl,female
+1975,Elizabeth  Smith,female
+1976,Peter  Smith,male
+1977,Eva  Sr,female
+1978,Daniel Heim,male
+1979,Harriette  Heim,female
+1980,Henrich  Hoffa,male
+1981,Johann Gansert,male
+1982,Hettie  Gansert,female
+1983,Jonathon  Smith,male
+1984,Judith  Wagener,female
+1985,Henrich Bahner,male
+1986,Maria  Groh,female
+1987,Maria  Herb,female
+1988,Henrich Mehlig,male
+1989,Maria  Mehlig,female
+1990,Maria Magd Dunkelberger,female
+1991,Michael Diehl Sr,male
+1992,Molly  Busch,female
+1993,Peter  Busch,male
+1994,Johann Kehler,male
+1995,Rachel  Kohler,female
+1996,Sally  Adam,female
+1997,Sara  Schollenberger,female
+1998,Daniel Zerbe,male
+1999,Elizabeth  Zerbe,female
+2000,Aaron Hoffa,male
+2001,Bill  Hoffa,male
+2002,Bill  Latscha,male
+2003,Daniel  Kohl,male
+2004,Sara  Kiefer,female
+2005,Joseph Henninger,male
+2006,Daniel  Ried,male
+2007,Sara  Henninger,female
+2008,Daniel Faust,male
+2009,Elizabeth  Faust,female
+2010,Elizabeth Child Arlee Schneider,female
+2011,Esther  Maurer,female
+2012,Georg  Fegely,male
+2013,Helena  Maurer,female
+2014,Leonard  Maurer,male
+2015,Daniel Holzschun,male
+2016,Hosanna  Holzschun,unknown
+2017,Jacob  Hoffa,male
+2018,Josepk  Henninger,unknown
+2019,Peter Kobel,male
+2020,Maria Anna Kobel,female
+2021,Mathilda  Trion,female
+2022,Magdalene Dunckelberger,female
+2023,Isaak Seiler,male
+2024,Rachel  Seiler,female
+2025,Sally  Hoffa,female
+2026,Daniel Seiler,male
+2027,Sara  Sherry,female
+2028,Amarillie  Rebock,unknown
+2029,Dinah  Rebock,female
+2030,John  Rebock,male
+2031,Jacob  Hetterich,male
+2032,Peter Rehbock,male
+2033,Daniel Kiehl,male
+2034,Chris  Kohl,mostly_male
+2035,Maria  Kohl,female
+2036,Hann  Mehlig,unknown
+2037,Samuel  Mehlig,male
+2038,Hann  Ried,unknown
+2039,Henry Schroder,male
+2040,Hann  Schroder,unknown
+2041,Margriet  Schankweiler,mostly_female
+2042,Johann Schaffer,male
+2043,Salome  Hoffa,female
+2044,Susette  Kaufman,female
+2045,Adam  Daniels,male
+2046,Isaak Heim,male
+2047,Gottfried Schreffler,male
+2048,Eva  Lebo,female
+2049,Justine  Schreffler,female
+2050,Gottfried  Schreffler,male
+2051,Daniel Holzchuh,male
+2052,Susannah Child Celasius Holzchuh,female
+2053,Susannah  Latscha,female

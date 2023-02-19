@@ -1,0 +1,292 @@
+id,name,gender,race
+0,Conrad  Kirschner,male,white
+1,Anthoy  Erb,unknown,white
+2,John  Graff,male,white
+3,Catharina  Alsbach,female,white
+4,John Jacob Graff,male,white
+5,John  Rausch,male,white
+6,Magdalena  Rausch,female,white
+7,Henry  Mayer,male,white
+8,Catharina  Adam,female,white
+9,Gabriel  Eisenberger,male,white
+10,Eva  Eisenberg,female,white
+11,Philip  Faust,male,white
+12,Frederick Casimie Miller,male,white
+13,John George Christ,male,white
+14,Jacob  Leiby,male,white
+15,Lorentz  Bekker,male,white
+16,Maria  Leiby,female,white
+17,John  Kiehl,male,white
+18,Lorentz  Bloss,male,white
+19,Maria Rosina Richter,female,white
+20,Jacob  Kostenholtz,male,white
+21,Simon  Eisenberger,male,white
+22,Wife Of Lorentz Bekker,female,white
+23,Wife Of Simon Eisenberger,female,white
+24,Joost  Hinckel,male,white
+25,Abraham  Eschman,male,white
+26,Anna Elizabeth Diehl,female,white
+27,Sebastian  Graff,male,white
+28,John  Schlieger,male,white
+29,Anna Maria 119,female,white
+30,Jacob  Wehry,male,white
+31,Barbara  Wehry,female,white
+32,Reinhard  Alsbach,male,white
+33,John Jacob Faust,male,white
+34,Peter  Dunkelberger,male,white
+35,Catharina  Dunkelberger,female,white
+36,Adam  Damsen,male,white
+37,Daniel  Rausch,male,white
+38,George  Hag,male,white
+39,Michael  Kelchner,male,white
+40,Eva  Dunckel,female,white
+41,Michael  Heninger,male,white
+42,Henry  Alsbach,male,white
+43,Jacob  Faust,male,white
+44,Phillipina  Faust,unknown,white
+45,John  Christbaum,male,white
+46,Margriet  Eisenberger,female,white
+47,Jacob  Brandstetter,male,white
+48,Mattheus  Alsbach,male,white
+49,Susanna  Hill,female,white
+50,Wife Of Abraham Eschman,female,white
+51,Wife Of Daniel Rausch,female,white
+52,Wife Of Matthias Alsbach,female,white
+53,George  Leiby,male,white
+54,Andrew  Winters,male,white
+55,Anna Elizabeth Hasselberger,female,white
+56,Philip  Dembruster,male,white
+57,Valentyn  Gerkhart,male,white
+58,Anna Gertrude Baum,female,white
+59,Carl  Balmer,male,white
+60,Anna Maria Bollender,female,white
+61,Catharina  Bisch,female,white
+62,John  Koch,male,white
+63,Henry  Grunewalt,male,white
+64,Clemens  Dunkelberger,male,white
+65,Nicholas  Rausch,male,white
+66,Philip  Genfert,male,white
+67,Wife Of Philip Genfert,female,white
+68,Anna Christina Miller,female,white
+69,Jacob  Graff,male,white
+70,Catharina  Leiby,female,white
+71,Emanuel  Berkhart,male,white
+72,John Henry Mayer,male,white
+73,Phillipina  Graff,unknown,white
+74,Wife Of John Henry Mayer,female,white
+75,Wife Of Valentine Gerkhart,female,white
+76,Peter  Kartin,male,white
+77,Anna Cath Leiby,female,white
+78,John Henry Bollender,male,white
+79,John  Schedener,male,white
+80,Christina  Schmidt,female,white
+81,Jacob  Gerhart,male,white
+82,Elizabeth  Buss,female,white
+83,Hans Adam Buss,male,white
+84,Jacob  Jeffry,male,white
+85,Jacob  Bossert,male,white
+86,John Nicholas Roemer,male,white
+87,John  Bron,male,white
+88,George  Kirschner,male,white
+89,John  Schlinger,male,white
+90,Peter  Hag,male,white
+91,John  Schmedener,male,white
+92,Julianna  Borter,female,white
+93,George William Rigel,male,white
+94,Leonard  Koblinger,male,white
+95,Mattheus  Roemer,male,white
+96,Maria Sara Buss,female,white
+97,Michael  Mauser,male,white
+98,Frederick  Hauer,male,white
+99,Nicholas  Warner,male,white
+100,John  Schermacher,male,white
+101,Paulus  Rebliger,male,white
+102,John  Fraufelder,male,white
+103,Philip  119,male,white
+104,Philip  Jacobs,male,white
+105,Wife Of Hans Adam Buss,female,white
+106,Wife Of Jacob Bossert,female,white
+107,Wife Of John Schlinger,female,white
+108,Wife Of Leonard Koblinger,female,white
+109,Wife Of Matthias Roemer,female,white
+110,Wife Of Michael Mauser,female,white
+111,Wife Of Nicholas Warner,female,white
+112,Wife Of Paul Rebliger,female,white
+113,Peter  Bill,male,white
+114,Wife Of Peter Bill,female,white
+115,Ulrich  Wagener,male,white
+116,Adam  Faust,male,white
+117,Anna Rosina Kalbach,female,white
+118,Henry  Kalbach,male,white
+119,Gabriel  Eisenberg,male,white
+120,Eva Maria 119,female,white
+121,Eva Maria Faust,female,white
+122,John Frederick Leiby,male,white
+123,Susanna  Bossert,female,white
+124,Philip  Leinhardt,male,white
+125,Anna  Leinhardt,female,white
+126,John  Lescher,male,white
+127,Anna Margaret Dunckel,female,white
+128,John  Dunckel,male,white
+129,Anna Maria Breidman,female,white
+130,Nicholas  Rebenbuler,male,white
+131,Nicholas  Haff,male,white
+132,Apollonia  Mayer,female,white
+133,Christian  Neuman,male,white
+134,Conrad  Heninger,male,white
+135,John Jacob Leinhardt,male,white
+136,Rudolf  Bossert,male,white
+137,Martin  Ebler,male,white
+138,Rebecca  Bossert,female,white
+139,William  Bossler,male,white
+140,Catharina  Bossler,female,white
+141,George  Bromer,male,white
+142,Catharina  Bromer,female,white
+143,Jacob  Dierich,male,white
+144,Catharina  Dierich,female,white
+145,Christian  Hausknecht,male,white
+146,Elizabeth  Hausknecht,female,white
+147,Leonard  Seydel,male,white
+148,Gottfried  Seydel,male,white
+149,Magdalena  Seydel,female,white
+150,Henry  Balmer,male,white
+151,Margriet  Leinhardt,female,white
+152,Peter  Leinhardt,male,white
+153,Maria  Mayer,female,white
+154,John Adam Faust,male,white
+155,Anna Louisa Faust,female,white
+156,Michael  Lescher,male,white
+157,Anna Maria Mayer,female,white
+158,Catharina  Lescher,female,white
+159,Frederick  Mayer,male,white
+160,John Jacob Schumacher,male,white
+161,John Michael Heninger,male,white
+162,George  Branner,male,white
+163,Magdalena  Hazelton,female,white
+164,Michael  Ley,male,white
+165,Henry Adam Retter,male,white
+166,Magdalena  Schmidt,female,white
+167,Michael  Schmidt,male,white
+168,Henry  Back,male,white
+169,Maria Catharine Lien,female,white
+170,Nicholas  Lien,male,white
+171,Peter  Dunckel,male,white
+172,Catharina  Dunckel,female,white
+173,Catharina  Graff,female,white
+174,Barbara  Leiby,female,white
+175,George Michael Leiby,male,white
+176,John  Reinhart,male,white
+177,Magdalena  Reinhart,female,white
+178,Kiliaan  Dunckel,male,white
+179,Maria Magdalene Dunckel,female,white
+180,Wife Of George Leiby,female,white
+181,Henry  Christman,male,white
+182,Anna  Christman,female,white
+183,Martin  Ebly,male,white
+184,Barbara  Ebly,female,white
+185,Christopher  Kramer,male,white
+186,Barbara  West,female,white
+187,John  West,male,white
+188,Jacob  Mayer,male,white
+189,Elizabeth  Mayer,female,white
+190,John Frederick Mayer,male,white
+191,Sophia Maria Mayer,female,white
+192,Frederick  Leiby,male,white
+193,Susanna  Leiby,female,white
+194,Martin  Reple,male,white
+195,Barbara  Reple,female,white
+196,John Anthony Miller,male,white
+197,Eva Maria Miller,female,white
+198,Jacob  Scholenberger,male,white
+199,Maria Appolenia Mayer,female,white
+200,John Kilian Dunckel,male,white
+201,Magdalena  Dunckel,female,white
+202,Maria Catharine Rigel,female,white
+203,William  Rigel,male,white
+204,Maria Eva Scholenberger,female,white
+205,John George Ley,male,white
+206,Rebecca  Ley,female,white
+207,Jacob  Stein,male,white
+208,Adam  Closs,male,white
+209,John  Blattner,male,white
+210,Andrew  May,male,white
+211,Wife Of Andrew May,female,white
+212,Wife Of John Blattner,female,white
+213,John Nicholas Lien,male,white
+214,Christina  Will,female,white
+215,Peter  Will,male,white
+216,George  Rab,male,white
+217,Anna Elizabeth Scheilbeli,female,white
+218,Dorothea  Rab,female,white
+219,Peter  Scheilbeli,male,white
+220,Jacob  Petry,male,white
+221,George Adam Zettelmayer,male,white
+222,Gertrud  Bugeler,female,white
+223,John Christian Wehry,male,white
+224,Gertrud  Wehry,female,white
+225,Jacob  Zettelmayer,male,white
+226,Margriet Barbara Zettelmayer,female,white
+227,George  Stein,male,white
+228,Maria Barbara Keller,female,white
+229,Michael  Miller,male,white
+230,Maria Margaret Miller,female,white
+231,Michael  Unterkoffler,male,white
+232,Susanna  Wehry,female,white
+233,Anna Maria Stinger,female,white
+234,George  Stinger,male,white
+235,Jacob  Will,male,white
+236,Margriet  Dunckel,female,white
+237,Maria  Hill,female,white
+238,Conrad George Bohn,male,white
+239,Wife Of Conrad George Bohn,female,white
+240,Jacob  Sidler,male,white
+241,Catharina  Sidler,female,white
+242,John  Faust,male,white
+243,Susanna  Wiltraudt,female,white
+244,Joost Henry Jorg,male,white
+245,Elizabeth  Jorg,female,white
+246,Rosina  Adam,female,white
+247,Peter  Wiltraudt,male,white
+248,Susanna  Ernest,female,white
+249,Frederick Leiby Jr,male,white
+250,Catharina  119,female,white
+251,Henry  Kramer,male,white
+252,Christina  Hollebach,female,white
+253,Jacob  Schaffer,male,white
+254,Maria  Kramer,female,white
+255,John Jacob Maurer,male,white
+256,Maria Elizabeth Riegelman,female,white
+257,Michael  Schober,male,white
+258,Barbara  Schober,female,white
+259,Catharina  Wehry,female,white
+260,Peter  Steiger,male,white
+261,Christina  Steiger,female,white
+262,John George Dietrich,male,white
+263,Elizabeth  Dietrich,female,white
+264,John Philipse Faust,male,white
+265,Phoebe  Leibig,female,white
+266,Adam  Dietrich,male,white
+267,Anna Barbara Dietrich,female,white
+268,Catharina  Faust,female,white
+269,Henry  Sidler,male,white
+270,Eva  Sidler,female,white
+271,Martin  Zettelmayer,male,white
+272,Margriet  Zettelmayer,female,white
+273,Peter  Ladig,male,white
+274,Elizabeth  Herber,female,white
+275,John  Schumann,male,white
+276,Sussannna  Leiby,unknown,white
+277,Henry  Sonntag,male,white
+278,Barbara  Sonntag,female,white
+279,Rosina  Leiby,female,white
+280,Maria  Steiger,female,white
+281,George  Dietrich,male,white
+282,Jacob  Schneider,male,white
+283,Conrad  Reightner,male,white
+284,Maria  Reightner,female,white
+285,Jacob  Humel,male,white
+286,Elizabeth  Humel,female,white
+287,Henry  Stein,male,white
+288,Esther  Stein,female,white
+289,Jacob  Harknell,male,white
+290,Susanna  Harknell,female,white
