@@ -2,7 +2,7 @@
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\margl1440\margr1440\vieww12820\viewh14080\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 [\
@@ -79,6 +79,84 @@
     "description": "Text transform on cells in column target using expression value.trim()"\
   \},\
   \{\
+    "op": "core/column-addition",\
+    "engineConfig": \{\
+      "facets": [],\
+      "mode": "row-based"\
+    \},\
+    "baseColumnName": "source",\
+    "expression": "grel:value.find(/^[\\\\p\{L\}]+/).join(\\"\\")",\
+    "onError": "set-to-blank",\
+    "newColumnName": "source first",\
+    "columnInsertIndex": 4,\
+    "description": "Create column source first at index 4 based on column source using expression grel:value.find(/^[\\\\p\{L\}]+/).join(\\"\\")"\
+  \},\
+  \{\
+    "op": "core/column-addition",\
+    "engineConfig": \{\
+      "facets": [],\
+      "mode": "row-based"\
+    \},\
+    "baseColumnName": "source",\
+    "expression": "grel:value.find(/[\\\\p\{L\}]+$/).join(\\"\\")",\
+    "onError": "set-to-blank",\
+    "newColumnName": "source last",\
+    "columnInsertIndex": 4,\
+    "description": "Create column source last at index 4 based on column source using expression grel:value.find(/[\\\\p\{L\}]+$/).join(\\"\\")"\
+  \},\
+  \{\
+    "op": "core/column-addition",\
+    "engineConfig": \{\
+      "facets": [],\
+      "mode": "row-based"\
+    \},\
+    "baseColumnName": "source",\
+    "expression": "grel:value.replace(cells[\\"source first\\"].value,\\"\\").replace(cells[\\"source last\\"].value,\\"\\").trim()",\
+    "onError": "set-to-blank",\
+    "newColumnName": "source middle",\
+    "columnInsertIndex": 4,\
+    "description": "Create column source middle at index 4 based on column source using expression grel:value.replace(cells[\\"source first\\"].value,\\"\\").replace(cells[\\"source last\\"].value,\\"\\").trim()"\
+  \},\
+  \{\
+    "op": "core/column-addition",\
+    "engineConfig": \{\
+      "facets": [],\
+      "mode": "row-based"\
+    \},\
+    "baseColumnName": "target",\
+    "expression": "grel:value.find(/^[\\\\p\{L\}]+/).join(\\"\\")",\
+    "onError": "set-to-blank",\
+    "newColumnName": "target first",\
+    "columnInsertIndex": 4,\
+    "description": "Create column target first at index 4 based on column target using expression grel:value.find(/^[\\\\p\{L\}]+/).join(\\"\\")"\
+  \},\
+  \{\
+    "op": "core/column-addition",\
+    "engineConfig": \{\
+      "facets": [],\
+      "mode": "row-based"\
+    \},\
+    "baseColumnName": "target",\
+    "expression": "grel:value.find(/[\\\\p\{L\}]+$/).join(\\"\\")",\
+    "onError": "set-to-blank",\
+    "newColumnName": "target last",\
+    "columnInsertIndex": 4,\
+    "description": "Create column target last at index 4 based on column target using expression grel:value.find(/[\\\\p\{L\}]+$/).join(\\"\\")"\
+  \},\
+  \{\
+    "op": "core/column-addition",\
+    "engineConfig": \{\
+      "facets": [],\
+      "mode": "row-based"\
+    \},\
+    "baseColumnName": "target",\
+    "expression": "grel:value.replace(cells[\\"target first\\"].value,\\"\\").replace(cells[\\"target last\\"].value,\\"\\").trim()",\
+    "onError": "set-to-blank",\
+    "newColumnName": "target middle",\
+    "columnInsertIndex": 4,\
+    "description": "Create column target middle at index 4 based on column target using expression grel:value.replace(cells[\\"target first\\"].value,\\"\\").replace(cells[\\"target last\\"].value,\\"\\").trim()"\
+  \}\
+  \{\
     "op": "core/column-reorder",\
     "columnNames": [\
       "year",\
@@ -87,9 +165,9 @@
       "source middle",\
       "source last",\
       "target",\
+	\'93target first\'94,\
       "target middle",\
-      "target last",\
-      "target first"\
+      "target last"\
     ],\
     "description": "Reorder columns"\
   \}\
