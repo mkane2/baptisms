@@ -1507,7 +1507,7 @@
    "congregation": "ny-kingston-drc",
    "name": "Kingston NY Dutch Reformed",
    "collection": "existing",
-   "filename": "",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/ny-kingston-drc/ny-kingston-drc_network.json",
    "denomination": "dutch reformed",
    "latitude": 41.9270,
    "longitude": -73.9974,
@@ -1516,7 +1516,23 @@
    "duration": 150,
    "nodes": 10631,
    "edges": 46426,
-   "av_nodes": 70.87,
-   "av_edges": 309.5
+   "av_nodes": 71,
+   "av_edges": 309
+ },
+ {
+   "congregation": "ny-nyc-drc",
+   "name": "NYC Dutch Reformed",
+   "collection": "existing",
+   "filename": "",
+   "denomination": "dutch reformed",
+   "latitude": 40.7575,
+   "longitude": -73.978333,
+   "start": 1639,
+   "end": 1800,
+   "duration": 161,
+   "nodes": 21679,
+   "edges": 91886,
+   "av_nodes": 134,
+   "av_edges": 570
  }
 ]
