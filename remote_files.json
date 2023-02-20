@@ -1,30 +1,19 @@
 [
  {
-   "congregation": "pa-aaronsberg-lutheran",
-   "name": "Aaronsberg PA Lutheran",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-aaronsberg-lutheran/pa-aaronsberg-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 40.89869,
-   "longitude": -77.456184
- },
- {
-   "congregation": "drc-albany",
-   "name": "Albany Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/drc-albany/drc-albany_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 42.653611,
-   "longitude": -73.750556
- },
- {
    "congregation": "albany-lutheran",
    "name": "Albany Lutheran",
    "collection": "existing",
    "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/albany-lutheran/albany-lutheran_network.json",
    "denomination": "lutheran",
    "latitude": 42.6619892,
-   "longitude": -73.7776913
+   "longitude": -73.7776913,
+   "start": 1784,
+   "end": 1799,
+   "duration": 15,
+   "nodes": 1842,
+   "edges": 3094,
+   "av_nodes": 18,
+   "av_edges": 43
  },
  {
    "congregation": "albany-lutheran-1",
@@ -33,7 +22,14 @@
    "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/albany-lutheran/albany-lutheran_0_network.json",
    "denomination": "lutheran",
    "latitude": 42.6619892,
-   "longitude": -73.7776913
+   "longitude": -73.7776913,
+   "start": 1784,
+   "end": 1799,
+   "duration": 15,
+   "nodes": 1842,
+   "edges": 3094,
+   "av_nodes": 18,
+   "av_edges": 43
  },
  {
    "congregation": "albany-lutheran-2",
@@ -42,7 +38,14 @@
    "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/albany-lutheran/albany-lutheran_1_network.json",
    "denomination": "lutheran",
    "latitude": 42.6619892,
-   "longitude": -73.7776913
+   "longitude": -73.7776913,
+   "start": 1784,
+   "end": 1799,
+   "duration": 15,
+   "nodes": 1842,
+   "edges": 3094,
+   "av_nodes": 18,
+   "av_edges": 43
  },
  {
    "congregation": "bergen-drc",
@@ -51,250 +54,14 @@
    "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/bergen-drc/bergen-drc_network.json",
    "denomination": "dutch reformed",
    "latitude": 40.726944,
-   "longitude": -74.069444
- },
- {
-   "congregation": "pa-canadochly-lutheran",
-   "name": "Canadochly PA Lutheran",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-canadochly-lutheran/pa-canadochly-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 40.902496,
-   "longitude": -77.833451
- },
- {
-   "congregation": "catskill-drc",
-   "name": "Catskill Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/catskill-drc/catskill-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 42.221111,
-   "longitude": -73.866389
- },
- {
-   "congregation": "caughnawaga-drc",
-   "name": "Caughnawaga Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/caughnawaga-drc/caughnawaga-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 42.954444,
-   "longitude": -74.375556
- },
- {
-   "congregation": "deerpark-drc",
-   "name": "Deerpark Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/deerpark-drc/deerpark-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 41.45,
-   "longitude": -74.65
- },
- {
-   "congregation": "pa-derry-lutheran",
-   "name": "Derry PA Lutheran",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-derry-lutheran/pa-derry-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 40.334,
-   "longitude": -79.2998
- },
- {
-   "congregation": "detroit-catholic",
-   "name": "Detroit Catholic",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/detroit-catholic/detroit-catholic_network.json",
-   "denomination": "catholic",
-   "latitude": 42.283333,
-   "longitude": -83
- },
- {
-   "congregation": "pa-egypt-grc",
-   "name": "Egypt PA German Reformed",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-egypt-grc/pa-egypt-grc_network.json",
-   "denomination": "german reformed",
-   "latitude": 40.680096,
-   "longitude": -75.529907
- },
- {
-   "congregation": "flatbush-drc",
-   "name": "Flatbush Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/flatbush-drc/flatbush-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 40.65,
-   "longitude": -73.959167
- },
- {
-   "congregation": "flatlands-drc",
-   "name": "Flatlands Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/flatlands-drc/flatlands-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 40.621,
-   "longitude": -73.935
- },
- {
-   "congregation": "fthunter-anglican",
-   "name": "Fort Hunter Anglican",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/fthunter-anglican/fthunter-anglican_network.json",
-   "denomination": "anglican",
-   "latitude": 42.939625,
-   "longitude": -74.286283
- },
- {
-   "congregation": "gravesend-drc",
-   "name": "Graves End Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/gravesend-drc/gravesend-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 40.598,
-   "longitude": -73.971
- },
- {
-   "congregation": "helderburgh-drc",
-   "name": "Helderburgh Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/helderburgh-drc/helderburgh-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 42.701389,
-   "longitude": -73.925278
- },
- {
-   "congregation": "pa-himmel-lutheran",
-   "name": "Himmel PA Lutheran",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-himmel-lutheran/pa-himmel-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 40.7231,
-   "longitude": -76.737
- },
- {
-   "congregation": "pa-howerters-grc",
-   "name": "Howerters PA German Reformed",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-howerters-grc/pa-howerters-grc_network.json",
-   "denomination": "german reformed",
-   "latitude": 39.78969,
-   "longitude": -76.977984
- },
- {
-   "congregation": "pa-macungie-lutheran",
-   "name": "Macungie PA Lutheran",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-macungie-lutheran/pa-macungie-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 40.517851,
-   "longitude": -75.565028
- },
- {
-   "congregation": "huguenot-nyc",
-   "name": "NYC Huguenot",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/huguenot-nyc/huguenot-nyc_network.json",
-   "denomination": "huguenot",
-   "latitude": 40.7634666,
-   "longitude": -73.9687545
- },
- {
-   "congregation": "va-peakedmountain-union",
-   "name": "Peaked Mountain VA Union",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/va-peakedmountain-union/va-peakedmountain-union_network.json",
-   "denomination": "union",
-   "latitude": 36.577931,
-   "longitude": -76.035763
- },
- {
-   "congregation": "pa-philadelphia-grc",
-   "name": "Philadelphia German Reformed",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-philadelphia-grc/pa-philadelphia-grc_network.json",
-   "denomination": "german reformed",
-   "latitude": 39.9526,
-   "longitude": -75.1652
- },
- {
-   "congregation": "rensl-lutheran",
-   "name": "Rensselaer Lutheran",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/rensl-lutheran/rensl-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 42.7612678,
-   "longitude": -73.5955521
- },
- {
-   "congregation": "ga-rincon-lutheran",
-   "name": "Rincon GA Lutheran",
-   "collection": "APS",
-   "filename": "",
-   "denomination": "lutheran",
-   "latitude": 32.2852,
-   "longitude": -81.2875
- },
- {
-   "congregation": "ny-schaghticoke-drc",
-   "name": "Schaghticoke Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/ny-schaghticoke-drc/ny-schaghticoke-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 42.880556,
-   "longitude": -73.609722
- },
- {
-   "congregation": "schenectady-drc",
-   "name": "Schenectady Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/schenectady-drc/schenectady-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 42.814167,
-   "longitude": -73.937222
- },
- {
-   "congregation": "drc-schoharie",
-   "name": "Schoharie Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/drc-schoharie/drc-schoharie_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 42.6623856,
-   "longitude": -74.3134161
- },
- {
-   "congregation": "schoharie-lutheran",
-   "name": "Schoharie Lutheran",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/schoharie-lutheran/schoharie-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 42.664444,
-   "longitude": -74.3125
- },
- {
-   "congregation": "pa-schuykill-dunkels-lutheran",
-   "name": "Schuykill PA Lutheran",
-   "collection": "OCR",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-schuykill-dunkels-lutheran/pa-schuykill-dunkels-lutheran_network.json",
-   "denomination": "lutheran",
-   "latitude": 40.902496,
-   "longitude": -77.833451
- },
- {
-   "congregation": "sleepyhollow-drc",
-   "name": "Sleepyhollow Dutch Reformed",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/sleepyhollow-drc/sleepyhollow-drc_network.json",
-   "denomination": "dutch reformed",
-   "latitude": 41.090278,
-   "longitude": -73.861667
- },
- {
-   "congregation": "la-stmartinville-catholic",
-   "name": "St. Martinville Catholic",
-   "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/la-stmartinville-catholic/la-stmartinville-catholic_network.json",
-   "denomination": "catholic",
-   "latitude": 30.125,
-   "longitude": -91.830556
+   "longitude": -74.069444,
+   "start": 1666,
+   "end": 1789,
+   "duration": 123,
+   "nodes": 1225,
+   "edges": 3815,
+   "av_nodes": 8,
+   "av_edges": 29
  },
  {
    "congregation": "bridgetown-anglican",
@@ -303,16 +70,238 @@
    "filename": "",
    "denomination": "huguenot",
    "latitude": 13.106,
-   "longitude": -59.6132
+   "longitude": -59.6132,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
-   "congregation": "westcamp-lutheran",
-   "name": "West Camp Palatine Lutheran",
+   "congregation": "catskill-drc",
+   "name": "Catskill Dutch Reformed",
    "collection": "existing",
-   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/westcamp-lutheran/westcamp-lutheran_network.json",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/catskill-drc/catskill-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 42.221111,
+   "longitude": -73.866389,
+   "start": 1732,
+   "end": 1807,
+   "duration": 75,
+   "nodes": 1676,
+   "edges": 4199,
+   "av_nodes": 17,
+   "av_edges": 49
+ },
+ {
+   "congregation": "caughnawaga-drc",
+   "name": "Caughnawaga Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/caughnawaga-drc/caughnawaga-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 42.954444,
+   "longitude": -74.375556,
+   "start": 1760,
+   "end": 1776,
+   "duration": 16,
+   "nodes": 918,
+   "edges": 2098,
+   "av_nodes": 43,
+   "av_edges": 114
+ },
+ {
+   "congregation": "deerpark-drc",
+   "name": "Deerpark Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/deerpark-drc/deerpark-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 41.45,
+   "longitude": -74.65,
+   "start": 1737,
+   "end": 1760,
+   "duration": 23,
+   "nodes": 667,
+   "edges": 2809,
+   "av_nodes": 27,
+   "av_edges": 120
+ },
+ {
+   "congregation": "detroit-catholic",
+   "name": "Detroit Catholic",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/detroit-catholic/detroit-catholic_network.json",
+   "denomination": "catholic",
+   "latitude": 42.283333,
+   "longitude": -83,
+   "start": 1761,
+   "end": 1786,
+   "duration": 25,
+   "nodes": 1018,
+   "edges": 3751,
+   "av_nodes": 38,
+   "av_edges": 146
+ },
+ {
+   "congregation": "drc-albany",
+   "name": "Albany Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/drc-albany/drc-albany_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 42.653611,
+   "longitude": -73.750556,
+   "start": 1683,
+   "end": 1724,
+   "duration": 41,
+   "nodes": 3110,
+   "edges": 11358,
+   "av_nodes": 72,
+   "av_edges": 272
+ },
+ {
+   "congregation": "drc-schoharie",
+   "name": "Schoharie Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/drc-schoharie/drc-schoharie_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 42.6623856,
+   "longitude": -74.3134161,
+   "start": 1743,
+   "end": 1748,
+   "duration": 5,
+   "nodes": 192,
+   "edges": 361,
+   "av_nodes": 26,
+   "av_edges": 55
+ },
+ {
+   "congregation": "flatbush-drc",
+   "name": "Flatbush Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/flatbush-drc/flatbush-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 40.65,
+   "longitude": -73.959167,
+   "start": 1677,
+   "end": 1725,
+   "duration": 48,
+   "nodes": 1269,
+   "edges": 3245,
+   "av_nodes": 22,
+   "av_edges": 62
+ },
+ {
+   "congregation": "flatlands-drc",
+   "name": "Flatlands Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/flatlands-drc/flatlands-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 40.621,
+   "longitude": -73.935,
+   "start": 1747,
+   "end": 1802,
+   "duration": 55,
+   "nodes": 710,
+   "edges": 1120,
+   "av_nodes": 8,
+   "av_edges": 16
+ },
+ {
+   "congregation": "fthunter-anglican",
+   "name": "Fort Hunter Anglican",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/fthunter-anglican/fthunter-anglican_network.json",
+   "denomination": "anglican",
+   "latitude": 42.939625,
+   "longitude": -74.286283,
+   "start": 1734,
+   "end": 1745,
+   "duration": 11,
+   "nodes": 948,
+   "edges": 2802,
+   "av_nodes": 68,
+   "av_edges": 219
+ },
+ {
+   "congregation": "ga-rincon-lutheran",
+   "name": "Rincon GA Lutheran",
+   "collection": "APS",
+   "filename": "",
    "denomination": "lutheran",
-   "latitude": 41.541667,
-   "longitude": -74.063056
+   "latitude": 32.2852,
+   "longitude": -81.2875,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "gravesend-drc",
+   "name": "Graves End Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/gravesend-drc/gravesend-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 40.598,
+   "longitude": -73.971,
+   "start": 1763,
+   "end": 1805,
+   "duration": 42,
+   "nodes": 336,
+   "edges": 525,
+   "av_nodes": 3,
+   "av_edges": 8
+ },
+ {
+   "congregation": "helderburgh-drc",
+   "name": "Helderburgh Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/helderburgh-drc/helderburgh-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 42.701389,
+   "longitude": -73.925278,
+   "start": 1786,
+   "end": 1807,
+   "duration": 21,
+   "nodes": 1565,
+   "edges": 3224,
+   "av_nodes": 54,
+   "av_edges": 134
+ },
+ {
+   "congregation": "huguenot-nyc",
+   "name": "NYC Huguenot",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/huguenot-nyc/huguenot-nyc_network.json",
+   "denomination": "huguenot",
+   "latitude": 40.7634666,
+   "longitude": -73.9687545,
+   "start": 1688,
+   "end": 1776,
+   "duration": 88,
+   "nodes": 1655,
+   "edges": 4977,
+   "av_nodes": 17,
+   "av_edges": 54
+ },
+ {
+   "congregation": "la-stmartinville-catholic",
+   "name": "St. Martinville Catholic",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/la-stmartinville-catholic/la-stmartinville-catholic_network.json",
+   "denomination": "catholic",
+   "latitude": 30.125,
+   "longitude": -91.830556,
+   "start": 1765,
+   "end": 1778,
+   "duration": 13,
+   "nodes": 259,
+   "edges": 725,
+   "av_nodes": 18,
+   "av_edges": 54
  },
  {
    "congregation": "ma-boston-anglican",
@@ -321,7 +310,14 @@
    "filename": "",
    "denomination": "anglican",
    "latitude": 42.3543,
-   "longitude": -71.0734
+   "longitude": -71.0734,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-baltimore-anglican",
@@ -330,7 +326,14 @@
    "filename": "",
    "denomination": "anglican",
    "latitude": 39.2965,
-   "longitude": -76.6235
+   "longitude": -76.6235,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-frederick-grc",
@@ -339,7 +342,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 39.4436,
-   "longitude": -77.3329
+   "longitude": -77.3329,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-frederick-lutheran",
@@ -348,7 +358,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 39.4436,
-   "longitude": -77.3329
+   "longitude": -77.3329,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-hagerstown-grc",
@@ -357,7 +374,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 39.5889,
-   "longitude": -77.7002
+   "longitude": -77.7002,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-hagerstown-lutheran",
@@ -366,7 +390,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 39.5889,
-   "longitude": -77.7002
+   "longitude": -77.7002,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-manchester-lutheran",
@@ -375,7 +406,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 39.6612,
-   "longitude": -76.885
+   "longitude": -76.885,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-newwindsor-lutheran",
@@ -384,7 +422,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 39.5219,
-   "longitude": -77.0933
+   "longitude": -77.0933,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-salisbury-catholic",
@@ -393,7 +438,14 @@
    "filename": "",
    "denomination": "catholic",
    "latitude": 38.3824,
-   "longitude": -75.6336
+   "longitude": -75.6336,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-thurmont-grc",
@@ -402,7 +454,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 39.6109,
-   "longitude": -77.3989
+   "longitude": -77.3989,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "md-westminster-grc",
@@ -411,7 +470,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 39.5642,
-   "longitude": -76.9807
+   "longitude": -76.9807,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-alexandria-grc",
@@ -420,7 +486,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 40.5908,
-   "longitude": -75.0261
+   "longitude": -75.0261,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-belleville-drc",
@@ -429,7 +502,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.7949,
-   "longitude": -74.1619
+   "longitude": -74.1619,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-harlingen-drc",
@@ -438,7 +518,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.4476,
-   "longitude": -74.6624
+   "longitude": -74.6624,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-newbrunswick-drc",
@@ -447,7 +534,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.4868,
-   "longitude": -74.4444
+   "longitude": -74.4444,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-oldman'screek-moravian",
@@ -456,7 +550,14 @@
    "filename": "",
    "denomination": "moravian",
    "latitude": 39.7823,
-   "longitude": -75.436
+   "longitude": -75.436,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-oldwick-lutheran",
@@ -465,7 +566,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.6726,
-   "longitude": -74.74738
+   "longitude": -74.74738,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-pennsneck-lutheran",
@@ -474,7 +582,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.3323,
-   "longitude": -74.6368
+   "longitude": -74.6368,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-raritan-drc",
@@ -483,7 +598,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.5738,
-   "longitude": -74.6426
+   "longitude": -74.6426,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-readington-drc",
@@ -492,7 +614,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.5637,
-   "longitude": -74.9494
+   "longitude": -74.9494,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-rockland-presbyterian",
@@ -501,7 +630,14 @@
    "filename": "",
    "denomination": "presbyterian",
    "latitude": 41.1489,
-   "longitude": -73.983
+   "longitude": -73.983,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-salemcounty-lutheran",
@@ -510,7 +646,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 39.5877,
-   "longitude": -75.4394
+   "longitude": -75.4394,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-totowa-drc",
@@ -519,7 +662,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 41.0114,
-   "longitude": -74.3048
+   "longitude": -74.3048,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "nj-wawarsing-drc",
@@ -528,7 +678,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 41.7589,
-   "longitude": -74.3573
+   "longitude": -74.3573,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-brooklyn-drc",
@@ -537,7 +694,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.6945,
-   "longitude": -73.9893
+   "longitude": -73.9893,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-katsbaan-drc",
@@ -546,7 +710,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 42.1109,
-   "longitude": -73.9682
+   "longitude": -73.9682,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-newdorp-moravian",
@@ -555,7 +726,14 @@
    "filename": "",
    "denomination": "moravian",
    "latitude": 40.5725,
-   "longitude": -74.1139
+   "longitude": -74.1139,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-newpaltz-huguenot",
@@ -564,7 +742,14 @@
    "filename": "",
    "denomination": "huguenot",
    "latitude": 41.74638,
-   "longitude": -74.109241
+   "longitude": -74.109241,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-nyc-lutheran",
@@ -573,7 +758,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.7504,
-   "longitude": -73.9963
+   "longitude": -73.9963,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-rochester-lutheran",
@@ -582,7 +774,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 41.836,
-   "longitude": -74.2884
+   "longitude": -74.2884,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-rye-drc",
@@ -591,7 +790,30 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.9789,
-   "longitude": -73.6933
+   "longitude": -73.6933,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "ny-schaghticoke-drc",
+   "name": "Schaghticoke Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/ny-schaghticoke-drc/ny-schaghticoke-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 42.880556,
+   "longitude": -73.609722,
+   "start": 1763,
+   "end": 1808,
+   "duration": 45,
+   "nodes": 3258,
+   "edges": 7514,
+   "av_nodes": 49,
+   "av_edges": 144
  },
  {
    "congregation": "ny-shawagunk-drc",
@@ -600,7 +822,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 42.9134,
-   "longitude": -75.5963
+   "longitude": -75.5963,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "ny-success-drc",
@@ -609,7 +838,30 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.7698,
-   "longitude": -73.709
+   "longitude": -73.709,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "pa-aaronsberg-lutheran",
+   "name": "Aaronsberg PA Lutheran",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-aaronsberg-lutheran/pa-aaronsberg-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.89869,
+   "longitude": -77.456184,
+   "start": 1794,
+   "end": 1803,
+   "duration": 9,
+   "nodes": 217,
+   "edges": 234,
+   "av_nodes": 23,
+   "av_edges": 25
  },
  {
    "congregation": "pa-bensalem-lutheran",
@@ -618,7 +870,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.1046,
-   "longitude": -74.9513
+   "longitude": -74.9513,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-bernville-lutheran",
@@ -627,16 +886,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.4334,
-   "longitude": -76.1122
- },
- {
-   "congregation": "pa-bernville-lutheran",
-   "name": "Bernville PA Lutheran",
-   "collection": "APS",
-   "filename": "",
-   "denomination": "lutheran",
-   "latitude": 40.4334,
-   "longitude": -76.1122
+   "longitude": -76.1122,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-brickerville-lutheran",
@@ -645,7 +902,46 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.2692,
-   "longitude": -79.8898
+   "longitude": -79.8898,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "pa-canadochly-lutheran",
+   "name": "Canadochly PA Lutheran",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-canadochly-lutheran/pa-canadochly-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.902496,
+   "longitude": -77.833451,
+   "start": 1748,
+   "end": 1824,
+   "duration": 76,
+   "nodes": 921,
+   "edges": 1760,
+   "av_nodes": 12,
+   "av_edges": 23
+ },
+ {
+   "congregation": "pa-derry-lutheran",
+   "name": "Derry PA Lutheran",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-derry-lutheran/pa-derry-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.334,
+   "longitude": -79.2998,
+   "start": 1727,
+   "end": 1822,
+   "duration": 95,
+   "nodes": 268,
+   "edges": 346,
+   "av_nodes": 2,
+   "av_edges": 3
  },
  {
    "congregation": "pa-derry-lutheran",
@@ -654,7 +950,30 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.334,
-   "longitude": -79.2998
+   "longitude": -79.2998,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "pa-egypt-grc",
+   "name": "Egypt PA German Reformed",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-egypt-grc/pa-egypt-grc_network.json",
+   "denomination": "german reformed",
+   "latitude": 40.680096,
+   "longitude": -75.529907,
+   "start": 1734,
+   "end": 1834,
+   "duration": 100,
+   "nodes": 1558,
+   "edges": 4031,
+   "av_nodes": 15,
+   "av_edges": 40
  },
  {
    "congregation": "pa-goshenhoppen-catholic",
@@ -663,7 +982,14 @@
    "filename": "",
    "denomination": "catholic",
    "latitude": 40.9025,
-   "longitude": -77.8335
+   "longitude": -77.8335,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-goshenhoppen-lutheran",
@@ -672,7 +998,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.9025,
-   "longitude": -77.8335
+   "longitude": -77.8335,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-greensburg-catholic",
@@ -681,7 +1014,14 @@
    "filename": "",
    "denomination": "catholic",
    "latitude": 40.315,
-   "longitude": -79.5357
+   "longitude": -79.5357,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-hain-grc",
@@ -690,7 +1030,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 40.9025,
-   "longitude": -77.8335
+   "longitude": -77.8335,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-hamburg-lutheran",
@@ -699,7 +1046,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.55565,
-   "longitude": -75.98188
+   "longitude": -75.98188,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-hanover-grc",
@@ -708,7 +1062,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 39.78969,
-   "longitude": -76.977984
+   "longitude": -76.977984,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-hanover-lutheran",
@@ -717,7 +1078,46 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 39.7897,
-   "longitude": -76.978
+   "longitude": -76.978,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "pa-himmel-lutheran",
+   "name": "Himmel PA Lutheran",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-himmel-lutheran/pa-himmel-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.7231,
+   "longitude": -76.737,
+   "start": 1774,
+   "end": 1846,
+   "duration": 72,
+   "nodes": 1724,
+   "edges": 3196,
+   "av_nodes": 23,
+   "av_edges": 44
+ },
+ {
+   "congregation": "pa-howerters-grc",
+   "name": "Howerters PA German Reformed",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-howerters-grc/pa-howerters-grc_network.json",
+   "denomination": "german reformed",
+   "latitude": 39.78969,
+   "longitude": -76.977984,
+   "start": 1773,
+   "end": 1869,
+   "duration": 96,
+   "nodes": 1644,
+   "edges": 4476,
+   "av_nodes": 17,
+   "av_edges": 46
  },
  {
    "congregation": "pa-lancaster-catholic",
@@ -726,7 +1126,30 @@
    "filename": "",
    "denomination": "catholic",
    "latitude": 40.0766,
-   "longitude": -76.3107
+   "longitude": -76.3107,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "pa-macungie-lutheran",
+   "name": "Macungie PA Lutheran",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-macungie-lutheran/pa-macungie-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.517851,
+   "longitude": -75.565028,
+   "start": 1750,
+   "end": 1800,
+   "duration": 50,
+   "nodes": 1516,
+   "edges": 3113,
+   "av_nodes": 30,
+   "av_edges": 62
  },
  {
    "congregation": "pa-mahanoy-grc",
@@ -735,7 +1158,14 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 40.782374,
-   "longitude": -76.679115
+   "longitude": -76.679115,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-newhanover-drc",
@@ -744,7 +1174,14 @@
    "filename": "",
    "denomination": "dutch reformed",
    "latitude": 40.2979,
-   "longitude": -75.5813
+   "longitude": -75.5813,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-perkasie-lutheran",
@@ -753,7 +1190,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.3902,
-   "longitude": -75.2333
+   "longitude": -75.2333,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-philadelphia-catholic",
@@ -762,7 +1206,30 @@
    "filename": "",
    "denomination": "catholic",
    "latitude": 40.0018,
-   "longitude": -75.1179
+   "longitude": -75.1179,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "pa-philadelphia-grc",
+   "name": "Philadelphia German Reformed",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-philadelphia-grc/pa-philadelphia-grc_network.json",
+   "denomination": "german reformed",
+   "latitude": 39.9526,
+   "longitude": -75.1652,
+   "start": 1748,
+   "end": 1777,
+   "duration": 29,
+   "nodes": 1938,
+   "edges": 3207,
+   "av_nodes": 66,
+   "av_edges": 110
  },
  {
    "congregation": "pa-philadelphia-lutheran",
@@ -771,7 +1238,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.0018,
-   "longitude": -75.1179
+   "longitude": -75.1179,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-rockland-lutheran",
@@ -780,7 +1254,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 41.2773,
-   "longitude": -79.7489
+   "longitude": -79.7489,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-salem-grc",
@@ -789,7 +1270,30 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 41.072006,
-   "longitude": -78.741696
+   "longitude": -78.741696,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "pa-schuykill-dunkels-lutheran",
+   "name": "Schuykill PA Lutheran",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/pa-schuykill-dunkels-lutheran/pa-schuykill-dunkels-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 40.902496,
+   "longitude": -77.833451,
+   "start": 1746,
+   "end": 1820,
+   "duration": 74,
+   "nodes": 217,
+   "edges": 246,
+   "av_nodes": 2,
+   "av_edges": 3
  },
  {
    "congregation": "pa-smithfield-lutheran",
@@ -798,7 +1302,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 39.8031,
-   "longitude": -79.8078
+   "longitude": -79.8078,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-tohickon-lutheran",
@@ -807,7 +1318,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.9025,
-   "longitude": -77.8335
+   "longitude": -77.8335,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-trappe-lutheran",
@@ -816,7 +1334,14 @@
    "filename": "",
    "denomination": "lutheran",
    "latitude": 40.199,
-   "longitude": -75.4763
+   "longitude": -75.4763,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  },
  {
    "congregation": "pa-whitehall-grc",
@@ -825,7 +1350,30 @@
    "filename": "",
    "denomination": "german reformed",
    "latitude": 40.656746,
-   "longitude": -75.504128
+   "longitude": -75.504128,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "rensl-lutheran",
+   "name": "Rensselaer Lutheran",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/rensl-lutheran/rensl-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 42.7612678,
+   "longitude": -73.5955521,
+   "start": 1777,
+   "end": 1782,
+   "duration": 5,
+   "nodes": 1654,
+   "edges": 3173,
+   "av_nodes": 114,
+   "av_edges": 280
  },
  {
    "congregation": "ri-narragansett-huguenot",
@@ -834,7 +1382,78 @@
    "filename": "",
    "denomination": "huguenot",
    "latitude": 41.4501,
-   "longitude": -71.4495
+   "longitude": -71.4495,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "schenectady-drc",
+   "name": "Schenectady Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/schenectady-drc/schenectady-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 42.814167,
+   "longitude": -73.937222,
+   "start": 1694,
+   "end": 1723,
+   "duration": 29,
+   "nodes": 756,
+   "edges": 3057,
+   "av_nodes": 24,
+   "av_edges": 103
+ },
+ {
+   "congregation": "schoharie-lutheran",
+   "name": "Schoharie Lutheran",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/schoharie-lutheran/schoharie-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 42.664444,
+   "longitude": -74.3125,
+   "start": 1731,
+   "end": 1757,
+   "duration": 26,
+   "nodes": 612,
+   "edges": 1725,
+   "av_nodes": 22,
+   "av_edges": 64
+ },
+ {
+   "congregation": "sleepyhollow-drc",
+   "name": "Sleepyhollow Dutch Reformed",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/sleepyhollow-drc/sleepyhollow-drc_network.json",
+   "denomination": "dutch reformed",
+   "latitude": 41.090278,
+   "longitude": -73.861667,
+   "start": 1697,
+   "end": 1791,
+   "duration": 94,
+   "nodes": 1801,
+   "edges": 7753,
+   "av_nodes": 17,
+   "av_edges": 81
+ },
+ {
+   "congregation": "va-peakedmountain-union",
+   "name": "Peaked Mountain VA Union",
+   "collection": "OCR",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/va-peakedmountain-union/va-peakedmountain-union_network.json",
+   "denomination": "union",
+   "latitude": 36.577931,
+   "longitude": -76.035763,
+   "start": 1745,
+   "end": 1802,
+   "duration": 57,
+   "nodes": 362,
+   "edges": 568,
+   "av_nodes": 6,
+   "av_edges": 9
  },
  {
    "congregation": "va-surreycounty-anglican",
@@ -843,7 +1462,30 @@
    "filename": "",
    "denomination": "anglican",
    "latitude": 37.1379,
-   "longitude": -76.8352
+   "longitude": -76.8352,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
+ },
+ {
+   "congregation": "westcamp-lutheran",
+   "name": "West Camp Palatine Lutheran",
+   "collection": "existing",
+   "filename": "https://raw.githubusercontent.com/mkane2/baptisms/main/networks/westcamp-lutheran/westcamp-lutheran_network.json",
+   "denomination": "lutheran",
+   "latitude": 41.541667,
+   "longitude": -74.063056,
+   "start": 1708,
+   "end": 1719,
+   "duration": 11,
+   "nodes": 1123,
+   "edges": 2598,
+   "av_nodes": 66,
+   "av_edges": 177
  },
  {
    "congregation": "wi-prarieduchien-catholic",
@@ -852,6 +1494,13 @@
    "filename": "",
    "denomination": "catholic",
    "latitude": 43.084,
-   "longitude": -91.0691
+   "longitude": -91.0691,
+   "start": null,
+   "end": null,
+   "duration": null,
+   "nodes": null,
+   "edges": null,
+   "av_nodes": null,
+   "av_edges": null
  }
 ]
