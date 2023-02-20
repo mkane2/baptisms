@@ -1502,5 +1502,21 @@
    "edges": null,
    "av_nodes": null,
    "av_edges": null
+ },
+ {
+   "congregation": "ny-kingston-drc",
+   "name": "Kingston NY Dutch Reformed",
+   "collection": "existing",
+   "filename": "",
+   "denomination": "dutch reformed",
+   "latitude": 41.9270,
+   "longitude": -73.9974,
+   "start": 1660,
+   "end": 1810,
+   "duration": 150,
+   "nodes": 10631,
+   "edges": 46426,
+   "av_nodes": 70.87,
+   "av_edges": 309.5
  }
 ]
