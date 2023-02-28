@@ -48,11 +48,11 @@ with tempfile.TemporaryDirectory() as path:
         # print("Page size ", str(images[n].shape[0]))
         gray = cv2.cvtColor(i, cv2.COLOR_BGR2GRAY)
         # threshing to improve contouring - need binary image
-        pg_width = images[n].shape[0]
+        pg_width = 500 #images[n].shape[0]
         gray = cv2.threshold(gray, 0, 255,
                               cv2.THRESH_OTSU | cv2.THRESH_BINARY_INV)[1]
         # set kernel size - fudge numbers to capture bigger or smaller regions
-        rect_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (pg_width,18))
+        rect_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (18,pg_width))
         # dilate image - create large blobs of text to detect clusters
         dilation = cv2.dilate(gray, rect_kernel, iterations=3)
         # standard contouring method
@@ -98,7 +98,7 @@ with tempfile.TemporaryDirectory() as path:
                     cropped = i[y:y + h, x:x + w]
                     text = pytesseract.image_to_string(cropped)
                     row.append(text.strip())
-                with open(slug + '-output-'+ pg_width +'.csv', 'a', newline='',
+                with open(slug + '-output-'+ str(pg_width) +'.csv', 'a', newline='',
                           encoding='utf-8') as f:
                     writer = csv.writer(f)
                     writer.writerow(row)

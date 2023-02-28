@@ -11,7 +11,7 @@ Original file is located at
 
 from PyPDF2 import PdfReader, PdfWriter
 # import requests
-from pathlib import Path
+# from pathlib import Path
 import os
 
 remote_files = []
