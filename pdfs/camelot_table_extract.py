@@ -16,7 +16,7 @@ import cv2
 import pandas as pd
 import os
 
-# slug = "nj-walpeck-drc-1"
+# slug = "ny-oysterbay-drc"
 
 # file_path = 'type_2/trimmed_pdfs/' + slug + '.pdf'
 
@@ -46,7 +46,8 @@ for f in files:
     slug = f.replace(".pdf","")
     
     df = pd.DataFrame()
-# get temporary directory of Image objects
+    
+    # get temporary directory of Image objects
     with tempfile.TemporaryDirectory() as path:
         print("Converting pages . . . ")
         images = convert_pdf(file_path, 300)
@@ -60,7 +61,7 @@ for f in files:
                 pdf = pytesseract.image_to_pdf_or_hocr(i, extension='pdf', config="--psm 4")
                 
                 with open('temp.pdf', 'w+b') as f:
-                    f.write(pdf) # pdf type is bytes by default
+                    f.write(pdf)
                 
                 try:
                     tables = camelot.read_pdf('temp.pdf', flavor="stream", row_tol=10, pages="1-end")
