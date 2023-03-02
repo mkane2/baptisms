@@ -14,7 +14,7 @@ import tempfile
 import numpy as np
 import cv2
 import pandas as pd
-import os
+# import os
 
 slug = "ny-oysterbay-drc"
 
@@ -71,7 +71,6 @@ with tempfile.TemporaryDirectory() as path:
         
                 # print("Total tables extracted:", tables.n)
         
-                
                 for t in tables:
                     coords = []
                     cells = t.cells
@@ -81,7 +80,6 @@ with tempfile.TemporaryDirectory() as path:
                             splitcell = cell.split()
                             splitcell.append(n)
                             coords.append(splitcell)
-                # print(coords)
                     
                     coord_df = pd.DataFrame(coords, columns=['bottom_left_x1', 'bottom_left_y1', 'top_right_x2', 'top_right_y2', 'pg'])
                     
@@ -110,11 +108,6 @@ with tempfile.TemporaryDirectory() as path:
                     newtables = camelot.read_pdf('temp.pdf', flavor='stream', columns=[coords])
                     for nt in newtables:
                         nt.df['pdf_pg'] = n
-                    # print(t.df)
-                    # t.df = t.df.iloc[1:]
-                    # nheader = t.df.iloc[0]
-                    # t.df = t.df[1:]
-                    # t.df.columns = nheader
                         out_df = pd.concat([out_df, nt.df])
             except:
                 pass
