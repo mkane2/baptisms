@@ -1,0 +1,102 @@
+﻿file,page,columnization issues,notes
+nj-schraalenberg-drc,2,staggers down,
+nj-schraalenberg-drc,3,staggers up,good column separation
+nj-schraalenberg-drc,4,staggers down,good column separation
+nj-schraalenberg-drc,5,name order erros,parents and child run together
+nj-schraalenberg-drc,6,ocr errors,good column separation
+nj-schraalenberg-drc,7,name order erros,good column separation
+nj-schraalenberg-drc,8,some row offsets,good column separation
+nj-schraalenberg-drc,9,staggers up,good column separation
+nj-schraalenberg-drc,10,staggers down,good column separation
+nj-walpack-drc-3,1,parents and child run together,
+nj-walpack-drc-3,2,some row offsets but very close to good,
+nj-walpack-drc-3,3,basically perfect,columns well separated even though parent and child close on page
+nj-walpack-drc-3,4,no skew,parents and child run together
+nj-walpack-drc-3,5,no skew,parents and child run together
+nj-walpack-drc-3,6,staggers up,date and parents run together
+nj-walpack-drc-3,7,very close,some insertion of extra cells
+nj-walpack-drc-3,8,very close,good column separation but big left offset
+nj-walpack-drc-3,9,parents and child run together,
+nj-walpack-drc-3,10,staggers down,good column separation but big left offset
+nj-walpeck-drc-1,1,child and witness run together,might be bad because top of page in different format
+nj-walpeck-drc-1,2,very close,good column separation but big left offset
+nj-walpeck-drc-1,3,basically perfect,ocr errors and left offset
+nj-walpeck-drc-1,4,parents and child run together,
+nj-walpeck-drc-1,5,close except witnesses split across three columns,
+nj-walpeck-drc-1,5,for some reason it printed 5 twice but the second version is better?,
+nj-walpeck-drc-1,6,parents and child run together,
+nj-walpeck-drc-1,7,parents and child run together,big left offset
+nj-walpeck-drc-1,8,bad,all columns run together
+nj-walpeck-drc-1,9,basically perfect,
+nj-walpeck-drc-1,10,basically perfect,
+nj-walpeck-drc-2,1,bad,all columns run together
+nj-walpeck-drc-2,2,blank; deleted out of pdf now,
+nj-walpeck-drc-2,3,parents and child run together,
+nj-walpeck-drc-2,3,run for a second time? basically perfect,
+nj-walpeck-drc-2,4,parents and child run together,
+nj-walpeck-drc-2,5,completely undetected,
+nj-walpeck-drc-2,6,name order erros,some row offsets
+nj-walpeck-drc-2,7,run twice? basically perfect both times,sponsors split across two columns
+nj-walpeck-drc-2,8,basically perfect,
+nj-walpeck-drc-2,9,completely undetected,
+nj-walpeck-drc-2,10,basically perfect,
+nj-walpeck-4,1,parents and child run together,
+nj-walpeck-4,2,basically perfect,no sponsors on page
+nj-walpeck-4,3,basically perfect,no sponsors on page
+nj-walpeck-4,4,bad; run twice and both bad,all columns run together
+nj-walpeck-4,5,basically perfect,
+nj-walpeck-4,6,basically perfect,ocr errors
+nj-walpeck-4,7,basically perfect,no sponsors on page
+nj-walpeck-4,8,basically perfect,no sponsors on page
+nj-walpeck-4,9,basically perfect,no sponsors on page
+nj-walpeck-4,10,parents and child run together,sponsors split across two columns
+nj-walpeck-drc-5,1,parents and child run together,page has a big header
+nj-walpeck-drc-5,2,basically perfect,
+nj-walpeck-drc-5,3,image of a manuscript; deleted out of pdf,
+nj-walpeck-drc-5,4,basically perfect; run twice,
+nj-walpeck-drc-5,5,parents and child run together; name order errors,
+nj-walpeck-drc-5,6,didn't detect whole page; parents and child run together,
+nj-walpeck-drc-5,7,bad,all columns run together
+nj-walpeck-drc-5,8,name order erros,good column separation
+nj-walpeck-drc-5,9,parents and child run together,
+nj-walpeck-drc-5,10,name order erros,good column separation
+ny-oysterbay-drc,1,staggers up,good column separation
+ny-oysterbay-drc,2,staggers up,good column separation
+ny-oysterbay-drc,3,staggers up,name order erros
+ny-oysterbay-drc,4,staggers up,name order erros
+ny-oysterbay-drc,5,staggers up,name order erros
+ny-oysterbay-drc,6,parents and child run together,"no name order errors, but sponsors split across three colums"
+ny-oysterbay-drc,7,staggers down,good column separation
+ny-oysterbay-drc,8,staggers down,good column separation; sponsors split across two columns
+ny-oysterbay-drc,9,parents and child run together,
+ny-oysterbay-drc,10,staggers up,good column separation
+ny-jamaica-drc,1,staggers up,good column separation
+ny-jamaica-drc,2,blank; deleted out of pdf now,
+ny-jamaica-drc,3,staggers up,name order erros
+ny-jamaica-drc,4,blank; deleted out of pdf now,
+ny-jamaica-drc,5,parents and child run together,
+ny-jamaica-drc,6,staggers down,
+ny-jamaica-drc,7,blank; deleted out of pdf now,
+ny-jamaica-drc,8,staggers up,good column separation
+ny-jamaica-drc,9,staggers down,good column separation
+ny-jamaica-drc,10,parents and child run together,
+ny-schenectady-drc-3,1,staggers up,name order erros
+ny-schenectady-drc-3,2,staggers down,good column separation
+ny-schenectady-drc-3,3,staggers down,good column separation
+ny-schenectady-drc-3,4,basically perfect,
+ny-schenectady-drc-3,5,staggers down,good column separation
+ny-schenectady-drc-3,6,staggers down,
+ny-schenectady-drc-3,7,staggers down,
+ny-schenectady-drc-3,8,basically perfect on top; garbled on bottom,
+ny-schenectady-drc-3,9,parents and witnesses run together,
+ny-schenectady-drc-3,10,staggers down,
+ny-schenectady-drc-1,1,completely undetected,
+ny-schenectady-drc-1,2,completely undetected,
+ny-schenectady-drc-1,3,completely undetected,
+ny-schenectady-drc-1,4,completely undetected,
+ny-schenectady-drc-1,5,staggers down,good column separation
+ny-schenectady-drc-1,6,completely undetected,
+ny-schenectady-drc-1,7,completely undetected,
+ny-schenectady-drc-1,8,completely undetected,
+ny-schenectady-drc-1,9,completely undetected,
+ny-schenectady-drc-1,10,completely undetected,
