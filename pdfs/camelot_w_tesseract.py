@@ -16,21 +16,32 @@ import cv2
 import pandas as pd
 import scipy.ndimage
 from collections import Counter
-# import os
+# import string
+import os
 
-slug = "ny-schenectady-drc-3"
+# slug = "ny-schenectady-drc-3"
 
-file_path = 'type_2/trimmed_pdfs/' + slug + '.pdf'
+# file_path = 'type_2/trimmed_pdfs/' + slug + '.pdf'
 
 # when there's white space between the month and the day, 
 # add an extra expected column
-expected_cols = 5
+# expected_cols = 4
 
-# files = []
-# this_dir = "type_2/trimmed_pdfs"
-# for x in os.listdir(this_dir):
-#     if x.endswith(".pdf"):
-#         files.append(x)
+# -c tessedit_char_whitelist=-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ tessedit_char_blacklist=Äòûúùîò¬ß¶§√°¢
+# tesseract_config = "--psm 4 preserve_interword_spaces=1 -c tessedit_char_whitelist=-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+blacklist = "Äòûúùîò¬ß¶§√°¢"
+whitelist = "-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ. "
+tesseract_config = '--psm 4 --user-words "/Users/mk192787/opt/miniconda3/envs/spyder-env/share/tessdata/eng.user-words" -c preserve_interword_spaces=1 -c tessedit_char_whitelist="{}" -c tessedit_char_blacklist="{}"'.format(whitelist, blacklist)
+
+files = []
+this_dir = "type_2/trimmed_pdfs"
+
+for subdir, dirs, items in os.walk(this_dir):
+    for file in items:
+        # print(subdir, dirs, file)
+        if file.endswith(".pdf"):
+            item = {"filename": file, "expected_cols": subdir[-1]}
+            files.append(item)
 
 def convert_pdf(pdf_doc, dpi):
     images = []
@@ -75,93 +86,98 @@ def correct_skew(image, delta=1, limit=5):
 
     return best_angle, rotated
 
-# for f in files:
-#     print(f)
-#     file_path = this_dir + "/" + f
-#     slug = f.replace(".pdf","")
+for f in files:
+    print(f['filename'], f['expected_cols'])
+    file_path = this_dir + "/" + str(f['expected_cols']) + "/" + f['filename']
+    slug = f['filename'].replace(".pdf","")
+    expected_cols = int(f['expected_cols'])
     
-out_df = pd.DataFrame()
+    out_df = pd.DataFrame()
 
-# get temporary directory of Image objects
-with tempfile.TemporaryDirectory() as path:
-    print("Converting pages . . . ")
-    images = convert_pdf(file_path, 300)
-    # run process on each image
-    n = 1
-    for i in images[:10]:
-        print(f'Processing page {n}...')
-
-        try:
-            # correct the image skew
-            im = correct_skew(i)[1]
-            # create a grayscale image
-            gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
-            # lightly blur the image to reduce noise. Mess with the values in the tuple to change results
-            blur = cv2.GaussianBlur(gray, (7, 7), 1)
-            # run an adaptive threshold. Messing with the last number can change the results a lot
-            thresh = cv2.adaptiveThreshold(blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 21, 14)
-
-            # ocr the corrected image
-            pdf = pytesseract.image_to_pdf_or_hocr(thresh, extension='pdf', config="--psm 4")
-            
-            with open('temp.pdf', 'w+b') as f:
-                f.write(pdf)
-            
+    # get temporary directory of Image objects
+    with tempfile.TemporaryDirectory() as path:
+        print("Converting pages . . . ")
+        images = convert_pdf(file_path, 300)
+        # run process on each image
+        n = 1
+        for i in images[:10]:
+            print(f'Processing page {n}...')
+    
             try:
-                tables = camelot.read_pdf('temp.pdf', flavor="stream", edge_tol=900, row_tol=10, pages="1-end")
-                print("Total tables extracted:", tables.n)
-                
-                for table in tables:
-                    
-                    coords = []
-                    cells = table.cells
-                    
-                    # just get the coords for the first row, all rows have the
-                    # same coords
-                    row = cells[0]
-                    for item in row:
-                        cell = str(item).replace('<Cell ',"").replace('>',"").replace('x1=','').replace('x2=','').replace('y1=','').replace('y2=','')
-                        splitcell = cell.split()
-                        splitcell.append(n)
-                        print("cell", splitcell)
-                        coords.append(splitcell)
-                    
-                    # get just the bottom left x coordinates from each cell in
-                    # the first row, check that they're unique, and put back in
-                    # a list to use as a header row for table.df
-                    coordx = [item[0] for item in coords]
-                    coordl = set(coordx)
-                    coord_list = list(coordl)
-
-                    # make a dict of the contents of the page table and give
-                    # it a header with the x coordinates of each column
-                    table.df = table.df.replace('', np.nan)
-                    coord_list = [str(a) for a in coord_list]
-                    table.df.columns = coord_list
-                    coord_dict = table.df.count().to_dict()
-                    
-                    # soort the dict to find the most n frequent x coordinates
-                    # where n is the number of expected columns
-                    k = Counter(coord_dict)
-                    keep_coords = k.most_common(expected_cols)
-                    keep = {tup[0]: tup[1:] for tup in keep_coords}
-                    
-                    # keep only the n most frequent x coodinates
-                    sorted_keys = sorted(list(keep.keys()), key=float)
-                    
-                    # use the n most frequent coordinates to re-identify tables
-                    # with the expected number of columns
-                    newtables = camelot.read_pdf('temp.pdf', flavor='stream', columns=[','.join(sorted_keys)])
-                    for nt in newtables:
-                        nt.df['pdf_pg'] = n
-                        out_df = pd.concat([out_df, nt.df])
-            except:
-                pass
-        except ValueError:
-            print(f"Page {n} can't be processed.")
-        n += 1
-        
-    # print(df)
+                # print("Correcting page image...")
+                # correct the image skew
+                im = correct_skew(i)[1]
+                # create a grayscale image
+                gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
+                # lightly blur the image to reduce noise. Mess with the values in the tuple to change results
+                blur = cv2.GaussianBlur(gray, (7, 7), 1)
+                # run an adaptive threshold. Messing with the last number can change the results a lot
+                thresh = cv2.adaptiveThreshold(blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 21, 14)
     
-    out_df = out_df.replace(r'\n',' ', regex=True) 
-    out_df.to_csv("camelot/trial-" + slug + "-camelot-imgcorrect.csv")
+                # ocr the corrected image
+                # nld for Dutch, deu for German
+                pdf = pytesseract.image_to_pdf_or_hocr(thresh, extension='pdf', config=tesseract_config, lang="nld+eng")
+                
+                with open('temp.pdf', 'w+b') as f:
+                    f.write(pdf)
+                
+                try:
+                    # print("Extracting tables...")
+                    tables = camelot.read_pdf('temp.pdf', flavor="stream", edge_tol=900, row_tol=10, pages="1-end")
+                    # print("Total tables extracted:", tables.n)
+                    
+                    for table in tables:
+                        # print("Getting each table...")
+                        coords = []
+                        cells = table.cells
+                        
+                        # just get the coords for the first row, all rows have the
+                        # same coords
+                        row = cells[0]
+                        for item in row:
+                            cell = str(item).replace('<Cell ',"").replace('>',"").replace('x1=','').replace('x2=','').replace('y1=','').replace('y2=','')
+                            splitcell = cell.split()
+                            splitcell.append(n)
+                            # print("cell", splitcell)
+                            coords.append(splitcell)
+                        
+                        # get just the bottom left x coordinates from each cell in
+                        # the first row, check that they're unique, and put back in
+                        # a list to use as a header row for table.df
+                        coordx = [item[0] for item in coords]
+                        coordl = set(coordx)
+                        coord_list = list(coordl)
+    
+                        # make a dict of the contents of the page table and give
+                        # it a header with the x coordinates of each column
+                        table.df = table.df.replace('', np.nan)
+                        coord_list = [str(a) for a in coord_list]
+                        table.df.columns = coord_list
+                        coord_dict = table.df.count().to_dict()
+                        
+                        # soort the dict to find the most n frequent x coordinates
+                        # where n is the number of expected columns
+                        k = Counter(coord_dict)
+                        # print(expected_cols)
+                        keep_coords = k.most_common(expected_cols)
+                        keep = {tup[0]: tup[1:] for tup in keep_coords}
+                        
+                        # keep only the n most frequent x coodinates
+                        sorted_keys = sorted(list(keep.keys()), key=float)
+                        
+                        # use the n most frequent coordinates to re-identify tables
+                        # with the expected number of columns
+                        newtables = camelot.read_pdf('temp.pdf', flavor='stream', columns=[','.join(sorted_keys)])
+                        for nt in newtables:
+                            nt.df['pdf_pg'] = n
+                            out_df = pd.concat([out_df, nt.df])
+                except:
+                    pass
+            except ValueError:
+                print(f"Page {n} can't be processed.")
+            n += 1
+            
+        # print(df)
+        
+        out_df = out_df.replace(r'\n',' ', regex=True) 
+        out_df.to_csv("camelot/nld-" + slug + ".csv")
