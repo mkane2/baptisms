@@ -15,7 +15,7 @@ import numpy as np
 import cv2
 import pandas as pd
 import scipy.ndimage
-from collections import Counter
+# from collections import Counter
 # import string
 import os
 
@@ -27,15 +27,25 @@ import os
 # add an extra expected column
 # expected_cols = 4
 
-# -c tessedit_char_whitelist=-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ tessedit_char_blacklist=Äòûúùîò¬ß¶§√°¢
-# tesseract_config = "--psm 4 preserve_interword_spaces=1 -c tessedit_char_whitelist=-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+# --user-words file seems like it should be able to live anywhere but pytesseract
+# docs have it in /tessdata as eng.user-words
+# preserve_interword_whitespace should preserve spaces between words when a 
+# whitelist is passed but doesn't actually seem to do that; whitespace needs to
+# be included in the whitelist.
+# blacklist shouldn't technically be necessary but whitelist only was still
+# outputting diacritics and special characters
+# "/Users/mk192787/opt/miniconda3/envs/spyder-env/share/tessdata/eng.user-patterns"
+# "/Users/mk192787/opt/miniconda3/envs/spyder-env/share/tessdata/eng.user-words"
+# --user-words eng.user-words 
 blacklist = "Äòûúùîò¬ß¶§√°¢"
-whitelist = "-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ. "
-tesseract_config = '--psm 4 --user-words "/Users/mk192787/opt/miniconda3/envs/spyder-env/share/tessdata/eng.user-words" -c preserve_interword_spaces=1 -c tessedit_char_whitelist="{}" -c tessedit_char_blacklist="{}"'.format(whitelist, blacklist)
+whitelist = "-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,. "
+tesseract_config = '--psm 4 bazaar -c preserve_interword_spaces=1 -c tessedit_char_whitelist="{}" -c tessedit_char_blacklist="{}"'.format(whitelist, blacklist)
+layout_dict = {'detect_vertical': True, 'word_margin': 0.9}
 
 files = []
 this_dir = "type_2/trimmed_pdfs"
 
+# expects pdfs to be structed in numbered subfolders, numbered by expected_cols
 for subdir, dirs, items in os.walk(this_dir):
     for file in items:
         # print(subdir, dirs, file)
@@ -59,6 +69,30 @@ def convert_pdf(pdf_doc, dpi):
 
 def sort_coords(value):
     return sorted(value.split(","), key=float)
+
+# group the input list so that each element has no more than maxgap
+# between first and last
+def cluster(data, maxgap):
+    data = sorted(data)
+    groups = [[data[0]]]
+    for x in data[1:]:
+        if abs(x - groups[-1][-1]) <= maxgap:
+            groups[-1].append(x)
+        else:
+            groups.append([x])
+    groups = sorted(groups, key=len)
+    print(data)
+    print(groups)
+    return groups
+
+# get the n largest subgroups in a clustered list
+def find_cols(clustered, expected_cols):
+    cols = sorted(clustered, key=len)[-expected_cols:]
+    minlist = sorted([item[0] for item in cols])
+    # remove first item because we only want locations of separators between
+    # columns, not the location of the start of the first column
+    minlist.pop(0)
+    return minlist
 
 def correct_skew(image, delta=1, limit=5):
     def determine_score(arr, angle):
@@ -100,11 +134,11 @@ for f in files:
         images = convert_pdf(file_path, 300)
         # run process on each image
         n = 1
-        for i in images[:10]:
+        for i in images:
             print(f'Processing page {n}...')
     
             try:
-                # print("Correcting page image...")
+                ## correct the image
                 # correct the image skew
                 im = correct_skew(i)[1]
                 # create a grayscale image
@@ -112,7 +146,26 @@ for f in files:
                 # lightly blur the image to reduce noise. Mess with the values in the tuple to change results
                 blur = cv2.GaussianBlur(gray, (7, 7), 1)
                 # run an adaptive threshold. Messing with the last number can change the results a lot
-                thresh = cv2.adaptiveThreshold(blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 21, 14)
+                thresh = cv2.adaptiveThreshold(blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 21, 14) # even number for 2nd number for adaptive threshholding for sampling area
+                
+                ## get the bounding boxes of each cluster
+                # set kernel size - fudge numbers to capture bigger or smaller regions
+                rect_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (18,18))
+                # dilate image - create large blobs of text to detect clusters
+                dilation = cv2.dilate(thresh, rect_kernel, iterations=3)
+                # standard contouring method
+                contours = cv2.findContours(dilation, cv2.RETR_LIST,
+                                            cv2.CHAIN_APPROX_NONE)[0]
+                # get bboxes for all contours
+                bbox = [cv2.boundingRect(c) for c in contours]
+                # extract x coordinates only
+                x_coords = [c[0] for c in bbox]
+                
+                # cluster together the x coords so that the first and last of 
+                # each group have only n between them.  Small n for many smaller
+                # groups, big n for fewer bigger groups
+                clustered = cluster(x_coords,50)
+                sorted_keys = find_cols(clustered, int(expected_cols))
     
                 # ocr the corrected image
                 # nld for Dutch, deu for German
@@ -123,61 +176,32 @@ for f in files:
                 
                 try:
                     # print("Extracting tables...")
-                    tables = camelot.read_pdf('temp.pdf', flavor="stream", edge_tol=900, row_tol=10, pages="1-end")
-                    # print("Total tables extracted:", tables.n)
                     
-                    for table in tables:
-                        # print("Getting each table...")
-                        coords = []
-                        cells = table.cells
-                        
-                        # just get the coords for the first row, all rows have the
-                        # same coords
-                        row = cells[0]
-                        for item in row:
-                            cell = str(item).replace('<Cell ',"").replace('>',"").replace('x1=','').replace('x2=','').replace('y1=','').replace('y2=','')
-                            splitcell = cell.split()
-                            splitcell.append(n)
-                            # print("cell", splitcell)
-                            coords.append(splitcell)
-                        
-                        # get just the bottom left x coordinates from each cell in
-                        # the first row, check that they're unique, and put back in
-                        # a list to use as a header row for table.df
-                        coordx = [item[0] for item in coords]
-                        coordl = set(coordx)
-                        coord_list = list(coordl)
-    
-                        # make a dict of the contents of the page table and give
-                        # it a header with the x coordinates of each column
-                        table.df = table.df.replace('', np.nan)
-                        coord_list = [str(a) for a in coord_list]
-                        table.df.columns = coord_list
-                        coord_dict = table.df.count().to_dict()
-                        
-                        # soort the dict to find the most n frequent x coordinates
-                        # where n is the number of expected columns
-                        k = Counter(coord_dict)
-                        # print(expected_cols)
-                        keep_coords = k.most_common(expected_cols)
-                        keep = {tup[0]: tup[1:] for tup in keep_coords}
-                        
-                        # keep only the n most frequent x coodinates
-                        sorted_keys = sorted(list(keep.keys()), key=float)
-                        
-                        # use the n most frequent coordinates to re-identify tables
-                        # with the expected number of columns
-                        newtables = camelot.read_pdf('temp.pdf', flavor='stream', columns=[','.join(sorted_keys)])
-                        for nt in newtables:
-                            nt.df['pdf_pg'] = n
-                            out_df = pd.concat([out_df, nt.df])
+                    # print(sorted_keys, type(sorted_keys))
+                    # print(','.join(str(x) for x in sorted_keys))
+                    sorted_keys = ','.join(str(x) for x in sorted_keys)
+                    # use the n most frequent coordinates to re-identify tables
+                    # with the expected number of columns
+                    # split_text=True, 
+                    newtables = camelot.read_pdf('temp.pdf', flavor="stream", edge_tol=900, row_tol=10, pages="1-end", columns=[sorted_keys])
+                    # print("Total tables extracted:", newtables.n)
+
+                    for nt in newtables:
+                        # print(nt.df)
+                        nt.df['pdf_pg'] = n
+                        out_df = pd.concat([out_df, nt.df])
                 except:
+                    print(f"Tables for page {n} can't be processed.")
+                    insert_row = {1: "table error", "pdf_pg": n}
+                    out_df = pd.concat([out_df, pd.DataFrame([insert_row])])
                     pass
             except ValueError:
                 print(f"Page {n} can't be processed.")
+                insert_row = {1: "page error", "pdf_pg": n}
+                out_df = pd.concat([out_df, pd.DataFrame([insert_row])])
             n += 1
-            
+
         # print(df)
         
         out_df = out_df.replace(r'\n',' ', regex=True) 
-        out_df.to_csv("camelot/nld-" + slug + ".csv")
+        out_df.to_csv("camelot/cols-" + slug + ".csv")
