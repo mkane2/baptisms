@@ -40,17 +40,17 @@ import os
 blacklist = "Äòûúùîò¬ß¶§√°¢"
 whitelist = "-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,. "
 tesseract_config = '--psm 4 bazaar -c preserve_interword_spaces=1 -c tessedit_char_whitelist="{}" -c tessedit_char_blacklist="{}"'.format(whitelist, blacklist)
-layout_dict = {'detect_vertical': True, 'word_margin': 0.9}
+layout_dict = {'boxes_flow': 1.0}
 
 files = []
-this_dir = "type_2/trimmed_pdfs"
+this_dir = "../../pdfs/type_2/trimmed_pdfs/"
 
 # expects pdfs to be structed in numbered subfolders, numbered by expected_cols
 for subdir, dirs, items in os.walk(this_dir):
     for file in items:
         # print(subdir, dirs, file)
         if file.endswith(".pdf"):
-            item = {"filename": file, "expected_cols": subdir[-1]}
+            item = {"filename": file, "expected_cols": 4}
             files.append(item)
 
 def convert_pdf(pdf_doc, dpi):
@@ -120,7 +120,7 @@ def correct_skew(image, delta=1, limit=5):
 
     return best_angle, rotated
 
-for f in files:
+for f in files[:10]:
     print(f['filename'], f['expected_cols'])
     file_path = this_dir + "/" + str(f['expected_cols']) + "/" + f['filename']
     slug = f['filename'].replace(".pdf","")
@@ -134,7 +134,7 @@ for f in files:
         images = convert_pdf(file_path, 300)
         # run process on each image
         n = 1
-        for i in images:
+        for i in images[:10]:
             print(f'Processing page {n}...')
     
             try:
@@ -143,16 +143,20 @@ for f in files:
                 im = correct_skew(i)[1]
                 # create a grayscale image
                 gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
-                # lightly blur the image to reduce noise. Mess with the values in the tuple to change results
+                # lightly blur the image to reduce noise. Mess with the values 
+                # in the tuple to change results
                 blur = cv2.GaussianBlur(gray, (7, 7), 1)
-                # run an adaptive threshold. Messing with the last number can change the results a lot
-                thresh = cv2.adaptiveThreshold(blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 21, 14) # even number for 2nd number for adaptive threshholding for sampling area
+                # run an adaptive threshold. Messing with the last number can 
+                # change the results a lot
+                # even number for 2nd number for adaptive threshholding for 
+                # sampling area
+                thresh = cv2.adaptiveThreshold(blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 21, 14)
                 
                 ## get the bounding boxes of each cluster
                 # set kernel size - fudge numbers to capture bigger or smaller regions
                 rect_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (18,18))
                 # dilate image - create large blobs of text to detect clusters
-                dilation = cv2.dilate(thresh, rect_kernel, iterations=3)
+                dilation = cv2.dilate(thresh, rect_kernel, iterations=2)
                 # standard contouring method
                 contours = cv2.findContours(dilation, cv2.RETR_LIST,
                                             cv2.CHAIN_APPROX_NONE)[0]
@@ -183,7 +187,7 @@ for f in files:
                     # use the n most frequent coordinates to re-identify tables
                     # with the expected number of columns
                     # split_text=True, 
-                    newtables = camelot.read_pdf('temp.pdf', flavor="stream", edge_tol=900, row_tol=10, pages="1-end", columns=[sorted_keys])
+                    newtables = camelot.read_pdf('temp.pdf', flavor="stream", edge_tol=900, row_tol=10, pages="1-end", columns=[sorted_keys], layout_kwargs=layout_dict)
                     # print("Total tables extracted:", newtables.n)
 
                     for nt in newtables:
@@ -203,5 +207,5 @@ for f in files:
 
         # print(df)
         
-        out_df = out_df.replace(r'\n',' ', regex=True) 
-        out_df.to_csv("camelot/cols-" + slug + ".csv")
+        # out_df = out_df.replace(r'\n',' ', regex=True) 
+        out_df.to_csv("camelot/boxesflowvert-" + slug + ".csv")
