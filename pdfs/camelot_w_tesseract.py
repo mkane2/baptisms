@@ -71,7 +71,7 @@ def sort_coords(value):
     return sorted(value.split(","), key=float)
 
 # group the input list so that each element has no more than maxgap
-# between first and last
+# between each element
 def cluster(data, maxgap):
     data = sorted(data)
     groups = [[data[0]]]
