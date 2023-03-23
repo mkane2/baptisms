@@ -48,7 +48,7 @@ with tempfile.TemporaryDirectory() as path:
         # print("Page size ", str(images[n].shape[0]))
         gray = cv2.cvtColor(i, cv2.COLOR_BGR2GRAY)
         # threshing to improve contouring - need binary image
-        pg_width = 500 #images[n].shape[0]
+        # pg_width = 500 #images[n].shape[0]
         gray = cv2.threshold(gray, 0, 255,
                               cv2.THRESH_OTSU | cv2.THRESH_BINARY_INV)[1]
         # set kernel size - fudge numbers to capture bigger or smaller regions
