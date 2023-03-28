@@ -22,9 +22,14 @@ import os
 # slug = "ny-schenectady-drc-3"
 # file_path = 'type_2/trimmed_pdfs/' + slug + '.pdf'
 
-# when there's white space between the month and the day, 
-# add an extra expected column
-# expected_cols = 4
+# pdfs to be processed should be run through remove_blanks to remove blank pagess,
+# plus hand check for blank pages. pdfs should be structured into type folders:
+# tye_1 for weird, bad, and irregular
+# type_2 for columnized with whitespace -> further separated into subfolders by
+# expected number of columns
+# type_3 for prose block formatting. type_3_ditto for type_3 with hanging dittos
+# or hanging indent; run type_3 through type3ocr with psm 6.  pages with prose 
+# blocks in two columns can be run through type3ocr at psm 1.
 
 # --user-words file seems like it should be able to live anywhere but pytesseract
 # docs have it in /tessdata as eng.user-words

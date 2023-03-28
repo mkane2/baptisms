@@ -19,7 +19,7 @@ import scipy.ndimage
 import os
 
 # psm 6 for type 3 with hanging indent/hanging ditto marks
-# psm 4 for neatly separated, whitespaced columns
+# psm 4 in camelot_w_tesseract for neatly separated, whitespaced columns
 # psm 1 for 2 separated columns
 # blacklist out garbage characters that don't occur
 # whitelist expected characters; include a whitespace in the list as well as
